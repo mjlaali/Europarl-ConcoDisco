@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>9.</en>
+    <fr>9.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Movement of persons with a long-stay visa (</en>
+    <fr>Circulation des personnes titulaires d'un visa de long séjour (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="47" docOffset="2">
+    <en>Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="67">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="64" id="107" language="PT" name="Carlos Coelho">
+    <ParallelChunk annotation_id="64" docOffset="3">
+      <en>Mr President, this is a short statement to remind you that the Community Visa Code enters into force on 5 April - that is, next month - and, <Alignment alignment="262" annotation_id="205">
+          <DiscourseConnective annotation_id="205" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, it is essential that this new regulation enters into force before that date.</en>
+      <fr>Madame la Présidente, je voudrais intervenir brièvement <DiscourseConnective annotation_id="137">pour</DiscourseConnective> vous rappeler <DiscourseConnective annotation_id="156">que</DiscourseConnective> le code communautaire des visas entre <DiscourseConnective annotation_id="198">en</DiscourseConnective> vigueur le 5 avril - c'est-à-dire le mois prochain - <DiscourseConnective annotation_id="254">et</DiscourseConnective> que, <Alignment alignment="205" annotation_id="262">
+          <DiscourseConnective annotation_id="262" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment>, il est essentiel <DiscourseConnective annotation_id="289">que</DiscourseConnective> cette nouvelle réglementation soit effective <DiscourseConnective annotation_id="338">avant</DiscourseConnective> cette date.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="293" docOffset="4">
+      <en>In the absence of the Council, let the record reflect that these are the wishes of Parliament <Alignment alignment="473" annotation_id="387">
+          <DiscourseConnective annotation_id="387" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment>, <Alignment alignment="477" annotation_id="391">
+          <DiscourseConnective annotation_id="391" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I hope, it will make the implementation of my report possible.</en>
+      <fr>Ce sont les souhaits du Parlement et, <DiscourseConnective annotation_id="394">en</DiscourseConnective> l'absence du Conseil, je voudrais <DiscourseConnective annotation_id="431">qu'</DiscourseConnective>ils soient consignés au procès-verbal, <Alignment alignment="0" annotation_id="473">
+          <DiscourseConnective annotation_id="473" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment>, <Alignment alignment="233" annotation_id="477">
+          <DiscourseConnective annotation_id="477" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je l'espère, cela peut permettre la mise en œuvre de mon rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="457" id="108" name="President">
+    <ParallelChunk annotation_id="457" docOffset="5">
+      <en>The absence of the Council is noted and is unfortunate.</en>
+      <fr>L'absence du Conseil est notée <DiscourseConnective annotation_id="580">et</DiscourseConnective> est regrettable.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

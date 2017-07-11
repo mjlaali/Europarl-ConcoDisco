@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Action Plan on Urban Mobility (debate)</en>
+    <fr>Un plan d'action sur la mobilité urbaine (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="39" id="478" name="President">
+    <ParallelChunk annotation_id="39" docOffset="1">
+      <en>The next item is the report by Mr Savary, on behalf of the Committee on Transport and Tourism, on an action plan on urban mobility.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Savary, au nom de la commission des transports <DiscourseConnective annotation_id="137">et</DiscourseConnective> du tourisme, sur un plan d'action sur la mobilité urbaine.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="171" id="479" language="FR" name="Gilles Savary">
+    <ParallelChunk annotation_id="171" docOffset="2">
+      <en>Mr President, Commissioner, thank you.</en>
+      <fr>rapporteur. - Monsieur le Président, Monsieur le Commissaire, merci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="210" docOffset="3">
+      <en>It is a somewhat unprecedented exercise in style that the European Parliament is carrying out on this report <Alignment alignment="7486" annotation_id="319">
+          <DiscourseConnective annotation_id="319" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment>, I would remind you, the issue of urban mobility was first raised by the transport commissioner, Jacques Barrot, over two years ago now, <Alignment alignment="37169" annotation_id="462">
+          <DiscourseConnective annotation_id="462" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it resulted in a Green Paper by the European Commission, which submitted its conclusions to us in spring 2007. The latter were addressed in a report - an own-initiative report - by our Parliament, drafted by my fellow Member, Mr Rack, who is here in the Chamber.</en>
+      <fr>C'est un exercice de style un peu inédit auquel se livre le Parlement européen sur ce rapport <Alignment alignment="27907" annotation_id="362">
+          <DiscourseConnective annotation_id="362" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment>, je vous le rappelle, la question de la mobilité urbaine a été initiée par le commissaire aux transports, Jacques Barrot, il y a <DiscourseConnective annotation_id="499">maintenant</DiscourseConnective> plus de deux ans, <Alignment alignment="15085" annotation_id="528">
+          <DiscourseConnective annotation_id="528" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle s'est traduite par un livre vert de la Commission européenne qui nous a livré ses conclusions au printemps 2007, avec un rapport de notre Parlement - un rapport d'initiative - sous la signature de mon collègue Reinhard Rack, ici présent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="729" docOffset="4">
+      <en>The European institutional system stipulates that a Green Paper must be followed by a White Paper, <Alignment alignment="4405" annotation_id="828">
+          <DiscourseConnective annotation_id="828" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, in the case in point, it was European Commission proposals for action plans on urban mobility that were on the table.</en>
+      <fr>La mécanique institutionnelle européenne veut <DiscourseConnective annotation_id="820">que</DiscourseConnective>, à la suite d'un livre vert, il y ait un livre blanc <Alignment alignment="828" annotation_id="877">
+          <DiscourseConnective annotation_id="877" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, en l'occurrence, il s'agissait de propositions de plans d'action <DiscourseConnective annotation_id="946">pour</DiscourseConnective> la mobilité urbaine de la Commission européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="951" docOffset="5">
+      <en>I must thank Mr Tajani, who is here, for advising me in December that it would not be politically possible for the European Commission to submit a proposal there and <DiscourseConnective annotation_id="1117" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>.</en>
+      <fr>Je dois rendre grâce au commissaire Tajani, ici présent, de m'avoir averti au mois de décembre <DiscourseConnective annotation_id="1095">qu'</DiscourseConnective>il ne serait pas possible politiquement, <DiscourseConnective annotation_id="1139">à</DiscourseConnective> la Commission européenne, de faire une proposition rapide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1123" docOffset="6">
+      <en>It is understandable: for reasons of their own, a number of States have reservations about this <DiscourseConnective annotation_id="1219" sense="Contingency.Cause.Reason">now that</DiscourseConnective> the European elections are approaching, <Alignment alignment="1367" annotation_id="1268">
+          <DiscourseConnective annotation_id="1268" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> Parliament sought to take up the gauntlet.</en>
+      <fr>On peut le comprendre, un certain nombre d'États y étant réticents <DiscourseConnective annotation_id="1267">pour</DiscourseConnective> des raisons qui leur appartiennent, dans une période qui <DiscourseConnective annotation_id="1329">s'</DiscourseConnective>approche des élections européennes. <Alignment alignment="19911" annotation_id="1367">
+          <DiscourseConnective annotation_id="1367" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> le Parlement a souhaité relever le gant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1315" docOffset="7">
+      <en>I should <DiscourseConnective annotation_id="1324" sense="Expansion.Conjunction">also</DiscourseConnective> like to pay tribute to my fellow Members present here today, from all the political groups - especially the coordinators - and to the Committee on Regional Development, for having supported my proposal, which was to build on the advantage that we had and to say that, <Alignment alignment="46080" annotation_id="1597">
+          <DiscourseConnective annotation_id="1597" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the Commission could no longer take the initiative, we should do.</en>
+      <fr>Et je veux rendre hommage <DiscourseConnective annotation_id="1439">à</DiscourseConnective> l'ensemble de mes collègues ici présents, de tous les groupes politiques - <DiscourseConnective annotation_id="1516">en particulier</DiscourseConnective> les coordinateurs -, <DiscourseConnective annotation_id="1552">ainsi</DiscourseConnective> qu'à la commission du développement régional, <DiscourseConnective annotation_id="1604">pour</DiscourseConnective> avoir suivi ma proposition, qui était de pousser l'avantage <DiscourseConnective annotation_id="1669">et</DiscourseConnective> de dire " <Alignment alignment="1597" annotation_id="1682">
+          <DiscourseConnective annotation_id="1682" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> la Commission ne peut plus être à l'initiative, eh bien soyons à l'initiative ".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1669" docOffset="8">
+      <en>What we are going to propose is somewhat unprecedented.</en>
+      <fr>Et ce que nous allons proposer est quelque chose d'un peu inédit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1725" docOffset="9">
+      <en>I do not know whether a precedent has been set, here in this House.</en>
+      <fr>Je ne sais pas <DiscourseConnective annotation_id="1852">s'</DiscourseConnective>il y a un précédent, ici dans cette maison.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1793" docOffset="10">
+      <en>We are going to propose to the Commission the action plan that it should have proposed to us.</en>
+      <fr>Nous allons proposer <DiscourseConnective annotation_id="1919">à</DiscourseConnective> la Commission le plan d'action <DiscourseConnective annotation_id="1952">qu'</DiscourseConnective>elle aurait dû nous proposer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1887" docOffset="11">
+      <en>Naturally, no legal openings are to be expected from an own-initiative report such as this.</en>
+      <fr>Naturellement, il n'y a aucun débouché juridique <DiscourseConnective annotation_id="2034">à</DiscourseConnective> attendre d'un tel rapport d'initiative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1979" docOffset="12">
+      <en>By proposing a very practical action plan, with extremely precise proposals, Parliament, not being the executive, and not being the government of the European Union - that is the Commission's role - can hope for nothing other than to be heard.</en>
+      <fr>Le Parlement proposant un plan d'action très concret, avec des propositions extrêmement précises, alors qu'il n'est pas l'exécutif, alors qu'il n'est pas le gouvernement de l'Union - c'est la Commission qui l'est - ne peut rien espérer d'autre <DiscourseConnective annotation_id="2320">que</DiscourseConnective> d'être entendu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2223" docOffset="13">
+      <en>I must say in passing that, over the last few months, we have obtained the overwhelming support of all the organisations that take an interest in these matters. They include, in particular - I should like to make the point here for the benefit of the few remaining Members who have some reservations about this initiative - local authorities and all the organisations that represent local authorities, including in countries which, today, plead subsidiarity as a way of explaining to us that this action plan is out of the question.</en>
+      <fr>Je dois <DiscourseConnective annotation_id="2348">dire que</DiscourseConnective>, <DiscourseConnective annotation_id="2358">d'ailleurs</DiscourseConnective>, au cours de ces derniers mois, nous avons obtenu le soutien massif de l'ensemble des organisations qui <DiscourseConnective annotation_id="2473">s'</DiscourseConnective>intéressent <DiscourseConnective annotation_id="2487">à</DiscourseConnective> ces questions: <DiscourseConnective annotation_id="2504">en particulier</DiscourseConnective> - je tiens <DiscourseConnective annotation_id="2530">à</DiscourseConnective> le souligner ici <DiscourseConnective annotation_id="2549">pour</DiscourseConnective> les derniers des collègues qui ont quelques réticences par rapport <DiscourseConnective annotation_id="2621">à</DiscourseConnective> cette initiative - celui des pouvoirs locaux, de l'ensemble des organisations représentatives des pouvoirs locaux, y compris de pays qui, aujourd'hui, excipent de la subsidiarité <DiscourseConnective annotation_id="2802">pour</DiscourseConnective> nous expliquer <DiscourseConnective annotation_id="2822">que</DiscourseConnective> ce plan d'action n'est pas envisageable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2756" docOffset="14">
+      <en>I <Alignment alignment="2876" annotation_id="2758">
+          <DiscourseConnective annotation_id="2758" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe that local authorities have recognised that urban mobility is likely to be one of the major challenges of the 21st century.</en>
+      <fr>Je crois <Alignment alignment="12206" annotation_id="2876">
+          <DiscourseConnective annotation_id="2876" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="2881">que</DiscourseConnective> les pouvoirs locaux ont compris <DiscourseConnective annotation_id="2917">que</DiscourseConnective> la mobilité urbaine serait un des grands enjeux du XXIe siècle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2900" docOffset="15">
+      <en>Why?</en>
+      <fr>Pourquoi?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2905" docOffset="16">
+      <en>Because, today, 60% of Europeans live in the urban community.</en>
+      <fr>Eh bien <DiscourseConnective annotation_id="3003">parce qu'</DiscourseConnective>aujourd'hui, il y a 60 % des Européens qui vivent <DiscourseConnective annotation_id="3062">en</DiscourseConnective> milieu urbain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2967" docOffset="17">
+      <en>In 2020, this figure will rise to 80%, <Alignment alignment="3108" annotation_id="3006">
+          <DiscourseConnective annotation_id="3006" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we, the European Union, have a legal basis that makes us jointly responsible, with the Member States and local authorities, for transport policy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3080">En</DiscourseConnective> 2020, il y en aura 80 %, <Alignment alignment="21272" annotation_id="3108">
+          <DiscourseConnective annotation_id="3108" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous avons une base juridique, nous, l'Union européenne, qui nous assigne, comme compétence partagée avec les États membres <DiscourseConnective annotation_id="3235">et</DiscourseConnective> les pouvoirs locaux, la politique des transports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3156" docOffset="18">
+      <en>Would we, as Europeans, give up on having the slightest idea or the slightest initiative in areas in which transport will present the most complicated and, no doubt, the most fundamental problems in the years to come?</en>
+      <fr>Renoncerions-nous, nous les Européens, <DiscourseConnective annotation_id="3327">à</DiscourseConnective> avoir la moindre idée <DiscourseConnective annotation_id="3351">et</DiscourseConnective> la moindre initiative, là où les transports présentent les problématiques les plus compliquées, et <DiscourseConnective annotation_id="3453">sans</DiscourseConnective> doute les plus décisives <DiscourseConnective annotation_id="3483">pour</DiscourseConnective> les années qui viennent?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3374" docOffset="19">
+      <en>We think not, <Alignment alignment="3537" annotation_id="3388">
+          <DiscourseConnective annotation_id="3388" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is why the European Parliament did not want us to keep quiet, did not want us to keep quiet on urban mobility. <DiscourseConnective annotation_id="3508" sense="Expansion.Restatement">Rather</DiscourseConnective>, in some ways it wanted us to use this initiative to call on the Commission to take up this matter again as a priority for the next mandate.</en>
+      <fr>Nous ne le pensons pas, <Alignment alignment="6482" annotation_id="3537">
+          <DiscourseConnective annotation_id="3537" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est la raison pour laquelle le Parlement européen a souhaité que nous ne soyons pas taiseux, que nous ne restions pas taiseux sur la mobilité urbaine, et que, d'une certaine façon, nous demandions <DiscourseConnective annotation_id="3739">à</DiscourseConnective> la Commission, <DiscourseConnective annotation_id="3756">à</DiscourseConnective> travers cette initiative, de reprendre cette thématique <DiscourseConnective annotation_id="3814">comme</DiscourseConnective> une priorité de la prochaine mandature.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3656" docOffset="20">
+      <en>I should like to thank all of the coordinators, <Alignment alignment="10620" annotation_id="3704">
+          <DiscourseConnective annotation_id="3704" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> we have worked in an unprecedented manner, we have worked very much upstream, <Alignment alignment="3999" annotation_id="3788">
+          <DiscourseConnective annotation_id="3788" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the report that has been submitted has achieved very broad support within the Committee on Transport and Tourism.</en>
+      <fr>Je voudrais remercier l'ensemble des coordonnateurs, <Alignment alignment="14175" annotation_id="3913">
+          <DiscourseConnective annotation_id="3913" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> nous avons travaillé d'une façon inédite, nous avons travaillé très en amont, <Alignment alignment="3788" annotation_id="3999">
+          <DiscourseConnective annotation_id="3999" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le rapport qui a été présenté a pu recevoir une majorité très ample au sein de la commission des transports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3906" docOffset="21">
+      <en>I should like to say that this is a report that is based on the principle of subsidiarity.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="4123">dire que</DiscourseConnective> c'est un rapport qui est basé sur le principe de subsidiarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3997" docOffset="22">
+      <en>It is out of the question - yes, I have gone on for too long, <Alignment alignment="11017" annotation_id="4059">
+          <DiscourseConnective annotation_id="4059" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I am sure you will forgive your rapporteur, Mr President - for Europe to think about taking any urban transport-related decisions whatsoever on behalf of local authorities.</en>
+      <fr>Il est hors de question - ah oui, je suis trop long, <Alignment alignment="4306" annotation_id="4248">
+          <DiscourseConnective annotation_id="4248" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> vous ferez grâce au rapporteur, j'en suis sûr, Monsieur le Président - <DiscourseConnective annotation_id="4324">que</DiscourseConnective> l'Europe envisage de décider quoi que ce soit en matière de transports urbains <DiscourseConnective annotation_id="4407">à la place</DiscourseConnective> des pouvoirs locaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4236" docOffset="23">
+      <en>I myself am a local elected representative, <Alignment alignment="16814" annotation_id="4280">
+          <DiscourseConnective annotation_id="4280" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am very committed to the freedom of administration of local authorities, as the campaigns that I have led in this House with, in particular, Mr Piecyk, my colleague from the Committee on Transport and Tourism, have shown.</en>
+      <fr>Je suis moi-même un élu local <Alignment alignment="13344" annotation_id="4469">
+          <DiscourseConnective annotation_id="4469" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis très attaché - pour avoir mené ici des combats <DiscourseConnective annotation_id="4527">notamment</DiscourseConnective> avec Willi Piecyk, mon collègue de la commission des transports - <DiscourseConnective annotation_id="4603">à</DiscourseConnective> la libre administration des collectivités locales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4508" docOffset="24">
+      <en>What I do believe, <DiscourseConnective annotation_id="4527" sense="Comparison.Contrast">however</DiscourseConnective>, is that Europe can incentivise, can improve the exchange of information and best practices, <Alignment alignment="58724" annotation_id="4628">
+          <DiscourseConnective annotation_id="4628" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is the essence of our proposals, which will be outlined shortly.</en>
+      <fr>Mais ce que je crois, c'est <DiscourseConnective annotation_id="4684">que</DiscourseConnective> l'Europe peut être incitative, peut améliorer l'échange d'informations <DiscourseConnective annotation_id="4759">et</DiscourseConnective> de bonnes pratiques, <Alignment alignment="4628" annotation_id="4783">
+          <DiscourseConnective annotation_id="4783" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est tout le sens de nos propositions, <DiscourseConnective annotation_id="4826">que</DiscourseConnective> l'on détaillera tout à l'heure.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4702" id="480" language="FR" name="Antonio Tajani">
+    <ParallelChunk annotation_id="4702" docOffset="25">
+      <en>Mr President, first of all I should like to thank Mr Savary for his work. I should like to thank him for the commitment he has shown to promoting a European policy on transport in major cities, in cities.</en>
+      <fr>vice-président de la Commission. - Monsieur le Président, <DiscourseConnective annotation_id="4920">tout d'abord</DiscourseConnective>, je veux remercier M. Savary <DiscourseConnective annotation_id="4962">pour</DiscourseConnective> son travail, je veux le remercier <DiscourseConnective annotation_id="5001">pour</DiscourseConnective> l'engagement dont il a fait preuve <DiscourseConnective annotation_id="5041">pour</DiscourseConnective> défendre une politique européenne relative aux transports dans les grandes villes, dans les villes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4907" docOffset="26">
+      <en>This is not a secondary issue: <Alignment alignment="57488" annotation_id="4938">
+          <DiscourseConnective annotation_id="4938" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we do indeed want to rise to the challenge of transport in Europe, we have to work in the field of urban transport.</en>
+      <fr>Ce n'est pas une question secondaire: <Alignment alignment="8095" annotation_id="5184">
+          <DiscourseConnective annotation_id="5184" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous voulons <DiscourseConnective annotation_id="5200">effectivement</DiscourseConnective> relever le défi du transport <DiscourseConnective annotation_id="5243">en</DiscourseConnective> Europe, nous devons travailler dans le domaine du transport urbain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5057" docOffset="27">
+      <en>That is why I should like firstly to thank Mr Savary.</en>
+      <fr>Et c'est pour cela que je veux remercier <DiscourseConnective annotation_id="5355">tout d'abord</DiscourseConnective> M. Savary.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5111" docOffset="28">
+      <en>I repeat: thanks to him, we have made progress in the field of urban transport, <Alignment alignment="5469" annotation_id="5191">
+          <DiscourseConnective annotation_id="5191" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> today's report, which will be voted on tomorrow, is a very important message; it is a message that I must listen to, <Alignment alignment="5588" annotation_id="5312">
+          <DiscourseConnective annotation_id="5312" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope to be able to give Mr Savary positive feedback on his commitment during the next term of office.</en>
+      <fr>Je le répète, grâce <DiscourseConnective annotation_id="5399">à</DiscourseConnective> lui, nous avons accompli des progrès <DiscourseConnective annotation_id="5438">en</DiscourseConnective> matière de transport urbain <Alignment alignment="16139" annotation_id="5469">
+          <DiscourseConnective annotation_id="5469" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le rapport d'aujourd'hui, qui sera voté demain, est un signal très important; c'est un signal <DiscourseConnective annotation_id="5566">que</DiscourseConnective> je dois entendre, <Alignment alignment="25332" annotation_id="5588">
+          <DiscourseConnective annotation_id="5588" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère, au cours de la prochaine législature, pouvoir donner à M. Savary une réponse positive par rapport <DiscourseConnective annotation_id="5699">à</DiscourseConnective> son engagement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5420" docOffset="29">
+      <en>I am grateful to him once again for the work he has done on the issue of urban transport.</en>
+      <fr>Je le remercie encore une fois <DiscourseConnective annotation_id="5748">pour</DiscourseConnective> le travail accompli concernant la question des transports dans les grandes villes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5510" docOffset="30">
+      <en>I shall now continue in my mother tongue.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5836">Maintenant</DiscourseConnective>, je vais continuer dans ma langue maternelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5552" docOffset="31">
+      <en>(IT) Mr President, ladies and gentlemen, urban transport clearly forms an integral part of the European Union transport system <Alignment alignment="6045" annotation_id="5679">
+          <DiscourseConnective annotation_id="5679" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the whole system often begins and ends in large urban areas, and crosses plenty of them along the way.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="5930">et</DiscourseConnective> Messieurs, le transport urbain fait clairement partie intégrante du système de transport de l'Union européenne, <Alignment alignment="3926" annotation_id="6045">
+          <DiscourseConnective annotation_id="6045" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> l'ensemble du système commence <DiscourseConnective annotation_id="6084">et</DiscourseConnective> se termine souvent dans de grandes zones urbaines <DiscourseConnective annotation_id="6137">et</DiscourseConnective> en traverse de nombreuses sur les trajets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5788" docOffset="32">
+      <en>For this reason, it is important not only to consider urban mobility from the point of view of city life, but also from the perspective of transport of all kinds, including long-distance transport.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6183">C'est pourquoi</DiscourseConnective> il est essentiel d'examiner la mobilité urbaine <DiscourseConnective annotation_id="6246">non seulement</DiscourseConnective> du point de vue de la vie urbaine, <DiscourseConnective annotation_id="6295">mais</DiscourseConnective> <DiscourseConnective annotation_id="6300">également</DiscourseConnective> en tenant compte de tous les types de transport, y compris le transport à longue distance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5986" docOffset="33">
+      <en>Combating climate change, facilitating trade, guaranteeing energy supplies, responding to citizen's mobility needs, reducing problems associated with congestion and tackling demographic change are all issues of fundamental importance for European policy, <Alignment alignment="6745" annotation_id="6241">
+          <DiscourseConnective annotation_id="6241" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> mobility in urban areas is intimately linked to all of these challenges.</en>
+      <fr>La lutte contre le changement climatique, la facilitation des échanges, la garantie des approvisionnements énergétiques, la satisfaction des besoins des citoyens en matière de mobilité, la réduction des problèmes d'embouteillages <DiscourseConnective annotation_id="6631">et</DiscourseConnective> la gestion des changements démographiques sont toutes des questions fondamentales <DiscourseConnective annotation_id="6716">pour</DiscourseConnective> la politique européenne <Alignment alignment="1333" annotation_id="6745">
+          <DiscourseConnective annotation_id="6745" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la mobilité dans les zones urbaines est étroitement liée <DiscourseConnective annotation_id="6805">à</DiscourseConnective> tous ces défis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6318" docOffset="34">
+      <en>It was for precisely this reason that the Commission presented its Green Paper on Urban Mobility in September 2007, <Alignment alignment="6946" annotation_id="6434">
+          <DiscourseConnective annotation_id="6434" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the consultation that followed the adoption of the Green Paper has demonstrated that there is broad agreement on the fact that the European Union has a role to play in this area.</en>
+      <fr>C'est <DiscourseConnective annotation_id="6829">précisément</DiscourseConnective> <DiscourseConnective annotation_id="6841">pour</DiscourseConnective> cette raison <DiscourseConnective annotation_id="6859">que</DiscourseConnective> la Commission a présenté son Livre vert sur la mobilité urbaine <DiscourseConnective annotation_id="6927">en</DiscourseConnective> septembre 2007, <Alignment alignment="6434" annotation_id="6946">
+          <DiscourseConnective annotation_id="6946" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la consultation qui a suivi l'adoption du livre vert a montré <DiscourseConnective annotation_id="7011">qu'</DiscourseConnective>il existe un large consensus sur le fait <DiscourseConnective annotation_id="7055">que</DiscourseConnective> l'Union européenne a un rôle <DiscourseConnective annotation_id="7088">à</DiscourseConnective> jouer dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6617" docOffset="35">
+      <en>Your resolution on the Green Paper on Urban Mobility, drafted under Mr Rack's leadership and adopted on 9 July 2008, upholds this conclusion.</en>
+      <fr>Votre résolution sur le Livre vert sur la mobilité urbaine, élaborée sous la direction de M. Rack <DiscourseConnective annotation_id="7211">et</DiscourseConnective> adoptée le 9 juillet 2008, confirme cette conclusion.</fr>
+    </ParallelChunk>
+
+<ParallelChunk annotation_id="6760" docOffset="37">
+      <en>The aim of the Paper was to pave the way for an action plan on urban mobility; Parliament's decision to go ahead with its own action plan <Alignment alignment="7424" annotation_id="6898">
+          <DiscourseConnective annotation_id="6898" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> any Commission proposal was made sends a strong political signal; that is why I emphasised the significance of Mr Savary's work as rapporteur, <Alignment alignment="19125" annotation_id="7048">
+          <DiscourseConnective annotation_id="7048" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it shows how much importance Parliament attaches to a job we absolutely cannot afford to neglect.</en>
+      <fr>La décision du Parlement de poursuivre son propre plan d'action <Alignment alignment="6898" annotation_id="7424">
+          <DiscourseConnective annotation_id="7424" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> recevoir une proposition de la part de la Commission représente un signal politique fort. <DiscourseConnective annotation_id="7523">C'est pourquoi</DiscourseConnective> j'ai souligné l'importance du travail de M. Savary en <DiscourseConnective annotation_id="7592">tant que</DiscourseConnective> rapporteur, <Alignment alignment="7270" annotation_id="7613">
+          <DiscourseConnective annotation_id="7613" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> il montre quelle importance le Parlement accorde <DiscourseConnective annotation_id="7666">à</DiscourseConnective> un travail que nous ne pouvons absolument pas nous permettre de négliger.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7149" docOffset="38">
+      <en>
+        <Alignment alignment="7742" annotation_id="7149">
+          <DiscourseConnective annotation_id="7149" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you are well aware, I am committed to the issue of urban mobility and to the swift adoption of a well-drafted action plan.</en>
+      <fr>
+        <Alignment alignment="10951" annotation_id="7742">
+          <DiscourseConnective annotation_id="7742" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez bien, je me suis engagé <DiscourseConnective annotation_id="7786">à</DiscourseConnective> traiter de la question de la mobilité urbaine <DiscourseConnective annotation_id="7834">et</DiscourseConnective> à veiller à l'adoption rapide d'un plan d'action bien préparé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7275" docOffset="39">
+      <en>I would like to reiterate that this is planned for in the Commission's programme of work for 2009 <Alignment alignment="46169" annotation_id="7373">
+          <DiscourseConnective annotation_id="7373" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that it will be adopted as soon as possible.</en>
+      <fr>Je voudrais rappeler <DiscourseConnective annotation_id="7921">qu'</DiscourseConnective>il est prévu que ce plan d'action fasse partie du programme de travail de la Commission <DiscourseConnective annotation_id="8012">pour</DiscourseConnective> 2009 <Alignment alignment="7124" annotation_id="8022">
+          <DiscourseConnective annotation_id="8022" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="8034">qu'</DiscourseConnective>il sera adopté <DiscourseConnective annotation_id="8052">dès que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7429" docOffset="40">
+      <en>Mr Savary put it very well in his speech; there is some resistance within the European institutions <Alignment alignment="8187" annotation_id="7529">
+          <DiscourseConnective annotation_id="7529" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> some people feel that an action plan of this kind would violate the principle of subsidiarity.</en>
+      <fr>Comme M. Savary le dit très bien dans son intervention, les institutions européennes expriment certaines réticences, <Alignment alignment="29462" annotation_id="8187">
+          <DiscourseConnective annotation_id="8187" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> certaines personnes estiment <DiscourseConnective annotation_id="8220">qu'</DiscourseConnective>un tel plan d'action violerait le principe de subsidiarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7627" docOffset="41">
+      <en>I do not think there is any question of this, especially <Alignment alignment="8338" annotation_id="7684">
+          <DiscourseConnective annotation_id="7684" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we look at the Latin root of the word subsidiarity, which is subsidium, meaning 'help': it is our job as European institutions to help local institutions work more successfully.</en>
+      <fr>Je ne pense pas qu'il en <DiscourseConnective annotation_id="8308">soit</DiscourseConnective> question, <DiscourseConnective annotation_id="8323">en particulier</DiscourseConnective> <Alignment alignment="7684" annotation_id="8338">
+          <DiscourseConnective annotation_id="8338" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous examinons la racine latine du mot subsidiarité, qui est subsidium, c'est-à-dire "l'aide": en <DiscourseConnective annotation_id="8439">tant qu'</DiscourseConnective>institutions européennes, il est de notre devoir de permettre aux institutions locales de travailler de manière plus satisfaisante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7865" docOffset="42">
+      <en>Helping someone does not mean replacing them, it means contributing towards a better solution to problems!</en>
+      <fr>Aider quelqu'un ne signifie pas le remplacer; cela signifie que l'on contribue à une meilleure solution des problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7972" docOffset="43">
+      <en>Without going into detail on the proposal, I can confirm that our action plan will be based on activities that we have been driving for some time, and will integrate them into a coherent context, seeking to present that political vision that is still lacking in European action on urban mobility.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8698">Sans</DiscourseConnective> entrer dans les détails de la proposition, je peux confirmer <DiscourseConnective annotation_id="8764">que</DiscourseConnective> notre plan d'action se basera sur des activités <DiscourseConnective annotation_id="8816">que</DiscourseConnective> nous menons <DiscourseConnective annotation_id="8832">depuis</DiscourseConnective> un certain temps <DiscourseConnective annotation_id="8856">et</DiscourseConnective> qu'il les intégrera dans un contexte cohérent, en tâchant de présenter la vision politique qui fait <DiscourseConnective annotation_id="8959">encore</DiscourseConnective> défaut dans l'action européenne en matière de mobilité urbaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8269" docOffset="44">
+      <en>In this way, the political framework should be outlined for other future intervention in fields in which action at Community level is deemed useful, or indeed essential.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9030">Ainsi</DiscourseConnective>, il convient de définir les grandes lignes du cadre politique en vue d'autres interventions futures dans des domaines où l'action communautaire est jugée utile, voire essentielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8439" docOffset="45">
+      <en>Your report will certainly make an important contribution to our internal discussions <Alignment alignment="18100" annotation_id="8525">
+          <DiscourseConnective annotation_id="8525" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I can assure you that we will be able to consider many of the proposals it contains.</en>
+      <fr>Votre rapport apportera certainement une contribution importante <DiscourseConnective annotation_id="9281">à</DiscourseConnective> nos discussions internes <Alignment alignment="26179" annotation_id="9308">
+          <DiscourseConnective annotation_id="9308" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je peux vous assurer <DiscourseConnective annotation_id="9332">que</DiscourseConnective> nous pourrons tenir compte de bon nombre des propositions qu'il contient.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8614" docOffset="46">
+      <en>Of course, there are aspects and details that require further clarification or debate.</en>
+      <fr>Bien entendu, certains aspects <DiscourseConnective annotation_id="9441">et</DiscourseConnective> détails exigent une clarification <DiscourseConnective annotation_id="9478">ou</DiscourseConnective> un débat plus approfondi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8701" docOffset="47">
+      <en>We will examine your suggestions very carefully, I can assure you, together with the recommendation from the Committee of the Regions, with whom you consulted.</en>
+      <fr>Je vous garantis que nous examinerons très attentivement vos propositions, <DiscourseConnective annotation_id="9582">ainsi</DiscourseConnective> que la recommandation du Comité des Régions, <DiscourseConnective annotation_id="9633">que</DiscourseConnective> vous avez consultée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8861" docOffset="48">
+      <en>Today's vote will not be the end of our dialogue on this.</en>
+      <fr>Le vote d'aujourd'hui ne signifiera pas la fin de notre dialogue <DiscourseConnective annotation_id="9723">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8919" docOffset="49">
+      <en>As the Commission's work proceeds, I will make sure I stay in contact with Mr Savary and the other Members who have followed the transport sector closely, <Alignment alignment="9916" annotation_id="9074">
+          <Alignment alignment="9916" annotation_id="9074">
+            <DiscourseConnective annotation_id="9074" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the plan the Commission adopts will be in keeping with what Parliament is adopting and will represent genuine quality.</en>
+      <fr>Au fur et à mesure de l'avancement du travail de la Commission, je veillerai à rester <DiscourseConnective annotation_id="9821">en</DiscourseConnective> contact avec M. Savary <DiscourseConnective annotation_id="9847">et</DiscourseConnective> les autres députés qui ont suivi de près le secteur du transport, <Alignment alignment="9074" annotation_id="9916">
+          <Alignment alignment="13168" annotation_id="9916">
+            <DiscourseConnective annotation_id="9916" sense="Contingency.Cause.Result">de manière à ce que</DiscourseConnective>
+          </Alignment>
+        </Alignment> le plan que la Commission adoptera <DiscourseConnective annotation_id="9971">soit</DiscourseConnective> conforme <DiscourseConnective annotation_id="9985">à</DiscourseConnective> ce que le Parlement adoptera <DiscourseConnective annotation_id="10016">et</DiscourseConnective> d'excellente qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9201" docOffset="50">
+      <en>Finally - let me say again - our plan will not show that the Commission is replacing local bodies, but simply that the Commission wants to help local bodies to improve their work by sharing information and best practices that will enable citizens to live better and move around more easily within cities, outside cities <Alignment alignment="47458" annotation_id="9521">
+          <DiscourseConnective annotation_id="9521" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="64816" annotation_id="9525">
+          <DiscourseConnective annotation_id="9525" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> crossing cities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10041">Enfin</DiscourseConnective>, je le répète, notre plan n'indiquera pas <DiscourseConnective annotation_id="10089">que</DiscourseConnective> la Commission remplace des organismes locaux; il montrera <DiscourseConnective annotation_id="10151">simplement</DiscourseConnective> <DiscourseConnective annotation_id="10162">que</DiscourseConnective> la Commission souhaite aider les organismes locaux <DiscourseConnective annotation_id="10217">à</DiscourseConnective> améliorer leur travail <DiscourseConnective annotation_id="10242">en</DiscourseConnective> partageant les informations <DiscourseConnective annotation_id="10273">et</DiscourseConnective> les meilleures pratiques qui permettront aux citoyens de <DiscourseConnective annotation_id="10333">mieux</DiscourseConnective> vivre <DiscourseConnective annotation_id="10345">et</DiscourseConnective> de se déplacer plus facilement dans les villes, en dehors de celles-ci <Alignment alignment="14481" annotation_id="10419">
+          <DiscourseConnective annotation_id="10419" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="9525" annotation_id="10422">
+          <DiscourseConnective annotation_id="10422" sense="Comparison.Contrast">en</DiscourseConnective>
+        </Alignment> les traversant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9548" docOffset="51">
+      <en>I <Alignment alignment="3271" annotation_id="9550">
+          <DiscourseConnective annotation_id="9550" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> thank the European Parliament for the work it has done and the vote it is to hold on this plan.</en>
+      <fr>Je remercie <Alignment alignment="9550" annotation_id="10453">
+          <DiscourseConnective annotation_id="10453" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> le Parlement européen du travail qu'il a effectué <DiscourseConnective annotation_id="10508">et</DiscourseConnective> du vote qui va avoir lieu sur ce plan d'action.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9656" id="482" language="FR" name="Jean Marie Beaupuy">
+    <ParallelChunk annotation_id="9656" docOffset="52">
+      <en>Mr President, Commissioner, Mr Savary, ladies and gentlemen, we are here in a parliamentary assembly that is made for voting on texts, Commissioner, and we are above all in a parliamentary assembly <Alignment alignment="10876" annotation_id="9854">
+          <Alignment alignment="17033" annotation_id="9854">
+            <DiscourseConnective annotation_id="9854" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> texts are implemented.</en>
+      <fr>rapporteur pour avis de la commission du développement régional. - Monsieur le Président, Monsieur le Commissaire, mes chers collègues, cher collègue Savary, nous sommes ici dans une assemblée parlementaire faite <DiscourseConnective annotation_id="10772">pour</DiscourseConnective> voter des textes, Monsieur le Commissaire, <DiscourseConnective annotation_id="10820">et</DiscourseConnective> nous sommes <DiscourseConnective annotation_id="10835">surtout</DiscourseConnective> dans une assemblée parlementaire <Alignment alignment="6324" annotation_id="10876">
+          <Alignment alignment="10023" annotation_id="10876">
+            <DiscourseConnective annotation_id="10876" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les textes soient mis en application.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9885" docOffset="53">
+      <en>We note today that, after the excellent work carried out by your predecessor with regard to the Green Paper and to the 400-odd contributions that have followed it, work has barely moved on, to the extent that, <Alignment alignment="11124" annotation_id="10095">
+          <DiscourseConnective annotation_id="10095" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you yourself repeated just now, it was interesting that the European Parliament should have expressed an opinion.</en>
+      <fr>Et nous constatons aujourd'hui <DiscourseConnective annotation_id="10954">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="10957">après</DiscourseConnective> l'excellent travail fait par votre prédécesseur au niveau du livre vert <DiscourseConnective annotation_id="11035">et</DiscourseConnective> des quelque 400 contributions qui ont succédé, le travail n'a guère avancé, au point, <Alignment alignment="8235" annotation_id="11124">
+          <DiscourseConnective annotation_id="11124" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous venez vous-même de le redire, qu'il était intéressant <DiscourseConnective annotation_id="11189">que</DiscourseConnective> le Parlement européen se prononce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10212" docOffset="54">
+      <en>
+        <Alignment alignment="11228" annotation_id="10212">
+          <DiscourseConnective annotation_id="10212" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, nature abhors a vacuum, so <Alignment alignment="11278" annotation_id="10247">
+          <DiscourseConnective annotation_id="10247" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the European Commission does not do its job, it is Parliament that has to do it, <Alignment alignment="51239" annotation_id="10333">
+          <DiscourseConnective annotation_id="10333" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, in that respect, I must say - and you have said it too, Commissioner - that the work done by Mr Savary is very interesting <Alignment alignment="11517" annotation_id="10461">
+          <DiscourseConnective annotation_id="10461" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment>, <Alignment alignment="50747" annotation_id="10468">
+          <Alignment alignment="11526" annotation_id="10468">
+            <DiscourseConnective annotation_id="10468" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, he has provided you with all the material needed to draft the action plan.</en>
+      <fr>
+        <Alignment alignment="10212" annotation_id="11228">
+          <DiscourseConnective annotation_id="11228" sense="Expansion.Conjunction">Effectivement</DiscourseConnective>
+        </Alignment>, la nature a horreur du vide. <DiscourseConnective annotation_id="11272">Donc</DiscourseConnective>, <Alignment alignment="10247" annotation_id="11278">
+          <DiscourseConnective annotation_id="11278" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la Commission européenne ne fait pas son travail, c'est le Parlement qui doit y pourvoir, <Alignment alignment="5250" annotation_id="11376">
+          <DiscourseConnective annotation_id="11376" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> là, je dois <DiscourseConnective annotation_id="11391">dire que</DiscourseConnective> le travail fait - <DiscourseConnective annotation_id="11418">et</DiscourseConnective> vous l'avez dit <DiscourseConnective annotation_id="11437">aussi</DiscourseConnective>, Monsieur le Commissaire - par notre collègue Savary est très intéressant <Alignment alignment="6652" annotation_id="11517">
+          <DiscourseConnective annotation_id="11517" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment>, <Alignment alignment="10468" annotation_id="11526">
+          <Alignment alignment="21448" annotation_id="11526">
+            <DiscourseConnective annotation_id="11526" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, il vous a fourni toute la matière <DiscourseConnective annotation_id="11569">pour</DiscourseConnective> constituer le plan d'action.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10552" docOffset="55">
+      <en>I do not mean that a role reversal is taking place between the Commission and Parliament, <Alignment alignment="11705" annotation_id="10642">
+          <DiscourseConnective annotation_id="10642" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we should note that, <Alignment alignment="51131" annotation_id="10667">
+          <DiscourseConnective annotation_id="10667" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> the Treaty of Lisbon has yet to be adopted, Parliament is <DiscourseConnective annotation_id="10731" sense="Expansion.Conjunction">in fact</DiscourseConnective> seizing a little more power.</en>
+      <fr>Je ne veux pas <DiscourseConnective annotation_id="11618">dire que</DiscourseConnective> nous en sommes à une inversion des rôles entre la Commission <DiscourseConnective annotation_id="11688">et</DiscourseConnective> le Parlement, <Alignment alignment="10642" annotation_id="11705">
+          <DiscourseConnective annotation_id="11705" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons constater <DiscourseConnective annotation_id="11732">qu'</DiscourseConnective>
+        <Alignment alignment="10667" annotation_id="11735">
+          <DiscourseConnective annotation_id="11735" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment> le traité de Lisbonne n'a pas <DiscourseConnective annotation_id="11775">encore</DiscourseConnective> été adopté, de facto, le Parlement prend encore un peu plus de pouvoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10768" docOffset="56">
+      <en>This work by Mr Savary is excellent <Alignment alignment="11898" annotation_id="10804">
+          <DiscourseConnective annotation_id="10804" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it takes account once again of a number of proposals by the Committee on Regional Development.</en>
+      <fr>Ce travail du collègue Savary est excellent <Alignment alignment="31149" annotation_id="11898">
+          <DiscourseConnective annotation_id="11898" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il reprend en compte effectivement un certain nombre de propositions de la commission du développement régional.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10907" docOffset="57">
+      <en>
+        <DiscourseConnective annotation_id="10907" sense="Comparison.Contrast">While</DiscourseConnective> respecting the principle of subsidiarity, of course, we expect you to present us with a guide.</en>
+      <fr>Nous attendons, dans le respect de la subsidiarité bien entendu, que vous nous présentiez un guide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11008" docOffset="58">
+      <en>The latter will be useful.</en>
+      <fr>Cela sera utile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11035" docOffset="59">
+      <en>Its aim will not be to constrain local authorities, but rather to help them.</en>
+      <fr>Ce guide, ce ne sera pas <DiscourseConnective annotation_id="12157">pour</DiscourseConnective> freiner les collectivités, ce sera <DiscourseConnective annotation_id="12197">au contraire</DiscourseConnective> <DiscourseConnective annotation_id="12210">pour</DiscourseConnective> les aider.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11112" docOffset="60">
+      <en>We expect you to present us with indicators - again, not as a constraint, but as a support.</en>
+      <fr>Nous attendons que vous nous produisiez des indicateurs, là <DiscourseConnective annotation_id="12286">encore</DiscourseConnective>, non pas <DiscourseConnective annotation_id="12302">pour</DiscourseConnective> contraindre, <DiscourseConnective annotation_id="12320">mais</DiscourseConnective> <DiscourseConnective annotation_id="12325">pour</DiscourseConnective> soutenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11204" docOffset="61">
+      <en>Above all we <Alignment alignment="12388" annotation_id="11217">
+          <DiscourseConnective annotation_id="11217" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> expect you to present us with the travel plan-related elements.</en>
+      <fr>Nous attendons <DiscourseConnective annotation_id="12355">surtout que</DiscourseConnective> vous nous présentiez <Alignment alignment="1601" annotation_id="12388">
+          <DiscourseConnective annotation_id="12388" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> les éléments des plans de déplacement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11286" docOffset="62">
+      <en>In certain countries, these exist; in certain countries, they are even mandatory, they are absolutely vital.</en>
+      <fr>Dans certains pays, cela existe, dans certains pays, c'est <DiscourseConnective annotation_id="12492">même</DiscourseConnective> obligatoire, c'est absolument nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11395" docOffset="63">
+      <en>I should like to give an example.</en>
+      <fr>Je voudrais donner un exemple.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11429" docOffset="64">
+      <en>At the Urban Housing Intergroup, which I have the honour of chairing, we have highlighted urban growth over the last few years: in 10 years, urban growth has covered three times the surface of Luxembourg.</en>
+      <fr>Au niveau de l'Intergroupe Urban-Logement <DiscourseConnective annotation_id="12612">que</DiscourseConnective> j'ai l'honneur de présider, nous avons mis en évidence l'étalement urbain au cours de ces dernières années: <DiscourseConnective annotation_id="12724">en</DiscourseConnective> dix ans, l'étalement urbain recouvre trois fois la surface du Luxembourg.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11634" docOffset="65">
+      <en>So, how is that linked to our debate this evening?</en>
+      <fr>
+        <DiscourseConnective annotation_id="12801">Alors</DiscourseConnective>, en quoi cela a-t-il un lien avec notre débat de ce soir?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11685" docOffset="66">
+      <en>It has a very direct link <Alignment alignment="12892" annotation_id="11711">
+          <DiscourseConnective annotation_id="11711" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> city-based users travel exactly 20% more each day due to urban growth, <Alignment alignment="49913" annotation_id="11788">
+          <DiscourseConnective annotation_id="11788" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> more than 70% use their own cars.</en>
+      <fr>Cela a un lien très direct <Alignment alignment="16065" annotation_id="12892">
+          <DiscourseConnective annotation_id="12892" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> les usagers des villes font exactement 20 % de déplacements supplémentaires par jour à cause de l'étalement urbain, <Alignment alignment="1690" annotation_id="13016">
+          <DiscourseConnective annotation_id="13016" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que plus de 70 % utilisent leur véhicule personnel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11826" docOffset="67">
+      <en>All of this is a means of saying that, <Alignment alignment="13095" annotation_id="11865">
+          <DiscourseConnective annotation_id="11865" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the Committee on Regional Development asks you to observe the condition not only of the integrated approach but also of the travel plans, it is establishing a general principle that we very much hope you will take into account in your action plan.</en>
+      <fr>Tout cela pour <DiscourseConnective annotation_id="13086">dire que</DiscourseConnective> <Alignment alignment="16231" annotation_id="13095">
+          <DiscourseConnective annotation_id="13095" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la commission du développement régional vous demande d'observer à la fois la condition de l'approche intégrée <DiscourseConnective annotation_id="13213">mais aussi</DiscourseConnective> des plans de déplacement, nous sommes là face à une logique globale <DiscourseConnective annotation_id="13292">que</DiscourseConnective> nous espérons <DiscourseConnective annotation_id="13310">bien que</DiscourseConnective> vous prendrez en compte dans votre plan d'action.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12118" docOffset="68">
+      <en>This issue has obviously already been raised within our Urban Housing Intergroup, <Alignment alignment="13454" annotation_id="12200">
+          <DiscourseConnective annotation_id="12200" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we would like to express our gratitude to you in advance for taking account of the integrated approach here too.</en>
+      <fr>Au niveau de notre Intergroupe Urban-Logement, ce sujet a évidemment <DiscourseConnective annotation_id="13438">déjà</DiscourseConnective> été abordé <Alignment alignment="12200" annotation_id="13454">
+          <DiscourseConnective annotation_id="13454" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous sommes reconnaissants par avance de prendre en compte, justement, là <DiscourseConnective annotation_id="13531">aussi</DiscourseConnective>, l'approche intégrée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12317" docOffset="69">
+      <en>You have not answered our questions today, Commissioner.</en>
+      <fr>Aujourd'hui, Monsieur le Commissaire, vous n'avez pas répondu à nos questions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12374" docOffset="70">
+      <en>You have made what is, in a way, a half-hearted commitment; you have been quite firm on the principle, <Alignment alignment="3586" annotation_id="12477">
+          <DiscourseConnective annotation_id="12477" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> you have not provided us with any guarantees.</en>
+      <fr>Vous vous êtes engagé du bout des lèvres, <DiscourseConnective annotation_id="13680">en</DiscourseConnective> quelque sorte, assez fermement sur le principe, <Alignment alignment="12477" annotation_id="13731">
+          <DiscourseConnective annotation_id="13731" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> en ne nous apportant aucune garantie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12527" docOffset="71">
+      <en>The situation is <Alignment alignment="43876" annotation_id="12544">
+          <Alignment alignment="13774" annotation_id="12544">
+            <DiscourseConnective annotation_id="12544" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> serious.</en>
+      <fr>
+        <Alignment alignment="11196" annotation_id="13774">
+          <Alignment alignment="12544" annotation_id="13774">
+            <DiscourseConnective annotation_id="13774" sense="Expansion.Conjunction">En fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la situation est grave.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12561" docOffset="72">
+      <en>Why? 400 million Europeans live in cities, <Alignment alignment="13877" annotation_id="12604">
+          <DiscourseConnective annotation_id="12604" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> those 400 million Europeans are affected by living conditions such as this that cause them to waste time every day in traffic jams.</en>
+      <fr>Pourquoi? Il y a 400 millions d'Européens qui vivent dans les villes, <Alignment alignment="16301" annotation_id="13877">
+          <DiscourseConnective annotation_id="13877" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ces 400 millions d'Européens sont concernés par ces conditions de vie qui font que chaque jour, ils perdent du temps dans les embouteillages.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12740" docOffset="73">
+      <en>We know that these traffic jams cost us 1% of GDP.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="14034">que</DiscourseConnective> ces embouteillages coûtent 1 % du PIB.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12791" docOffset="74">
+      <en>At the same time <Alignment alignment="53784" annotation_id="12808">
+          <DiscourseConnective annotation_id="12808" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we are talking about a recovery plan - an economic recovery plan - we are letting billions of euro go to waste.</en>
+      <fr>
+        <Alignment alignment="12808" annotation_id="14077">
+          <DiscourseConnective annotation_id="14077" sense="Temporal.Synchrony">Alors que</DiscourseConnective>
+        </Alignment> nous parlons de plan de relance, de relance économique, nous laissons là gaspiller des milliards d'euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12923" docOffset="75">
+      <en>Swifter action is required, Commissioner, for these action plans on urban mobility are a crucial element of the recovery plan, <Alignment alignment="14352" annotation_id="13050">
+          <DiscourseConnective annotation_id="13050" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they are <Alignment alignment="14352" annotation_id="13063">
+          <DiscourseConnective annotation_id="13063" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> crucial in terms of the climate-change challenge since, <DiscourseConnective annotation_id="13124" sense="Temporal.Synchrony">as</DiscourseConnective> you pointed out, 40% of pollution is found in cities.</en>
+      <fr>Il faut aller plus vite, Monsieur le Commissaire, <DiscourseConnective annotation_id="14243">car</DiscourseConnective> ces plans d'action <DiscourseConnective annotation_id="14266">en</DiscourseConnective> faveur de la mobilité urbaine constituent un élément essentiel du plan de relance, <Alignment alignment="30181" annotation_id="14352">
+          <Alignment alignment="20785" annotation_id="14352">
+            <DiscourseConnective annotation_id="14352" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+          </Alignment>
+        </Alignment> <DiscourseConnective annotation_id="14363">en</DiscourseConnective> termes de défi climatique <DiscourseConnective annotation_id="14392">puisque</DiscourseConnective>, vous l'avez rappelé, c'est 40 % de la pollution qui se trouve dans les villes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13181" docOffset="76">
+      <en>I should not like to ignore the safety aspect, either, <Alignment alignment="20018" annotation_id="13236">
+          <DiscourseConnective annotation_id="13236" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> two out of three road accidents occur in cities.</en>
+      <fr>Je ne voudrais pas ignorer <DiscourseConnective annotation_id="14507">non plus</DiscourseConnective> l'aspect de la sécurité <Alignment alignment="13236" annotation_id="14540">
+          <DiscourseConnective annotation_id="14540" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> deux accidents sur trois en matière routière se produisent dans les villes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13291" docOffset="77">
+      <en>
+        <Alignment alignment="25267" annotation_id="13291">
+          <DiscourseConnective annotation_id="13291" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> we know that one death costs nearly EUR 1 million, and one case of serious injuries more than EUR 1 million, you see the economic cost and the human cost that this challenge of urban mobility represents each year.</en>
+      <fr>
+        <Alignment alignment="13291" annotation_id="14624">
+          <DiscourseConnective annotation_id="14624" sense="Temporal.Synchrony">Quand</DiscourseConnective>
+        </Alignment> on sait <DiscourseConnective annotation_id="14638">qu'</DiscourseConnective>un mort coûte près d'un million d'euros, <DiscourseConnective annotation_id="14682">et</DiscourseConnective> un blessé grave plus d'un million d'euros, vous voyez le coût économique <DiscourseConnective annotation_id="14758">et</DiscourseConnective> le coût humain <DiscourseConnective annotation_id="14776">que</DiscourseConnective> représente chaque année ce défi de la mobilité urbaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13510" docOffset="78">
+      <en>
+        <Alignment alignment="32364" annotation_id="13510">
+          <DiscourseConnective annotation_id="13510" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, for all of these practical reasons, on the eve of the European elections, we are asking you, Commissioner, if possible during the conclusion of this evening's debate, to go further in your proposals and in your promises, not by making general promises, but by committing to an action plan - your action plan - <Alignment alignment="74794" annotation_id="13826">
+          <Alignment alignment="397" annotation_id="13826">
+            <DiscourseConnective annotation_id="13826" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> our fellow citizens will be more inclined to vote on 7 June.</en>
+      <fr>
+        <Alignment alignment="18481" annotation_id="14836">
+          <DiscourseConnective annotation_id="14836" sense="Contingency.Cause.Result">Alors</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="14843">pour</DiscourseConnective> toutes ces raisons pratiques, <DiscourseConnective annotation_id="14878">à</DiscourseConnective> la veille des élections européennes, nous vous demandons, Monsieur le Commissaire, <DiscourseConnective annotation_id="14963">si</DiscourseConnective> possible dans la conclusion du débat de ce soir, d'aller plus <DiscourseConnective annotation_id="15028">avant</DiscourseConnective> dans vos propositions <DiscourseConnective annotation_id="15056">et</DiscourseConnective> dans vos promesses, non pas des promesses générales, <DiscourseConnective annotation_id="15112">mais</DiscourseConnective> un plan d'action, votre plan d'action <Alignment alignment="13826" annotation_id="15155">
+          <Alignment alignment="3041" annotation_id="15155">
+            <DiscourseConnective annotation_id="15155" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nos concitoyens soient plus enclins à se rendre aux urnes le 7 juin prochain.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13895" id="483" name="Reinhard Rack">
+    <ParallelChunk annotation_id="13895" docOffset="79">
+      <en>on behalf of the PPE-DE Group. - (DE) Mr President, I join the rapporteur, Gilles Savary, in expressing my regret that the Commission did not go through with its original plan for an integrated action plan.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Monsieur le Président, <DiscourseConnective annotation_id="15297">tout comme</DiscourseConnective> M. Savary, je regrette <DiscourseConnective annotation_id="15331">que</DiscourseConnective> la Commission n'ait pas mis <DiscourseConnective annotation_id="15363">à</DiscourseConnective> exécution son intention initiale d'élaborer un plan d'action intégré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14102" docOffset="80">
+      <en>There are many good reasons why everyone involved, from local authorities through to the European Union, is trying to improve urban transport conditions.</en>
+      <fr>Il existe de nombreuses bonnes raisons pour lesquelles toutes les personnes concernées, des autorités locales <DiscourseConnective annotation_id="15545">à</DiscourseConnective> l'Union européenne, tâchent d'améliorer les conditions relatives au transport urbain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14256" docOffset="81">
+      <en>We know that most people in Europe live in towns <Alignment alignment="15706" annotation_id="14305">
+          <DiscourseConnective annotation_id="14305" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that current transport conditions are anything but optimal.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="15645">que</DiscourseConnective> la plupart des citoyens européens vivent dans des villes <Alignment alignment="5369" annotation_id="15706">
+          <DiscourseConnective annotation_id="15706" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="15709">que</DiscourseConnective> les conditions actuelles de transport sont tout sauf optimales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14369" docOffset="82">
+      <en>That is why there is agreement in principle to make integrated proposals at Parliament's initiative on the plan and on Mr Savary's report.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15777">C'est pourquoi</DiscourseConnective> un accord de principe vise <DiscourseConnective annotation_id="15819">à</DiscourseConnective> élaborer des propositions intégrées, sur l'initiative du Parlement, sur le plan d'action <DiscourseConnective annotation_id="15910">et</DiscourseConnective> sur le rapport de M. Savary.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14508" docOffset="83">
+      <en>I thank him for his commitment and for his specific proposals.</en>
+      <fr>Je le remercie <DiscourseConnective annotation_id="15957">pour</DiscourseConnective> son engagement <DiscourseConnective annotation_id="15977">et</DiscourseConnective> <DiscourseConnective annotation_id="15980">pour</DiscourseConnective> ses propositions concrètes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14571" docOffset="84">
+      <en>At the same time, <Alignment alignment="16013" annotation_id="14589">
+          <DiscourseConnective annotation_id="14589" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, I should like to make it abundantly clear that what many fear or believe they should fear will not happen.</en>
+      <fr>
+        <Alignment alignment="21751" annotation_id="16013">
+          <DiscourseConnective annotation_id="16013" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, je voudrais également préciser tout à fait clairement <DiscourseConnective annotation_id="16078">que</DiscourseConnective> ce que bon nombre de personnes craignent <DiscourseConnective annotation_id="16123">ou</DiscourseConnective> croient qu'ils devraient craindre n'arrivera pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14705" docOffset="85">
+      <en>No one wants to take the right to configure traffic conditions away from the municipalities or the local or regional authorities.</en>
+      <fr>Personne ne souhaite s'arroger le droit de définir des conditions de trafic à l'écart des municipalités <DiscourseConnective annotation_id="16280">et</DiscourseConnective> des autorités locales <DiscourseConnective annotation_id="16305">et</DiscourseConnective> régionales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14835" docOffset="86">
+      <en>We merely want to help from the European side to ensure that action is taken on the basis of reasonable common rules where a municipality, a town or a regional entity considers it reasonable.</en>
+      <fr>Nous voulons <DiscourseConnective annotation_id="16333">simplement</DiscourseConnective> permettre, <DiscourseConnective annotation_id="16355">depuis</DiscourseConnective> les institutions européennes, <DiscourseConnective annotation_id="16392">que</DiscourseConnective> des mesures soient adoptées conformément <DiscourseConnective annotation_id="16437">à</DiscourseConnective> des règles communes raisonnables, <DiscourseConnective annotation_id="16473">qu'</DiscourseConnective>une municipalité, une ville <DiscourseConnective annotation_id="16504">ou</DiscourseConnective> une entité régionale considèrent comme raisonnables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15027" docOffset="87">
+      <en>The principle of subsidiarity is not in danger.</en>
+      <fr>Le principe de subsidiarité n'est pas <DiscourseConnective annotation_id="16598">en</DiscourseConnective> danger.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15075" docOffset="88">
+      <en>What we want to do here will help to protect that principle.</en>
+      <fr>Ce que nous voulons faire ici permettra de sauvegarder ce principe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15136" docOffset="89">
+      <en>That is why we shall continue, in the interests of the citizens, to try and ensure that, <Alignment alignment="16782" annotation_id="15225">
+          <DiscourseConnective annotation_id="15225" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> a citizen drives another ten or twenty kilometres in Europe, he does not stumble upon a traffic-calming zone which he believes to be the same as in his home district, only to find that totally different rules apply.</en>
+      <fr>C'est la raison pour laquelle nous tâcherons toujours, dans l'intérêt des citoyens, de veiller à ce <DiscourseConnective annotation_id="16777">que</DiscourseConnective>, <Alignment alignment="11814" annotation_id="16782">
+          <DiscourseConnective annotation_id="16782" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>un citoyen se rend dix <DiscourseConnective annotation_id="16812">ou</DiscourseConnective> vingt kilomètres plus loin <DiscourseConnective annotation_id="16842">en</DiscourseConnective> Europe, il n'arrive pas dans une zone à vitesse réduite, <DiscourseConnective annotation_id="16902">en</DiscourseConnective> croyant <DiscourseConnective annotation_id="16913">qu'</DiscourseConnective>il s'agit d'une zone identique à celle de sa région, <DiscourseConnective annotation_id="16969">alors que</DiscourseConnective> des règles complètement différentes s'y appliquent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15446" docOffset="90">
+      <en>No one wants to impose some sort of congestion charge or other rules on communities, <Alignment alignment="17118" annotation_id="15531">
+          <DiscourseConnective annotation_id="15531" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="17123" annotation_id="15535">
+          <DiscourseConnective annotation_id="15535" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they are used, then they should be used within a framework which citizens recognise.</en>
+      <fr>Personne ne veut imposer aux communautés une sorte de péage urbain <DiscourseConnective annotation_id="17098">ou</DiscourseConnective> d'autres règles, <Alignment alignment="14379" annotation_id="17118">
+          <DiscourseConnective annotation_id="17118" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="11320" annotation_id="17123">
+          <DiscourseConnective annotation_id="17123" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> elles sont utilisées, elles doivent l'être dans un contexte <DiscourseConnective annotation_id="17186">que</DiscourseConnective> les citoyens reconnaissent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15623" docOffset="91">
+      <en>We have been in agreement on the sense in taking a common approach to traffic signs for over 100 years.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17218">Depuis</DiscourseConnective> plus de cent ans, nous sommes d'accord sur le caractère judicieux d'une approche commune concernant les panneaux de signalisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15727" docOffset="92">
+      <en>This should <Alignment alignment="17378" annotation_id="15739">
+          <DiscourseConnective annotation_id="15739" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> apply in future to this issue.</en>
+      <fr>Cette entente devrait <Alignment alignment="5744" annotation_id="17378">
+          <DiscourseConnective annotation_id="17378" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> s'appliquer <DiscourseConnective annotation_id="17400">à</DiscourseConnective> cette question <DiscourseConnective annotation_id="17417">à</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15775" id="484" name="Saïd El Khadraoui">
+    <ParallelChunk annotation_id="15775" docOffset="93">
+      <en>on behalf of the PSE Group. - (NL) I should like to start by thanking rapporteur Gilles Savary, and all those who have contributed to the end result, for the work they have done, <Alignment alignment="17618" annotation_id="15954">
+          <DiscourseConnective annotation_id="15954" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the rapporteur, in particular, for persevering, despite the fact that the Commission has indicated its intention to abandon the plan of action, at least for the time being, which we have been calling for for so long.</en>
+      <fr>, au nom du groupe PSE. - (NL) Je voudrais <DiscourseConnective annotation_id="17472">tout d'abord</DiscourseConnective> remercier le rapporteur, M. Savary, <DiscourseConnective annotation_id="17521">et</DiscourseConnective> toutes les personnes qui ont contribué au <DiscourseConnective annotation_id="17566">résultat</DiscourseConnective> final <DiscourseConnective annotation_id="17581">pour</DiscourseConnective> le travail qu'ils ont accompli, <Alignment alignment="15954" annotation_id="17618">
+          <DiscourseConnective annotation_id="17618" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17621">plus particulièrement</DiscourseConnective> le rapporteur <DiscourseConnective annotation_id="17657">pour</DiscourseConnective> sa persévérance, <DiscourseConnective annotation_id="17679">malgré que</DiscourseConnective> la Commission ait signalé son intention d'abandonner, <DiscourseConnective annotation_id="17744">du moins</DiscourseConnective> <DiscourseConnective annotation_id="17753">pour</DiscourseConnective> le moment, le plan d'action <DiscourseConnective annotation_id="17786">que</DiscourseConnective> nous réclamons <DiscourseConnective annotation_id="17805">depuis</DiscourseConnective> <DiscourseConnective annotation_id="17812">si</DiscourseConnective> longtemps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16175" docOffset="94">
+      <en>I should like to ask the Commission to adopt the recommendations which we will be voting on tomorrow and to swing into action at the earliest opportunity.</en>
+      <fr>Je voudrais demander à la Commission d'adopter les recommandations sur lesquelles nous allons voter demain <DiscourseConnective annotation_id="17933">et</DiscourseConnective> de passer à l'action <DiscourseConnective annotation_id="17957">dès que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16330" docOffset="95">
+      <en>Even <Alignment alignment="24314" annotation_id="16335">
+          <DiscourseConnective annotation_id="16335" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> there is a small minority in Parliament, and evidently also some people in the Commission and the Member States, who believe that we should steer clear from anything that is related to towns, it is abundantly clear that Europe offers added value <Alignment alignment="24564" annotation_id="16588">
+          <DiscourseConnective annotation_id="16588" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to addressing problems that are considerable and largely shared.</en>
+      <fr>
+        <Alignment alignment="8879" annotation_id="17975">
+          <DiscourseConnective annotation_id="17975" sense="Comparison.Contrast">Même si</DiscourseConnective>
+        </Alignment> une faible minorité de députés européens <DiscourseConnective annotation_id="18024">et</DiscourseConnective>, apparemment, quelques membres de la Commission <DiscourseConnective annotation_id="18075">et</DiscourseConnective> des États membres croient <DiscourseConnective annotation_id="18104">que</DiscourseConnective> nous devrions éviter tout ce qui concerne les villes, il est tout à fait clair <DiscourseConnective annotation_id="18187">que</DiscourseConnective> l'Europe apporte une valeur ajoutée <Alignment alignment="16588" annotation_id="18227">
+          <DiscourseConnective annotation_id="18227" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="18237">s'</DiscourseConnective>agit d'aborder de grands problèmes qui sont largement communs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16667" docOffset="96">
+      <en>The report contains a number of interesting proposals.</en>
+      <fr>Le présent rapport contient quelques propositions intéressantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16722" docOffset="97">
+      <en>An obvious one is the collection of information, of comparable data which will help map out problems.</en>
+      <fr>Un exemple évident est la collecte d'informations, de données comparables, qui permettront de présenter les problèmes dans les grandes lignes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16824" docOffset="98">
+      <en>Others include the exchange and promotion of sound ideas, directing technological innovation, ensuring that systems are interoperable, encouraging towns to compile mobility plans and taking steps to arrive at sustainable mobility.</en>
+      <fr>D'autres propositions comprennent l'échange <DiscourseConnective annotation_id="18554">et</DiscourseConnective> la promotion de bonnes idées, la gestion de l'innovation technologique, la garantie de l'interopérabilité des systèmes, l'encouragement des villes <DiscourseConnective annotation_id="18704">à</DiscourseConnective> élaborer des plans de mobilité <DiscourseConnective annotation_id="18737">et</DiscourseConnective> l'adoption de mesures qui permettent de parvenir <DiscourseConnective annotation_id="18789">à</DiscourseConnective> une mobilité durable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17055" docOffset="99">
+      <en>These and other examples clearly concern matters that should be organised at European level in a bid to make our towns more liveable, more easily accessible and more sustainable.</en>
+      <fr>Ces exemples <DiscourseConnective annotation_id="18826">et</DiscourseConnective> d'autres encore portent clairement sur des sujets <DiscourseConnective annotation_id="18879">qu'</DiscourseConnective>il convient d'organiser <DiscourseConnective annotation_id="18906">à</DiscourseConnective> l'échelon européen <DiscourseConnective annotation_id="18927">pour</DiscourseConnective> tenter de rendre nos villes plus agréables à vivre, plus facilement accessibles <DiscourseConnective annotation_id="19012">et</DiscourseConnective> plus durables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17234" docOffset="100">
+      <en>I <Alignment alignment="19040" annotation_id="17236">
+          <DiscourseConnective annotation_id="17236" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> count on the Commission to take this over and address this in the interests of our residents.</en>
+      <fr>Je compte <Alignment alignment="12186" annotation_id="19040">
+          <DiscourseConnective annotation_id="19040" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> sur la Commission <DiscourseConnective annotation_id="19063">pour qu'</DiscourseConnective>elle s'en occupe <DiscourseConnective annotation_id="19088">et</DiscourseConnective> s'y attelle dans l'intérêt de nos habitants.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17340" id="485" name="Michael Cramer">
+    <ParallelChunk annotation_id="17340" docOffset="101">
+      <en>on behalf of the Verts/ALE Group. - (DE) Mr President, ladies and gentlemen, I too thank the rapporteur.</en>
+      <fr>au nom du groupe des Verts/ALE. - (DE) Monsieur le Président, chers collègues, je remercie <DiscourseConnective annotation_id="19227">également</DiscourseConnective> le rapporteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17445" docOffset="102">
+      <en>In the context of climate change, urban transport plays a central role, <Alignment alignment="21602" annotation_id="17517">
+          <DiscourseConnective annotation_id="17517" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is responsible for 70% of all harmful emissions.</en>
+      <fr>Dans le contexte du changement climatique, le transport urbain joue un rôle crucial, <Alignment alignment="17517" annotation_id="19337">
+          <DiscourseConnective annotation_id="19337" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il est responsable de 70 % de l'ensemble des émissions nocives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17577" docOffset="103">
+      <en>Only <Alignment alignment="19419" annotation_id="17582">
+          <DiscourseConnective annotation_id="17582" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we change our transport policy in the EU will we be able to achieve our own climate protection targets.</en>
+      <fr>Ce n'est <Alignment alignment="4326" annotation_id="19419">
+          <DiscourseConnective annotation_id="19419" sense="Contingency.Condition">qu'en</DiscourseConnective>
+        </Alignment> modifiant notre politique commune des transports que nous pourrons atteindre nos propres objectifs en matière de protection du climat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17689" docOffset="104">
+      <en>The greatest potential is in towns, where 90% of all car journeys are less than 6 km long and which <Alignment alignment="23353" annotation_id="17789">
+          <DiscourseConnective annotation_id="17789" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> offer an ideal opportunity to take a bus or train or go by bicycle or on foot.</en>
+      <fr>Le plus grand potentiel réside dans les villes, où 90 % des trajets effectués en voiture font moins de 6 kilomètres, <DiscourseConnective annotation_id="19677">et</DiscourseConnective> qui offrent <Alignment alignment="17789" annotation_id="19692">
+          <DiscourseConnective annotation_id="19692" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> une occasion idéale de prendre un bus <DiscourseConnective annotation_id="19735">ou</DiscourseConnective> un train <DiscourseConnective annotation_id="19747">ou</DiscourseConnective> de se déplacer <DiscourseConnective annotation_id="19765">à</DiscourseConnective> vélo <DiscourseConnective annotation_id="19772">ou</DiscourseConnective> <DiscourseConnective annotation_id="19775">à</DiscourseConnective> pied.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17878" docOffset="105">
+      <en>We are delighted that the majority is in favour of only giving EU money to towns with over 100 000 inhabitants which can <DiscourseConnective annotation_id="17999" sense="Expansion.Conjunction">also</DiscourseConnective> submit a sustainable mobility plan.</en>
+      <fr>Nous sommes ravis <DiscourseConnective annotation_id="19801">que</DiscourseConnective> la majorité <DiscourseConnective annotation_id="19817">soit</DiscourseConnective> favorable à l'exigence de n'accorder des fonds de l'UE qu'aux villes <DiscourseConnective annotation_id="19891">de plus</DiscourseConnective> de 100 000 habitants qui peuvent présenter un plan de mobilité durable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18040" docOffset="106">
+      <en>We are sorry that our proposal to introduce a general speed limit of 30 km/h, with the facility for towns to set higher speeds on certain roads in accordance with the principle of subsidiarity, did not achieve a majority.</en>
+      <fr>Nous regrettons <DiscourseConnective annotation_id="19987">que</DiscourseConnective> notre proposition visant <DiscourseConnective annotation_id="20016">à</DiscourseConnective> introduire une limitation de vitesse générale à 30 km/h, les villes ayant la possibilité de fixer des limitations de vitesse supérieures sur certaines routes conformément au principe de subsidiarité, n'ait pas obtenu de soutien majoritaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18262" docOffset="107">
+      <en>This would not only be good for the climate; it would <Alignment alignment="20339" annotation_id="18316">
+          <DiscourseConnective annotation_id="18316" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> reduce the number of road traffic accidents.</en>
+      <fr>Cette mesure serait <DiscourseConnective annotation_id="20279">non seulement</DiscourseConnective> bénéfique <DiscourseConnective annotation_id="20303">pour</DiscourseConnective> le climat, mais elle réduirait <Alignment alignment="13162" annotation_id="20339">
+          <DiscourseConnective annotation_id="20339" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> le nombre des accidents de la route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18366" docOffset="108">
+      <en>Every year 40 000 people die on the roads of Europe; that is 40 000 too many.</en>
+      <fr>Chaque année, 40 000 personnes meurent sur les routes européennes, c'est à dire 40 000 personnes de trop.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18444" id="486" name="Johannes Blokland">
+    <ParallelChunk annotation_id="18444" docOffset="109">
+      <en>on behalf of the IND/DEM Group. - (NL) I should like to start by thanking Mr Savary for our good cooperation.</en>
+      <fr>, au nom du groupe IND/DEM. - (DE) Je voudrais <DiscourseConnective annotation_id="20539">tout d'abord</DiscourseConnective> remercier M. Savary de notre bonne collaboration.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18554" docOffset="110">
+      <en>He has drafted a sound report in close cooperation with the shadow rapporteurs.</en>
+      <fr>Il a rédigé un bon rapport <DiscourseConnective annotation_id="20629">en</DiscourseConnective> étroite collaboration avec les rapports fictifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18634" docOffset="111">
+      <en>The report is clear about the fact that urban mobility is a part of the transport sector where many challenges and opportunities lie. Challenges in the field of European climate objectives, congestion control, traffic safety and user-friendliness, and opportunities with regard to sustainable economic development, and, closely related to this, the growth of inland shipping.</en>
+      <fr>Le rapport précise clairement <DiscourseConnective annotation_id="20711">que</DiscourseConnective> la mobilité urbaine est une partie du secteur des transports confrontée <DiscourseConnective annotation_id="20787">à</DiscourseConnective> de nombreux défis <DiscourseConnective annotation_id="20807">et</DiscourseConnective> possibilités: les défis relatifs aux objectifs européens <DiscourseConnective annotation_id="20867">en</DiscourseConnective> matière de climat, à la gestion des encombrements, à la sécurité routière <DiscourseConnective annotation_id="20944">et</DiscourseConnective> à la convivialité <DiscourseConnective annotation_id="20965">et</DiscourseConnective> les possibilités de développement économique durable <DiscourseConnective annotation_id="21021">et</DiscourseConnective>, ce qui a un rapport direct, à la croissance de la navigation fluviale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19010" docOffset="112">
+      <en>
+        <Alignment alignment="44430" annotation_id="19010">
+          <DiscourseConnective annotation_id="19010" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> the report is excellent and is right to give due consideration to the principle of subsidiarity, I should like, briefly, to address the link between urban mobility and inland shipping.</en>
+      <fr>
+        <Alignment alignment="12067" annotation_id="21096">
+          <DiscourseConnective annotation_id="21096" sense="Contingency.Cause.Reason">Étant donné que</DiscourseConnective>
+        </Alignment> ce rapport est excellent <DiscourseConnective annotation_id="21137">et</DiscourseConnective> qu'il tient, <DiscourseConnective annotation_id="21153">à</DiscourseConnective> juste titre, parfaitement compte du principe de subsidiarité, je voudrais aborder brièvement le lien entre la mobilité urbaine <DiscourseConnective annotation_id="21282">et</DiscourseConnective> la navigation fluviale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19201" docOffset="113">
+      <en>Sustainable economic development in Europe, not least in the area of transport and in the urban areas, will largely depend on the use of inland shipping.</en>
+      <fr>Le développement économique durable <DiscourseConnective annotation_id="21345">en</DiscourseConnective> Europe, <DiscourseConnective annotation_id="21356">notamment</DiscourseConnective> dans le domaine des transports <DiscourseConnective annotation_id="21397">et</DiscourseConnective> dans les zones urbaines, dépendra largement de l'utilisation de la navigation fluviale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19355" docOffset="114">
+      <en>Many European cities have inland waterways and, <Alignment alignment="72175" annotation_id="19403">
+          <DiscourseConnective annotation_id="19403" sense="Contingency.Cause.Result">consequently</DiscourseConnective>
+        </Alignment>, the innate capacity to meet growing demand in transport in a sustainable manner.</en>
+      <fr>De nombreuses villes européennes possèdent des voies navigables <DiscourseConnective annotation_id="21552">et</DiscourseConnective>, <Alignment alignment="34638" annotation_id="21556">
+          <DiscourseConnective annotation_id="21556" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, elles sont naturellement capables de répondre de manière durable <DiscourseConnective annotation_id="21637">à</DiscourseConnective> une demande croissante de transport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19498" docOffset="115">
+      <en>After all, the increase in inland shipping requires no major infrastructural investments, does not contribute to congestion in European cities and does not increase the environmental and climate problems in European cities, provided that it uses clean engines and clean fuel.</en>
+      <fr>Au fond, la progression de la navigation fluviale n'exige pas d'investissements considérables en matière d'infrastructures, elle ne contribue pas <DiscourseConnective annotation_id="21822">à</DiscourseConnective> l'encombrement des villes européennes <DiscourseConnective annotation_id="21862">et</DiscourseConnective> n'aggrave pas les problèmes environnementaux <DiscourseConnective annotation_id="21910">et</DiscourseConnective> climatiques des villes européennes, <DiscourseConnective annotation_id="21949">à condition que</DiscourseConnective> la navigation fluviale emploie des moteurs <DiscourseConnective annotation_id="22008">et</DiscourseConnective> du carburant propres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19774" docOffset="116">
+      <en>
+        <Alignment alignment="29913" annotation_id="19774">
+          <DiscourseConnective annotation_id="19774" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the inland shipping capacity is already present in European cities, this should be utilised and promoted.</en>
+      <fr>
+        <Alignment alignment="19774" annotation_id="22033">
+          <DiscourseConnective annotation_id="22033" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> la capacité de navigation fluviale est <DiscourseConnective annotation_id="22075">déjà</DiscourseConnective> présente dans certaines villes européennes, elle devrait être utilisée <DiscourseConnective annotation_id="22151">et</DiscourseConnective> promue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19883" docOffset="117">
+      <en>The future of urban mobility is <Alignment alignment="34928" annotation_id="19915">
+          <DiscourseConnective annotation_id="19915" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> closely connected to the future of inland shipping.</en>
+      <fr>
+        <Alignment alignment="19792" annotation_id="22162">
+          <DiscourseConnective annotation_id="22162" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, l'avenir de la mobilité urbaine est étroitement lié <DiscourseConnective annotation_id="22230">à</DiscourseConnective> l'avenir de la navigation fluviale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19977" docOffset="118">
+      <en>I would <Alignment alignment="22280" annotation_id="19985">
+          <DiscourseConnective annotation_id="19985" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask the European Commission to keep a close eye on the interests of inland shipping <Alignment alignment="48760" annotation_id="20079">
+          <DiscourseConnective annotation_id="20079" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it drafts new legislation on urban mobility.</en>
+      <fr>Je voudrais <Alignment alignment="19985" annotation_id="22280">
+          <DiscourseConnective annotation_id="22280" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> demander à la Commission européenne de veiller particulièrement aux intérêts de la navigation fluviale <Alignment alignment="320" annotation_id="22388">
+          <DiscourseConnective annotation_id="22388" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>elle élaborera de nouveaux textes législatifs sur la mobilité urbaine.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20129" id="487" name="Renate Sommer">
+    <ParallelChunk annotation_id="20129" docOffset="119">
+      <en>(DE) Mr President, we have been debating urban transport in the EU for a very long time.</en>
+      <fr>(DE) Monsieur le Président, cela fait très longtemps que nous débattons de la question du transport urbain dans l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20218" docOffset="120">
+      <en>Why exactly?</en>
+      <fr>Pourquoi exactement?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20231" docOffset="121">
+      <en>We are not even competent for it.</en>
+      <fr>Elle n'est <DiscourseConnective annotation_id="22616">même</DiscourseConnective> pas de notre ressort.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20265" docOffset="122">
+      <en>Competence was originally devised <Alignment alignment="22703" annotation_id="20299">
+          <DiscourseConnective annotation_id="20299" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> about 80% of the population live in towns <Alignment alignment="22755" annotation_id="20349">
+          <DiscourseConnective annotation_id="20349" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, due to climate change, we now want to take this on.</en>
+      <fr>Une compétence pour cette question a été imaginée au départ <Alignment alignment="3839" annotation_id="22703">
+          <DiscourseConnective annotation_id="22703" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>environ 80 % de la population vit <DiscourseConnective annotation_id="22746">en</DiscourseConnective> ville <Alignment alignment="33825" annotation_id="22755">
+          <DiscourseConnective annotation_id="22755" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'en raison du changement climatique, nous voulons nous en occuper.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20406" docOffset="123">
+      <en>Fortunately, thanks to our protests, we were able to reduce these ambitions on the part of the European Commission to an action plan on urban transport.</en>
+      <fr>Heureusement, grâce <DiscourseConnective annotation_id="22847">à</DiscourseConnective> nos protestations, nous avons pu ramener ces ambitions de la Commission européenne <DiscourseConnective annotation_id="22932">à</DiscourseConnective> un plan d'action sur le transport urbain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20559" docOffset="124">
+      <en>My thanks to Commissioner Tajani for his insight.</en>
+      <fr>Je remercie le commissaire Tajani de sa perspicacité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20609" docOffset="125">
+      <en>Subsidere means to support rather than to prescribe, <Alignment alignment="23080" annotation_id="20662">
+          <DiscourseConnective annotation_id="20662" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> of course, as an Italian, he knows that better than I, as a German with A-level Latin.</en>
+      <fr>Subsidere signifie soutenir <DiscourseConnective annotation_id="23058">plutôt que</DiscourseConnective> prescrire, <Alignment alignment="15717" annotation_id="23080">
+          <DiscourseConnective annotation_id="23080" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> bien sûr, en <DiscourseConnective annotation_id="23098">tant qu'</DiscourseConnective>Italien, il le sait <DiscourseConnective annotation_id="23126">mieux</DiscourseConnective> <DiscourseConnective annotation_id="23132">que</DiscourseConnective> moi, qui suis une Allemande qui a passé l'épreuve de latin au baccalauréat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20753" docOffset="126">
+      <en>What is important to me, first and foremost, is that our report, Parliament's report should highlight strict compliance with the principles of subsidiarity and proportionality.</en>
+      <fr>Ce qui m'importe, <DiscourseConnective annotation_id="23230">avant</DiscourseConnective> tout, c'est <DiscourseConnective annotation_id="23248">que</DiscourseConnective> notre rapport, le rapport du Parlement, souligne le strict respect des principes de subsidiarité <DiscourseConnective annotation_id="23349">et</DiscourseConnective> de proportionnalité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20930" docOffset="127">
+      <en>Legislative measures at European level are inadmissible for urban traffic.</en>
+      <fr>Il est inadmissible d'introduire des mesures législatives au niveau européen en matière de trafic urbain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21005" docOffset="128">
+      <en>Supportive measures are what we are here for.</en>
+      <fr>Nous sommes là <DiscourseConnective annotation_id="23494">pour</DiscourseConnective> prendre des mesures de soutien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21051" docOffset="129">
+      <en>Brainstorming and encouraging the exchange of best practices make sense.</en>
+      <fr>Il est judicieux de procéder à des brainstormings <DiscourseConnective annotation_id="23581">et</DiscourseConnective> d'encourager l'échange des meilleurs pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21124" docOffset="130">
+      <en>We do not all need to reinvent the bicycle.</en>
+      <fr>Nous ne devons pas réinventer la roue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21168" docOffset="131">
+      <en>Our towns need bespoke solutions, <Alignment alignment="23718" annotation_id="21202">
+          <DiscourseConnective annotation_id="21202" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they can only be worked out by local players, <Alignment alignment="33276" annotation_id="21252">
+          <DiscourseConnective annotation_id="21252" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> only they know what is needed.</en>
+      <fr>Nos villes ont besoin de solutions sur mesure, <Alignment alignment="21202" annotation_id="23718">
+          <DiscourseConnective annotation_id="23718" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> seuls les acteurs locaux peuvent les mettre <DiscourseConnective annotation_id="23767">en</DiscourseConnective> pratique <Alignment alignment="21252" annotation_id="23779">
+          <DiscourseConnective annotation_id="23779" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>eux seuls savent ce qui est nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21291" docOffset="132">
+      <en>Municipalities need to take account of very diverse situations <Alignment alignment="25620" annotation_id="21354">
+          <DiscourseConnective annotation_id="21354" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they <Alignment alignment="23908" annotation_id="21363">
+          <DiscourseConnective annotation_id="21363" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> need sufficient room for manoeuvre, especially <Alignment alignment="4598" annotation_id="21420">
+          <DiscourseConnective annotation_id="21420" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they are to keep their high streets alive.</en>
+      <fr>Les municipalités doivent tenir compte de situations très diverses <Alignment alignment="876" annotation_id="23895">
+          <DiscourseConnective annotation_id="23895" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elles ont <Alignment alignment="13815" annotation_id="23908">
+          <DiscourseConnective annotation_id="23908" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> besoin d'une marge de manœuvre suffisante, <DiscourseConnective annotation_id="23956">en particulier</DiscourseConnective> <Alignment alignment="22316" annotation_id="23971">
+          <DiscourseConnective annotation_id="23971" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> elles doivent assurer la survie de leurs rues principales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21466" docOffset="133">
+      <en>They are important to the attractiveness of a town.</en>
+      <fr>Elles sont essentielles <DiscourseConnective annotation_id="24057">à</DiscourseConnective> l'attrait d'une ville.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21518" docOffset="134">
+      <en>It is therefore important not to exclude private cars and to focus more on logistics in the town.</en>
+      <fr>Il est <DiscourseConnective annotation_id="24089">donc</DiscourseConnective> important de ne pas exclure les voitures particulières <DiscourseConnective annotation_id="24149">et</DiscourseConnective> de se concentrer davantage sur la logistique <DiscourseConnective annotation_id="24197">en</DiscourseConnective> ville.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21616" docOffset="135">
+      <en>I should <Alignment alignment="81429" annotation_id="21625">
+          <DiscourseConnective annotation_id="21625" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like to see more support for research into inner-city retail logistics.</en>
+      <fr>Je voudrais <Alignment alignment="2487" annotation_id="24219">
+          <DiscourseConnective annotation_id="24219" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que la recherche portant sur les moyens logistiques destinés aux commerces de détail des centres villes bénéficie d'un plus large soutien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21707" docOffset="136">
+      <en>That would take some of the strain off a city.</en>
+      <fr>Cela diminuerait la pression qui pèse sur les villes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21754" docOffset="137">
+      <en>It is <Alignment alignment="24424" annotation_id="21760">
+          <DiscourseConnective annotation_id="21760" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> important to take account of demographic change.</en>
+      <fr>Il est <Alignment alignment="6635" annotation_id="24424">
+          <DiscourseConnective annotation_id="24424" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> crucial de tenir compte des changements démographiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21814" docOffset="138">
+      <en>Our society is constantly ageing.</en>
+      <fr>Notre société continue de vieillir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21848" docOffset="139">
+      <en>Mobility requirements and residential requirements are changing.</en>
+      <fr>Les exigences en matière de mobilité <DiscourseConnective annotation_id="24563">et</DiscourseConnective> de logement sont en évolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21913" docOffset="140">
+      <en>
+        <Alignment alignment="24597" annotation_id="21913">
+          <DiscourseConnective annotation_id="21913" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we want to reduce traffic, people need to be able to obtain their everyday requirements close to home, <DiscourseConnective annotation_id="22019" sense="Expansion.Conjunction">and</DiscourseConnective> that is <Alignment alignment="12655" annotation_id="22031">
+          <DiscourseConnective annotation_id="22031" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a challenge to the retail trade.</en>
+      <fr>
+        <Alignment alignment="13353" annotation_id="24597">
+          <DiscourseConnective annotation_id="24597" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous voulons réduire le trafic, les citoyens doivent pouvoir faire face à leurs besoins quotidiens près de chez eux, ce qui constitue <Alignment alignment="10880" annotation_id="24734">
+          <DiscourseConnective annotation_id="24734" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> un défi <DiscourseConnective annotation_id="24752">pour</DiscourseConnective> le commerce de détail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22069" docOffset="141">
+      <en>Anything else would simply promote the countryside.</en>
+      <fr>Toute autre mesure ferait <DiscourseConnective annotation_id="24806">simplement</DiscourseConnective> la promotion la campagne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22121" docOffset="142">
+      <en>We do not need an urban mobility observatory.</en>
+      <fr>Nous n'avons pas besoin d'un observatoire de la mobilité urbaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22167" docOffset="143">
+      <en>It would cost a great deal of money and generate a great deal of paper, which would simply be filed away in Brussels.</en>
+      <fr>Cela serait très onéreux <DiscourseConnective annotation_id="24934">et</DiscourseConnective> entraînerait une paperasserie considérable, qui serait tout <DiscourseConnective annotation_id="24997">simplement</DiscourseConnective> classée <DiscourseConnective annotation_id="25016">à</DiscourseConnective> Bruxelles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22285" id="488" name="Maria Eleni Koppa">
+    <ParallelChunk annotation_id="22285" docOffset="144">
+      <en>(EL) Mr President, this report on urban mobility forms an important part of viable mobility in Europe and an integral part of the strategy for achieving sustainable growth and the Lisbon objectives.</en>
+      <fr>(EL) Monsieur le Président, le présent rapport sur la mobilité urbaine est un élément important de la mobilité durable <DiscourseConnective annotation_id="25148">en</DiscourseConnective> Europe <DiscourseConnective annotation_id="25158">et</DiscourseConnective> fait partie intégrante de la stratégie visant <DiscourseConnective annotation_id="25207">à</DiscourseConnective> atteindre une croissance durable <DiscourseConnective annotation_id="25242">et</DiscourseConnective> les objectifs de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22484" docOffset="145">
+      <en>The challenge is for innovative actions to be adopted and legislative measures to be taken that will significantly improve the quality of life of citizens in cities.</en>
+      <fr>Le défi consiste à entreprendre des actions innovatrices <DiscourseConnective annotation_id="25329">et</DiscourseConnective> <DiscourseConnective annotation_id="25332">à</DiscourseConnective> adopter des mesures législatives qui amélioreront considérablement la qualité de vie des citoyens qui vivent <DiscourseConnective annotation_id="25443">en</DiscourseConnective> ville.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22650" docOffset="146">
+      <en>It is a fact that the daily lives of European citizens have become considerably more difficult as a result of stress from travelling, congestion, pollution, noise and the deterioration in the environment.</en>
+      <fr>Il est certain <DiscourseConnective annotation_id="25468">que</DiscourseConnective> la vie quotidienne des citoyens européens est devenue bien plus difficile <DiscourseConnective annotation_id="25546">à</DiscourseConnective> cause du stress occasionné par les déplacements, les embouteillages, la pollution, le bruit <DiscourseConnective annotation_id="25640">et</DiscourseConnective> la dégradation de l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22855" docOffset="147">
+      <en>A balance <Alignment alignment="25685" annotation_id="22865">
+          <DiscourseConnective annotation_id="22865" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> needs to be struck between the ambition, on the one hand, to develop the common transport policy as a right to mobility and as an important part of economic growth and, <Alignment alignment="69151" annotation_id="23044">
+          <Alignment alignment="11503" annotation_id="23044">
+            <Alignment alignment="31466" annotation_id="23044">
+              <DiscourseConnective annotation_id="23044" sense="Comparison.Contrast">on the other hand</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, an integrated approach that will improve traffic congestion and make a drastic contribution towards combating climate change.</en>
+      <fr>Il est <Alignment alignment="9195" annotation_id="25685">
+          <DiscourseConnective annotation_id="25685" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> nécessaire de trouver un équilibre entre, <DiscourseConnective annotation_id="25732">d'une part</DiscourseConnective>, l'ambition de développer la politique commune des transports en <DiscourseConnective annotation_id="25808">tant que</DiscourseConnective> droit <DiscourseConnective annotation_id="25823">à</DiscourseConnective> la mobilité <DiscourseConnective annotation_id="25837">et</DiscourseConnective> en <DiscourseConnective annotation_id="25843">tant qu'</DiscourseConnective>élément essentiel de la croissance économique <DiscourseConnective annotation_id="25897">et</DiscourseConnective>, <Alignment alignment="2596" annotation_id="25901">
+          <Alignment alignment="12843" annotation_id="25901">
+            <Alignment alignment="5395" annotation_id="25901">
+              <DiscourseConnective annotation_id="25901" sense="Comparison.Contrast">d'autre part</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, une approche intégrée qui réduira les embouteillages <DiscourseConnective annotation_id="25968">et</DiscourseConnective> qui contribuera largement <DiscourseConnective annotation_id="25997">à</DiscourseConnective> la lutte contre le changement climatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23189" docOffset="148">
+      <en>In brief, that will promote a more humane life.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26041">En bref</DiscourseConnective>, cela ira dans le sens d'une vie plus humaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23237" docOffset="149">
+      <en>We need to develop combined means of transport as quickly as possible and give citizens information on all urban transport networks, so that they are in a position to choose.</en>
+      <fr>Nous devons concevoir le plus rapidement possible des moyens de transports combinés <DiscourseConnective annotation_id="26180">et</DiscourseConnective> fournir aux citoyens des informations sur tous les réseaux de transport urbain, <DiscourseConnective annotation_id="26263">de manière à ce qu'</DiscourseConnective>ils soient <DiscourseConnective annotation_id="26293">en</DiscourseConnective> mesure de faire des choix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23412" docOffset="150">
+      <en>I too should like to congratulate the rapporteur on his very good and substantial report and to ask the European Commission not to waste any time or effort in preparing the action plan.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="26335">aussi</DiscourseConnective> féliciter le rapporteur <DiscourseConnective annotation_id="26365">pour</DiscourseConnective> son très bon <DiscourseConnective annotation_id="26383">et</DiscourseConnective> long rapport <DiscourseConnective annotation_id="26399">et</DiscourseConnective> demander à la Commission européenne de ne pas gaspiller son temps <DiscourseConnective annotation_id="26468">et</DiscourseConnective> ses efforts dans la préparation du plan d'action.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23598" id="489" name="Mieczysław Edmund Janowski">
+    <ParallelChunk annotation_id="23598" docOffset="151">
+      <en>(PL) Mr President, I congratulate Mr Savary on his treatment of the subject.</en>
+      <fr>(PL) Monsieur le Président, je félicite M. Savary d'avoir traité de ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23675" docOffset="152">
+      <en>Transport is a fundamental problem in urban areas.</en>
+      <fr>Le transport est un problème fondamental dans les zones urbaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23726" docOffset="153">
+      <en>These issues, in accordance with the subsidiarity principle, are governed by domestic, and especially local, legislation.</en>
+      <fr>Conformément au principe de subsidiarité, ces questions sont régies par la législation nationale <DiscourseConnective annotation_id="26762">et</DiscourseConnective>, <DiscourseConnective annotation_id="26766">plus particulièrement</DiscourseConnective>, par la législation locale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23848" docOffset="154">
+      <en>
+        <Alignment alignment="35849" annotation_id="23848">
+          <DiscourseConnective annotation_id="23848" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the importance of this problem should be recognised, <Alignment alignment="8635" annotation_id="23910">
+          <DiscourseConnective annotation_id="23910" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> specific help and coordination should be arranged at the European level.</en>
+      <fr>
+        <Alignment alignment="23848" annotation_id="26816">
+          <DiscourseConnective annotation_id="26816" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, il est indispensable de reconnaître l'importance de ce problème <Alignment alignment="3165" annotation_id="26891">
+          <DiscourseConnective annotation_id="26891" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il convient de définir une aide concrète <DiscourseConnective annotation_id="26935">et</DiscourseConnective> une coordination au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23987" docOffset="155">
+      <en>This concerns both the promotion of good experiences and the propagation of innovative, technical and organisational solutions.</en>
+      <fr>Cela concerne tant la promotion des bonnes expériences <DiscourseConnective annotation_id="27030">que</DiscourseConnective> la diffusion de solutions innovatrices, techniques <DiscourseConnective annotation_id="27085">et</DiscourseConnective> organisationnelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24115" docOffset="156">
+      <en>Special support is needed for intelligent transport systems in urban areas, which allow for effective traffic management as well as safety.</en>
+      <fr>Un soutien particulier est nécessaire <DiscourseConnective annotation_id="27146">pour</DiscourseConnective> les systèmes de transport intelligents des zones urbaines, qui assurent une gestion efficace du trafic, <DiscourseConnective annotation_id="27255">ainsi</DiscourseConnective> que la sécurité de celui-ci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24255" docOffset="157">
+      <en>Combining the potential of transport, information technology and telecommunications is useful here.</en>
+      <fr>
+        <DiscourseConnective annotation_id="27290">À cet égard</DiscourseConnective>, il est utile de combiner le potentiel des transports, de la technologie de l'information <DiscourseConnective annotation_id="27392">et</DiscourseConnective> des télécommunications.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24355" docOffset="158">
+      <en>
+        <Alignment alignment="27568" annotation_id="24355">
+          <DiscourseConnective annotation_id="24355" sense="Expansion.Conjunction">Also</DiscourseConnective>
+        </Alignment> needed are modal solutions, which use various means of mass transport and reduce congestion in city centres.</en>
+      <fr>Des solutions multimodales qui associent plusieurs moyens de transport public <DiscourseConnective annotation_id="27497">et</DiscourseConnective> qui réduisent les embouteillages dans les centres villes, s'avèrent <Alignment alignment="12050" annotation_id="27568">
+          <DiscourseConnective annotation_id="27568" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24469" docOffset="159">
+      <en>I consider it essential to change urban planning models <Alignment alignment="7713" annotation_id="24525">
+          <Alignment alignment="27669" annotation_id="24525">
+            <DiscourseConnective annotation_id="24525" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> urban transport will be friendly to people and the environment.</en>
+      <fr>J'estime qu'il est essentiel de modifier les modèles de planification urbaine <Alignment alignment="13416" annotation_id="27669">
+          <Alignment alignment="14736" annotation_id="27669">
+            <DiscourseConnective annotation_id="27669" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> le transport urbain <DiscourseConnective annotation_id="27698">soit</DiscourseConnective> convivial <DiscourseConnective annotation_id="27713">et</DiscourseConnective> écologique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24597" docOffset="160">
+      <en>I <Alignment alignment="28955" annotation_id="24599">
+          <DiscourseConnective annotation_id="24599" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> support the concept of creating a special financial instrument for urban mobility in the next financial perspective.</en>
+      <fr>Je soutiens <Alignment alignment="54" annotation_id="27740">
+          <DiscourseConnective annotation_id="27740" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> l'idée de prévoir un instrument financier particulier <DiscourseConnective annotation_id="27804">pour</DiscourseConnective> la mobilité urbaine dans les prochaines perspectives financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24721" docOffset="161">
+      <en>Let us remember what the rapporteur has emphasised, that almost 80% of the inhabitants of the EU live in urban areas.</en>
+      <fr>Rappelons-nous <DiscourseConnective annotation_id="27890">que</DiscourseConnective> le rapporteur a souligné <DiscourseConnective annotation_id="27919">que</DiscourseConnective> près de 80 % des habitants de l'UE vivent dans des zones urbaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24839" docOffset="162">
+      <en>They lose a lot of time because of the bad organisation of transport.</en>
+      <fr>Ils perdent beaucoup de temps à cause de la mauvaise organisation des transports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24909" docOffset="163">
+      <en>Let us not waste that time.</en>
+      <fr>Ne perdons pas ce temps-là.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="24937" id="490" language="IT" name="Antonio Tajani">
+    <ParallelChunk annotation_id="24937" docOffset="164">
+      <en>Mr President, ladies and gentlemen, in response to this I can emphasise once again that I am committed to presenting the action plan in 2009.</en>
+      <fr>vice-président de la Commission. - (IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="28172">et</DiscourseConnective> Messieurs, <DiscourseConnective annotation_id="28186">en</DiscourseConnective> réponse <DiscourseConnective annotation_id="28197">à</DiscourseConnective> cela, je peux insister une fois <DiscourseConnective annotation_id="28231">encore</DiscourseConnective> sur le fait <DiscourseConnective annotation_id="28250">que</DiscourseConnective> je me suis engagé <DiscourseConnective annotation_id="28272">à</DiscourseConnective> présenter un plan d'action <DiscourseConnective annotation_id="28301">en</DiscourseConnective> 2009.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25079" docOffset="165">
+      <en>I am aware of the sense of urgency felt by the majority of Members, <Alignment alignment="56698" annotation_id="25147">
+          <DiscourseConnective annotation_id="25147" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> - <Alignment alignment="28394" annotation_id="25153">
+          <DiscourseConnective annotation_id="25153" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr El Khadraoui pointed out - there are legal objections in several European institutions, not just the Commission, <Alignment alignment="28554" annotation_id="25272">
+          <DiscourseConnective annotation_id="25272" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we must overcome these by convincing those who have doubts that an action plan of this kind, I repeat, will not breach the principle of subsidiarity.</en>
+      <fr>Je suis conscient du sentiment d'urgence ressenti par la majorité des députés, <Alignment alignment="17106" annotation_id="28389">
+          <DiscourseConnective annotation_id="28389" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="18558" annotation_id="28394">
+          <DiscourseConnective annotation_id="28394" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a indiqué M. El Khadraoui, des réticences de nature juridique sont exprimées dans plusieurs institutions européennes, et pas seulement à la Commission, <Alignment alignment="17805" annotation_id="28554">
+          <DiscourseConnective annotation_id="28554" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous devons les surmonter <DiscourseConnective annotation_id="28583">en</DiscourseConnective> convainquant les personnes qui craignent <DiscourseConnective annotation_id="28627">qu'</DiscourseConnective>un plan d'action de ce type - je le répète - n'enfreigne le principe de subsidiarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25426" docOffset="166">
+      <en>I will say it again, having studied Latin for many years, I am very familiar with the meaning of the word, which is positive; it means 'to help'.</en>
+      <fr>Je le dis à nouveau, ayant étudié le latin durant de nombreuses années: je connais très bien la signification de ce mot, qui est positif; il signifie "aider".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25572" docOffset="167">
+      <en>After the debate we have had today <Alignment alignment="26311" annotation_id="25607">
+          <DiscourseConnective annotation_id="25607" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> having read Mr Savary's text, we want to carry on down this route.</en>
+      <fr>À la suite du débat que nous avons eu aujourd'hui <Alignment alignment="25607" annotation_id="28925">
+          <DiscourseConnective annotation_id="28925" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> après avoir lu le rapport de M. Savary, nous voulons continuer de suivre cette voie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25678" docOffset="168">
+      <en>For my part, I have no hesitations, <Alignment alignment="29044" annotation_id="25714">
+          <DiscourseConnective annotation_id="25714" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> in order to reach our goal we need to persuade many people, <Alignment alignment="54547" annotation_id="25778">
+          <DiscourseConnective annotation_id="25778" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think the right way to do this is with strong political, technical but also legal arguments.</en>
+      <fr>
+        <DiscourseConnective annotation_id="29013">Pour</DiscourseConnective> ma part, je n'hésite pas, <Alignment alignment="14547" annotation_id="29044">
+          <DiscourseConnective annotation_id="29044" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="29049">pour</DiscourseConnective> atteindre notre objectif, nous devons convaincre beaucoup de monde <Alignment alignment="3637" annotation_id="29121">
+          <DiscourseConnective annotation_id="29121" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense que la bonne façon d'y parvenir est d'apporter de solides arguments politiques, techniques <DiscourseConnective annotation_id="29224">ainsi</DiscourseConnective> <DiscourseConnective annotation_id="29230">que</DiscourseConnective> juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25877" docOffset="169">
+      <en>The text drawn up by Parliament will certainly be of great assistance in seeking to overcome the objections that I am sure can be overcome in the next few months.</en>
+      <fr>Le texte <DiscourseConnective annotation_id="29255">que</DiscourseConnective> le Parlement a rédigé permettra certainement de surmonter les objections formulées, qui, j'en suis convaincu, peuvent être surmontées dans le courant des prochains mois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26040" docOffset="170">
+      <en>The Commission will <Alignment alignment="29453" annotation_id="26060">
+          <DiscourseConnective annotation_id="26060" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> give citizens an action plan, which will definitely take full account of the work you have done in recent weeks and months.</en>
+      <fr>La Commission apportera <Alignment alignment="12187" annotation_id="29453">
+          <DiscourseConnective annotation_id="29453" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> aux citoyens un plan d'action qui tiendra tout à fait compte du travail que vous avez accompli ces dernières semaines <DiscourseConnective annotation_id="29576">et</DiscourseConnective> ces derniers mois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26189" docOffset="171">
+      <en>That is why I would like to thank you again, reaffirming my commitment and my desire to press ahead in the direction taken by my predecessor and <DiscourseConnective annotation_id="26334" sense="Expansion.Conjunction">also</DiscourseConnective> chosen by the European Parliament, <Alignment alignment="11669" annotation_id="26374">
+          <DiscourseConnective annotation_id="26374" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> wishing to ensure that the decision is supported by as many people as possible <Alignment alignment="29876" annotation_id="26459">
+          <DiscourseConnective annotation_id="26459" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> the plan will be more effective.</en>
+      <fr>
+        <DiscourseConnective annotation_id="29598">C'est pourquoi</DiscourseConnective> je voudrais encore vous remercier, en répétant mon engagement <DiscourseConnective annotation_id="29675">et</DiscourseConnective> mon désir de continuer dans la direction que mon prédécesseur a suivie <DiscourseConnective annotation_id="29749">et</DiscourseConnective> que le Parlement européen a choisie, <Alignment alignment="8384" annotation_id="29789">
+          <DiscourseConnective annotation_id="29789" sense="Comparison.Contrast">et</DiscourseConnective>
+        </Alignment> en souhaitant m'assurer <DiscourseConnective annotation_id="29816">que</DiscourseConnective> la décision est soutenue par le plus de monde possible, <Alignment alignment="8889" annotation_id="29876">
+          <DiscourseConnective annotation_id="29876" sense="Contingency.Cause.Result">de manière à</DiscourseConnective>
+        </Alignment> rendre le plan plus efficace.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26500" docOffset="172">
+      <en>Choosing to adopt the plan perhaps a few weeks earlier, <Alignment alignment="29985" annotation_id="26556">
+          <DiscourseConnective annotation_id="26556" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> without the full support of all parties, may not be the most helpful way to achieve the goals we all believe in.</en>
+      <fr>
+        <DiscourseConnective annotation_id="29919">Si</DiscourseConnective> le plan avait peut-être été adopté quelques semaines plus tôt, <Alignment alignment="16699" annotation_id="29985">
+          <DiscourseConnective annotation_id="29985" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="29990">sans</DiscourseConnective> le soutien <DiscourseConnective annotation_id="30006">total</DiscourseConnective> de tous les partis, cela n'aurait pas été le moyen le plus efficace d'atteindre les objectifs auxquels nous croyons tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26673" docOffset="173">
+      <en>
+        <Alignment alignment="30134" annotation_id="26673">
+          <DiscourseConnective annotation_id="26673" sense="Comparison.Concession">Nonetheless</DiscourseConnective>
+        </Alignment>, I think that after this debate and after Parliament's decision we will have made some significant progress, <Alignment alignment="30268" annotation_id="26794">
+          <DiscourseConnective annotation_id="26794" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="30272" annotation_id="26798">
+          <DiscourseConnective annotation_id="26798" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> the requests made by the majority of Members - <Alignment alignment="30345" annotation_id="26855">
+          <DiscourseConnective annotation_id="26855" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> even during the course of the debate there have been different undertones concerning the action plan - can, I think, be brought to a satisfactory conclusion in the coming months.</en>
+      <fr>
+        <Alignment alignment="20498" annotation_id="30134">
+          <DiscourseConnective annotation_id="30134" sense="Comparison.Concession">Néanmoins</DiscourseConnective>
+        </Alignment>, je pense <DiscourseConnective annotation_id="30154">qu'</DiscourseConnective>à l'issue de ce débat <DiscourseConnective annotation_id="30179">et</DiscourseConnective> <DiscourseConnective annotation_id="30182">après</DiscourseConnective> la décision que le Parlement aura prise, nous aurons considérablement progressé <Alignment alignment="22044" annotation_id="30268">
+          <DiscourseConnective annotation_id="30268" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="20256" annotation_id="30272">
+          <DiscourseConnective annotation_id="30272" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, les demandes que la majorité des députés ont formulées - <Alignment alignment="4835" annotation_id="30345">
+          <DiscourseConnective annotation_id="30345" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="30356">même</DiscourseConnective> durant le débat, nous avons observé différents sous-entendus <DiscourseConnective annotation_id="30422">à propos</DiscourseConnective> du plan d'action - pourront, je le pense, être satisfaites dans les prochains mois.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="27042" id="492" language="FR" name="Gilles Savary">
+    <ParallelChunk annotation_id="27042" docOffset="174">
+      <en>Madam President, ladies and gentlemen, I should obviously like straight away to reassure Mrs Sommer during this discussion.</en>
+      <fr>rapporteur. - Madame la Présidente, mes chers collègues, dans cette discussion, je voudrais évidemment, d'emblée, rassurer Mme Sommer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27166" docOffset="175">
+      <en>There have been many laws here that have affected local authorities: on the pitting of the Stadtwerke, or municipal utilities, against one another, <Alignment alignment="30775" annotation_id="27314">
+          <DiscourseConnective annotation_id="27314" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>; on public service obligations in the transport sector; and on the directives on public contracts.</en>
+      <fr>Il y a eu ici beaucoup de législations qui ont concerné les collectivités locales sur la mise en concurrence des Stadtwerke, <Alignment alignment="32094" annotation_id="30775">
+          <DiscourseConnective annotation_id="30775" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, sur les obligations de service public dans les transports, sur les directives concernant les marchés publics.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27425" docOffset="176">
+      <en>Well, this is not what this is about.</en>
+      <fr>Eh bien, il ne <DiscourseConnective annotation_id="30913">s'</DiscourseConnective>agit pas de cela ici.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27463" docOffset="177">
+      <en>This is much more to do with subsidiarity.</en>
+      <fr>C'est encore beaucoup plus subsidiaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27506" docOffset="178">
+      <en>It is not a question of deciding here that a local council, a municipality or an urban area should become a '30 zone' or should give priority to rail travel.</en>
+      <fr>Il n'est pas question de décider ici <DiscourseConnective annotation_id="31014">qu'</DiscourseConnective>une commune, qu'une municipalité <DiscourseConnective annotation_id="31050">ou</DiscourseConnective> qu'une zone urbaine fassent une " zone 30 " <DiscourseConnective annotation_id="31097">ou</DiscourseConnective> privilégient le chemin de fer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27664" docOffset="179">
+      <en>I have made sure that we do not revert to this type of debate.</en>
+      <fr>J'ai fait en sorte <DiscourseConnective annotation_id="31150">qu'</DiscourseConnective>on ne rentre pas dans ce type de débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27727" docOffset="180">
+      <en>The question I asked myself was: 'What can the European Union's added value be?'</en>
+      <fr>Ce que je me suis posé comme question, c'est: " Quelle peut être la valeur ajoutée de l'Union européenne?".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27808" docOffset="181">
+      <en>The answer is, firstly, its desire to act.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31301">D'abord</DiscourseConnective> son intérêt <DiscourseConnective annotation_id="31321">à</DiscourseConnective> agir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27851" docOffset="182">
+      <en>The European Union cannot leave the urban question to one side the very same month - December 2008 - that it sets itself, thanks to Mrs Merkel and to Mr Sarkozy, a particularly ambitious climate-change plan.</en>
+      <fr>L'Union européenne ne peut pas laisser la question urbaine de côté le <DiscourseConnective annotation_id="31399">même</DiscourseConnective> mois - décembre 2008 - où elle s'assigne, grâce <DiscourseConnective annotation_id="31452">à</DiscourseConnective> Mme Merkel <DiscourseConnective annotation_id="31465">ou</DiscourseConnective> <DiscourseConnective annotation_id="31468">à</DiscourseConnective> M. Sarkozy, un plan climat particulièrement ambitieux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28059" docOffset="183">
+      <en>How can we embark on a 'three times twenty' climate-change plan and say 'I am not interested in the urban environment', <DiscourseConnective annotation_id="28179" sense="Temporal.Synchrony">when</DiscourseConnective> the latter has the biggest influence on climate change?</en>
+      <fr>Comment est-ce que l'on peut se lancer dans un plan climat qui dit " trois fois vingt " <DiscourseConnective annotation_id="31613">et</DiscourseConnective> dire " je ne m'intéresse pas <DiscourseConnective annotation_id="31645">à</DiscourseConnective> la zone urbaine ", qui est celle qui influe le plus sur la question climatique?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28240" docOffset="184">
+      <en>This is a question of political consistency - European political consistency - <Alignment alignment="31804" annotation_id="28319">
+          <DiscourseConnective annotation_id="28319" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> we had agreed, <DiscourseConnective annotation_id="28340" sense="Expansion.Conjunction">and</DiscourseConnective> the governments had too, to embark on the climate-change plan.</en>
+      <fr>C'est une question de cohérence politique - cohérence politique européenne - <Alignment alignment="9715" annotation_id="31804">
+          <DiscourseConnective annotation_id="31804" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> nous avons été d'accord les uns et les autres, et les gouvernements, <DiscourseConnective annotation_id="31881">pour</DiscourseConnective> se lancer dans le plan climat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28407" docOffset="185">
+      <en>There is a legitimate need to focus on the urban environment, <Alignment alignment="31965" annotation_id="28469">
+          <DiscourseConnective annotation_id="28469" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we cannot escape it, either in the area of transport or in other areas.</en>
+      <fr>Il y a une légitimité <DiscourseConnective annotation_id="31939">à</DiscourseConnective> s'intéresser <DiscourseConnective annotation_id="31954">à</DiscourseConnective> l'urbain <Alignment alignment="19761" annotation_id="31965">
+          <DiscourseConnective annotation_id="31965" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on n'y échappera pas, sur les transports <DiscourseConnective annotation_id="32009">comme</DiscourseConnective> dans d'autres domaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28545" docOffset="186">
+      <en>Yes, we must ensure that local councils take sovereign decisions; they are closer to us.</en>
+      <fr>Mais oui, il faut faire en sorte <DiscourseConnective annotation_id="32072">que</DiscourseConnective> les communes décident souverainement, elles sont plus près de nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28634" docOffset="187">
+      <en>
+        <Alignment alignment="40518" annotation_id="28634">
+          <DiscourseConnective annotation_id="28634" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, what we can do is to ensure that they meet with one another, that they exchange best practices, and information.</en>
+      <fr>
+        <Alignment alignment="28634" annotation_id="32144">
+          <DiscourseConnective annotation_id="32144" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment>, ce que nous pouvons faire, c'est faire en sorte <DiscourseConnective annotation_id="32198">qu'</DiscourseConnective>elles se rencontrent, <DiscourseConnective annotation_id="32223">qu'</DiscourseConnective>il y ait un échange de meilleures pratiques, un échange d'informations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28756" docOffset="188">
+      <en>We can ensure that they are encouraged to implement urban development plans, which is something that they have not all been able to do.</en>
+      <fr>Faire en sorte <DiscourseConnective annotation_id="32313">qu'</DiscourseConnective>on les incite <DiscourseConnective annotation_id="32330">à</DiscourseConnective> mettre en place des plans de développement urbain, ce <DiscourseConnective annotation_id="32386">que</DiscourseConnective> toutes n'ont pas su faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28892" docOffset="189">
+      <en>We can ensure that they integrate all modes of transport: soft transport, public transport, water transport - Mr Blokland is right - and rail transport.</en>
+      <fr>Faire en sorte <DiscourseConnective annotation_id="32432">qu'</DiscourseConnective>elles intègrent toutes les dimensions des déplacements: les déplacements doux, les déplacements collectifs, les déplacements par la voie d'eau - M. Blokland a raison -, les déplacements par le chemin de fer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29045" docOffset="190">
+      <en>We can ensure that they make urban transport more attractive to users.</en>
+      <fr>Faire en sorte <DiscourseConnective annotation_id="32658">qu'</DiscourseConnective>elles rendent les transports urbains plus attractifs <DiscourseConnective annotation_id="32714">pour</DiscourseConnective> l'usager.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29116" docOffset="191">
+      <en>That is what we are aiming for, <Alignment alignment="32760" annotation_id="29148">
+          <DiscourseConnective annotation_id="29148" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is why we are calling for a financial instrument.</en>
+      <fr>C'est cela que nous cherchons, <Alignment alignment="4513" annotation_id="32760">
+          <DiscourseConnective annotation_id="32760" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est la raison pour laquelle nous demandons qu'il y ait un outil financier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29207" docOffset="192">
+      <en>There is Marco Polo, which encourages the use of combined transport.</en>
+      <fr>Il y a Marco Polo qui incite au transport combiné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29276" docOffset="193">
+      <en>There are the URBAN programmes.</en>
+      <fr>Il y a eu les programmes URBAN.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29308" docOffset="194">
+      <en>We have several European programmes that provide incentives.</en>
+      <fr>Nous avons plusieurs programmes européens qui sont des programmes incitatifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29369" docOffset="195">
+      <en>We are not inventing them this time; that has been going on for years.</en>
+      <fr>Nous ne les inventons pas cette fois-ci, cela fait des années que ça dure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29440" docOffset="196">
+      <en>Without its being increased, the next financial perspective should be reoriented towards urban transport.</en>
+      <fr>Eh bien, nous devrions avoir, dans les prochaines perspectives financières, <DiscourseConnective annotation_id="33152">sans</DiscourseConnective> les augmenter, une réorientation vers les transports urbains.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29546" docOffset="197">
+      <en>That is our proposal.</en>
+      <fr>Voilà ce que nous proposons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29568" docOffset="198">
+      <en>To conclude, I would say - Madam President, excuse me, I am the rapporteur - to Mr Tajani that, <Alignment alignment="33354" annotation_id="29664">
+          <DiscourseConnective annotation_id="29664" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment>, tomorrow, we have a very large majority, he should be able to go back to the Commission and say: 'I believe that we must do something, <Alignment alignment="6832" annotation_id="29803">
+          <DiscourseConnective annotation_id="29803" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we have legitimacy <Alignment alignment="33547" annotation_id="29830">
+          <DiscourseConnective annotation_id="29830" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="15805" annotation_id="29834">
+          <DiscourseConnective annotation_id="29834" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> Parliament has not acted alone'.</en>
+      <fr>Et je dis, <DiscourseConnective annotation_id="33259">pour</DiscourseConnective> en terminer - Madame la Présidente, excusez-moi, je suis le rapporteur - <DiscourseConnective annotation_id="33337">à</DiscourseConnective> M. Tajani <DiscourseConnective annotation_id="33349">que</DiscourseConnective>, <Alignment alignment="16971" annotation_id="33354">
+          <DiscourseConnective annotation_id="33354" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> demain nous avons une très large majorité, il devrait pouvoir revenir devant la Commission <DiscourseConnective annotation_id="33448">et</DiscourseConnective> lui dire: " Je crois <DiscourseConnective annotation_id="33472">que</DiscourseConnective> nous devons faire quelque chose, <Alignment alignment="4739" annotation_id="33509">
+          <DiscourseConnective annotation_id="33509" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous en avons la légitimité <Alignment alignment="29830" annotation_id="33547">
+          <DiscourseConnective annotation_id="33547" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="29834" annotation_id="33550">
+          <DiscourseConnective annotation_id="33550" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> le Parlement n'a pas agi seul ".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29875" docOffset="199">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29886" id="493" name="President">
+    <ParallelChunk annotation_id="29886" docOffset="200">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29908" docOffset="201">
+      <en>The vote will take place tomorrow.</en>
+      <fr>Le vote aura lieu demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29943" docOffset="202">
+      <en>Written Statements (Rule 142)</en>
+      <fr>Déclaration écrite (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29973" id="494" language="RO" name="Marian-Jean Marinescu ">
+    <ParallelChunk annotation_id="29973" docOffset="203">
+      <en>European citizens' quality of life depends directly on making urban transport more convenient and greener.</en>
+      <fr>par écrit. - (RO) La qualité de vie des citoyens européens dépend directement du caractère plus pratique <DiscourseConnective annotation_id="33795">et</DiscourseConnective> écologique du transport urbain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30080" docOffset="204">
+      <en>For this reason, making transport accessible and supporting interoperability are vital actions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="33830">C'est pourquoi</DiscourseConnective> il est crucial de rendre les moyens de transport accessibles <DiscourseConnective annotation_id="33906">et</DiscourseConnective> de soutenir l'interopérabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30176" docOffset="205">
+      <en>At the same time, the investments channelled into these types of public works are an effective way of investing funds provided in the European and national economic recovery plans.</en>
+      <fr>
+        <DiscourseConnective annotation_id="33941">En même temps</DiscourseConnective>, les investissements axés sur ces types de travaux publics constituent un moyen efficace d'investir les fonds prévus dans les plans de relance économique européens <DiscourseConnective annotation_id="34119">et</DiscourseConnective> nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30357" docOffset="206">
+      <en>This approach is about focusing on citizens in their dual role of workers - through the creation of new jobs - and beneficiaries of transport services and of the improvement in the quality of the environment.</en>
+      <fr>Cette approche vise à se concentrer sur les citoyens dans leur double rôle de travailleurs - par la création de nouveaux emplois - <DiscourseConnective annotation_id="34264">et</DiscourseConnective> de bénéficiaires des services de transport <DiscourseConnective annotation_id="34310">et</DiscourseConnective> de l'amélioration de la qualité de l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30566" docOffset="207">
+      <en>
+        <Alignment alignment="34365" annotation_id="30566">
+          <DiscourseConnective annotation_id="30566" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, numerous European initiatives <Alignment alignment="34401" annotation_id="30605">
+          <DiscourseConnective annotation_id="30605" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> recommendations on improving urban mobility need an integrated approach.</en>
+      <fr>
+        <Alignment alignment="4792" annotation_id="34365">
+          <DiscourseConnective annotation_id="34365" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, bon nombre d'initiatives <Alignment alignment="6041" annotation_id="34401">
+          <DiscourseConnective annotation_id="34401" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de recommandations européennes relatives à l'amélioration de la mobilité urbaine ont besoin d'une approche intégrée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30682" docOffset="208">
+      <en>Observing the principle of subsidiarity does not exclude the need to implement a consistent legal framework and create a common reference framework which includes, apart from integrated recommendations, a comprehensive set of good practices.</en>
+      <fr>Le respect du principe de subsidiarité n'exclut pas la nécessité de mettre en œuvre un cadre juridique cohérent <DiscourseConnective annotation_id="34633">et</DiscourseConnective> d'instaurer un cadre de référence commun qui inclut, outre les recommandations intégrées, un ensemble complet de bonnes pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30924" docOffset="209">
+      <en>As a result of this, the local authorities directly responsible for this matter will have both the opportunity to and interest in strengthening their cooperation with all those interested in the sustainable development of transport at local and regional level.</en>
+      <fr>
+        <DiscourseConnective annotation_id="34767">Par conséquent</DiscourseConnective>, les autorités locales qui sont directement compétentes dans ce domaine auront l'occasion, <DiscourseConnective annotation_id="34873">et</DiscourseConnective> c'est <DiscourseConnective annotation_id="34882">en même temps</DiscourseConnective> dans leur intérêt, de renforcer leur coopération avec toutes les parties intéressées par le développement durable du transport au niveau local <DiscourseConnective annotation_id="35039">et</DiscourseConnective> régional.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31185" docOffset="210">
+      <en>I too call on the European Commission to urgently draw up the action plan for urban mobility in order to speed up the consistent integration of this sector as part of the European transport network in general.</en>
+      <fr>Je demande <DiscourseConnective annotation_id="35063">également</DiscourseConnective> <DiscourseConnective annotation_id="35073">à</DiscourseConnective> la Commission européenne d'élaborer de toute urgence le plan d'action sur la mobilité urbaine <DiscourseConnective annotation_id="35169">afin d'</DiscourseConnective>accélérer l'intégration cohérente de ce secteur dans le réseau européen de transport <DiscourseConnective annotation_id="35261">en</DiscourseConnective> général.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="31395" id="495" language="BG" name="Dushana Zdravkova ">
+    <ParallelChunk annotation_id="31395" docOffset="211">
+      <en>The existing technologies and means for transporting passengers and goods in an urban environment have reached their absolute limit.</en>
+      <fr>par écrit. - (BG) Les technologies <DiscourseConnective annotation_id="35308">et</DiscourseConnective> moyens actuels destinés au transport de passagers <DiscourseConnective annotation_id="35361">et</DiscourseConnective> de marchandises dans un environnement urbain ont atteint leur limite absolue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31528" docOffset="212">
+      <en>
+        <Alignment alignment="15125" annotation_id="31528">
+          <DiscourseConnective annotation_id="31528" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, smaller European cities are already being choked by vehicle traffic.</en>
+      <fr>
+        <Alignment alignment="28037" annotation_id="35442">
+          <DiscourseConnective annotation_id="35442" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, les villes européennes plus petites sont <DiscourseConnective annotation_id="35493">déjà</DiscourseConnective> engorgées par le trafic de véhicules.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31605" docOffset="213">
+      <en>In order for us to improve our citizens' quality of life, we must speed up the development and implementation of scientific research and innovation in the area of urban mobility.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35536">Pour que</DiscourseConnective> nous puissions améliorer la qualité de vie de nos concitoyens, nous devons accélérer le développement <DiscourseConnective annotation_id="35647">et</DiscourseConnective> la mise en œuvre des recherches <DiscourseConnective annotation_id="35682">et</DiscourseConnective> des innovations scientifiques dans le domaine de la mobilité urbaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31784" docOffset="214">
+      <en>It is definitely the case that channelling resources into simply expanding the existing infrastructure will not help us overcome the growing crisis.</en>
+      <fr>Il est tout à fait certain <DiscourseConnective annotation_id="35782">que</DiscourseConnective> la concentration des ressources sur la simple extension des infrastructures existantes ne nous permettra pas de surmonter la crise croissante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31933" docOffset="215">
+      <en>We must find new, 'intelligent' solutions for tackling not only current, but also future problems with urban transport.</en>
+      <fr>Nous devons trouver de nouvelles solutions "intelligentes" <DiscourseConnective annotation_id="35988">pour</DiscourseConnective> nous attaquer aux problèmes actuels <DiscourseConnective annotation_id="36029">et</DiscourseConnective> futurs en matière de transport urbain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32053" docOffset="216">
+      <en>This is why I welcome the suggestion for developing a new generation CIVITAS programme <Alignment alignment="36174" annotation_id="32140">
+          <DiscourseConnective annotation_id="32140" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I think that the focus must be on developing the next generation of information technology for managing traffic flows.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36071">C'est pourquoi</DiscourseConnective> je me réjouis de la proposition d'élaborer un programme CIVITAS de nouvelle génération, <Alignment alignment="32140" annotation_id="36174">
+          <DiscourseConnective annotation_id="36174" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="36187">qu'</DiscourseConnective>il est indispensable de se concentrer sur la mise <DiscourseConnective annotation_id="36240">au point d'</DiscourseConnective>une technologie de l'information de nouvelle génération <DiscourseConnective annotation_id="36307">pour</DiscourseConnective> la gestion du trafic.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32262" docOffset="217">
+      <en>The integrated planning approach adopted in recent years is relatively widely used in drawing up urban plans for larger cities in Europe.</en>
+      <fr>L'approche de planification intégrée adoptée il y a quelques années est assez largement utilisée <DiscourseConnective annotation_id="36431">pour</DiscourseConnective> l'élaboration de plans urbains destinés à des villes européennes plus grandes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32400" docOffset="218">
+      <en>The creation and funding of a permanent European structure, which will gather and spread good practice in this area, as well as promote dialogue between the interested parties from every region of the European Union, will mark a new, important step towards encouraging sustainable mobility in urban areas.</en>
+      <fr>La création <DiscourseConnective annotation_id="36527">et</DiscourseConnective> le financement d'une structure européenne permanente, qui collecte <DiscourseConnective annotation_id="36597">et</DiscourseConnective> diffuse les bonnes pratiques dans ce domaine et encourage le dialogue entre les parties intéressées provenant de toutes les régions de l'Union européenne, constitueront un nouveau progrès important dans l'encouragement de la mobilité durable dans les zones urbaines.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

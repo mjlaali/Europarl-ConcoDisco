@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Closure of the sitting</en>
+    <fr>Levée de la séance</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="265" name="President">
+    <ParallelChunk annotation_id="23" docOffset="1">
+      <en>I would like to say that <Alignment alignment="541" annotation_id="48">
+          <DiscourseConnective annotation_id="48" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> tomorrow is International Women's Day, throughout the day, only women will be in the chair.</en>
+      <fr>Je voudrais annoncer <DiscourseConnective annotation_id="40">que</DiscourseConnective>, <Alignment alignment="48" annotation_id="45">
+          <DiscourseConnective annotation_id="45" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> demain sera la Journée internationale de la femme, seules des femmes présideront tout au long de la journée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="143" docOffset="2">
+      <en>
+        <Alignment alignment="172" annotation_id="143">
+          <DiscourseConnective annotation_id="143" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, tomorrow will, without a doubt, be a very pleasant day <Alignment alignment="221" annotation_id="209">
+          <DiscourseConnective annotation_id="209" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> they usually do it far better than us.</en>
+      <fr>Demain sera <Alignment alignment="103" annotation_id="172">
+          <DiscourseConnective annotation_id="172" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="177">sans</DiscourseConnective> aucun doute une journée très agréable, <Alignment alignment="0" annotation_id="221">
+          <DiscourseConnective annotation_id="221" sense="Temporal.Synchrony">étant donné qu'</DiscourseConnective>
+        </Alignment>elles se débrouillent généralement bien <DiscourseConnective annotation_id="276">mieux</DiscourseConnective> <DiscourseConnective annotation_id="282">que</DiscourseConnective> nous.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

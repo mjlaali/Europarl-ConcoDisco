@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Report on competition policy 2009 (</en>
+    <fr>Rapport sur la politique de concurrence 2009 (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+    <en>Before the vote on paragraph 105:</en>
+    <fr>
+      <DiscourseConnective annotation_id="50">Avant</DiscourseConnective> le vote sur le paragraphe 105</fr>
+  </ParallelChunk>
+<Speaker annotation_id="73" id="153" name="Michael Cramer">
+    <ParallelChunk annotation_id="73" docOffset="3">
+      <en>(DE) We would propose making the following insertion in paragraph 105:</en>
+      <fr>(DE) Nous proposons l'ajout suivant au paragraphe 105:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="144" docOffset="4">
+      <en>'Calls on the Member States and the Commission, during the transitional period'.</en>
+      <fr>(EN) "invite les États membres <DiscourseConnective annotation_id="172">et</DiscourseConnective> la Commission [...], au cours de la période de transition".</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

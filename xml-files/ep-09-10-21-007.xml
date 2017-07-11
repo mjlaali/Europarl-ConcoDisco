@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue.</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="165" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I am delighted to inform you that the delegation from the Parliament of South Africa have taken their seats in the distinguished visitors' gallery.</en>
+      <fr>J'ai le plaisir de vous informer <DiscourseConnective annotation_id="56">que</DiscourseConnective> la délégation du parlement d'Afrique du Sud a pris place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="156" docOffset="2">
+      <en>I would like to extend a warm welcome to the South African delegation which is here to take part in the 14th inter-parliamentary meeting between the European Parliament and the South African Parliament.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="154">à</DiscourseConnective> souhaiter la bienvenue <DiscourseConnective annotation_id="179">à</DiscourseConnective> cette délégation sud-africaine qui est venue participer <DiscourseConnective annotation_id="237">à</DiscourseConnective> la 14e réunion interparlementaire entre le Parlement européen <DiscourseConnective annotation_id="301">et</DiscourseConnective> le parlement sud-africain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="359" docOffset="3">
+      <en>The head of the African delegation, Mrs Joanmariae Louise Fubbs, Chairman of the Committee on Trade and Industry of the National Assembly of South Africa, is accompanied by the Chairman of the Committee on International Relations and five other colleagues from the South African Parliament.</en>
+      <fr>Cette délégation est emmenée par Mme Joanmariae Louise Fubbs, présidente de la commission du commerce <DiscourseConnective annotation_id="433">et</DiscourseConnective> de l'industrie <DiscourseConnective annotation_id="451">à</DiscourseConnective> l'Assemblée nationale d'Afrique du Sud, accompagnée du président de la commission des relations internationales <DiscourseConnective annotation_id="565">et</DiscourseConnective> de cinq autres collègues du parlement sud-africain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="650" docOffset="4">
+      <en>
+        <Alignment alignment="1135" annotation_id="650">
+          <DiscourseConnective annotation_id="650" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you know, Europe and South Africa share the same values, as far <DiscourseConnective annotation_id="717" sense="Temporal.Synchrony">as</DiscourseConnective> democracy, human rights and multilateral cooperation is concerned.</en>
+      <fr>
+        <Alignment alignment="854" annotation_id="620">
+          <DiscourseConnective annotation_id="620" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, l'Europe <DiscourseConnective annotation_id="650">et</DiscourseConnective> l'Afrique du Sud ont des valeurs communes en ce qui concerne la démocratie, les droits de l'homme <DiscourseConnective annotation_id="751">et</DiscourseConnective> la coopération multilatérale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="787" docOffset="5">
+      <en>The Republic of South Africa is not only a regional power but also a rising global power and a valued partner who will help us to solve the challenges of the global financial and economic crisis.</en>
+      <fr>La République d'Afrique du Sud n'est pas seulement une puissance régionale, c'est <DiscourseConnective annotation_id="866">aussi</DiscourseConnective> une puissance mondiale émergente <DiscourseConnective annotation_id="905">et</DiscourseConnective> un partenaire de choix qui nous aidera <DiscourseConnective annotation_id="947">à</DiscourseConnective> relever les défis de la crise financière <DiscourseConnective annotation_id="990">et</DiscourseConnective> économique mondiale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="983" docOffset="6">
+      <en>We firmly believe that we must deepen our dialogue and develop ever closer relations and cooperation.</en>
+      <fr>Nous avons l'intime conviction <DiscourseConnective annotation_id="1045">qu'</DiscourseConnective>il nous faut approfondir notre dialogue <DiscourseConnective annotation_id="1088">et</DiscourseConnective> tisser des relations <DiscourseConnective annotation_id="1112">et</DiscourseConnective> une coopération toujours plus étroites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1085" docOffset="7">
+      <en>Our two regions should act together, not only over efforts to find a way out of the current crisis, but also in the creation of a new global order that will be of lasting benefit to us all.</en>
+      <fr>Nos deux régions doivent agir main dans la main, <DiscourseConnective annotation_id="1204">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="1218">quant à</DiscourseConnective> nos efforts <DiscourseConnective annotation_id="1238">pour</DiscourseConnective> trouver une solution <DiscourseConnective annotation_id="1264">à</DiscourseConnective> la crise actuelle, <DiscourseConnective annotation_id="1285">mais aussi</DiscourseConnective> dans la création d'un nouvel ordre mondial qui aura <DiscourseConnective annotation_id="1348">pour</DiscourseConnective> nous tous des bienfaits durables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1275" docOffset="8">
+      <en>
+        <DiscourseConnective annotation_id="1275" sense="Temporal.Asynchronous.Succession">Once</DiscourseConnective> again <DiscourseConnective annotation_id="1286" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>, Mrs Joanmariae Louise Fubbs <DiscourseConnective annotation_id="1320" sense="Expansion.Conjunction">and</DiscourseConnective> esteemed colleagues from the South African Parliament, I welcome you.</en>
+      <fr>Une fois de plus, Madame Joanmariae Louise Fubbs, chers collègues, soyez les bienvenus.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

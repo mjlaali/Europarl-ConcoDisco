@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Kyrgyzstan (</en>
+    <fr>Kirghzstan (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="16" id="083" name="José Ignacio Salafranca Sánchez-Neyra">
+    <ParallelChunk annotation_id="16" docOffset="2">
+      <en>(ES) Mr President, this is an oral amendment tabled by my colleague Mr Brok, who unfortunately cannot be with us this morning.</en>
+      <fr>(ES) Monsieur le Président, voici un amendement oral déposé par mon collègue M. Brok, qui n'a <DiscourseConnective annotation_id="110">malheureusement</DiscourseConnective> pas pu se joindre à nous ce matin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="143" docOffset="3">
+      <en>It would be an amendment to paragraph 5 and would consist of adding, after the reference to the elections on 10 October: 'to strengthen democracy and political accountability'.</en>
+      <fr>Il s'agit d'un amendement <DiscourseConnective annotation_id="187">à</DiscourseConnective> l'alinéa 5 <DiscourseConnective annotation_id="200">et</DiscourseConnective> il se résume <DiscourseConnective annotation_id="216">à</DiscourseConnective> ajouter l'expression suivante, <DiscourseConnective annotation_id="249">après</DiscourseConnective> la référence aux élections du 10 octobre: "<DiscourseConnective annotation_id="298">afin de</DiscourseConnective> renforcer la démocratie <DiscourseConnective annotation_id="330">et</DiscourseConnective> la responsabilité politique".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="320" id="085" name="Paolo Bartolozzi">
+    <ParallelChunk annotation_id="320" docOffset="4">
+      <en>(IT) Mr President, this concerns an oral amendment to item 13, calling on the Commission to verify the current situation: the possibility of providing humanitarian aid <Alignment alignment="35" annotation_id="488">
+          <DiscourseConnective annotation_id="488" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective>
+        </Alignment> the situation has been verified.</en>
+      <fr>(IT) Monsieur le Président, ceci concerne un amendement oral au point 13 demandant <DiscourseConnective annotation_id="446">à</DiscourseConnective> la Commission de vérifier la situation actuelle: la possibilité d'apporter une aide humanitaire <Alignment alignment="488" annotation_id="544">
+          <DiscourseConnective annotation_id="544" sense="Temporal.Asynchronous.Succession">dès que</DiscourseConnective>
+        </Alignment> la situation aura été vérifiée.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

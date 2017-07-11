@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>11.</en>
+    <fr>11.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Coordination of social security systems (</en>
+    <fr>Coordination des systèmes de sécurité sociale: modalités d'application (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="46" docOffset="2">
+    <en>- Before the vote on Amendment 79:</en>
+    <fr>- <DiscourseConnective annotation_id="79">Avant</DiscourseConnective> le vote sur l'amendement 79:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="81" id="099" name="Jan Cremers">
+    <ParallelChunk annotation_id="81" docOffset="3">
+      <en>Mr President, I would like to propose reversing the order of the vote.</en>
+      <fr>(EN) Monsieur le Président, j'aimerais vous proposer d'inverser l'ordre des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="152" docOffset="4">
+      <en>Amendment 79 is broader <Alignment alignment="145499" annotation_id="176">
+          <DiscourseConnective annotation_id="176" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> Amendment 163 restricts Amendment 79, <Alignment alignment="272" annotation_id="218">
+          <DiscourseConnective annotation_id="218" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> Amendment 79 is the most far-reaching.</en>
+      <fr>L'amendement 79 est plus large <Alignment alignment="176" annotation_id="228">
+          <DiscourseConnective annotation_id="228" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'amendement 163 limite l'amendement 79, <Alignment alignment="0" annotation_id="272">
+          <DiscourseConnective annotation_id="272" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> l'amendement 79 est celui qui va le plus loin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="260" docOffset="5">
+      <en>
+        <Alignment alignment="148703" annotation_id="260">
+          <DiscourseConnective annotation_id="260" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> we would like to have that first.</en>
+      <fr>Nous aimerions <Alignment alignment="50" annotation_id="339">
+          <DiscourseConnective annotation_id="339" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> voter sur cet amendement <DiscourseConnective annotation_id="369">d'abord</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="304" id="100" name="President">
+    <ParallelChunk annotation_id="304" docOffset="6">
+      <en>The reason it has been placed in this order is the addition of the word 'severe' in Amendment 163.</en>
+      <fr>(EN) Nous avons organisé les votes dans cet ordre en raison de l'ajout du terme "grave" <DiscourseConnective annotation_id="466">à</DiscourseConnective> l'amendement 163.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="403" id="101" name="Jean Lambert">
+    <ParallelChunk annotation_id="403" docOffset="7">
+      <en>rapporteur. - Mr President, I am happy to support the reversal that is proposed by the PSE Group.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je <DiscourseConnective annotation_id="531">puis</DiscourseConnective> tout <DiscourseConnective annotation_id="541">à</DiscourseConnective> fait accepter la modification de l'ordre des points proposée par le groupe PSE.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

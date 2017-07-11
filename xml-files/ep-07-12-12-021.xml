@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Ovine and caprine animals: electronic identification (debate)</en>
+    <fr>Date d'introduction de l'identification électronique des animaux des espèces ovine <DiscourseConnective annotation_id="83">et</DiscourseConnective> caprine (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="62" id="404" name="President">
+    <ParallelChunk annotation_id="62" docOffset="1">
+      <en>The next item is the report by Mr Graefe zu Baringdorf, on behalf of the Committee on Agriculture and Rural Development, on the proposal for a Council regulation amending Regulation (EC) No 21/2004 <Alignment alignment="19376" annotation_id="260">
+          <DiscourseConnective annotation_id="260" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> regards the date of introduction of electronic identification for ovine and caprine animals - C6-0448/2007 -.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Graefe zu Baringdorf, au nom de la commission de l'agriculture <DiscourseConnective annotation_id="206">et</DiscourseConnective> du développement rural, sur la proposition de règlement modifiant le règlement (CE) n° 21/2004 <Alignment alignment="260" annotation_id="304">
+          <DiscourseConnective annotation_id="304" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> ce qui concerne la date d'introduction de l'identification électronique des animaux des espèces ovine <DiscourseConnective annotation_id="409">et</DiscourseConnective> caprine - C6-0448/2007 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="373" id="405" name="Markos Kyprianou">
+    <ParallelChunk annotation_id="373" docOffset="2">
+      <en>Member of the Commission. - Mr President, <Alignment alignment="493" annotation_id="415">
+          <DiscourseConnective annotation_id="415" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we all know, traceability is a key element of ensuring high standards in animal health and food safety.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, <Alignment alignment="1935" annotation_id="493">
+          <DiscourseConnective annotation_id="493" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous le savons tous, la traçabilité est l'élément clé de la garantie de normes exigeantes <DiscourseConnective annotation_id="589">en</DiscourseConnective> matière de santé animale <DiscourseConnective annotation_id="617">et</DiscourseConnective> de sécurité alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="522" docOffset="3">
+      <en>We have had recent experience with certain diseases in the European Union, such as foot-and-mouth disease and bluetongue, which has once again shown the importance of efficient identification systems.</en>
+      <fr>Nous avons connu récemment certaines maladies dans l'Union européenne, <DiscourseConnective annotation_id="716">notamment</DiscourseConnective> la fièvre aphteuse <DiscourseConnective annotation_id="745">et</DiscourseConnective> la maladie de la langue bleue, qui ont <DiscourseConnective annotation_id="787">encore</DiscourseConnective> démontré l'importance de systèmes d'identification efficaces.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="723" docOffset="4">
+      <en>Individual identification cannot function properly without electronic identification.</en>
+      <fr>L'identification individuelle ne peut pas fonctionner correctement <DiscourseConnective annotation_id="923">sans</DiscourseConnective> identification électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="809" docOffset="5">
+      <en>The Commission was requested to confirm or amend, in its report, the date of implementation of electronic identification, not to question the principles of the regulation.</en>
+      <fr>On a demandé <DiscourseConnective annotation_id="970">à</DiscourseConnective> la Commission de confirmer <DiscourseConnective annotation_id="999">ou</DiscourseConnective> de modifier dans son rapport la date de mise en application de l'identification électronique, pas de remettre en cause les principes du règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="981" docOffset="6">
+      <en>That is why it is a technical report on the various methods and technology involved.</en>
+      <fr>C'est pour cela que c'est un rapport technique sur les différentes méthodes <DiscourseConnective annotation_id="1225">et</DiscourseConnective> technologies impliquées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1066" docOffset="7">
+      <en>The Commission report only focuses on the best way to implement electronic identification.</en>
+      <fr>Le rapport de la Commission se concentre uniquement sur la meilleure manière de mettre en œuvre l'identification électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1157" docOffset="8">
+      <en>
+        <Alignment alignment="1380" annotation_id="1157">
+          <DiscourseConnective annotation_id="1157" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, in order to produce a report, we needed data and input from the Member States, <DiscourseConnective annotation_id="1245" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="1482" annotation_id="1249">
+          <Alignment alignment="1482" annotation_id="1249">
+            <DiscourseConnective annotation_id="1249" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment> those Member States already working on the system.</en>
+      <fr>
+        <Alignment alignment="1157" annotation_id="1380">
+          <DiscourseConnective annotation_id="1380" sense="Comparison.Contrast">Cela dit</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="1390">pour</DiscourseConnective> mettre un rapport au point, nous avons besoin de données de la part des États membres, <Alignment alignment="1249" annotation_id="1482">
+          <Alignment alignment="1249" annotation_id="1482">
+            <DiscourseConnective annotation_id="1482" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment> de ceux qui travaillent <DiscourseConnective annotation_id="1521">déjà</DiscourseConnective> sur le système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1314" docOffset="9">
+      <en>The studies and trials necessary for the preparation of the report lasted much longer than was originally foreseen, which explains the delay in the report.</en>
+      <fr>Les études <DiscourseConnective annotation_id="1553">et</DiscourseConnective> les essais nécessaires <DiscourseConnective annotation_id="1579">pour</DiscourseConnective> la préparation du rapport ont duré bien plus longtemps <DiscourseConnective annotation_id="1639">que</DiscourseConnective> la prévision initiale, ce qui explique son retard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1470" docOffset="10">
+      <en>We strongly appreciate and thank Parliament for agreeing to handle this matter as urgent.</en>
+      <fr>Nous apprécions vivement <DiscourseConnective annotation_id="1719">et</DiscourseConnective> remercions le Parlement, qui a accepté de traiter ce dossier <DiscourseConnective annotation_id="1783">en</DiscourseConnective> urgence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1560" docOffset="11">
+      <en>That will prevent a situation of legal uncertainty in January 2008.</en>
+      <fr>Cela permettra d'éviter une situation d'incertitude juridique <DiscourseConnective annotation_id="1857">en</DiscourseConnective> janvier 2008.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1628" docOffset="12">
+      <en>The report concludes that technical conditions for electronic identification of sheep and goats have been fulfilled, <Alignment alignment="2003" annotation_id="1745">
+          <DiscourseConnective annotation_id="1745" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that Member States need a reasonable time frame to prepare the implementation of electronic identification.</en>
+      <fr>Le rapport conclut <DiscourseConnective annotation_id="1893">que</DiscourseConnective> les conditions techniques <DiscourseConnective annotation_id="1923">pour</DiscourseConnective> l'identification électronique des moutons <DiscourseConnective annotation_id="1970">et</DiscourseConnective> des chèvres ont été remplies, <Alignment alignment="1745" annotation_id="2003">
+          <DiscourseConnective annotation_id="2003" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="2008">que</DiscourseConnective> les États membres ont besoin d'un délai raisonnable <DiscourseConnective annotation_id="2064">pour</DiscourseConnective> préparer la mise en œuvre de l'identification électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1857" docOffset="13">
+      <en>We agree with, and accept, Parliament's position to have a fixed date for introduction of the system.</en>
+      <fr>Nous convenons de la position du Parlement d'avoir une date fixée <DiscourseConnective annotation_id="2195">pour</DiscourseConnective> l'introduction du système <DiscourseConnective annotation_id="2226">et</DiscourseConnective> l'acceptons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1959" docOffset="14">
+      <en>
+        <Alignment alignment="2242" annotation_id="1959">
+          <Alignment alignment="15462" annotation_id="1959">
+            <Alignment alignment="2242" annotation_id="1959">
+              <Alignment alignment="2242" annotation_id="1959">
+                <DiscourseConnective annotation_id="1959" sense="Comparison.Contrast">On the other hand</DiscourseConnective>
+              </Alignment>
+            </Alignment>
+          </Alignment>
+        </Alignment>, we cannot accept the other amendments proposed, which would call into question the very principles of the regulation, <Alignment alignment="2383" annotation_id="2096">
+          <DiscourseConnective annotation_id="2096" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the question now is what the actual date of implementation should be.</en>
+      <fr>
+        <Alignment alignment="11922" annotation_id="2242">
+          <Alignment alignment="1959" annotation_id="2242">
+            <Alignment alignment="1959" annotation_id="2242">
+              <Alignment alignment="1959" annotation_id="2242">
+                <DiscourseConnective annotation_id="2242" sense="Comparison.Contrast">D'un autre côté</DiscourseConnective>
+              </Alignment>
+            </Alignment>
+          </Alignment>
+        </Alignment>, nous ne pouvons pas accepter les autres amendements proposés, qui remettraient en question les principes <DiscourseConnective annotation_id="2364">même</DiscourseConnective> du règlement, <Alignment alignment="2096" annotation_id="2383">
+          <DiscourseConnective annotation_id="2383" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> la question est à présent de définir la date exacte de la mise en œuvre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2172" docOffset="15">
+      <en>Once again, I would like to thank the rapporteur for the speedy work he has done, and Parliament for agreeing to treat this matter as urgent.</en>
+      <fr>Une fois <DiscourseConnective annotation_id="2473">encore</DiscourseConnective>, je tiens <DiscourseConnective annotation_id="2490">à</DiscourseConnective> remercier le rapporteur <DiscourseConnective annotation_id="2516">pour</DiscourseConnective> son travail rapide ainsi que le Parlement, qui a accepté de traiter cette affaire <DiscourseConnective annotation_id="2603">en</DiscourseConnective> urgence.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2314" id="406" name="Friedrich-Wilhelm Graefe zu Baringdorf">
+    <ParallelChunk annotation_id="2314" docOffset="16">
+      <en>rapporteur. - (DE) Mr President, Commissioner Kyprianou, we have complied with the request to handle this matter swiftly.</en>
+      <fr>rapporteur. - (DE) Monsieur le Président, Monsieur le Commissaire Kyprianou, nous avons répondu <DiscourseConnective annotation_id="2711">à</DiscourseConnective> la demande qui nous a été faite de traiter cette matière rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2436" docOffset="17">
+      <en>We are dealing here with something urgent, which is precisely why we are still here at this late hour.</en>
+      <fr>Il <DiscourseConnective annotation_id="2785">s'</DiscourseConnective>agit d'une question urgente, et c'est <DiscourseConnective annotation_id="2825">précisément</DiscourseConnective> pour cette raison que nous sommes <DiscourseConnective annotation_id="2871">encore</DiscourseConnective> ici <DiscourseConnective annotation_id="2882">à</DiscourseConnective> cette heure tardive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2539" docOffset="18">
+      <en>The question is, of course, how this urgent situation arose.</en>
+      <fr>La question est bien sûr de savoir comment cette situation d'urgence est apparue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2600" docOffset="19">
+      <en>You have said something about that.</en>
+      <fr>Vous avez dit quelque chose <DiscourseConnective annotation_id="3015">à ce propos</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2636" docOffset="20">
+      <en>I had a look through the documentation and came across the very regulation that we want to amend today.</en>
+      <fr>J'ai parcouru la documentation <DiscourseConnective annotation_id="3059">et</DiscourseConnective> je suis tombé sur le règlement <DiscourseConnective annotation_id="3093">que</DiscourseConnective> nous voulons modifier aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2740" docOffset="21">
+      <en>It dates from 17 December 2003.</en>
+      <fr>Il date du 17 décembre 2003.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2772" docOffset="22">
+      <en>That regulation prescribes that, with effect from 1 January 2008, 'electronic identification according to the guidelines referred to in paragraph 1 [...] shall be obligatory for all animals'.</en>
+      <fr>Ce règlement dispose <DiscourseConnective annotation_id="3182">qu'</DiscourseConnective>à partir du 1er janvier 2008, "l'identification électronique, selon les lignes directrices mentionnées au paragraphe 1 [...], est obligatoire <DiscourseConnective annotation_id="3327">pour</DiscourseConnective> tous les animaux".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2964" docOffset="23">
+      <en>There are one or two exemption clauses, which I shall omit, <DiscourseConnective annotation_id="3024" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="3427" annotation_id="3028">
+          <DiscourseConnective annotation_id="3028" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> it says, 'The Commission shall submit to the Council, by 30 June 2006, a report on the implementation of the electronic identification scheme, accompanied by appropriate proposals, on which the Council shall vote by qualified majority'.</en>
+      <fr>Le règlement contient une <DiscourseConnective annotation_id="3377">ou</DiscourseConnective> deux clauses d'exemption, <DiscourseConnective annotation_id="3406">que</DiscourseConnective> je passerai ici, <Alignment alignment="7215" annotation_id="3427">
+          <DiscourseConnective annotation_id="3427" sense="Temporal.Asynchronous.Precedence">puis</DiscourseConnective>
+        </Alignment> il stipule que "[l]a Commission soumet au Conseil, <DiscourseConnective annotation_id="3483">avant</DiscourseConnective> le 30 juin 2006, un rapport concernant l'application du système d'identification électronique, accompagné des propositions appropriées, sur lesquelles le Conseil statue <DiscourseConnective annotation_id="3658">à</DiscourseConnective> la majorité qualifiée".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3270" docOffset="24">
+      <en>
+        <Alignment alignment="19083" annotation_id="3270">
+          <Alignment alignment="24280" annotation_id="3270">
+            <DiscourseConnective annotation_id="3270" sense="Expansion.Restatement">In short</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the matter lies very far back in the past.</en>
+      <fr>
+        <Alignment alignment="2600" annotation_id="3684">
+          <Alignment alignment="23219" annotation_id="3684">
+            <DiscourseConnective annotation_id="3684" sense="Expansion.Restatement">En somme</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la question ne date pas d'hier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3323" docOffset="25">
+      <en>The Commission's report to the Council was evidently never submitted, <Alignment alignment="3802" annotation_id="3393">
+          <DiscourseConnective annotation_id="3393" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there was no comeback from the Council.</en>
+      <fr>Le rapport de la Commission au Conseil n'a manifestement jamais été soumis, <Alignment alignment="3393" annotation_id="3802">
+          <DiscourseConnective annotation_id="3802" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le Conseil n'a pas réagi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3437" docOffset="26">
+      <en>Are you signalling something?</en>
+      <fr>Vous signalez quelque chose?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3467" docOffset="27">
+      <en>
+        <Alignment alignment="8987" annotation_id="3467">
+          <DiscourseConnective annotation_id="3467" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> you did submit the report, all the better, <Alignment alignment="3918" annotation_id="3513">
+          <DiscourseConnective annotation_id="3513" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="3923" annotation_id="3517">
+          <DiscourseConnective annotation_id="3517" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> there was no response from the Member States.</en>
+      <fr>
+        <Alignment alignment="3467" annotation_id="3860">
+          <DiscourseConnective annotation_id="3860" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous avez effectivement soumis le rapport, tant <DiscourseConnective annotation_id="3911">mieux</DiscourseConnective>, <Alignment alignment="306" annotation_id="3918">
+          <DiscourseConnective annotation_id="3918" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="3517" annotation_id="3923">
+          <DiscourseConnective annotation_id="3923" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment>, il n'y a pas eu de réponse des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3568" docOffset="28">
+      <en>
+        <DiscourseConnective annotation_id="3568" sense="Expansion.Conjunction">And</DiscourseConnective> <Alignment alignment="17503" annotation_id="3572">
+          <DiscourseConnective annotation_id="3572" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> we got into this pickle, realising that the deadline could not be met.</en>
+      <fr>Nous nous sommes <Alignment alignment="14939" annotation_id="3993">
+          <DiscourseConnective annotation_id="3993" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> retrouvés dans de beaux draps lorsque nous nous sommes rendu compte <DiscourseConnective annotation_id="4069">que</DiscourseConnective> nous ne pourrions respecter la date limite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3648" docOffset="29">
+      <en>So far, so bad, <Alignment alignment="2371" annotation_id="3664">
+          <DiscourseConnective annotation_id="3664" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="4146" annotation_id="3668">
+          <DiscourseConnective annotation_id="3668" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> you proposed that, instead of perhaps setting a new deadline, we should leave it to the comitology procedure to set the date.</en>
+      <fr>Jusqu'ici, tout va mal, <Alignment alignment="1945" annotation_id="4141">
+          <DiscourseConnective annotation_id="4141" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="7727" annotation_id="4146">
+          <DiscourseConnective annotation_id="4146" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment>, vous avez proposé l'idée <DiscourseConnective annotation_id="4180">que</DiscourseConnective> <DiscourseConnective annotation_id="4184">plutôt que de</DiscourseConnective> fixer une nouvelle date limite, il fallait laisser la procédure de comitologie agir <DiscourseConnective annotation_id="4282">pour</DiscourseConnective> fixer la date.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3799" docOffset="30">
+      <en>
+        <Alignment alignment="20560" annotation_id="3799">
+          <Alignment alignment="49388" annotation_id="3799">
+            <Alignment alignment="6817" annotation_id="3799">
+              <DiscourseConnective annotation_id="3799" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, the setting of the deadline would be your decision.</en>
+      <fr>
+        <Alignment alignment="3799" annotation_id="4302">
+          <Alignment alignment="22733" annotation_id="4302">
+            <Alignment alignment="3799" annotation_id="4302">
+              <DiscourseConnective annotation_id="4302" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, la fixation de la date limite serait votre décision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3867" docOffset="31">
+      <en>We should <DiscourseConnective annotation_id="3877" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> have taken all this trouble for nothing, <DiscourseConnective annotation_id="3923" sense="Expansion.Conjunction">and</DiscourseConnective> so the committee decided that the provision on compulsory electronic tagging should enter into force on 31 December 2009 and be applicable from 1 January 2010, two years later than prescribed in the original regulation.</en>
+      <fr>Nous nous serions donc donné tout ce mal <DiscourseConnective annotation_id="4416">pour</DiscourseConnective> rien; la commission a <DiscourseConnective annotation_id="4443">donc</DiscourseConnective> décidé <DiscourseConnective annotation_id="4455">que</DiscourseConnective> la disposition relative à l'identification électronique obligatoire devait entrer en vigueur le 31 décembre 2009 <DiscourseConnective annotation_id="4572">et</DiscourseConnective> être applicable à partir du 1er janvier 2010, soit deux ans <DiscourseConnective annotation_id="4635">après</DiscourseConnective> la date prescrite dans le règlement initial.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4147" docOffset="32">
+      <en>Be that <DiscourseConnective annotation_id="4155" sense="Temporal.Synchrony">as</DiscourseConnective> it may, the important thing is that we have a date.</en>
+      <fr>En attendant, l'important, c'est <DiscourseConnective annotation_id="4719">que</DiscourseConnective> nous ayons une date.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4210" docOffset="33">
+      <en>The committee <Alignment alignment="4760" annotation_id="4224">
+          <DiscourseConnective annotation_id="4224" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> said that a report should be submitted on this matter too.</en>
+      <fr>La commission a <Alignment alignment="11731" annotation_id="4760">
+          <DiscourseConnective annotation_id="4760" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> indiqué <DiscourseConnective annotation_id="4778">qu'</DiscourseConnective>un rapport devrait <DiscourseConnective annotation_id="4800">également</DiscourseConnective> être présenté sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4288" docOffset="34">
+      <en>The problem with your proposal, of course, is that you are drawing more and more decision-making into the realm of comitology, just <Alignment alignment="4988" annotation_id="4420">
+          <DiscourseConnective annotation_id="4420" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you did with the old regulation of 17 December 2003, in which the provisions and application arrangements relating to the regime of electronic identification were delegated to the Commission through the comitology procedure.</en>
+      <fr>Le problème avec votre proposition, bien sûr, c'est <DiscourseConnective annotation_id="4896">que</DiscourseConnective> vous remettez <DiscourseConnective annotation_id="4914">de plus</DiscourseConnective> <DiscourseConnective annotation_id="4922">en plus</DiscourseConnective> le pouvoir de décision entre les mains de la comitologie, <Alignment alignment="18124" annotation_id="4988">
+          <DiscourseConnective annotation_id="4988" sense="Temporal.Synchrony">tout comme</DiscourseConnective>
+        </Alignment> vous l'avez fait avec l'ancien règlement du 17 décembre 2003, dans lequel les dispositions <DiscourseConnective annotation_id="5090">et</DiscourseConnective> les mesures applicables relatives au système d'identification électronique ont été déléguées <DiscourseConnective annotation_id="5186">à</DiscourseConnective> la Commission par le biais de la procédure de comitologie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4648" docOffset="35">
+      <en>At that time there was <Alignment alignment="5281" annotation_id="4671">
+          <DiscourseConnective annotation_id="4671" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> to be a report to the Council but no report to Parliament.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5247">À</DiscourseConnective> cette époque, un rapport devait <Alignment alignment="9695" annotation_id="5281">
+          <DiscourseConnective annotation_id="5281" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> être transmis au Conseil, <DiscourseConnective annotation_id="5313">mais</DiscourseConnective> au Parlement, rien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4735" docOffset="36">
+      <en>As a result of this practice of subjecting everything to comitology, Parliament is divested of its decision-making rights and its powers of scrutiny, <DiscourseConnective annotation_id="4885" sense="Expansion.Conjunction">and</DiscourseConnective> so we only discover at some later date that obligations have not been honoured.</en>
+      <fr>Cette pratique qui consiste à tout soumettre <DiscourseConnective annotation_id="5383">à</DiscourseConnective> la comitologie prive le Parlement de ses droits de décision <DiscourseConnective annotation_id="5445">et</DiscourseConnective> de ses pouvoirs de vérification. Ce n'est par conséquent <DiscourseConnective annotation_id="5505">qu'</DiscourseConnective>a posteriori que nous découvrons que certaines obligations n'ont pas été honorées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4969" docOffset="37">
+      <en>
+        <Alignment alignment="5591" annotation_id="4969">
+          <DiscourseConnective annotation_id="4969" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> you had not come with these amendments now and requested urgent treatment <Alignment alignment="5695" annotation_id="5046">
+          <DiscourseConnective annotation_id="5046" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> you were under pressure to meet the deadline, we should have thought that everything was alright.</en>
+      <fr>
+        <Alignment alignment="5774" annotation_id="5591">
+          <DiscourseConnective annotation_id="5591" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous n'aviez pas présenté ces amendements aujourd'hui <DiscourseConnective annotation_id="5648">et</DiscourseConnective> n'aviez pas demandé un traitement d'urgence <Alignment alignment="5046" annotation_id="5695">
+          <DiscourseConnective annotation_id="5695" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> vous étiez tenu de respecter la date limite, nous aurions cru <DiscourseConnective annotation_id="5767">que</DiscourseConnective> tout allait bien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5152" docOffset="38">
+      <en>
+        <Alignment alignment="35225" annotation_id="5152">
+          <DiscourseConnective annotation_id="5152" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> things were not alright!</en>
+      <fr>
+        <Alignment alignment="5152" annotation_id="5789">
+          <DiscourseConnective annotation_id="5789" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> tout n'allait pas bien!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5181" docOffset="39">
+      <en>That must be a warning to us in Parliament not to delegate too much to the Commission but to continue exercising our powers of scrutiny.</en>
+      <fr>Cette leçon doit servir d'avertissement <DiscourseConnective annotation_id="5858">pour</DiscourseConnective> nous, au Parlement: il ne faut pas trop déléguer <DiscourseConnective annotation_id="5912">à</DiscourseConnective> la Commission <DiscourseConnective annotation_id="5928">mais</DiscourseConnective> continuer <DiscourseConnective annotation_id="5943">à</DiscourseConnective> exercer nos pouvoirs de vérification.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5318" docOffset="40">
+      <en>Now there have been a couple of amendments.</en>
+      <fr>Plusieurs amendements ont été déposés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5362" docOffset="41">
+      <en>You said you could not accept them.</en>
+      <fr>Vous avez dit ne pas pouvoir les accepter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5398" docOffset="42">
+      <en>The committee stipulated that the rules should be binding.</en>
+      <fr>La commission a indiqué <DiscourseConnective annotation_id="6089">que</DiscourseConnective> les règles devaient être contraignantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5457" docOffset="43">
+      <en>That, <Alignment alignment="24649" annotation_id="5463">
+          <Alignment alignment="50632" annotation_id="5463">
+            <DiscourseConnective annotation_id="5463" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, is <Alignment alignment="6165" annotation_id="5475">
+          <DiscourseConnective annotation_id="5475" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> laid down in the basic regulation, which, <Alignment alignment="6202" annotation_id="5522">
+          <DiscourseConnective annotation_id="5522" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we all know, is not being repealed but only amended.</en>
+      <fr>Cette idée se retrouve <Alignment alignment="5463" annotation_id="6157">
+          <Alignment alignment="8442" annotation_id="6157">
+            <DiscourseConnective annotation_id="6157" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> <Alignment alignment="5475" annotation_id="6165">
+          <DiscourseConnective annotation_id="6165" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> dans le règlement de base qui, <Alignment alignment="5522" annotation_id="6202">
+          <DiscourseConnective annotation_id="6202" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous le savons tous, n'est pas annulé <DiscourseConnective annotation_id="6246">mais</DiscourseConnective> <DiscourseConnective annotation_id="6251">simplement</DiscourseConnective> modifié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5578" docOffset="44">
+      <en>Now there are amendments tabled by you, Mr Stevenson, one of them jointly with Mrs McGuinness, which propose that the system be made voluntary.</en>
+      <fr>Certains amendements émanent de vous, Monsieur Stevenson, dont un déposé conjointement avec Madame McGuinness, dans lequel vous proposez <DiscourseConnective annotation_id="6408">que</DiscourseConnective> le système devienne facultatif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5722" docOffset="45">
+      <en>Well, <Alignment alignment="5691" annotation_id="5728">
+          <DiscourseConnective annotation_id="5728" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we make it voluntary, we might as well forget the whole thing.</en>
+      <fr>
+        <Alignment alignment="5728" annotation_id="6444">
+          <DiscourseConnective annotation_id="6444" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous rendons le système facultatif, <DiscourseConnective annotation_id="6483">autant</DiscourseConnective> carrément l'oublier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5794" docOffset="46">
+      <en>What would <Alignment alignment="4532" annotation_id="5805">
+          <DiscourseConnective annotation_id="5805" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> be left to prescribe?</en>
+      <fr>
+        <DiscourseConnective annotation_id="6511">Que</DiscourseConnective> resterait-il <Alignment alignment="5805" annotation_id="6528">
+          <DiscourseConnective annotation_id="6528" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="6534">à</DiscourseConnective> prescrire?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5832" docOffset="47">
+      <en>We could resign ourselves to the fact that all cats are grey in the dark.</en>
+      <fr>Nous pourrions nous résigner <DiscourseConnective annotation_id="6576">à</DiscourseConnective> l'idée <DiscourseConnective annotation_id="6585">que</DiscourseConnective> la nuit, tous les chats sont gris.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5906" docOffset="48">
+      <en>I <Alignment alignment="6633" annotation_id="5908">
+          <DiscourseConnective annotation_id="5908" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe that we must stick with compulsory rules <Alignment alignment="6698" annotation_id="5967">
+          <DiscourseConnective annotation_id="5967" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that these compulsory rules must include a date and a report to the European Parliament.</en>
+      <fr>Je pense <Alignment alignment="1183" annotation_id="6633">
+          <DiscourseConnective annotation_id="6633" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="6648">que</DiscourseConnective> nous devons maintenir les règles obligatoires <Alignment alignment="5967" annotation_id="6698">
+          <DiscourseConnective annotation_id="6698" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="6701">que</DiscourseConnective> ces règles obligatoires doivent comprendre une date <DiscourseConnective annotation_id="6757">et</DiscourseConnective> un rapport au Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6060" docOffset="49">
+      <en>It will be a lesson to us that this report has made us stumble more or less by chance across this truly unusual way of proceeding on the part of the Commission and the Council.</en>
+      <fr>Le fait <DiscourseConnective annotation_id="6802">que</DiscourseConnective> ce rapport nous ait fait tomber plus <DiscourseConnective annotation_id="6843">ou</DiscourseConnective> moins par hasard sur cette façon véritablement inhabituelle de procéder de la part de la Commission <DiscourseConnective annotation_id="6946">et</DiscourseConnective> du Conseil nous servira de leçon.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6237" docOffset="50">
+      <en>I hope, Mr Kyprianou, that I am not being unduly harsh in my criticism, <Alignment alignment="7061" annotation_id="6309">
+          <DiscourseConnective annotation_id="6309" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> you can imagine that, <Alignment alignment="16258" annotation_id="6335">
+          <DiscourseConnective annotation_id="6335" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I drafted the report and prepared myself for this evening and consulted the relevant documentation, I had to rub my eyes <Alignment alignment="23320" annotation_id="6459">
+          <DiscourseConnective annotation_id="6459" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I saw all the things that can happen in our European institutions.</en>
+      <fr>J'espère, Monsieur Kyprianou, <DiscourseConnective annotation_id="7013">que</DiscourseConnective> je ne suis pas trop dur dans mes critiques, <Alignment alignment="6309" annotation_id="7061">
+          <DiscourseConnective annotation_id="7061" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> vous pouvez vous imaginer <DiscourseConnective annotation_id="7092">que</DiscourseConnective>, <Alignment alignment="6335" annotation_id="7097">
+          <DiscourseConnective annotation_id="7097" sense="Temporal.Synchrony">tandis que</DiscourseConnective>
+        </Alignment> je rédigeais le rapport <DiscourseConnective annotation_id="7132">et</DiscourseConnective> me préparais <DiscourseConnective annotation_id="7148">pour</DiscourseConnective> ce soir <DiscourseConnective annotation_id="7161">en</DiscourseConnective> consultant la documentation concernée, j'ai dû me frotter les yeux <Alignment alignment="6459" annotation_id="7231">
+          <DiscourseConnective annotation_id="7231" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> j'ai vu tout ce qui pouvait se passer dans nos institutions européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6531" docOffset="51">
+      <en>Both Parliament and the Commission - and we as individuals too, as far <DiscourseConnective annotation_id="6602" sense="Temporal.Synchrony">as</DiscourseConnective> I am concerned - surely have an interest in ensuring that this sort of thing does not recur and become a habit.</en>
+      <fr>Tant le Parlement <DiscourseConnective annotation_id="7330">que</DiscourseConnective> la Commission - <DiscourseConnective annotation_id="7350">et</DiscourseConnective> nous-mêmes <DiscourseConnective annotation_id="7364">aussi</DiscourseConnective>, en <DiscourseConnective annotation_id="7374">tant qu'</DiscourseConnective>individus, <DiscourseConnective annotation_id="7393">en</DiscourseConnective> ce qui me concerne - avons certainement intérêt <DiscourseConnective annotation_id="7444">à</DiscourseConnective> ce <DiscourseConnective annotation_id="7449">que</DiscourseConnective> ce type de choses ne se reproduise pas <DiscourseConnective annotation_id="7492">et</DiscourseConnective> ne devienne pas une habitude.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6717" id="407" name="Struan Stevenson">
+    <ParallelChunk annotation_id="6717" docOffset="52">
+      <en>on behalf of the PPE-DE Group. - Mr President, let me start by answering a question that was put to me by Mr Graefe zu Baringdorf.</en>
+      <fr>au nom du groupe PPE-DE. - (EN) Monsieur le Président, permettez-moi de commencer <DiscourseConnective annotation_id="7607">en</DiscourseConnective> répondant à une question qui m'a été posée par M. Graefe zu Baringdorf.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6848" docOffset="53">
+      <en>He was asking why my amendments seek to make this system voluntary.</en>
+      <fr>Il demandait pourquoi mon amendement visait <DiscourseConnective annotation_id="7726">à</DiscourseConnective> rendre ce système volontaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6916" docOffset="54">
+      <en>I can tell Mr Graefe zu Baringdorf very quickly why I seek to make it voluntary.</en>
+      <fr>Je peux répondre rapidement à M. Graefe zu Baringdorf <DiscourseConnective annotation_id="7812">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6997" docOffset="55">
+      <en>Last week in my constituency in Scotland, cast ewes - for the non-agricultural people in the Chamber (there are not many people in the Chamber), they are old female sheep - were selling for GBP 2 a head.</en>
+      <fr>La semaine dernière, dans ma circonscription écossaise, les cast ewes ou brebis prises - <DiscourseConnective annotation_id="7913">pour</DiscourseConnective> les personnes non familières avec l'agriculture de l'Assemblée (peu nombreuses), ce sont des vieilles chèvres - se vendaient <DiscourseConnective annotation_id="8043">à</DiscourseConnective> 2 livres par tête.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7201" docOffset="56">
+      <en>A year ago they were selling for GBP 60 a head; this year, GBP 2 a head.</en>
+      <fr>Il y a un an, elles se vendaient <DiscourseConnective annotation_id="8097">à</DiscourseConnective> 60 livres par tête; cette année, 2 livres par tête.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7274" docOffset="57">
+      <en>I ask the rapporteur: how is a farmer who is only getting two quid a head for his sheep supposed to fit microchips and buy expensive scanners and readers that can comply with a mandatory electronic ID system?</en>
+      <fr>Je pose la question au rapporteur: comment un agriculteur qui n'obtient que deux livres par tête est-il censé introduire des micropuces dans ses bêtes <DiscourseConnective annotation_id="8302">et</DiscourseConnective> acheter des scanners hors de prix <DiscourseConnective annotation_id="8339">pour</DiscourseConnective> être <DiscourseConnective annotation_id="8349">en</DiscourseConnective> conformité avec un système d'identification électronique obligatoire?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7483" docOffset="58">
+      <en>This is the economic problem.</en>
+      <fr>C'est là le problème économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7513" docOffset="59">
+      <en>The original Commission proposal was perfectly correct in seeking stakeholder consultation and in seeking economic-impact cost-benefit analysis.</en>
+      <fr>La proposition initiale de la Commission avait parfaitement raison de demander la consultation des intervenants <DiscourseConnective annotation_id="8567">et</DiscourseConnective> une analyse de l'impact économique et de l'impact coût-avantage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7658" docOffset="60">
+      <en>I have not seen all the figures.</en>
+      <fr>Je n'ai pas vu tous les chiffres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7691" docOffset="61">
+      <en>I do not know what the intention would be for the sheep farmers in my constituency.</en>
+      <fr>Je ne connais pas les intentions <DiscourseConnective annotation_id="8702">pour</DiscourseConnective> les éleveurs de moutons dans ma circonscription.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7775" docOffset="62">
+      <en>I have to remind the Members in this House that the UK has the biggest sheep flock in the whole of Europe - by far the biggest.</en>
+      <fr>Je dois rappeler aux députés de cette Assemblée <DiscourseConnective annotation_id="8804">que</DiscourseConnective> le Royaume-Uni dispose du plus grand cheptel de moutons d'Europe - et de loin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7903" docOffset="63">
+      <en>The impact of this would be catastrophic with the economic situation the way it is.</en>
+      <fr>L'impact de cette mesure serait catastrophique, dans notre situation économique actuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7987" docOffset="64">
+      <en>It would actually mean - <Alignment alignment="55121" annotation_id="8012">
+          <DiscourseConnective annotation_id="8012" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> this becomes mandatory <Alignment alignment="4935" annotation_id="8038">
+          <DiscourseConnective annotation_id="8038" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we go by the dates set by the Committee on Agriculture and Rural Development in their vote on Monday night, <DiscourseConnective annotation_id="8150" sense="Expansion.Conjunction">and</DiscourseConnective> we set 31 December 2009 as the mandatory introduction - that a whole group of sheep farmers in Britain will close down and go out of business.</en>
+      <fr>Cela signifierait <DiscourseConnective annotation_id="8995">en fait</DiscourseConnective> - <Alignment alignment="5440" annotation_id="9005">
+          <DiscourseConnective annotation_id="9005" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> le système devient obligatoire <Alignment alignment="8038" annotation_id="9039">
+          <DiscourseConnective annotation_id="9039" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> si on respecte les dates établies par la commission de l'agriculture <DiscourseConnective annotation_id="9111">et</DiscourseConnective> du développement rural lors du vote de lundi soir; nous avons établi le 31 décembre 2009 <DiscourseConnective annotation_id="9203">pour</DiscourseConnective> l'introduction obligatoire - <DiscourseConnective annotation_id="9237">que</DiscourseConnective> tout un groupe d'éleveurs de moutons <DiscourseConnective annotation_id="9278">en</DiscourseConnective> Grande-Bretagne devront déposer le bilan <DiscourseConnective annotation_id="9322">et</DiscourseConnective> cesser leurs activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8297" docOffset="65">
+      <en>The upland areas and the hills that have been looked after by sheep farmers and grazed by sheep for centuries will go wild <Alignment alignment="13790" annotation_id="8420">
+          <DiscourseConnective annotation_id="8420" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="8424" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> the public will realise the damage that has been done.</en>
+      <fr>Ces hauteurs <DiscourseConnective annotation_id="9362">et</DiscourseConnective> ces collines ont été entretenues par les éleveurs de moutons <DiscourseConnective annotation_id="9426">et</DiscourseConnective> broutées par des moutons des siècles durant. Elles deviendront alors sauvages <Alignment alignment="8420" annotation_id="9507">
+          <DiscourseConnective annotation_id="9507" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> là, le public se rendra compte des dégâts causés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8484" docOffset="66">
+      <en>
+        <Alignment alignment="21909" annotation_id="8484">
+          <DiscourseConnective annotation_id="8484" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> we are wreaking this damage in a flock that already has the best traceability in Europe - we have absolute guaranteed traceability in the UK at the present time <Alignment alignment="9752" annotation_id="8651">
+          <DiscourseConnective annotation_id="8651" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the sheep farmers cannot understand why we want to impose a new system of electronic identification <Alignment alignment="9094" annotation_id="8755">
+          <DiscourseConnective annotation_id="8755" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they already have high-quality traceability - we are importing sheep meat into the EU from outside, from countries that do not respect our levels of hygiene and welfare and the rigorous regulations that we apply to our sheep farmers.</en>
+      <fr>
+        <Alignment alignment="8484" annotation_id="9560">
+          <DiscourseConnective annotation_id="9560" sense="Comparison.Contrast">Pendant que</DiscourseConnective>
+        </Alignment> nous occasionnons ces dégâts <DiscourseConnective annotation_id="9601">à</DiscourseConnective> un cheptel qui dispose <DiscourseConnective annotation_id="9626">déjà</DiscourseConnective> de la meilleure traçabilité <DiscourseConnective annotation_id="9659">en</DiscourseConnective> Europe - nous avons une garantie absolue de traçabilité au Royaume-Uni <DiscourseConnective annotation_id="9733">à</DiscourseConnective> l'heure actuelle <Alignment alignment="8651" annotation_id="9752">
+          <DiscourseConnective annotation_id="9752" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les éleveurs de moutons ne comprennent pas pourquoi on veut leur imposer un nouveau système d'identification électronique <Alignment alignment="8755" annotation_id="9877">
+          <DiscourseConnective annotation_id="9877" sense="Temporal.Synchrony">alors qu'</DiscourseConnective>
+        </Alignment>ils ont <DiscourseConnective annotation_id="9894">déjà</DiscourseConnective> une traçabilité de haute qualité -, nous importons de la viande de mouton <DiscourseConnective annotation_id="9973">en</DiscourseConnective> Europe originaire de l'extérieur, de pays qui ne respectent ni nos niveaux d'hygiène <DiscourseConnective annotation_id="10061">et</DiscourseConnective> de bien-être ni la réglementation rigoureuse que nous appliquons à nos éleveurs de moutons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8994" docOffset="67">
+      <en>So, let us have a little bit of sensitivity here.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10156">Alors</DiscourseConnective> faisons preuve d'un peu de sensibilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9044" docOffset="68">
+      <en>I hope that <Alignment alignment="13120" annotation_id="9056">
+          <DiscourseConnective annotation_id="9056" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we come to vote on this tomorrow the Members will see the reason why we are asking for a voluntary system and not yet fixing a mandatory date for the introduction of electronic ID.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="10211">que</DiscourseConnective> <Alignment alignment="9056" annotation_id="10215">
+          <DiscourseConnective annotation_id="10215" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous voterons demain, les députés verront la raison pour laquelle nous demandons un système volontaire <DiscourseConnective annotation_id="10324">et</DiscourseConnective> pas <DiscourseConnective annotation_id="10331">encore</DiscourseConnective> de date obligatoire <DiscourseConnective annotation_id="10358">pour</DiscourseConnective> l'introduction d'une identification électronique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9242" id="408" name="Rosa Miguélez Ramos">
+    <ParallelChunk annotation_id="9242" docOffset="69">
+      <en>on behalf of the PSE Group. -(ES) Mr President, I am one who always listens carefully to Mr Stevenson whenever he speaks, <Alignment alignment="29290" annotation_id="9364">
+          <DiscourseConnective annotation_id="9364" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I have been listening to him for several years now, but this speech surprises me, <DiscourseConnective annotation_id="9450" sense="Contingency.Cause.Reason">because</DiscourseConnective> it is one which would have been better made in 2003 and not 2007, nearly 2008 <Alignment alignment="10734" annotation_id="9536">
+          <Alignment alignment="10734" annotation_id="9536">
+            <DiscourseConnective annotation_id="9536" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>.</en>
+      <fr>au nom du groupe PSE. - (ES) Monsieur le Président, je fais partie de ceux qui écoutent toujours avec attention Monsieur Stevenson <DiscourseConnective annotation_id="10544">lorsqu'</DiscourseConnective>il s'exprime, <Alignment alignment="9364" annotation_id="10565">
+          <DiscourseConnective annotation_id="10565" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cela fait plusieurs années <DiscourseConnective annotation_id="10595">que</DiscourseConnective> je l'écoute <DiscourseConnective annotation_id="10611">maintenant</DiscourseConnective>, <DiscourseConnective annotation_id="10623">mais</DiscourseConnective> ce discours m'étonne: c'est un discours <DiscourseConnective annotation_id="10668">qu'</DiscourseConnective>on aurait <DiscourseConnective annotation_id="10681">plutôt</DiscourseConnective> pu tenir <DiscourseConnective annotation_id="10697">en</DiscourseConnective> 2003 <DiscourseConnective annotation_id="10705">et</DiscourseConnective> pas en 2007, presque 2008 <Alignment alignment="9536" annotation_id="10734">
+          <Alignment alignment="11657" annotation_id="10734">
+            <DiscourseConnective annotation_id="10734" sense="Expansion.Conjunction">en réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9545" docOffset="70">
+      <en>Mr Graefe zu Baringdorf put it very well: this is a 2004 regulation, we debated it in Parliament in 2003, <Alignment alignment="10872" annotation_id="9651">
+          <DiscourseConnective annotation_id="9651" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the regulation provides that the date of entry into force for the system of electronic identification for ovine and caprine animals is to be 1 January 2008.</en>
+      <fr>Monsieur Graefe zu Baringdorf l'a très bien dit: il <DiscourseConnective annotation_id="10798">s'</DiscourseConnective>agit d'un règlement de 2004, nous l'avons examiné au Parlement <DiscourseConnective annotation_id="10863">en</DiscourseConnective> 2003, <Alignment alignment="9651" annotation_id="10872">
+          <DiscourseConnective annotation_id="10872" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le règlement fixe au 1er janvier 2008 la date d'entrée <DiscourseConnective annotation_id="10930">en</DiscourseConnective> vigueur du système d'identification électronique des animaux des espèces ovine <DiscourseConnective annotation_id="11012">et</DiscourseConnective> caprine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9812" docOffset="71">
+      <en>So, Mr Stevenson - I have no doubt whatever that you have ovine animals in your constituency, <Alignment alignment="11140" annotation_id="9906">
+          <DiscourseConnective annotation_id="9906" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I do myself - the five Member States with the biggest ovine and caprine flocks are, besides your country and mine, France, Italy and Greece.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11024">Donc</DiscourseConnective>, Monsieur Stevenson - je suis certaine <DiscourseConnective annotation_id="11068">que</DiscourseConnective> vous avez des animaux de l'espèce ovine dans votre circonscription, <Alignment alignment="21651" annotation_id="11140">
+          <DiscourseConnective annotation_id="11140" sense="Temporal.Synchrony">tout comme</DiscourseConnective>
+        </Alignment> j'en ai dans la mienne -, les cinq États membres qui possèdent les troupeaux d'espèces ovine <DiscourseConnective annotation_id="11244">et</DiscourseConnective> caprine les plus importants sont, en dehors de votre pays, <DiscourseConnective annotation_id="11306">et</DiscourseConnective> du mien, la France, l'Italie <DiscourseConnective annotation_id="11338">et</DiscourseConnective> la Grèce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10050" docOffset="72">
+      <en>Well now, these four Member States have undertaken the task, which seems so abhorrent to you, of convincing their farmers to tag ovine and caprine animals, <Alignment alignment="3922" annotation_id="10206">
+          <DiscourseConnective annotation_id="10206" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we were told that the regulation said that electronic identification was going to be obligatory from 1 January 2008.</en>
+      <fr>Ces quatre États membres ont entreprise la tâche, qui vous paraît <DiscourseConnective annotation_id="11417">si</DiscourseConnective> odieuse, qui consiste à convaincre leurs agriculteurs de marquer leurs animaux des espèces ovine <DiscourseConnective annotation_id="11517">et</DiscourseConnective> caprine <Alignment alignment="894" annotation_id="11528">
+          <DiscourseConnective annotation_id="11528" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> on leur a dit <DiscourseConnective annotation_id="11546">que</DiscourseConnective> l'identification électronique allait devenir obligatoire à partir du 1er janvier 2008.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10331" docOffset="73">
+      <en>I, as a Member of this Parliament, entirely understand this.</en>
+      <fr>En <DiscourseConnective annotation_id="11640">tant que</DiscourseConnective> membre de ce Parlement, je comprends parfaitement cela.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10392" docOffset="74">
+      <en>I <Alignment alignment="10661" annotation_id="10394">
+          <DiscourseConnective annotation_id="10394" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> understand that there are Member States - such as yours, which is why I have just been listening to you - which have not fulfilled their duties, <Alignment alignment="11876" annotation_id="10544">
+          <DiscourseConnective annotation_id="10544" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> with this in mind, I voluntarily proposed a date - which has <Alignment alignment="51601" annotation_id="10609">
+          <DiscourseConnective annotation_id="10609" sense="Expansion.Conjunction">moreover</DiscourseConnective>
+        </Alignment> been accepted by the Committee on Agriculture - extending that time-limit slightly, <Alignment alignment="12030" annotation_id="10702">
+          <DiscourseConnective annotation_id="10702" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="20102" annotation_id="10707">
+          <DiscourseConnective annotation_id="10707" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, <Alignment alignment="21009" annotation_id="10720">
+          <DiscourseConnective annotation_id="10720" sense="Comparison.Contrast">whereas</DiscourseConnective>
+        </Alignment> they might pay two pounds an animal in your constituency, in mine they only pay one pound.</en>
+      <fr>Je comprends <Alignment alignment="10394" annotation_id="11718">
+          <DiscourseConnective annotation_id="11718" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11724">qu'</DiscourseConnective>il y a des États membres - <DiscourseConnective annotation_id="11754">comme</DiscourseConnective> le vôtre, et c'est la raison pour laquelle je vous ai écouté <DiscourseConnective annotation_id="11821">à</DiscourseConnective> l'instant - qui n'ont pas respecté leurs obligations <Alignment alignment="10544" annotation_id="11876">
+          <DiscourseConnective annotation_id="11876" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, sachant cela, j'ai spontanément proposé une date - qui a <Alignment alignment="4008" annotation_id="11937">
+          <DiscourseConnective annotation_id="11937" sense="Expansion.Conjunction">en outre</DiscourseConnective>
+        </Alignment> été acceptée par la commission de l'agriculture - afin de prolonger un peu ce délai <Alignment alignment="18890" annotation_id="12030">
+          <DiscourseConnective annotation_id="12030" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, <Alignment alignment="10707" annotation_id="12036">
+          <DiscourseConnective annotation_id="12036" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, <Alignment alignment="10529" annotation_id="12057">
+          <DiscourseConnective annotation_id="12057" sense="Comparison.Contrast">si</DiscourseConnective>
+        </Alignment> les animaux se vendent deux livres par tête dans votre circonscription, ils ne coûtent qu'une livre dans la mienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10819" docOffset="75">
+      <en>At this point in time, with animal disease problems being prevalent in Europe, I think that a system such as this provides a guarantee and a way of enhancing the value of what our farmers are producing.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12176">En</DiscourseConnective> ce moment, compte tenu de la fréquence des problèmes liés aux maladies animales <DiscourseConnective annotation_id="12259">en</DiscourseConnective> Europe, je pense <DiscourseConnective annotation_id="12279">qu'</DiscourseConnective>un système <DiscourseConnective annotation_id="12293">comme</DiscourseConnective> celui-là constitue une garantie <DiscourseConnective annotation_id="12331">et</DiscourseConnective> une façon d'augmenter la valeur de ce que produisent nos agriculteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11022" docOffset="76">
+      <en>It is an identification system which enables us to know the provenance of any animal transiting Community territory and be assured that it is in good health; it is a guarantee for the consumer <Alignment alignment="33804" annotation_id="11215">
+          <DiscourseConnective annotation_id="11215" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that has to be good for the farmer, <DiscourseConnective annotation_id="11255" sense="Contingency.Cause.Reason">because</DiscourseConnective> he is going to get more for his meat.</en>
+      <fr>Il <DiscourseConnective annotation_id="12408">s'</DiscourseConnective>agit d'un système d'identification qui nous permet de connaître la provenance de tout animal en transit sur le territoire communautaire <DiscourseConnective annotation_id="12546">et</DiscourseConnective> de nous assurer de sa bonne santé; c'est une garantie <DiscourseConnective annotation_id="12603">pour</DiscourseConnective> le consommateur <Alignment alignment="11215" annotation_id="12624">
+          <DiscourseConnective annotation_id="12624" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est une bonne chose <DiscourseConnective annotation_id="12649">pour</DiscourseConnective> l'agriculteur, qui va pouvoir vendre sa viande plus cher.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11301" docOffset="77">
+      <en>
+        <Alignment alignment="30653" annotation_id="11301">
+          <DiscourseConnective annotation_id="11301" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> they are not going to get any more for their meat, that is just where we are now with bluetongue, foot-and-mouth disease and the chikungunya mosquito.</en>
+      <fr>
+        <Alignment alignment="7994" annotation_id="12712">
+          <DiscourseConnective annotation_id="12712" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il ne parvient pas <DiscourseConnective annotation_id="12733">à</DiscourseConnective> vendre sa viande plus cher, c'est <DiscourseConnective annotation_id="12769">précisément</DiscourseConnective> ce <DiscourseConnective annotation_id="12784">que</DiscourseConnective> nous connaissons aujourd'hui avec la maladie de la langue bleue, la fièvre aphteuse <DiscourseConnective annotation_id="12872">et</DiscourseConnective> la chikungunya.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11455" docOffset="78">
+      <en>
+        <Alignment alignment="37925" annotation_id="11455">
+          <DiscourseConnective annotation_id="11455" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> that is the case then there is no hope for us.</en>
+      <fr>
+        <Alignment alignment="13135" annotation_id="12891">
+          <DiscourseConnective annotation_id="12891" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> c'est le cas, il ne nous reste aucun espoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11505" docOffset="79">
+      <en>So, please, let us just get to work, let us be coherent and read and examine the regulation referred to by Mr Graefe zu Baringdorf -which I would repeat is a 2004 regulation - let us read it carefully, let us recognise that there are a few exceptions in it, <Alignment alignment="13219" annotation_id="11763">
+          <DiscourseConnective annotation_id="11763" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is not a matter of do-as-you-please, <Alignment alignment="33476" annotation_id="11807">
+          <DiscourseConnective annotation_id="11807" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the date cannot be voluntary.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12939">Par conséquent</DiscourseConnective>, je vous en prie, mettons-nous tout <DiscourseConnective annotation_id="12990">simplement</DiscourseConnective> au travail, soyons cohérents <DiscourseConnective annotation_id="13030">et</DiscourseConnective> lisons <DiscourseConnective annotation_id="13040">et</DiscourseConnective> examinons le règlement évoqué par Monsieur Graefe zu Baringdorf - qui, je le répète, date de 2004 -, lisons-le attentivement, reconnaissons <DiscourseConnective annotation_id="13183">qu'</DiscourseConnective>il contient quelques exceptions, <Alignment alignment="11763" annotation_id="13219">
+          <DiscourseConnective annotation_id="13219" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> que ce n'est pas une question qui peut être laissée au choix de l'intéressé, <Alignment alignment="11807" annotation_id="13301">
+          <DiscourseConnective annotation_id="13301" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> la date ne peut être fixée librement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11845" docOffset="80">
+      <en>It cannot be voluntary <Alignment alignment="13381" annotation_id="11868">
+          <DiscourseConnective annotation_id="11868" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we, the Commission and the Council decided that it was obligatory.</en>
+      <fr>Elle ne peut pas être fixée librement <Alignment alignment="11868" annotation_id="13381">
+          <DiscourseConnective annotation_id="13381" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous avons décidé, la Commission <DiscourseConnective annotation_id="13424">et</DiscourseConnective> le Conseil, <DiscourseConnective annotation_id="13439">qu'</DiscourseConnective>elle devait être obligatoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11943" docOffset="81">
+      <en>
+        <Alignment alignment="13472" annotation_id="11943">
+          <Alignment alignment="13472" annotation_id="11943">
+            <Alignment alignment="13472" annotation_id="11943">
+              <DiscourseConnective annotation_id="11943" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, I cannot turn the clock back to three years ago and tell my farmers that all their efforts up until now are completely pointless <Alignment alignment="54206" annotation_id="12088">
+          <DiscourseConnective annotation_id="12088" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the British forgot to ask their farmers to do the same.</en>
+      <fr>
+        <Alignment alignment="11943" annotation_id="13472">
+          <Alignment alignment="11943" annotation_id="13472">
+            <Alignment alignment="11943" annotation_id="13472">
+              <DiscourseConnective annotation_id="13472" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, je ne peux pas retourner trois ans en arrière <DiscourseConnective annotation_id="13538">et</DiscourseConnective> dire à mes agriculteurs <DiscourseConnective annotation_id="13565">que</DiscourseConnective> tous les efforts qu'ils ont consentis <DiscourseConnective annotation_id="13607">jusqu'à</DiscourseConnective> présent sont totalement inutiles <Alignment alignment="12088" annotation_id="13648">
+          <DiscourseConnective annotation_id="13648" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les Britanniques ont oublié de demander à leurs agriculteurs de faire la <DiscourseConnective annotation_id="13731">même</DiscourseConnective> chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12152" docOffset="82">
+      <en>Do you understand me?</en>
+      <fr>Est-ce que vous comprenez?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12174" docOffset="83">
+      <en>I am asking you to read my amendment carefully.</en>
+      <fr>Je vous demande de lire attentivement mon amendement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12222" docOffset="84">
+      <en>My group is definitely not about to question the obligatory nature of the system, <Alignment alignment="13930" annotation_id="12304">
+          <DiscourseConnective annotation_id="12304" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> that would create unlawful discrimination between Member States and within the European Union itself, <Alignment alignment="26522" annotation_id="12414">
+          <DiscourseConnective annotation_id="12414" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> it would not surprise me - <Alignment alignment="14084" annotation_id="12450">
+          <DiscourseConnective annotation_id="12450" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am not referring to you, Mr Stevenson - that someone who had the gall to reject the Charter of Fundamental Rights in this House today could display equal or greater gall in rejecting the identification of ovine and caprine animals.</en>
+      <fr>Mon groupe n'est en aucune manière sur le point de remettre en question la nature obligatoire du système, <Alignment alignment="12915" annotation_id="13930">
+          <DiscourseConnective annotation_id="13930" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> cela créerait une discrimination illégitime entre les États membres <DiscourseConnective annotation_id="14002">et</DiscourseConnective> dans l'Union européenne proprement dite, <Alignment alignment="12414" annotation_id="14046">
+          <DiscourseConnective annotation_id="14046" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> je ne serais pas étonnée si - <Alignment alignment="3721" annotation_id="14084">
+          <DiscourseConnective annotation_id="14084" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je ne parle pas de vous, Monsieur Stevenson - quelqu'un qui a eu l'effronterie de rejeter la Charte des droits fondamentaux dans ce Parlement aujourd'hui devait faire preuve d'une effronterie similaire <DiscourseConnective annotation_id="14289">ou</DiscourseConnective> plus grande encore <DiscourseConnective annotation_id="14311">en</DiscourseConnective> rejetant l'identification des animaux des espèces ovine et caprine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12688" docOffset="85">
+      <en>Here we are <DiscourseConnective annotation_id="12700" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>: I think we have a regulation, the Commission has made us a reasonable proposal, we have <Alignment alignment="16122" annotation_id="12794">
+          <DiscourseConnective annotation_id="12794" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> made a reasonable proposal to the Commission, <Alignment alignment="14577" annotation_id="12845">
+          <DiscourseConnective annotation_id="12845" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> let us try to finish this matter this morning without too much damage on either side.</en>
+      <fr>Voilà donc où nous en sommes: je pense que nous avons un règlement, la Commission nous a fait une proposition raisonnable, nous avons-nous <Alignment alignment="12794" annotation_id="14521">
+          <DiscourseConnective annotation_id="14521" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> fait une proposition raisonnable <DiscourseConnective annotation_id="14560">à</DiscourseConnective> la Commission, <Alignment alignment="12845" annotation_id="14577">
+          <DiscourseConnective annotation_id="14577" sense="Contingency.Cause.Result">alors</DiscourseConnective>
+        </Alignment> essayons de conclure cette affaire ce matin <DiscourseConnective annotation_id="14627">sans</DiscourseConnective> causer trop de dégâts de part et d'autre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12934" id="409" name="Neil Parish">
+    <ParallelChunk annotation_id="12934" docOffset="86">
+      <en>Mr President, I rise very much to support what Mr Stevenson has just said and <DiscourseConnective annotation_id="13012" sense="Expansion.Conjunction">also</DiscourseConnective> very much to support what the Commission is trying to do.</en>
+      <fr>(EN) Monsieur le Président, je tiens <DiscourseConnective annotation_id="14711">à</DiscourseConnective> manifester mon soutien à ce que vient de dire M. Stevenson <DiscourseConnective annotation_id="14772">ainsi</DiscourseConnective> qu'à ce que la Commission tente de faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13075" docOffset="87">
+      <en>I think we do have to realise the scale of sheep farming and the number of animals involved.</en>
+      <fr>Je pense que nous devons nous rendre compte de l'ampleur de l'élevage de moutons <DiscourseConnective annotation_id="14901">et</DiscourseConnective> du nombre d'animaux concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13168" docOffset="88">
+      <en>You are talking about 25 million sheep in the UK, 8.5 million in France, 3 million in Ireland and significant numbers in Spain and other countries.</en>
+      <fr>Il <DiscourseConnective annotation_id="14938">s'</DiscourseConnective>agit de 25 millions de moutons au Royaume-Uni, 8,5 millions <DiscourseConnective annotation_id="15000">en</DiscourseConnective> France, 3 millions <DiscourseConnective annotation_id="15022">en</DiscourseConnective> Irlande <DiscourseConnective annotation_id="15033">et</DiscourseConnective> un nombre important en Espagne <DiscourseConnective annotation_id="15067">et</DiscourseConnective> dans d'autres pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13316" docOffset="89">
+      <en>The system has got to be right.</en>
+      <fr>Le système se doit d'être le bon.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13348" docOffset="90">
+      <en>
+        <Alignment alignment="13810" annotation_id="13348">
+          <DiscourseConnective annotation_id="13348" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we are going to introduce an electronic system, it has got to be practical and cost-effective, <Alignment alignment="13922" annotation_id="13446">
+          <DiscourseConnective annotation_id="13446" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> farmers have got to be able to use it practically.</en>
+      <fr>
+        <Alignment alignment="13348" annotation_id="15124">
+          <DiscourseConnective annotation_id="15124" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous devons introduire un système électronique, il doit être pratique <DiscourseConnective annotation_id="15197">et</DiscourseConnective> rentable <Alignment alignment="13446" annotation_id="15209">
+          <DiscourseConnective annotation_id="15209" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les agriculteurs doivent être en mesure de l'utiliser de manière pratique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13501" docOffset="91">
+      <en>
+        <Alignment alignment="15287" annotation_id="13501">
+          <DiscourseConnective annotation_id="13501" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> Mr Stevenson has quite rightly said, the sheep is an animal that is not of huge value, so all of this is not going to be done by veterinarians.</en>
+      <fr>
+        <Alignment alignment="13501" annotation_id="15287">
+          <DiscourseConnective annotation_id="15287" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> M. Stevenson l'a dit à juste titre, le mouton n'est pas un animal de grande valeur, les opérations ne seront donc pas effectuées par des vétérinaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13648" docOffset="92">
+      <en>A lot of this is going to have to be carried out by farmers, <Alignment alignment="10703" annotation_id="13709">
+          <DiscourseConnective annotation_id="13709" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="15512" annotation_id="13713">
+          <DiscourseConnective annotation_id="13713" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they come to read those tags, it is has got to be practically done up the side of a mountain in wet conditions, and all sorts of things.</en>
+      <fr>La majorité d'entre elles seront effectuées par les agriculteurs <Alignment alignment="20564" annotation_id="15509">
+          <DiscourseConnective annotation_id="15509" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="19090" annotation_id="15512">
+          <DiscourseConnective annotation_id="15512" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> ils devront lire ces marques, il faudra pouvoir le faire aisément dans la montagne sous la pluie, etc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13855" docOffset="93">
+      <en>I have seen a lot of these electronic systems work in hotel rooms <Alignment alignment="15707" annotation_id="13921">
+          <DiscourseConnective annotation_id="13921" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you move people through different doorways, <Alignment alignment="35769" annotation_id="13968">
+          <DiscourseConnective annotation_id="13968" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they say there is no collision between the different tags.</en>
+      <fr>J'ai vu beaucoup de ces systèmes électroniques fonctionner dans des chambres d'hôtel, <Alignment alignment="1309" annotation_id="15707">
+          <DiscourseConnective annotation_id="15707" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> on passe dans différents couloirs <Alignment alignment="13968" annotation_id="15747">
+          <DiscourseConnective annotation_id="15747" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on dit qu'il n'y a aucune collision entre les différentes marques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14031" docOffset="94">
+      <en>You <Alignment alignment="15825" annotation_id="14035">
+          <DiscourseConnective annotation_id="14035" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want a system where, <Alignment alignment="15856" annotation_id="14061">
+          <DiscourseConnective annotation_id="14061" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> a lorry-load of sheep drives into a market, in ideal circumstances, you want to be able to electronically check every sheep that is in that lorry.</en>
+      <fr>Il faut <Alignment alignment="14035" annotation_id="15825">
+          <DiscourseConnective annotation_id="15825" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> un système grâce auquel, <Alignment alignment="14061" annotation_id="15856">
+          <DiscourseConnective annotation_id="15856" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>un camion plein de moutons débarque dans un marché, dans les circonstances idéales, on veut pouvoir vérifier électroniquement tous les moutons dans ce camion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14213" docOffset="95">
+      <en>This is the ideal system.</en>
+      <fr>C'est le système idéal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14239" docOffset="96">
+      <en>What I say to you quite clearly is that there is no point in moving forward on electronic tagging <Alignment alignment="16155" annotation_id="14337">
+          <DiscourseConnective annotation_id="14337" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> we have got a practical system, cost-effective and ready to use.</en>
+      <fr>Ce que je vous dis assez clairement, c'est <DiscourseConnective annotation_id="16089">qu'</DiscourseConnective>il n'y a aucun sens <DiscourseConnective annotation_id="16112">à</DiscourseConnective> se diriger vers un marquage électronique <Alignment alignment="1449" annotation_id="16155">
+          <DiscourseConnective annotation_id="16155" sense="Temporal.Asynchronous.Precedence">tant qu'</DiscourseConnective>
+        </Alignment>on n'aura pas de système pratique, rentable <DiscourseConnective annotation_id="16207">et</DiscourseConnective> prêt <DiscourseConnective annotation_id="16215">à</DiscourseConnective> l'emploi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14408" docOffset="97">
+      <en>
+        <Alignment alignment="16236" annotation_id="14408">
+          <DiscourseConnective annotation_id="14408" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, I think you are absolutely right to say, 'Come back at the end of 2009 and see where we are'.</en>
+      <fr>Je pense <Alignment alignment="14408" annotation_id="16236">
+          <DiscourseConnective annotation_id="16236" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que vous avez tout à fait raison de dire de revenir <DiscourseConnective annotation_id="16293">à</DiscourseConnective> la fin de 2009 <DiscourseConnective annotation_id="16310">pour</DiscourseConnective> voir où nous en serons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14513" docOffset="98">
+      <en>
+        <Alignment alignment="16339" annotation_id="14513">
+          <DiscourseConnective annotation_id="14513" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> Mr Stevenson has quite rightly said, let us use this as a voluntary system <Alignment alignment="33615" annotation_id="14591">
+          <DiscourseConnective annotation_id="14591" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> Member States are ready, <Alignment alignment="35641" annotation_id="14621">
+          <DiscourseConnective annotation_id="14621" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> there is a lot of movement of sheep, <Alignment alignment="12541" annotation_id="14663">
+          <DiscourseConnective annotation_id="14663" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="17787" annotation_id="14667">
+          <DiscourseConnective annotation_id="14667" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we have got a system that works.</en>
+      <fr>
+        <Alignment alignment="14513" annotation_id="16339">
+          <DiscourseConnective annotation_id="16339" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> M. Stevenson l'a dit à juste titre, utilisons ce système de manière volontaire <Alignment alignment="12619" annotation_id="16424">
+          <DiscourseConnective annotation_id="16424" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> les États membres seront prêts, <Alignment alignment="14621" annotation_id="16462">
+          <DiscourseConnective annotation_id="16462" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> il y aura de gros déplacements de moutons <Alignment alignment="14663" annotation_id="16510">
+          <DiscourseConnective annotation_id="16510" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="14667" annotation_id="16513">
+          <DiscourseConnective annotation_id="16513" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous aurons un système qui fonctionne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14705" docOffset="99">
+      <en>Please do not bring it in too quickly, <Alignment alignment="16607" annotation_id="14744">
+          <DiscourseConnective annotation_id="14744" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we are ready.</en>
+      <fr>Je vous en prie, ne l'introduisez pas trop vite, <Alignment alignment="19672" annotation_id="16607">
+          <DiscourseConnective annotation_id="16607" sense="Temporal.Asynchronous.Precedence">avant que</DiscourseConnective>
+        </Alignment> nous soyons prêts.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14765" id="410" name="James Nicholson">
+    <ParallelChunk annotation_id="14765" docOffset="100">
+      <en>Mr President, once again we are here to debate the tagging of sheep.</en>
+      <fr>(EN) Monsieur le Président, encore une fois, nous sommes ici <DiscourseConnective annotation_id="16697">à</DiscourseConnective> débattre du marquage des moutons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14834" docOffset="101">
+      <en>All I can say is that it is an awful pity that the Commission did not listen to us way back in the early days <Alignment alignment="24586" annotation_id="14944">
+          <DiscourseConnective annotation_id="14944" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we questioned what they were proposing <DiscourseConnective annotation_id="14988" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> and advised them.</en>
+      <fr>Tout ce que je peux dire, c'est <DiscourseConnective annotation_id="16765">qu'</DiscourseConnective>il est fort dommage <DiscourseConnective annotation_id="16788">que</DiscourseConnective> la Commission ne nous ait pas écoutés il y a bien longtemps, <Alignment alignment="14944" annotation_id="16853">
+          <DiscourseConnective annotation_id="16853" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous avons remis en question ce qu'elle proposait <DiscourseConnective annotation_id="16909">et</DiscourseConnective> lui avons donné des conseils.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15011" docOffset="102">
+      <en>I would say to Ms Miguélez Ramos: yes, we did make these speeches way back at the beginning <Alignment alignment="17042" annotation_id="15103">
+          <DiscourseConnective annotation_id="15103" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> there was the discussion on tagging sheep.</en>
+      <fr>Je dirais <DiscourseConnective annotation_id="16952">à</DiscourseConnective> Mme Miguélez Ramos: "Oui, nous avons tenu ces discours il y a bien longtemps, au début, <Alignment alignment="15103" annotation_id="17042">
+          <DiscourseConnective annotation_id="17042" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> a eu lieu la discussion sur le marquage des moutons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15151" docOffset="103">
+      <en>
+        <Alignment alignment="31584" annotation_id="15151">
+          <DiscourseConnective annotation_id="15151" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> unfortunately what we said was not listened to, even <Alignment alignment="18571" annotation_id="15208">
+          <DiscourseConnective annotation_id="15208" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we said it would be unworkable.</en>
+      <fr>
+        <Alignment alignment="15151" annotation_id="17101">
+          <DiscourseConnective annotation_id="17101" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> hélas, nous n'avons pas été entendus, <Alignment alignment="13066" annotation_id="17144">
+          <DiscourseConnective annotation_id="17144" sense="Temporal.Synchrony">même quand</DiscourseConnective>
+        </Alignment> nous avons dit que ce ne serait pas faisable."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15245" docOffset="104">
+      <en>
+        <Alignment alignment="17218" annotation_id="15245">
+          <DiscourseConnective annotation_id="15245" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> we did warn you <Alignment alignment="17233" annotation_id="15264">
+          <DiscourseConnective annotation_id="15264" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you would not listen.</en>
+      <fr>Nous vous avons <Alignment alignment="15245" annotation_id="17218">
+          <DiscourseConnective annotation_id="17218" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> prévenus, <Alignment alignment="15264" annotation_id="17233">
+          <DiscourseConnective annotation_id="17233" sense="Expansion.Conjunction">mais</DiscourseConnective>
+        </Alignment> vous ne nous avez pas écoutés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15290" docOffset="105">
+      <en>The reality is that sheep farmers could never afford the cost of electronic tagging <Alignment alignment="17383" annotation_id="15374">
+          <DiscourseConnective annotation_id="15374" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they are receiving less now for their lambs than they were 20 years ago!</en>
+      <fr>La réalité, c'est <DiscourseConnective annotation_id="17287">que</DiscourseConnective> les éleveurs de moutons ne pourront jamais se permettre le coût d'un marquage électronique, <Alignment alignment="15374" annotation_id="17383">
+          <DiscourseConnective annotation_id="17383" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>ils reçoivent moins <DiscourseConnective annotation_id="17412">pour</DiscourseConnective> leurs agneaux <DiscourseConnective annotation_id="17431">qu'</DiscourseConnective>il y a 20 ans!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15455" docOffset="106">
+      <en>You tell me of any other part of any other business of any other industry that is asked to put out tremendous expenditure and receive less for what they are producing than they did 20 years ago.</en>
+      <fr>Donnez-moi un exemple de n'importe quel secteur ou de n'importe quelle industrie dans lequel on demande de se lancer dans des dépenses folles <DiscourseConnective annotation_id="17591">et</DiscourseConnective> qui reçoit moins <DiscourseConnective annotation_id="17611">pour</DiscourseConnective> sa production <DiscourseConnective annotation_id="17630">qu'</DiscourseConnective>il y a 20 ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15650" docOffset="107">
+      <en>I know this is the case from personal experience.</en>
+      <fr>Je parle au vu de mon expérience personnelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15700" docOffset="108">
+      <en>The present system we have is sufficient.</en>
+      <fr>Notre système actuel est suffisant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15742" docOffset="109">
+      <en>So, let us kick this very much into the long grass for the future.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17730">Alors</DiscourseConnective> reportons ce dossier dans un avenir éloigné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15809" docOffset="110">
+      <en>I can accept coming back and looking at it in 2009.</en>
+      <fr>Je peux accepter de revenir <DiscourseConnective annotation_id="17809">pour</DiscourseConnective> l'examiner <DiscourseConnective annotation_id="17825">en</DiscourseConnective> 2009.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15861" docOffset="111">
+      <en>Maybe, over that period of time, the electronic tagging technology, which at the moment is far too expensive, may, like many other areas of technology, become more affordable with a combination of lower costs and better returns to the sheep producer.</en>
+      <fr>Peut-être <DiscourseConnective annotation_id="17844">que</DiscourseConnective> d'ici là, la technologie du marquage électronique, actuellement bien trop onéreuse, sera, <DiscourseConnective annotation_id="17938">comme</DiscourseConnective> beaucoup d'autres domaines technologiques, devenue bien plus abordable, avec une combinaison de coûts revus à la baisse <DiscourseConnective annotation_id="18064">et</DiscourseConnective> de meilleure rentabilité <DiscourseConnective annotation_id="18092">pour</DiscourseConnective> l'éleveur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16112" docOffset="112">
+      <en>
+        <DiscourseConnective annotation_id="16112" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective> we could examine this all over again.</en>
+      <fr>Là, nous pourrons réexaminer la question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16155" docOffset="113">
+      <en>The big challenge to sheep production is to achieve profitability <DiscourseConnective annotation_id="16221" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="16225" sense="Temporal.Synchrony">when</DiscourseConnective> that happens we can move forward with confidence.</en>
+      <fr>Le grand défi de la production ovine, c'est de parvenir au profit. Ce ne sera que là que nous pourrons avancer <DiscourseConnective annotation_id="18261">en</DiscourseConnective> confiance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16280" docOffset="114">
+      <en>I must say it was with great interest that I heard Ms Miguélez Ramos and Mr Stevenson having an exchange of views over sheep <Alignment alignment="38243" annotation_id="16405">
+          <DiscourseConnective annotation_id="16405" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they usually have an exchange of views over fish, which is totally different!</en>
+      <fr>Je dois <DiscourseConnective annotation_id="18283">dire que</DiscourseConnective> j'ai écouté avec le plus vif intérêt Mme Miguélez Ramos <DiscourseConnective annotation_id="18348">et</DiscourseConnective> M. Stevenson parler de moutons, <Alignment alignment="16405" annotation_id="18383">
+          <DiscourseConnective annotation_id="18383" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>en général, ils parlent de poissons, ce qui est totalement différent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16491" docOffset="115">
+      <en>It is probably even more argumentative than over sheep <Alignment alignment="14406" annotation_id="16546">
+          <DiscourseConnective annotation_id="16546" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> they are doing tonight.</en>
+      <fr>Les échanges sont probablement plus argumentés <DiscourseConnective annotation_id="18509">que</DiscourseConnective> la discussion sur les moutons <Alignment alignment="16546" annotation_id="18543">
+          <DiscourseConnective annotation_id="18543" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> nous avons ce soir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16573" docOffset="116">
+      <en>
+        <Alignment alignment="22621" annotation_id="16573">
+          <DiscourseConnective annotation_id="16573" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> for sheep farmers, receiving such small rewards for hard work, <Alignment alignment="18650" annotation_id="16640">
+          <DiscourseConnective annotation_id="16640" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> has been outlined by Mr Parish, makes this is a very difficult job.</en>
+      <fr>
+        <Alignment alignment="16573" annotation_id="18567">
+          <DiscourseConnective annotation_id="18567" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="18572">pour</DiscourseConnective> les éleveurs de moutons, une <DiscourseConnective annotation_id="18606">si</DiscourseConnective> petite récompense <DiscourseConnective annotation_id="18627">pour</DiscourseConnective> un si dur labeur, <Alignment alignment="16640" annotation_id="18650">
+          <DiscourseConnective annotation_id="18650" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> cela a été souligné par M. Parish, rend ce travail très difficile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16711" docOffset="117">
+      <en>There are thousands of sheep on the top of mountains for all of the summertime.</en>
+      <fr>Il y a des milliers de moutons <DiscourseConnective annotation_id="18754">en</DiscourseConnective> haut de la montagne pendant tout l'été.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16791" docOffset="118">
+      <en>You try and catch them; you try and tag them; you try and follow them.</en>
+      <fr>Vous essayez de les attraper, vous essayez de les marquer, vous essayez de les suivre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16862" docOffset="119">
+      <en>I have to say to the Commissioner: I just wish you would send some of your officials who draw up some of these plans out to these areas and see what the sheep farmers have to put up with, see what they have to go through.</en>
+      <fr>Je dois le dire au commissaire: j'aimerais que vous envoyiez quelques-uns de vos représentants officiels qui mettent ces plans au point dans ces régions, qu'ils voient ce <DiscourseConnective annotation_id="19055">que</DiscourseConnective> les éleveurs ont à endurer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17084" docOffset="120">
+      <en>
+        <DiscourseConnective annotation_id="17084" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective> you might understand how we feel <Alignment alignment="19151" annotation_id="17122">
+          <DiscourseConnective annotation_id="17122" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> why we put forward these views.</en>
+      <fr>Peut-être que là, vous pourrez comprendre ce <DiscourseConnective annotation_id="19132">que</DiscourseConnective> nous éprouvons <Alignment alignment="17122" annotation_id="19151">
+          <DiscourseConnective annotation_id="19151" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> pourquoi nos défendons ces points de vue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17158" docOffset="121">
+      <en>Yes, let us do it on a voluntary basis.</en>
+      <fr>Oui, faisons cela sur une base volontaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17198" docOffset="122">
+      <en>Let us do it <Alignment alignment="21866" annotation_id="17211">
+          <DiscourseConnective annotation_id="17211" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we are ready.</en>
+      <fr>Faisons-le <Alignment alignment="17211" annotation_id="19250">
+          <DiscourseConnective annotation_id="19250" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous serons prêts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17230" docOffset="123">
+      <en>Let us move at a proper pace and let us take it at a speed which we can afford.</en>
+      <fr>Avançons avec le bon rythme <DiscourseConnective annotation_id="19303">et</DiscourseConnective> à une vitesse <DiscourseConnective annotation_id="19320">que</DiscourseConnective> nous pouvons nous permettre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17310" id="411" name="Markos Kyprianou">
+    <ParallelChunk annotation_id="17310" docOffset="124">
+      <en>Member of the Commission. - Mr President, I will be very brief, <DiscourseConnective annotation_id="17374" sense="Temporal.Synchrony">as</DiscourseConnective> it is late.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, je serai très <DiscourseConnective annotation_id="19422">bref</DiscourseConnective>, vu l'heure avancée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17389" docOffset="125">
+      <en>I would like to remind the honourable Members that what we are discussing today is the date of introduction of the system.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="19457">à</DiscourseConnective> rappeler aux honorables députés <DiscourseConnective annotation_id="19491">que</DiscourseConnective> nous discutons aujourd'hui de la date d'introduction du système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17512" docOffset="126">
+      <en>A decision was correctly taken to put the system in place, <Alignment alignment="19621" annotation_id="17571">
+          <DiscourseConnective annotation_id="17571" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the date was left open, <Alignment alignment="23788" annotation_id="17599">
+          <DiscourseConnective annotation_id="17599" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> rather a date was fixed which, it was decided, we should subsequently amend or confirm.</en>
+      <fr>Une décision a été correctement prise de le mettre <DiscourseConnective annotation_id="19611">en</DiscourseConnective> place, <Alignment alignment="17571" annotation_id="19621">
+          <DiscourseConnective annotation_id="19621" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la date a été laissée ouverte, <Alignment alignment="17599" annotation_id="19657">
+          <DiscourseConnective annotation_id="19657" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="19660">plutôt</DiscourseConnective> une date a été fixée et il a été décidé que nous devrions <DiscourseConnective annotation_id="19725">ensuite</DiscourseConnective> la modifier <DiscourseConnective annotation_id="19745">ou</DiscourseConnective> la confirmer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17690" docOffset="127">
+      <en>The data from a number of Member States showed two things.</en>
+      <fr>Les données d'un certain nombre d'États membres ont démontré deux choses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17749" docOffset="128">
+      <en>First of all that implementation was feasible, both technically and economically - as is stated in the report - and <DiscourseConnective annotation_id="17865" sense="Expansion.Conjunction">also</DiscourseConnective> that more time was needed for the Member States to introduce the system, meaning that a more realistic date was needed.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19836">Premièrement</DiscourseConnective>, <DiscourseConnective annotation_id="19850">que</DiscourseConnective> la mise en œuvre était faisable, techniquement <DiscourseConnective annotation_id="19901">et</DiscourseConnective> économiquement - <DiscourseConnective annotation_id="19921">comme</DiscourseConnective> le stipule le rapport - <DiscourseConnective annotation_id="19951">et</DiscourseConnective> <DiscourseConnective annotation_id="19954">qu'</DiscourseConnective>un délai supplémentaire était nécessaire <DiscourseConnective annotation_id="19998">pour</DiscourseConnective> l'introduction par les États membres, ce qui signifie <DiscourseConnective annotation_id="20057">qu'</DiscourseConnective>une date plus réaliste était nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17990" docOffset="129">
+      <en>The truth is that the Commission did propose to have this date set at a later stage.</en>
+      <fr>La vérité est <DiscourseConnective annotation_id="20115">que</DiscourseConnective> la Commission a bien proposé de reporter cette date.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18075" docOffset="130">
+      <en>I can assure you there was no intention to circumvent Parliament, <DiscourseConnective annotation_id="18141" sense="Expansion.Conjunction">and</DiscourseConnective> that is precisely why we chose this way of proceeding - having this debate, and not inserting an article in the regulation, which would have allowed us to take a decision with the Council alone.</en>
+      <fr>Je peux vous assurer qu'il n'y a eu aucune intention de contourner le Parlement. C'est <DiscourseConnective annotation_id="20259">précisément</DiscourseConnective> pour cela que nous avons choisi cette procédure - organiser ce débat <DiscourseConnective annotation_id="20340">et</DiscourseConnective> ne pas insérer un article dans le règlement, qui nous aurait permis de prendre la décision seuls avec le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18340" docOffset="131">
+      <en>There was never any intention on the part of the Commission not to include or involve Parliament in these decisions.</en>
+      <fr>La Commission n'a jamais eu l'intention de ne pas inclure <DiscourseConnective annotation_id="20515">ou</DiscourseConnective> ne pas impliquer le Parlement dans ces décisions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18457" docOffset="132">
+      <en>The setting of a date was considered to be a technical question.</en>
+      <fr>Le choix d'une date était considéré comme une question technique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18522" docOffset="133">
+      <en>
+        <Alignment alignment="21964" annotation_id="18522">
+          <DiscourseConnective annotation_id="18522" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> the principle had already been adopted, we thought that this technical question could be adopted through comitology <Alignment alignment="20760" annotation_id="18644">
+          <DiscourseConnective annotation_id="18644" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, to repeat what I said earlier, we have no problem in accepting the amendment setting a specific date, which I believe allows Member States enough time - two years - to prepare.</en>
+      <fr>
+        <Alignment alignment="18522" annotation_id="20634">
+          <DiscourseConnective annotation_id="20634" sense="Contingency.Cause.Reason">Puisque</DiscourseConnective>
+        </Alignment> le principe avait <DiscourseConnective annotation_id="20660">déjà</DiscourseConnective> été adopté, nous avons pensé <DiscourseConnective annotation_id="20694">que</DiscourseConnective> cette question technique pourrait être résolue <DiscourseConnective annotation_id="20745">en</DiscourseConnective> comitologie <Alignment alignment="18644" annotation_id="20760">
+          <DiscourseConnective annotation_id="20760" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="20764">pour</DiscourseConnective> répéter ce que j'ai dit tout à l'heure, cela ne nous pose aucun problème d'accepter l'amendement visant à établir une date spécifique, qui offre, je pense, une période suffisante aux États membres - deux ans - <DiscourseConnective annotation_id="20979">pour</DiscourseConnective> se préparer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18826" docOffset="134">
+      <en>
+        <Alignment alignment="20997" annotation_id="18826">
+          <DiscourseConnective annotation_id="18826" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we would be reluctant to agree to voluntary systems, since the regulation concerns traceability, <DiscourseConnective annotation_id="18932" sense="Expansion.Conjunction">and</DiscourseConnective> traceability has to be effective and applied equally in the Member States.</en>
+      <fr>
+        <Alignment alignment="18826" annotation_id="20997">
+          <DiscourseConnective annotation_id="20997" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, nous ne sommes pas enclins <DiscourseConnective annotation_id="21035">à</DiscourseConnective> accepter les systèmes volontaires, <DiscourseConnective annotation_id="21072">puisque</DiscourseConnective> le règlement concerne la traçabilité et que la traçabilité doit être efficace <DiscourseConnective annotation_id="21158">et</DiscourseConnective> appliquée de manière égale dans les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19011" docOffset="135">
+      <en>It is <Alignment alignment="21218" annotation_id="19017">
+          <DiscourseConnective annotation_id="19017" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a specific reflection of the animal health situation in the European Union.</en>
+      <fr>C'est <Alignment alignment="28165" annotation_id="21218">
+          <DiscourseConnective annotation_id="21218" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> un reflet spécifique de la situation de la santé animale dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19098" docOffset="136">
+      <en>One can look at the direct cost of the system <DiscourseConnective annotation_id="19144" sense="Temporal.Synchrony">as</DiscourseConnective> it appears, <Alignment alignment="17267" annotation_id="19159">
+          <DiscourseConnective annotation_id="19159" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="21374" annotation_id="19164">
+          <DiscourseConnective annotation_id="19164" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you take the longer-term benefits of the savings generated by the reduction in losses and animal diseases, we believe it will eventually be of benefit from the economic point of view.</en>
+      <fr>On peut considérer les coûts directs engendrés par le système, <Alignment alignment="19159" annotation_id="21369">
+          <DiscourseConnective annotation_id="21369" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="3342" annotation_id="21374">
+          <DiscourseConnective annotation_id="21374" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> on prend les bénéfices à le long terme générés par la réduction des pertes <DiscourseConnective annotation_id="21452">et</DiscourseConnective> des maladies animales, nous pensons que ce sera <DiscourseConnective annotation_id="21503">finalement</DiscourseConnective> un bénéfice, d'un point de vue économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19351" docOffset="137">
+      <en>
+        <Alignment alignment="49249" annotation_id="19351">
+          <DiscourseConnective annotation_id="19351" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, we are ready to accept the amendment by Parliament, which we believe will <Alignment alignment="28932" annotation_id="19439">
+          <DiscourseConnective annotation_id="19439" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be adopted by the Council next week.</en>
+      <fr>
+        <Alignment alignment="8749" annotation_id="21557">
+          <DiscourseConnective annotation_id="21557" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, nous sommes prêts <DiscourseConnective annotation_id="21586">à</DiscourseConnective> accepter l'amendement du Parlement, qui sera, nous le pensons, <Alignment alignment="19439" annotation_id="21651">
+          <DiscourseConnective annotation_id="21651" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> adopté par le Conseil la semaine prochaine.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19481" id="412" name="President">
+    <ParallelChunk annotation_id="19481" docOffset="138">
+      <en>Mr Graefe zu Baringdorf has the floor on a point of order.</en>
+      <fr>Monsieur Graefe zu Baringdorf a la parole <DiscourseConnective annotation_id="21743">pour</DiscourseConnective> une motion de procédure.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19540" id="413" name="Friedrich-Wilhelm Graefe zu Baringdorf">
+    <ParallelChunk annotation_id="19540" docOffset="139">
+      <en>rapporteur. - (DE) Allow me to ask the Commissioner one more question.</en>
+      <fr>rapporteur. - (DE) Permettez-moi de poser une autre question au Commissaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19611" docOffset="140">
+      <en>Commissioner Kyprianou, I tabled an amendment providing for certain exceptions, which are not intended to be implemented on a voluntary basis, <Alignment alignment="21998" annotation_id="19754">
+          <DiscourseConnective annotation_id="19754" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> indeed the original instrument <Alignment alignment="40834" annotation_id="19789">
+          <DiscourseConnective annotation_id="19789" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> allows for a variation, an updating, <DiscourseConnective annotation_id="19831" sense="Contingency.Condition">if</DiscourseConnective> it is done in accordance with Article 9(4).</en>
+      <fr>Commissaire Kyprianou, j'ai déposé un amendement qui prévoit certaines exceptions, qui ne sont pas censées être appliquées sur une base volontaire, <Alignment alignment="19754" annotation_id="21998">
+          <DiscourseConnective annotation_id="21998" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'instrument initial prévoit <DiscourseConnective annotation_id="22030">en effet</DiscourseConnective> lui <Alignment alignment="19789" annotation_id="22043">
+          <DiscourseConnective annotation_id="22043" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> une variation, une mise à jour, pour autant qu'elle <DiscourseConnective annotation_id="22101">soit</DiscourseConnective> faite conformément à l'article 9, paragraphe 4.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19878" docOffset="141">
+      <en>In certain circumstances - and these must not include voluntary arrangements, which would render the whole exercise pointless - it would be possible to give some consideration to ways in which the concerns that my fellow Members have expressed here could be met in practice.</en>
+      <fr>Dans certaines circonstances - <DiscourseConnective annotation_id="22185">et</DiscourseConnective> celles-ci ne doivent pas comprendre de mesures volontaires, qui rendraient l'ensemble de l'initiative inutile -, il serait possible d'examiner dans une certaine mesure des moyens de répondre dans la pratique aux préoccupations <DiscourseConnective annotation_id="22415">que</DiscourseConnective> mes collègues ont exprimées ici.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20153" docOffset="142">
+      <en>This is only intended as a suggestion and a question to which you might like to give some thought.</en>
+      <fr>Ce n'est qu'une suggestion <DiscourseConnective annotation_id="22479">et</DiscourseConnective> une question <DiscourseConnective annotation_id="22495">à</DiscourseConnective> laquelle vous devriez peut-être réfléchir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20252" id="414" name="President">
+    <ParallelChunk annotation_id="20252" docOffset="143">
+      <en>That was not a point of order, <Alignment alignment="42509" annotation_id="20283">
+          <DiscourseConnective annotation_id="20283" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> would the Commissioner care to answer the question?</en>
+      <fr>Il ne s'agissait pas d'une motion de procédure, <Alignment alignment="21122" annotation_id="22588">
+          <DiscourseConnective annotation_id="22588" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le Commissaire veut-il bien répondre à la question?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20339" id="415" name="Markos Kyprianou">
+    <ParallelChunk annotation_id="20339" docOffset="144">
+      <en>Member of the Commission. - Mr President, <Alignment alignment="20207" annotation_id="20381">
+          <DiscourseConnective annotation_id="20381" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I said, we have a problem accepting amendments that will affect the main principles and aspects of the regulation.</en>
+      <fr>membre de la Commission. - Monsieur le Président, <Alignment alignment="23908" annotation_id="22695">
+          <DiscourseConnective annotation_id="22695" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je l'ai dit, il nous est difficile d'accepter des amendements qui vont affecter les principes <DiscourseConnective annotation_id="22795">et</DiscourseConnective> les aspects fondamentaux du règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20499" docOffset="145">
+      <en>We will look at it again <Alignment alignment="22863" annotation_id="20524">
+          <DiscourseConnective annotation_id="20524" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="55275" annotation_id="20529">
+          <DiscourseConnective annotation_id="20529" sense="Comparison.Contrast">nevertheless</DiscourseConnective>
+        </Alignment>, this is a concern.</en>
+      <fr>Nous allons le réexaminer <Alignment alignment="20524" annotation_id="22863">
+          <DiscourseConnective annotation_id="22863" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il <DiscourseConnective annotation_id="22871">s'</DiscourseConnective>agit <Alignment alignment="17836" annotation_id="22878">
+          <DiscourseConnective annotation_id="22878" sense="Comparison.Contrast">malgré tout</DiscourseConnective>
+        </Alignment> d'un problème.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20562" id="416" name="President">
+    <ParallelChunk annotation_id="20562" docOffset="146">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20584" docOffset="147">
+      <en>The vote will take place on Thursday, 13 December 2007.</en>
+      <fr>Le vote aura lieu le jeudi 13 décembre 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20640" docOffset="148">
+      <en>Written statements (Rule 142)</en>
+      <fr>Déclarations écrites (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20670" id="417" name="Mairead McGuinness ">
+    <ParallelChunk annotation_id="20670" docOffset="149">
+      <en>in writing. - I do not believe that sufficient information has been provided on the efficiency and effectiveness of electronic identification (EID) for sheep and goats.</en>
+      <fr>par écrit. - (EN) Je ne pense pas <DiscourseConnective annotation_id="23038">que</DiscourseConnective> des informations suffisantes aient été fournies au sujet de l'efficacité <DiscourseConnective annotation_id="23115">et</DiscourseConnective> de l'efficience de l'identification électronique (EID) <DiscourseConnective annotation_id="23173">pour</DiscourseConnective> les moutons <DiscourseConnective annotation_id="23190">et</DiscourseConnective> les chèvres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20839" docOffset="150">
+      <en>
+        <Alignment alignment="23206" annotation_id="20839">
+          <DiscourseConnective annotation_id="20839" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, I believe that an economic assessment, notably a cost-benefit analysis of the impact on producers, is necessary <Alignment alignment="14452" annotation_id="20964">
+          <DiscourseConnective annotation_id="20964" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> fixing a date for the introduction of EID.</en>
+      <fr>
+        <Alignment alignment="26620" annotation_id="23206">
+          <DiscourseConnective annotation_id="23206" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, je pense <DiscourseConnective annotation_id="23224">qu'</DiscourseConnective>une évaluation économique, <DiscourseConnective annotation_id="23254">surtout</DiscourseConnective> une analyse coût-avantage de l'impact sur les producteurs, est nécessaire <Alignment alignment="20964" annotation_id="23336">
+          <DiscourseConnective annotation_id="23336" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> fixer une date <DiscourseConnective annotation_id="23360">pour</DiscourseConnective> l'introduction de l'EID.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21014" docOffset="151">
+      <en>I do not believe there is any justification for setting a date for the introduction of this scheme <Alignment alignment="35783" annotation_id="21113">
+          <DiscourseConnective annotation_id="21113" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> the impact of EID, particularly in relation to traceability and disease control, has been assessed.</en>
+      <fr>Je ne pense pas qu'il <DiscourseConnective annotation_id="23412">soit</DiscourseConnective> justifié d'arrêter une date <DiscourseConnective annotation_id="23445">pour</DiscourseConnective> l'introduction de ce programme <Alignment alignment="21113" annotation_id="23481">
+          <DiscourseConnective annotation_id="23481" sense="Temporal.Asynchronous.Precedence">avant que</DiscourseConnective>
+        </Alignment> l'impact de l'EID, particulièrement <DiscourseConnective annotation_id="23527">en</DiscourseConnective> relation avec la traçabilité <DiscourseConnective annotation_id="23559">et</DiscourseConnective> le contrôle de la maladie, ait été évalué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21219" docOffset="152">
+      <en>In Ireland, the sheep sector is melting down, with many farmers exiting the industry <Alignment alignment="23702" annotation_id="21304">
+          <DiscourseConnective annotation_id="21304" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="10589" annotation_id="21308">
+          <DiscourseConnective annotation_id="21308" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> the imposition of these measures and costs on this sector at this time is unwelcome.</en>
+      <fr>
+        <DiscourseConnective annotation_id="23605">En</DiscourseConnective> Irlande, le secteur ovin est en plein démantèlement, beaucoup d'éleveurs quittent l'industrie <Alignment alignment="970" annotation_id="23702">
+          <DiscourseConnective annotation_id="23702" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="21308" annotation_id="23705">
+          <DiscourseConnective annotation_id="23705" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment>, l'imposition de ces mesures <DiscourseConnective annotation_id="23743">et</DiscourseConnective> de ces coûts n'est pas la bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21403" docOffset="153">
+      <en>
+        <Alignment alignment="23783" annotation_id="21403">
+          <DiscourseConnective annotation_id="21403" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there is a legitimate justification for EID in this sector, stock owners would be responsive and would set about introducing it themselves on a voluntary basis.</en>
+      <fr>
+        <Alignment alignment="21403" annotation_id="23783">
+          <DiscourseConnective annotation_id="23783" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il y avait une justification légitime <DiscourseConnective annotation_id="23823">pour</DiscourseConnective> l'EID dans ce secteur, les propriétaires de bétail auraient une réaction <DiscourseConnective annotation_id="23901">et</DiscourseConnective> décideraient eux-mêmes de sa mise en place sur une base volontaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21567" docOffset="154">
+      <en>
+        <DiscourseConnective annotation_id="21567" sense="Contingency.Condition">If and when</DiscourseConnective> this EID scheme is introduced it should take place on a voluntary rather than a compulsory basis.</en>
+      <fr>L'introduction éventuelle du programme d'EID doit avoir lieu sur une base volontaire <DiscourseConnective annotation_id="24057">plutôt qu'</DiscourseConnective>obligatoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21677" docOffset="155">
+      <en>
+        <Alignment alignment="24080" annotation_id="21677">
+          <DiscourseConnective annotation_id="21677" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, should EID be introduced it should only apply to animals born after a certain date and should not apply to existing stock.</en>
+      <fr>
+        <Alignment alignment="6815" annotation_id="24080">
+          <DiscourseConnective annotation_id="24080" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="24089">si</DiscourseConnective> l'EID devait être introduite, elle ne devrait être appliquée qu'à des bêtes nées <DiscourseConnective annotation_id="24173">après</DiscourseConnective> une certaine date, pas au bétail déjà existant.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

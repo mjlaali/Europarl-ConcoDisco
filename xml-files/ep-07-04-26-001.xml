@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 10.00 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 10 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="62" id="005" name="Richard Corbett">
+    <ParallelChunk annotation_id="62" docOffset="2">
+      <en>Mr President, I do not wish to hold up the proceedings, <Alignment alignment="319501" annotation_id="118">
+          <DiscourseConnective annotation_id="118" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I and others tabled a text for a written declaration concerning the fact that the Bureau of this Parliament had reversed its decision to introduce a total ban on smoking in the European Parliament.</en>
+      <fr>(EN) Monsieur le Président, je ne voudrais pas retarder la procédure, <Alignment alignment="118" annotation_id="129">
+          <DiscourseConnective annotation_id="129" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> certains députés <DiscourseConnective annotation_id="151">et</DiscourseConnective> moi-même avons déposé une déclaration écrite à la suite de la décision du Bureau de ce Parlement de revenir sur l'interdiction totale de fumer au sein du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="320" docOffset="3">
+      <en>I have received communications from the services and now from the President stating that a written declaration on an internal matter of the Parliament is not within the rules.</en>
+      <fr>Les services, puis le Président, m'ont informé que cette déclaration n'était pas recevable <DiscourseConnective annotation_id="419">au motif qu'</DiscourseConnective>une déclaration écrite sur une question interne au Parlement n'est pas conforme aux règles en usage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="496" docOffset="4">
+      <en>
+        <Alignment alignment="279" annotation_id="496">
+          <DiscourseConnective annotation_id="496" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="326530" annotation_id="505">
+          <DiscourseConnective annotation_id="505" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you look at the Rules of Procedure it is very clear that a written declaration may concern any matter within the field of responsibilities of the European Union, which clearly this is.</en>
+      <fr>
+        <Alignment alignment="496" annotation_id="532">
+          <DiscourseConnective annotation_id="532" sense="Comparison.Contrast">Pourtant</DiscourseConnective>
+        </Alignment>, <Alignment alignment="505" annotation_id="542">
+          <DiscourseConnective annotation_id="542" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> vous examinez les règles de procédure, il apparaît très clairement <DiscourseConnective annotation_id="612">qu'</DiscourseConnective>une déclaration écrite peut porter sur toute question relevant des responsabilités de l'Union européenne, ce qui est <DiscourseConnective annotation_id="732">précisément</DiscourseConnective> le cas ici.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="693" docOffset="5">
+      <en>Could I <Alignment alignment="764" annotation_id="701">
+          <DiscourseConnective annotation_id="701" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask through you that the President refer the matter of interpreting the rules on this point to the committee that is responsible for interpreting the rules, namely the Committee on Constitutional Affairs?</en>
+      <fr>
+        <DiscourseConnective annotation_id="756">Puis</DiscourseConnective>-je <Alignment alignment="168" annotation_id="764">
+          <DiscourseConnective annotation_id="764" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> demander au Président, par votre intermédiaire, de saisir la commission responsable de l'interprétation des règles, à savoir la commission des affaires constitutionnelles, et de lui soumettre cette question d'interprétation?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="916" id="006" name="President">
+    <ParallelChunk annotation_id="916" docOffset="6">
+      <en>Yes, we will proceed like that, Mr Corbett.</en>
+      <fr>D'accord, nous procéderons <DiscourseConnective annotation_id="1025">ainsi</DiscourseConnective>, Monsieur Corbett.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="960" docOffset="7">
+      <en>Any recommendation you make concerning the Rules should be listened to very carefully!</en>
+      <fr>Toute recommandation de votre part en matière de règlement doit être considérée avec la plus grande attention!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1047" docOffset="8">
+      <en>
+        <Alignment alignment="1178" annotation_id="1047">
+          <DiscourseConnective annotation_id="1047" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, we will proceed <DiscourseConnective annotation_id="1074" sense="Temporal.Synchrony">as</DiscourseConnective> you say.</en>
+      <fr>Nous procéderons <Alignment alignment="1047" annotation_id="1178">
+          <DiscourseConnective annotation_id="1178" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> ainsi que vous l'avez demandé.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

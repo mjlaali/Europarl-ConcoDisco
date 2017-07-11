@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="063" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is voting time.</en>
+      <fr>(DE) L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+      <en>(For the outcome and other details of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="65">Pour</DiscourseConnective> les résultats <DiscourseConnective annotation_id="84">et</DiscourseConnective> d'autres détails sur le vote: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="103" id="064" name="Hannes Swoboda">
+    <ParallelChunk annotation_id="103" docOffset="3">
+      <en>(DE) Mr President, I announced yesterday, and notified the parliamentary services <DiscourseConnective annotation_id="185" sense="Contingency.Cause.Result">accordingly</DiscourseConnective>, that I wished to table a motion requesting a postponement of the vote on FYROM, <Alignment alignment="300" annotation_id="278">
+          <DiscourseConnective annotation_id="278" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment>, on the Macedonia report.</en>
+      <fr>(DE) M. le Président, <DiscourseConnective annotation_id="159">en</DiscourseConnective> notifiant à ce sujet les services parlementaires, j'ai annoncé hier <DiscourseConnective annotation_id="230">que</DiscourseConnective> je voulais présenter une motion d'ajournement du vote sur l'ARYM, <Alignment alignment="278" annotation_id="300">
+          <DiscourseConnective annotation_id="300" sense="Expansion.Restatement">en</DiscourseConnective>
+        </Alignment> d'autres mots, le rapport sur la Macédoine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="319" docOffset="4">
+      <en>It is not that we take issue with the line pursued by the rapporteur, <Alignment alignment="412" annotation_id="389">
+          <DiscourseConnective annotation_id="389" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> on such a sensitive matter we do not want to add fuel to the fire.</en>
+      <fr>Ce n'est pas <DiscourseConnective annotation_id="360">que</DiscourseConnective> nous contestions le point de vue du rapporteur, <Alignment alignment="389" annotation_id="412">
+          <DiscourseConnective annotation_id="412" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le problème est tellement délicat que nous ne voulons pas jeter de l'huile sur le feu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="460" docOffset="5">
+      <en>We would prefer to find a formula which is capable of securing the widest possible support in this House.</en>
+      <fr>Nous préférerions trouver une formule susceptible de recueillir le plus d'opinions favorables au sein du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="566" docOffset="6">
+      <en>I <Alignment alignment="331305" annotation_id="568">
+          <DiscourseConnective annotation_id="568" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> request that we vote to postpone this vote until Strasbourg: not beyond that, only until Strasbourg.</en>
+      <fr>Je propose <Alignment alignment="192" annotation_id="631">
+          <DiscourseConnective annotation_id="631" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="636">que</DiscourseConnective> nous votions <DiscourseConnective annotation_id="653">pour</DiscourseConnective> reporter ce vote <DiscourseConnective annotation_id="675">à</DiscourseConnective> Strasbourg, seulement jusque là et pas au-delà de Strasbourg.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="679" id="065" name="President">
+    <ParallelChunk annotation_id="679" docOffset="7">
+      <en>Mr Swoboda, we would have come to that <DiscourseConnective annotation_id="718" sense="Temporal.Synchrony">when</DiscourseConnective> we got to that item on the agenda.</en>
+      <fr>M. Swoboda, nous aurions abordé ce point en suivant l'ordre du jour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="758" docOffset="8">
+      <en>The procedure is this: <Alignment alignment="838" annotation_id="781">
+          <DiscourseConnective annotation_id="781" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we come to the Meijer report in the order of business, we will deal with it then.</en>
+      <fr>La procédure est la suivante: <Alignment alignment="184" annotation_id="838">
+          <DiscourseConnective annotation_id="838" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous aborderons le rapport Meijer dans l'ordre du jour, nous aborderons alors la question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="868" docOffset="9">
+      <en>Thank you anyway.</en>
+      <fr>Merci <DiscourseConnective annotation_id="941">quand même</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="886" docOffset="10">
+      <en>You will <Alignment alignment="964" annotation_id="895">
+          <DiscourseConnective annotation_id="895" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> have the opportunity to take the floor again.</en>
+      <fr>Vous aurez <Alignment alignment="895" annotation_id="964">
+          <DiscourseConnective annotation_id="964" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> l'occasion de reprendre la parole.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="946" docOffset="11">
+      <en>It has not been overlooked.</en>
+      <fr>Nous ne vous oublierons pas.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

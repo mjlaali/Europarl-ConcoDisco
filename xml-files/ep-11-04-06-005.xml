@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Announcement by the President</en>
+    <fr>Communication de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="30" id="029" name="President">
+    <ParallelChunk annotation_id="30" docOffset="1">
+      <en>Following the advice of the committees, we move on to the speakers on behalf of the party groups.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31">Après</DiscourseConnective> les avis des commissions, nous passons maintenant aux orateurs s'exprimant au nom des groupes politiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="128" docOffset="2">
+      <en>
+        <Alignment alignment="322825" annotation_id="128">
+          <DiscourseConnective annotation_id="128" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> giving the floor to the first speaker on the list, Mr Karas, I have two very short notices.</en>
+      <fr>
+        <Alignment alignment="22" annotation_id="143">
+          <DiscourseConnective annotation_id="143" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> laisser la parole au premier orateur inscrit sur la liste, M. Karas, j'ai deux communications très brèves à vous transmettre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="227" docOffset="3">
+      <en>We learned that, early this morning, a boat with over two hundred migrants, spotted off Lampedusa, capsized because of poor sea conditions.</en>
+      <fr>Nous avons appris <DiscourseConnective annotation_id="296">que</DiscourseConnective> ce matin, un bateau transportant plus de deux cent migrants, qui avait été repéré au large de Lampedusa, avait chaviré en raison des mauvaises conditions météorologiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="367" docOffset="4">
+      <en>The Coast Guard has been doing its best to rescue the missing people.</en>
+      <fr>Les garde-côtes ont fait de leur <DiscourseConnective annotation_id="504">mieux</DiscourseConnective> <DiscourseConnective annotation_id="510">pour</DiscourseConnective> secourir les personnes disparues et ils poursuivent leurs efforts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="437" docOffset="5">
+      <en>The situation is very grave.</en>
+      <fr>La situation est dramatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="466" docOffset="6">
+      <en>We wait anxiously for the commitments made by the Commission and governments in this House to materialise.</en>
+      <fr>Nous attendons avec impatience <DiscourseConnective annotation_id="642">que</DiscourseConnective> les engagements pris par la Commission <DiscourseConnective annotation_id="685">et</DiscourseConnective> par les gouvernements devant cette Assemblée se concrétisent enfin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="573" docOffset="7">
+      <en>I turn now to the second statement.</en>
+      <fr>J'en viens <DiscourseConnective annotation_id="767">maintenant</DiscourseConnective> <DiscourseConnective annotation_id="778">à</DiscourseConnective> la deuxième communication.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="609" docOffset="8">
+      <en>Two years after the tragic earthquake that devastated the city of L'Aquila and the Abruzzo region, I wish to reiterate this House's care and solicitude for the earthquake victims, and to express our hope that the timetable for the restoration of the region's historical heritage and housing stock can be accelerated.</en>
+      <fr>Deux ans <DiscourseConnective annotation_id="816">après</DiscourseConnective> le tragique tremblement de terre qui a dévasté la ville de L'Aquila <DiscourseConnective annotation_id="890">et</DiscourseConnective> la région des Abruzzes, je souhaiterais <DiscourseConnective annotation_id="933">à</DiscourseConnective> nouveau faire part de toute l'attention <DiscourseConnective annotation_id="975">et</DiscourseConnective> de toute la sollicitude de cette Assemblée aux victimes de la catastrophe <DiscourseConnective annotation_id="1052">et</DiscourseConnective> formuler l'espoir de voir <DiscourseConnective annotation_id="1081">s'</DiscourseConnective>accélérer le calendrier de la reconstruction des logements <DiscourseConnective annotation_id="1142">et</DiscourseConnective> de la restauration du patrimoine historique.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

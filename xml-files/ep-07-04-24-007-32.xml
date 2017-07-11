@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>32.</en>
+    <fr>32.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Discharge 2005: Section II, Council (vote)</en>
+    <fr>Décharge 2005: Section II, Conseil (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="47" docOffset="2">
+    <en>- Report: Caspary</en>
+    <fr>Rapport Caspary</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="65" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="62">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="84" id="170" name="Herbert Bösch">
+    <ParallelChunk annotation_id="84" docOffset="4">
+      <en>(DE) Mr President, <Alignment alignment="104" annotation_id="103">
+          <DiscourseConnective annotation_id="103" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we move on to give discharge to the Council, I should like to draw the House's attention to the fact that the Council was not present for the debate on the Budget discharge of the Commission and the other institutions and is not, <Alignment alignment="1414" annotation_id="340">
+          <DiscourseConnective annotation_id="340" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we can see, present for the decision.</en>
+      <fr>(DE) Monsieur le Président, <Alignment alignment="103" annotation_id="104">
+          <DiscourseConnective annotation_id="104" sense="Temporal.Asynchronous.Precedence">avant que</DiscourseConnective>
+        </Alignment> nous donnions décharge au Conseil, je voudrais attirer l'attention du Parlement sur le fait <DiscourseConnective annotation_id="206">que</DiscourseConnective> le Conseil n'était pas présent au débat sur la décharge budgétaire de la Commission <DiscourseConnective annotation_id="294">et</DiscourseConnective> des autres institutions <DiscourseConnective annotation_id="321">et</DiscourseConnective>, <Alignment alignment="340" annotation_id="325">
+          <DiscourseConnective annotation_id="325" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous pouvons le constater, il n'est pas présent <DiscourseConnective annotation_id="379">pour</DiscourseConnective> la décision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="381" docOffset="5">
+      <en>In view of the fact that 80% of the EU's Budget resources are handled via the Member States, which bear responsibility for these funds, we regard this as an intolerable state of affairs.</en>
+      <fr>
+        <DiscourseConnective annotation_id="397">Étant donné que</DiscourseConnective> 80 % des ressources budgétaires de l'UE sont gérées par les États membres, qui assument la responsabilité de ces fonds, nous considérons cette situation <DiscourseConnective annotation_id="566">comme</DiscourseConnective> intolérable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="568" docOffset="6">
+      <en>We expect the Council, over the coming months, to come up with a definite action plan for the drafting of the national statements of assurance.</en>
+      <fr>Nous espérons que, au cours des prochains mois, le Conseil présentera un plan d'action précis <DiscourseConnective annotation_id="679">pour</DiscourseConnective> l'établissement des déclarations d'assurance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="712" docOffset="7">
+      <en>(Loud applause)</en>
+      <fr>(Vifs applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="728" id="171" name="President">
+    <ParallelChunk annotation_id="728" docOffset="8">
+      <en>I note the comment by Mr Bösch, which clearly does not prevent us from continuing with the vote.</en>
+      <fr>Je prends note du commentaire de M. Bösch, qui, bien sûr, ne nous empêche pas de poursuivre le vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="825" docOffset="9">
+      <en>Voting by roll call on the discharge is now open.</en>
+      <fr>Le vote par appel nominal sur la décharge est ouvert.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

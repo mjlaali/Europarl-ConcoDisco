@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Maternal health (vote)</en>
+    <fr>Millénaire pour le développement - Objectif 5: améliorer la santé maternelle. (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="26" docOffset="2">
+    <en>- After the vote on paragraph 6:</en>
+    <fr>- <DiscourseConnective annotation_id="90">Après</DiscourseConnective> le vote sur le paragraphe 6:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="59" id="094" name="Ewa Tomaszewska">
+    <ParallelChunk annotation_id="59" docOffset="3">
+      <en>(PL) My voting mechanism failed to work on five occasions during the roll-call vote.</en>
+      <fr>(PL) Mon système de vote est tombé <DiscourseConnective annotation_id="160">en</DiscourseConnective> panne <DiscourseConnective annotation_id="169">à</DiscourseConnective> cinq reprises lors du vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="144" docOffset="4">
+      <en>I realised this and tried to ask for the floor but was not permitted to speak.</en>
+      <fr>Je m'en suis rendu compte <DiscourseConnective annotation_id="225">et</DiscourseConnective> j'ai tenté de prendre la parole, <DiscourseConnective annotation_id="261">mais</DiscourseConnective> je n'ai pas eu la permission de parler.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="223" docOffset="5">
+      <en>That was not right.</en>
+      <fr>Cela n'est pas juste.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="243" docOffset="6">
+      <en>
+        <Alignment alignment="352" annotation_id="243">
+          <Alignment alignment="737" annotation_id="243">
+            <DiscourseConnective annotation_id="243" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, there was no interpretation into Polish for a certain time, <Alignment alignment="408" annotation_id="316">
+          <DiscourseConnective annotation_id="316" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that was not dealt with either.</en>
+      <fr>
+        <Alignment alignment="750" annotation_id="328">
+          <Alignment alignment="243" annotation_id="328">
+            <DiscourseConnective annotation_id="328" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+          </Alignment>
+        </Alignment>, il n'y a pas eu d'interprétation <DiscourseConnective annotation_id="370">en</DiscourseConnective> polonais pendant un certain temps, <Alignment alignment="274" annotation_id="408">
+          <DiscourseConnective annotation_id="408" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce problème n'a pas été réglé <DiscourseConnective annotation_id="441">non plus</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="352" docOffset="7">
+      <en>I would ask that we cease to be treated in this way.</en>
+      <fr>Je demande <DiscourseConnective annotation_id="462">qu'</DiscourseConnective>on cesse de nous traiter de cette façon.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="405" id="095" name="President">
+    <ParallelChunk annotation_id="405" docOffset="8">
+      <en>Mrs Tomaszewska, I am terribly sorry that your vote was not counted.</en>
+      <fr>(DE) Madame Tomaszewska, je suis sincèrement désolé <DiscourseConnective annotation_id="558">que</DiscourseConnective> votre vote n'ait pas été compté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="474" docOffset="9">
+      <en>I hope that this will not happen again.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="604">que</DiscourseConnective> cela n'arrivera plus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="514" docOffset="10">
+      <en>Please submit your vote here, <DiscourseConnective annotation_id="544" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="548" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> it will be correctly registered, <Alignment alignment="714" annotation_id="586">
+          <DiscourseConnective annotation_id="586" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> your view will go on record for posterity.</en>
+      <fr>Je vous demande de soumettre votre vote <DiscourseConnective annotation_id="670">maintenant</DiscourseConnective>, il sera enregistré correctement <Alignment alignment="0" annotation_id="714">
+          <DiscourseConnective annotation_id="714" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> votre opinion sera enregistrée <DiscourseConnective annotation_id="748">pour</DiscourseConnective> la postérité.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

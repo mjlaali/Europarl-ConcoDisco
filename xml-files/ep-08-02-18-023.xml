@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Application of the law on customs and agricultural matters (debate)</en>
+    <fr>Assistance mutuelle et collaboration entre les autorités administratives des États membres et la Commission dans l'application des réglementations douanière <DiscourseConnective annotation_id="157">et</DiscourseConnective> agricole (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="68" id="128" name="President">
+    <ParallelChunk annotation_id="68" docOffset="1">
+      <en>The next item is the report by Bill Newton Dunn, on behalf of the Committee on the Internal Market and Consumer Protection, on the proposal for a regulation of the European Parliament and of the Council amending Council Regulation (EC) No 515/97 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural matters - C6-0033/2007 -.</en>
+      <fr>Le prochain point à aborder est le rapport de Bill Newton Dunn au nom de la commission sur le marché intérieur <DiscourseConnective annotation_id="288">et</DiscourseConnective> la protection des consommateurs, sur la proposition d'un règlement du Parlement européen <DiscourseConnective annotation_id="380">et</DiscourseConnective> du Conseil amendant le règlement du Conseil (CE) n° 515/97 sur l'assistance mutuelle <DiscourseConnective annotation_id="468">et</DiscourseConnective> la collaboration entre les autorités administratives des États membres <DiscourseConnective annotation_id="542">et</DiscourseConnective> la Commission dans l'application des réglementations douanière <DiscourseConnective annotation_id="608">et</DiscourseConnective> agricole - C6-0033/2007 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="548" id="129" name="Siim Kallas">
+    <ParallelChunk annotation_id="548" docOffset="2">
+      <en>Vice-President of the Commission. - Mr President, this third report is very much linked to the two previous ones.</en>
+      <fr>vice-président de la Commission. - Monsieur le Président, ce troisième rapport est étroitement lié aux deux précédents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="662" docOffset="3">
+      <en>Council Regulation (EC) No 515/97 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs or agricultural matters is a very important piece of legislation dating back to 1997, <DiscourseConnective annotation_id="973" sense="Temporal.Synchrony">when</DiscourseConnective> we had 15 Member States.</en>
+      <fr>Le règlement du Conseil (CE) n° 515/97 sur l'assistance mutuelle <DiscourseConnective annotation_id="823">et</DiscourseConnective> la collaboration entre les autorités administratives des États membres <DiscourseConnective annotation_id="897">et</DiscourseConnective> la Commission dans l'application des réglementations douanière <DiscourseConnective annotation_id="963">et</DiscourseConnective> agricole est un document législatif très important remontant <DiscourseConnective annotation_id="1027">à</DiscourseConnective> 1997, époque où nous comptions 15 États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1003" docOffset="4">
+      <en>It was essential to propose an amendment to Regulation (EC) No 515/97 in the light of developments in the last decade, technological progress, successful experience with joint customs operations coordinated in Brussels, and the enlargement of the Union to 27 Members.</en>
+      <fr>Il était essentiel de proposer un amendement au Règlement (CE) n° 515/97 au vu des développements de la dernière décennie, des progrès technologiques, de la réussite des opérations douanières conjointes coordonnées <DiscourseConnective annotation_id="1293">à</DiscourseConnective> Bruxelles <DiscourseConnective annotation_id="1305">et</DiscourseConnective> de l'élargissement de l'Union <DiscourseConnective annotation_id="1338">à</DiscourseConnective> 27 États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1271" docOffset="5">
+      <en>I would like to pay tribute to the rapporteur, Mr Newton-Dunn, for the way he has guided this proposal through Parliament.</en>
+      <fr>J'aimerais rendre hommage au rapporteur, M. Newton-Dunn, <DiscourseConnective annotation_id="1415">pour</DiscourseConnective> la manière dont il a guidé cette proposition au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1394" docOffset="6">
+      <en>I would <Alignment alignment="1490" annotation_id="1402">
+          <DiscourseConnective annotation_id="1402" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank Mr Audy, who drafted the opinion.</en>
+      <fr>J'aimerais <Alignment alignment="1402" annotation_id="1490">
+          <DiscourseConnective annotation_id="1490" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> remercier M. Audy qui a rédigé ce projet d'avis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1455" docOffset="7">
+      <en>The two committees, IMCO and COCOBU, worked closely together using the enhanced cooperation mechanism.</en>
+      <fr>Les deux commissions, IMCO <DiscourseConnective annotation_id="1576">et</DiscourseConnective> COCOBU, ont travaillé en étroite concertation, utilisant le mécanisme de coopération amélioré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1558" docOffset="8">
+      <en>Their excellent work has enabled a compromise to be brokered between the various political actors.</en>
+      <fr>Leur excellent travail a permis de trouver un compromis entre les différents acteurs politiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1657" docOffset="9">
+      <en>Thanks to the constructive approach of Parliament, a first-reading adoption of this legislation can now be achieved.</en>
+      <fr>Grâce <DiscourseConnective annotation_id="1777">à</DiscourseConnective> l'approche constructive du Parlement, une adoption en première lecture de cette législation peut à présent être obtenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1774" docOffset="10">
+      <en>Customs authorities apply controls on goods entering and exiting the Community based upon a common risk management framework, including the use of random checks.</en>
+      <fr>Les autorités douanières contrôlent les marchandises entrant <DiscourseConnective annotation_id="1961">et</DiscourseConnective> sortant de la Communauté sur la base d'un cadre commun de gestion des risques, intégrant l'utilisation de contrôles aléatoires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1936" docOffset="11">
+      <en>In this context, their task is generally not limited to the enforcement of customs legislation: they <Alignment alignment="2213" annotation_id="2037">
+          <DiscourseConnective annotation_id="2037" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> apply Community law in the fields of VAT, excise and agricultural legislation.</en>
+      <fr>Dans ce contexte, leur mission ne se limite généralement pas <DiscourseConnective annotation_id="2153">à</DiscourseConnective> l'application de la législation douanière: ils appliquent <Alignment alignment="2037" annotation_id="2213">
+          <DiscourseConnective annotation_id="2213" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la loi communautaire <DiscourseConnective annotation_id="2244">en</DiscourseConnective> matière de TVA, d'accises <DiscourseConnective annotation_id="2273">et</DiscourseConnective> de législation agricole.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2121" docOffset="12">
+      <en>I <Alignment alignment="3397" annotation_id="2123">
+          <DiscourseConnective annotation_id="2123" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> note that the issue of the fight against VAT fraud and the need for closer cooperation between the Member States and the Commission is strongly emphasised in the Musotto report which we have just discussed.</en>
+      <fr>Je note <Alignment alignment="2123" annotation_id="2309">
+          <DiscourseConnective annotation_id="2309" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="2319">que</DiscourseConnective> la question de la lutte contre les fraudes à la TVA <DiscourseConnective annotation_id="2375">et</DiscourseConnective> le besoin d'une coopération plus étroite entre les États membres <DiscourseConnective annotation_id="2443">et</DiscourseConnective> la Commission sont largement soulignés dans le rapport Musotto <DiscourseConnective annotation_id="2509">que</DiscourseConnective> nous venons de discuter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2335" docOffset="13">
+      <en>For this reason, it is crucial that customs authorities and the Commission are allowed to exchange VAT information.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2538">Pour</DiscourseConnective> cette raison, il est capital <DiscourseConnective annotation_id="2572">que</DiscourseConnective> l'on permette aux autorités douanières <DiscourseConnective annotation_id="2615">et</DiscourseConnective> à la Commission d'échanger des informations sur la TVA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2451" docOffset="14">
+      <en>In the case of certain types of data, the new Article 2a makes such an exchange of information possible.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2674">Pour</DiscourseConnective> certains types de données, le nouvel article 2a rend un tel échange d'informations possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2556" docOffset="15">
+      <en>The Commission regards this as the first step in the direction of closer cooperation in the field of the protection of the Community's financial interests against VAT fraud.</en>
+      <fr>La Commission considère cela <DiscourseConnective annotation_id="2801">comme</DiscourseConnective> le premier pas dans la direction d'une coopération plus étroite <DiscourseConnective annotation_id="2871">en</DiscourseConnective> matière de protection des intérêts financiers de la Communauté contre la fraude à la TVA.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2730" id="130" name="Bill Newton Dunn">
+    <ParallelChunk annotation_id="2730" docOffset="16">
+      <en>rapporteur. - Mr President, I thank the Commissioner.</en>
+      <fr>rapporteur. - Monsieur le Président, je remercie le commissaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2784" docOffset="17">
+      <en>I believe this should be a very uncontroversial proposal by the Commission.</en>
+      <fr>Je pense que <DiscourseConnective annotation_id="3042">pour</DiscourseConnective> la Commission, ce pourrait être une proposition de consensus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2860" docOffset="18">
+      <en>
+        <Alignment alignment="3109" annotation_id="2860">
+          <DiscourseConnective annotation_id="2860" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> the Commissioner said: enlargement, more Member States, new technology, new equipment, computers.</en>
+      <fr>
+        <Alignment alignment="2860" annotation_id="3109">
+          <DiscourseConnective annotation_id="3109" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> l'a dit le commissaire, il y a l'élargissement, le nombre croissant d'États membres, de nouvelles technologies, de nouveaux équipements, des ordinateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2961" docOffset="19">
+      <en>We need updated Commission legislation to allow good cooperation across internal borders in the Union against the bad guys - the organised criminals <Alignment alignment="3476" annotation_id="3110">
+          <DiscourseConnective annotation_id="3110" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> so on.</en>
+      <fr>Nous devons moderniser la législation de la Commission <DiscourseConnective annotation_id="3324">pour</DiscourseConnective> permettre une bonne coopération transfrontalière intérieure au sein de l'Union, en vue de lutter contre les malfaiteurs - la criminalité organisée <Alignment alignment="3110" annotation_id="3476">
+          <DiscourseConnective annotation_id="3476" sense="Expansion.Conjunction">ou</DiscourseConnective>
+        </Alignment> autre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3121" docOffset="20">
+      <en>I talked to the director of a major Anglo-Dutch company last week <DiscourseConnective annotation_id="3187" sense="Expansion.Conjunction">and</DiscourseConnective> he says that he finds organised crime is increasing <DiscourseConnective annotation_id="3243" sense="Expansion.Conjunction">and</DiscourseConnective> - I use the word which he used - 'exponentially', increasing incredibly fast, <Alignment alignment="14739" annotation_id="3325">
+          <DiscourseConnective annotation_id="3325" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3329" sense="Comparison.Contrast">yet</DiscourseConnective> the Member State governments do nothing about it, <Alignment alignment="3761" annotation_id="3383">
+          <DiscourseConnective annotation_id="3383" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the public does not know the full picture and does not push the governments, <DiscourseConnective annotation_id="3468" sense="Contingency.Cause.Result">so</DiscourseConnective> they say, 'Well, don't worry, everything is okay'.</en>
+      <fr>La semaine dernière, j'ai parlé au directeur d'une importante société anglo-néerlandaise. Il a dit constater une augmentation "exponentielle" - j'utilise ses mots - du crime organisé, à un rythme incroyablement rapide, <Alignment alignment="3325" annotation_id="3705">
+          <DiscourseConnective annotation_id="3705" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que les gouvernements des États membres ne font rien <Alignment alignment="10877" annotation_id="3761">
+          <DiscourseConnective annotation_id="3761" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> le public ne connaît pas l'intégralité du problème <DiscourseConnective annotation_id="3822">et</DiscourseConnective> ne pousse pas ceux-ci à le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3522" docOffset="21">
+      <en>We have a serious problem.</en>
+      <fr>Ils disent donc: "Ne vous en faites pas, tout va bien".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3549" docOffset="22">
+      <en>
+        <DiscourseConnective annotation_id="3549" sense="Contingency.Cause.Result">So</DiscourseConnective> we need this proposal from the Commission, <Alignment alignment="4011" annotation_id="3595">
+          <DiscourseConnective annotation_id="3595" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> everybody should agree <DiscourseConnective annotation_id="3622" sense="Expansion.Conjunction">and</DiscourseConnective> it should go through.</en>
+      <fr>Nous avons là un sérieux problème. Nous avons donc besoin de cette proposition de la Commission <Alignment alignment="3595" annotation_id="4011">
+          <DiscourseConnective annotation_id="4011" sense="Expansion.Conjunction">que</DiscourseConnective>
+        </Alignment> tout le monde devrait accepter, pour que cela aboutisse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3648" docOffset="23">
+      <en>There should be nothing more for me to say, <Alignment alignment="25905" annotation_id="3692">
+          <DiscourseConnective annotation_id="3692" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> actually there is a whole story to tell you, Mr President, which I would now like to do.</en>
+      <fr>Je n'ai guère plus <DiscourseConnective annotation_id="4091">à</DiscourseConnective> ajouter, <Alignment alignment="3692" annotation_id="4102">
+          <DiscourseConnective annotation_id="4102" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> j'aimerais <DiscourseConnective annotation_id="4118">toutefois</DiscourseConnective>, Monsieur le Président, vous évoquer une autre histoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3785" docOffset="24">
+      <en>To my amazement, my own Member State, the UK, threw in a veto in the Council of Ministers, saying that they would not agree to this.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4185">À</DiscourseConnective> ma grande stupéfaction, mon propre pays, le Royaume-Uni, a exprimé un veto au conseil des ministres, disant <DiscourseConnective annotation_id="4295">qu'</DiscourseConnective>il ne donnerait pas son accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3918" docOffset="25">
+      <en>They did not tell me, <Alignment alignment="4363" annotation_id="3940">
+          <DiscourseConnective annotation_id="3940" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> I am British, and from the same Member State.</en>
+      <fr>Ils ne me l'ont pas fait savoir, <Alignment alignment="3940" annotation_id="4363">
+          <DiscourseConnective annotation_id="4363" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> je sois citoyen britannique <DiscourseConnective annotation_id="4400">et</DiscourseConnective> du <DiscourseConnective annotation_id="4406">même</DiscourseConnective> État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3993" docOffset="26">
+      <en>Not a single Labour MEP from the Labour Government in London tabled an amendment to anything, <Alignment alignment="20531" annotation_id="4087">
+          <DiscourseConnective annotation_id="4087" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they chose my good Conservative friend, Christopher Heaton-Harris, a very honourable man, who is going to speak, to pick up the Labour Government's objection <DiscourseConnective annotation_id="4249" sense="Expansion.Conjunction">and</DiscourseConnective> he tabled an amendment, which is slightly weird, <Alignment alignment="4739" annotation_id="4302">
+          <DiscourseConnective annotation_id="4302" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I wish Chris good luck; he is entitled to do that.</en>
+      <fr>Pas un seul député européen Labour du gouvernement Labour de Londres n'a présenté d'amendement, <Alignment alignment="4087" annotation_id="4520">
+          <DiscourseConnective annotation_id="4520" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ils ont choisi mon bon ami conservateur, Christopher Heaton-Harris, homme très honorable, pour prendre la parole <DiscourseConnective annotation_id="4638">en vue de</DiscourseConnective> reprendre l'objection du gouvernement Labour. Chris a soumis un amendement un peu curieux, <Alignment alignment="4302" annotation_id="4739">
+          <DiscourseConnective annotation_id="4739" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je lui souhaite bonne chance; il a tout pouvoir <DiscourseConnective annotation_id="4792">pour</DiscourseConnective> le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4357" docOffset="27">
+      <en>
+        <DiscourseConnective annotation_id="4357" sense="Comparison.Contrast">But</DiscourseConnective> what was the Labour Party doing in all this?</en>
+      <fr>Pourquoi cette attitude du parti Labour?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4406" docOffset="28">
+      <en>
+        <DiscourseConnective annotation_id="4406" sense="Contingency.Cause.Result">So</DiscourseConnective>, I thought, this is very strange, <Alignment alignment="5165" annotation_id="4443">
+          <DiscourseConnective annotation_id="4443" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are a lot of other British objections and vetoes and opt-outs going on in lots of different policy areas, <Alignment alignment="38243" annotation_id="4559">
+          <DiscourseConnective annotation_id="4559" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I thought I would investigate what the overall UK policy was on all these directives that they are opting out of, what was going on?</en>
+      <fr>Je trouve cela très étrange: j'ai constaté nombre d'autres objections, veto <DiscourseConnective annotation_id="4924">et</DiscourseConnective> options de sortie britanniques en cours dans de nombreux secteurs politiques différents. Je voulais <Alignment alignment="4559" annotation_id="5027">
+          <DiscourseConnective annotation_id="5027" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> savoir quelle était la politique britannique générale sur toutes ces directives pour lesquelles ils exerçaient une option de sortie, <Alignment alignment="4443" annotation_id="5165">
+          <DiscourseConnective annotation_id="5165" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce qui se passait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4695" docOffset="29">
+      <en>I went to OLAF, which deals with fraud in the EU, <Alignment alignment="27397" annotation_id="4745">
+          <DiscourseConnective annotation_id="4745" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we know.</en>
+      <fr>J'ai contacté l'OLAF qui, <Alignment alignment="4745" annotation_id="5213">
+          <DiscourseConnective annotation_id="5213" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous le savons, s'occupe des fraudes au sein de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4757" docOffset="30">
+      <en>OLAF tells me that the UK refuses to cooperate with it, even <Alignment alignment="5331" annotation_id="4818">
+          <DiscourseConnective annotation_id="4818" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> the UK loses billions on VAT carousel fraud.</en>
+      <fr>Il m'a été répondu <DiscourseConnective annotation_id="5292">que</DiscourseConnective> le Royaume-Uni refuse de coopérer, <Alignment alignment="4818" annotation_id="5331">
+          <DiscourseConnective annotation_id="5331" sense="Comparison.Contrast">même s'</DiscourseConnective>
+        </Alignment>il perd des milliards à la suite de carrousels <DiscourseConnective annotation_id="5385">à</DiscourseConnective> la TVA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4870" docOffset="31">
+      <en>London says, '<Alignment alignment="5409" annotation_id="4884">
+          <DiscourseConnective annotation_id="4884" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we give OLAF a finger, they will take our whole arm, <Alignment alignment="1385" annotation_id="4940">
+          <DiscourseConnective annotation_id="4940" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> we are afraid, <Alignment alignment="5497" annotation_id="4958">
+          <DiscourseConnective annotation_id="4958" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we will not cooperate'.</en>
+      <fr>Londres dit: "<Alignment alignment="4884" annotation_id="5409">
+          <DiscourseConnective annotation_id="5409" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous donnons un doigt à l'OLAF, ils nous prendront le bras, <Alignment alignment="4940" annotation_id="5472">
+          <DiscourseConnective annotation_id="5472" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> nous avons peur <Alignment alignment="4958" annotation_id="5497">
+          <DiscourseConnective annotation_id="5497" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ne souhaitons pas coopérer."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4986" docOffset="32">
+      <en>This is very weird, <Alignment alignment="29919" annotation_id="5006">
+          <DiscourseConnective annotation_id="5006" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I made further enquiries in London.</en>
+      <fr>C'est assez étrange, et <Alignment alignment="9499" annotation_id="5553">
+          <DiscourseConnective annotation_id="5553" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> j'ai poursuivi mon enquête <DiscourseConnective annotation_id="5589">à</DiscourseConnective> Londres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5045" docOffset="33">
+      <en>How does this work?</en>
+      <fr>Comment cela fonctionne-t-il?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5065" docOffset="34">
+      <en>
+        <DiscourseConnective annotation_id="5065" sense="Expansion.Conjunction">And</DiscourseConnective> I am told this is what happens: the Commission makes a proposal, then a junior official in the appropriate government department in London has to write a briefing paper to recommend what the Government should do about it.</en>
+      <fr>On m'a dit comment ça se passait: la Commission fait une proposition, <DiscourseConnective annotation_id="5700">puis</DiscourseConnective> un fonctionnaire junior du département gouvernemental ad hoc de Londres est invité <DiscourseConnective annotation_id="5788">à</DiscourseConnective> rédiger un "briefing" <DiscourseConnective annotation_id="5812">pour</DiscourseConnective> recommander au gouvernement la voie à suivre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5291" docOffset="35">
+      <en>He is very careful; he is a bit nervous; he does not know what to do, <Alignment alignment="25811" annotation_id="5361">
+          <DiscourseConnective annotation_id="5361" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> he says, 'We must not do anything about this.</en>
+      <fr>Ce qui le rend un peu nerveux, il ne sait pas quoi faire, et <Alignment alignment="5361" annotation_id="5924">
+          <DiscourseConnective annotation_id="5924" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> il dit: "Nous ne devons rien faire <DiscourseConnective annotation_id="5964">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5410" docOffset="36">
+      <en>I recommend great caution.</en>
+      <fr>Je recommande la plus grande prudence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5437" docOffset="37">
+      <en>I do not think we should approve.</en>
+      <fr>Je ne pense pas que nous devrions approuver.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5471" docOffset="38">
+      <en>Perhaps we should even opt out'.</en>
+      <fr>Peut-être <DiscourseConnective annotation_id="6071">même</DiscourseConnective> devrions-nous exercer l'option de refus."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5504" docOffset="39">
+      <en>
+        <Alignment alignment="6118" annotation_id="5504">
+          <DiscourseConnective annotation_id="5504" sense="Expansion.Conjunction">And</DiscourseConnective>
+        </Alignment> his careful paper - <Alignment alignment="26056" annotation_id="5528">
+          <DiscourseConnective annotation_id="5528" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> he wants to be promoted and not sacked - goes up the tree in his department, <DiscourseConnective annotation_id="5613" sense="Expansion.Conjunction">and</DiscourseConnective> officials who are busy doing other things say 'okay' and tick it.</en>
+      <fr>
+        <Alignment alignment="13554" annotation_id="6118">
+          <DiscourseConnective annotation_id="6118" sense="Expansion.Conjunction">Et</DiscourseConnective>
+        </Alignment> son document très prudent - <Alignment alignment="14399" annotation_id="6149">
+          <DiscourseConnective annotation_id="6149" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il souhaite être promu <DiscourseConnective annotation_id="6181">et</DiscourseConnective> non pas renvoyé - remonte la hiérarchie de son département. Les fonctionnaires trop occupés à autre chose disent OK <DiscourseConnective annotation_id="6300">et</DiscourseConnective> avalisent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5683" docOffset="40">
+      <en>Other government departments asked for their opinion do not know either, <Alignment alignment="6389" annotation_id="5756">
+          <DiscourseConnective annotation_id="5756" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> they say, 'It seems okay to us'.</en>
+      <fr>Les autres départements du gouvernement interrogés n'en savent guère plus, <Alignment alignment="5756" annotation_id="6389">
+          <DiscourseConnective annotation_id="6389" sense="Contingency.Cause.Result">et</DiscourseConnective>
+        </Alignment> disent dès lors "Ca nous semble OK".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5792" docOffset="41">
+      <en>It goes finally to a cabinet committee chaired by our Foreign Secretary - and he has a million other things to think about - <DiscourseConnective annotation_id="5917" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="5921" sense="Contingency.Cause.Result">so</DiscourseConnective> it gets rubber-stamped.</en>
+      <fr>Tout ça arrive <DiscourseConnective annotation_id="6444">finalement</DiscourseConnective> <DiscourseConnective annotation_id="6455">jusqu'à</DiscourseConnective> un conseil présidé par notre secrétaire d'État aux affaires étrangères - qui doit penser à des millions d'autres choses - qui tamponne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5948" docOffset="42">
+      <en>So, suddenly, the Government's position in London is negative, cautious, in favour of an opt-out: 'We do not understand.</en>
+      <fr>Ce qui explique que soudainement, la position du gouvernement londonien est négative, très prudente, <DiscourseConnective annotation_id="6700">en</DiscourseConnective> faveur d'une option de refus: "Nous ne comprenons pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6069" docOffset="43">
+      <en>We do not really know what is going on'.</en>
+      <fr>Nous ne savons pas vraiment ce qui se passe."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6110" docOffset="44">
+      <en>Very strange <Alignment alignment="31030" annotation_id="6123">
+          <DiscourseConnective annotation_id="6123" sense="Expansion.Conjunction">indeed</DiscourseConnective>
+        </Alignment>!</en>
+      <fr>Très étrange, <Alignment alignment="6123" annotation_id="6818">
+          <DiscourseConnective annotation_id="6818" sense="Expansion.Conjunction">en réalité</DiscourseConnective>
+        </Alignment>!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6131" docOffset="45">
+      <en>So what happens next?</en>
+      <fr>Qu'est-ce qui arrive alors?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6153" docOffset="46">
+      <en>Well, back to the Committee on the Internal Market and Consumer Protection in the Parliament.</en>
+      <fr>Eh bien, retour <DiscourseConnective annotation_id="6874">à</DiscourseConnective> la commission du marché intérieur <DiscourseConnective annotation_id="6910">et</DiscourseConnective> de la protection des consommateurs au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6247" docOffset="47">
+      <en>The blockage in the Council has meant that I have attended several informal tripartite conciliations with the Council, first of all led by the Portuguese, now led by the Slovenes, in both cases excellently.</en>
+      <fr>Le blocage au Conseil a fait <DiscourseConnective annotation_id="6991">que</DiscourseConnective> j'ai assisté à de nombreuses conciliations tripartites informelles avec le Conseil, <DiscourseConnective annotation_id="7079">d'abord</DiscourseConnective> dirigées par les Portugais <DiscourseConnective annotation_id="7114">puis</DiscourseConnective> par les Slovènes, chaque fois d'excellente manière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6454" docOffset="48">
+      <en>
+        <Alignment alignment="28112" annotation_id="6454">
+          <DiscourseConnective annotation_id="6454" sense="Expansion.Conjunction">And</DiscourseConnective>
+        </Alignment>, <Alignment alignment="7175" annotation_id="6459">
+          <DiscourseConnective annotation_id="6459" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> no UK official has ever briefed me about anything, <Alignment alignment="7258" annotation_id="6519">
+          <DiscourseConnective annotation_id="6519" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I was <Alignment alignment="7273" annotation_id="6529">
+          <DiscourseConnective annotation_id="6529" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> the only British person present at the conciliation, even <DiscourseConnective annotation_id="6597" sense="Comparison.Contrast">though</DiscourseConnective> the British Government apparently has a veto situation on this, it went through.</en>
+      <fr>
+        <Alignment alignment="6454" annotation_id="7171">
+          <DiscourseConnective annotation_id="7171" sense="Expansion.Conjunction">Et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="4817" annotation_id="7175">
+          <DiscourseConnective annotation_id="7175" sense="Comparison.Contrast">bien qu'</DiscourseConnective>
+        </Alignment>aucun fonctionnaire britannique ne m'ait jamais donné la moindre consigne, <Alignment alignment="6519" annotation_id="7258">
+          <DiscourseConnective annotation_id="7258" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que j'étais <Alignment alignment="6529" annotation_id="7273">
+          <DiscourseConnective annotation_id="7273" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> le seul britannique présent <DiscourseConnective annotation_id="7306">à</DiscourseConnective> la conciliation, ce fut accepté malgré l'apparente situation de veto du gouvernement britannique <DiscourseConnective annotation_id="7405">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6685" docOffset="49">
+      <en>Finally, the Commission and the Council have found a form of words which has enabled the British objection to be got round, or overcome, <Alignment alignment="13272" annotation_id="6822">
+          <DiscourseConnective annotation_id="6822" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> whatever words you like to use.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7417">Finalement</DiscourseConnective>, la Commission <DiscourseConnective annotation_id="7443">et</DiscourseConnective> le Conseil ont trouvé une formulation qui a permis à l'objection britannique d'être contournée, outrepassée <Alignment alignment="6822" annotation_id="7554">
+          <DiscourseConnective annotation_id="7554" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> tout ce que vous voulez.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6857" docOffset="50">
+      <en>
+        <Alignment alignment="7582" annotation_id="6857">
+          <DiscourseConnective annotation_id="6857" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> the amendments before the Parliament, for voting tomorrow, were all approved by the IMCO Committee <Alignment alignment="23682" annotation_id="6959">
+          <DiscourseConnective annotation_id="6959" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope very much that Parliament will vote for them tomorrow.</en>
+      <fr>
+        <Alignment alignment="4094" annotation_id="7582">
+          <DiscourseConnective annotation_id="7582" sense="Contingency.Cause.Result">Ainsi</DiscourseConnective>
+        </Alignment>, les amendements au Parlement, <DiscourseConnective annotation_id="7619">à</DiscourseConnective> voter demain, ont tous étés approuvés par la commission IMCO <Alignment alignment="6457" annotation_id="7682">
+          <DiscourseConnective annotation_id="7682" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère de tout cœur <DiscourseConnective annotation_id="7707">que</DiscourseConnective> le Parlement va voter <DiscourseConnective annotation_id="7733">en ce sens</DiscourseConnective> demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7025" docOffset="51">
+      <en>
+        <Alignment alignment="27701" annotation_id="7025">
+          <DiscourseConnective annotation_id="7025" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> what is going on in London, Mr President, I just do not understand.</en>
+      <fr>
+        <Alignment alignment="7025" annotation_id="7752">
+          <DiscourseConnective annotation_id="7752" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment>, Monsieur le Président, je ne comprends pas très bien ce qui se passe à Londres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7097" id="131" name="Véronique Mathieu">
+    <ParallelChunk annotation_id="7097" docOffset="52">
+      <en>draftsman of the opinion of the Committee on Budgetary Control. - (FR) Mr President, Commissioner, ladies and gentlemen, my colleague Mr Audy, who is draftsman of the opinion of the Committee on Budgetary Control, has been delayed at the last minute <DiscourseConnective annotation_id="7347" sense="Expansion.Conjunction">and</DiscourseConnective> so I am speaking on his behalf.</en>
+      <fr>rapporteur pour avis de la commission du contrôle budgétaire. - (FR) Monsieur le Président, Monsieur le Commissaire, chers collègues, mon collègue Jean-Pierre Audy, qui est rapporteur pour avis au nom du contrôle budgétaire, ayant eu un empêchement de dernière minute, je m'exprimerai ici <DiscourseConnective annotation_id="8127">en</DiscourseConnective> son nom.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7383" docOffset="53">
+      <en>The correct application of the law on customs and agricultural matters plays a decisive role in ensuring that the internal market functions properly.</en>
+      <fr>La bonne application des réglementations douanières <DiscourseConnective annotation_id="8191">et</DiscourseConnective> agricoles joue un rôle déterminant dans le bon fonctionnement du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7533" docOffset="54">
+      <en>It is <Alignment alignment="8378" annotation_id="7539">
+          <DiscourseConnective annotation_id="7539" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> essential for protecting the financial interests of the Community and, more generally, those of European economic operators and citizens.</en>
+      <fr>C'est un dossier essentiel au regard de la protection des intérêts financiers de la Communauté, <DiscourseConnective annotation_id="8373">mais</DiscourseConnective> <Alignment alignment="7539" annotation_id="8378">
+          <DiscourseConnective annotation_id="8378" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des intérêts financiers des agents économiques européens <DiscourseConnective annotation_id="8445">et</DiscourseConnective> des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7682" docOffset="55">
+      <en>The customs files identification database will allow the different services of the Member States and the Commission to cooperate more effectively.</en>
+      <fr>Le fichier d'identification des dossiers d'enquêtes douanières permet une coordination plus efficace entre les différents services des États membres <DiscourseConnective annotation_id="8611">et</DiscourseConnective> de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7829" docOffset="56">
+      <en>Some of the amendments are aimed at implementing the Court of Auditors' proposals with a view to making the database more useful.</en>
+      <fr>Une partie des amendements est destinée <DiscourseConnective annotation_id="8672">à</DiscourseConnective> transposer les propositions de la Cour <DiscourseConnective annotation_id="8713">afin d'</DiscourseConnective>augmenter l'utilité de ce fichier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7959" docOffset="57">
+      <en>The draftsman shares the Court's concerns about the integrated approach to managing the various databases relating to the fight against fraud, but considers this to be a discussion going beyond the bounds of this Regulation and therefore one which should be conducted in a different context.</en>
+      <fr>Le rapporteur pour avis partage les inquiétudes de la Cour au sujet de l'approche intégrée dans la gestion des différentes bases de données concernant la lutte antifraude, <DiscourseConnective annotation_id="8927">mais</DiscourseConnective> considère que cette discussion va au-delà du présent règlement <DiscourseConnective annotation_id="8995">et</DiscourseConnective> devrait être menée dans un contexte différent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8251" docOffset="58">
+      <en>The draftsman, Mr Audy, supports the Commission's proposals aiming to promote the added value of cooperation at European level, in particular the European data directory and the platform of services.</en>
+      <fr>Jean-Pierre Audy, le rapporteur pour avis, soutient les propositions de la Commission qui ont pour objectif de promouvoir la valeur ajoutée de la coopération au niveau européen, <DiscourseConnective annotation_id="9223">notamment</DiscourseConnective> le répertoire européen des données <DiscourseConnective annotation_id="9268">et</DiscourseConnective> la plate-forme de services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8451" docOffset="59">
+      <en>In the absence of a more uniform legal framework, an exchange of best practice will ensure an increasingly coherent approach in the medium term.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9299">À défaut d'</DiscourseConnective>un cadre juridique plus homogène, une approche de plus <DiscourseConnective annotation_id="9365">en plus</DiscourseConnective> cohérente <DiscourseConnective annotation_id="9383">à</DiscourseConnective> moyen terme pourra être assurée grâce à l'échange des meilleures pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8596" docOffset="60">
+      <en>On the question of financing, the draftsman emphasises that expenses must be clearly identified <Alignment alignment="9597" annotation_id="8692">
+          <DiscourseConnective annotation_id="8692" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="8695" sense="Temporal.Synchrony">as</DiscourseConnective> to avoid an overlap between this proposal and other instruments, such as the Hercule II programme.</en>
+      <fr>Quant au financement, Jean-Pierre Audy, le rapporteur pour avis, tient à souligner <DiscourseConnective annotation_id="9544">que</DiscourseConnective> les dépenses doivent être clairement identifiées <Alignment alignment="8692" annotation_id="9597">
+          <DiscourseConnective annotation_id="9597" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>éviter des chevauchements entre cette proposition <DiscourseConnective annotation_id="9654">et</DiscourseConnective> d'autres instruments, <DiscourseConnective annotation_id="9679">par exemple</DiscourseConnective> le programme Hercule II.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8797" docOffset="61">
+      <en>Finally, the draftsman would like to keep the legislative procedure for the decision on other communication and information exchange systems, including the mandatory opinion of the Court of Auditors, rather than apply the 'comitology' procedure.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9716">Finalement</DiscourseConnective>, le rapporteur pour avis souhaite sauvegarder la procédure législative <DiscourseConnective annotation_id="9798">pour</DiscourseConnective> la décision sur d'autres systèmes de communication <DiscourseConnective annotation_id="9854">et</DiscourseConnective> d'échange d'informations, y compris l'avis obligatoire de la Cour des comptes, <DiscourseConnective annotation_id="9936">au lieu d'</DiscourseConnective>appliquer la procédure de comitologie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9043" id="132" name="Christopher Heaton-Harris">
+    <ParallelChunk annotation_id="9043" docOffset="62">
+      <en>on behalf of the PPE-DE Group. - Mr President, I would like to start by thanking Mr Newton Dunn, another honourable Member of this institution, for eloquently painting the picture of how EU matters are dealt with - <DiscourseConnective annotation_id="9258" sense="Expansion.Alternative">or</DiscourseConnective> how he believes they are dealt with - in London.</en>
+      <fr>au nom du groupe PPE-DE. - Monsieur le Président, j'aimerais commencer par remercier M. Newton Dunn, autre honorable Membre de cette institution, d'avoir décrit avec éloquence comment on gère - du moins en son opinion - les affaires européennes <DiscourseConnective annotation_id="10230">à</DiscourseConnective> Londres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9310" docOffset="63">
+      <en>Perhaps I can explain what was going on in London <Alignment alignment="10298" annotation_id="9360">
+          <DiscourseConnective annotation_id="9360" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> why they came to a Conservative Member of the European Parliament rather than go to a Labour MEP, or indeed to himself.</en>
+      <fr>Peut-être <DiscourseConnective annotation_id="10251">puis</DiscourseConnective>-je expliquer ce qui s'est passé <DiscourseConnective annotation_id="10288">à</DiscourseConnective> Londres <Alignment alignment="3" annotation_id="10298">
+          <DiscourseConnective annotation_id="10298" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> pourquoi ils sont venus trouver un membre conservateur du Parlement européen <DiscourseConnective annotation_id="10378">plutôt qu'</DiscourseConnective>un membre Labour, <DiscourseConnective annotation_id="10406">ou</DiscourseConnective> même lui-même.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9484" docOffset="64">
+      <en>Actually, I think they should have gone to him, <Alignment alignment="10479" annotation_id="9532">
+          <DiscourseConnective annotation_id="9532" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I cannot believe they did not.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10424">En fait</DiscourseConnective>, je pense qu'ils auraient dû s'adresser <DiscourseConnective annotation_id="10472">à</DiscourseConnective> lui, <Alignment alignment="6416" annotation_id="10479">
+          <DiscourseConnective annotation_id="10479" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je ne peux pas croire qu'ils ne l'aient pas fait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9567" docOffset="65">
+      <en>He might not believe me, <Alignment alignment="10558" annotation_id="9592">
+          <DiscourseConnective annotation_id="9592" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I had more contact with the current Presidency-in-Office than I did with anybody from London or the British civil service.</en>
+      <fr>Il peut ne pas me croire, <Alignment alignment="9592" annotation_id="10558">
+          <DiscourseConnective annotation_id="10558" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> j'avais davantage de contacts avec l'actuel présidence <DiscourseConnective annotation_id="10618">en</DiscourseConnective> exercice <DiscourseConnective annotation_id="10630">que</DiscourseConnective> je n'en avais avec toute autre personne de Londres <DiscourseConnective annotation_id="10685">ou</DiscourseConnective> de la fonction publique britannique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9719" docOffset="66">
+      <en>
+        <Alignment alignment="10725" annotation_id="9719">
+          <DiscourseConnective annotation_id="9719" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> perhaps it was just the fact that this young civil servant he described had forgotten to read the newspapers and believed that the general election had been called in October, that my party had won it <Alignment alignment="10946" annotation_id="9924">
+          <DiscourseConnective annotation_id="9924" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the Prime Minister had not dithered, <Alignment alignment="20988" annotation_id="9970">
+          <DiscourseConnective annotation_id="9970" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that, <Alignment alignment="37795" annotation_id="9980">
+          <DiscourseConnective annotation_id="9980" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, he was dealing with a member of the Government party.</en>
+      <fr>
+        <Alignment alignment="9719" annotation_id="10725">
+          <DiscourseConnective annotation_id="10725" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> peut-être était-ce dû <DiscourseConnective annotation_id="10752">au fait</DiscourseConnective> <DiscourseConnective annotation_id="10760">que</DiscourseConnective> le jeune fonctionnaire qu'il décrivait avait oublié de lire les journaux <DiscourseConnective annotation_id="10837">et</DiscourseConnective> croyait <DiscourseConnective annotation_id="10848">que</DiscourseConnective> les élections législatives avaient été convoquées <DiscourseConnective annotation_id="10902">en</DiscourseConnective> octobre, <DiscourseConnective annotation_id="10914">que</DiscourseConnective> mon parti les avait gagnées <Alignment alignment="13261" annotation_id="10946">
+          <DiscourseConnective annotation_id="10946" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10949">que</DiscourseConnective> le premier ministre n'avait pas bougé, <Alignment alignment="9970" annotation_id="10992">
+          <DiscourseConnective annotation_id="10992" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10995">qu'</DiscourseConnective>il s'adressait <Alignment alignment="3108" annotation_id="11013">
+          <DiscourseConnective annotation_id="11013" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11022">à</DiscourseConnective> un membre du parti gouvernemental.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10045" docOffset="67">
+      <en>Alas, that is not the case.</en>
+      <fr>Hélas, ce n'est pas le cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10073" docOffset="68">
+      <en>
+        <Alignment alignment="43390" annotation_id="10073">
+          <DiscourseConnective annotation_id="10073" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> I do understand what he says about London being concerned about giving OLAF a finger <Alignment alignment="11190" annotation_id="10162">
+          <DiscourseConnective annotation_id="10162" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it taking an arm.</en>
+      <fr>
+        <Alignment alignment="20190" annotation_id="11087">
+          <DiscourseConnective annotation_id="11087" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> je comprends <DiscourseConnective annotation_id="11105">quand</DiscourseConnective> il évoque les préoccupations de Londres ayant peur de donner un doigt à l'OLAF <Alignment alignment="10162" annotation_id="11190">
+          <DiscourseConnective annotation_id="11190" sense="Expansion.Conjunction">pour</DiscourseConnective>
+        </Alignment> se voir prendre le bras.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10184" docOffset="69">
+      <en>This actually goes back to the structure of OLAF itself, to the wise men's paper back in 1999, and the fact that OLAF is simply not independent of the Commission - something that will be addressed in the future.</en>
+      <fr>Cela remonte <DiscourseConnective annotation_id="11233">en fait</DiscourseConnective> <DiscourseConnective annotation_id="11241">à</DiscourseConnective> la structure de l'OLAF <DiscourseConnective annotation_id="11266">même</DiscourseConnective>, aux documents des sages de 1999, <DiscourseConnective annotation_id="11305">et</DiscourseConnective> <DiscourseConnective annotation_id="11308">au fait</DiscourseConnective> <DiscourseConnective annotation_id="11316">que</DiscourseConnective> l'OLAF ne bénéficie <DiscourseConnective annotation_id="11340">simplement</DiscourseConnective> d'aucune indépendance par rapport à la Commission, une question <DiscourseConnective annotation_id="11415">qu'</DiscourseConnective>on ne pourra éviter <DiscourseConnective annotation_id="11438">à</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10396" docOffset="70">
+      <en>There were other problems with this particular dossier: the fact that VAT was being dragged between pillars, possibly - and we needed to get legal advice on that - and the fact that much of this information is already exchanged electronically.</en>
+      <fr>Il y a d'autres problèmes dans ce dossier particulier: le fait <DiscourseConnective annotation_id="11513">que</DiscourseConnective> la TVA ait été déplacée d'un pilier à l'autre éventuellement - <DiscourseConnective annotation_id="11580">et</DiscourseConnective> nous demandons un avis légal <DiscourseConnective annotation_id="11612">à</DiscourseConnective> ce sujet - <DiscourseConnective annotation_id="11625">et</DiscourseConnective> le fait <DiscourseConnective annotation_id="11636">qu'</DiscourseConnective>une grande partie de ces informations soient <DiscourseConnective annotation_id="11684">déjà</DiscourseConnective> échangées sous format électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10640" docOffset="71">
+      <en>The British Government did believe - and I can see from reading between the lines how it came to that conclusion - that it would need a permanent coordination unit and would need to second people to this, <Alignment alignment="11964" annotation_id="10845">
+          <DiscourseConnective annotation_id="10845" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> having lots of people in a place rather than just exchanging information electronically.</en>
+      <fr>Le gouvernement britannique a cru - <DiscourseConnective annotation_id="11761">et</DiscourseConnective> je peux comprendre comment il en est venu <DiscourseConnective annotation_id="11806">à</DiscourseConnective> cette conclusion en lisant entre les lignes - <DiscourseConnective annotation_id="11854">qu'</DiscourseConnective>il aurait besoin d'une unité de coordination permanente <DiscourseConnective annotation_id="11913">ainsi</DiscourseConnective> que d'une seconde personne <DiscourseConnective annotation_id="11946">pour ce faire</DiscourseConnective>, et <Alignment alignment="7153" annotation_id="11964">
+          <DiscourseConnective annotation_id="11964" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> qu'il aurait besoin d'employer plusieurs personnes <DiscourseConnective annotation_id="12020">au lieu d'</DiscourseConnective>échanger plus <DiscourseConnective annotation_id="12044">simplement</DiscourseConnective> des informations de manière électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10944" docOffset="72">
+      <en>
+        <Alignment alignment="12097" annotation_id="10944">
+          <DiscourseConnective annotation_id="10944" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, there is no problem with the amendments. There is no problem with the debate.</en>
+      <fr>
+        <Alignment alignment="10944" annotation_id="12097">
+          <DiscourseConnective annotation_id="12097" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, il n'y a pas de problème avec les amendements, pas plus qu'avec le débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11031" docOffset="73">
+      <en>This should go through very quickly, <DiscourseConnective annotation_id="11068" sense="Expansion.Conjunction">and</DiscourseConnective> I hope it does.</en>
+      <fr>Cela devrait aboutir très vite, ce que <DiscourseConnective annotation_id="12221">d'ailleurs</DiscourseConnective> j'espère.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11088" id="133" name="President">
+    <ParallelChunk annotation_id="11088" docOffset="74">
+      <en>Thank you, Mr Heaton-Harris.</en>
+      <fr>Merci M. Heaton-Harris.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11117" docOffset="75">
+      <en>
+        <Alignment alignment="2828" annotation_id="11117">
+          <Alignment alignment="15931" annotation_id="11117">
+            <DiscourseConnective annotation_id="11117" sense="Contingency.Cause.Reason">Now that</DiscourseConnective>
+          </Alignment>
+        </Alignment> all is clear in London, Europe too feels more at ease.</en>
+      <fr>L'Europe se sent plus <DiscourseConnective annotation_id="12288">à</DiscourseConnective> l'aise <Alignment alignment="17579" annotation_id="12297">
+          <Alignment alignment="11117" annotation_id="12297">
+            <DiscourseConnective annotation_id="12297" sense="Contingency.Cause.Reason">maintenant que</DiscourseConnective>
+          </Alignment>
+        </Alignment> tout est clair <DiscourseConnective annotation_id="12327">à</DiscourseConnective> Londres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11181" id="134" language="FR" name="Catherine Neris">
+    <ParallelChunk annotation_id="11181" docOffset="76">
+      <en>Mr President, ladies and gentlemen, I would like to congratulate the rapporteur for having produced an excellent piece of work and for having collaborated so well on what is a particularly sensitive issue.</en>
+      <fr>au nom du groupe PSE. - (FR) Monsieur le Président, chers collègues, je tiens <DiscourseConnective annotation_id="12416">à</DiscourseConnective> féliciter le rapporteur <DiscourseConnective annotation_id="12442">pour</DiscourseConnective> son excellent travail <DiscourseConnective annotation_id="12469">et</DiscourseConnective> <DiscourseConnective annotation_id="12472">pour</DiscourseConnective> sa collaboration sur ce dossier particulièrement sensible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11387" docOffset="77">
+      <en>At a time of increasing trade not only within the Union but also with third countries, the opening-up of markets and expanding commercial activity are set to represent key development factors for Europe for years to come.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12536">À l'heure où</DiscourseConnective> les échanges commerciaux avec les pays tiers, comme au sein de l'Union, ne cessent d'augmenter, l'ouverture croissante des marchés <DiscourseConnective annotation_id="12680">et</DiscourseConnective> l'accroissement du négoce représentent un des facteurs de développement de l'Europe <DiscourseConnective annotation_id="12767">pour</DiscourseConnective> les années <DiscourseConnective annotation_id="12783">à</DiscourseConnective> venir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11609" docOffset="78">
+      <en>
+        <DiscourseConnective annotation_id="11609" sense="Comparison.Contrast">However</DiscourseConnective>, the gradual removal of the barriers that define the European Economic Area <DiscourseConnective annotation_id="11693" sense="Expansion.Conjunction">also</DiscourseConnective> opens the door to a host of fraudulent activities that threaten the viability of the internal market, with Community producers, and by extension European consumers, counting among the first victims.</en>
+      <fr>La suppression progressive des barrières qui circonscrivaient l'Espace économique européen ouvre toutefois la porte <DiscourseConnective annotation_id="12908">à</DiscourseConnective> un ensemble d'opérations frauduleuses qui menacent la viabilité du marché intérieur et dont les premières victimes sont à dénombrer parmi les producteurs communautaires <DiscourseConnective annotation_id="13079">et</DiscourseConnective>, par extension, parmi les consommateurs européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11897" docOffset="79">
+      <en>This problem is especially prominent in the agricultural sector, where the crucial measures that have been put in place to provide farmers with financial aid and solidarity have attracted the greedy eyes of international crime on both a small and large scale.</en>
+      <fr>Ce problème est particulièrement saillant dans le secteur agricole, dont l'indispensable système d'aide financière <DiscourseConnective annotation_id="13248">et</DiscourseConnective> de solidarité vis-à-vis de ses paysans attire la convoitise de la petite <DiscourseConnective annotation_id="13324">comme</DiscourseConnective> de la grande criminalité internationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12157" docOffset="80">
+      <en>In this context, <DiscourseConnective annotation_id="12174" sense="Expansion.Conjunction">and</DiscourseConnective> given the shortcomings of the present controls, Europe is preparing to arm itself with a new regulation that will permit a better distribution of data among the Member States with regard to the movement of goods and the various investigations that are being carried out in the different countries of the Union.</en>
+      <fr>Dans ce contexte, face aux carences des outils de contrôle actuels, l'Europe <DiscourseConnective annotation_id="13448">s'</DiscourseConnective>apprête <DiscourseConnective annotation_id="13458">à</DiscourseConnective> se doter d'une nouvelle réglementation, qui devrait notamment permettre un meilleur partage des données entre États membres <DiscourseConnective annotation_id="13584">en</DiscourseConnective> ce qui concerne les mouvements des marchandises <DiscourseConnective annotation_id="13635">et</DiscourseConnective> les enquêtes <DiscourseConnective annotation_id="13651">en</DiscourseConnective> cours dans les différents pays de l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12489" docOffset="81">
+      <en>I welcome the compromise that has been found with the Council, which now gives us a more balanced document, the details of which are to be voted on tomorrow by the Members of this Parliament.</en>
+      <fr>Je me réjouis du compromis trouvé avec le Conseil, qui permet aujourd'hui de disposer d'un texte équilibré, dont les termes seront soumis demain au vote des membres du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12681" docOffset="82">
+      <en>
+        <Alignment alignment="13885" annotation_id="12681">
+          <DiscourseConnective annotation_id="12681" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> continuing to protect the various aspects of private life, the agreement should help improve the effectiveness of surveillance procedures and lead to better coordination of actions undertaken between each of the Member States.</en>
+      <fr>
+        <Alignment alignment="6372" annotation_id="13885">
+          <DiscourseConnective annotation_id="13885" sense="Comparison.Contrast">Tout en</DiscourseConnective>
+        </Alignment> protégeant les éléments de la vie privée, il devrait conduire à une meilleure efficacité des procédures de surveillance, <DiscourseConnective annotation_id="14014">à</DiscourseConnective> une meilleure coordination des actions menées entre chacun des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12914" docOffset="83">
+      <en>In the area of customs controls, as elsewhere, I am convinced that Europe can only develop through greater combination of effort and by the pooling of our respective resources <Alignment alignment="14314" annotation_id="13090">
+          <DiscourseConnective annotation_id="13090" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can give our citizens the level of protection they desire.</en>
+      <fr>Dans le domaine des contrôles douaniers <DiscourseConnective annotation_id="14134">comme</DiscourseConnective> ailleurs, je suis convaincue <DiscourseConnective annotation_id="14169">que</DiscourseConnective> l'Europe ne pourra se faire qu'à travers une plus grande convergence de nos efforts <DiscourseConnective annotation_id="14257">et</DiscourseConnective> par une mise en commun de nos ressources respectives, <Alignment alignment="13090" annotation_id="14314">
+          <DiscourseConnective annotation_id="14314" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>apporter à nos concitoyens le niveau de protection auquel ils aspirent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13160" docOffset="84">
+      <en>In this respect, any improvement in the measures we have for combating fraud cannot be achieved without <DiscourseConnective annotation_id="13264" sense="Expansion.Conjunction">also</DiscourseConnective> maintaining a consistent level of regulation, for this is essential <DiscourseConnective annotation_id="13337" sense="Contingency.Condition">if</DiscourseConnective> we are to retain sound and effective control from above of the commercial activities under way both within the Union and with third countries.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14393">En ce sens</DiscourseConnective>, l'amélioration des mesures de lutte contre les fraudes ne pourra se faire <DiscourseConnective annotation_id="14479">sans</DiscourseConnective> le maintien en parallèle d'un niveau conséquent de régulation, indispensable pour conserver en amont une gestion saine <DiscourseConnective annotation_id="14603">et</DiscourseConnective> efficace des échanges commerciaux dans l'Union, comme vis-à-vis des pays tiers.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13483" id="136" name="Mairead McGuinness">
+    <ParallelChunk annotation_id="13483" docOffset="85">
+      <en>Mr President, I rather enjoyed the remarks by my eminent colleagues from the UK and their storytelling about how things are done in the UK.</en>
+      <fr>Monsieur le Président, j'ai <DiscourseConnective annotation_id="14714">plutôt</DiscourseConnective> aimé les remarques formulées par mes éminents collègues britanniques <DiscourseConnective annotation_id="14790">et</DiscourseConnective> leurs histoires visant à illustrer comment les choses se passent au RU.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13623" docOffset="86">
+      <en>I think we should write that down and translate that into many languages, <Alignment alignment="21044" annotation_id="13697">
+          <DiscourseConnective annotation_id="13697" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I think it happens in many Member States that junior officials have a dossier and prepare various reports on it.</en>
+      <fr>Je crois qu'on devrait consigner cela par écrit <DiscourseConnective annotation_id="14913">et</DiscourseConnective> le traduire <DiscourseConnective annotation_id="14928">en</DiscourseConnective> de nombreuses langues, <Alignment alignment="13697" annotation_id="14954">
+          <DiscourseConnective annotation_id="14954" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> je pense que dans de nombreux États membres, de jeunes fonctionnaires se voient confier un dossier <DiscourseConnective annotation_id="15057">et</DiscourseConnective> ont différents rapports à préparer <DiscourseConnective annotation_id="15095">à</DiscourseConnective> son sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13818" docOffset="87">
+      <en>I think we should not point the finger at the junior official but rather at the department that allows that to happen.</en>
+      <fr>Je crois qu'il ne faut pas pointer du doigt le jeune fonctionnaire, <DiscourseConnective annotation_id="15176">mais</DiscourseConnective> <DiscourseConnective annotation_id="15181">plutôt</DiscourseConnective> le département qui autorise de telles procédures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13937" docOffset="88">
+      <en>I would just like to put to the House that there are concerns about the UK and Ireland - and maybe the Commission can update me, <DiscourseConnective annotation_id="14066" sense="Contingency.Condition">if</DiscourseConnective> there is an update about this particular issue - <DiscourseConnective annotation_id="14118" sense="Contingency.Cause.Reason">because</DiscourseConnective>, <DiscourseConnective annotation_id="14127" sense="Comparison.Contrast">while</DiscourseConnective> there is support for the principle of mutual assistance between the customs authorities, I think that both Member States, Ireland and the UK, have reservations on the exchange of information between these authorities on the use of VAT numbers in Article 2a(f) and contend that the exchange of information using VAT numbers is de facto, the exchange of fiscal information falling outside the scope of the proposed legal base.</en>
+      <fr>Je voudrais juste exprimer face à l'Assemblée mes préoccupations concernant le RU et l'Irlande - et sans doute la Commission pourra actualiser, le cas échéant, mes informations sur ce cas particulier - car, alors qu'il y a soutien du principe d'assistance mutuelle entre les autorités douanières, je pense que ces deux États membres, l'Irlande et le RU, émettent des réserves sur l'échange d'informations entre ces autorités sur l'utilisation des numéros de TVA (article 2a(f)) prétendant que l'échange d'informations utilisant des numéros de TVA est de facto un échange d'informations fiscales sortant du cadre de la base légale proposée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14558" docOffset="89">
+      <en>So perhaps there could be a comment on that.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15878">Dès lors</DiscourseConnective>, il pourrait y avoir un commentaire <DiscourseConnective annotation_id="15923">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14603" id="137" name="Siim Kallas">
+    <ParallelChunk annotation_id="14603" docOffset="90">
+      <en>Vice-President of the Commission. - Mr President, I <Alignment alignment="15998" annotation_id="14655">
+          <DiscourseConnective annotation_id="14655" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> enjoy seeing how things are debated in the UK.</en>
+      <fr>vice-président de la Commission. - Monsieur le Président, j'ai <Alignment alignment="14655" annotation_id="15998">
+          <DiscourseConnective annotation_id="15998" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> beaucoup apprécié de voir comment les choses se passent au RU.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14707" docOffset="91">
+      <en>
+        <Alignment alignment="44939" annotation_id="14707">
+          <DiscourseConnective annotation_id="14707" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I can assure you, with regard to what had just been said, that this does not happen only in the UK.</en>
+      <fr>Je <DiscourseConnective annotation_id="16070">puis</DiscourseConnective> <Alignment alignment="14707" annotation_id="16075">
+          <DiscourseConnective annotation_id="16075" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> vous assurer, concernant ce que l'on vient de dire, <DiscourseConnective annotation_id="16137">que</DiscourseConnective> cela ne se limite pas au RU.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14816" docOffset="92">
+      <en>I have met several chiefs of finance, and several ministers, and promoted the idea of mutual administrative assistance, and can state that this reluctance is not just limited to the United Kingdom.</en>
+      <fr>J'ai rencontré plusieurs directeurs des finances <DiscourseConnective annotation_id="16219">et</DiscourseConnective> plusieurs ministres face à qui j'ai promu l'idée d'une assistance administrative mutuelle, <DiscourseConnective annotation_id="16313">et</DiscourseConnective> je <DiscourseConnective annotation_id="16319">puis</DiscourseConnective> vous assurer <DiscourseConnective annotation_id="16337">que</DiscourseConnective> cette résistance ne se limite pas au RU.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15014" docOffset="93">
+      <en>It has been viewed as a suspicious matter, <Alignment alignment="34714" annotation_id="15057">
+          <DiscourseConnective annotation_id="15057" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I can assure you that there are no grounds for this kind of suspicion.</en>
+      <fr>L'idée est considérée avec beaucoup de suspicion, <Alignment alignment="15057" annotation_id="16432">
+          <DiscourseConnective annotation_id="16432" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je <DiscourseConnective annotation_id="16440">puis</DiscourseConnective> vous assurer <DiscourseConnective annotation_id="16458">que</DiscourseConnective> cette suspicion n'est fondée <DiscourseConnective annotation_id="16491">en</DiscourseConnective> rien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15132" docOffset="94">
+      <en>As an investigative body within the Commission, OLAF can only provide a platform for cooperation, <DiscourseConnective annotation_id="15230" sense="Expansion.Conjunction">and</DiscourseConnective> it is absolutely clear that value added tax fraud can only be fought in cooperation between Member States and the European Commission, <Alignment alignment="5196" annotation_id="15369">
+          <DiscourseConnective annotation_id="15369" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, basically, major fraud can only happen cross-border.</en>
+      <fr>À titre d'instance d'enquête au sein de la Commission, l'OLAF ne peut <DiscourseConnective annotation_id="16570">que</DiscourseConnective> fournir une plate-forme de coopération. Il est absolument évident <DiscourseConnective annotation_id="16640">que</DiscourseConnective> les fraudes à la TVA ne peuvent être combattues qu'au moyen d'une coopération entre les États membres <DiscourseConnective annotation_id="16746">et</DiscourseConnective> la Commission, <Alignment alignment="15369" annotation_id="16764">
+          <DiscourseConnective annotation_id="16764" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>à la base, les fraudes importantes sont exclusivement transfrontalières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15431" docOffset="95">
+      <en>So there is a real need for better cooperation, and to exchange information.</en>
+      <fr>Il y a donc un réel besoin d'améliorer la coopération <DiscourseConnective annotation_id="16900">et</DiscourseConnective> d'échanger des informations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15508" docOffset="96">
+      <en>I cannot comment on the last question, as to the substance of the information.</en>
+      <fr>Je ne puis pas répondre <DiscourseConnective annotation_id="16956">à</DiscourseConnective> la dernière question concernant la teneur des informations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15587" docOffset="97">
+      <en>We are only talking about smoothing the fight against value added tax fraud, which is a major type of fraud.</en>
+      <fr>Nos propos portent uniquement sur l'harmonisation de la lutte contre la fraude à la TVA, le type de fraude principal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15696" docOffset="98">
+      <en>That would indeed be the case, <Alignment alignment="17169" annotation_id="15727">
+          <DiscourseConnective annotation_id="15727" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am very happy to hear the opinion being clearly expressed that Parliament would support this legislative proposal in the form proposed.</en>
+      <fr>Ce devrait <DiscourseConnective annotation_id="17147">en effet</DiscourseConnective> être le cas, <Alignment alignment="19295" annotation_id="17169">
+          <DiscourseConnective annotation_id="17169" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis très heureux d'entendre clairement exprimer <DiscourseConnective annotation_id="17224">que</DiscourseConnective> le Parlement soutiendra cette proposition législative sous la forme proposée.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15869" id="138" name="Bill Newton Dunn">
+    <ParallelChunk annotation_id="15869" docOffset="99">
+      <en>rapporteur. - Mr President, I should like to thank everybody who spoke in the debate.</en>
+      <fr>rapporteur. - Monsieur le Président, j'aimerais remercier tous ceux qui sont intervenus dans ce débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15955" docOffset="100">
+      <en>To the very perceptive comment from Ms McGuinness, representing Dublin, I would say: <Alignment alignment="17501" annotation_id="16040">
+          <DiscourseConnective annotation_id="16040" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> she said this is widespread and should be written down, she probably is aware that there was a very famous TV programme about 15, or even 20, years ago in the UK called Yes, Minister, in which the minister, who was a bumbling idiot, imagined he was in full control and was eventually promoted to Prime Minister.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17409">En</DiscourseConnective> réponse au commentaire très pertinent de Mme McGuinness, représentant Dublin, je dirais: <Alignment alignment="16040" annotation_id="17501">
+          <DiscourseConnective annotation_id="17501" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> elle dit qu'il <DiscourseConnective annotation_id="17522">s'</DiscourseConnective>agit d'un fait répandu <DiscourseConnective annotation_id="17547">et</DiscourseConnective> qu'il faudrait le consigner par écrit, elle doit probablement savoir <DiscourseConnective annotation_id="17619">qu'</DiscourseConnective>il existait un programme TV qui a fait fureur il y a 15 <DiscourseConnective annotation_id="17678">ou</DiscourseConnective> 20 ans au RU, intitulé Yes, Minister. Le ministre, qui était un idiot impénitent, se croyait tout puissant <DiscourseConnective annotation_id="17788">et</DiscourseConnective> espérait être promu Premier ministre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16357" docOffset="101">
+      <en>
+        <Alignment alignment="26904" annotation_id="16357">
+          <DiscourseConnective annotation_id="16357" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> the words 'Yes, Minister' were actually the words of his civil servants, who were telling him what to say <Alignment alignment="17941" annotation_id="16467">
+          <DiscourseConnective annotation_id="16467" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what to do - 'Yes, Minister.</en>
+      <fr>
+        <Alignment alignment="3238" annotation_id="17829">
+          <DiscourseConnective annotation_id="17829" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> les mots Yes, Minister étaient <DiscourseConnective annotation_id="17865">en réalité</DiscourseConnective> ceux de ses fonctionnaires qui lui disaient ce qu'il devait dire <Alignment alignment="6476" annotation_id="17941">
+          <DiscourseConnective annotation_id="17941" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> faire: "Yes, Minister, no, Minister.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16500" docOffset="102">
+      <en>No, Minister. Of course, you are all-powerful, Minister.'</en>
+      <fr>Bien sûr, vous êtes tout-puissant, monsieur le ministre ".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16558" docOffset="103">
+      <en>
+        <Alignment alignment="16383" annotation_id="16558">
+          <DiscourseConnective annotation_id="16558" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> it was the civil servants who were in control.</en>
+      <fr>
+        <Alignment alignment="16558" annotation_id="18040">
+          <DiscourseConnective annotation_id="18040" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> c'était les fonctionnaires qui dirigeaient.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16609" docOffset="104">
+      <en>This was happening 20 years ago <DiscourseConnective annotation_id="16641" sense="Expansion.Conjunction">and</DiscourseConnective>, clearly, it is still happening today. <Alignment alignment="37063" annotation_id="16684">
+          <DiscourseConnective annotation_id="16684" sense="Expansion.Conjunction">And</DiscourseConnective>
+        </Alignment> it is happening all over Europe, which is very interesting.</en>
+      <fr>Ce qui se passait il y a 20 ans se passe toujours aujourd'hui, <Alignment alignment="16684" annotation_id="18152">
+          <DiscourseConnective annotation_id="18152" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> dans toute l'Europe, ce qui est très intéressant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16748" docOffset="105">
+      <en>So perhaps we need an updated European programme - Ja, Herr Minister or Sí, Señor Ministro.</en>
+      <fr>Peut-être faudrait-il tourner un programme à la sauce européenne: Ja, Herr Minister <DiscourseConnective annotation_id="18289">ou</DiscourseConnective> Sí, Señor Ministro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16840" docOffset="106">
+      <en>
+        <DiscourseConnective annotation_id="16840" sense="Comparison.Contrast">But</DiscourseConnective> perhaps scriptwriters could actually entertain us with a new programme on the same theme, <Alignment alignment="18418" annotation_id="16934">
+          <DiscourseConnective annotation_id="16934" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the old truths remain as true as ever.</en>
+      <fr>Peut-être aussi les scénaristes pourraient-ils nous divertir avec un nouveau programme sur le <DiscourseConnective annotation_id="18406">même</DiscourseConnective> thème, <Alignment alignment="16934" annotation_id="18418">
+          <DiscourseConnective annotation_id="18418" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les vérités d'hier sont toujours celles d'aujourd'hui.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16981" id="139" name="President">
+    <ParallelChunk annotation_id="16981" docOffset="107">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17003" docOffset="108">
+      <en>The vote will take place on 19 February 2008.</en>
+      <fr>Le vote aura lieu le 19 février 2008.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17049" docOffset="109">
+      <en>Written statements (Rule 142)</en>
+      <fr>Déclarations écrites (Article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17079" id="140" name="Bogdan Golik ">
+    <ParallelChunk annotation_id="17079" docOffset="110">
+      <en>in writing. - (PL) The latest two enlargements have resulted in a significant increase in the length of the European Union's land <Alignment alignment="18681" annotation_id="17209">
+          <DiscourseConnective annotation_id="17209" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> sea borders.</en>
+      <fr>par écrit. - (PL) Les deux derniers élargissements ont considérablement étendu les territoires de l'Union <Alignment alignment="17209" annotation_id="18681">
+          <DiscourseConnective annotation_id="18681" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les frontières maritimes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17226" docOffset="111">
+      <en>This calls for closer cooperation between Member States and between Member States and the Commission.</en>
+      <fr>Ce qui appelle <DiscourseConnective annotation_id="18725">à</DiscourseConnective> une coopération plus étroite entre les États membres <DiscourseConnective annotation_id="18780">et</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17328" docOffset="112">
+      <en>It <Alignment alignment="21748" annotation_id="17331">
+          <DiscourseConnective annotation_id="17331" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> requires coordination and cohesion of actions aimed at combating international economic and financial crime.</en>
+      <fr>Une plus grande cohésion <DiscourseConnective annotation_id="18823">et</DiscourseConnective> coordination des actions visant <DiscourseConnective annotation_id="18858">à</DiscourseConnective> combattre la criminalité économique <DiscourseConnective annotation_id="18896">et</DiscourseConnective> financière internationale est <Alignment alignment="12044" annotation_id="18929">
+          <DiscourseConnective annotation_id="18929" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17445" docOffset="113">
+      <en>I agree with the rapporteur that the role of third countries should not be overlooked in relation to these activities.</en>
+      <fr>Je conviens avec le rapporteur <DiscourseConnective annotation_id="18982">que</DiscourseConnective> le rôle des pays tiers ne doit pas être oublié dans le cadre de ces activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17564" docOffset="114">
+      <en>I fully support authorising the Commission as appropriate, <Alignment alignment="19132" annotation_id="17623">
+          <DiscourseConnective annotation_id="17623" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> it can provide technical aid and training to liaison officials from third countries and from European and international agencies and organisations.</en>
+      <fr>Je soutiens pleinement que l'on mandate la Commission <DiscourseConnective annotation_id="19119">à</DiscourseConnective> cette fin, <Alignment alignment="1685" annotation_id="19132">
+          <DiscourseConnective annotation_id="19132" sense="Contingency.Cause.Result">pour</DiscourseConnective>
+        </Alignment> fournir l'aide technique <DiscourseConnective annotation_id="19162">et</DiscourseConnective> la formation nécessaires aux agents de liaison des pays tiers <DiscourseConnective annotation_id="19227">ainsi</DiscourseConnective> qu'aux agences <DiscourseConnective annotation_id="19248">et</DiscourseConnective> organisations européennes <DiscourseConnective annotation_id="19277">et</DiscourseConnective> internationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17774" docOffset="115">
+      <en>I welcome the proposal to improve the procedures for transferring data obtained from another Member State to third countries.</en>
+      <fr>Je salue la proposition d'améliorer les procédures de transfert de données obtenues d'un autre État membre <DiscourseConnective annotation_id="19404">à</DiscourseConnective> des pays tiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17900" docOffset="116">
+      <en>I am confident that the proposed changes will have a positive impact on limiting financial irregularities.</en>
+      <fr>Je crois en effet <DiscourseConnective annotation_id="19440">que</DiscourseConnective> les changements proposés auront un impact positif sur la réduction des irrégularités financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18007" docOffset="117">
+      <en>I should like to highlight the text of Article 18a regarding the creation and management by the Commission of a directory to help detect consignments that may not comply with legal provisions in the areas of customs and agriculture.</en>
+      <fr>J'aimerais attirer l'attention sur le texte de l'article 18a concernant la création <DiscourseConnective annotation_id="19626">et</DiscourseConnective> la gestion par la Commission d'un répertoire aidant <DiscourseConnective annotation_id="19681">à</DiscourseConnective> détecter les expéditions qui pourraient ne pas respecter les dispositions légales <DiscourseConnective annotation_id="19765">en</DiscourseConnective> matière de douane <DiscourseConnective annotation_id="19786">et</DiscourseConnective> d'agriculture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18240" docOffset="118">
+      <en>In this connection, I believe specific provision should be made in the text to enable every Member State to access the aforementioned database <Alignment alignment="37626" annotation_id="18383">
+          <DiscourseConnective annotation_id="18383" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it submits a request to the Commission to that effect.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19804">À cet égard</DiscourseConnective>, je pense qu'il faudrait intégrer au texte une clause spécifique permettant à chaque État membre d'accéder à la base de données susmentionnée <Alignment alignment="18383" annotation_id="19958">
+          <DiscourseConnective annotation_id="19958" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> elle introduit une demande <DiscourseConnective annotation_id="19988">à</DiscourseConnective> cet effet <DiscourseConnective annotation_id="20000">à</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18441" docOffset="119">
+      <en>
+        <DiscourseConnective annotation_id="18441" sense="Temporal.Synchrony">As</DiscourseConnective> it currently stands, the text refers to assistance to the relevant authorities.</en>
+      <fr>Dans l'état actuel des choses, le texte fait référence <DiscourseConnective annotation_id="20072">à</DiscourseConnective> une aide aux autorités concernées.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

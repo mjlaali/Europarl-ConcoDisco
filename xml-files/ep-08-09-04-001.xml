@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 10 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 10 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="59" id="005" name="Bernd Posselt">
+    <ParallelChunk annotation_id="59" docOffset="2">
+      <en>(DE) Madam President, just very briefly: some of our colleagues may not be aware of this yet, <Alignment alignment="168" annotation_id="153">
+          <DiscourseConnective annotation_id="153" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it was mentioned to me that yesterday, it was decided that the next part-session will be held in Brussels.</en>
+      <fr>(DE) Madame la Présidente, juste quelques mots: certains de mes collègues ne le savent peut-être pas <DiscourseConnective annotation_id="160">encore</DiscourseConnective>, <Alignment alignment="541" annotation_id="168">
+          <DiscourseConnective annotation_id="168" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> on m'a dit hier que la décision avait été prise d'organiser la prochaine période de session ici, <DiscourseConnective annotation_id="270">à</DiscourseConnective> Bruxelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="264" docOffset="3">
+      <en>I have heard that there are tremendous problems getting beds here in Brussels <Alignment alignment="358" annotation_id="342">
+          <DiscourseConnective annotation_id="342" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the hotel rooms are booked out due to a trade fair.</en>
+      <fr>On me dit <DiscourseConnective annotation_id="293">qu'</DiscourseConnective>il est extrêmement difficile de trouver des lits <DiscourseConnective annotation_id="345">à</DiscourseConnective> Bruxelles, <Alignment alignment="342" annotation_id="358">
+          <DiscourseConnective annotation_id="358" sense="Temporal.Synchrony">parce que</DiscourseConnective>
+        </Alignment> tous les hôtels sont pleins en raison d'un salon professionnel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="397" docOffset="4">
+      <en>This part-session should simply have been postponed or transformed into a mini-part-session.</en>
+      <fr>Cette période de session aurait dû être tout <DiscourseConnective annotation_id="477">simplement</DiscourseConnective> reportée <DiscourseConnective annotation_id="497">ou</DiscourseConnective> transformée en mini-période de session.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="490" docOffset="5">
+      <en>That would have been the best solution.</en>
+      <fr>Cela aurait été la meilleure solution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="530" docOffset="6">
+      <en>With a measure of good will, that could have been done.</en>
+      <fr>Avec un peu de bonne volonté, nous aurions pu le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="586" docOffset="7">
+      <en>The second point which I would briefly like to make is directly related to this: has the safety situation actually been checked here in this building?</en>
+      <fr>Le deuxième point <DiscourseConnective annotation_id="653">que</DiscourseConnective> je souhaite mentionner brièvement est directement lié au premier: a-t-on vérifié l'état de ce bâtiment du point de vue de la sécurité?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="737" docOffset="8">
+      <en>I hear that there are major structural defects here.</en>
+      <fr>On me dit <DiscourseConnective annotation_id="802">que</DiscourseConnective> ce bâtiment présente des défauts structurels importants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="790" docOffset="9">
+      <en>Has this building been checked using the same criteria as have now been applied in the Strasbourg building?</en>
+      <fr>Ce bâtiment a-t-il été vérifié sur la base des mêmes critères <DiscourseConnective annotation_id="925">que</DiscourseConnective> l'immeuble de Strasbourg?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="898" id="006" name="President">
+    <ParallelChunk annotation_id="898" docOffset="10">
+      <en>Ladies and gentlemen, let us not start a debate on this topic now.</en>
+      <fr>(EL) Mesdames <DiscourseConnective annotation_id="969">et</DiscourseConnective> Messieurs, ne lançons pas un débat sur ce sujet <DiscourseConnective annotation_id="1020">maintenant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="965" docOffset="11">
+      <en>Announcements will be made this afternoon at voting time.</en>
+      <fr>Des annonces seront faites cet après-midi <DiscourseConnective annotation_id="1074">à</DiscourseConnective> l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1023" docOffset="12">
+      <en>All the appropriate steps are being taken to check the buildings on a preventive basis and to make the appropriate repairs at Strasbourg <Alignment alignment="1248" annotation_id="1160">
+          <Alignment alignment="1248" annotation_id="1160">
+            <DiscourseConnective annotation_id="1160" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we can return there as soon as possible for our work.</en>
+      <fr>Toutes les mesures adéquates sont prises <DiscourseConnective annotation_id="1136">pour</DiscourseConnective> contrôler les bâtiments de façon préventive <DiscourseConnective annotation_id="1185">et</DiscourseConnective> <DiscourseConnective annotation_id="1188">pour</DiscourseConnective> effectuer les réparations qui s'imposent <DiscourseConnective annotation_id="1234">à</DiscourseConnective> Strasbourg, <Alignment alignment="1160" annotation_id="1248">
+          <Alignment alignment="1160" annotation_id="1248">
+            <DiscourseConnective annotation_id="1248" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous puissions y retourner <DiscourseConnective annotation_id="1284">dès que</DiscourseConnective> possible <DiscourseConnective annotation_id="1301">pour</DiscourseConnective> faire notre travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1222" docOffset="13">
+      <en>We shall not return <Alignment alignment="2183" annotation_id="1242">
+          <DiscourseConnective annotation_id="1242" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> we are sure that it is safe.</en>
+      <fr>Nous n'y retournerons <Alignment alignment="1242" annotation_id="1349">
+          <DiscourseConnective annotation_id="1349" sense="Temporal.Asynchronous.Precedence">avant d'</DiscourseConnective>
+        </Alignment>avoir la certitude que l'immeuble ne présente aucun danger.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1277" id="007" name="Philip Bushill-Matthews">
+    <ParallelChunk annotation_id="1277" docOffset="14">
+      <en>Madam President, I shall be brief, <Alignment alignment="1459" annotation_id="1312">
+          <DiscourseConnective annotation_id="1312" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I accept you do not want a debate.</en>
+      <fr>(EN) Madame la Présidente, je serai <DiscourseConnective annotation_id="1453">bref</DiscourseConnective>, <Alignment alignment="855" annotation_id="1459">
+          <DiscourseConnective annotation_id="1459" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> j'accepte l'idée que vous ne souhaitiez pas ouvrir un débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1350" docOffset="15">
+      <en>
+        <Alignment alignment="1524" annotation_id="1350">
+          <DiscourseConnective annotation_id="1350" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there is to be an announcement at 12 o'clock, could that announcement <Alignment alignment="1587" annotation_id="1423">
+          <DiscourseConnective annotation_id="1423" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> state whether the Bureau is considering - <Alignment alignment="1621" annotation_id="1470">
+          <DiscourseConnective annotation_id="1470" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am not trying to be provocative - having a longer period of being in Brussels, <Alignment alignment="1702" annotation_id="1555">
+          <Alignment alignment="1702" annotation_id="1555">
+            <DiscourseConnective annotation_id="1555" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we can have decisions in due time in order to get hotels and meeting rooms?</en>
+      <fr>
+        <Alignment alignment="1350" annotation_id="1524">
+          <DiscourseConnective annotation_id="1524" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> une annonce est faite à midi, serait-il possible d'indiquer <Alignment alignment="1423" annotation_id="1587">
+          <DiscourseConnective annotation_id="1587" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1597">si</DiscourseConnective> le Bureau envisage - <Alignment alignment="1470" annotation_id="1621">
+          <DiscourseConnective annotation_id="1621" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je ne veux pas me montrer provoquant - un prolongement du séjour <DiscourseConnective annotation_id="1689">à</DiscourseConnective> Bruxelles, <Alignment alignment="1293" annotation_id="1702">
+          <Alignment alignment="634" annotation_id="1702">
+            <DiscourseConnective annotation_id="1702" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous puissions prendre nos décisions <DiscourseConnective annotation_id="1748">en</DiscourseConnective> temps utile <DiscourseConnective annotation_id="1763">en</DiscourseConnective> matière de chambres d'hôtel <DiscourseConnective annotation_id="1794">et</DiscourseConnective> de salles de réunion?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1639" docOffset="16">
+      <en>
+        <Alignment alignment="1819" annotation_id="1639">
+          <DiscourseConnective annotation_id="1639" sense="Contingency.Cause.Reason">Because</DiscourseConnective>
+        </Alignment> these constant one-by-one decisions are not making life easy for any of us.</en>
+      <fr>
+        <Alignment alignment="1639" annotation_id="1819">
+          <DiscourseConnective annotation_id="1819" sense="Contingency.Cause.Reason">Parce qu'</DiscourseConnective>
+        </Alignment>il faut <DiscourseConnective annotation_id="1836">dire que</DiscourseConnective> toutes ces décisions au cas par cas ne nous facilitent pas la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1723" docOffset="17">
+      <en>Practically, could that be considered, <Alignment alignment="1972" annotation_id="1762">
+          <DiscourseConnective annotation_id="1762" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> could we have a comment back in the announcement at 12 o'clock, please?</en>
+      <fr>Du point de vue pratique, est-ce <DiscourseConnective annotation_id="1945">que</DiscourseConnective> cela est envisageable, <Alignment alignment="1762" annotation_id="1972">
+          <DiscourseConnective annotation_id="1972" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> pourrions-nous avoir une réponse sur ce point lors de l'annonce qui sera faite <DiscourseConnective annotation_id="2054">à</DiscourseConnective> midi?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1838" id="008" name="President">
+    <ParallelChunk annotation_id="1838" docOffset="18">
+      <en>Mr Bushill-Matthews, it is not Parliament's practice to change the sitting from Brussels to Strasbourg for no reason.</en>
+      <fr>(EL) Monsieur Bushill-Matthews, le Parlement n'a pas pour habitude de déplacer le lieu de séance de Bruxelles <DiscourseConnective annotation_id="2172">à</DiscourseConnective> Strasbourg <DiscourseConnective annotation_id="2185">sans</DiscourseConnective> raison.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1956" docOffset="19">
+      <en>There was a serious, unexpected reason <Alignment alignment="2244" annotation_id="1995">
+          <DiscourseConnective annotation_id="1995" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> Parliament is attempting to deal with the matter with composure, determination and consistency.</en>
+      <fr>Il y a une raison grave et inattendue à cela, <Alignment alignment="1995" annotation_id="2244">
+          <DiscourseConnective annotation_id="2244" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le Parlement <DiscourseConnective annotation_id="2260">s'</DiscourseConnective>efforce de faire face à ce problème de façon calme, déterminée <DiscourseConnective annotation_id="2325">et</DiscourseConnective> cohérente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2095" docOffset="20">
+      <en>We must all show the same composure, seriousness of purpose and maturity.</en>
+      <fr>Nous devons tous agir avec sérieux, calme <DiscourseConnective annotation_id="2381">et</DiscourseConnective> maturité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2169" docOffset="21">
+      <en>Information will be provided <DiscourseConnective annotation_id="2198" sense="Temporal.Synchrony">when</DiscourseConnective> the facts are available and will be given in sufficient time to enable Members to book their rooms on site as necessary.</en>
+      <fr>Des informations seront communiquées dès que nous connaîtrons les faits, <DiscourseConnective annotation_id="2467">et</DiscourseConnective> elles le seront <DiscourseConnective annotation_id="2486">en</DiscourseConnective> temps utile <DiscourseConnective annotation_id="2501">pour</DiscourseConnective> permettre aux députés de réserver leurs chambres sur place <DiscourseConnective annotation_id="2565">si</DiscourseConnective> nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2324" docOffset="22">
+      <en>I think that what is needed to deal with this problem is maturity, the right attitude and composure.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="2589">que</DiscourseConnective> ce dont nous avons besoin <DiscourseConnective annotation_id="2619">pour</DiscourseConnective> faire face à ce problème est d'adopter la bonne attitude <DiscourseConnective annotation_id="2681">et</DiscourseConnective> de réagir avec calme et maturité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2425" docOffset="23">
+      <en>I do not consider this to be a serious crisis, <DiscourseConnective annotation_id="2472" sense="Temporal.Synchrony">as</DiscourseConnective> we have averted one that might have occurred.</en>
+      <fr>Je ne pense pas qu'il s'agisse d'une crise grave, nous avons au contraire évité ce qui aurait pu être une crise grave.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

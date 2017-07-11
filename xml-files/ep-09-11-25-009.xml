@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Corrections to votes and voting intentions: see Minutes</en>
+    <fr>Corrections <DiscourseConnective annotation_id="12">et</DiscourseConnective> intentions de vote: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="56" id="252" name="President">
+    <ParallelChunk annotation_id="56" docOffset="1">
+      <en>The list of Members wishing to present an explanation of vote has now been completed.</en>
+      <fr>La liste des membres qui souhaitent présenter une explication de vote est <DiscourseConnective annotation_id="128">maintenant</DiscourseConnective> close.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="142" docOffset="2">
+      <en>I should like it minuted that Mr Brons made a request for the floor, on a point of order, <Alignment alignment="178443" annotation_id="232">
+          <DiscourseConnective annotation_id="232" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> he felt he had been alluded to in some of the words uttered by Mr Martin.</en>
+      <fr>Je voudrais que soit consigné dans le procès-verbal <DiscourseConnective annotation_id="198">que</DiscourseConnective> M. Burns a demandé la parole au sujet d'une motion de procédure, <Alignment alignment="227" annotation_id="267">
+          <DiscourseConnective annotation_id="267" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il avait le sentiment <DiscourseConnective annotation_id="293">que</DiscourseConnective> M. Martin faisait allusion <DiscourseConnective annotation_id="324">à</DiscourseConnective> sa personne dans certains de ses propos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="314" docOffset="3">
+      <en>Pursuant to the Rules of Procedure, Mr Burns was going to be given the floor now.</en>
+      <fr>Conformément au règlement, M. Burns aurait été convié <DiscourseConnective annotation_id="421">à</DiscourseConnective> <DiscourseConnective annotation_id="423">s'</DiscourseConnective>exprimer <DiscourseConnective annotation_id="434">maintenant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="396" docOffset="4">
+      <en>I should <Alignment alignment="185173" annotation_id="405">
+          <DiscourseConnective annotation_id="405" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like it to be minuted that Mr Brons was given the opportunity of taking the floor, but was unable to make use of it <DiscourseConnective annotation_id="531" sense="Temporal.Synchrony">as</DiscourseConnective> he was absent.</en>
+      <fr>Je voudrais <Alignment alignment="405" annotation_id="458">
+          <DiscourseConnective annotation_id="458" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que l'on inscrive dans le procès-verbal <DiscourseConnective annotation_id="503">que</DiscourseConnective> l'occasion a été donnée à M. Burns de prendre la parole, <DiscourseConnective annotation_id="564">mais</DiscourseConnective> qu'il n'a pu en faire usage en raison de son absence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="549" docOffset="5">
+      <en>(The sitting was suspended at 14.10 and resumed at 15.00)</en>
+      <fr>(La séance, suspendue <DiscourseConnective annotation_id="645">à</DiscourseConnective> 14 h 10, est reprise <DiscourseConnective annotation_id="668">à</DiscourseConnective> 15 heures)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

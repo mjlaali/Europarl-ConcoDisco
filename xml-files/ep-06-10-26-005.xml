@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="049" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, <Alignment alignment="45" annotation_id="30">
+          <DiscourseConnective annotation_id="30" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> proceeding to the vote on the budget, I would like to inform you that the President of the Chilean House of Deputies, Mr Antonio Leal Labrín, is here with us in the official gallery.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, <Alignment alignment="30" annotation_id="45">
+          <DiscourseConnective annotation_id="45" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> passer au vote sur le budget, je voudrais vous informer <DiscourseConnective annotation_id="110">que</DiscourseConnective> le président de la Chambre des députés du Chili, M. Antonio Leal Labrín, est ici avec nous dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="220" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="231" docOffset="3">
+      <en>Mr Leal Labrín is accompanied by Chilean MPs Mr Gonzalo Duarte Leiva and Mr Germán Becker Alvear.</en>
+      <fr>M. Leal Labrín est accompagné de MM. Gonzalo Duarte Leiva <DiscourseConnective annotation_id="310">et</DiscourseConnective> Germán Becker Alvear, députés chiliens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="329" docOffset="4">
+      <en>We welcome them and thank them for visiting us.</en>
+      <fr>Nous les saluons <DiscourseConnective annotation_id="370">et</DiscourseConnective> les remercions de nous rendre visite.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="377" id="050" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="377" docOffset="5">
+      <en>(FR) Mr President, this is <Alignment alignment="444" annotation_id="404">
+          <DiscourseConnective annotation_id="404" sense="Expansion.Conjunction">indeed</DiscourseConnective>
+        </Alignment> a point of order and also a reminder of Rule 188 of the Rules of Procedure.</en>
+      <fr>Monsieur le Président, il <DiscourseConnective annotation_id="437">s'</DiscourseConnective>agit <Alignment alignment="404" annotation_id="444">
+          <DiscourseConnective annotation_id="444" sense="Expansion.Conjunction">en effet</DiscourseConnective>
+        </Alignment> d'une motion d'ordre <DiscourseConnective annotation_id="474">et</DiscourseConnective> <DiscourseConnective annotation_id="477">également</DiscourseConnective> d'un rappel au règlement qui se fonde sur l'article 188.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="487" docOffset="6">
+      <en>We have just learned, following the meeting of the Bureau, that the Israeli Government would like to exclude Mrs Le Pen from the political discussions of the Israeli delegation. She is a member of that delegation in a spirit of debate, dialogue and openness.</en>
+      <fr>Nous venons d'apprendre, <DiscourseConnective annotation_id="569">après</DiscourseConnective> la réunion du bureau, <DiscourseConnective annotation_id="597">que</DiscourseConnective> le gouvernement israélien souhaiterait exclure des discussions politiques de la délégation israélienne Mme Marine Le Pen, qui est membre de cette délégation dans un esprit de discussion, de dialogue <DiscourseConnective annotation_id="800">et</DiscourseConnective> d'ouverture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="746" docOffset="7">
+      <en>I should like to express our thanks to Mr Brok for his perfectly correct attitude and to say very clearly that, <Alignment alignment="934" annotation_id="858">
+          <DiscourseConnective annotation_id="858" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> Mr Krivine was similarly excluded by a decision of the United States Government, we agreed entirely, whatever the difference of opinion between us, that it was not for the host government to determine how the European Parliament's delegation should be composed.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="825">à</DiscourseConnective> exprimer nos remerciements <DiscourseConnective annotation_id="854">à</DiscourseConnective> M. Brok <DiscourseConnective annotation_id="864">pour</DiscourseConnective> son attitude parfaitement correcte <DiscourseConnective annotation_id="904">et</DiscourseConnective> <DiscourseConnective annotation_id="907">à</DiscourseConnective> dire très clairement <DiscourseConnective annotation_id="930">que</DiscourseConnective> <Alignment alignment="858" annotation_id="934">
+          <DiscourseConnective annotation_id="934" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> M. Krivine a été pareillement exclu par une décision du gouvernement des États-Unis d'Amérique, quelle que soit la différence d'opinion qui nous sépare, nous avons été tout à fait d'accord <DiscourseConnective annotation_id="1131">pour</DiscourseConnective> considérer <DiscourseConnective annotation_id="1147">qu'</DiscourseConnective>il ne revenait pas au gouvernement hôte de déterminer la composition de la délégation du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1125" docOffset="8">
+      <en>I <Alignment alignment="1265" annotation_id="1127">
+          <DiscourseConnective annotation_id="1127" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> dare to hope that, in your capacity as guarantor of the rights of all Members of the European Parliament, you will be anxious to make this point to the Israeli authorities.</en>
+      <fr>J'ose <Alignment alignment="1127" annotation_id="1265">
+          <DiscourseConnective annotation_id="1265" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> espérer, Monsieur le Président, qu'en votre qualité de garant des droits de l'ensemble des parlementaires, vous aurez à cœur de rappeler ce point aux autorités israéliennes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1310" id="051" name="Martin Schulz">
+    <ParallelChunk annotation_id="1310" docOffset="9">
+      <en>(DE) Mr President, you should give the floor to Mr Brok first, <Alignment alignment="1529" annotation_id="1373">
+          <DiscourseConnective annotation_id="1373" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> he has something he wants to say on the subject; I am quite happy to state my position <Alignment alignment="1616" annotation_id="1463">
+          <DiscourseConnective annotation_id="1463" sense="Temporal.Asynchronous.Precedence">afterwards</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1630" annotation_id="1475">
+          <DiscourseConnective annotation_id="1475" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="1644" annotation_id="1479">
+          <DiscourseConnective annotation_id="1479" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I ask to be given the floor <Alignment alignment="1669" annotation_id="1510">
+          <DiscourseConnective annotation_id="1510" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> Mr Brok has spoken.</en>
+      <fr>(DE) Monsieur le Président, vous devriez donner la parole <DiscourseConnective annotation_id="1502">à</DiscourseConnective> M. Brok en premier lieu, <Alignment alignment="1373" annotation_id="1529">
+          <DiscourseConnective annotation_id="1529" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> il a quelque chose <DiscourseConnective annotation_id="1552">à</DiscourseConnective> dire <DiscourseConnective annotation_id="1559">à</DiscourseConnective> ce sujet; je serai très heureux d'affirmer ma position <Alignment alignment="1463" annotation_id="1616">
+          <DiscourseConnective annotation_id="1616" sense="Temporal.Asynchronous.Precedence">par la suite</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1475" annotation_id="1630">
+          <DiscourseConnective annotation_id="1630" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je demande <Alignment alignment="1479" annotation_id="1644">
+          <DiscourseConnective annotation_id="1644" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> d'obtenir la parole <Alignment alignment="1510" annotation_id="1669">
+          <DiscourseConnective annotation_id="1669" sense="Temporal.Asynchronous.Succession">une fois que</DiscourseConnective>
+        </Alignment> M. Brok se sera exprimé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1536" id="052" name="President">
+    <ParallelChunk annotation_id="1536" docOffset="10">
+      <en>The Conference of Presidents has decided to postpone the visit of the ad hoc delegation to Lebanon, Israel and Palestine, <Alignment alignment="1828" annotation_id="1658">
+          <DiscourseConnective annotation_id="1658" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that this is a satisfactory response to the concern expressed.</en>
+      <fr>La Conférence des présidents a décidé de reporter la visite de la délégation ad hoc au Liban, en Israël <DiscourseConnective annotation_id="1811">et</DiscourseConnective> en Palestine, <Alignment alignment="1658" annotation_id="1828">
+          <DiscourseConnective annotation_id="1828" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="1840">que</DiscourseConnective> c'est là est une réponse satisfaisante <DiscourseConnective annotation_id="1883">à</DiscourseConnective> la préoccupation exprimée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1732" docOffset="11">
+      <en>Thank you for drawing Parliament's attention to this issue.</en>
+      <fr>Merci d'avoir attiré l'attention du Parlement sur ce sujet.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1792" id="053" name="Carlos Carnero González">
+    <ParallelChunk annotation_id="1792" docOffset="12">
+      <en>(ES) Mr President, <Alignment alignment="2000" annotation_id="1811">
+          <DiscourseConnective annotation_id="1811" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, I try to be serious <Alignment alignment="2052" annotation_id="1844">
+          <DiscourseConnective annotation_id="1844" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I speak <Alignment alignment="2073" annotation_id="1857">
+          <DiscourseConnective annotation_id="1857" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, since the Rules of Procedure state that all documents handled officially in this House must be available in all of the official languages, I would draw your attention to the fact that I am going to vote for amendments that only appear in three: English, French and German; these are three highly respectable languages, <Alignment alignment="2442" annotation_id="2181">
+          <DiscourseConnective annotation_id="2181" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> are all the others.</en>
+      <fr>(ES) Monsieur le Président, <Alignment alignment="1811" annotation_id="2000">
+          <DiscourseConnective annotation_id="2000" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, j'essaie de me montrer sérieux <Alignment alignment="1844" annotation_id="2052">
+          <DiscourseConnective annotation_id="2052" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> je m'exprime <Alignment alignment="1857" annotation_id="2073">
+          <DiscourseConnective annotation_id="2073" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, le règlement affirmant <DiscourseConnective annotation_id="2100">que</DiscourseConnective> tous les documents traités officiellement dans cette Assemblée doivent être disponibles dans toutes les langues officielles, j'attirerai votre attention sur le fait <DiscourseConnective annotation_id="2269">que</DiscourseConnective> je m'apprête <DiscourseConnective annotation_id="2286">à</DiscourseConnective> voter sur des amendements qui n'apparaissent <DiscourseConnective annotation_id="2333">qu'en</DiscourseConnective> trois langues: l'anglais, le français <DiscourseConnective annotation_id="2377">et</DiscourseConnective> l'allemand; ce sont là trois langues éminemment respectables, <Alignment alignment="2181" annotation_id="2442">
+          <DiscourseConnective annotation_id="2442" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le sont aussi toutes les autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2204" docOffset="13">
+      <en>
+        <DiscourseConnective annotation_id="2204" sense="Contingency.Cause.Reason">Since</DiscourseConnective> this may create problems in the future, <Alignment alignment="2551" annotation_id="2250">
+          <DiscourseConnective annotation_id="2250" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, I would draw attention to the fact that this text is not available in all of the official languages; it is not available in mine.</en>
+      <fr>Cela étant susceptible de créer des problèmes <DiscourseConnective annotation_id="2527">à</DiscourseConnective> l'avenir, j'attirerai <Alignment alignment="2250" annotation_id="2551">
+          <DiscourseConnective annotation_id="2551" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> également votre attention sur le fait <DiscourseConnective annotation_id="2594">que</DiscourseConnective> ce texte n'est pas non plus disponible dans toutes les langues officielles; il ne l'est pas dans la mienne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2391" id="054" name="President">
+    <ParallelChunk annotation_id="2391" docOffset="14">
+      <en>The Secretariat's services inform me that they are sure that they appear in all languages, including yours and mine.</en>
+      <fr>Les services du Secrétariat m'informent <DiscourseConnective annotation_id="2746">qu'</DiscourseConnective>ils sont sûrs <DiscourseConnective annotation_id="2763">que</DiscourseConnective> ces documents sont disponibles dans toutes les langues, y compris la vôtre <DiscourseConnective annotation_id="2842">et</DiscourseConnective> la mienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2508" docOffset="15">
+      <en>
+        <Alignment alignment="2856" annotation_id="2508">
+          <DiscourseConnective annotation_id="2508" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> I have understood correctly, you are not referring to the texts on which we are going to vote, but to the voting list.</en>
+      <fr>
+        <Alignment alignment="2508" annotation_id="2856">
+          <DiscourseConnective annotation_id="2856" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> je vous ai correctement compris, vous ne faites pas référence aux textes sur lesquels nous nous apprêtons <DiscourseConnective annotation_id="2965">à</DiscourseConnective> voter, <DiscourseConnective annotation_id="2974">mais</DiscourseConnective> <DiscourseConnective annotation_id="2979">à</DiscourseConnective> la liste des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2630" docOffset="16">
+      <en>This list is available in three languages, as usual, <Alignment alignment="3064" annotation_id="2683">
+          <DiscourseConnective annotation_id="2683" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the texts on which we are going to vote are in all languages.</en>
+      <fr>Cette liste est disponible <DiscourseConnective annotation_id="3028">en</DiscourseConnective> trois langues, <DiscourseConnective annotation_id="3046">comme</DiscourseConnective> d'habitude, <Alignment alignment="2683" annotation_id="3064">
+          <DiscourseConnective annotation_id="3064" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les textes sur lesquels nous allons voter existent dans toutes les langues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2749" docOffset="17">
+      <en>Our Rules of Procedure have not <Alignment alignment="3165" annotation_id="2781">
+          <DiscourseConnective annotation_id="2781" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> been violated.</en>
+      <fr>Notre règlement n'a <Alignment alignment="2781" annotation_id="3165">
+          <DiscourseConnective annotation_id="3165" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas été enfreint.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2806" docOffset="18">
+      <en>
+        <Alignment alignment="3188" annotation_id="2806">
+          <DiscourseConnective annotation_id="2806" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, we shall look into the issue for later plenary sittings.</en>
+      <fr>
+        <Alignment alignment="2806" annotation_id="3188">
+          <DiscourseConnective annotation_id="3188" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, nous allons examiner cette question en vue des prochaines sessions plénières.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2877" id="055" name="Elmar Brok">
+    <ParallelChunk annotation_id="2877" docOffset="19">
+      <en>(DE) Mr President, <Alignment alignment="3305" annotation_id="2896">
+          <DiscourseConnective annotation_id="2896" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> I wish to repudiate the utterances made by the group back there, perhaps I might be permitted to make a comment.</en>
+      <fr>(DE) Monsieur le Président, <Alignment alignment="2896" annotation_id="3305">
+          <DiscourseConnective annotation_id="3305" sense="Contingency.Cause.Reason">étant donné que</DiscourseConnective>
+        </Alignment> je souhaite réfuter les déclarations faites par le groupe qui siège là-bas, au fond, peut-être m'autoriserez-vous <DiscourseConnective annotation_id="3435">à</DiscourseConnective> formuler un commentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3015" docOffset="20">
+      <en>The rights of all Members of this House are being safeguarded, all in the same way.</en>
+      <fr>Les droits de tous les membres de cette Assemblée sont protégés <DiscourseConnective annotation_id="3526">de la même façon</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3099" docOffset="21">
+      <en>
+        <Alignment alignment="3544" annotation_id="3099">
+          <DiscourseConnective annotation_id="3099" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we are to undertake a journey to a region like this one, balance is essential, <Alignment alignment="3641" annotation_id="3181">
+          <DiscourseConnective annotation_id="3181" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> every aspect of the trip must be organised professionally.</en>
+      <fr>
+        <Alignment alignment="3099" annotation_id="3544">
+          <DiscourseConnective annotation_id="3544" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous devons entreprendre un voyage dans une région <DiscourseConnective annotation_id="3598">comme</DiscourseConnective> celle-ci, l'équilibre est essentiel, <Alignment alignment="3181" annotation_id="3641">
+          <DiscourseConnective annotation_id="3641" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> chaque aspect du voyage doit être organisé de manière professionnelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3244" docOffset="22">
+      <en>That it was not possible, on this occasion, to go at the time planned, was attributable to technical considerations.</en>
+      <fr>S'il n'a pas été possible, <DiscourseConnective annotation_id="3742">à</DiscourseConnective> cette occasion, de partir au moment prévu, cela était dû <DiscourseConnective annotation_id="3801">à</DiscourseConnective> des considérations techniques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3361" docOffset="23">
+      <en>We should, <Alignment alignment="3848" annotation_id="3372">
+          <DiscourseConnective annotation_id="3372" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, be making the journey at a later date.</en>
+      <fr>Nous devrions <Alignment alignment="3372" annotation_id="3848">
+          <DiscourseConnective annotation_id="3848" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> effectuer un voyage <DiscourseConnective annotation_id="3878">à</DiscourseConnective> une date ultérieure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3420" docOffset="24">
+      <en>We should not allow the Le Pen group to read something secret and mysterious into this that is not there, <Alignment alignment="4013" annotation_id="3526">
+          <DiscourseConnective annotation_id="3526" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to repudiate what they say in the strongest possible terms.</en>
+      <fr>Nous ne devons pas laisser le groupe Le Pen y déceler quelque chose de secret <DiscourseConnective annotation_id="3979">et</DiscourseConnective> de mystérieux qui n'y est pas, <Alignment alignment="3526" annotation_id="4013">
+          <DiscourseConnective annotation_id="4013" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je tiens <DiscourseConnective annotation_id="4025">à</DiscourseConnective> désavouer dans les termes les plus forts ce qu'affirment les membres de ce groupe.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3603" id="056" name="President">
+    <ParallelChunk annotation_id="3603" docOffset="25">
+      <en>The procedure has been as follows: the Conference of Presidents, having listened to you, has decided to postpone the visit of this ad hoc delegation.</en>
+      <fr>La procédure s'est déroulée <DiscourseConnective annotation_id="4138">comme</DiscourseConnective> suit: la Conférence des présidents, <DiscourseConnective annotation_id="4180">après</DiscourseConnective> vous avoir écoutés, a décidé de reporter la visite de cette délégation ad hoc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3753" docOffset="26">
+      <en>That is the fundamental procedure we have followed; anything else is a matter of opinion or interpretation <Alignment alignment="4394" annotation_id="3860">
+          <DiscourseConnective annotation_id="3860" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> everyone is entitled to their own.</en>
+      <fr>C'est la procédure fondamentale que nous avons suivie; toute autre considération est une question d'opinion <DiscourseConnective annotation_id="4373">ou</DiscourseConnective> d'interprétation, <Alignment alignment="3860" annotation_id="4394">
+          <DiscourseConnective annotation_id="4394" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> chacun est habilité <DiscourseConnective annotation_id="4417">à</DiscourseConnective> avoir la sienne.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

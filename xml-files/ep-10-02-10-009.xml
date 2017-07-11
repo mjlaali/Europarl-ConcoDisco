@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="996" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the vote.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+      <en>(For details of the outcome of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes et autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

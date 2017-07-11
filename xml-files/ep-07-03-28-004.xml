@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Assignment conferred on a Member</en>
+    <fr>Mission confiée <DiscourseConnective annotation_id="16">à</DiscourseConnective> un député</fr>
+  </ParallelChunk>
+<Speaker annotation_id="33" id="010" name="President">
+    <ParallelChunk annotation_id="33" docOffset="1">
+      <en>
+        <Alignment alignment="28" annotation_id="33">
+          <DiscourseConnective annotation_id="33" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> we move on to the agenda, there is another announcement that I have to make to you.</en>
+      <fr>
+        <Alignment alignment="33" annotation_id="28">
+          <DiscourseConnective annotation_id="28" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> passer au vote sur l'ordre du jour, j'ai une autre communication <DiscourseConnective annotation_id="102">à</DiscourseConnective> vous faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="124" docOffset="2">
+      <en>The Prime Minister of the Czech Republic has informed me of his decision to appoint Mr Jan Zahradil as his representative to the deliberations on the Berlin Declaration, and, more generally, in matters relating to the revival of the constitutional process during the German Presidency.</en>
+      <fr>Le Premier ministre de la République tchèque m'a informé de sa décision de nommer Jan Zahradil <DiscourseConnective annotation_id="211">pour</DiscourseConnective> le représenter lors des consultations relatives à la déclaration de Berlin <DiscourseConnective annotation_id="291">et</DiscourseConnective>, plus généralement, dans la relance du processus constitutionnel au cours de la présidence allemande de l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="410" docOffset="3">
+      <en>The matter was referred to the Committee on Legal Affairs, pursuant to Rule 4(5) of the Rules of Procedure, which, at its meeting on 19-20 March 2007, came to the conclusion that this office is compatible with the spirit and letter of the Act concerning the election of the representatives of the European Parliament by direct universal suffrage, that there is <Alignment alignment="727" annotation_id="771">
+          <DiscourseConnective annotation_id="771" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> no conflict of interest, <DiscourseConnective annotation_id="806" sense="Expansion.Conjunction">and</DiscourseConnective> that Mr Jan Zahradil can continue to exercise his mandate as a Member of this House.</en>
+      <fr>Lors de sa réunion des 19 <DiscourseConnective annotation_id="433">et</DiscourseConnective> 20 mars 2007, la commission juridique, saisie conformément <DiscourseConnective annotation_id="495">à</DiscourseConnective> l'article 4, paragraphe 5, du règlement, est arrivée <DiscourseConnective annotation_id="550">à</DiscourseConnective> la conclusion <DiscourseConnective annotation_id="566">que</DiscourseConnective> cette mission est conforme <DiscourseConnective annotation_id="597">à</DiscourseConnective> la lettre <DiscourseConnective annotation_id="609">et</DiscourseConnective> à l'esprit de l'Acte portant élection des représentants au Parlement européen au suffrage universel direct et que, <Alignment alignment="771" annotation_id="727">
+          <DiscourseConnective annotation_id="727" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, Jan Zahradil ne se trouve pas en situation d'incompatibilité et peut continuer <DiscourseConnective annotation_id="822">à</DiscourseConnective> exercer son mandat parlementaire.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 10 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 10 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="59" id="005" name="Richard Corbett">
+    <ParallelChunk annotation_id="59" docOffset="2">
+      <en>Madam President, on a point of order, under our Rules of Procedure, Annex I, Article 2, any Member who has not submitted a declaration of interests has to be reminded of this fact by the President.</en>
+      <fr>(EN) Madame la Présidente, ceci est une motion de procédure. À l'annexe I, article 2, de notre règlement prévoit <DiscourseConnective annotation_id="172">que</DiscourseConnective> le président doit rappeler à chaque député qui ne l'a pas fait qu'il doit déposer une déclaration d'intérêt financier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="257" docOffset="3">
+      <en>
+        <Alignment alignment="301001" annotation_id="257">
+          <DiscourseConnective annotation_id="257" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> he or she continues to fail to do so, this fact is published in the Minutes.</en>
+      <fr>
+        <Alignment alignment="222" annotation_id="295">
+          <DiscourseConnective annotation_id="295" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> le député en question persiste à ne pas déposer une déclaration d'intérêt financier, son nom est publié au procès-verbal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="337" docOffset="4">
+      <en>It is <Alignment alignment="435" annotation_id="343">
+          <DiscourseConnective annotation_id="343" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> stated that, <Alignment alignment="302959" annotation_id="361">
+          <DiscourseConnective annotation_id="361" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the Member continues to refuse to submit the declaration, the President shall take action in accordance with Rule 147 to suspend the Member concerned.</en>
+      <fr>Il est précisé <Alignment alignment="343" annotation_id="435">
+          <DiscourseConnective annotation_id="435" sense="Temporal.Asynchronous.Precedence">alors que</DiscourseConnective>
+        </Alignment> <Alignment alignment="361" annotation_id="445">
+          <DiscourseConnective annotation_id="445" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> le député refuse encore de présenter sa déclaration, le président applique les dispositions de l'article 147 et suspend le député concerné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="515" docOffset="5">
+      <en>I see from the Minutes of the sitting on Monday that Mr Herrero-Tejedor and Mr Nattrass, from the UK Independence Party, have still failed to complete their declaration of interests.</en>
+      <fr>Je lis dans le procès-verbal de la séance de lundi <DiscourseConnective annotation_id="639">que</DiscourseConnective> MM. Herrero-Tejedor <DiscourseConnective annotation_id="663">et</DiscourseConnective> Nattrass, du parti de l'indépendance du Royaume-Uni, n'ont toujours pas complété leur déclaration d'intérêt financier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="698" docOffset="6">
+      <en>It is now several months in a row that they have been named and shamed in the Minutes <DiscourseConnective annotation_id="784" sense="Expansion.Conjunction">and</DiscourseConnective> I would urge the President to take action appropriate to the situation.</en>
+      <fr>Ils sont mentionnés <DiscourseConnective annotation_id="805">et</DiscourseConnective> couverts de honte <DiscourseConnective annotation_id="826">depuis</DiscourseConnective> plusieurs mois dans les procès-verbaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="860" docOffset="7">
+      <en>It undermines the reputation and the credibility of this House.</en>
+      <fr>J'invite le président à agir comme il se doit dans cette situation, qui sape la réputation <DiscourseConnective annotation_id="964">et</DiscourseConnective> la crédibilité de cette Assemblée.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="924" id="006" name="President">
+    <ParallelChunk annotation_id="924" docOffset="8">
+      <en>I shall pass that on, Mr Corbett.</en>
+      <fr>Je transmettrai, Monsieur Corbett.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

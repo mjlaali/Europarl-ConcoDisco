@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Units of measurement (vote)</en>
+    <fr>Unités de mesure (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="31" docOffset="2">
+    <en>- Report: Arlene McCarthy</en>
+    <fr>- Rapport Arlene McCarthy</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="57" docOffset="3">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="55">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="75" id="064" name="Siim Kallas">
+    <ParallelChunk annotation_id="75" docOffset="4">
+      <en>Vice-President of the Commission. - Mr President, the Commission confirms that it will continue monitoring the developments relating to this Directive and its implementation, <Alignment alignment="235" annotation_id="250">
+          <DiscourseConnective annotation_id="250" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it will consider, in the light of the results of that monitoring, applying follow-up measures.</en>
+      <fr>Vice-président de la Commission. - (EN) Monsieur le Président, la Commission confirme <DiscourseConnective annotation_id="155">qu'</DiscourseConnective>elle continuera à suivre l'évolution de cette directive <DiscourseConnective annotation_id="214">et</DiscourseConnective> sa mise en œuvre, <Alignment alignment="250" annotation_id="235">
+          <DiscourseConnective annotation_id="235" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="238">qu'</DiscourseConnective>elle envisagera, <DiscourseConnective annotation_id="258">à</DiscourseConnective> la lumière des résultats de ce suivi, la possibilité d'appliquer des mesures complémentaires.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Evaluation of the Dublin system (debate)</en>
+    <fr>Évaluation du système de Dublin (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="41" id="104" name="President">
+    <ParallelChunk annotation_id="41" docOffset="1">
+      <en>The next item is the report by Mrs Lambert, on behalf of the Committee on Civil Liberties, Justice and Home Affairs, on the evaluation of the Dublin system.</en>
+      <fr>(PT) L'ordre du jour appelle le rapport de Mme Lambert, au nom de la commission des libertés civiles, de la justice <DiscourseConnective annotation_id="156">et</DiscourseConnective> des affaires intérieures, relatif à l'évaluation du système de Dublin.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="198" id="105" name="Jean Lambert">
+    <ParallelChunk annotation_id="198" docOffset="2">
+      <en>rapporteur. - Mr President, I should <Alignment alignment="278" annotation_id="235">
+          <DiscourseConnective annotation_id="235" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the shadow rapporteurs for their serious interest and commitment, <DiscourseConnective annotation_id="320" sense="Expansion.Conjunction">and</DiscourseConnective> all those who have contributed to this report.</en>
+      <fr>rapporteur. - (EN) M. le Président, je voudrais <Alignment alignment="2549" annotation_id="278">
+          <DiscourseConnective annotation_id="278" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> remercier les rapporteurs fictifs <DiscourseConnective annotation_id="318">pour</DiscourseConnective> leur sérieux intérêt <DiscourseConnective annotation_id="344">et</DiscourseConnective> engagement, de même que tous ceux qui ont apporté leur contribution <DiscourseConnective annotation_id="415">à</DiscourseConnective> ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="371" docOffset="3">
+      <en>The Dublin II Regulation, <Alignment alignment="26088" annotation_id="397">
+          <DiscourseConnective annotation_id="397" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you will know, is part of the European common asylum system <Alignment alignment="17094" annotation_id="460">
+          <DiscourseConnective annotation_id="460" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it determines which Member State is responsible for the examination and determination of an asylum claim.</en>
+      <fr>
+        <Alignment alignment="397" annotation_id="429">
+          <DiscourseConnective annotation_id="429" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, le règlement Dublin II fait partie du régime d'asile européen commun <Alignment alignment="460" annotation_id="519">
+          <DiscourseConnective annotation_id="519" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il détermine quel État membre est responsable de l'examen <DiscourseConnective annotation_id="580">et</DiscourseConnective> de la l'appréciation de la demande d'asile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="570" docOffset="4">
+      <en>Its effect is <Alignment alignment="19390" annotation_id="584">
+          <DiscourseConnective annotation_id="584" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> linked very much to the sound implementation of other directives, such as the Reception and the Procedures Directives.</en>
+      <fr>Ses effets sont <Alignment alignment="584" annotation_id="643">
+          <DiscourseConnective annotation_id="643" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> étroitement liés <DiscourseConnective annotation_id="670">à</DiscourseConnective> la bonne mise en œuvre d'autres directives telles <DiscourseConnective annotation_id="722">que</DiscourseConnective> les directives relatives aux conditions d'accueil <DiscourseConnective annotation_id="776">et</DiscourseConnective> aux procédures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="708" docOffset="5">
+      <en>Our committee report makes clear that the Dublin Regulation, and indeed the system as a whole, is a system based on mutual trust and reliability, <Alignment alignment="21674" annotation_id="854">
+          <Alignment alignment="969" annotation_id="854">
+            <DiscourseConnective annotation_id="854" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> all Member States have to fulfil their responsibilities.</en>
+      <fr>Le rapport de notre commission montre clairement <DiscourseConnective annotation_id="844">que</DiscourseConnective> le règlement Dublin, <DiscourseConnective annotation_id="869">et</DiscourseConnective> <DiscourseConnective annotation_id="872">d'ailleurs</DiscourseConnective> l'ensemble du système, est un système basé sur la confiance mutuelle <DiscourseConnective annotation_id="952">et</DiscourseConnective> la fiabilité, <Alignment alignment="854" annotation_id="969">
+          <Alignment alignment="1988" annotation_id="969">
+            <DiscourseConnective annotation_id="969" sense="Contingency.Cause.Result">de sorte que</DiscourseConnective>
+          </Alignment>
+        </Alignment> tous les États membres doivent prendre leurs responsabilités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="919" docOffset="6">
+      <en>We have a number of concerns which we address in this report - <Alignment alignment="1123" annotation_id="982">
+          <DiscourseConnective annotation_id="982" sense="Comparison.Concession">although</DiscourseConnective>
+        </Alignment> I obviously will not address them all here - about the quality of delivery in terms of the asylum system, the impact on the individuals concerned <Alignment alignment="22747" annotation_id="1137">
+          <DiscourseConnective annotation_id="1137" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> whether Dublin II is effective overall.</en>
+      <fr>Nous avons un certain nombre d'inquiétudes <DiscourseConnective annotation_id="1087">que</DiscourseConnective> nous évoquons dans ce rapport - <Alignment alignment="982" annotation_id="1123">
+          <DiscourseConnective annotation_id="1123" sense="Comparison.Concession">mais</DiscourseConnective>
+        </Alignment> que je ne détaillerai bien sûr pas ici - en termes de qualité du prononcé de la décision en ce qui concerne le système d'asile, l'impact sur les personnes concernées <Alignment alignment="1137" annotation_id="1294">
+          <DiscourseConnective annotation_id="1294" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la question de savoir <DiscourseConnective annotation_id="1319">si</DiscourseConnective> Dublin II est efficace dans l'ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1181" docOffset="7">
+      <en>What problems does it create for some Member States?</en>
+      <fr>Quels problèmes cela engendre-t-il <DiscourseConnective annotation_id="1397">pour</DiscourseConnective> certains États membres?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1234" docOffset="8">
+      <en>Are we almost looking at something and making it too simple for the complexity of the issue?</en>
+      <fr>Sommes-nous sur le point d'envisager quelque chose de trop simple par rapport à la complexité de la question?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1327" docOffset="9">
+      <en>On the quality of delivery, we know that there are enormous variations between Member States in delivering a fair and thorough examination of claims for protection. This is unjust for the individual and unfair to other Member States.</en>
+      <fr>S'agissant de la qualité du prononcé de la décision, nous savons <DiscourseConnective annotation_id="1601">qu'</DiscourseConnective>il existe d'énormes variations entre États membres dans la manière de procéder à un examen équitable <DiscourseConnective annotation_id="1705">et</DiscourseConnective> approfondi des demandes de protection, ce qui est injuste vis-à-vis des personnes <DiscourseConnective annotation_id="1790">et</DiscourseConnective> inéquitable par rapport aux autres États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1561" docOffset="10">
+      <en>
+        <Alignment alignment="1843" annotation_id="1561">
+          <Alignment alignment="1843" annotation_id="1561">
+            <DiscourseConnective annotation_id="1561" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, looking at one or two Member States within the European Union, <Alignment alignment="18544" annotation_id="1633">
+          <DiscourseConnective annotation_id="1633" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you were an asylum-seeker really fearing for your life you would have to be almost suicidal to claim asylum in one or two of them, <Alignment alignment="33851" annotation_id="1767">
+          <DiscourseConnective annotation_id="1767" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> your chances of having your claim recognised would be so low <Alignment alignment="2145" annotation_id="1836">
+          <DiscourseConnective annotation_id="1836" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="2149" annotation_id="1841">
+          <DiscourseConnective annotation_id="1841" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, your risk of return would be very high.</en>
+      <fr>
+        <Alignment alignment="1561" annotation_id="1843">
+          <Alignment alignment="1561" annotation_id="1843">
+            <DiscourseConnective annotation_id="1843" sense="Expansion.Conjunction">En fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, <DiscourseConnective annotation_id="1852">si</DiscourseConnective> on considère un <DiscourseConnective annotation_id="1871">ou</DiscourseConnective> deux États membres de l'Union, <Alignment alignment="1633" annotation_id="1905">
+          <DiscourseConnective annotation_id="1905" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> vous étiez un demandeur d'asile craignant véritablement <DiscourseConnective annotation_id="1964">pour</DiscourseConnective> votre vie, ce serait pratiquement suicidaire que vous demandiez l'asile dans un <DiscourseConnective annotation_id="2049">ou</DiscourseConnective> deux de ces pays <Alignment alignment="5140" annotation_id="2069">
+          <DiscourseConnective annotation_id="2069" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> vos chances de voir votre demande accordée seraient extrêmement faibles <Alignment alignment="7864" annotation_id="2145">
+          <DiscourseConnective annotation_id="2145" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1841" annotation_id="2149">
+          <DiscourseConnective annotation_id="2149" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, le risque <DiscourseConnective annotation_id="2175">que</DiscourseConnective> soyez refoulé très élevé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1892" docOffset="11">
+      <en>
+        <Alignment alignment="2220" annotation_id="1892">
+          <DiscourseConnective annotation_id="1892" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> we agree as a committee that we wish to see systematic measures taken against those Member States which fail in this respect.</en>
+      <fr>Nous convenons <Alignment alignment="10963" annotation_id="2220">
+          <DiscourseConnective annotation_id="2220" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> au sein de la commission <DiscourseConnective annotation_id="2250">que</DiscourseConnective> nous souhaitons <DiscourseConnective annotation_id="2270">que</DiscourseConnective> des mesures systématiques soient prises à l'encontre des ces États membres qui manquent à leurs engagements <DiscourseConnective annotation_id="2382">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2021" docOffset="12">
+      <en>A majority in the committee <Alignment alignment="27723" annotation_id="2049">
+          <DiscourseConnective annotation_id="2049" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> wants to see the Dublin transfers to such Member States stopped <Alignment alignment="2540" annotation_id="2118">
+          <DiscourseConnective annotation_id="2118" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> failures are rectified - <Alignment alignment="10371" annotation_id="2149">
+          <DiscourseConnective annotation_id="2149" sense="Comparison.Concession">although</DiscourseConnective>
+        </Alignment> there is an amendment on this issue which we will vote on tomorrow.</en>
+      <fr>Une majorité au sein de la commission souhaite <Alignment alignment="9289" annotation_id="2442">
+          <DiscourseConnective annotation_id="2442" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> voir cesser les transferts dans le cadre du règlement Dublin vers de tels États membres <Alignment alignment="2118" annotation_id="2540">
+          <DiscourseConnective annotation_id="2540" sense="Temporal.Asynchronous.Precedence">tant que</DiscourseConnective>
+        </Alignment> ces manquements ne sont pas rectifiés - <Alignment alignment="2149" annotation_id="2589">
+          <DiscourseConnective annotation_id="2589" sense="Comparison.Concession">bien qu'</DiscourseConnective>
+        </Alignment>il y ait un amendement sur cette question <DiscourseConnective annotation_id="2639">que</DiscourseConnective> nous mettrons aux voix demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2226" docOffset="13">
+      <en>For the individuals concerned, we want to see a clear improvement in the quality and consistency of decision-making.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2674">Pour</DiscourseConnective> les personnes concernées, nous souhaitons voir une amélioration sensible <DiscourseConnective annotation_id="2752">en</DiscourseConnective> termes de qualité <DiscourseConnective annotation_id="2773">et</DiscourseConnective> de cohérence par rapport à la prise de décision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2343" docOffset="14">
+      <en>We want to see cases fully examined on transfer and not closed due to technicalities (our paragraph 11).</en>
+      <fr>Nous souhaitons que les cas soient examinés de façon approfondie en matière de transfert <DiscourseConnective annotation_id="2914">et</DiscourseConnective> qu'ils ne soient pas clôturés à cause d'aspects techniques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2448" docOffset="15">
+      <en>We want clear information provided to those coming under the Dublin Regulation; we <Alignment alignment="3103" annotation_id="2531">
+          <DiscourseConnective annotation_id="2531" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want to increase the possibility of family reunion and a wider definition of family for this purpose - <Alignment alignment="3238" annotation_id="2639">
+          <DiscourseConnective annotation_id="2639" sense="Comparison.Concession">although</DiscourseConnective>
+        </Alignment>, again, I know there is an amendment on this - so that, <Alignment alignment="21513" annotation_id="2704">
+          <DiscourseConnective annotation_id="2704" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, a minor can be transferred to live with their sole family member in the European Union, even <Alignment alignment="3441" annotation_id="2810">
+          <DiscourseConnective annotation_id="2810" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> that person is a cousin rather than a sibling.</en>
+      <fr>Nous voulons que des informations claires soient fournies <DiscourseConnective annotation_id="3035">à</DiscourseConnective> ceux qui arrivent dans le cadre du règlement Dublin, nous voulons <Alignment alignment="2531" annotation_id="3103">
+          <DiscourseConnective annotation_id="3103" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> accroître les possibilités en matière de regroupement familial <DiscourseConnective annotation_id="3172">et</DiscourseConnective> demandons à ce titre une définition plus large de la famille - <Alignment alignment="2639" annotation_id="3238">
+          <DiscourseConnective annotation_id="3238" sense="Comparison.Concession">même si</DiscourseConnective>
+        </Alignment>, à nouveau, je sais qu'il y a un amendement <DiscourseConnective annotation_id="3290">à</DiscourseConnective> ce sujet - <DiscourseConnective annotation_id="3303">de sorte que</DiscourseConnective>, <Alignment alignment="7775" annotation_id="3317">
+          <DiscourseConnective annotation_id="3317" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, un mineur puisse être transféré <DiscourseConnective annotation_id="3362">pour</DiscourseConnective> vivre avec le seul membre de sa famille résidant dans l'Union européenne, <Alignment alignment="2810" annotation_id="3441">
+          <DiscourseConnective annotation_id="3441" sense="Contingency.Condition">même s'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="3451">s'</DiscourseConnective>agit d'un cousin plutôt que d'un frère ou une sœur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2860" docOffset="16">
+      <en>We <Alignment alignment="3518" annotation_id="2863">
+          <DiscourseConnective annotation_id="2863" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want clear procedures in relation to minors, who should only be transferred for the purpose of family reunion; these procedures should include their representation and accompaniment throughout, <Alignment alignment="30385" annotation_id="3062">
+          <Alignment alignment="27421" annotation_id="3062">
+            <DiscourseConnective annotation_id="3062" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> no child is lost in transit, as has unfortunately happened on a number of occasions.</en>
+      <fr>Nous voulons <Alignment alignment="2863" annotation_id="3518">
+          <DiscourseConnective annotation_id="3518" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> des procédures claires relativement aux mineurs, lesquels ne devraient faire l'objet de transferts que dans le cadre de regroupements familiaux; ces procédures devraient comprendre leur représentation <DiscourseConnective annotation_id="3725">et</DiscourseConnective> leur accompagnement tout au long du processus <Alignment alignment="3062" annotation_id="3774">
+          <Alignment alignment="1544" annotation_id="3774">
+            <DiscourseConnective annotation_id="3774" sense="Contingency.Cause.Result">afin qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>aucun enfant ne puisse être perdu <DiscourseConnective annotation_id="3816">en</DiscourseConnective> transit, <DiscourseConnective annotation_id="3828">comme</DiscourseConnective> cela s'est <DiscourseConnective annotation_id="3845">malheureusement</DiscourseConnective> produit <DiscourseConnective annotation_id="3869">en</DiscourseConnective> un certain nombre d'occasions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3155" docOffset="17">
+      <en>We are <Alignment alignment="9461" annotation_id="3162">
+          <DiscourseConnective annotation_id="3162" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> asking for greater use of the humanitarian clause, <DiscourseConnective annotation_id="3218" sense="Expansion.Instantiation">for example</DiscourseConnective>, for those who are particularly vulnerable.</en>
+      <fr>Nous demandons <Alignment alignment="3162" annotation_id="3918">
+          <DiscourseConnective annotation_id="3918" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> qu'il soit plus largement fait usage de la clause humanitaire <DiscourseConnective annotation_id="3990">pour</DiscourseConnective> ceux qui sont particulièrement vulnérables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3274" docOffset="18">
+      <en>We have concerns about the potential extension of Eurodac for purposes other than identification.</en>
+      <fr>Nous avons des craintes au sujet de l'extension potentielle d'Eurodac à des fins autres <DiscourseConnective annotation_id="4127">que</DiscourseConnective> l'identification.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3372" docOffset="19">
+      <en>The Council and the Commission will be aware that Parliament takes such issues very seriously.</en>
+      <fr>Le Conseil <DiscourseConnective annotation_id="4160">et</DiscourseConnective> la Commission savent certainement <DiscourseConnective annotation_id="4197">que</DiscourseConnective> le Parlement tient ces questions particulièrement à cœur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3467" docOffset="20">
+      <en>
+        <Alignment alignment="4259" annotation_id="3467">
+          <DiscourseConnective annotation_id="3467" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> regards the problems - <Alignment alignment="4286" annotation_id="3493">
+          <DiscourseConnective annotation_id="3493" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I know that other colleagues will talk more on this - one of the issues which <Alignment alignment="4386" annotation_id="3575">
+          <DiscourseConnective annotation_id="3575" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> concerns us is that Dublin II can create pressure on certain Member States which find themselves as primary points of entry to the European Union for asylum-seekers.</en>
+      <fr>
+        <Alignment alignment="3467" annotation_id="4259">
+          <DiscourseConnective annotation_id="4259" sense="Temporal.Synchrony">S'</DiscourseConnective>
+        </Alignment>agissant des problèmes - <Alignment alignment="3493" annotation_id="4286">
+          <DiscourseConnective annotation_id="4286" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je sais <DiscourseConnective annotation_id="4297">que</DiscourseConnective> d'autres collègues s'étendront plus sur le sujet -, un des aspects qui nous concerne <Alignment alignment="3575" annotation_id="4386">
+          <DiscourseConnective annotation_id="4386" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> est le fait <DiscourseConnective annotation_id="4408">que</DiscourseConnective> Dublin II peut exercer une pression sur certains États membres qui correspondent <DiscourseConnective annotation_id="4493">à</DiscourseConnective> des points d'entrée primaires de l'Union européenne <DiscourseConnective annotation_id="4547">pour</DiscourseConnective> les demandeurs d'asile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3746" docOffset="21">
+      <en>We are, <Alignment alignment="20813" annotation_id="3754">
+          <DiscourseConnective annotation_id="3754" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, asking the Commission to bring forward proposals on so-called 'burden sharing' which are not just financial but actually provide a solution for the Member States and the individuals affected.</en>
+      <fr>Nous demandons <Alignment alignment="3754" annotation_id="4591">
+          <DiscourseConnective annotation_id="4591" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> à la Commission de présenter des propositions sur le dit "partage de la charge" qui ne soient pas seulement de nature financière <DiscourseConnective annotation_id="4729">mais</DiscourseConnective> qui apportent véritablement une solution aux États membres <DiscourseConnective annotation_id="4793">et</DiscourseConnective> aux personnes concernées.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3957" id="106" name="Jacques Barrot">
+    <ParallelChunk annotation_id="3957" docOffset="22">
+      <en>Vice-President of the Commission. - (FR) Mr President, the application of the Dublin system was technically and politically evaluated during the debate commenced in 2007 following the Green Paper on the future Common European Asylum System.</en>
+      <fr>Vice-président de la Commission. - Monsieur le Président, l'application du système de Dublin a fait l'objet d'une évaluation technique <DiscourseConnective annotation_id="4957">et</DiscourseConnective> d'une évaluation politique dans le cadre du débat lancé <DiscourseConnective annotation_id="5016">en</DiscourseConnective> 2007 à la suite du Livre vert sur un futur régime européen d'asile commun.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4198" docOffset="23">
+      <en>Based on the conclusions of this dual evaluation, the Commission intends to propose, before the end of the year, amendments to the Dublin and Eurodac Regulations <Alignment alignment="9936" annotation_id="4360">
+          <DiscourseConnective annotation_id="4360" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> retaining the basic principles of the Dublin system.</en>
+      <fr>Tirant les conclusions de cette double évaluation, la Commission entend proposer, <DiscourseConnective annotation_id="5176">avant</DiscourseConnective> la fin de l'année, des modifications des règlements Dublin <DiscourseConnective annotation_id="5241">et</DiscourseConnective> Eurodac <Alignment alignment="4360" annotation_id="5252">
+          <DiscourseConnective annotation_id="5252" sense="Temporal.Synchrony">tout en</DiscourseConnective>
+        </Alignment> gardant les principes de base du système Dublin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4419" docOffset="24">
+      <en>The aim is to reinforce both the efficiency of the system and the protection of those concerned.</en>
+      <fr>Il s'agit de renforcer tant l'efficacité du système <DiscourseConnective annotation_id="5361">que</DiscourseConnective> la protection des personnes concernées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4516" docOffset="25">
+      <en>Mr President, ladies and gentlemen, I must thank Parliament for instigating this debate on these future amendments. This is a debate that is shaping up to be constructive and undoubtedly intense.</en>
+      <fr>Merci au Parlement, Monsieur le Président, Mesdames <DiscourseConnective annotation_id="5457">et</DiscourseConnective> Messieurs les députés, d'ouvrir ce débat sur ces futures modifications, un débat qui <DiscourseConnective annotation_id="5545">s'</DiscourseConnective>annonce constructif <DiscourseConnective annotation_id="5567">et</DiscourseConnective> sans doute intense.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4712" docOffset="26">
+      <en>The Commission shares the concerns expressed in your report, Mrs Lambert, <DiscourseConnective annotation_id="4786" sense="Temporal.Synchrony">as</DiscourseConnective> regards the shortcomings.</en>
+      <fr>La Commission partage les préoccupations exprimées dans votre rapport, Madame le rapporteur, concernant les carences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4815" docOffset="27">
+      <en>It agrees with the conclusion that the success of the Dublin system depends on greater harmonisation of protection standards at EU level.</en>
+      <fr>Elle partage la conclusion selon laquelle le succès du système de Dublin exige une harmonisation plus poussée des standards de protection au niveau de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4953" docOffset="28">
+      <en>This is the way to guarantee equal access to protection for all asylum seekers transferred to other Member States.</en>
+      <fr>C'est le moyen de garantir un accès égal <DiscourseConnective annotation_id="5920">à</DiscourseConnective> la protection <DiscourseConnective annotation_id="5936">pour</DiscourseConnective> tous les demandeurs d'asile transférés vers d'autres États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5068" docOffset="29">
+      <en>We need both this greater harmonisation of the laws of the Member States on asylum and <DiscourseConnective annotation_id="5155" sense="Expansion.Conjunction">also</DiscourseConnective> an increase in practical cooperation <DiscourseConnective annotation_id="5197" sense="Temporal.Synchrony">as</DiscourseConnective> envisaged in the second phase of the Common European Asylum System.</en>
+      <fr>Il faut donc à la fois cette harmonisation plus poussée des législations des États membres en matière d'asile <DiscourseConnective annotation_id="6119">et</DiscourseConnective> l'approfondissement de la coopération pratique telle qu'elle est envisagée dans la seconde phase du régime d'asile européen commun.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5268" docOffset="30">
+      <en>The Commission plans to better define the procedures and time-limits to be respected and <DiscourseConnective annotation_id="5357" sense="Expansion.Conjunction">also</DiscourseConnective> to improve the quality and reliability of the data contained within the Eurodac database.</en>
+      <fr>La Commission envisage de <DiscourseConnective annotation_id="6280">mieux</DiscourseConnective> définir les procédures <DiscourseConnective annotation_id="6309">et</DiscourseConnective> les délais <DiscourseConnective annotation_id="6323">à</DiscourseConnective> respecter <DiscourseConnective annotation_id="6335">ainsi</DiscourseConnective> que d'améliorer la qualité <DiscourseConnective annotation_id="6368">et</DiscourseConnective> la fiabilité des données contenues dans la base des données Eurodac.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5452" docOffset="31">
+      <en>Mr President, ladies and gentlemen, I do not wish to go into too much detail, <Alignment alignment="6524" annotation_id="5530">
+          <DiscourseConnective annotation_id="5530" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is true that we are considering a series of amendments. These include improving the information given to asylum seekers, making the right of appeal more effective, ensuring that the detention of asylum seekers is not arbitrary, clarifying the conditions and procedures to be respected in the application of the humanitarian clause, offering more guarantees for unaccompanied minors, and expanding the right to family reunification for asylum seekers and beneficiaries of subsidiary protection.</en>
+      <fr>Je ne veux pas m'étendre, Monsieur le Président, Mesdames <DiscourseConnective annotation_id="6498">et</DiscourseConnective> Messieurs les députés, <Alignment alignment="4078" annotation_id="6524">
+          <DiscourseConnective annotation_id="6524" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il est vrai <DiscourseConnective annotation_id="6541">que</DiscourseConnective> nous pensons à une série de modifications - je donne quelques exemples: améliorer l'information fournie aux demandeurs d'asile, rendre le droit d'appel plus effectif, s'assurer <DiscourseConnective annotation_id="6722">que</DiscourseConnective> la détention des demandeurs d'asile n'est pas arbitraire, clarifier les conditions <DiscourseConnective annotation_id="6809">et</DiscourseConnective> les procédures <DiscourseConnective annotation_id="6827">à</DiscourseConnective> respecter <DiscourseConnective annotation_id="6839">pour</DiscourseConnective> l'application de la clause humanitaire, prévoir plus de garanties <DiscourseConnective annotation_id="6910">pour</DiscourseConnective> les mineurs non accompagnés, élargir le droit au regroupement familial pour les demandeurs et les bénéficiaires de la protection subsidiaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6031" docOffset="32">
+      <en>
+        <DiscourseConnective annotation_id="6031" sense="Comparison.Concession">Although</DiscourseConnective>, despite everything, the evaluation of the Dublin system has been positive, it is <DiscourseConnective annotation_id="6122" sense="Expansion.Conjunction">also</DiscourseConnective> true that this system has led to additional burdens for certain Member States which have limited capacity for reception and absorption <DiscourseConnective annotation_id="6262" sense="Temporal.Synchrony">while</DiscourseConnective>, at the same time, being subject to particular migratory pressure due to their geographical situation.</en>
+      <fr>Ce qui est vrai, c'est que si le régime de Dublin a <DiscourseConnective annotation_id="7109">malgré tout</DiscourseConnective> fait l'objet d'une évaluation positive, il est vrai <DiscourseConnective annotation_id="7173">que</DiscourseConnective> ce régime induit de facto des charges supplémentaires <DiscourseConnective annotation_id="7231">pour</DiscourseConnective> certains États membres ayant des capacités d'accueil <DiscourseConnective annotation_id="7289">et</DiscourseConnective> d'absorption limitées et <DiscourseConnective annotation_id="7317">en même temps</DiscourseConnective> soumis <DiscourseConnective annotation_id="7338">à</DiscourseConnective> une pression migratoire particulière en raison de leur situation géographique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6371" docOffset="33">
+      <en>The Commission is considering the possibility of introducing a temporary suspension of the application of the Dublin provisions for an overburdened Member State and <DiscourseConnective annotation_id="6536" sense="Expansion.Conjunction">also</DiscourseConnective> creating teams of asylum experts who may be called upon by these somewhat overburdened Member States.</en>
+      <fr>La Commission réfléchit à la perspective d'instaurer une suspension temporaire de l'application des dispositions de Dublin vis-à-vis d'un État membre surchargé, de créer des équipes d'experts en matière d'asile, qui pourront être sollicités par ces États membres quelque peu surchargés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6643" docOffset="34">
+      <en>The Commission takes note of the substantial and constructive recommendations contained in Parliament's report. We will not spare any efforts in taking all the necessary steps to respond to the concerns expressed by Parliament in its report on the operation and impact of the Dublin system.</en>
+      <fr>La Commission prend note des recommandations substantielles <DiscourseConnective annotation_id="7766">et</DiscourseConnective> constructives contenues dans le rapport du Parlement et nous ne ménagerons pas nos efforts <DiscourseConnective annotation_id="7860">pour</DiscourseConnective> prendre toutes les mesures nécessaires afin de répondre aux préoccupations <DiscourseConnective annotation_id="7940">que</DiscourseConnective> le Parlement exprime dans son rapport au sujet du fonctionnement <DiscourseConnective annotation_id="8009">et</DiscourseConnective> de l'impact du système Dublin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6934" docOffset="35">
+      <en>Thank you Mrs Lambert, ladies and gentlemen. I am going to listen to you closely <DiscourseConnective annotation_id="7015" sense="Temporal.Synchrony">as</DiscourseConnective> I am convinced that perfecting the right of asylum is an important issue for the future and, I would say, for our design of Europe which must remain true to its great tradition of welcoming people.</en>
+      <fr>Merci Madame Lambert, merci Mesdames <DiscourseConnective annotation_id="8080">et</DiscourseConnective> Messieurs les parlementaires, je vais écouter avec attention, convaincu en effet <DiscourseConnective annotation_id="8164">que</DiscourseConnective> ce perfectionnement du droit d'asile est un élément majeur <DiscourseConnective annotation_id="8227">pour</DiscourseConnective> l'avenir <DiscourseConnective annotation_id="8241">et</DiscourseConnective> pour, je dirais, la conception que nous nous faisons d'une Europe qui reste fidèle <DiscourseConnective annotation_id="8327">à</DiscourseConnective> ses grandes traditions d'accueil.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7216" id="107" language="MT" name="Simon Busuttil">
+    <ParallelChunk annotation_id="7216" docOffset="36">
+      <en>This law needs to be revised.</en>
+      <fr>Cette loi doit être révisée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7246" docOffset="37">
+      <en>Let me try to explain why.</en>
+      <fr>Laissez-moi vous expliquer pourquoi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7273" docOffset="38">
+      <en>
+        <Alignment alignment="12879" annotation_id="7273">
+          <DiscourseConnective annotation_id="7273" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> this law was issued, the aim was that anyone seeking asylum - that is, asking for protection - could do so in the country in which they first landed.</en>
+      <fr>
+        <Alignment alignment="7273" annotation_id="8429">
+          <DiscourseConnective annotation_id="8429" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> cette loi a été lancée, le but était <DiscourseConnective annotation_id="8474">que</DiscourseConnective> toute personne qui cherchait l'asile - <DiscourseConnective annotation_id="8517">autrement dit</DiscourseConnective> une protection - puisse le faire dans le premier pays où elle atterrissait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7428" docOffset="39">
+      <en>This seems reasonable, <Alignment alignment="32115" annotation_id="7451">
+          <DiscourseConnective annotation_id="7451" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="23238" annotation_id="7455">
+          <DiscourseConnective annotation_id="7455" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> this law was issued, no-one ever imagined, especially in this day and age, that many people would end up entering and arriving in the European Union or a Member State by boat, crossing the Atlantic or the Mediterranean Sea to enter the European Union.</en>
+      <fr>Ceci semble raisonnable <Alignment alignment="7451" annotation_id="8631">
+          <DiscourseConnective annotation_id="8631" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="7455" annotation_id="8636">
+          <DiscourseConnective annotation_id="8636" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> cette loi a été lancée, personne n'aurait pu imaginer, <DiscourseConnective annotation_id="8699">surtout</DiscourseConnective> <DiscourseConnective annotation_id="8707">à</DiscourseConnective> l'époque, <DiscourseConnective annotation_id="8719">que</DiscourseConnective> de nombreuses personnes finiraient par arriver dans l'Union européenne <DiscourseConnective annotation_id="8794">ou</DiscourseConnective> un État membre par bateau, en traversant l'Atlantique <DiscourseConnective annotation_id="8851">ou</DiscourseConnective> la Méditerranée pour y entrer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7712" docOffset="40">
+      <en>This was never the idea of this Regulation, <DiscourseConnective annotation_id="7756" sense="Expansion.Conjunction">and</DiscourseConnective> now it is forcing countries in this situation to welcome these people who arrive by boat, in a disproportionate, difficult and serious situation.</en>
+      <fr>Cela n'a jamais été le propos de ce règlement, alors que <DiscourseConnective annotation_id="8942">maintenant</DiscourseConnective> il oblige les pays confrontés <DiscourseConnective annotation_id="8983">à</DiscourseConnective> cette situation <DiscourseConnective annotation_id="9001">à</DiscourseConnective> accueillir ces personnes arrivant par bateau, les mettant dans une situation disproportionnée, difficile <DiscourseConnective annotation_id="9108">et</DiscourseConnective> grave.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7906" docOffset="41">
+      <en>I am pleased to hear Commissioner Barrot say here that one of the possibilities for revision of this Regulation is to temporarily suspend it in the case of those countries that are bearing a disproportionate share of a particular burden.</en>
+      <fr>Je suis heureux d'entendre à ce propos le commissaire Barrot déclarer <DiscourseConnective annotation_id="9188">qu'</DiscourseConnective>une des possibilités de révision de ce règlement consisterait <DiscourseConnective annotation_id="9253">à</DiscourseConnective> le suspendre dans le cas des pays qui supportent une part disproportionnée d'une charge particulière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8144" docOffset="42">
+      <en>This is what we need: either this, or a well-functioning mechanism, one of solidarity, which permits immigrants arriving in a country bearing such a burden to proceed to another EU country.</en>
+      <fr>Voilà ce dont nous avons besoin: <DiscourseConnective annotation_id="9390">soit</DiscourseConnective> ceci, <DiscourseConnective annotation_id="9401">soit</DiscourseConnective> un mécanisme fonctionnant correctement, basé sur la solidarité, qui permettrait aux immigrants arrivant dans un pays supportant une telle charge de se rendre dans un autre pays de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8334" docOffset="43">
+      <en>It is imperative that this revision is carried out, <Alignment alignment="3029" annotation_id="8386">
+          <DiscourseConnective annotation_id="8386" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> as soon as possible.</en>
+      <fr>Il est impératif <DiscourseConnective annotation_id="9609">que</DiscourseConnective> cette révision <DiscourseConnective annotation_id="9628">soit</DiscourseConnective> effectuée <Alignment alignment="8386" annotation_id="9643">
+          <DiscourseConnective annotation_id="9643" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le plus tôt possible.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8411" id="108" name="Martine Roure">
+    <ParallelChunk annotation_id="8411" docOffset="44">
+      <en>on behalf of the PSE Group. - (FR) Mr President, the Dublin system must be used to determine the Member State responsible for examining an asylum application. <Alignment alignment="9825" annotation_id="8570">
+          <DiscourseConnective annotation_id="8570" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, this system is deeply unjust.</en>
+      <fr>au nom du groupe PSE. - Monsieur le Président, le système de Dublin doit permettre, en effet, de déterminer l'État membre responsable d'une demande d'asile, <Alignment alignment="8570" annotation_id="9825">
+          <DiscourseConnective annotation_id="9825" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce système est profondément injuste.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8609" docOffset="45">
+      <en>Asylum seekers can sometimes <Alignment alignment="9898" annotation_id="8638">
+          <DiscourseConnective annotation_id="8638" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be returned to a Member State which it is known will reject their asylum application <Alignment alignment="11317" annotation_id="8733">
+          <DiscourseConnective annotation_id="8733" sense="Comparison.Contrast">whereas</DiscourseConnective>
+        </Alignment> the Member State in which they are found would have granted them refugee status.</en>
+      <fr>Les demandeurs d'asile peuvent <Alignment alignment="8638" annotation_id="9898">
+          <DiscourseConnective annotation_id="9898" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> parfois être renvoyés vers un État membre qui, on le sait, rejettera leur demande d'asile <Alignment alignment="8733" annotation_id="9994">
+          <DiscourseConnective annotation_id="9994" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment> l'État membre dans lequel ils se trouvent aurait accordé ce statut de réfugié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8822" docOffset="46">
+      <en>This is the first injustice.</en>
+      <fr>Là est l'injustice première.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8851" docOffset="47">
+      <en>
+        <Alignment alignment="10112" annotation_id="8851">
+          <Alignment alignment="10112" annotation_id="8851">
+            <DiscourseConnective annotation_id="8851" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, this system poses a problem of solidarity between Member States.</en>
+      <fr>
+        <Alignment alignment="8851" annotation_id="10112">
+          <Alignment alignment="8851" annotation_id="10112">
+            <DiscourseConnective annotation_id="10112" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, ce système pose un problème de solidarité entre les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8929" docOffset="48">
+      <en>It is well-known that Member States situated at the external borders of Europe bear a greater burden.</en>
+      <fr>Les États situés aux frontières extérieures de l'Europe portent une charge plus importante, on le sait bien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9031" docOffset="49">
+      <en>On our return from Malta, we demanded that the very principle of the Dublin system be questioned.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10302">En</DiscourseConnective> revenant de Malte, nous avions demandé la remise en cause du principe <DiscourseConnective annotation_id="10375">même</DiscourseConnective> du système de Dublin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9129" docOffset="50">
+      <en>We believe that the Member State responsible for examining an asylum application should not necessarily be the first country entered.</en>
+      <fr>Nous pensons <DiscourseConnective annotation_id="10415">que</DiscourseConnective> l'État membre responsable du traitement d'une demande d'asile ne doit pas être obligatoirement le premier pays d'accès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9263" docOffset="51">
+      <en>There must be solidarity in the examination of applications.</en>
+      <fr>Il doit y avoir une solidarité entre le traitement des demandes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9324" docOffset="52">
+      <en>We have observed serious shortcomings, particularly with regard to the protection of unaccompanied minors.</en>
+      <fr>Nous avons pu observer de graves insuffisances, <DiscourseConnective annotation_id="10652">notamment en</DiscourseConnective> ce qui concerne la protection des mineurs non accompagnés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9431" docOffset="53">
+      <en>We have seen that Member States do not sufficiently use the instruments allowing minors to be reunited with members of their families present in another Member State.</en>
+      <fr>Nous avons constaté <DiscourseConnective annotation_id="10744">que</DiscourseConnective> les États membres n'utilisent pas assez les instruments qui permettent d'assurer la réunification des mineurs avec les membres de leurs familles présents dans un autre État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9598" docOffset="54">
+      <en>We <Alignment alignment="10945" annotation_id="9601">
+          <DiscourseConnective annotation_id="9601" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want minors to be able to join, <Alignment alignment="10987" annotation_id="9638">
+          <DiscourseConnective annotation_id="9638" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, aunts and uncles in another Member State, rather than being left to their own devices.</en>
+      <fr>Nous souhaitons <Alignment alignment="9601" annotation_id="10945">
+          <DiscourseConnective annotation_id="10945" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> que les mineurs puissent rejoindre, <Alignment alignment="9638" annotation_id="10987">
+          <DiscourseConnective annotation_id="10987" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, des oncles <DiscourseConnective annotation_id="11011">et</DiscourseConnective> tantes dans un autre État membre, <DiscourseConnective annotation_id="11048">plutôt que d'</DiscourseConnective>être livrés <DiscourseConnective annotation_id="11073">à</DiscourseConnective> leur propre sort.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9738" docOffset="55">
+      <en>We must <Alignment alignment="11101" annotation_id="9746">
+          <DiscourseConnective annotation_id="9746" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> extend the idea of the family.</en>
+      <fr>Il faut <Alignment alignment="9746" annotation_id="11101">
+          <DiscourseConnective annotation_id="11101" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> élargir l'idée de la famille.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9787" docOffset="56">
+      <en>Finally, we deplore the virtually systematic use by some Member States of the detention of people awaiting a Dublin transfer.</en>
+      <fr>Nous déplorons <DiscourseConnective annotation_id="11151">enfin</DiscourseConnective> l'usage quasi systématique par certains États membres de la détention des personnes en attente d'un transfert Dublin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9913" docOffset="57">
+      <en>We would point out that these people are applying for international protection <Alignment alignment="29526" annotation_id="9992">
+          <DiscourseConnective annotation_id="9992" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that their application has not yet been examined in detail.</en>
+      <fr>Rappelons <DiscourseConnective annotation_id="11285">que</DiscourseConnective> ces personnes demandent une protection internationale <Alignment alignment="9992" annotation_id="11343">
+          <DiscourseConnective annotation_id="11343" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11346">que</DiscourseConnective> leur demande n'a pas <DiscourseConnective annotation_id="11371">encore</DiscourseConnective> fait l'objet d'un examen approfondi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10056" docOffset="58">
+      <en>The evaluation of the Dublin II Regulation must <Alignment alignment="11459" annotation_id="10104">
+          <DiscourseConnective annotation_id="10104" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> allow us to correct the serious shortcomings that we have observed during our visits to the detention centres.</en>
+      <fr>Et l'évaluation du règlement Dublin II doit <Alignment alignment="10104" annotation_id="11459">
+          <DiscourseConnective annotation_id="11459" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> nous permettre de corriger les graves insuffisances <DiscourseConnective annotation_id="11516">que</DiscourseConnective> nous avons pu observer lors de nos visites dans les camps de rétention.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10225" docOffset="59">
+      <en>We have visited numerous detention centres <DiscourseConnective annotation_id="10268" sense="Expansion.Conjunction">and</DiscourseConnective> I must tell you that some of these visits have left us quite disgusted.</en>
+      <fr>En effet, nous avons visité de nombreux camps de rétention et nous sommes revenus, je dois le dire, assez écœurés de certaines visites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10344" docOffset="60">
+      <en>I must remind you that the aim of the Dublin Regulation is to determine the Member State responsible for examining the asylum application.</en>
+      <fr>Je tiens à rappeler <DiscourseConnective annotation_id="11748">que</DiscourseConnective> l'objet du règlement de Dublin est de déterminer l'État membre responsable de la demande d'asile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10483" docOffset="61">
+      <en>The Regulation must allow access to the asylum system and must guarantee that a Member State carries out a detailed examination of every asylum application.</en>
+      <fr>Le règlement doit permettre l'accès au système d'asile <DiscourseConnective annotation_id="11905">et</DiscourseConnective> doit garantir <DiscourseConnective annotation_id="11922">qu'</DiscourseConnective>un État membre effectue un examen approfondi de toute demande d'asile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10640" docOffset="62">
+      <en>The European Union must not ignore its responsibility towards third countries.</en>
+      <fr>L'Union européenne ne doit pas rejeter sa responsabilité vers des pays tiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10719" docOffset="63">
+      <en>It must guarantee protection of the right of asylum.</en>
+      <fr>Elle doit garantir la protection du droit d'asile.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10772" id="109" name="Jeanine Hennis-Plasschaert">
+    <ParallelChunk annotation_id="10772" docOffset="64">
+      <en>on behalf of the ALDE Group. - (NL) Mr President, first of all I should like to thank the rapporteur for what was generally a balanced piece of work.</en>
+      <fr>au nom du groupe ALDE. - (NL) M. le Président, <DiscourseConnective annotation_id="12172">tout d'abord</DiscourseConnective>, je voudrais remercier le rapporteur <DiscourseConnective annotation_id="12222">pour</DiscourseConnective> ce qui a, d'une manière générale, constitué un travail équilibré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10922" docOffset="65">
+      <en>I do not want to split hairs over a few details <Alignment alignment="16385" annotation_id="10970">
+          <DiscourseConnective annotation_id="10970" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Je n'ai <Alignment alignment="10970" annotation_id="12301">
+          <DiscourseConnective annotation_id="12301" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> pas l'intention d'ergoter sur des détails.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10981" docOffset="66">
+      <en>
+        <Alignment alignment="27483" annotation_id="10981">
+          <DiscourseConnective annotation_id="10981" sense="Expansion.Conjunction">Besides</DiscourseConnective>
+        </Alignment>, <Alignment alignment="16551" annotation_id="10990">
+          <DiscourseConnective annotation_id="10990" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we are completely fair, the evaluation is already quite dated.</en>
+      <fr>
+        <Alignment alignment="10981" annotation_id="12353">
+          <DiscourseConnective annotation_id="12353" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+        </Alignment>, <Alignment alignment="10990" annotation_id="12367">
+          <DiscourseConnective annotation_id="12367" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous voulons être tout à fait justes, l'évaluation est <DiscourseConnective annotation_id="12425">déjà</DiscourseConnective> assez dépassée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11056" docOffset="67">
+      <en>Priority number one, at least as far <DiscourseConnective annotation_id="11093" sense="Temporal.Synchrony">as</DiscourseConnective> the Group of the Alliance of Liberals and Democrats for Europe is concerned, is to bring the available data from the Member States up to the same standard.</en>
+      <fr>La priorité numéro un, <DiscourseConnective annotation_id="12469">du moins</DiscourseConnective> <DiscourseConnective annotation_id="12478">en</DiscourseConnective> ce qui concerne le groupe de l'Alliance des libéraux <DiscourseConnective annotation_id="12534">et</DiscourseConnective> des démocrates <DiscourseConnective annotation_id="12552">pour</DiscourseConnective> l'Europe, est de ramener les données disponibles en provenance des États membres au <DiscourseConnective annotation_id="12641">même</DiscourseConnective> standard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11252" docOffset="68">
+      <en>Only <Alignment alignment="24472" annotation_id="11257">
+          <DiscourseConnective annotation_id="11257" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> will a really good, and therefore effective, evaluation be possible.</en>
+      <fr>Ce n'est qu'<Alignment alignment="11257" annotation_id="12668">
+          <DiscourseConnective annotation_id="12668" sense="Temporal.Asynchronous.Precedence">alors qu'</DiscourseConnective>
+        </Alignment>une évaluation réellement bonne, <DiscourseConnective annotation_id="12710">et</DiscourseConnective> <DiscourseConnective annotation_id="12713">par conséquent</DiscourseConnective> efficace, pourra être menée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11331" docOffset="69">
+      <en>The Member States really do need to work on this, with the necessary guidance from the European Commission, of course.</en>
+      <fr>Les États membres doivent réellement travailler sur cet aspect, avec la nécessaire guidance de la Commission européenne, bien sûr.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11450" docOffset="70">
+      <en>It is important to emphasise - and obviously I am making a different distinction here from Martine Roure - the fact that, on the basis of the transfer data obtained, we cannot conclude that the Dublin system as such results in a disproportionate transfer burden for the Member States at Europe's external borders.</en>
+      <fr>Il est important d'insister - <DiscourseConnective annotation_id="12918">et</DiscourseConnective> bien entendu je fais ici une autre distinction par rapport à Martine Roure - sur le fait <DiscourseConnective annotation_id="13010">que</DiscourseConnective>, sur la base des données de transfert obtenues, nous ne pouvons conclure <DiscourseConnective annotation_id="13087">que</DiscourseConnective> le système Dublin en <DiscourseConnective annotation_id="13112">tant que</DiscourseConnective> tel résulte <DiscourseConnective annotation_id="13133">en</DiscourseConnective> un transfert disproportionné de la charge <DiscourseConnective annotation_id="13178">pour</DiscourseConnective> les États membres situés aux frontières extérieures de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11764" docOffset="71">
+      <en>Of course - and that is what the rapporteur and <Alignment alignment="13302" annotation_id="11812">
+          <DiscourseConnective annotation_id="11812" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> what the Commissioner said - the geographical position of these Member States means that they are confronted with a substantial burden.</en>
+      <fr>Bien entendu - <DiscourseConnective annotation_id="13263">et</DiscourseConnective> c'est ce qu'a déclaré le rapporteur <Alignment alignment="11812" annotation_id="13302">
+          <DiscourseConnective annotation_id="13302" sense="Expansion.Conjunction">de même que</DiscourseConnective>
+        </Alignment> le commissaire - la position géographique de ces États membres signifie <DiscourseConnective annotation_id="13386">qu'</DiscourseConnective>ils sont confrontés <DiscourseConnective annotation_id="13409">à</DiscourseConnective> une charge substantielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11953" docOffset="72">
+      <en>That is precisely the reason why the ALDE Group has been arguing all this time for a compulsory burden-sharing mechanism alongside the Dublin system, not only in terms of financial and material resources but also in terms of putting in manpower on the ground.</en>
+      <fr>C'est <DiscourseConnective annotation_id="13443">précisément</DiscourseConnective> la raison pour laquelle le groupe ALDE réclame <DiscourseConnective annotation_id="13502">depuis</DiscourseConnective> toujours un mécanisme de partage obligatoire de la charge conjointement au système Dublin, <DiscourseConnective annotation_id="13600">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="13614">en</DiscourseConnective> termes de ressources financières <DiscourseConnective annotation_id="13650">et</DiscourseConnective> matérielles <DiscourseConnective annotation_id="13665">mais aussi</DiscourseConnective> <DiscourseConnective annotation_id="13676">en</DiscourseConnective> termes d'exploitation de travailleurs au sol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12213" docOffset="73">
+      <en>After all, all 27 Member States are responsible for what is going on at Europe's external borders.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13725">Après tout</DiscourseConnective>, les 27 États membres sont tous responsables de ce qu'il se passe aux frontières extérieures de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12312" docOffset="74">
+      <en>I am <Alignment alignment="13850" annotation_id="12317">
+          <DiscourseConnective annotation_id="12317" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> very intrigued, Commissioner, about what exactly you mean by the possibility of temporary suspension.</en>
+      <fr>Je suis <Alignment alignment="12317" annotation_id="13850">
+          <DiscourseConnective annotation_id="13850" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> très intrigué, commissaire, <DiscourseConnective annotation_id="13888">à propos</DiscourseConnective> de <DiscourseConnective annotation_id="13900">que</DiscourseConnective> vous entendez exactement par la possibilité de suspension temporaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12424" docOffset="75">
+      <en>What does that involve?</en>
+      <fr>
+        <DiscourseConnective annotation_id="13974">Qu'</DiscourseConnective>est-ce que cela implique?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12448" docOffset="76">
+      <en>Does it mean that the asylum seeker can choose the Member State he wants to go to, that he is free to travel on?</en>
+      <fr>Cela signifie-t-il <DiscourseConnective annotation_id="14022">que</DiscourseConnective> le demandeur d'asile peut choisir l'État membre où il veut aller, <DiscourseConnective annotation_id="14092">qu'</DiscourseConnective>il est libre de se rendre où il veut?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12561" docOffset="77">
+      <en>
+        <Alignment alignment="14133" annotation_id="12561">
+          <DiscourseConnective annotation_id="12561" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> it does, that would seriously undermine the political message of the Dublin system.</en>
+      <fr>
+        <Alignment alignment="12561" annotation_id="14133">
+          <DiscourseConnective annotation_id="14133" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> tel est le cas, cela risque de sérieusement compromettre le message politique du système Dublin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12648" docOffset="78">
+      <en>
+        <Alignment alignment="38361" annotation_id="12648">
+          <DiscourseConnective annotation_id="12648" sense="Expansion.Restatement">In short</DiscourseConnective>
+        </Alignment>, just go for the compulsory solidarity mechanism that we have been arguing for all this time.</en>
+      <fr>
+        <Alignment alignment="12648" annotation_id="14233">
+          <DiscourseConnective annotation_id="14233" sense="Expansion.Restatement">Bref</DiscourseConnective>
+        </Alignment>, optons <DiscourseConnective annotation_id="14246">simplement</DiscourseConnective> <DiscourseConnective annotation_id="14257">pour</DiscourseConnective> le mécanisme de solidarité obligatoire <DiscourseConnective annotation_id="14301">pour</DiscourseConnective> lequel nous avons toujours plaidé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12751" docOffset="79">
+      <en>Finally, <Alignment alignment="14348" annotation_id="12760">
+          <DiscourseConnective annotation_id="12760" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the EU wants to retain its credibility, there really does have to be an adequate and consistent level of protection in all 27 Member States.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14341">Enfin</DiscourseConnective>, <Alignment alignment="9379" annotation_id="14348">
+          <DiscourseConnective annotation_id="14348" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'UE peut préserver sa crédibilité, il faut qu'il y ait véritablement un niveau adéquat <DiscourseConnective annotation_id="14439">et</DiscourseConnective> cohérent de protection dans chacun des 27 États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12904" docOffset="80">
+      <en>The importance of a proper common asylum procedure and corresponding status cannot be over-emphasised.</en>
+      <fr>On ne soulignera jamais assez l'importance d'une procédure commune adéquate d'asile <DiscourseConnective annotation_id="14583">et</DiscourseConnective> d'un statut correspondant.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13007" id="110" name="Johannes Blokland">
+    <ParallelChunk annotation_id="13007" docOffset="81">
+      <en>on behalf of the IND/DEM Group. - (NL) Mr President, Mrs Lambert's report should spur us on to deliberate seriously on this issue.</en>
+      <fr>au nom du Groupe IND/DEM. - (NL) M. le Président, le rapport de Mme Lambert devrait nous inciter <DiscourseConnective annotation_id="14710">à</DiscourseConnective> examiner sérieusement cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13138" docOffset="82">
+      <en>The facts that the report describes are worrying.</en>
+      <fr>Les faits relatés dans ce rapport sont préoccupants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13188" docOffset="83">
+      <en>
+        <Alignment alignment="14803" annotation_id="13188">
+          <DiscourseConnective annotation_id="13188" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> the European Commission continues with new initiatives in the area of asylum and legal immigration, it appears that the implementation cannot be controlled.</en>
+      <fr>
+        <Alignment alignment="13188" annotation_id="14803">
+          <DiscourseConnective annotation_id="14803" sense="Comparison.Contrast">Tandis que</DiscourseConnective>
+        </Alignment> la Commission européenne poursuit ses nouvelles initiatives <DiscourseConnective annotation_id="14874">en</DiscourseConnective> matière d'asile <DiscourseConnective annotation_id="14893">et</DiscourseConnective> d'immigration légale, il apparaît <DiscourseConnective annotation_id="14930">que</DiscourseConnective> la mise en œuvre ne peut être maîtrisée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13351" docOffset="84">
+      <en>The cost calculation, data on asylum applications and the handling of personal details are inadequate.</en>
+      <fr>Le calcul des coûts, les données relatives aux demandes d'asile <DiscourseConnective annotation_id="15039">et</DiscourseConnective> le traitement des données personnelles <DiscourseConnective annotation_id="15081">s'</DiscourseConnective>avèrent inadéquats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13454" docOffset="85">
+      <en>I find that a worrying conclusion.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="15112">qu'</DiscourseConnective>il s'agit d'une conclusion inquiétante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13489" docOffset="86">
+      <en>
+        <Alignment alignment="15155" annotation_id="13489">
+          <DiscourseConnective annotation_id="13489" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the Dublin system already does not operate <Alignment alignment="15199" annotation_id="13535">
+          <DiscourseConnective annotation_id="13535" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it should, how will it work with the new initiatives on migration?</en>
+      <fr>
+        <Alignment alignment="13489" annotation_id="15155">
+          <DiscourseConnective annotation_id="15155" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> le système Dublin ne fonctionne <DiscourseConnective annotation_id="15190">déjà</DiscourseConnective> pas <Alignment alignment="13535" annotation_id="15199">
+          <DiscourseConnective annotation_id="15199" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> il le devrait, comment pourrait-il bien fonctionner dans le cadre des nouvelles initiatives sur la migration?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13605" docOffset="87">
+      <en>Can this House rely on the Council and the Commission to make serious work of the cost calculation?</en>
+      <fr>Ce Parlement peut-il compter sur le Conseil <DiscourseConnective annotation_id="15359">et</DiscourseConnective> la Commission <DiscourseConnective annotation_id="15376">pour</DiscourseConnective> mener un travail sérieux en ce qui concerne le calcul des coûts?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13705" docOffset="88">
+      <en>Will the protection of personal data be taken seriously then?</en>
+      <fr>La protection des données personnelles sera-t-elle <DiscourseConnective annotation_id="15497">donc</DiscourseConnective> prise sérieusement en compte?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13767" docOffset="89">
+      <en>I am very keen to hear what conclusion the Council draws from Mrs Lambert's report.</en>
+      <fr>J'aimerais beaucoup savoir quelle est la conclusion que le Conseil tire du rapport de Mme Lambert.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13851" docOffset="90">
+      <en>It is clear to me that the Dublin system is not perfect yet.</en>
+      <fr>Il est clair <DiscourseConnective annotation_id="15644">à</DiscourseConnective> mes yeux <DiscourseConnective annotation_id="15655">que</DiscourseConnective> le système Dublin n'est pas <DiscourseConnective annotation_id="15687">encore</DiscourseConnective> parfait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13912" docOffset="91">
+      <en>Can the Council investigate whether the exchange of data will work properly with the new initiatives on asylum and migration?</en>
+      <fr>Le Conseil pourrait-il <DiscourseConnective annotation_id="15726">s'</DiscourseConnective>assurer que l'échange de données fonctionnera correctement dans le cadre des nouvelles initiatives sur l'asile <DiscourseConnective annotation_id="15839">et</DiscourseConnective> la migration?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14038" id="111" name="Stavros Lambrinidis">
+    <ParallelChunk annotation_id="14038" docOffset="92">
+      <en>(EL) Mr President, the Dublin II system for granting asylum should, at long last, be revised.</en>
+      <fr>(EL) M. le Président, le système Dublin II d'octroi d'asile doit, <DiscourseConnective annotation_id="15922">finalement</DiscourseConnective>, être révisé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14132" docOffset="93">
+      <en>Firstly, it is not truly European: it does not guarantee genuine solidarity and support for those Member States that receive a disproportionate number of asylum seekers owing to their geographical location.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15947">Premièrement</DiscourseConnective>, il n'est pas véritablement européen: il ne garantit pas une solidarité <DiscourseConnective annotation_id="16032">et</DiscourseConnective> un soutien véritables aux États membres qui reçoivent un nombre disproportionné de demandeurs d'asile en raison de leur localisation géographique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14339" docOffset="94">
+      <en>The second and more important reason why it should be revised is that such disproportionate numbers often directly threaten the humanitarian principles and the obligation to treat people arriving at our borders in search of protection with dignity.</en>
+      <fr>La seconde <DiscourseConnective annotation_id="16193">et</DiscourseConnective> plus importante raison pour laquelle il doit être révisé est <DiscourseConnective annotation_id="16257">que</DiscourseConnective> ces nombres disproportionnés de demandeurs d'asile constituent souvent une menace directe aux principes humanitaires <DiscourseConnective annotation_id="16378">et</DiscourseConnective> à l'obligation de traiter les personnes arrivant <DiscourseConnective annotation_id="16430">à</DiscourseConnective> nos frontières <DiscourseConnective annotation_id="16447">en</DiscourseConnective> quête de protection avec dignité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14588" docOffset="95">
+      <en>We know that occasionally many Member States are either perfectly reasonably unable to fulfil their obligations according to the regulation <Alignment alignment="16617" annotation_id="14728">
+          <DiscourseConnective annotation_id="14728" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment>, in the worst case, they hide behind a lack of European solidarity to justify even extreme violations of human rights committed by their authorities.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="16496">que</DiscourseConnective> nombre d'États membres sont parfois <DiscourseConnective annotation_id="16536">soit</DiscourseConnective> parfaitement incapables de remplir leurs obligations découlant du règlement <Alignment alignment="14728" annotation_id="16617">
+          <DiscourseConnective annotation_id="16617" sense="Expansion.Alternative">soit</DiscourseConnective>
+        </Alignment>, dans le pire des cas, se retranchent derrière le manque de solidarité européenne <DiscourseConnective annotation_id="16704">pour</DiscourseConnective> justifier des violations parfois extrêmes des droits humains commises par leurs autorités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14881" docOffset="96">
+      <en>Practices such as detaining minors in unacceptable conditions and the wholesale rejection of asylum applications on political grounds are not justified by any lack of solidarity.</en>
+      <fr>Les pratiques consistant à maintenir <DiscourseConnective annotation_id="16837">en</DiscourseConnective> détention des mineurs dans des conditions inacceptables <DiscourseConnective annotation_id="16896">et</DiscourseConnective> le rejet systématique de demandes d'asile <DiscourseConnective annotation_id="16941">pour</DiscourseConnective> motifs politiques ne peuvent en aucune manière se justifier par un manque de solidarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15060" docOffset="97">
+      <en>We <Alignment alignment="17057" annotation_id="15063">
+          <DiscourseConnective annotation_id="15063" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> know, <Alignment alignment="32694" annotation_id="15074">
+          <DiscourseConnective annotation_id="15074" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that other Member States that do not face such problems consider their humanitarian obligation fulfilled <DiscourseConnective annotation_id="15188" sense="Contingency.Condition">if</DiscourseConnective> they accuse other states.</en>
+      <fr>Nous savons <Alignment alignment="15074" annotation_id="17047">
+          <DiscourseConnective annotation_id="17047" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> <Alignment alignment="6232" annotation_id="17057">
+          <DiscourseConnective annotation_id="17057" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17063">que</DiscourseConnective> d'autres États membres qui ne sont pas confrontés à ce genre de problèmes considèrent qu'ils remplissent leurs obligations humanitaires en accusant les autres États.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15217" docOffset="98">
+      <en>We hear nothing about solidarity, <Alignment alignment="17260" annotation_id="15251">
+          <DiscourseConnective annotation_id="15251" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Mais nous ne les entendons <Alignment alignment="15251" annotation_id="17260">
+          <DiscourseConnective annotation_id="17260" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> pas quand il s'agit de solidarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15260" docOffset="99">
+      <en>
+        <DiscourseConnective annotation_id="15260" sense="Contingency.Cause.Result">Thus</DiscourseConnective> Dublin II has in practice led to a series of accusations and counter-accusations between Member States.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17305">En</DiscourseConnective> pratique, Dublin II a ainsi débouché sur une série d'accusations <DiscourseConnective annotation_id="17373">et</DiscourseConnective> de contre-accusations entre États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15369" docOffset="100">
+      <en>The only real losers are the asylum seekers.</en>
+      <fr>Mais les seuls vrais perdants sont les demandeurs d'asile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15414" docOffset="101">
+      <en>It is <Alignment alignment="20711" annotation_id="15420">
+          <DiscourseConnective annotation_id="15420" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> of crucial importance to establish a genuine common European asylum system.</en>
+      <fr>Il est <Alignment alignment="15420" annotation_id="17485">
+          <DiscourseConnective annotation_id="17485" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> crucial d'instaurer un véritable système européen commun en matière d'asile.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15506" id="113" name="President">
+    <ParallelChunk annotation_id="15506" docOffset="102">
+      <en>The debate will be resumed after the debate on Georgia.</en>
+      <fr>(DE) Ce débat reprendra <DiscourseConnective annotation_id="17595">après</DiscourseConnective> le débat sur la Géorgie.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

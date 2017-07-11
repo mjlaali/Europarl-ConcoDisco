@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Situation in Bangladesh (vote)</en>
+    <fr>Situation au Bangladesh (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="34" docOffset="2">
+    <en>Before the vote on the first part of Recital K</en>
+    <fr>(FR) Avant le vote sur la première partie du considérant K</fr>
+  </ParallelChunk>
+<Speaker annotation_id="81" id="302" name="Thomas Mann">
+    <ParallelChunk annotation_id="81" docOffset="3">
+      <en>(DE) Mr President, just a small thing - that we replace 'at 21 December 2008' with 'for the third week of December 2008'.</en>
+      <fr>(DE) Monsieur le Président, juste une petite chose. Par souci d'exactitude, je demande <DiscourseConnective annotation_id="180">que</DiscourseConnective> nous remplacions "le 21 décembre 2008" par "la troisième semaine de décembre 2008".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="203" docOffset="4">
+      <en>This would <DiscourseConnective annotation_id="214" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> be the exact date. It is a small thing, <Alignment alignment="110121" annotation_id="259">
+          <DiscourseConnective annotation_id="259" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we should be true to the facts.</en>
+      <fr>C'est un détail, <Alignment alignment="311" annotation_id="285">
+          <DiscourseConnective annotation_id="285" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il est important d'être fidèle <DiscourseConnective annotation_id="321">à</DiscourseConnective> la réalité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="295" docOffset="5">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(FR) (L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

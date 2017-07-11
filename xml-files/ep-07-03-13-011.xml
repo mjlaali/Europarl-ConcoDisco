@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Approval of Minutes of previous sitting</en>
+    <fr>Approbation du procès-verbal de la séance précédente</fr>
+  </ParallelChunk>
+<Speaker annotation_id="40" id="146" name="President">
+    <ParallelChunk annotation_id="40" docOffset="1">
+      <en>Yesterday's Minutes have been distributed.</en>
+      <fr>Le procès-verbal d'hier a été distribué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="83" docOffset="2">
+      <en>Are there any comments?</en>
+      <fr>Y a-t-il des observations?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="107" id="147" name="Richard Corbett">
+    <ParallelChunk annotation_id="107" docOffset="3">
+      <en>Mr President, Item 13 of the Minutes refers to a Member changing political group to join the ITS Group.</en>
+      <fr>(EN) Monsieur le Président, le point 13 du procès-verbal signale <DiscourseConnective annotation_id="186">qu'</DiscourseConnective>un membre de l'Assemblée change de groupe politique <DiscourseConnective annotation_id="241">pour</DiscourseConnective> rejoindre le groupe ITS.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="211" docOffset="4">
+      <en>It makes no reference to Mr Wise leaving the IND/DEM Group <Alignment alignment="334" annotation_id="270">
+          <DiscourseConnective annotation_id="270" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wondered whether this was a mistake.</en>
+      <fr>Il ne mentionne pas que M. Wise quitte le groupe IND/DEM Group <Alignment alignment="270" annotation_id="334">
+          <DiscourseConnective annotation_id="334" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je me demandais <DiscourseConnective annotation_id="353">s'</DiscourseConnective>il s'agissait là d'une erreur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="313" docOffset="5">
+      <en>I understand his party, the UK Independence Party, has suspended him pending the investigations into alleged fraud in his case.</en>
+      <fr>Je crois savoir que son parti, le UK Independence Party, l'a suspendu pour la durée de l'enquête dont il fait l'objet pour fraude présumée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="441" docOffset="6">
+      <en>Does this not mean that his group has <Alignment alignment="571" annotation_id="479">
+          <DiscourseConnective annotation_id="479" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> suspended him, <Alignment alignment="590" annotation_id="499">
+          <DiscourseConnective annotation_id="499" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> was the press campaign deliberately misleading?</en>
+      <fr>Cela ne signifie-t-il pas <DiscourseConnective annotation_id="552">que</DiscourseConnective> son groupe l'a <Alignment alignment="479" annotation_id="571">
+          <DiscourseConnective annotation_id="571" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> suspendu <Alignment alignment="499" annotation_id="590">
+          <DiscourseConnective annotation_id="590" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> la campagne de presse a-t-elle été délibérément trompeuse?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="550" id="148" name="President">
+    <ParallelChunk annotation_id="550" docOffset="7">
+      <en>I think your point is made, Mr Corbett.</en>
+      <fr>Je pense que nous vous avons compris, Monsieur Corbett.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="590" docOffset="8">
+      <en>We will look into it.</en>
+      <fr>Nous examinerons cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="612" docOffset="9">
+      <en>(The Minutes of the previous sitting were approved)</en>
+      <fr>(Le procès-verbal de la séance précédente est approuvé)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

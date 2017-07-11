@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Approval of the minutes of the previous sitting: see Minutes</en>
+    <fr>Approbation du procès-verbal de la séance précédente: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="61" id="303" name="President">
+    <ParallelChunk annotation_id="61" docOffset="1">
+      <en>The Minutes for yesterday have been distributed.</en>
+      <fr>Le procès-verbal d'hier a été distribué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="110" docOffset="2">
+      <en>Are there any comments?</en>
+      <fr>Y a-t-il des observations?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="134" id="304" name="José Ribeiro e Castro">
+    <ParallelChunk annotation_id="134" docOffset="3">
+      <en>(FR) Madam President, I ask the Members to allow me to take up a few minutes of their time.</en>
+      <fr>Madame la Présidente, je demande aux collègues de bien vouloir m'excuser de prendre quelques minutes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="226" docOffset="4">
+      <en>I would like to speak on the subject of China.</en>
+      <fr>Je souhaiterais intervenir <DiscourseConnective annotation_id="270">à propos</DiscourseConnective> de la Chine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="273" docOffset="5">
+      <en>There was a motion for a resolution for today on China, on the case of Mr Gao Zhisheng, a well-known lawyer who is under arrest.</en>
+      <fr>Il y avait une proposition de résolution <DiscourseConnective annotation_id="333">pour</DiscourseConnective> aujourd'hui sur la Chine, sur le cas de M. Gao Zhisheng, un avocat très connu, qui a été arrêté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="402" docOffset="6">
+      <en>There are fears that he will be tortured; his family has just been allowed entry to the United States <Alignment alignment="3324" annotation_id="504">
+          <DiscourseConnective annotation_id="504" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are fears for his life.</en>
+      <fr>On craint <DiscourseConnective annotation_id="445">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="451">soit</DiscourseConnective> torturé; sa famille vient d'être accueillie aux États-Unis <Alignment alignment="831" annotation_id="515">
+          <DiscourseConnective annotation_id="515" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on craint <DiscourseConnective annotation_id="528">pour</DiscourseConnective> sa vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="538" docOffset="7">
+      <en>Unfortunately, <DiscourseConnective annotation_id="553" sense="Comparison.Contrast">though</DiscourseConnective>, <DiscourseConnective annotation_id="561" sense="Temporal.Synchrony">as</DiscourseConnective> only three subjects may be dealt with, the motion relating to Mr Gao Zhisheng could not be included.</en>
+      <fr>Mais <DiscourseConnective annotation_id="546">malheureusement</DiscourseConnective>, parce que l'on ne peut aborder que trois sujets, la proposition qui avait trait <DiscourseConnective annotation_id="643">à</DiscourseConnective> M. Gao Zhisheng n'a pu être retenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="665" docOffset="8">
+      <en>We did intend to move it in the March II session.</en>
+      <fr>Nous avions l'intention de la proposer <DiscourseConnective annotation_id="721">pour</DiscourseConnective> la séance de mars II.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="715" docOffset="9">
+      <en>Now, we have been told that there will be no urgent matters in March II <Alignment alignment="814" annotation_id="787">
+          <DiscourseConnective annotation_id="787" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, according to the rules, <Alignment alignment="660" annotation_id="820">
+          <DiscourseConnective annotation_id="820" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> there are two plenary sessions in the same month, there can be no urgent matters in the second.</en>
+      <fr>
+        <DiscourseConnective annotation_id="748">Or</DiscourseConnective>, il nous a été dit <DiscourseConnective annotation_id="770">qu'en</DiscourseConnective> mars II, il n'y aurait pas d'urgences <Alignment alignment="787" annotation_id="814">
+          <DiscourseConnective annotation_id="814" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> selon la règle, <Alignment alignment="820" annotation_id="840">
+          <DiscourseConnective annotation_id="840" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> il y a deux séances plénières dans le <DiscourseConnective annotation_id="884">même</DiscourseConnective> mois, il n'y a pas d'urgences dans la deuxième.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="921" docOffset="10">
+      <en>I question this interpretation.</en>
+      <fr>Je doute de cette interprétation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="953" docOffset="11">
+      <en>
+        <Alignment alignment="365" annotation_id="953">
+          <Alignment alignment="971" annotation_id="953">
+            <DiscourseConnective annotation_id="953" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, this interpretation refers to the double sessions in September and, prior to that, in October, during which the budget was discussed.</en>
+      <fr>
+        <Alignment alignment="953" annotation_id="971">
+          <Alignment alignment="953" annotation_id="971">
+            <DiscourseConnective annotation_id="971" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+          </Alignment>
+        </Alignment>, cette interprétation a trait aux doubles séances de septembre <DiscourseConnective annotation_id="1043">et</DiscourseConnective>, <DiscourseConnective annotation_id="1047">auparavant</DiscourseConnective>, d'octobre, au cours desquelles le budget était discuté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1096" docOffset="12">
+      <en>The fact that there are two sessions in March is due to the elections; it is a totally exceptional case.</en>
+      <fr>Le fait <DiscourseConnective annotation_id="1123">qu'</DiscourseConnective>il y ait deux séances au mois de mars est dû aux élections; c'est un cas tout à fait exceptionnel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1201" docOffset="13">
+      <en>This means that we can only deal with human rights issues at the end of April, which is too late.</en>
+      <fr>Cela signifie <DiscourseConnective annotation_id="1239">qu'</DiscourseConnective>on ne pourrait traiter les sujets relatifs aux droits de l'homme qu'à la fin du mois d'avril, ce qui est trop tard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1299" docOffset="14">
+      <en>I <Alignment alignment="4013" annotation_id="1301">
+          <DiscourseConnective annotation_id="1301" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask the Presidency, first, to examine this question and, secondly, to express our immense concern about the case to the Chinese embassy - I can provide you with Mr Gao Zhisheng's case for this purpose - <Alignment alignment="39" annotation_id="1514">
+          <DiscourseConnective annotation_id="1514" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> nobody really knows his whereabouts <Alignment alignment="577020" annotation_id="1553">
+          <DiscourseConnective annotation_id="1553" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are fears that he may be tortured <Alignment alignment="1690" annotation_id="1597">
+          <DiscourseConnective annotation_id="1597" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> his life put in danger.</en>
+      <fr>Je prie <Alignment alignment="1426" annotation_id="1366">
+          <DiscourseConnective annotation_id="1366" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> la Présidence, <DiscourseConnective annotation_id="1386">premièrement</DiscourseConnective>, de bien examiner cette question <DiscourseConnective annotation_id="1432">et</DiscourseConnective>, <DiscourseConnective annotation_id="1436">deuxièmement</DiscourseConnective>, d'exprimer auprès de l'ambassade de Chine notre immense préoccupation à son égard - <DiscourseConnective annotation_id="1534">à</DiscourseConnective> cet effet, je peux vous faire parvenir le cas de M. Gao Zhisheng -, <Alignment alignment="0" annotation_id="1604">
+          <DiscourseConnective annotation_id="1604" sense="Temporal.Synchrony">parce que</DiscourseConnective>
+        </Alignment> personne ne sait réellement où il se trouve <Alignment alignment="1042" annotation_id="1658">
+          <DiscourseConnective annotation_id="1658" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on craint <DiscourseConnective annotation_id="1671">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="1677">soit</DiscourseConnective> torturé <Alignment alignment="1597" annotation_id="1690">
+          <DiscourseConnective annotation_id="1690" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que sa vie <DiscourseConnective annotation_id="1704">soit</DiscourseConnective> <DiscourseConnective annotation_id="1709">en</DiscourseConnective> danger.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Improving the efficiency of the enforcement of judgments in the EU: attachment of bank accounts (debate)</en>
+    <fr>Amélioration de l'exécution des décisions de justice au sein de l'Union européenne: la saisie des avoirs bancaires (Livre vert) (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="105" id="483" name="President">
+    <ParallelChunk annotation_id="105" docOffset="1">
+      <en>The next item is the report by Mr Lechner, on behalf of the Committee on Legal Affairs, on the Green Paper on improving the efficiency of the enforcement of judgments in the European Union: the attachment of bank accounts.</en>
+      <fr>L'ordre du jour appelle le rapport de Kurt Lechner, au nom de la commission des affaires juridiques, sur le Livre vert sur l'amélioration de l'exécution des décisions de justice au sein de l'Union européenne: la saisie des avoirs bancaires.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="328" id="484" name="Kurt Lechner">
+    <ParallelChunk annotation_id="328" docOffset="2">
+      <en>rapporteur. - (DE) Madam President, that was an interesting debate.</en>
+      <fr>rapporteur. - (DE) Madame la Présidente, ce débat était très intéressant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="396" docOffset="3">
+      <en>We now move on to a very different subject area.</en>
+      <fr>Nous passons <DiscourseConnective annotation_id="464">à</DiscourseConnective> présent <DiscourseConnective annotation_id="474">à</DiscourseConnective> un sujet très différent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="445" docOffset="4">
+      <en>We will see <Alignment alignment="514" annotation_id="457">
+          <DiscourseConnective annotation_id="457" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we can achieve an outcome sooner or later.</en>
+      <fr>Nous verrons <Alignment alignment="497" annotation_id="514">
+          <DiscourseConnective annotation_id="514" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous pouvons arriver à un <DiscourseConnective annotation_id="543">résultat</DiscourseConnective> tôt <DiscourseConnective annotation_id="556">ou</DiscourseConnective> tard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="503" docOffset="5">
+      <en>There is a saying which, I presume, is understood throughout Europe, namely that money does not bring happiness, <Alignment alignment="678" annotation_id="616">
+          <DiscourseConnective annotation_id="616" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it does bring peace of mind.</en>
+      <fr>Il y a un dicton qui, je suppose, est compris dans toute l'Europe, à savoir <DiscourseConnective annotation_id="641">que</DiscourseConnective> l'argent ne fait pas le bonheur, <Alignment alignment="8632" annotation_id="678">
+          <DiscourseConnective annotation_id="678" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il permet d'avoir l'esprit tranquille.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="649" docOffset="6">
+      <en>In that spirit, let me start by wishing all our citizens in Europe peace of mind.</en>
+      <fr>Dans cet esprit, permettez-moi de souhaiter à tous nos concitoyens <DiscourseConnective annotation_id="789">en</DiscourseConnective> Europe d'avoir l'esprit tranquille.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="731" docOffset="7">
+      <en>
+        <Alignment alignment="828" annotation_id="731">
+          <DiscourseConnective annotation_id="731" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="3168" annotation_id="740">
+          <DiscourseConnective annotation_id="740" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you are owed money by another person, <Alignment alignment="26216" annotation_id="781">
+          <DiscourseConnective annotation_id="781" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> someone owes you money from a sale, damages or similar, this often gives cause for concern rather than peace of mind.</en>
+      <fr>
+        <Alignment alignment="731" annotation_id="828">
+          <DiscourseConnective annotation_id="828" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <Alignment alignment="15776" annotation_id="839">
+          <DiscourseConnective annotation_id="839" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> une autre personne vous doit de l'argent, <Alignment alignment="781" annotation_id="884">
+          <DiscourseConnective annotation_id="884" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> quelqu'un vous doit de l'argent à la suite d'une vente, d'un préjudice <DiscourseConnective annotation_id="958">ou</DiscourseConnective> autre, cela est plus souvent source d'inquiétude <DiscourseConnective annotation_id="1010">que</DiscourseConnective> de tranquillité d'esprit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="902" docOffset="8">
+      <en>Will the debtor evade his commitments?</en>
+      <fr>Le débiteur va-t-il se soustraire à ses engagements?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="941" docOffset="9">
+      <en>Will he conceal his money or his assets, perhaps at an even later hour than our debate this evening?</en>
+      <fr>Va-t-il dissimiler son argent <DiscourseConnective annotation_id="1123">ou</DiscourseConnective> ses avoirs, peut-être <DiscourseConnective annotation_id="1148">à</DiscourseConnective> une heure <DiscourseConnective annotation_id="1160">encore</DiscourseConnective> plus avancée <DiscourseConnective annotation_id="1180">que</DiscourseConnective> notre débat de ce soir?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1042" docOffset="10">
+      <en>All Member States have procedures which aim to prevent this from occurring.</en>
+      <fr>Tous les États membres disposent de procédures qui visent <DiscourseConnective annotation_id="1266">à</DiscourseConnective> empêcher ce genre de choses de se produire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1118" docOffset="11">
+      <en>They include attachments, injunctions, arrest and seizure: there are many different terms.</en>
+      <fr>Celles-ci comprennent des saisies, des injonctions, des arrestations <DiscourseConnective annotation_id="1381">et</DiscourseConnective> des confiscations: il y a beaucoup de termes différents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1209" docOffset="12">
+      <en>Procedures vary very widely <Alignment alignment="1475" annotation_id="1237">
+          <DiscourseConnective annotation_id="1237" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the situation is extremely complicated, <Alignment alignment="1519" annotation_id="1281">
+          <DiscourseConnective annotation_id="1281" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there is of course the language issue as well.</en>
+      <fr>Les procédures varient énormément <Alignment alignment="1237" annotation_id="1475">
+          <DiscourseConnective annotation_id="1475" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la situation est extrêmement compliquée, <Alignment alignment="1281" annotation_id="1519">
+          <DiscourseConnective annotation_id="1519" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il y <DiscourseConnective annotation_id="1527">aussi</DiscourseConnective> le problème de la langue, bien sûr.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1332" docOffset="13">
+      <en>Anyone wishing to make use of Member States' various cross-border procedures may well find that the horse has bolted, <Alignment alignment="31153" annotation_id="1450">
+          <DiscourseConnective annotation_id="1450" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> <Alignment alignment="1710" annotation_id="1453">
+          <DiscourseConnective annotation_id="1453" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we say in Germany, the hare is already on the other side of the hill.</en>
+      <fr>Quiconque veut recourir aux différentes procédures transfrontalières des États membres pourrait bien découvrir <DiscourseConnective annotation_id="1680">que</DiscourseConnective> le cheval s'est sauvé <Alignment alignment="1450" annotation_id="1706">
+          <DiscourseConnective annotation_id="1706" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1453" annotation_id="1710">
+          <DiscourseConnective annotation_id="1710" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous disons <DiscourseConnective annotation_id="1728">en</DiscourseConnective> Allemagne, que le lièvre est <DiscourseConnective annotation_id="1760">déjà</DiscourseConnective> <DiscourseConnective annotation_id="1765">de l'autre côté</DiscourseConnective> de la colline.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1526" docOffset="14">
+      <en>
+        <Alignment alignment="1796" annotation_id="1526">
+          <DiscourseConnective annotation_id="1526" sense="Expansion.Restatement">In other words</DiscourseConnective>
+        </Alignment>, the debtor has had time to hide his assets.</en>
+      <fr>
+        <Alignment alignment="1526" annotation_id="1796">
+          <DiscourseConnective annotation_id="1796" sense="Expansion.Restatement">Autrement dit</DiscourseConnective>
+        </Alignment>, que le débiteur a eu <DiscourseConnective annotation_id="1832">le temps de</DiscourseConnective> dissimuler ses avoirs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1586" docOffset="15">
+      <en>This is now a widespread problem across Europe's borders, <Alignment alignment="1949" annotation_id="1644">
+          <DiscourseConnective annotation_id="1644" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is becoming increasingly pressing given that we are all aiming for a single payment area with cash-free transactions.</en>
+      <fr>C'est actuellement un problème très répandu à travers les frontières européennes, <Alignment alignment="1644" annotation_id="1949">
+          <DiscourseConnective annotation_id="1949" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il devient de plus <DiscourseConnective annotation_id="1971">en plus</DiscourseConnective> pressant, <DiscourseConnective annotation_id="1989">étant donné que</DiscourseConnective> nous aspirons tous <DiscourseConnective annotation_id="2024">à</DiscourseConnective> une zone de paiement unique avec des transactions immatérielles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1769" docOffset="16">
+      <en>That means that the opportunities to hide assets on the other side of the hill are steadily growing.</en>
+      <fr>Cela signifie <DiscourseConnective annotation_id="2105">que</DiscourseConnective> les possibilités de dissimuler des avoirs <DiscourseConnective annotation_id="2151">de l'autre côté</DiscourseConnective> de la colline sont de plus en plus nombreuses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1870" docOffset="17">
+      <en>That is why the Commission has taken the initiative and, I would emphasise, is quite right to do so.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2214">C'est pourquoi</DiscourseConnective> la Commission a pris l'initiative <DiscourseConnective annotation_id="2263">et</DiscourseConnective>, je tiens à le souligner, a tout à fait raison de le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1971" docOffset="18">
+      <en>It has presented a very good Green Paper which is comprehensive and detailed, albeit with some points which will undoubtedly require further clarification.</en>
+      <fr>Elle a présenté un très bon livre vert, qui est complet <DiscourseConnective annotation_id="2382">et</DiscourseConnective> détaillé, <DiscourseConnective annotation_id="2395">même si</DiscourseConnective> certains points nécessiteront sans doute des éclaircissements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2127" docOffset="19">
+      <en>That is still ahead of us and is the purpose of the hearing.</en>
+      <fr>Nous n'en sommes pas <DiscourseConnective annotation_id="2487">encore</DiscourseConnective> là, <DiscourseConnective annotation_id="2498">et</DiscourseConnective> c'est le but de l'audition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2188" docOffset="20">
+      <en>At this stage, the European Parliament cannot deal with all aspects in detail, <Alignment alignment="26048" annotation_id="2267">
+          <DiscourseConnective annotation_id="2267" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> neither can I, <Alignment alignment="2628" annotation_id="2286">
+          <DiscourseConnective annotation_id="2286" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I shall simply mention some of the key points.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2529">À</DiscourseConnective> ce stade, le Parlement européen ne peut pas traiter tous les aspects <DiscourseConnective annotation_id="2600">en</DiscourseConnective> détail, <Alignment alignment="9207" annotation_id="2611">
+          <DiscourseConnective annotation_id="2611" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> moi non plus, <Alignment alignment="5402" annotation_id="2628">
+          <DiscourseConnective annotation_id="2628" sense="Contingency.Cause.Result">alors</DiscourseConnective>
+        </Alignment> je me contenterai de mentionner quelques-uns des points clés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2336" docOffset="21">
+      <en>First of all, <Alignment alignment="2710" annotation_id="2350">
+          <DiscourseConnective annotation_id="2350" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> this can really be taken for granted, the report is only about the attachment of bank accounts and temporarily freezing bank deposits.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2696">Tout d'abord</DiscourseConnective>, <Alignment alignment="8138" annotation_id="2710">
+          <DiscourseConnective annotation_id="2710" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> cela aille de soi, le rapport ne porte <DiscourseConnective annotation_id="2758">que</DiscourseConnective> sur la saisie <DiscourseConnective annotation_id="2776">et</DiscourseConnective> le gel temporaire des avoirs bancaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2494" docOffset="22">
+      <en>It is not about final settlement.</en>
+      <fr>Il ne porte pas sur le règlement définitif de la créance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2528" docOffset="23">
+      <en>Secondly, it is only about financial assets held in bank accounts.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2877">Deuxièmement</DiscourseConnective>, il ne porte <DiscourseConnective annotation_id="2903">que</DiscourseConnective> sur les avoirs financiers détenus sur des comptes bancaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2595" docOffset="24">
+      <en>It does not deal with injunctions or the attachment of other assets.</en>
+      <fr>Il ne porte pas sur les injonctions <DiscourseConnective annotation_id="3004">ou</DiscourseConnective> la saisie d'autres avoirs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2664" docOffset="25">
+      <en>That raises the question of whether our purposes would really be served through the harmonisation of 27 different systems.</en>
+      <fr>Il soulève la question de savoir s'il serait vraiment utile d'harmoniser 27 systèmes différents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2787" docOffset="26">
+      <en>In my view, that would be an extremely unwieldy approach and would take forever to achieve.</en>
+      <fr>Ce serait, selon moi, une approche extrêmement peu maniable <DiscourseConnective annotation_id="3191">et</DiscourseConnective> qui prendrait une éternité <DiscourseConnective annotation_id="3221">à</DiscourseConnective> mettre en œuvre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2879" docOffset="27">
+      <en>It encroaches on so many other areas that it would not be helpful.</en>
+      <fr>Elle empiète sur tellement d'autres domaines <DiscourseConnective annotation_id="3285">qu'</DiscourseConnective>elle ne serait pas utile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2946" docOffset="28">
+      <en>The right approach is what the Commission has in mind: an independent and additional European procedure, preferably in the form of a regulation, to exist in parallel to the national provisions, which would remain in force.</en>
+      <fr>La bonne approche est celle <DiscourseConnective annotation_id="3342">que</DiscourseConnective> la Commission a <DiscourseConnective annotation_id="3362">en</DiscourseConnective> tête: une procédure européenne autonome <DiscourseConnective annotation_id="3405">et</DiscourseConnective> complémentaire, de préférence sous la forme d'un règlement, qui existerait <DiscourseConnective annotation_id="3483">en</DiscourseConnective> parallèle des dispositions nationales, qui resteraient <DiscourseConnective annotation_id="3541">en</DiscourseConnective> vigueur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3169" docOffset="29">
+      <en>I should <Alignment alignment="3577" annotation_id="3178">
+          <DiscourseConnective annotation_id="3178" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> mention the 'Brussels I' Regulation at this juncture.</en>
+      <fr>Je devrais, <DiscourseConnective annotation_id="3565">à</DiscourseConnective> ce stade, <Alignment alignment="3178" annotation_id="3577">
+          <DiscourseConnective annotation_id="3577" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> mentionner le règlement "Bruxelles I".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3237" docOffset="30">
+      <en>The Regulation which already exists is not adequate.</en>
+      <fr>Le règlement qui existe n'est pas adéquat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3290" docOffset="31">
+      <en>The creditor must not only demonstrate credibly and summarily that he has a claim but must <Alignment alignment="3764" annotation_id="3381">
+          <DiscourseConnective annotation_id="3381" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> demonstrate the risk.</en>
+      <fr>Le créancier doit <DiscourseConnective annotation_id="3687">non seulement</DiscourseConnective> démontrer de manière crédible <DiscourseConnective annotation_id="3731">et</DiscourseConnective> sommaire <DiscourseConnective annotation_id="3743">qu'</DiscourseConnective>il a une créance, <Alignment alignment="3381" annotation_id="3764">
+          <DiscourseConnective annotation_id="3764" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+        </Alignment> démontrer le risque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3408" docOffset="32">
+      <en>Our particular concern, which I share, is to protect the creditor.</en>
+      <fr>Notre principal souci, <DiscourseConnective annotation_id="3819">que</DiscourseConnective> je partage, est de protéger le créancier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3475" docOffset="33">
+      <en>What I do not want, under any circumstances, is a situation in which creditors or third parties suffer harm precisely <Alignment alignment="3982" annotation_id="3593">
+          <DiscourseConnective annotation_id="3593" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we have a European regulation.</en>
+      <fr>Ce que je ne veux <DiscourseConnective annotation_id="3883">en</DiscourseConnective> aucun cas, c'est une situation dans laquelle des créanciers <DiscourseConnective annotation_id="3946">ou</DiscourseConnective> des tiers sont lésés <DiscourseConnective annotation_id="3970">précisément</DiscourseConnective> <Alignment alignment="3593" annotation_id="3982">
+          <DiscourseConnective annotation_id="3982" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous avons mis en place une réglementation européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3632" docOffset="34">
+      <en>That would reverberate on Europe itself.</en>
+      <fr>Cela se répercuterait sur l'Europe elle-même.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3673" docOffset="35">
+      <en>In some cases, attachment without just cause can destroy a person's livelihood.</en>
+      <fr>Dans certains cas, une saisie injustifiée peut détruire l'existence d'une personne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3753" docOffset="36">
+      <en>I would simply like to mention the main points: that a creditor may be liable for damages arising for the debtor, that the creditor should be obliged to institute the main proceedings within a fixed time limit, that the creditor may be required to provide security, that the debtor should be entitled to appeal, that a procedure should not be selected which takes an eternity <DiscourseConnective annotation_id="4129" sense="Comparison.Contrast">but</DiscourseConnective> which is broadly in line with the previous proceedings, that there should be provisions preventing too much money being frozen for the benefit of the creditor, <DiscourseConnective annotation_id="4293" sense="Expansion.Conjunction">and</DiscourseConnective> that the debtor must be guaranteed the wherewithal to live on.</en>
+      <fr>Je voudrais simplement mentionner les points principaux: qu'un créancier pourrait être responsable des préjudices causés au débiteur, que le créancier devrait être obligé d'introduire la procédure sur le fond dans un délai donné, que le créancier pourrait être tenu de constituer une garantie, que le débiteur devrait avoir le droit d'introduire un recours, qu'une procédure qui prend une éternité, mais qui est largement conforme à la procédure précédente, ne devrait pas être choisie, qu'il devrait exister des dispositions empêchant une surassurance du créancier, et que le débiteur doit se voir garantir le maintien du minimum vital permettant de subvenir à ses besoins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4360" docOffset="37">
+      <en>There is the problem of trust accounts.</en>
+      <fr>Il y a le problème des comptes de mandataire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4400" docOffset="38">
+      <en>
+        <Alignment alignment="4898" annotation_id="4400">
+          <DiscourseConnective annotation_id="4400" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there is to be any possibility of attachment here - <Alignment alignment="60470" annotation_id="4455">
+          <DiscourseConnective annotation_id="4455" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I will leave that open - they certainly need to be specially protected.</en>
+      <fr>
+        <Alignment alignment="4400" annotation_id="4898">
+          <DiscourseConnective annotation_id="4898" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il doit y avoir une possibilité de saisie dans ce domaine - <Alignment alignment="6418" annotation_id="4960">
+          <DiscourseConnective annotation_id="4960" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je laisserai cette possibilité ouverte - ils doivent assurément bénéficier d'une protection spéciale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4531" docOffset="39">
+      <en>The same applies to joint accounts, <Alignment alignment="38703" annotation_id="4567">
+          <DiscourseConnective annotation_id="4567" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> this is not the same thing; <Alignment alignment="5144" annotation_id="4604">
+          <Alignment alignment="5144" annotation_id="4604">
+            <DiscourseConnective annotation_id="4604" sense="Comparison.Contrast">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the two are not directly related.</en>
+      <fr>Il en va de même pour les comptes communs, <Alignment alignment="4567" annotation_id="5108">
+          <DiscourseConnective annotation_id="5108" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> ce n'est pas la <DiscourseConnective annotation_id="5132">même</DiscourseConnective> chose; <Alignment alignment="3104" annotation_id="5144">
+          <Alignment alignment="4604" annotation_id="5144">
+            <DiscourseConnective annotation_id="5144" sense="Comparison.Contrast">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les deux ne sont pas directement liés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4647" docOffset="40">
+      <en>The point is that it is <Alignment alignment="34000" annotation_id="4671">
+          <DiscourseConnective annotation_id="4671" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> important to protect third parties, <Alignment alignment="18993" annotation_id="4712">
+          <DiscourseConnective annotation_id="4712" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> special protection measures are required for any third parties involved.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5192">Le fait est qu'</DiscourseConnective>il est <Alignment alignment="4671" annotation_id="5214">
+          <DiscourseConnective annotation_id="5214" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> important de protéger les tiers, <Alignment alignment="4712" annotation_id="5257">
+          <DiscourseConnective annotation_id="5257" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des mesures de protection spéciales sont requises <DiscourseConnective annotation_id="5310">pour</DiscourseConnective> les tiers impliqués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4789" docOffset="41">
+      <en>I would just mention that standardised formal notices would be useful for banking communications <Alignment alignment="5459" annotation_id="4886">
+          <DiscourseConnective annotation_id="4886" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, in this connection, would like to conclude by saying that studies comparing the laws in force as well as detailed analyses are undoubtedly required.</en>
+      <fr>Je voudrais juste signaler <DiscourseConnective annotation_id="5363">que</DiscourseConnective> des notifications formelles standardisées seraient utiles <DiscourseConnective annotation_id="5425">pour</DiscourseConnective> les communications bancaires <Alignment alignment="4886" annotation_id="5459">
+          <DiscourseConnective annotation_id="5459" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="5463">à cet égard</DiscourseConnective>, je voudrais conclure <DiscourseConnective annotation_id="5497">en</DiscourseConnective> disant <DiscourseConnective annotation_id="5507">que</DiscourseConnective> des études comparant les législations <DiscourseConnective annotation_id="5549">en</DiscourseConnective> vigueur <DiscourseConnective annotation_id="5560">ainsi</DiscourseConnective> que des analyses détaillées sont indubitablement requises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5040" docOffset="42">
+      <en>I would <Alignment alignment="5637" annotation_id="5048">
+          <DiscourseConnective annotation_id="5048" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment>, and specifically, like to thank the Commission for these comprehensive analyses and studies, and <DiscourseConnective annotation_id="5151" sense="Expansion.Conjunction">also</DiscourseConnective> thank all my colleagues.</en>
+      <fr>Je voudrais <Alignment alignment="5048" annotation_id="5637">
+          <DiscourseConnective annotation_id="5637" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> remercier, <DiscourseConnective annotation_id="5658">en particulier</DiscourseConnective>, la Commission <DiscourseConnective annotation_id="5688">pour</DiscourseConnective> ces analyses <DiscourseConnective annotation_id="5706">et</DiscourseConnective> études exhaustives, <DiscourseConnective annotation_id="5729">ainsi</DiscourseConnective> que mes collègues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5181" docOffset="43">
+      <en>We worked together very well.</en>
+      <fr>Nous avons fait du bon travail ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5211" docOffset="44">
+      <en>I assume that there will be a broad consensus in favour of the report.</en>
+      <fr>Je suppose <DiscourseConnective annotation_id="5806">qu'</DiscourseConnective>il y aura un large consensus <DiscourseConnective annotation_id="5838">en</DiscourseConnective> faveur du rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5282" id="485" name="Franco Frattini">
+    <ParallelChunk annotation_id="5282" docOffset="45">
+      <en>Vice-President of the Commission. - Madam President, I think the report is an interesting contribution to dealing with a very complex issue: the difficulty of cross-border debt recovery.</en>
+      <fr>vice-président de la Commission. - (EN) Madame la Présidente, je pense que ce rapport apporte une contribution intéressante <DiscourseConnective annotation_id="5984">à</DiscourseConnective> l'examen d'une question très complexe: le recouvrement de créances transfrontalier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5469" docOffset="46">
+      <en>I think the rapporteur, Mr Lechner, is to be congratulated for paving the way for a general European solution to the current fragmentation of national rules on enforcement, which severely hampers cross-border debt collection.</en>
+      <fr>J'estime que le rapporteur, M. Lechner, doit être félicité <DiscourseConnective annotation_id="6129">pour</DiscourseConnective> avoir préparé la voie <DiscourseConnective annotation_id="6156">en vue d'</DiscourseConnective>une solution européenne générale <DiscourseConnective annotation_id="6198">à</DiscourseConnective> l'actuelle fragmentation des règles nationales en matière d'exécution des décisions, un problème qui entrave considérablement le recouvrement de créances transfrontalier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5695" docOffset="47">
+      <en>This situation is of particular concern to a creditor who has the misfortune of seeing his debtor swiftly moving his money out of a known account into another account in the same or another Member State.</en>
+      <fr>Cette situation est particulièrement préoccupante <DiscourseConnective annotation_id="6421">pour</DiscourseConnective> un créancier qui aurait la malchance de voir son débiteur transférer rapidement son argent au départ d'un compte connu vers un autre compte établi dans le <DiscourseConnective annotation_id="6581">même</DiscourseConnective> <DiscourseConnective annotation_id="6586">ou</DiscourseConnective> un autre État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5899" docOffset="48">
+      <en>
+        <Alignment alignment="25247" annotation_id="5899">
+          <DiscourseConnective annotation_id="5899" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, the Commission welcomes Parliament's report.</en>
+      <fr>La Commission accueille <Alignment alignment="5899" annotation_id="6635">
+          <DiscourseConnective annotation_id="6635" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> favorablement ce rapport du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5955" docOffset="49">
+      <en>I will carefully consider the main concerns expressed by the rapporteur and by Parliament in relation to the Green Paper.</en>
+      <fr>J'examinerai avec grande attention les principales préoccupations exprimées par le rapporteur <DiscourseConnective annotation_id="6773">et</DiscourseConnective> le Parlement <DiscourseConnective annotation_id="6789">en</DiscourseConnective> rapport avec le contenu du Livre vert.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6077" docOffset="50">
+      <en>
+        <Alignment alignment="40210" annotation_id="6077">
+          <Alignment alignment="40210" annotation_id="6077">
+            <DiscourseConnective annotation_id="6077" sense="Expansion.Restatement">In particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the form and the scope of the possible Community instrument, the effects of future procedure, the legal condition for granting an attachment order, the compensation of costs and the protection of debtors are important issues that have been highlighted by the rapporteur.</en>
+      <fr>
+        <Alignment alignment="1457" annotation_id="6831">
+          <Alignment alignment="6077" annotation_id="6831">
+            <DiscourseConnective annotation_id="6831" sense="Expansion.Restatement">En particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la forme <DiscourseConnective annotation_id="6856">et</DiscourseConnective> le champ d'application de l'éventuel instrument communautaire, les effets de la future procédure correspondante, la condition légale de la délivrance d'une ordonnance de saisie, le remboursement des coûts <DiscourseConnective annotation_id="7064">et</DiscourseConnective> la protection des débiteurs constituent d'importantes questions qui ont été mises en évidence par le rapporteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6363" docOffset="51">
+      <en>I can confirm to you that any proposal or communication in this area will be preceded by an in-depth evaluation and impact assessment, in close cooperation with this Parliament.</en>
+      <fr>Je peux vous confirmer <DiscourseConnective annotation_id="7203">que</DiscourseConnective> toute proposition <DiscourseConnective annotation_id="7225">ou</DiscourseConnective> communication dans ce domaine sera précédée d'une évaluation <DiscourseConnective annotation_id="7289">et</DiscourseConnective> d'une étude d'incidence approfondies, à mener <DiscourseConnective annotation_id="7338">en</DiscourseConnective> étroite coopération avec ce Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6541" id="486" name="Sharon Bowles ">
+    <ParallelChunk annotation_id="6541" docOffset="52">
+      <en>Draftsman of the opinion of the Committee on Economic and Monetary Affairs. - Madam President, I welcome the Green Paper and look forward to an early follow-up on more concrete proposals.</en>
+      <fr>rapporteur pour avis de la commission des affaires économiques <DiscourseConnective annotation_id="7443">et</DiscourseConnective> monétaires. - (EN) Madame la Présidente, j'accueille favorablement ce Livre vert <DiscourseConnective annotation_id="7527">et</DiscourseConnective> attend avec impatience les suites qui en seront données sous la forme de propositions plus concrètes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6729" docOffset="53">
+      <en>It is clearly in the interests of fostering cross-border trade for businesses to have the confidence to be able to recover debt.</en>
+      <fr>Il est clair que, <DiscourseConnective annotation_id="7650">si</DiscourseConnective> l'on tient <DiscourseConnective annotation_id="7664">à</DiscourseConnective> favoriser le commerce transfrontalier des entreprises, celles-ci doivent pouvoir compter sur une procédure de recouvrement des créances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6858" docOffset="54">
+      <en>Citizens <Alignment alignment="36116" annotation_id="6867">
+          <DiscourseConnective annotation_id="6867" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> need that confidence at an individual and private level.</en>
+      <fr>Les citoyens ont <Alignment alignment="6867" annotation_id="7820">
+          <DiscourseConnective annotation_id="7820" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> besoin de cette confiance, au niveau individuel <DiscourseConnective annotation_id="7874">et</DiscourseConnective> privé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6929" docOffset="55">
+      <en>My opinion received unanimous support in the Committee on Economic and Monetary Affairs, not <DiscourseConnective annotation_id="7022" sense="Contingency.Cause.Reason">because</DiscourseConnective> we reached hard-fought compromises, <Alignment alignment="8026" annotation_id="7066">
+          <DiscourseConnective annotation_id="7066" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="8031" annotation_id="7070">
+          <DiscourseConnective annotation_id="7070" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there was a common view from the outset.</en>
+      <fr>Mon avis a recueilli un soutien unanime <DiscourseConnective annotation_id="7924">en</DiscourseConnective> commission des affaires économiques <DiscourseConnective annotation_id="7963">et</DiscourseConnective> monétaires, non pas au terme de compromis âprement négociés <Alignment alignment="7066" annotation_id="8026">
+          <DiscourseConnective annotation_id="8026" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="3" annotation_id="8031">
+          <DiscourseConnective annotation_id="8031" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>une vision commune était présente dès le départ.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7119" docOffset="56">
+      <en>I am pleased that almost everything that we adopted has fitted into, or been covered by, the final report by the Committee on Legal Affairs, for which I thank the rapporteur.</en>
+      <fr>Je me réjouis de constater <DiscourseConnective annotation_id="8116">que</DiscourseConnective> presque tout ce <DiscourseConnective annotation_id="8136">que</DiscourseConnective> nous avions adopté a pu être intégré <DiscourseConnective annotation_id="8177">ou</DiscourseConnective> abordé dans le rapport final de la commission des affaires juridiques, dont je remercie le rapporteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7294" docOffset="57">
+      <en>Two points that did not make it into the report were the possibility of applying attachment to joint accounts and the investigation of optional domestic use of the cross-border provision.</en>
+      <fr>Deux points qui n'ont pas été repris dans ce rapport étaient la possibilité de réaliser des saisies sur comptes joints, <DiscourseConnective annotation_id="8403">et</DiscourseConnective> l'examen de la possibilité d'employer la procédure transfrontalière à l'intérieur des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7482" docOffset="58">
+      <en>In a less prescriptive form, there is an amendment concerning joint accounts that has gained support elsewhere.</en>
+      <fr>D'une façon moins prescriptive, il y a un amendement concernant les comptes joints qui a recueilli un certain soutien ailleurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7594" docOffset="59">
+      <en>It is clearly a loophole <Alignment alignment="36823" annotation_id="7619">
+          <DiscourseConnective annotation_id="7619" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> a nominal joint account enables evasion of attachment orders, <Alignment alignment="8751" annotation_id="7684">
+          <DiscourseConnective annotation_id="7684" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> genuine third party funds must be protected.</en>
+      <fr>Nous avons clairement affaire à une lacune <Alignment alignment="7619" annotation_id="8678">
+          <DiscourseConnective annotation_id="8678" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> un compte joint nominal permet d'échapper à une ordonnance de saisie, <Alignment alignment="9209" annotation_id="8751">
+          <DiscourseConnective annotation_id="8751" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il importe de protéger les fonds des tiers réels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7733" docOffset="60">
+      <en>Concerning the optional domestic use of the cross-border provision, I note what colleagues in the Committee on Legal Affairs said about the measure only being possible cross-border, be that for legal reasons or for practical reasons of achieving something in a reasonable timescale.</en>
+      <fr>Concernant la possibilité d'employer la procédure transfrontalière à l'intérieur des États membres, je note ce que les collègues de la commission des affaires juridiques ont dit <DiscourseConnective annotation_id="8984">à propos</DiscourseConnective> de l'utilisation de la procédure qui ne serait possible qu'au niveau transfrontalier, que ce <DiscourseConnective annotation_id="9086">soit</DiscourseConnective> <DiscourseConnective annotation_id="9091">pour</DiscourseConnective> des raisons juridiques <DiscourseConnective annotation_id="9119">ou</DiscourseConnective> des raisons pratiques tenant à l'atteinte de résultats dans un délai raisonnable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8016" docOffset="61">
+      <en>
+        <Alignment alignment="9204" annotation_id="8016">
+          <DiscourseConnective annotation_id="8016" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="22300" annotation_id="8025">
+          <DiscourseConnective annotation_id="8025" sense="Expansion.Alternative">unless</DiscourseConnective>
+        </Alignment> alternative remedies exist in those Member States where attachment is not possible, or is extremely difficult, there could be a competitive mismatch, at least from the business aspect, with the rather unusual situation of a cross-border business being better off than a domestic one.</en>
+      <fr>
+        <Alignment alignment="8016" annotation_id="9204">
+          <DiscourseConnective annotation_id="9204" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, <Alignment alignment="8025" annotation_id="9215">
+          <DiscourseConnective annotation_id="9215" sense="Expansion.Alternative">à moins que</DiscourseConnective>
+        </Alignment> des recours alternatifs n'existent dans les États membres où la saisie est impossible <DiscourseConnective annotation_id="9313">ou</DiscourseConnective> extrêmement difficile, il pourrait y avoir discordance concurrentielle, <DiscourseConnective annotation_id="9388">du moins</DiscourseConnective> du point de vue commercial, avec la situation <DiscourseConnective annotation_id="9443">plutôt</DiscourseConnective> inhabituelle d'une entreprise transfrontalière <DiscourseConnective annotation_id="9497">mieux</DiscourseConnective> lotie <DiscourseConnective annotation_id="9509">qu'</DiscourseConnective>une entreprise de l'État membre en question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8316" docOffset="62">
+      <en>Perhaps Member States will take note of this <Alignment alignment="9630" annotation_id="8361">
+          <DiscourseConnective annotation_id="8361" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> competition will deliver what we do not or cannot legislate for.</en>
+      <fr>Les États membres pourraient peut-être prendre note de cette observation <Alignment alignment="8361" annotation_id="9630">
+          <DiscourseConnective annotation_id="9630" sense="Expansion.Conjunction">car</DiscourseConnective>
+        </Alignment> la concurrence pourrait réaliser ce que nous ne réglementons pas <DiscourseConnective annotation_id="9699">ou</DiscourseConnective> ne pouvons réglementer.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8430" id="487" language="EL" name="Panayotis Dimitriou ">
+    <ParallelChunk annotation_id="8430" docOffset="63">
+      <en>Madam President, I welcome the Commission's initiative on the cross-border regulation of the attachment and temporary freezing of bank accounts.</en>
+      <fr>rapporteur pour avis de la commission des libertés civiles, de la justice et des affaires intérieures. - (EL) Madame la Présidente, je salue l'initiative de la Commission sur la réglementation transfrontalière de la saisie <DiscourseConnective annotation_id="9949">et</DiscourseConnective> du gel temporaire des avoirs bancaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8575" docOffset="64">
+      <en>I congratulate you in particular, Mr Frattini, as the competent Commissioner for this initiative.</en>
+      <fr>Je vous félicite vous <DiscourseConnective annotation_id="10014">en particulier</DiscourseConnective>, Monsieur Frattini, en <DiscourseConnective annotation_id="10052">tant que</DiscourseConnective> commissaire compétent dans le cadre de cette initiative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8673" docOffset="65">
+      <en>The Commission's Green Paper on this issue has laid down procedures for dealing with the problem, which arises <Alignment alignment="10232" annotation_id="8784">
+          <DiscourseConnective annotation_id="8784" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the enforcement of court judgments is avoided because of the operation or transfer of bank accounts outside national borders.</en>
+      <fr>Le livre vert de la Commission sur ce sujet a défini des procédures <DiscourseConnective annotation_id="10186">en vue de</DiscourseConnective> faire face au problème qui survient <Alignment alignment="8784" annotation_id="10232">
+          <DiscourseConnective annotation_id="10232" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> des décisions de justice ne sont pas exécutées en raison d'opérations <DiscourseConnective annotation_id="10310">ou</DiscourseConnective> de transferts d'avoirs bancaires en dehors des frontières nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8915" docOffset="66">
+      <en>The measure under discussion is contained in the strategy for developing judicial cooperation between EU Member States.</en>
+      <fr>La mesure dont nous débattons <DiscourseConnective annotation_id="10413">s'</DiscourseConnective>inscrit dans la stratégie de développement d'une coopération judiciaire entre les États membres de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9035" docOffset="67">
+      <en>The measure is a move in the right direction; it must be completed soon with the submission of a relevant proposal.</en>
+      <fr>Cette mesure est un pas dans la bonne direction; elle doit être mise en œuvre prochainement avec la présentation d'une proposition adéquate.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9151" docOffset="68">
+      <en>The cause of justice is not served <Alignment alignment="10701" annotation_id="9186">
+          <DiscourseConnective annotation_id="9186" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> civil or criminal court judgments cannot be enforced.</en>
+      <fr>La cause de la justice n'est pas servie <Alignment alignment="3626" annotation_id="10701">
+          <DiscourseConnective annotation_id="10701" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les décisions de justice civiles <DiscourseConnective annotation_id="10737">ou</DiscourseConnective> pénales ne peuvent être exécutées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9243" docOffset="69">
+      <en>For this reason, the proposal relating to the attachment and freezing of cross-border bank accounts that is under consideration really contributes to the evolution and consolidation of justice.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10775">Pour</DiscourseConnective> cette raison, la proposition relative <DiscourseConnective annotation_id="10818">à</DiscourseConnective> la saisie <DiscourseConnective annotation_id="10830">et</DiscourseConnective> au gel des avoirs bancaires transfrontaliers qui est <DiscourseConnective annotation_id="10886">en</DiscourseConnective> cours d'examen contribue réellement <DiscourseConnective annotation_id="10925">à</DiscourseConnective> l'évolution <DiscourseConnective annotation_id="10939">et</DiscourseConnective> à la consolidation de la justice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9437" docOffset="70">
+      <en>The European Parliament rightly takes a positive view of the Commission's initiative and of the judicial procedure under preparation.</en>
+      <fr>Le Parlement européen voit, à juste titre, d'un bon œil l'initiative de la Commission <DiscourseConnective annotation_id="11062">et</DiscourseConnective> la procédure judiciaire <DiscourseConnective annotation_id="11089">en</DiscourseConnective> préparation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9571" docOffset="71">
+      <en>The Lechner report and the opinions of the Committee on Civil Liberties, Justice and Home Affairs and the Committee on Finance set out the basic parameters for preparing a balanced proposal for a Council decision on the issue.</en>
+      <fr>Le rapport Lechner <DiscourseConnective annotation_id="11124">et</DiscourseConnective> les avis de la commission des libertés civiles, de la justice <DiscourseConnective annotation_id="11189">et</DiscourseConnective> des affaires intérieures <DiscourseConnective annotation_id="11217">et</DiscourseConnective> de la commission des finances exposent les paramètres de base de la préparation d'une proposition de décision du Conseil équilibrée sur ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9798" docOffset="72">
+      <en>I congratulate Mr Lechner on his succinct but very informative and comprehensive report.</en>
+      <fr>Je félicite M. Lechner <DiscourseConnective annotation_id="11389">pour</DiscourseConnective> son rapport succinct, <DiscourseConnective annotation_id="11416">mais</DiscourseConnective> très informatif <DiscourseConnective annotation_id="11437">et</DiscourseConnective> très complet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9887" docOffset="73">
+      <en>As rapporteur for the Committee on Civil Liberties, I hold positions that essentially coincide with nearly all of his.</en>
+      <fr>En <DiscourseConnective annotation_id="11457">tant que</DiscourseConnective> rapporteur <DiscourseConnective annotation_id="11477">pour</DiscourseConnective> la commission des libertés civiles, mes positions coïncident, pour l'essentiel, avec presque toutes les siennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10006" docOffset="74">
+      <en>The report is expected to be approved by an overwhelming majority.</en>
+      <fr>Le rapport devrait être adopté <DiscourseConnective annotation_id="11626">à</DiscourseConnective> une écrasante majorité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10073" docOffset="75">
+      <en>It emphasises the need to meet the requirements for issuing a cross-border attachment order for bank accounts.</en>
+      <fr>Il souligne la nécessité de remplir les conditions de délivrance d'une ordonnance de saisie d'avoirs bancaires transfrontalière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10184" docOffset="76">
+      <en>It <Alignment alignment="20567" annotation_id="10187">
+          <DiscourseConnective annotation_id="10187" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> stresses the concurrent need to protect the procedure against abuse and to provide guarantees of compensation to the alleged debtor <Alignment alignment="46868" annotation_id="10324">
+          <DiscourseConnective annotation_id="10324" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> his order turns out to be to be null and void.</en>
+      <fr>Il souligne <Alignment alignment="10187" annotation_id="11793">
+          <DiscourseConnective annotation_id="11793" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la nécessité concomitante de protéger la procédure des abus <DiscourseConnective annotation_id="11863">et</DiscourseConnective> d'apporter des garanties de compensation au débiteur présumé <Alignment alignment="10324" annotation_id="11927">
+          <DiscourseConnective annotation_id="11927" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> son ordonnance s'avère être nulle <DiscourseConnective annotation_id="11964">et</DiscourseConnective> non avenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10374" docOffset="77">
+      <en>I believe that a freezing order can serve, at the end of court proceedings, as an enforcement measure for a final exequatur judgment.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="11988">qu'</DiscourseConnective>une ordonnance de saisie peut servir, au terme de la procédure judiciaire, de mesure d'exécution <DiscourseConnective annotation_id="12088">en vue d'</DiscourseConnective>une décision d'exequatur définitive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10508" docOffset="78">
+      <en>This is not Mr Lechner's view, <Alignment alignment="12169" annotation_id="10539">
+          <DiscourseConnective annotation_id="10539" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it must seriously be considered <Alignment alignment="58079" annotation_id="10575">
+          <DiscourseConnective annotation_id="10575" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the relevant Commission proposal is submitted, in the interests of preventing unnecessary duplication of proceedings.</en>
+      <fr>Ce n'est pas l'avis de M. Lechner, <Alignment alignment="10539" annotation_id="12169">
+          <DiscourseConnective annotation_id="12169" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cela devra être pris sérieusement en considération <Alignment alignment="10575" annotation_id="12225">
+          <DiscourseConnective annotation_id="12225" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la proposition de la Commission correspondante sera présentée, <DiscourseConnective annotation_id="12296">afin d'</DiscourseConnective>empêcher la duplication inutiles des procédures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10698" docOffset="79">
+      <en>I call on the Commission to proceed at once with preparation of the proposal on this issue.</en>
+      <fr>J'invite la Commission <DiscourseConnective annotation_id="12375">à</DiscourseConnective> commencer immédiatement <DiscourseConnective annotation_id="12401">à</DiscourseConnective> préparer la proposition sur ce sujet.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10790" id="488" name="Tadeusz Zwiefka">
+    <ParallelChunk annotation_id="10790" docOffset="80">
+      <en>on behalf of the PPE-DE Group. - (PL) Madam President, Commissioner, an unquestionable weakness of the current provisions of enforcement legislation is the situation in which, having verified enforceability of a court order in another Member State, enforcement remains the exclusive competence of national legislation.</en>
+      <fr>au nom du groupe PPE-DE. - (PL) Madame la Présidente, Monsieur le Commissaire, une faiblesse incontestable des actuelles dispositions de la législation d'exécution est la situation dans laquelle, après avoir vérifié la force exécutoire d'une décision de justice dans un autre État membre, l'exécution reste la compétence exclusive de la législation nationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11109" docOffset="81">
+      <en>Pursuant to Community legal acts currently in force there is no way of obtaining an order to attach a bank account that could be enforced across the territory of the entire European Union.</en>
+      <fr>En vertu des actes juridiques communautaires actuellement <DiscourseConnective annotation_id="12859">en</DiscourseConnective> vigueur, il n'y a aucun moyen d'obtenir une ordonnance de saisie d'avoirs bancaires qui pourrait être exécutée sur tout le territoire de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11298" docOffset="82">
+      <en>That is why a European system for an order allowing the attachment of bank accounts seems to be such an appropriate and necessary solution.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13019">C'est pourquoi</DiscourseConnective> un système européen d'ordonnance autorisant la saisie d'avoirs bancaires semble être une solution <DiscourseConnective annotation_id="13132">si</DiscourseConnective> adéquate <DiscourseConnective annotation_id="13144">et</DiscourseConnective> si nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11438" docOffset="83">
+      <en>It would allow creditors to secure the sums due or the value of their claim by making it impossible to withdraw or transfer funds deposited in one or many bank accounts across the territory of the European Union.</en>
+      <fr>Cela permettrait aux créanciers de garantir les montants dus <DiscourseConnective annotation_id="13223">ou</DiscourseConnective> la valeur de leur créance <DiscourseConnective annotation_id="13252">en</DiscourseConnective> rendant impossible le retrait <DiscourseConnective annotation_id="13285">ou</DiscourseConnective> le transfert de fonds déposés sur un <DiscourseConnective annotation_id="13325">ou</DiscourseConnective> plusieurs comptes bancaires sur tout le territoire de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11651" docOffset="84">
+      <en>Such a system should be created following the development of an additional independent procedure that would stand alongside national provisions with the proviso that it would only apply to cross-border issues.</en>
+      <fr>Un tel système devrait être créé <DiscourseConnective annotation_id="13435">après</DiscourseConnective> la mise en place d'une procédure autonome complémentaire qui existerait en parallèle des dispositions nationales et ne s'appliquerait qu'aux affaires transfrontalières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11861" docOffset="85">
+      <en>It is worth emphasising that such an order would only have a preventive effect.</en>
+      <fr>Il est utile de souligner <DiscourseConnective annotation_id="13636">qu'</DiscourseConnective>une telle ordonnance n'aurait <DiscourseConnective annotation_id="13669">qu'</DiscourseConnective>un effet préventif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11941" docOffset="86">
+      <en>
+        <Alignment alignment="13692" annotation_id="11941">
+          <Alignment alignment="13692" annotation_id="11941">
+            <Alignment alignment="13692" annotation_id="11941">
+              <DiscourseConnective annotation_id="11941" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, it would block the debtor's funds in the latter's bank account, without transferring them to the creditor's account.</en>
+      <fr>
+        <Alignment alignment="11941" annotation_id="13692">
+          <Alignment alignment="11941" annotation_id="13692">
+            <Alignment alignment="24069" annotation_id="13692">
+              <DiscourseConnective annotation_id="13692" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, elle bloquerait les fonds du débiteur sur le compte bancaire de ce dernier, <DiscourseConnective annotation_id="13788">sans</DiscourseConnective> les transférer sur le compte du créancier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12074" docOffset="87">
+      <en>The court must of course refrain from hearing or informing the debtor of the proceedings <Alignment alignment="5131" annotation_id="12163">
+          <DiscourseConnective annotation_id="12163" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> attaching his or her bank account, <Alignment alignment="19440" annotation_id="12205">
+          <DiscourseConnective annotation_id="12205" sense="Expansion.Alternative">otherwise</DiscourseConnective>
+        </Alignment> the effect might be the opposite of what was intended.</en>
+      <fr>Le tribunal doit bien sûr s'abstenir d'entendre <DiscourseConnective annotation_id="13884">ou</DiscourseConnective> d'informer le débiteur de la procédure <Alignment alignment="12163" annotation_id="13926">
+          <DiscourseConnective annotation_id="13926" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> saisir ses avoirs bancaires, <Alignment alignment="12205" annotation_id="13964">
+          <DiscourseConnective annotation_id="13964" sense="Expansion.Alternative">faute de quoi</DiscourseConnective>
+        </Alignment> l'effet obtenu pourrait être l'inverse de celui escompté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12270" docOffset="88">
+      <en>The sum to be attached should be calculated on the basis of the creditor's claim.</en>
+      <fr>Le montant <DiscourseConnective annotation_id="14047">à</DiscourseConnective> saisir devrait être calculé sur la base de la créance du créancier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12352" docOffset="89">
+      <en>It should be emphasised, <Alignment alignment="14125" annotation_id="12377">
+          <DiscourseConnective annotation_id="12377" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that the debtor must have the right to appeal the order issued, and the competent institution to hear that appeal should be the court where the order was issued.</en>
+      <fr>Il faut <Alignment alignment="12377" annotation_id="14125">
+          <DiscourseConnective annotation_id="14125" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> souligner <DiscourseConnective annotation_id="14145">que</DiscourseConnective> le débiteur doit avoir le droit d'introduire un recours contre l'ordonnance délivrée, <DiscourseConnective annotation_id="14235">et</DiscourseConnective> l'institution compétente <DiscourseConnective annotation_id="14263">pour</DiscourseConnective> traiter ce recours devrait être le tribunal qui a délivré l'ordonnance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12548" docOffset="90">
+      <en>Provision should <Alignment alignment="31646" annotation_id="12565">
+          <DiscourseConnective annotation_id="12565" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be made for derogations from enforcement to allow the basic needs of the debtor and his or her family to be met.</en>
+      <fr>Il faut <Alignment alignment="12565" annotation_id="14348">
+          <DiscourseConnective annotation_id="14348" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> prévoir des dérogations <DiscourseConnective annotation_id="14382">à</DiscourseConnective> l'exécution, <DiscourseConnective annotation_id="14397">afin de</DiscourseConnective> pouvoir répondre aux besoins de base du débiteur <DiscourseConnective annotation_id="14454">et</DiscourseConnective> de sa famille.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12683" docOffset="91">
+      <en>Clearly, at that stage, additional comparative legal analysis would be required, <Alignment alignment="14547" annotation_id="12764">
+          <DiscourseConnective annotation_id="12764" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> many aspects call for further investigation.</en>
+      <fr>Il est clair qu'à ce stade, une analyse juridique comparative est requise, <Alignment alignment="12764" annotation_id="14547">
+          <DiscourseConnective annotation_id="14547" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> de nombreux aspects nécessitent une étude plus approfondie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12812" docOffset="92">
+      <en>
+        <Alignment alignment="14617" annotation_id="12812">
+          <DiscourseConnective annotation_id="12812" sense="Comparison.Concession">Nonetheless</DiscourseConnective>
+        </Alignment>, the fact remains that the introduction of a Community legal procedure such as a European order for the attachment of bank accounts aimed at streamlining the implementation of monetary claims and improving effectiveness would be a milestone along the road to the creation of a European economic and judicial area.</en>
+      <fr>Reste <Alignment alignment="12812" annotation_id="14617">
+          <DiscourseConnective annotation_id="14617" sense="Comparison.Concession">néanmoins</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14627">que</DiscourseConnective> l'introduction d'une procédure juridique communautaire telle <DiscourseConnective annotation_id="14692">que</DiscourseConnective> l'ordonnance européenne de saisie des avoirs bancaires, qui vise <DiscourseConnective annotation_id="14761">à</DiscourseConnective> rationaliser l'exécution des créances monétaires, <DiscourseConnective annotation_id="14813">et</DiscourseConnective> à en améliorer l'efficacité, serait une étape importante sur la voie de la création d'un espace économique <DiscourseConnective annotation_id="14923">et</DiscourseConnective> judiciaire européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13138" docOffset="93">
+      <en>In conclusion, I should like to congratulate Mr Lechner on an outstanding and well-prepared report.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14947">En</DiscourseConnective> conclusion, je voudrais féliciter M. Lechner <DiscourseConnective annotation_id="14995">pour</DiscourseConnective> son rapport remarquable <DiscourseConnective annotation_id="15024">et</DiscourseConnective> bien préparé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13238" docOffset="94">
+      <en>The House must be well aware, of course, of how difficult it is to change Union provisions, particularly in this field.</en>
+      <fr>L'Assemblée doit évidemment être bien consciente de la difficulté de modifier les dispositions communautaires, <DiscourseConnective annotation_id="15152">en particulier</DiscourseConnective> dans ce domaine.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13358" id="489" name="Manuel Medina Ortega">
+    <ParallelChunk annotation_id="13358" docOffset="95">
+      <en>on behalf of the PSE Group. - (ES) Madam President, I want to begin by congratulating my colleague, Mr Lechner, on the excellent report he has produced: it is both balanced and moderate.</en>
+      <fr>au nom du groupe PSE. - (ES) Madame la Présidente, je voudrais commencer par féliciter mon collègue, M. Lechner, <DiscourseConnective annotation_id="15297">pour</DiscourseConnective> l'excellent rapport qu'il a produit: il est à la fois équilibré <DiscourseConnective annotation_id="15366">et</DiscourseConnective> modéré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13545" docOffset="96">
+      <en>Here at this time of the night, I cannot help but think about what attachment means.</en>
+      <fr>Ici, <DiscourseConnective annotation_id="15382">à</DiscourseConnective> cette heure avancée, je ne peux m'empêcher de penser à ce que la saisie signifie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13630" docOffset="97">
+      <en>In practice, in day-to-day life, normally the creditors are large institutions with a great deal of economic power <Alignment alignment="15603" annotation_id="13745">
+          <DiscourseConnective annotation_id="13745" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> the debtors are usually people in a much weaker economic situation.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15466">En</DiscourseConnective> pratique, dans la vie de tous les jours, les créanciers sont normalement de grandes institutions qui ont un grand pouvoir économique, <Alignment alignment="13745" annotation_id="15603">
+          <DiscourseConnective annotation_id="15603" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> les débiteurs sont généralement des personnes dans une situation économique beaucoup plus faible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13819" docOffset="98">
+      <en>
+        <Alignment alignment="21059" annotation_id="13819">
+          <DiscourseConnective annotation_id="13819" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, one of the nicest poems in the Spanish language is dedicated to the attachment of a poor unfortunate worker.</en>
+      <fr>
+        <Alignment alignment="23769" annotation_id="15711">
+          <DiscourseConnective annotation_id="15711" sense="Expansion.Conjunction">En fait</DiscourseConnective>
+        </Alignment>, un des plus beaux poèmes <DiscourseConnective annotation_id="15745">en</DiscourseConnective> langue espagnole est dédié <DiscourseConnective annotation_id="15775">à</DiscourseConnective> la saisie d'un pauvre et malheureux travailleur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13936" docOffset="99">
+      <en>It is true that <DiscourseConnective annotation_id="13952" sense="Contingency.Condition">if</DiscourseConnective> there are no attachments - <Alignment alignment="33107" annotation_id="13982">
+          <DiscourseConnective annotation_id="13982" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> creditors do not have the possibility of recovering their claim - those who need credit will not be able to get it.</en>
+      <fr>Il est vrai que <DiscourseConnective annotation_id="15842">sans</DiscourseConnective> saisie - <Alignment alignment="13982" annotation_id="15856">
+          <DiscourseConnective annotation_id="15856" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les créanciers n'avaient pas la possibilité de recouvrer leur créance - ceux qui ont besoin d'un crédit ne pourraient pas l'obtenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14101" docOffset="100">
+      <en>
+        <Alignment alignment="51378" annotation_id="14101">
+          <DiscourseConnective annotation_id="14101" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> I think we are all a bit bored, I am going to tell you a story about one of the dictatorships we had in Spain, that of General Primo de Rivera.</en>
+      <fr>
+        <Alignment alignment="14101" annotation_id="15992">
+          <DiscourseConnective annotation_id="15992" sense="Contingency.Cause.Reason">Comme</DiscourseConnective>
+        </Alignment> je pense que nous nous ennuyons tous un peu, je vais vous raconter l'<DiscourseConnective annotation_id="16067">histoire de</DiscourseConnective> l'un de nos dictateurs <DiscourseConnective annotation_id="16102">en</DiscourseConnective> Espagne, le général Primo de Rivera.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14251" docOffset="101">
+      <en>He believed that attachment of the assets of military personnel was an insult to the military profession.</en>
+      <fr>Il pensait <DiscourseConnective annotation_id="16153">que</DiscourseConnective> la saisie des avoirs du personnel militaire était une insulte <DiscourseConnective annotation_id="16219">à</DiscourseConnective> la profession militaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14357" docOffset="102">
+      <en>He <Alignment alignment="16255" annotation_id="14360">
+          <DiscourseConnective annotation_id="14360" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> banned the attachments of accounts of military personnel.</en>
+      <fr>Il avait <Alignment alignment="14360" annotation_id="16255">
+          <DiscourseConnective annotation_id="16255" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> interdit la saisie des avoirs du personnel militaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14428" docOffset="103">
+      <en>As a consequence, the banks refused to lend money to the military, <Alignment alignment="61751" annotation_id="14495">
+          <DiscourseConnective annotation_id="14495" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the military <Alignment alignment="16413" annotation_id="14512">
+          <DiscourseConnective annotation_id="14512" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> had to ask the General to allow them to be subject to attachments again.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16314">En conséquence</DiscourseConnective>, les banques refusaient de prêter de l'argent aux militaires, <Alignment alignment="14495" annotation_id="16391">
+          <DiscourseConnective annotation_id="16391" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les militaires ont <Alignment alignment="14512" annotation_id="16413">
+          <DiscourseConnective annotation_id="16413" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> dû demander au général qu'il autorise à nouveau la saisie de leurs avoirs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14590" docOffset="104">
+      <en>That is only a story, <Alignment alignment="25556" annotation_id="14612">
+          <DiscourseConnective annotation_id="14612" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Ce n'est <DiscourseConnective annotation_id="16503">qu'</DiscourseConnective>une histoire, <Alignment alignment="14612" annotation_id="16520">
+          <DiscourseConnective annotation_id="16520" sense="Comparison.Contrast">cela dit</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14621" docOffset="105">
+      <en>I believe that Mr Lechner has managed to achieve a balance in terms of the protection of debtors' rights, <Alignment alignment="7064" annotation_id="14727">
+          <DiscourseConnective annotation_id="14727" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I still have one question, <Alignment alignment="16668" annotation_id="14758">
+          <DiscourseConnective annotation_id="14758" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> Mr Frattini will probably be aware of what I want to say in this respect.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="16539">que</DiscourseConnective> M. Lechner est parvenu <DiscourseConnective annotation_id="16566">à</DiscourseConnective> trouver un équilibre <DiscourseConnective annotation_id="16589">en</DiscourseConnective> termes de protection des droits du débiteur, <Alignment alignment="14727" annotation_id="16637">
+          <DiscourseConnective annotation_id="16637" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> j'ai <DiscourseConnective annotation_id="16647">encore</DiscourseConnective> une question, <Alignment alignment="14758" annotation_id="16668">
+          <DiscourseConnective annotation_id="16668" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> M. Frattini appréciera probablement ce que je veux dire <DiscourseConnective annotation_id="16727">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14836" docOffset="106">
+      <en>
+        <DiscourseConnective annotation_id="14836" sense="Temporal.Synchrony">When</DiscourseConnective> it comes down to it, the large debtors, the people who are involved in major financial operations <Alignment alignment="15606" annotation_id="14939">
+          <DiscourseConnective annotation_id="14939" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> who end up owing billions to thousands of defenceless people, those large debtors do not usually have their accounts in a bank in Belgium, Brussels or Strasbourg, or even in London.</en>
+      <fr>Au fond, les grands débiteurs, les personnes qui sont impliquées dans de grandes opérations financières <Alignment alignment="14939" annotation_id="16844">
+          <DiscourseConnective annotation_id="16844" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui finissent par devoir des milliards <DiscourseConnective annotation_id="16886">à</DiscourseConnective> des milliers de personnes sans défense, ces grands débiteurs n'ont généralement pas de comptes bancaires <DiscourseConnective annotation_id="16993">en</DiscourseConnective> Belgique, à Bruxelles, à Strasbourg <DiscourseConnective annotation_id="17032">ou</DiscourseConnective> <DiscourseConnective annotation_id="17035">même</DiscourseConnective> <DiscourseConnective annotation_id="17040">à</DiscourseConnective> Londres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15125" docOffset="107">
+      <en>They usually have them in tax havens.</en>
+      <fr>Souvent, leurs comptes bancaires se trouvent dans des paradis fiscaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15163" docOffset="108">
+      <en>This, of course, is not covered by the provisions of the Commission's Green Paper.</en>
+      <fr>Ce problème n'est bien sûr pas couvert par les dispositions du livre vert de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15246" docOffset="109">
+      <en>
+        <Alignment alignment="40951" annotation_id="15246">
+          <DiscourseConnective annotation_id="15246" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="17225" annotation_id="15255">
+          <DiscourseConnective annotation_id="15255" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> I know that Commissioner Frattini has an interest in this matter, I will put the question to him: would it not be advisable to come up with a way of ensuring that these large international criminals who ruin the lives of thousands of families could <Alignment alignment="34593" annotation_id="15510">
+          <DiscourseConnective annotation_id="15510" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> have their assets attached?</en>
+      <fr>
+        <Alignment alignment="15246" annotation_id="17214">
+          <DiscourseConnective annotation_id="17214" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <Alignment alignment="15255" annotation_id="17225">
+          <DiscourseConnective annotation_id="17225" sense="Contingency.Cause.Reason">comme</DiscourseConnective>
+        </Alignment> je sais <DiscourseConnective annotation_id="17239">que</DiscourseConnective> le commissaire Frattini <DiscourseConnective annotation_id="17267">s'</DiscourseConnective>intéresse <DiscourseConnective annotation_id="17279">à</DiscourseConnective> ce sujet, je vais lui poser la question: ne serait-il pas souhaitable de trouver un moyen de faire en sorte <DiscourseConnective annotation_id="17389">que</DiscourseConnective> les avoirs de ces grands criminels internationaux qui ruinent les vies de milliers de familles puissent <Alignment alignment="15510" annotation_id="17497">
+          <DiscourseConnective annotation_id="17497" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être saisis?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15543" docOffset="110">
+      <en>
+        <Alignment alignment="17520" annotation_id="15543">
+          <DiscourseConnective annotation_id="15543" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I said, this is a scenario that is outside the scope of the Green Paper, outside the scope of what we are discussing tonight.</en>
+      <fr>
+        <Alignment alignment="15543" annotation_id="17520">
+          <DiscourseConnective annotation_id="17520" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> je l'ai dit, c'est un scénario qui n'entre pas dans le domaine couvert par le livre vert, ni par le débat de ce soir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15672" docOffset="111">
+      <en>
+        <Alignment alignment="14533" annotation_id="15672">
+          <DiscourseConnective annotation_id="15672" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="34770" annotation_id="15681">
+          <DiscourseConnective annotation_id="15681" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the main topics already appear to have been discussed very clearly by the previous speakers and by Commissioner Frattini himself, I think that it is something that we must examine.</en>
+      <fr>
+        <Alignment alignment="15672" annotation_id="17644">
+          <DiscourseConnective annotation_id="17644" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <Alignment alignment="8119" annotation_id="17655">
+          <DiscourseConnective annotation_id="17655" sense="Contingency.Cause.Reason">étant donné que</DiscourseConnective>
+        </Alignment> les principaux points semblent <DiscourseConnective annotation_id="17702">déjà</DiscourseConnective> avoir été abordés de manière très claire par les orateurs précédents <DiscourseConnective annotation_id="17776">et</DiscourseConnective> par le commissaire Frattini lui-même, je pense <DiscourseConnective annotation_id="17826">que</DiscourseConnective> c'est quelque chose <DiscourseConnective annotation_id="17850">que</DiscourseConnective> nous devons examiner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15868" docOffset="112">
+      <en>I am sure that Commissioner Frattini will have something to add in this respect.</en>
+      <fr>Je suis sûr <DiscourseConnective annotation_id="17888">que</DiscourseConnective> le commissaire Frattini aura quelque chose <DiscourseConnective annotation_id="17935">à</DiscourseConnective> ajouter <DiscourseConnective annotation_id="17945">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15949" docOffset="113">
+      <en>In conclusion, I just want to reiterate once again my congratulations to Mr Lechner: I think that he has produced a balanced report <Alignment alignment="18094" annotation_id="16081">
+          <DiscourseConnective annotation_id="16081" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the position of debtors, of poor debtors, which means most citizens, is guaranteed.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17958">En</DiscourseConnective> conclusion, je voudrais juste réitérer une fois <DiscourseConnective annotation_id="18009">encore</DiscourseConnective> mes félicitations <DiscourseConnective annotation_id="18034">à</DiscourseConnective> M. Lechner: je pense <DiscourseConnective annotation_id="18057">qu'</DiscourseConnective>il a produit un rapport équilibré <Alignment alignment="16081" annotation_id="18094">
+          <DiscourseConnective annotation_id="18094" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="18097">que</DiscourseConnective> la position des débiteurs, des pauvres débiteurs, <DiscourseConnective annotation_id="18151">autrement dit</DiscourseConnective>, la majorité des citoyens, est garantie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16174" docOffset="114">
+      <en>I hope that the Commission will soon present us with a legislative text that enables the cross-border credit market to continue to function.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="18215">que</DiscourseConnective> la Commission nous présentera <DiscourseConnective annotation_id="18249">bientôt</DiscourseConnective> un texte législatif qui permettra au marché du crédit transfrontalier de continuer <DiscourseConnective annotation_id="18340">à</DiscourseConnective> fonctionner.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16315" id="490" name="Diana Wallis">
+    <ParallelChunk annotation_id="16315" docOffset="115">
+      <en>on behalf of the ALDE Group. - Madam President, I too would like to congratulate Mr Lechner on his report.</en>
+      <fr>au nom du groupe ALDE. - (EN) Madame la Présidente, je voudrais moi <DiscourseConnective annotation_id="18423">aussi</DiscourseConnective> féliciter M. Lechner <DiscourseConnective annotation_id="18450">pour</DiscourseConnective> son rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16422" docOffset="116">
+      <en>I want to start with, <DiscourseConnective annotation_id="16444" sense="Temporal.Synchrony">as</DiscourseConnective> it were, a confession. <DiscourseConnective annotation_id="16470" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective> I arrived in this House I was a lawyer.</en>
+      <fr>Permettez-moi de commencer mon intervention <DiscourseConnective annotation_id="18512">en</DiscourseConnective> faisant, pour <DiscourseConnective annotation_id="18529">ainsi</DiscourseConnective> dire, une confession.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16517" docOffset="117">
+      <en>
+        <Alignment alignment="18623" annotation_id="16517">
+          <DiscourseConnective annotation_id="16517" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+        </Alignment> I was not only a lawyer, <DiscourseConnective annotation_id="16550" sense="Comparison.Contrast">but</DiscourseConnective> a lawyer dealing in debt collecting, often cross-border.</en>
+      <fr>Avant d'entrer dans cette Assemblée, j'étais avocate spécialisée, <Alignment alignment="16517" annotation_id="18623">
+          <DiscourseConnective annotation_id="18623" sense="Expansion.Conjunction">à vrai dire</DiscourseConnective>
+        </Alignment>, dans le recouvrement de créances, souvent transfrontalier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16611" docOffset="118">
+      <en>My experience in this area is that the most damage is caused to small enterprises that have plucked up courage to trade cross-border, and are <Alignment alignment="18875" annotation_id="16753">
+          <DiscourseConnective annotation_id="16753" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> ruined by a bad debt and a professional debtor hiding in another country.</en>
+      <fr>Mon expérience dans ce domaine me fait <DiscourseConnective annotation_id="18734">dire que</DiscourseConnective> les plus gros dégâts sont subis par les petites entreprises qui se sont courageusement lancées dans le négoce transfrontalier, <DiscourseConnective annotation_id="18870">pour</DiscourseConnective> <Alignment alignment="11099" annotation_id="18875">
+          <DiscourseConnective annotation_id="18875" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> se faire ruiner par une créance irrécouvrable <DiscourseConnective annotation_id="18929">et</DiscourseConnective> un débiteur professionnel qui se cache dans un autre pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16832" docOffset="119">
+      <en>I <Alignment alignment="6107" annotation_id="16834">
+          <DiscourseConnective annotation_id="16834" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> consider this initiative to be a way, <Alignment alignment="19042" annotation_id="16882">
+          <DiscourseConnective annotation_id="16882" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we can get it right, of boosting Europe's economy and encouraging cross-border trade.</en>
+      <fr>Je considère <Alignment alignment="16834" annotation_id="19004">
+          <DiscourseConnective annotation_id="19004" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> cette initiative <DiscourseConnective annotation_id="19026">comme</DiscourseConnective> un moyen, <Alignment alignment="16882" annotation_id="19042">
+          <DiscourseConnective annotation_id="19042" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous parvenons à en faire quelque chose d'efficace, de stimuler l'économie de l'Europe <DiscourseConnective annotation_id="19132">et</DiscourseConnective> d'encourager le commerce transfrontalier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16971" docOffset="120">
+      <en>We have to get tough.</en>
+      <fr>Nous devons nous montrer déterminés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16993" docOffset="121">
+      <en>The payment order was a step in the right direction.</en>
+      <fr>L'ordre de paiement était un pas dans la bonne direction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17046" docOffset="122">
+      <en>This is the next piece in the jigsaw.</en>
+      <fr>La présente initiative constitue le pas suivant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17084" docOffset="123">
+      <en>
+        <Alignment alignment="43126" annotation_id="17084">
+          <DiscourseConnective annotation_id="17084" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I have two points to make.</en>
+      <fr>
+        <Alignment alignment="4432" annotation_id="19321">
+          <DiscourseConnective annotation_id="19321" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, j'aurais deux points <DiscourseConnective annotation_id="19353">à</DiscourseConnective> soulever.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17120" docOffset="124">
+      <en>First of all, we are dealing with cross-border cases only.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19365">Tout d'abord</DiscourseConnective>, nous parlons uniquement de cas transfrontaliers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17179" docOffset="125">
+      <en>We accept the reality of that constraint, <Alignment alignment="46742" annotation_id="17221">
+          <DiscourseConnective annotation_id="17221" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> what I do not want to see is creditors having to make two applications to courts: one in respect of debtors in the home country, followed by another in a different country, cross-border.</en>
+      <fr>Nous acceptons la réalité de cette contrainte <Alignment alignment="17221" annotation_id="19474">
+          <DiscourseConnective annotation_id="19474" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce que je refuse de voir, c'est la situation où des créanciers doivent introduire deux requêtes auprès des tribunaux: l'une au sujet des débiteurs dans le pays de départ, suivie d'une autre requête - transfrontalière - dans un autre pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17412" docOffset="126">
+      <en>That may give the debtor warning <Alignment alignment="19790" annotation_id="17445">
+          <DiscourseConnective annotation_id="17445" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it may cause all sorts of complications.</en>
+      <fr>Cette double démarche peut constituer un avertissement pour le débiteur <Alignment alignment="17445" annotation_id="19790">
+          <DiscourseConnective annotation_id="19790" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> causer toutes sortes de complications.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17490" docOffset="127">
+      <en>We <Alignment alignment="19844" annotation_id="17493">
+          <DiscourseConnective annotation_id="17493" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> need to ensure that there are concurrent procedures available.</en>
+      <fr>Nous devons <Alignment alignment="17762" annotation_id="19844">
+          <DiscourseConnective annotation_id="19844" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> veiller <DiscourseConnective annotation_id="19857">à</DiscourseConnective> ce <DiscourseConnective annotation_id="19862">que</DiscourseConnective> des procédures concordantes soient disponibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17566" docOffset="128">
+      <en>Secondly, this is, of course, a balance of interests between the creditors and the debtors.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19914">Deuxièmement</DiscourseConnective>, il <DiscourseConnective annotation_id="19931">s'</DiscourseConnective>agit bien sûr d'atteindre un équilibre entre les intérêts des créanciers <DiscourseConnective annotation_id="20006">et</DiscourseConnective> ceux des débiteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17658" docOffset="129">
+      <en>We have a good system in England, under which <DiscourseConnective annotation_id="17704" sense="Temporal.Synchrony">when</DiscourseConnective> you are given such an interim measure, you have to provide an undertaking to the court, in damages, to respect the interests of third parties.</en>
+      <fr>
+        <DiscourseConnective annotation_id="20029">En</DiscourseConnective> Angleterre, nous avons un bon système: celui <DiscourseConnective annotation_id="20077">à</DiscourseConnective> qui on accorde une telle mesure intermédiaire doit s'engager devant le tribunal <DiscourseConnective annotation_id="20159">à</DiscourseConnective> verser des dommages-intérêts, cela dans le but de protéger les intérêts de la tierce partie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17852" docOffset="130">
+      <en>This may be the bank that has to organise the attachment, or a third party that might hold a joint account.</en>
+      <fr>Celle-ci peut être la banque chargée d'organiser la saisie, <DiscourseConnective annotation_id="20314">ou</DiscourseConnective> une tierce partie éventuellement titulaire d'un compte joint.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17960" docOffset="131">
+      <en>I would recommend a system along those lines.</en>
+      <fr>Je recommanderais un système de ce type.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18006" docOffset="132">
+      <en>I commend the report and the ideas in it.</en>
+      <fr>J'approuve ce rapport <DiscourseConnective annotation_id="20442">et</DiscourseConnective> les idées qu'il contient.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18048" docOffset="133">
+      <en>I believe it could do much to boost Europe's economy <Alignment alignment="20552" annotation_id="18101">
+          <DiscourseConnective annotation_id="18101" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we get things right.</en>
+      <fr>Je crois qu'il pourrait s'avérer très utile <DiscourseConnective annotation_id="20515">pour</DiscourseConnective> stimuler l'économie de l'Europe <Alignment alignment="18101" annotation_id="20552">
+          <DiscourseConnective annotation_id="20552" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous parvenons à en faire quelque chose d'efficace.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18125" id="491" name="Marek Aleksander Czarnecki">
+    <ParallelChunk annotation_id="18125" docOffset="134">
+      <en>on behalf of the UEN Group. - (PL) Madam President, the Green Paper on improving the efficiency of the enforcement of judgments in the European Union represents a further stage in the development of a European area of justice.</en>
+      <fr>au nom du groupe UEN. - (PL) Madame la Présidente, le Livre vert sur l'amélioration de l'exécution des décisions de justice dans l'Union européenne représente une étape supplémentaire dans le développement d'un espace européen de justice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18352" docOffset="135">
+      <en>I endorse the view put forward by the rapporteur in this report and support the introduction of a swift and effective procedure for obtaining an order for attachment of bank accounts in the European Union.</en>
+      <fr>Je souscris <DiscourseConnective annotation_id="20858">au point de</DiscourseConnective> vue mis en <DiscourseConnective annotation_id="20881">avant</DiscourseConnective> par le rapporteur dans ce rapport <DiscourseConnective annotation_id="20921">et</DiscourseConnective> je soutiens l'introduction d'une procédure rapide <DiscourseConnective annotation_id="20974">et</DiscourseConnective> efficace <DiscourseConnective annotation_id="20986">en vue de</DiscourseConnective> l'obtention d'une ordonnance de saisie d'avoirs bancaires dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18558" docOffset="136">
+      <en>In the context of ongoing integration in the Single Euro Payments Area, a legal provision of this nature seems to be both appropriate and desirable.</en>
+      <fr>Dans le contexte de l'intégration en cours dans l'Espace unique de paiement en euros, une disposition juridique de cette nature semble opportune <DiscourseConnective annotation_id="21224">et</DiscourseConnective> souhaitable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18707" docOffset="137">
+      <en>In view of the many difficulties involved in investigating claims, it is my belief that the European Union should introduce an independent additional procedure that would stand alongside national provisions.</en>
+      <fr>Au vu des nombreuses difficultés inhérentes aux enquêtes relatives au recouvrement de créances, je crois <DiscourseConnective annotation_id="21345">que</DiscourseConnective> l'Union européenne devrait introduire une procédure autonome complémentaire en parallèle des dispositions nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18915" docOffset="138">
+      <en>Such a procedure ought to apply only in cross-border cases and relate solely to funds in bank accounts and not to other assets.</en>
+      <fr>Cette procédure ne devrait s'appliquer <DiscourseConnective annotation_id="21506">que</DiscourseConnective> dans les affaires transfrontalières <DiscourseConnective annotation_id="21546">et</DiscourseConnective> ne concerner que les fonds qui se trouvent sur des comptes bancaires <DiscourseConnective annotation_id="21618">et</DiscourseConnective> non d'autres avoirs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19043" docOffset="139">
+      <en>It is simply a case of provisionally securing a creditor's claim, not of finally settling it.</en>
+      <fr>Il <DiscourseConnective annotation_id="21645">s'</DiscourseConnective>agit <DiscourseConnective annotation_id="21652">simplement</DiscourseConnective> de garantir provisoirement la créance d'un créancier, pas de la régler définitivement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19137" docOffset="140">
+      <en>Unjustified attachment may have serious consequences for the debtor and impact negatively on confidence in the European legal system.</en>
+      <fr>Des saisies injustifiées pourraient avoir de graves conséquences <DiscourseConnective annotation_id="21815">pour</DiscourseConnective> le débiteur <DiscourseConnective annotation_id="21832">et</DiscourseConnective> avoir un impact négatif sur la confiance dans le système judiciaire européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19271" docOffset="141">
+      <en>I <Alignment alignment="21922" annotation_id="19273">
+          <DiscourseConnective annotation_id="19273" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe that particular care should be taken to protect the debtor.</en>
+      <fr>Je crois <Alignment alignment="19273" annotation_id="21922">
+          <DiscourseConnective annotation_id="21922" sense="Contingency.Cause.Result">dès lors qu'</DiscourseConnective>
+        </Alignment>il faut apporter un soin particulier <DiscourseConnective annotation_id="21971">à</DiscourseConnective> la protection du débiteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19351" docOffset="142">
+      <en>This could involve, <Alignment alignment="36615" annotation_id="19371">
+          <DiscourseConnective annotation_id="19371" sense="Expansion.Instantiation">for instance</DiscourseConnective>
+        </Alignment>, submission of security by the creditor, the right to object, limiting the amount liable or even a requirement for the creditor to submit an application for court proceedings to be brought regarding the main action.</en>
+      <fr>Cela pourrait se traduire, <Alignment alignment="19371" annotation_id="22027">
+          <DiscourseConnective annotation_id="22027" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, par la constitution d'une garantie par le créancier, par le droit de contester l'ordonnance, par la limitation du montant dû <DiscourseConnective annotation_id="22165">ou</DiscourseConnective> <DiscourseConnective annotation_id="22168">même</DiscourseConnective> par l'obligation <DiscourseConnective annotation_id="22190">pour</DiscourseConnective> le créancier de présenter une demande <DiscourseConnective annotation_id="22233">en vue d'</DiscourseConnective>intenter une procédure judiciaire concernant l'action principale.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19600" id="492" name="Lidia Joanna Geringer de Oedenberg">
+    <ParallelChunk annotation_id="19600" docOffset="143">
+      <en>(PL) Madam President, the provisions relating to enforcement legislation are often described as the Achilles' heel of the European system of justice concerning civil cases.</en>
+      <fr>(PL) Madame la Présidente, les dispositions relatives <DiscourseConnective annotation_id="22362">à</DiscourseConnective> la législation d'exécution sont souvent décrites <DiscourseConnective annotation_id="22413">comme</DiscourseConnective> le talon d'Achille du système judiciaire européen en matière civile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19773" docOffset="144">
+      <en>To date, no legislative motion has been submitted regarding the actual means of enforcing judgments.</en>
+      <fr>
+        <DiscourseConnective annotation_id="22488">À</DiscourseConnective> ce jour, aucune proposition législative n'a été présentée concernant les moyens concrets d'exécuter les décisions de justice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19874" docOffset="145">
+      <en>Enforcing a court order <Alignment alignment="22652" annotation_id="19898">
+          <DiscourseConnective annotation_id="19898" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> establishing its enforceability in another country is still the exclusive competence of national law.</en>
+      <fr>Exécuter l'ordonnance d'un tribunal <Alignment alignment="19898" annotation_id="22652">
+          <DiscourseConnective annotation_id="22652" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> avoir établi sa force exécutoire dans un autre pays relève <DiscourseConnective annotation_id="22717">encore</DiscourseConnective> exclusivement du droit national.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20006" docOffset="146">
+      <en>The current variations between the principles for debt recovery in individual Member States of the European Union seriously hinder the recovery of cross-border debts.</en>
+      <fr>Les actuelles variations entre les principes de recouvrement de dettes dans les différents États membres de l'Union européenne entravent sérieusement le recouvrement des créances transfrontalières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20173" docOffset="147">
+      <en>Creditors seeking enforcement of an order in another country are confronted with unfamiliar legal systems and legal requirements.</en>
+      <fr>Les créanciers qui veulent faire exécuter une ordonnance dans un autre pays sont confrontés à des systèmes judiciaires <DiscourseConnective annotation_id="23074">et</DiscourseConnective> à des dispositions juridiques qu'ils ne connaissent pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20303" docOffset="148">
+      <en>They <Alignment alignment="23146" annotation_id="20308">
+          <DiscourseConnective annotation_id="20308" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> have to cope with the language barrier, which entails additional costs and delays the enforcement procedure.</en>
+      <fr>Ils doivent <Alignment alignment="20308" annotation_id="23146">
+          <DiscourseConnective annotation_id="23146" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> faire face à la barrière de la langue, qui implique des coûts supplémentaires <DiscourseConnective annotation_id="23234">et</DiscourseConnective> retarde la procédure d'exécution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20422" docOffset="149">
+      <en>Difficulties relating to the recovery of cross-border debts hinder the free movement of payment orders within the Union and impact negatively on the proper operation of the internal market.</en>
+      <fr>Les difficultés relatives au recouvrement de créances transfrontalières entravent la libre circulation des ordres de paiement au sein de l'Union <DiscourseConnective annotation_id="23416">et</DiscourseConnective> ont un impact négatif sur le bon fonctionnement du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20612" docOffset="150">
+      <en>Payments that are delayed or never made endanger the interests of companies and consumers alike.</en>
+      <fr>Les payements qui sont retardés <DiscourseConnective annotation_id="23520">ou</DiscourseConnective> jamais exécutés compromettent les intérêts des entreprises <DiscourseConnective annotation_id="23582">comme</DiscourseConnective> ceux des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20709" docOffset="151">
+      <en>The Commission's proposal to introduce a single European legal instrument that would be independent of national legislation and stand alongside it <Alignment alignment="23799" annotation_id="20856">
+          <DiscourseConnective annotation_id="20856" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> seems to be entirely appropriate, <Alignment alignment="23832" annotation_id="20900">
+          <DiscourseConnective annotation_id="20900" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> not essential.</en>
+      <fr>La proposition de la Commission d'introduire un instrument juridique européen unique qui serait indépendant des législations nationales <DiscourseConnective annotation_id="23748">et</DiscourseConnective> fonctionnerait en parallèle de celles-ci semble <Alignment alignment="20856" annotation_id="23799">
+          <DiscourseConnective annotation_id="23799" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> tout à fait appropriée, <Alignment alignment="20900" annotation_id="23832">
+          <DiscourseConnective annotation_id="23832" sense="Contingency.Condition">sinon</DiscourseConnective>
+        </Alignment> essentielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20918" docOffset="152">
+      <en>Article 65(c) of the Treaty establishing the European Community could serve as the legal basis for such a document.</en>
+      <fr>L'article 65, point c), du Traité instituant la Communauté européenne pourrait servir de base juridique <DiscourseConnective annotation_id="23955">à</DiscourseConnective> ce document.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21034" docOffset="153">
+      <en>In this connection, pursuant to the provisions of the Green Paper, the creditor should have the right to submit an application for an order to be issued for the attachment of bank accounts before the start of the main proceedings.</en>
+      <fr>
+        <DiscourseConnective annotation_id="23970">À cet égard</DiscourseConnective>, en vertu des dispositions du livre vert, le créancier devrait avoir le droit d'introduire une demande afin qu'une ordonnance de saisie d'avoirs bancaires <DiscourseConnective annotation_id="24137">soit</DiscourseConnective> délivrée <DiscourseConnective annotation_id="24151">avant</DiscourseConnective> le début de la procédure principale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21265" docOffset="154">
+      <en>In view of the provisional nature of the procedure, the creditor should, <Alignment alignment="28737" annotation_id="21338">
+          <DiscourseConnective annotation_id="21338" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, be required to justify his or her claim and also the urgent need for an attachment order to be issued.</en>
+      <fr>Au vu de la nature provisoire de la procédure, le créancier devrait <Alignment alignment="21338" annotation_id="24262">
+          <DiscourseConnective annotation_id="24262" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> être tenu de justifier sa créance <DiscourseConnective annotation_id="24306">ainsi</DiscourseConnective> que la nécessité urgente de délivrer une ordonnance de saisie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21450" docOffset="155">
+      <en>Unjustified attachment can of course have very serious implications for a debtor, and can even deprive the latter of the means with which to satisfy his or her basic needs.</en>
+      <fr>Une saisie injustifiée peut, bien sûr, avoir de graves conséquences <DiscourseConnective annotation_id="24443">pour</DiscourseConnective> un débiteur, <DiscourseConnective annotation_id="24461">et</DiscourseConnective> peut <DiscourseConnective annotation_id="24469">même</DiscourseConnective> priver ce dernier des moyens nécessaires <DiscourseConnective annotation_id="24515">pour</DiscourseConnective> couvrir ses besoins de base.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21623" docOffset="156">
+      <en>Other important issues are a debtor's right to contest the order and setting the amount to be paid.</en>
+      <fr>Parmi les autres points importants se trouvent le droit du débiteur de contester l'ordonnance <DiscourseConnective annotation_id="24643">et</DiscourseConnective> la fixation du montant <DiscourseConnective annotation_id="24669">à</DiscourseConnective> payer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21723" docOffset="157">
+      <en>Setting a single limit for the sum to be exempted from enforcement at European Union level does not seem to be a good idea.</en>
+      <fr>Fixer une limite unique au montant <DiscourseConnective annotation_id="24713">à</DiscourseConnective> exempter de l'exécution au niveau de l'Union européenne ne semble pas être une bonne idée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21847" docOffset="158">
+      <en>Such decisions should remain within the competence of the legal system of the debtor's home country.</en>
+      <fr>Ce genre de décisions devrait continuer à relever de la compétence du système judiciaire du pays d'origine du débiteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21948" docOffset="159">
+      <en>As regards serving orders for the seizure of assets from bank accounts, it is important to ensure that uniform standards concerning communication between courts and banks are established within the European Union.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24926">En</DiscourseConnective> ce qui concerne l'exécution des ordonnances de saisie d'avoirs bancaires, il est important de veiller à ce <DiscourseConnective annotation_id="25036">que</DiscourseConnective> des normes uniformes en matière de communication entre les tribunaux <DiscourseConnective annotation_id="25109">et</DiscourseConnective> les banques soient mises en place au sein de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22162" docOffset="160">
+      <en>It seems essential to regulate the matter of recovery of cross-border debts by way of adoption of the relevant legal act.</en>
+      <fr>Il semble essentiel de réglementer la question du recouvrement des créances transfrontalières <DiscourseConnective annotation_id="25271">en</DiscourseConnective> adoptant un acte juridique opportun.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22284" docOffset="161">
+      <en>It is, <Alignment alignment="25318" annotation_id="22291">
+          <DiscourseConnective annotation_id="22291" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, important not to overlook the need to first undertake an in-depth study of the provisions already in force in individual Community countries and to assess the effectiveness of alternative solutions in relation to European provisions.</en>
+      <fr>Il est <Alignment alignment="24848" annotation_id="25318">
+          <DiscourseConnective annotation_id="25318" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> important de ne pas négliger la nécessité de <DiscourseConnective annotation_id="25373">d'abord</DiscourseConnective> entreprendre une étude approfondie des dispositions <DiscourseConnective annotation_id="25433">déjà</DiscourseConnective> <DiscourseConnective annotation_id="25438">en</DiscourseConnective> vigueur dans les différents pays de la Communauté <DiscourseConnective annotation_id="25491">et</DiscourseConnective> d'évaluer l'efficacité de solutions alternatives <DiscourseConnective annotation_id="25543">en</DiscourseConnective> ce qui concerne les dispositions européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22534" docOffset="162">
+      <en>I should like to conclude by thanking Mr Lechner for a well-considered and well-prepared report.</en>
+      <fr>Je voudrais conclure en remerciant M. Lechner <DiscourseConnective annotation_id="25638">pour</DiscourseConnective> son rapport bien étudié <DiscourseConnective annotation_id="25667">et</DiscourseConnective> bien préparé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22631" id="493" name="Andrzej Jan Szejna">
+    <ParallelChunk annotation_id="22631" docOffset="163">
+      <en>(PL) Madam President, the problem of effective enforcement of monetary claims across the territory of the European Union is very important in terms of ensuring proper functioning of the internal market.</en>
+      <fr>(PL) Madame la Présidente, le problème de l'exécution effective des créances monétaires sur le territoire de l'Union européenne est très important <DiscourseConnective annotation_id="25831">pour</DiscourseConnective> le bon fonctionnement du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22834" docOffset="164">
+      <en>It is worth considering Community action in this regard.</en>
+      <fr>Il est utile d'envisager une action communautaire <DiscourseConnective annotation_id="25929">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22891" docOffset="165">
+      <en>There is a very important saying that was impressed on me <Alignment alignment="26008" annotation_id="22949">
+          <DiscourseConnective annotation_id="22949" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I was a trainee lawyer, according to which <Alignment alignment="26053" annotation_id="22997">
+          <DiscourseConnective annotation_id="22997" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we do someone a favour we become indebted to them.</en>
+      <fr>Il y a un dicton très important <DiscourseConnective annotation_id="25974">que</DiscourseConnective> l'on m'a bien fait comprendre <Alignment alignment="22949" annotation_id="26008">
+          <DiscourseConnective annotation_id="26008" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> j'étais avocat stagiaire, selon lequel <Alignment alignment="6903" annotation_id="26053">
+          <DiscourseConnective annotation_id="26053" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> l'on fait une faveur à quelqu'un, on devient redevable envers cette personne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23053" docOffset="166">
+      <en>This is sometimes true.</en>
+      <fr>C'est parfois vrai.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23077" docOffset="167">
+      <en>Delaying payments or failing to make them altogether endangers the interests of companies and consumers alike.</en>
+      <fr>Retarder des paiements <DiscourseConnective annotation_id="26182">ou</DiscourseConnective> ne pas les effectuer compromet les intérêts des entreprises <DiscourseConnective annotation_id="26245">comme</DiscourseConnective> ceux des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23188" docOffset="168">
+      <en>The differences in the efficiency of debt recovery that currently exist within the European Union can threaten the competitiveness of companies whose activities extend beyond the borders of a particular Member State.</en>
+      <fr>Les différences d'efficacité en matière de recouvrement de créances qui existent actuellement au sein de l'Union européenne peuvent menacer la compétitivité d'entreprises dont les activités s'étendent au-delà des frontières d'un État membre donné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23405" docOffset="169">
+      <en>The systems for enforcing orders differ between individual Member States.</en>
+      <fr>Les systèmes d'exécution des décisions de justice diffèrent d'un État membre à l'autre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23479" docOffset="170">
+      <en>In some states they are more effective than in others.</en>
+      <fr>Ils sont plus efficaces dans certains États <DiscourseConnective annotation_id="26655">que</DiscourseConnective> dans d'autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23534" docOffset="171">
+      <en>
+        <DiscourseConnective annotation_id="23534" sense="Temporal.Synchrony">As</DiscourseConnective> things stand at present, a debtor may almost instantly transfer funds from accounts known to the creditor to other accounts located in the same country or in another Member State.</en>
+      <fr>Dans l'état actuel des choses, un débiteur peut presqu'<DiscourseConnective annotation_id="26729">instantanément</DiscourseConnective> transférer des fonds de comptes connus du créancier vers d'autres comptes dans le <DiscourseConnective annotation_id="26826">même</DiscourseConnective> pays <DiscourseConnective annotation_id="26836">ou</DiscourseConnective> dans un autre État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23717" docOffset="172">
+      <en>This makes it practically impossible for creditors to block those funds.</en>
+      <fr>Cela rend pratiquement impossible <DiscourseConnective annotation_id="26900">pour</DiscourseConnective> les créanciers de bloquer ces fonds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23790" docOffset="173">
+      <en>
+        <Alignment alignment="26942" annotation_id="23790">
+          <DiscourseConnective annotation_id="23790" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, creditors seeking enforcement of an order in another Member State are confronted with a different legal system and procedural requirements.</en>
+      <fr>
+        <Alignment alignment="23790" annotation_id="26942">
+          <DiscourseConnective annotation_id="26942" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, les créditeurs qui veulent faire exécuter une décision de justice dans un autre État membre sont confrontés <DiscourseConnective annotation_id="27060">à</DiscourseConnective> un système judiciaire <DiscourseConnective annotation_id="27084">et</DiscourseConnective> à des exigences procédurales différents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23943" docOffset="174">
+      <en>The language barrier and cost of the proceedings represent additional obstacles.</en>
+      <fr>La barrière de la langue <DiscourseConnective annotation_id="27153">et</DiscourseConnective> le coût de la procédure constituent des obstacles supplémentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24024" docOffset="175">
+      <en>I <Alignment alignment="27232" annotation_id="24026">
+          <DiscourseConnective annotation_id="24026" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe that we should respond positively to the proposal to create a European system to attach bank accounts.</en>
+      <fr>Je crois <Alignment alignment="24026" annotation_id="27232">
+          <DiscourseConnective annotation_id="27232" sense="Contingency.Cause.Result">dès lors que</DiscourseConnective>
+        </Alignment> nous devrions répondre positivement <DiscourseConnective annotation_id="27281">à</DiscourseConnective> la proposition de créer un système européen de saisie des avoirs bancaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24147" docOffset="176">
+      <en>Bearing in mind the increasing integration in the Single Euro Payments Area, legal regulation of this type is both appropriate and essential.</en>
+      <fr>Gardant <DiscourseConnective annotation_id="27367">à</DiscourseConnective> l'esprit l'intégration en cours dans l'Espace unique de paiement en euros, une réglementation juridique de ce type est à la fois appropriée <DiscourseConnective annotation_id="27509">et</DiscourseConnective> essentielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24289" docOffset="177">
+      <en>I would like to thank Mr Lechner for this report.</en>
+      <fr>Je voudrais remercier M. Lechner <DiscourseConnective annotation_id="27558">pour</DiscourseConnective> son rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24339" docOffset="178">
+      <en>I am sure it will represent a turning point in the Union's legal system.</en>
+      <fr>Je suis sûr qu'il constituera un tournant dans le système judiciaire de l'Union.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="24412" id="494" name="Franco Frattini">
+    <ParallelChunk annotation_id="24412" docOffset="179">
+      <en>Vice-President of the Commission. - (IT) Madam President, ladies and gentlemen, just a brief remark about the comments made by Mr Medina Ortega and also to thank everyone who has spoken.</en>
+      <fr>vice-président de la Commission. - (IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="27728">et</DiscourseConnective> Messieurs, juste une brève <DiscourseConnective annotation_id="27758">remarque</DiscourseConnective> au sujet des commentaires de M. Medina Ortega <DiscourseConnective annotation_id="27813">ainsi</DiscourseConnective> que <DiscourseConnective annotation_id="27823">pour</DiscourseConnective> remercier tous les intervenants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24599" docOffset="180">
+      <en>This European instrument, this European attachment order that is under discussion, really could complement national legislation and hence deal with the serious infringements of creditors' rights that occur on a transnational basis.</en>
+      <fr>Cet instrument européen, cette ordonnance de saisie européenne dont nous parlons, pourrait vraiment compléter les législations nationales <DiscourseConnective annotation_id="27999">et</DiscourseConnective> <DiscourseConnective annotation_id="28002">ainsi</DiscourseConnective> faire face aux infractions sérieuses aux droits des créanciers qui se produisent au niveau transnational.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24831" docOffset="181">
+      <en>I very much agree with Mr Medina Ortega about the fact that we must give thought to attachment, <Alignment alignment="23564" annotation_id="24927">
+          <DiscourseConnective annotation_id="24927" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> protection, <DiscourseConnective annotation_id="24942" sense="Temporal.Synchrony">as</DiscourseConnective> it were, in respect of people who take refuge in tax havens.</en>
+      <fr>Je suis tout à fait d'accord avec M. Medina Ortega sur le fait <DiscourseConnective annotation_id="28177">que</DiscourseConnective> nous devons réfléchir <DiscourseConnective annotation_id="28203">à</DiscourseConnective> la saisie, <Alignment alignment="9909" annotation_id="28216">
+          <DiscourseConnective annotation_id="28216" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> à la protection, d'une certaine manière, des personnes qui vont chercher refuge dans les paradis fiscaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25006" docOffset="182">
+      <en>Clearly, <Alignment alignment="28325" annotation_id="25015">
+          <DiscourseConnective annotation_id="25015" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you are all aware, Europe has no unilateral power to act.</en>
+      <fr>
+        <Alignment alignment="25015" annotation_id="28325">
+          <DiscourseConnective annotation_id="28325" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez tous, l'Europe n'a clairement pas le pouvoir unilatéral d'agir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25076" docOffset="183">
+      <en>What we must work towards, in my opinion, is closer cooperation between the judiciary, the financial investigation authorities and the major banking groups which operate in these so-called tax havens.</en>
+      <fr>Ce à quoi nous devons, selon moi, nous atteler, c'est à une coopération plus étroite entre les systèmes judiciaires, les autorités d'enquête financière <DiscourseConnective annotation_id="28561">et</DiscourseConnective> les grands groupes banquiers qui opèrent dans ces paradis fiscaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25277" docOffset="184">
+      <en>We need to convince those countries' governments that it is ultimately in their interest to cooperate with the European Union.</en>
+      <fr>Nous devons convaincre les gouvernements de ces pays <DiscourseConnective annotation_id="28684">qu'</DiscourseConnective>il est <DiscourseConnective annotation_id="28694">en fin de compte</DiscourseConnective> dans leur intérêt de coopérer avec l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25404" docOffset="185">
+      <en>
+        <Alignment alignment="32701" annotation_id="25404">
+          <DiscourseConnective annotation_id="25404" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, even <Alignment alignment="26225" annotation_id="25420">
+          <DiscourseConnective annotation_id="25420" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we do not have an active instrument in the near future, a unilateral tool to counter the system of tax havens, we ought to be able to use the instrument of democracy, on the one hand, and that of judicial and financial cooperation, on the other, to tackle what is a very real problem.</en>
+      <fr>
+        <Alignment alignment="25404" annotation_id="28766">
+          <DiscourseConnective annotation_id="28766" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, <Alignment alignment="25420" annotation_id="28782">
+          <DiscourseConnective annotation_id="28782" sense="Contingency.Condition">même si</DiscourseConnective>
+        </Alignment> nous ne disposons pas d'un instrument actif dans un avenir proche, un instrument unilatéral <DiscourseConnective annotation_id="28882">en vue de</DiscourseConnective> contrer le système des paradis fiscaux, nous devrions pouvoir utiliser l'instrument de la démocratie, <DiscourseConnective annotation_id="28994">d'une part</DiscourseConnective>, <DiscourseConnective annotation_id="29006">et</DiscourseConnective> celui de la coopération judiciaire <DiscourseConnective annotation_id="29044">et</DiscourseConnective> financière, <DiscourseConnective annotation_id="29059">d'autre part</DiscourseConnective>, <DiscourseConnective annotation_id="29073">pour</DiscourseConnective> nous attaquer à ce qui est un problème très réel.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25708" id="495" name="President">
+    <ParallelChunk annotation_id="25708" docOffset="186">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25730" docOffset="187">
+      <en>The vote will take place tomorrow.</en>
+      <fr>Le vote aura lieu jeudi 25 octobre 2007.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

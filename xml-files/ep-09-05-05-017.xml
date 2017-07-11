@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>The petitions process (amendment of Title VIII of the Rules of Procedure) (debate)</en>
+    <fr>Révision du Règlement concernant la procédure des pétitions (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="83" id="438" name="President">
+    <ParallelChunk annotation_id="83" docOffset="1">
+      <en>The next item is the report by Mr Onesta, on behalf of the Committee on Constitutional Affairs, on revision of the Rules of Procedure with regard to the petitions process.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Onesta, au nom de la commission des affaires constitutionnelles, sur la révision des dispositions du règlement concernant la procédure des pétitions.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="255" id="439" language="FR" name="Gérard Onesta">
+    <ParallelChunk annotation_id="255" docOffset="2">
+      <en>Mr President, after the large cake that was the Corbett report, I do not know whether this is the cherry; it is more like the little cake you get with your coffee, just <Alignment alignment="11848" annotation_id="424">
+          <DiscourseConnective annotation_id="424" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> they slip you the bill.</en>
+      <fr>rapporteur. - Monsieur le Président, <DiscourseConnective annotation_id="296">après</DiscourseConnective> le gros gâteau du rapport Corbett, je ne sais pas <DiscourseConnective annotation_id="352">si</DiscourseConnective> c'est la cerise; ce serait <DiscourseConnective annotation_id="382">plutôt</DiscourseConnective> le petit gâteau que l'on vous donne avec le café, juste <Alignment alignment="13360" annotation_id="445">
+          <DiscourseConnective annotation_id="445" sense="Temporal.Synchrony">pour</DiscourseConnective>
+        </Alignment> faire passer l'addition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="451" docOffset="3">
+      <en>I am going to talk about petitions.</en>
+      <fr>Je vais donc vous parler des pétitions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="487" docOffset="4">
+      <en>We have seen in the past that the Rules of Procedure, <DiscourseConnective annotation_id="541" sense="Temporal.Synchrony">as</DiscourseConnective> they stand, have caused us a few problems, <Alignment alignment="621" annotation_id="587">
+          <DiscourseConnective annotation_id="587" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> sometimes certain rules were difficult to interpret or even led to political deadlock as to the admissibility of this or that text.</en>
+      <fr>Nous avons constaté par le passé <DiscourseConnective annotation_id="548">que</DiscourseConnective> le règlement, tel qu'il était rédigé, nous posait quelques problèmes <Alignment alignment="587" annotation_id="621">
+          <DiscourseConnective annotation_id="621" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment>, parfois, certains articles suscitaient des interprétations difficiles, voire <DiscourseConnective annotation_id="703">même</DiscourseConnective> des blocages politiques <DiscourseConnective annotation_id="732">quant à</DiscourseConnective> la recevabilité de tel <DiscourseConnective annotation_id="763">ou</DiscourseConnective> tel texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="722" docOffset="5">
+      <en>We have <Alignment alignment="30932" annotation_id="730">
+          <DiscourseConnective annotation_id="730" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> tried to do some tidying up, to clarify and to consolidate, <Alignment alignment="858" annotation_id="800">
+          <DiscourseConnective annotation_id="800" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that does not make it a revolution.</en>
+      <fr>Nous avons <Alignment alignment="730" annotation_id="788">
+          <DiscourseConnective annotation_id="788" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> essayé de faire un peu de nettoyage, de préciser, de consolider, <Alignment alignment="800" annotation_id="858">
+          <DiscourseConnective annotation_id="858" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cela ne constitue pas <DiscourseConnective annotation_id="885">pour autant</DiscourseConnective> une révolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="840" docOffset="6">
+      <en>First of all we want to better identify the petitioner, <Alignment alignment="971" annotation_id="896">
+          <DiscourseConnective annotation_id="896" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment>, at the moment, <Alignment alignment="992" annotation_id="918">
+          <DiscourseConnective annotation_id="918" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we receive half a tonne of petitions, it is not that clear who the contact person is.</en>
+      <fr>Nous souhaitons <DiscourseConnective annotation_id="929">d'abord</DiscourseConnective> <DiscourseConnective annotation_id="937">mieux</DiscourseConnective> identifier le pétitionnaire <Alignment alignment="896" annotation_id="971">
+          <DiscourseConnective annotation_id="971" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="976">pour</DiscourseConnective> l'instant, <Alignment alignment="918" annotation_id="992">
+          <DiscourseConnective annotation_id="992" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> on reçoit une demi-tonne de pétitions, on ne sait pas trop qui est la personne de référence à laquelle <DiscourseConnective annotation_id="1101">s'</DiscourseConnective>adresser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1009" docOffset="7">
+      <en>We will <Alignment alignment="9976" annotation_id="1017">
+          <DiscourseConnective annotation_id="1017" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask the petitioners to specify who is, <Alignment alignment="5538" annotation_id="1066">
+          <DiscourseConnective annotation_id="1066" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it were, their leader; <Alignment alignment="1214" annotation_id="1092">
+          <DiscourseConnective annotation_id="1092" sense="Expansion.Alternative">otherwise</DiscourseConnective>
+        </Alignment>, we will decide to use the first name on the first page.</en>
+      <fr>Nous demandons <Alignment alignment="1017" annotation_id="1128">
+          <DiscourseConnective annotation_id="1128" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> aux pétitionnaires de préciser qui est, <Alignment alignment="1066" annotation_id="1177">
+          <DiscourseConnective annotation_id="1177" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> quelque sorte, leur chef de file; <Alignment alignment="1092" annotation_id="1214">
+          <DiscourseConnective annotation_id="1214" sense="Expansion.Alternative">sinon</DiscourseConnective>
+        </Alignment>, nous déciderons de désigner le premier nom de la première page.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1159" docOffset="8">
+      <en>We have established the right to withdraw from a petition.</en>
+      <fr>Nous instituons un droit de retrait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1218" docOffset="9">
+      <en>We are saying to the citizens, 'you can submit a petition <Alignment alignment="1374" annotation_id="1276">
+          <DiscourseConnective annotation_id="1276" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> you can <Alignment alignment="5746" annotation_id="1288">
+          <DiscourseConnective annotation_id="1288" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> waive this right and request that your name be withdrawn from the list of signatories'.</en>
+      <fr>Nous disons aux citoyens: "Vous pouvez pétitionner, <Alignment alignment="1276" annotation_id="1374">
+          <DiscourseConnective annotation_id="1374" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> vous pouvez <Alignment alignment="1288" annotation_id="1391">
+          <DiscourseConnective annotation_id="1391" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> renoncer à ce droit <DiscourseConnective annotation_id="1421">et</DiscourseConnective> demander <DiscourseConnective annotation_id="1433">que</DiscourseConnective> votre nom <DiscourseConnective annotation_id="1447">soit</DiscourseConnective> retiré de la liste des signataires".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1381" docOffset="10">
+      <en>You are aware that Parliament can receive correspondence in minority languages, such as Galician, Basque, Catalan and so on, <Alignment alignment="4815" annotation_id="1506">
+          <DiscourseConnective annotation_id="1506" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they are recognised by the Member States. We have decided to extend this right to petitions, too.</en>
+      <fr>Vous savez <DiscourseConnective annotation_id="1500">que</DiscourseConnective> notre Parlement peut recevoir du courrier dans des langues minoritaires <Alignment alignment="2214" annotation_id="1576">
+          <DiscourseConnective annotation_id="1576" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> elles sont reconnues par les États, <DiscourseConnective annotation_id="1618">comme</DiscourseConnective> le galicien, le basque, le catalan, etc. Nous avons décidé d'étendre ce droit <DiscourseConnective annotation_id="1702">également</DiscourseConnective> aux pétitions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1609" docOffset="11">
+      <en>
+        <Alignment alignment="1727" annotation_id="1609">
+          <DiscourseConnective annotation_id="1609" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we receive correspondence in certain languages which the Bureau recognises as languages for written communication with citizens, we shall <Alignment alignment="20775" annotation_id="1750">
+          <DiscourseConnective annotation_id="1750" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> reply in those languages.</en>
+      <fr>
+        <Alignment alignment="1609" annotation_id="1727">
+          <DiscourseConnective annotation_id="1727" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> l'on nous écrit dans certaines langues <DiscourseConnective annotation_id="1769">que</DiscourseConnective> le Bureau aura reconnues <DiscourseConnective annotation_id="1798">comme</DiscourseConnective> langues de communication écrite avec les citoyens, nous répondrons <Alignment alignment="1750" annotation_id="1871">
+          <DiscourseConnective annotation_id="1871" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> dans ces langues-là.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1781" docOffset="12">
+      <en>The true reform, <DiscourseConnective annotation_id="1798" sense="Comparison.Contrast">however</DiscourseConnective>, lies with admissibility.</en>
+      <fr>Mais la vraie réforme, c'est la recevabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1832" docOffset="13">
+      <en>Until now, the members of the Committee on Petitions at times had to battle quite hard to find out whether a certain document really was a matter of European law <Alignment alignment="15761" annotation_id="1994">
+          <DiscourseConnective annotation_id="1994" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1948">Jusqu'à</DiscourseConnective> <DiscourseConnective annotation_id="1956">maintenant</DiscourseConnective>, des joutes assez dures opposaient parfois les membres de la commission des pétitions <DiscourseConnective annotation_id="2053">pour</DiscourseConnective> savoir <DiscourseConnective annotation_id="2065">si</DiscourseConnective> tel texte concernait vraiment le droit européen <Alignment alignment="5481" annotation_id="2116">
+          <DiscourseConnective annotation_id="2116" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2002" docOffset="14">
+      <en>After all, <DiscourseConnective annotation_id="2013" sense="Contingency.Cause.Reason">since</DiscourseConnective> Europe extends to all areas, people were getting in through the back door.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2124">Finalement</DiscourseConnective>, l'Europe étant partout, par des chemins détournés, on y arrivait toujours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2094" docOffset="15">
+      <en>We have <Alignment alignment="3853" annotation_id="2102">
+          <DiscourseConnective annotation_id="2102" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> tried to simplify things by giving a kind of admissibility incentive.</en>
+      <fr>Nous avons <Alignment alignment="2102" annotation_id="2222">
+          <DiscourseConnective annotation_id="2222" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> essayé de simplifier les choses <DiscourseConnective annotation_id="2259">en</DiscourseConnective> donnant une sorte de prime de recevabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2182" docOffset="16">
+      <en>
+        <Alignment alignment="26525" annotation_id="2182">
+          <DiscourseConnective annotation_id="2182" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> a quarter of the members of the Committee on Petitions regards a text as admissible, it will be considered, <Alignment alignment="31365" annotation_id="2293">
+          <DiscourseConnective annotation_id="2293" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> there is no question of our restricting a vital right, a right which is, in any case, based on primary law.</en>
+      <fr>
+        <Alignment alignment="2182" annotation_id="2306">
+          <DiscourseConnective annotation_id="2306" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> un quart des membres de la commission des pétitions pense qu'un texte est recevable, il sera instruit, <Alignment alignment="2293" annotation_id="2412">
+          <DiscourseConnective annotation_id="2412" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> il n'est pas question <DiscourseConnective annotation_id="2438">pour</DiscourseConnective> nous de restreindre un droit essentiel, un droit qui est <DiscourseConnective annotation_id="2500">tout de même</DiscourseConnective> fondé sur le droit primaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2404" docOffset="17">
+      <en>In the event of a declaration of inadmissibility, we shall even try to recommend possible means of redress.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2542">En</DiscourseConnective> cas de déclaration d'irrecevabilité, nous essaierons <DiscourseConnective annotation_id="2598">même</DiscourseConnective> de recommander quelques voies de recours possibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2512" docOffset="18">
+      <en>There must always be transparency, <Alignment alignment="37932" annotation_id="2547">
+          <DiscourseConnective annotation_id="2547" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the petitioner's name and the content of the petition will always be published on our registers, <Alignment alignment="7130" annotation_id="2650">
+          <DiscourseConnective annotation_id="2650" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="25295" annotation_id="2654">
+          <DiscourseConnective annotation_id="2654" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment>, in order to protect privacy, the petitioner asks for anonymity, we will be able to provide this.</en>
+      <fr>La transparence est toujours de mise, <Alignment alignment="2547" annotation_id="2693">
+          <DiscourseConnective annotation_id="2693" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> la publication du nom du pétitionnaire <DiscourseConnective annotation_id="2740">et</DiscourseConnective> du contenu de la pétition se fera toujours dans nos registres <Alignment alignment="1337" annotation_id="2805">
+          <DiscourseConnective annotation_id="2805" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="2654" annotation_id="2810">
+          <DiscourseConnective annotation_id="2810" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="2814">pour</DiscourseConnective> une raison de protection de la vie privée, le pétitionnaire demande l'incognito, nous pourrons lui donner raison.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2755" docOffset="19">
+      <en>The same holds true <Alignment alignment="34461" annotation_id="2775">
+          <DiscourseConnective annotation_id="2775" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> confidentiality is requested during discussions.</en>
+      <fr>Il en va de même, <Alignment alignment="854" annotation_id="2951">
+          <DiscourseConnective annotation_id="2951" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> la confidentialité est demandée <DiscourseConnective annotation_id="2986">pour</DiscourseConnective> les débats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2827" docOffset="20">
+      <en>Naturally the petitioners' right to speak, at the discretion of the committee chairman, has been retained.</en>
+      <fr>Le droit de parole est toujours maintenu, bien évidemment, pour les pétitionnaires, <DiscourseConnective annotation_id="3087">à</DiscourseConnective> la discrétion du président de la commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2934" docOffset="21">
+      <en>As for the right to take follow-up action, we have extended it - or <Alignment alignment="14745" annotation_id="3002">
+          <DiscourseConnective annotation_id="3002" sense="Expansion.Alternative.Chosen alternative">rather</DiscourseConnective>
+        </Alignment> clarified it - to a degree, as in the past the Committee on Petitions could practically issue an own-initiative report on more or less anything and everything.</en>
+      <fr>Quant au droit de suite, nous l'avons un petit peu élargi - <DiscourseConnective annotation_id="3194">ou</DiscourseConnective> <Alignment alignment="4090" annotation_id="3197">
+          <DiscourseConnective annotation_id="3197" sense="Expansion.Alternative.Chosen alternative">plutôt</DiscourseConnective>
+        </Alignment> précisé - <DiscourseConnective annotation_id="3214">puisqu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="3221">auparavant</DiscourseConnective>, la commission des pétitions pouvait quasiment s'autosaisir sur à peu près tout <DiscourseConnective annotation_id="3312">et</DiscourseConnective> n'importe quoi pour l'élaboration d'un rapport d'initiative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3169" docOffset="22">
+      <en>We do not see why this committee should have more rights than the other committees.</en>
+      <fr>Nous ne voyons pas pourquoi cette commission aurait plus de droits <DiscourseConnective annotation_id="3443">que</DiscourseConnective> les autres commissions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3253" docOffset="23">
+      <en>It will of course retain this right provided that there is no objection by the Conference of Presidents.</en>
+      <fr>Elle conserve bien évidemment ce droit, <DiscourseConnective annotation_id="3511">à condition que</DiscourseConnective> la Conférence des présidents de groupes politiques ne <DiscourseConnective annotation_id="3581">s'</DiscourseConnective>y oppose pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3358" docOffset="24">
+      <en>The electronic register has been retained.</en>
+      <fr>Le registre électronique est maintenu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3401" docOffset="25">
+      <en>
+        <DiscourseConnective annotation_id="3401" sense="Contingency.Condition">If</DiscourseConnective> necessary there will be fact-finding visits in situ to establish facts or indeed to seek a solution.</en>
+      <fr>Les missions d'information se rendent sur place, au besoin, <DiscourseConnective annotation_id="3696">pour</DiscourseConnective> vérifier les faits, voire <DiscourseConnective annotation_id="3727">pour</DiscourseConnective> rechercher une solution éventuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3505" docOffset="26">
+      <en>This role is one of mediator; it is something slightly original which we have decided to introduce, <DiscourseConnective annotation_id="3605" sense="Expansion.Conjunction">and</DiscourseConnective> which will be to Parliament's credit.</en>
+      <fr>Il <DiscourseConnective annotation_id="3771">s'</DiscourseConnective>agit là d'un rôle de médiateur, un peu nouveau, <DiscourseConnective annotation_id="3821">que</DiscourseConnective> nous avons décidé d'introduire, ce qui peut être tout <DiscourseConnective annotation_id="3879">à</DiscourseConnective> la gloire de notre Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3647" docOffset="27">
+      <en>
+        <DiscourseConnective annotation_id="3647" sense="Contingency.Condition">If</DiscourseConnective> need be, we will ask for the assistance of the Commission, represented this evening at the highest level, to clarify the application of Community law and, possibly, to supply information to us.</en>
+      <fr>Nous demandons, au besoin, le concours de la Commission, représentée ce soir au plus haut niveau, <DiscourseConnective annotation_id="4009">pour</DiscourseConnective> préciser l'application du droit communautaire <DiscourseConnective annotation_id="4060">et</DiscourseConnective>, éventuellement, nous communiquer des informations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3844" docOffset="28">
+      <en>The information collected will naturally be supplied to the Commission, the Council and the petitioner.</en>
+      <fr>Les informations recueillies sont bien évidemment données <DiscourseConnective annotation_id="4173">à</DiscourseConnective> la Commission, au Conseil <DiscourseConnective annotation_id="4201">et</DiscourseConnective> au pétitionnaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3948" docOffset="29">
+      <en>
+        <Alignment alignment="6241" annotation_id="3948">
+          <DiscourseConnective annotation_id="3948" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, what about the Treaty of Lisbon should it be ratified?</en>
+      <fr>
+        <Alignment alignment="5824" annotation_id="4222">
+          <DiscourseConnective annotation_id="4222" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> quid du traité de Lisbonne <DiscourseConnective annotation_id="4254">s'</DiscourseConnective>il venait à être ratifié?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4012" docOffset="30">
+      <en>You will be aware that a new type of petition is provided for by this Treaty - alongside the petitions submitted to the European Parliament which have existed for a very long time - namely petitions submitted to the European Commission, bearing at least one million signatures.</en>
+      <fr>Vous savez <DiscourseConnective annotation_id="4293">qu'</DiscourseConnective>un nouveau type de pétitions est prévu dans ce traité - <DiscourseConnective annotation_id="4352">parallèlement</DiscourseConnective> à la pétition présentée au Parlement européen, qui existe maintenant <DiscourseConnective annotation_id="4435">depuis</DiscourseConnective> fort longtemps - qui est la pétition adressée <DiscourseConnective annotation_id="4488">à</DiscourseConnective> la Commission européenne, portant au minimum un million de signatures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4290" docOffset="31">
+      <en>We have simply decided that, in the event that the Lisbon Treaty is ratified, <Alignment alignment="4595" annotation_id="4368">
+          <DiscourseConnective annotation_id="4368" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> a related issue is ever raised in a petition submitted by a million citizens to the Commission, we in Parliament would check whether we were dealing with an identical issue <Alignment alignment="4841" annotation_id="4544">
+          <DiscourseConnective annotation_id="4544" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> whether <Alignment alignment="4910" annotation_id="4556">
+          <DiscourseConnective annotation_id="4556" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not the petition submitted to the Commission could affect our work, in which case we would simply inform the petitioners.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="4572">simplement</DiscourseConnective> décidé <DiscourseConnective annotation_id="4590">que</DiscourseConnective>, <Alignment alignment="4368" annotation_id="4595">
+          <DiscourseConnective annotation_id="4595" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> jamais un sujet connexe était soulevé - <DiscourseConnective annotation_id="4638">dans le cas où</DiscourseConnective> le traité de Lisbonne serait ratifié - <DiscourseConnective annotation_id="4692">à</DiscourseConnective> travers une pétition présentée par un million de citoyens <DiscourseConnective annotation_id="4752">à</DiscourseConnective> la Commission, nous vérifierions, nous Parlement, <DiscourseConnective annotation_id="4804">si</DiscourseConnective> nous traitions un sujet identique <Alignment alignment="9295" annotation_id="4841">
+          <DiscourseConnective annotation_id="4841" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="4844">si</DiscourseConnective> la pétition adressée <DiscourseConnective annotation_id="4868">à</DiscourseConnective> la Commission était de nature à influer <Alignment alignment="2013" annotation_id="4910">
+          <DiscourseConnective annotation_id="4910" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non sur nos propres travaux, auquel cas nous nous contenterions d'informer les pétitionnaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4681" docOffset="32">
+      <en>Well, Mr President, ladies and gentlemen, I think I have more or less summed up the situation.</en>
+      <fr>Voilà, Monsieur le Président, chers collègues, je crois avoir à peu près résumé la situation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4776" docOffset="33">
+      <en>There is no revolution <Alignment alignment="5120" annotation_id="4799">
+          <DiscourseConnective annotation_id="4799" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment>, just some clarifications and the prevention of any possible deadlock.</en>
+      <fr>Pas de révolution <Alignment alignment="17195" annotation_id="5120">
+          <DiscourseConnective annotation_id="5120" sense="Temporal.Asynchronous.Precedence">donc</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="5126">mais</DiscourseConnective> des précisions <DiscourseConnective annotation_id="5146">et</DiscourseConnective> la suppression de tout blocage possible.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4875" id="440" name="Richard Corbett">
+    <ParallelChunk annotation_id="4875" docOffset="34">
+      <en>on behalf of the PSE Group. - Mr President, it is with great pleasure that my group can announce its support for the report by Mr Onesta, who has done a fine job in looking at this, and did it some time ago.</en>
+      <fr>au nom du groupe PSE. - (EN) Monsieur le Président, c'est avec grand plaisir <DiscourseConnective annotation_id="5267">que</DiscourseConnective> mon groupe peut annoncer son soutien au rapport de M. Onesta, qui a réalisé - il y a un certain temps <DiscourseConnective annotation_id="5373">déjà</DiscourseConnective> - un excellent travail sur ce thème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5083" docOffset="35">
+      <en>It is a somewhat curious fact that the Conference of Presidents waited so long to put this report on our plenary agenda.</en>
+      <fr>Il est d'ailleurs un peu curieux <DiscourseConnective annotation_id="5448">que</DiscourseConnective> la Conférence des présidents ait attendu <DiscourseConnective annotation_id="5493">si</DiscourseConnective> longtemps <DiscourseConnective annotation_id="5506">pour</DiscourseConnective> inscrire ce rapport <DiscourseConnective annotation_id="5531">à</DiscourseConnective> l'ordre du jour des travaux des sessions plénières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5204" docOffset="36">
+      <en>
+        <Alignment alignment="5585" annotation_id="5204">
+          <DiscourseConnective annotation_id="5204" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the fact that it has waited so long and has put it on the agenda at the same time as my report means there is a slight interface on one point between our two reports, which Ms Frassoni alluded to in our previous debate.</en>
+      <fr>
+        <Alignment alignment="5204" annotation_id="5585">
+          <DiscourseConnective annotation_id="5585" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, le fait d'avoir attendu <DiscourseConnective annotation_id="5620">si</DiscourseConnective> longtemps <DiscourseConnective annotation_id="5633">et</DiscourseConnective> de l'avoir inscrit <DiscourseConnective annotation_id="5655">à</DiscourseConnective> l'ordre du jour <DiscourseConnective annotation_id="5673">en même temps que</DiscourseConnective> mon rapport signifie qu'il y a une légère interface entre nos deux rapports, ce à quoi Mme Frassoni a fait allusion dans notre débat précédent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5433" docOffset="37">
+      <en>That is the matter of cooperation between the Committee on Petitions and the committee responsible for the subject matter.</en>
+      <fr>Il <DiscourseConnective annotation_id="5838">s'</DiscourseConnective>agit de la question de la coopération entre la commission des pétitions <DiscourseConnective annotation_id="5912">et</DiscourseConnective> la commission compétente par rapport à l'objet de la pétition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5556" docOffset="38">
+      <en>Everyone agrees that they both have to cooperate <Alignment alignment="22909" annotation_id="5605">
+          <DiscourseConnective annotation_id="5605" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they need to work together, <Alignment alignment="16729" annotation_id="5637">
+          <DiscourseConnective annotation_id="5637" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> there is an argument about what you could call the bottom line: <Alignment alignment="24857" annotation_id="5705">
+          <DiscourseConnective annotation_id="5705" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they disagree, who has the final say?</en>
+      <fr>Tout le monde s'accorde à <DiscourseConnective annotation_id="6004">dire qu'</DiscourseConnective>il doit y avoir une coopération <Alignment alignment="8201" annotation_id="6044">
+          <DiscourseConnective annotation_id="6044" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> un travail en commun entre ces commissions, <Alignment alignment="7507" annotation_id="6091">
+          <DiscourseConnective annotation_id="6091" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il y a discussion sur un point <DiscourseConnective annotation_id="6127">que</DiscourseConnective> l'on pourrait qualifier de fondamental: <Alignment alignment="8926" annotation_id="6171">
+          <DiscourseConnective annotation_id="6171" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il y a désaccord entre les deux commissions, qui a le dernier mot?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5746" docOffset="39">
+      <en>You can understand both sides.</en>
+      <fr>Les deux points de vue sont compréhensibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5777" docOffset="40">
+      <en>The members of the Petitions Committee feel that they have received petitions, they have looked into the matter, they may have had hearings, they may have had a visit, they have sometimes found something that is perhaps wrong in the legislation that the subject committee has dealt with, <DiscourseConnective annotation_id="6065" sense="Expansion.Conjunction">and</DiscourseConnective> they feel they have got to grips with that and should have the final say <Alignment alignment="6654" annotation_id="6142">
+          <DiscourseConnective annotation_id="6142" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the subject committee disagrees.</en>
+      <fr>Les membres de la commission des pétitions ont le sentiment <DiscourseConnective annotation_id="6345">qu'</DiscourseConnective>ils ont reçu les pétitions, qu'ils ont examiné le problème, qu'ils ont peut-être entendu des personnes, effectué une visite sur place et parfois trouvé une erreur dans la législation traitée par la commission compétente, que ce sont eux qui doivent gérer cela et qu'ils devraient donc avoir le dernier mot <Alignment alignment="6142" annotation_id="6654">
+          <DiscourseConnective annotation_id="6654" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> la commission compétente désapprouve.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6178" docOffset="41">
+      <en>
+        <DiscourseConnective annotation_id="6178" sense="Comparison.Contrast">On the other hand</DiscourseConnective>, you can understand the subject committee.</en>
+      <fr>Le point de vue de la commission compétente est tout aussi compréhensible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6239" docOffset="42">
+      <en>Why should it suddenly find another committee responsible for the subject matter just <Alignment alignment="6852" annotation_id="6325">
+          <DiscourseConnective annotation_id="6325" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> somebody sent a petition to that other committee?</en>
+      <fr>Pourquoi faudrait-il soudainement déclarer une autre commission responsable juste <Alignment alignment="6325" annotation_id="6852">
+          <DiscourseConnective annotation_id="6852" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> quelqu'un a adressé une pétition <DiscourseConnective annotation_id="6895">à</DiscourseConnective> cette autre commission?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6383" docOffset="43">
+      <en>You can understand both sides.</en>
+      <fr>Les deux points de vue sont compréhensibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6414" docOffset="44">
+      <en>What I have tried to do to reconcile the two is to say that yes, of course, they should work closely together <Alignment alignment="7062" annotation_id="6524">
+          <DiscourseConnective annotation_id="6524" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, at the end of the day, the Petitions Committee must listen to the views of the subject committee.</en>
+      <fr>Pour les réconcilier, j'ai essayé de <DiscourseConnective annotation_id="7003">dire qu'</DiscourseConnective>elles devraient <DiscourseConnective annotation_id="7027">effectivement</DiscourseConnective> coopérer étroitement <Alignment alignment="1690" annotation_id="7062">
+          <DiscourseConnective annotation_id="7062" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7065">qu'en</DiscourseConnective> fin de compte la commission des pétitions doit entendre les avis de la commission compétente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6627" docOffset="45">
+      <en>It can, <Alignment alignment="12832" annotation_id="6635">
+          <DiscourseConnective annotation_id="6635" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it so chooses, depart from the views of the subject committee - it is allowed to do so - <Alignment alignment="8528" annotation_id="6727">
+          <DiscourseConnective annotation_id="6727" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="7278" annotation_id="6731">
+          <DiscourseConnective annotation_id="6731" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it does, the price to pay is that the subject committee has the right to table amendments in plenary.</en>
+      <fr>Elle peut, <Alignment alignment="6635" annotation_id="7176">
+          <DiscourseConnective annotation_id="7176" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> elle le veut, s'écarter des avis de la commission compétente -elle est autorisée <DiscourseConnective annotation_id="7260">à</DiscourseConnective> le faire - <Alignment alignment="6727" annotation_id="7273">
+          <DiscourseConnective annotation_id="7273" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="6731" annotation_id="7278">
+          <DiscourseConnective annotation_id="7278" sense="Contingency.Condition">dans ce cas</DiscourseConnective>
+        </Alignment>, le prix <DiscourseConnective annotation_id="7299">à</DiscourseConnective> payer est <DiscourseConnective annotation_id="7311">que</DiscourseConnective> la commission compétente a le droit de déposer des amendements <DiscourseConnective annotation_id="7378">en</DiscourseConnective> plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6836" docOffset="46">
+      <en>I think that is a reasonable quid pro quo.</en>
+      <fr>Je pense qu'il <DiscourseConnective annotation_id="7406">s'</DiscourseConnective>agit d'une compensation raisonnable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6879" docOffset="47">
+      <en>I do not understand why Ms Frassoni said earlier that would destroy the Petitions Committee.</en>
+      <fr>Je ne comprends pas pourquoi Mme Frassoni a dit tout à l'heure que cela anéantirait la commission des pétitions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6972" docOffset="48">
+      <en>I really have no understanding of how she could reach such a conclusion.</en>
+      <fr>Je ne comprends vraiment pas ce qui a pu l'amener à une telle conclusion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7045" docOffset="49">
+      <en>Certainly, the members of the Petitions Committee in my group have told me that they are happy with that compromise <Alignment alignment="21675" annotation_id="7161">
+          <DiscourseConnective annotation_id="7161" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think it is a workable compromise.</en>
+      <fr>Dans mon groupe, les membres de la commission des pétitions m'ont dit être satisfaits de ce compromis <Alignment alignment="7161" annotation_id="7734">
+          <DiscourseConnective annotation_id="7734" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense que c'est un compromis solide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7202" docOffset="50">
+      <en>It is a compromise.</en>
+      <fr>Mais c'est un compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7222" docOffset="51">
+      <en>
+        <Alignment alignment="7802" annotation_id="7222">
+          <DiscourseConnective annotation_id="7222" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> you are an extremist on one side or the other of this argument you will not be happy, <Alignment alignment="16363" annotation_id="7311">
+          <DiscourseConnective annotation_id="7311" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I think it is a workable compromise.</en>
+      <fr>
+        <Alignment alignment="4305" annotation_id="7802">
+          <DiscourseConnective annotation_id="7802" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous avez une position extrémiste sur l'un <DiscourseConnective annotation_id="7848">ou</DiscourseConnective> l'autre élément de cet argument, vous ne serez évidemment pas heureux, <Alignment alignment="7311" annotation_id="7922">
+          <DiscourseConnective annotation_id="7922" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je pense qu'il <DiscourseConnective annotation_id="7942">s'</DiscourseConnective>agit d'un compromis viable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7352" docOffset="52">
+      <en>It blends in very nicely with the excellent report by Mr Onesta, <Alignment alignment="20556" annotation_id="7417">
+          <DiscourseConnective annotation_id="7417" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think altogether this package will work.</en>
+      <fr>Il se fond parfaitement avec l'excellent rapport de M. Onesta <Alignment alignment="1565" annotation_id="8034">
+          <DiscourseConnective annotation_id="8034" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense que dans l'ensemble, ce paquet de réformes va fonctionner.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7464" id="441" name="Jo Leinen">
+    <ParallelChunk annotation_id="7464" docOffset="53">
+      <en>(DE) Mr President, Mr Onesta said that his report is not revolutionary, <DiscourseConnective annotation_id="7536" sense="Comparison.Contrast">but</DiscourseConnective> it is <Alignment alignment="8208" annotation_id="7546">
+          <DiscourseConnective annotation_id="7546" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment> an important reform, which strengthens the rights of citizens as well as the Committee on Petitions.</en>
+      <fr>(DE) Monsieur le Président, M. Onesta vient de <DiscourseConnective annotation_id="8152">dire que</DiscourseConnective> son rapport n'était pas révolutionnaire. C'est <Alignment alignment="7546" annotation_id="8208">
+          <DiscourseConnective annotation_id="8208" sense="Comparison.Contrast">pourtant</DiscourseConnective>
+        </Alignment> une réforme importante, qui renforce les droits des citoyens <DiscourseConnective annotation_id="8278">et</DiscourseConnective> de la commission des pétitions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7655" docOffset="54">
+      <en>The right to petition is a right accorded to citizens and a few improvements will be made, which will <Alignment alignment="28593" annotation_id="7757">
+          <DiscourseConnective annotation_id="7757" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> encourage citizens to address questions to Parliament.</en>
+      <fr>Le droit de pétition est un droit octroyé aux citoyens <DiscourseConnective annotation_id="8368">et</DiscourseConnective> quelques améliorations vont y être apportées, qui encourageront <Alignment alignment="7757" annotation_id="8435">
+          <DiscourseConnective annotation_id="8435" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> les citoyens <DiscourseConnective annotation_id="8458">à</DiscourseConnective> adresser des questions au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7817" docOffset="55">
+      <en>I <Alignment alignment="9784" annotation_id="7819">
+          <DiscourseConnective annotation_id="7819" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> think it is right that <DiscourseConnective annotation_id="7847" sense="Temporal.Synchrony">when</DiscourseConnective> it comes to the admissibility of a petition, it is not the chairman of the committee who should decide.</en>
+      <fr>Je pense <Alignment alignment="7819" annotation_id="8506">
+          <DiscourseConnective annotation_id="8506" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> qu'il est bon <DiscourseConnective annotation_id="8530">que</DiscourseConnective> ce ne <DiscourseConnective annotation_id="8540">soit</DiscourseConnective> pas le président qui décide de la recevabilité d'une pétition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7956" docOffset="56">
+      <en>
+        <Alignment alignment="26049" annotation_id="7956">
+          <DiscourseConnective annotation_id="7956" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> I myself am chairman of a committee, I agree that <Alignment alignment="27867" annotation_id="8015">
+          <DiscourseConnective annotation_id="8015" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> a quarter of the members think a subject should be discussed, then it must be discussed.</en>
+      <fr>
+        <Alignment alignment="7956" annotation_id="8608">
+          <DiscourseConnective annotation_id="8608" sense="Comparison.Concession">Bien qu'</DiscourseConnective>
+        </Alignment>étant moi-même président d'une commission, j'approuve la condition qu'un sujet <DiscourseConnective annotation_id="8695">soit</DiscourseConnective> discuté <Alignment alignment="8015" annotation_id="8708">
+          <DiscourseConnective annotation_id="8708" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> un quart des membres estime qu'il doit l'être.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8107" docOffset="57">
+      <en>I would like to correct something Mr Onesta said: the European citizens' initiative is not a petition - that is an aliud.</en>
+      <fr>Je souhaite apporter une rectification <DiscourseConnective annotation_id="8797">à</DiscourseConnective> ce qu'a déclaré M. Onesta: l'initiative des citoyens européens n'est pas une pétition. C'est autre chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8229" docOffset="58">
+      <en>It is actually a European popular petition, a different sort of right.</en>
+      <fr>Il <DiscourseConnective annotation_id="8908">s'</DiscourseConnective>agit <DiscourseConnective annotation_id="8915">en fait</DiscourseConnective> d'une pétition populaire européenne, une autre sorte de droit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8300" docOffset="59">
+      <en>It is not addressed to Parliament but to the Commission <Alignment alignment="32847" annotation_id="8356">
+          <DiscourseConnective annotation_id="8356" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we should not confuse them.</en>
+      <fr>Elle n'est pas adressée au Parlement <DiscourseConnective annotation_id="9023">mais</DiscourseConnective> <DiscourseConnective annotation_id="9028">à</DiscourseConnective> la Commission <Alignment alignment="5269" annotation_id="9044">
+          <DiscourseConnective annotation_id="9044" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il ne faut pas confondre les deux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8388" docOffset="60">
+      <en>The representatives of civil society have set great store by this.</en>
+      <fr>Les représentants de la société civile y attachent beaucoup d'importance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8455" docOffset="61">
+      <en>This will probably be the last report that Mr Onesta will make here in Parliament.</en>
+      <fr>Ce sera probablement le dernier rapport <DiscourseConnective annotation_id="9196">que</DiscourseConnective> M. Onesta présentera ici au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8538" docOffset="62">
+      <en>I would like to thank him most sincerely for his work, which in many respects has been excellent, both as Vice-President and as a member of our committee.</en>
+      <fr>Je le remercie très sincèrement <DiscourseConnective annotation_id="9271">pour</DiscourseConnective> son travail, excellent à de nombreux égards, en <DiscourseConnective annotation_id="9324">tant que</DiscourseConnective> vice-président <DiscourseConnective annotation_id="9348">et</DiscourseConnective> membre de notre commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8693" docOffset="63">
+      <en>I should <Alignment alignment="39358" annotation_id="8702">
+          <DiscourseConnective annotation_id="8702" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> mention Agora, Parliament's forum with civil society, which is making history and is a really important instrument.</en>
+      <fr>Je tiens <Alignment alignment="16876" annotation_id="9388">
+          <DiscourseConnective annotation_id="9388" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à évoquer Agora, le forum du Parlement avec la société civile, qui marque l'histoire <DiscourseConnective annotation_id="9483">et</DiscourseConnective> qui est un instrument vraiment important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8823" docOffset="64">
+      <en>We <Alignment alignment="9543" annotation_id="8826">
+          <DiscourseConnective annotation_id="8826" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> support the Onesta report and would like to thank you once more for your constructive cooperation.</en>
+      <fr>Nous soutenons <Alignment alignment="8826" annotation_id="9543">
+          <DiscourseConnective annotation_id="9543" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> le rapport Onesta <DiscourseConnective annotation_id="9570">et</DiscourseConnective> vous remercions à nouveau <DiscourseConnective annotation_id="9599">pour</DiscourseConnective> votre coopération constructive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8935" docOffset="65">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8946" id="442" name="President">
+    <ParallelChunk annotation_id="8946" docOffset="66">
+      <en>I must correct Mr Leinen because, <DiscourseConnective annotation_id="8980" sense="Contingency.Cause.Reason">since</DiscourseConnective> he has been concerned with property policy, Mr Onesta will leave many permanent works in addition to those connected with political initiative.</en>
+      <fr>Je dois corriger M. Leinen, car étant concerné par la politique immobilière, M. Onesta laissera de nombreux travaux permanents <DiscourseConnective annotation_id="9782">en plus de</DiscourseConnective> ceux liés <DiscourseConnective annotation_id="9803">à</DiscourseConnective> l'initiative politique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9130" id="443" name="Costas Botopoulos">
+    <ParallelChunk annotation_id="9130" docOffset="67">
+      <en>(FR) Mr President, ladies and gentlemen, I would <Alignment alignment="7725" annotation_id="9179">
+          <DiscourseConnective annotation_id="9179" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank Mr Onesta for his work and presence in Parliament.</en>
+      <fr>Monsieur le Président, chers collègues, je voudrais <Alignment alignment="9179" annotation_id="9881">
+          <DiscourseConnective annotation_id="9881" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> remercier Gérard Onesta <DiscourseConnective annotation_id="9911">pour</DiscourseConnective> son travail <DiscourseConnective annotation_id="9928">et</DiscourseConnective> pour sa présence au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9249" docOffset="68">
+      <en>I would like to make a few remarks about his last report.</en>
+      <fr>Je voudrais faire quelques remarques sur son dernier rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9307" docOffset="69">
+      <en>I am convinced, as is Mrs Frassoni, that the right to petition is an important right, <Alignment alignment="28370" annotation_id="9393">
+          <DiscourseConnective annotation_id="9393" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I must say that the Committee on Petitions is a rather odd committee; it is important, interesting, but also odd.</en>
+      <fr>Je suis convaincu, <DiscourseConnective annotation_id="10043">comme</DiscourseConnective> Olga Frassoni, <DiscourseConnective annotation_id="10064">que</DiscourseConnective> le droit de pétition est un droit important, <Alignment alignment="2953" annotation_id="10113">
+          <DiscourseConnective annotation_id="10113" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je ne peux pas ne pas <DiscourseConnective annotation_id="10140">dire que</DiscourseConnective> la commission des pétitions est une commission assez curieuse, je dirais, importante, intéressante, <DiscourseConnective annotation_id="10249">mais</DiscourseConnective> curieuse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9511" docOffset="70">
+      <en>This mini court where everything and nothing is discussed is quite important but also interesting, and different from what we do.</en>
+      <fr>Ce mini-tribunal où on parle de tout <DiscourseConnective annotation_id="10301">et</DiscourseConnective> de rien est une chose assez importante <DiscourseConnective annotation_id="10343">mais</DiscourseConnective> intéressante, <DiscourseConnective annotation_id="10362">et</DiscourseConnective> différente de ce que nous faisons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9641" docOffset="71">
+      <en>I would like to come back to three points very briefly.</en>
+      <fr>Je voudrais revenir sur trois points très brièvement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9697" docOffset="72">
+      <en>Firstly, minority languages.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10454">D'abord</DiscourseConnective>, les langues minoritaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9726" docOffset="73">
+      <en>I am in agreement, <Alignment alignment="24026" annotation_id="9745">
+          <DiscourseConnective annotation_id="9745" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> this must not open the door to languages which are not fully legal being used in Parliament.</en>
+      <fr>Je suis d'accord, <Alignment alignment="9745" annotation_id="10507">
+          <DiscourseConnective annotation_id="10507" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il ne faut pas que ce soit une porte ouverte à l'arrivée dans ce Parlement de langues qui sont un peu au-delà de la légalité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9842" docOffset="74">
+      <en>Secondly, admissibility.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10638">Ensuite</DiscourseConnective>, la recevabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9867" docOffset="75">
+      <en>I am in full agreement, <Alignment alignment="3501" annotation_id="9891">
+          <DiscourseConnective annotation_id="9891" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is a good thing that the aim is to admit rather than reject petitions.</en>
+      <fr>Je suis tout <DiscourseConnective annotation_id="10677">à</DiscourseConnective> fait d'accord, <Alignment alignment="6999" annotation_id="10694">
+          <DiscourseConnective annotation_id="10694" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est une bonne chose, <DiscourseConnective annotation_id="10720">que</DiscourseConnective> l'on tende <DiscourseConnective annotation_id="10735">plutôt</DiscourseConnective> à recevoir <DiscourseConnective annotation_id="10753">qu'</DiscourseConnective>à rejeter les pétitions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9969" docOffset="76">
+      <en>Lastly, I would like to say that I agree with our chairman, Mr Leinen.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10781">Enfin</DiscourseConnective>, je voudrais <DiscourseConnective annotation_id="10800">dire que</DiscourseConnective> je partage l'avis de notre président, Jo Leinen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10040" docOffset="77">
+      <en>The right of citizens' initiative <DiscourseConnective annotation_id="10074" sense="Expansion.Conjunction">indeed</DiscourseConnective> has nothing to do with the right of petition, which is a democratic, constitutional right regarding Parliament, <Alignment alignment="20608" annotation_id="10193">
+          <DiscourseConnective annotation_id="10193" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the two should not be confused.</en>
+      <fr>Le droit de l'initiative populaire n'a rien <DiscourseConnective annotation_id="10902">à</DiscourseConnective> voir, en fait, avec le droit de pétition, qui est un droit démocratique, constitutionnel, de notre niveau, <Alignment alignment="10193" annotation_id="11011">
+          <DiscourseConnective annotation_id="11011" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il ne faut pas confondre les deux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10229" docOffset="78">
+      <en>Finally, I took the floor above all in order to thank Mr Onesta for his work.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11049">Finalement</DiscourseConnective>, j'ai <DiscourseConnective annotation_id="11066">surtout</DiscourseConnective> pris la parole <DiscourseConnective annotation_id="11089">pour</DiscourseConnective> remercier Gérard Onesta <DiscourseConnective annotation_id="11118">pour</DiscourseConnective> son travail.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10307" id="444" name="President">
+    <ParallelChunk annotation_id="10307" docOffset="79">
+      <en>I apologise to the honourable Member <Alignment alignment="11182" annotation_id="10344">
+          <DiscourseConnective annotation_id="10344" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I was immediately told off for pronouncing his surname incorrectly, which is Botòpoulos and not Botopoùlos, I apologise again.</en>
+      <fr>Je présente mes excuses <DiscourseConnective annotation_id="11160">à</DiscourseConnective> l'honorable député, <Alignment alignment="8240" annotation_id="11182">
+          <DiscourseConnective annotation_id="11182" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> j'ai immédiatement été réprimandé <DiscourseConnective annotation_id="11220">pour</DiscourseConnective> avoir mal prononcé son nom, qui est Botòpoulos <DiscourseConnective annotation_id="11272">et</DiscourseConnective> non Botopoùlos. Toutes mes excuses.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10479" id="445" name="Monica Frassoni">
+    <ParallelChunk annotation_id="10479" docOffset="80">
+      <en>- (IT) Mr President, ladies and gentlemen, I too would like to thank Mr Onesta, <Alignment alignment="19145" annotation_id="10559">
+          <DiscourseConnective annotation_id="10559" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> on behalf of the Group of the Greens/European Free Alliance.</en>
+      <fr>- (IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="11350">et</DiscourseConnective> Messieurs, je remercie moi <DiscourseConnective annotation_id="11380">aussi</DiscourseConnective> M. Onesta, <Alignment alignment="9673" annotation_id="11397">
+          <DiscourseConnective annotation_id="11397" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> au nom du groupe des Verts/Alliance libre européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10625" docOffset="81">
+      <en>Incidentally we were both at a party earlier <Alignment alignment="11523" annotation_id="10670">
+          <DiscourseConnective annotation_id="10670" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we will soon be going back to finish the thank-yous and celebrations.</en>
+      <fr>Il se fait que nous étions tous les deux récemment <DiscourseConnective annotation_id="11512">à</DiscourseConnective> une fête <Alignment alignment="951" annotation_id="11523">
+          <DiscourseConnective annotation_id="11523" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que nous nous reverrons <DiscourseConnective annotation_id="11550">bientôt</DiscourseConnective> <DiscourseConnective annotation_id="11558">pour</DiscourseConnective> en finir avec les mercis <DiscourseConnective annotation_id="11588">et</DiscourseConnective> les célébrations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10744" docOffset="82">
+      <en>In this respect, I naturally wanted to say that we support this report, <Alignment alignment="11695" annotation_id="10816">
+          <DiscourseConnective annotation_id="10816" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that we <Alignment alignment="11715" annotation_id="10828">
+          <DiscourseConnective annotation_id="10828" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> feel that the subject of the relationship with the primary committee remains a thorny topic in the Corbett reform <DiscourseConnective annotation_id="10947" sense="Expansion.Conjunction">and</DiscourseConnective> at this point I <Alignment alignment="11859" annotation_id="10967">
+          <DiscourseConnective annotation_id="10967" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> would like to say something to Mr Botopoulos: it is not that the Committee on Petitions is a strange committee, it is a committee that has a very specific role <Alignment alignment="12030" annotation_id="11132">
+          <DiscourseConnective annotation_id="11132" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> on most occasions petitions are concerned with the application of Community law, they are concerned with breaches of directives and laws that do not evidently always have a very clear relationship with the primary committee.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11609">En</DiscourseConnective> ce qui concerne ce rapport, je tiens <DiscourseConnective annotation_id="11649">à</DiscourseConnective> <DiscourseConnective annotation_id="11651">dire que</DiscourseConnective>, naturellement, nous le soutenons, <Alignment alignment="3013" annotation_id="11695">
+          <DiscourseConnective annotation_id="11695" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11700">que</DiscourseConnective> nous avons <Alignment alignment="17575" annotation_id="11715">
+          <DiscourseConnective annotation_id="11715" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> le sentiment <DiscourseConnective annotation_id="11738">que</DiscourseConnective> la relation avec la commission initialement compétente reste un sujet épineux dans la réforme Corbett. Permettez-moi <Alignment alignment="10967" annotation_id="11859">
+          <DiscourseConnective annotation_id="11859" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de dire ici un mot <DiscourseConnective annotation_id="11888">à</DiscourseConnective> M. Botopoulos: ce n'est pas <DiscourseConnective annotation_id="11918">que</DiscourseConnective> la commission des pétitions <DiscourseConnective annotation_id="11950">soit</DiscourseConnective> une commission étrange, c'est une commission qui a un rôle très spécifique <Alignment alignment="6224" annotation_id="12030">
+          <DiscourseConnective annotation_id="12030" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le plus souvent les pétitions concernent l'application du droit communautaire, des violations de directives <DiscourseConnective annotation_id="12141">et</DiscourseConnective> de lois qui n'ont pas toujours un lien très évident avec la commission initialement compétente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11361" docOffset="83">
+      <en>I would go further, and say that anybody who has had anything to do, <Alignment alignment="12307" annotation_id="11430">
+          <DiscourseConnective annotation_id="11430" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment> little, with the work of the Committee on Petitions can see that it is a sort of 'Cinderella' in our Parliament.</en>
+      <fr>J'irais même plus loin <DiscourseConnective annotation_id="12263">en</DiscourseConnective> affirmant <DiscourseConnective annotation_id="12276">que</DiscourseConnective> tout qui a été <DiscourseConnective annotation_id="12295">en</DiscourseConnective> rapport, <Alignment alignment="11430" annotation_id="12307">
+          <DiscourseConnective annotation_id="12307" sense="Comparison.Contrast">si</DiscourseConnective>
+        </Alignment> mineur soit-il, avec le travail de la commission des pétitions peut voir <DiscourseConnective annotation_id="12383">qu'</DiscourseConnective>elle est une sorte de "Cendrillon" au sein de notre Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11551" docOffset="84">
+      <en>They will <Alignment alignment="12475" annotation_id="11561">
+          <DiscourseConnective annotation_id="11561" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> see that the primary committee does not respond to the requests of the Committee on Petitions, it absolutely cannot be bothered to respond to anything that the Committee on Petitions says, does or proposes.</en>
+      <fr>Cette personne constatera <Alignment alignment="15643" annotation_id="12475">
+          <DiscourseConnective annotation_id="12475" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="12485">que</DiscourseConnective> la commission initialement compétente ne répond pas aux demandes d'information de la commission des pétitions, qu'elle ne veut absolument pas <DiscourseConnective annotation_id="12631">s'</DiscourseConnective>inquiéter de réagir <DiscourseConnective annotation_id="12653">à</DiscourseConnective> ce <DiscourseConnective annotation_id="12658">que</DiscourseConnective> la commission des pétitions dit, fait <DiscourseConnective annotation_id="12700">ou</DiscourseConnective> propose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11773" docOffset="85">
+      <en>This is my fear: my fear is the fact that the Committee on Petitions, which not always, but often, is concerned with the application of Community directives, must somehow wait for permission from the committees responsible for making the laws, which <Alignment alignment="10686" annotation_id="12023">
+          <DiscourseConnective annotation_id="12023" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> have a different part to play, and must <Alignment alignment="12411" annotation_id="12073">
+          <DiscourseConnective annotation_id="12073" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> ask the permission of the Conference of Presidents <Alignment alignment="15269" annotation_id="12129">
+          <DiscourseConnective annotation_id="12129" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it is a simple case of checking the application, which has nothing to do, I repeat, with the legislative function of the parliamentary committees.</en>
+      <fr>Telle est ma crainte: je crains <DiscourseConnective annotation_id="12744">que</DiscourseConnective> la commission des pétitions, qui n'est pas toujours <DiscourseConnective annotation_id="12800">mais</DiscourseConnective> souvent concernée par l'application des directives communautaires, doive en quelque sorte attendre la permission des commissions responsables de l'élaboration des législations - qui ont <Alignment alignment="10917" annotation_id="12991">
+          <DiscourseConnective annotation_id="12991" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> un rôle différent <DiscourseConnective annotation_id="13014">à</DiscourseConnective> jouer - <DiscourseConnective annotation_id="13024">et</DiscourseConnective> doive <Alignment alignment="12073" annotation_id="13033">
+          <DiscourseConnective annotation_id="13033" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> demander la permission <DiscourseConnective annotation_id="13066">à</DiscourseConnective> la Conférence des présidents <Alignment alignment="5031" annotation_id="13097">
+          <DiscourseConnective annotation_id="13097" sense="Temporal.Synchrony">pour</DiscourseConnective>
+        </Alignment> un simple cas de vérification de l'application de la législation n'ayant rien <DiscourseConnective annotation_id="13180">à</DiscourseConnective> voir, je le répète, avec la fonction législative des commissions parlementaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12281" docOffset="86">
+      <en>This is why I am expressing my concern about the reform proposed by Mr Corbett on petitions even <Alignment alignment="39798" annotation_id="12378">
+          <DiscourseConnective annotation_id="12378" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> I agree strongly with what Mr Onesta said, <DiscourseConnective annotation_id="12428" sense="Expansion.Conjunction">and</DiscourseConnective> I thank you again, Vice-President, for being flexible about the time.</en>
+      <fr>C'est la raison pour laquelle la réforme proposée par M. Corbett concernant les pétitions m'inquiète, <Alignment alignment="12378" annotation_id="13365">
+          <DiscourseConnective annotation_id="13365" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> je partage totalement les vues de M. Onesta. Je vous remercie, Monsieur le Vice-président, d'avoir fait preuve de souplesse quant au temps de parole.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12502" id="446" name="President">
+    <ParallelChunk annotation_id="12502" docOffset="87">
+      <en>It was actually a gallantry due to the fact that it was the last speech of the evening, except for the reply by our rapporteur, Mr Onesta, whose turn it is to speak now.</en>
+      <fr>Je l'ai fait par galanterie. Il s'agissait en effet de la dernière intervention de la soirée hormis la réponse de notre rapporteur, M. Onesta, auquel je cède à présent la parole.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12672" id="447" language="FR" name="Gérard Onesta">
+    <ParallelChunk annotation_id="12672" docOffset="88">
+      <en>Mr President, I will try to answer my fellow Members.</en>
+      <fr>rapporteur. - Monsieur le Président, je vais essayer de répondre aux collègues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12726" docOffset="89">
+      <en>Mr Leinen, you are absolutely right: it was a slip of the tongue.</en>
+      <fr>Jo, tu as tout à fait raison, ma langue a fourché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12792" docOffset="90">
+      <en>The procedures are completely different <Alignment alignment="13878" annotation_id="12832">
+          <DiscourseConnective annotation_id="12832" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to appealing to the Commission under the provisions of the possible future Treaty, and appealing to Parliament via the petitions procedure.</en>
+      <fr>Les procédures sont tout à fait différentes <Alignment alignment="4323" annotation_id="13878">
+          <DiscourseConnective annotation_id="13878" sense="Temporal.Synchrony">pour</DiscourseConnective>
+        </Alignment> ce qui est de l'interpellation de la Commission à travers les futures dispositions du futur traité éventuel <DiscourseConnective annotation_id="13991">et</DiscourseConnective> de l'interpellation du Parlement à travers la procédure pétitionnaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12986" docOffset="91">
+      <en>
+        <Alignment alignment="31549" annotation_id="12986">
+          <DiscourseConnective annotation_id="12986" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, in the hypothetical event that these two types of appeal - which are very different in terms of place and format - should concern an identical issue, we decided that the petitioners should be notified in order to ascertain whether <Alignment alignment="18413" annotation_id="13226">
+          <DiscourseConnective annotation_id="13226" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not it is appropriate to continue our investigations.</en>
+      <fr>
+        <Alignment alignment="12986" annotation_id="14065">
+          <DiscourseConnective annotation_id="14065" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> dans le cas hypothétique où ces deux types d'interpellation, très différents <DiscourseConnective annotation_id="14147">en</DiscourseConnective> termes de lieu <DiscourseConnective annotation_id="14165">et</DiscourseConnective> de format, convergeraient vers un sujet identique, nous avons décidé <DiscourseConnective annotation_id="14237">qu'</DiscourseConnective>il convenait d'alerter les pétitionnaires <DiscourseConnective annotation_id="14282">pour</DiscourseConnective> établir <DiscourseConnective annotation_id="14295">s'</DiscourseConnective>il y avait lieu de poursuivre <Alignment alignment="7469" annotation_id="14327">
+          <DiscourseConnective annotation_id="14327" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non nos investigations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13283" docOffset="92">
+      <en>We simply opted to strengthen coordination in this scenario.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14354">Dans ce cas</DiscourseConnective> de figure, nous avons donc <DiscourseConnective annotation_id="14393">simplement</DiscourseConnective> décidé de développer la coordination.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13344" docOffset="93">
+      <en>I do spell things out, <Alignment alignment="14469" annotation_id="13367">
+          <DiscourseConnective annotation_id="13367" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> you were right to ask me for this linguistic clarification.</en>
+      <fr>Je précise bien les choses <Alignment alignment="3817" annotation_id="14469">
+          <DiscourseConnective annotation_id="14469" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> tu as eu raison de me demander des précisions sur le plan linguistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13431" docOffset="94">
+      <en>I will continue my linguistic explanations with Mr Botopoulos's question.</en>
+      <fr>Je poursuis mes explications en ce qui concerne la linguistique, à la demande de Costas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13505" docOffset="95">
+      <en>Obviously, there is no question of adding to this Tower of Babel, which is already extremely complex: just look at the number of interpreters still here this evening.</en>
+      <fr>Bien évidemment, il n'est pas question de compléter cette tour de Babel qui est <DiscourseConnective annotation_id="14715">déjà</DiscourseConnective> fort complexe - il suffit de voir le nombre d'interprètes qui est <DiscourseConnective annotation_id="14786">encore</DiscourseConnective> là ce soir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13672" docOffset="96">
+      <en>We are quite clear that it is Parliament's Bureau which decides that petitions and correspondence with petitioners will be drawn up in other languages used in a Member State.</en>
+      <fr>On précise <DiscourseConnective annotation_id="14816">bien que</DiscourseConnective> le Bureau du Parlement peut décider <DiscourseConnective annotation_id="14861">que</DiscourseConnective> des pétitions <DiscourseConnective annotation_id="14879">et</DiscourseConnective> des correspondances avec les pétitionnaires seront rédigées dans d'autres langues utilisées dans un État.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13847" docOffset="97">
+      <en>These languages must <Alignment alignment="38363" annotation_id="13868">
+          <DiscourseConnective annotation_id="13868" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be recognised in the State, <Alignment alignment="38363" annotation_id="13906">
+          <DiscourseConnective annotation_id="13906" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the State must ask for this.</en>
+      <fr>Il faut <Alignment alignment="1437" annotation_id="14996">
+          <DiscourseConnective annotation_id="14996" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que ces langues aient un rang dans l'État <Alignment alignment="13906" annotation_id="15043">
+          <DiscourseConnective annotation_id="15043" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que l'État le demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13939" docOffset="98">
+      <en>This is currently the case for only four languages.</en>
+      <fr>C'est le cas <DiscourseConnective annotation_id="15082">pour</DiscourseConnective> quatre langues pour l'instant, pas plus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13991" docOffset="99">
+      <en>
+        <Alignment alignment="15864" annotation_id="13991">
+          <DiscourseConnective annotation_id="13991" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> tomorrow I wanted to write in Volapük - an imaginary language - clearly it would not be recognised by any State, <DiscourseConnective annotation_id="14107" sense="Expansion.Conjunction">and</DiscourseConnective> neither Parliament nor the Bureau would reply in that language; all that is clearly specified.</en>
+      <fr>
+        <Alignment alignment="16419" annotation_id="15128">
+          <DiscourseConnective annotation_id="15128" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> demain, je veux écrire <DiscourseConnective annotation_id="15154">en</DiscourseConnective> volapuk - qui est une langue imaginaire - il est clair qu'aucun État ne le reconnaissant, ni le Parlement ni son Bureau ne répondront dans cette langue; tout ça est bien précisé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14206" docOffset="100">
+      <en>Regarding issues of conflict between the committees to which Mr Corbett drew our attention, I would point out that my report states, in accordance with Rule 46 and Annex VI, that the Committee on Petitions can already seek the opinion of another committee which has 'specific responsibility for the issue under examination'.</en>
+      <fr>S'agissant des problèmes de conflit entre les commissions sur lesquels Richard a attiré notre attention, je signale <DiscourseConnective annotation_id="15452">que</DiscourseConnective>, dans mon rapport, il est précisé, toujours conformément à l'article 46 <DiscourseConnective annotation_id="15528">et</DiscourseConnective> à l'annexe VI, <DiscourseConnective annotation_id="15546">que</DiscourseConnective> la commission des pétitions peut <DiscourseConnective annotation_id="15583">déjà</DiscourseConnective> solliciter l'avis d'une autre commission "qui a des compétences spéciales <DiscourseConnective annotation_id="15662">pour</DiscourseConnective> la question examinée".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14531" docOffset="101">
+      <en>You say that, in this case, conflict could still arise.</en>
+      <fr>Tu dis <DiscourseConnective annotation_id="15697">que</DiscourseConnective> <DiscourseConnective annotation_id="15701">dans ce cas-là</DiscourseConnective>, il peut <DiscourseConnective annotation_id="15725">néanmoins</DiscourseConnective> y avoir un conflit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14587" docOffset="102">
+      <en>Well, we have put in place an arbiter, <Alignment alignment="19902" annotation_id="14626">
+          <DiscourseConnective annotation_id="14626" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the Committee on Petitions will not be able to issue own-opinion reports or go against an own-initiative report of a responsible committee <Alignment alignment="19997" annotation_id="14771">
+          <DiscourseConnective annotation_id="14771" sense="Expansion.Alternative">unless</DiscourseConnective>
+        </Alignment> the Conference of Presidents allows it.</en>
+      <fr>Eh bien, nous avons défini un arbitre <Alignment alignment="14626" annotation_id="15793">
+          <DiscourseConnective annotation_id="15793" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> la commission des pétitions ne pourra pas s'autosaisir ni aller contre un rapport d'initiative d'une commission compétente, <Alignment alignment="7826" annotation_id="15925">
+          <DiscourseConnective annotation_id="15925" sense="Expansion.Alternative">tant que</DiscourseConnective>
+        </Alignment> la Conférence des présidents ne le permettra pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14818" docOffset="103">
+      <en>We have a referral system, namely the Conference of Presidents, which will decide whether it is down to the Committee on Petitions or the responsible committee to take action, in the event that both committees are unable to reach an agreement.</en>
+      <fr>Nous avons une gare d'aiguillage qui est la Conférence des présidents, qui décidera <DiscourseConnective annotation_id="16068">si</DiscourseConnective> c'est <DiscourseConnective annotation_id="16077">plutôt</DiscourseConnective> <DiscourseConnective annotation_id="16084">à</DiscourseConnective> la commission des pétitions <DiscourseConnective annotation_id="16114">ou</DiscourseConnective> à la commission compétente au fond d'agir, <DiscourseConnective annotation_id="16160">dans le cas où</DiscourseConnective> les deux commissions ne sont pas capables de s'entendre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15062" docOffset="104">
+      <en>We have <Alignment alignment="16237" annotation_id="15070">
+          <DiscourseConnective annotation_id="15070" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> made provision for a safeguard in any case.</en>
+      <fr>On a <Alignment alignment="15070" annotation_id="16237">
+          <DiscourseConnective annotation_id="16237" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> prévu <DiscourseConnective annotation_id="16248">tout de même</DiscourseConnective> une sauvegarde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15124" docOffset="105">
+      <en>I think that, with those clarifications made, we can conclude, Mr President.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="16286">qu'</DiscourseConnective>avec ces précisions, nous pouvons conclure, Monsieur le Président.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15201" docOffset="106">
+      <en>I have waited almost 20 years for the right to speak for six minutes in the Chamber, <Alignment alignment="17517" annotation_id="15286">
+          <DiscourseConnective annotation_id="15286" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> to do so <DiscourseConnective annotation_id="15299" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective> an audience such as this was a real pleasure.</en>
+      <fr>J'ai attendu près de vingt ans <DiscourseConnective annotation_id="16387">pour</DiscourseConnective> avoir le droit de parler six minutes <DiscourseConnective annotation_id="16429">en</DiscourseConnective> plénière. <Alignment alignment="6326" annotation_id="16442">
+          <DiscourseConnective annotation_id="16442" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> devant un tel auditoire, ce fut vraiment un plaisir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15352" id="448" name="President">
+    <ParallelChunk annotation_id="15352" docOffset="107">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15374" docOffset="108">
+      <en>The vote will take place on Wednesday 6 May 2009.</en>
+      <fr>Le vote aura lieu mercredi 6 mai 2009.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

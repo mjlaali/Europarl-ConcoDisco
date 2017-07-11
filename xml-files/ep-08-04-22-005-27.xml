@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>27.</en>
+    <fr>27.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>2006 discharge: European Agency for Safety and Health at Work (</en>
+    <fr>Décharge 2006: Agence européenne <DiscourseConnective annotation_id="37">pour</DiscourseConnective> la sécurité <DiscourseConnective annotation_id="54">et</DiscourseConnective> la santé au travail (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="68" docOffset="2">
+    <en>- After the vote:</en>
+    <fr>EN- <DiscourseConnective annotation_id="83">Après</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="86" id="133" name="Jutta Haug">
+    <ParallelChunk annotation_id="86" docOffset="3">
+      <en>(DE) Mr President, I would just like the honourable Members to know that we have now blocked and voted against the European Labelling Directive ten times - <Alignment alignment="275" annotation_id="242">
+          <DiscourseConnective annotation_id="242" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we will do it ten more times.</en>
+      <fr>(DE) M. le Président, je souhaite juste informer les honorables membres <DiscourseConnective annotation_id="170">que</DiscourseConnective> nous avons à présent bloqué <DiscourseConnective annotation_id="202">et</DiscourseConnective> voté contre la directive européenne sur l'étiquetage à dix reprises - <Alignment alignment="242" annotation_id="275">
+          <DiscourseConnective annotation_id="275" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous le ferons encore et encore.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="276" docOffset="4">
+      <en>We have <Alignment alignment="322" annotation_id="284">
+          <Alignment alignment="322" annotation_id="284">
+            <DiscourseConnective annotation_id="284" sense="Comparison.Contrast">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> always voted with the Hans-Peter Martin label, <Alignment alignment="380" annotation_id="339">
+          <DiscourseConnective annotation_id="339" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> Hans-Peter Martin is not in it.</en>
+      <fr>Nous avons <Alignment alignment="73" annotation_id="322">
+          <Alignment alignment="284" annotation_id="322">
+            <DiscourseConnective annotation_id="322" sense="Comparison.Contrast">en réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment> toujours voté <DiscourseConnective annotation_id="347">pour</DiscourseConnective> le label Hans-Peter Martin, <Alignment alignment="339" annotation_id="380">
+          <DiscourseConnective annotation_id="380" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> Hans-Peter Martin ne nous a pas suivi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

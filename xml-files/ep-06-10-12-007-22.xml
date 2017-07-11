@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>22.</en>
+    <fr>22.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>European Union Agency for Fundamental Rights (vote)</en>
+    <fr>Création d'une Agence des droits fondamentaux de l'Union européenne (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="56" docOffset="2">
+    <en>- Before the final vote:</en>
+    <fr>- <DiscourseConnective annotation_id="81">Avant</DiscourseConnective> le vote final:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="81" id="078" name="Kinga Gál ">
+    <ParallelChunk annotation_id="81" docOffset="3">
+      <en>rapporteur. - Mr President, given the fact that we have adopted the amended proposal, I should like to ask Mr Frattini <Alignment alignment="241" annotation_id="200">
+          <DiscourseConnective annotation_id="200" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> he will accept the amendments just adopted by this House, <Alignment alignment="310" annotation_id="261">
+          <DiscourseConnective annotation_id="261" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> does he need more time for some final compromises in the Council?</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, <DiscourseConnective annotation_id="144">étant donné que</DiscourseConnective> nous venons d'adopter la proposition amendée, je voudrais demander à M. Frattini <Alignment alignment="200" annotation_id="241">
+          <DiscourseConnective annotation_id="241" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il accepte les amendements adoptés à l'instant par cette Assemblée <Alignment alignment="261" annotation_id="310">
+          <DiscourseConnective annotation_id="310" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="313">s'</DiscourseConnective>il a besoin d'un délai <DiscourseConnective annotation_id="338">en</DiscourseConnective> vue des compromis finaux éventuels au Conseil.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="330" id="079" language="IT" name="Franco Frattini">
+    <ParallelChunk annotation_id="330" docOffset="4">
+      <en>Mr President, I believe that a further period of reflection would be appropriate.</en>
+      <fr>vice-président de la Commission. - (IT) Monsieur le Président, je pense <DiscourseConnective annotation_id="460">qu'</DiscourseConnective>un délai de réflexion supplémentaire serait indiqué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="412" docOffset="5">
+      <en>You all know my opinion on the amendments that you have just approved.</en>
+      <fr>Vous connaissez tous mon avis concernant les amendements <DiscourseConnective annotation_id="573">que</DiscourseConnective> vous venez d'adopter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="483" docOffset="6">
+      <en>The Council still has some difficulty in accepting them.</en>
+      <fr>Le Conseil éprouve <DiscourseConnective annotation_id="618">encore</DiscourseConnective> certaines difficultés <DiscourseConnective annotation_id="647">à</DiscourseConnective> les approuver.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="540" docOffset="7">
+      <en>I believe that the best solution would be to take some time <DiscourseConnective annotation_id="600" sense="Expansion.Conjunction">and</DiscourseConnective> for us to attempt to convince the Council to accommodate the opinion expressed today by Parliament.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="673">que</DiscourseConnective> la meilleure solution serait de prendre le temps <DiscourseConnective annotation_id="726">pour</DiscourseConnective> tenter de convaincre le Conseil de s'accommoder du point de vue exprimé aujourd'hui par le Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="704" id="080" name="Kinga Gál ">
+    <ParallelChunk annotation_id="704" docOffset="8">
+      <en>rapporteur. - Mr President, I <Alignment alignment="886" annotation_id="734">
+          <DiscourseConnective annotation_id="734" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> request that the vote be postponed <Alignment alignment="919" annotation_id="779">
+          <DiscourseConnective annotation_id="779" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the matter be referred back to the committee responsible, pursuant to Rule 53 of the Rules of Procedure, in order to await the Council's position on the amendments.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je demande <Alignment alignment="734" annotation_id="886">
+          <DiscourseConnective annotation_id="886" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> le report du vote <Alignment alignment="779" annotation_id="919">
+          <DiscourseConnective annotation_id="919" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le renvoi du dossier devant la commission compétente, conformément <DiscourseConnective annotation_id="989">à</DiscourseConnective> l'article 53 du règlement, <DiscourseConnective annotation_id="1018">afin d'</DiscourseConnective>attendre la position du Conseil concernant les amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="948" docOffset="9">
+      <en>(Parliament decided to postpone the vote <DiscourseConnective annotation_id="989" sense="Expansion.Conjunction">and</DiscourseConnective> the matter is <DiscourseConnective annotation_id="1007" sense="Contingency.Cause.Result">therefore</DiscourseConnective> considered referred back to the competent committee for further examination)</en>
+      <fr>(Le Parlement décide de reporter le vote. La question est réputée renvoyée <DiscourseConnective annotation_id="1160">pour</DiscourseConnective> réexamen <DiscourseConnective annotation_id="1174">à</DiscourseConnective> la commission compétente)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

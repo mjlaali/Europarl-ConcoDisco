@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="062" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>On behalf of the European Parliament, I would like to send a message of solidarity to the victims of hurricane Gustav in the Caribbean.</en>
+      <fr>Au nom du Parlement européen, j'aimerais envoyer un message de solidarité aux victimes de l'ouragan Gustav qui a frappé les Caraïbes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="163" docOffset="2">
+      <en>Nearly 100 people lost their lives in the Dominican Republic, Haiti, Jamaica, the Cayman Islands and Cuba, <Alignment alignment="236751" annotation_id="270">
+          <DiscourseConnective annotation_id="270" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> thousands of others are now homeless.</en>
+      <fr>Près de 100 personnes ont trouvé la mort <DiscourseConnective annotation_id="204">en</DiscourseConnective> République Dominicaine, à Haïti, en Jamaïque, aux Îles Cayman <DiscourseConnective annotation_id="269">et</DiscourseConnective> à Cuba, <Alignment alignment="270" annotation_id="280">
+          <DiscourseConnective annotation_id="280" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des milliers d'autres se sont retrouvées sans abri.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="312" docOffset="3">
+      <en>Once again, the citizens of these developing countries with which we maintain close links through the Cotonou Agreement - the ACP countries group - are suffering the ravages of a new natural disaster in these regions.</en>
+      <fr>Une fois de plus, les citoyens de ces pays en développement avec lesquels nous entretenons des liens étroits grâce aux accords de Cotonou - le groupe des pays ACP - souffrent des ravages causés par une nouvelle catastrophe naturelle dans ces régions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="530" docOffset="4">
+      <en>The European Union is closely monitoring the situation in the affected countries and is sending humanitarian aid.</en>
+      <fr>L'Union européenne suit de près la situation des pays touchés <DiscourseConnective annotation_id="648">et</DiscourseConnective> envoie de l'aide humanitaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="644" docOffset="5">
+      <en>The European Parliament will, of course, be closely monitoring the supply of humanitarian assistance to countries in the region, particularly through the work of its Committee on Development and the ACP-EU Joint Parliamentary Assembly.</en>
+      <fr>Le Parlement européen suivra bien sûr de près l'envoi d'aide humanitaire aux pays de la région, <DiscourseConnective annotation_id="777">en particulier</DiscourseConnective> par le biais de la commission du développement <DiscourseConnective annotation_id="839">et</DiscourseConnective> de l'assemblée parlementaire conjointe ACP-UE.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>The humanitarian situation of Iraqi refugees (vote)</en>
+    <fr>La situation humanitaire des réfugiés irakiens (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="55" docOffset="2">
+    <en>Joint resolution.</en>
+    <fr>Résolution commune.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="73" docOffset="3">
+    <en>- Before the vote on the draft resolution:</en>
+    <fr>
+      <DiscourseConnective annotation_id="77">Avant</DiscourseConnective> le vote sur la proposition de résolution</fr>
+  </ParallelChunk>
+<Speaker annotation_id="116" id="269" name="Avril Doyle">
+    <ParallelChunk annotation_id="116" docOffset="4">
+      <en>Mr President, on a point of order, <Alignment alignment="138820" annotation_id="151">
+          <DiscourseConnective annotation_id="151" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> you put the motion for a resolution to the vote, in the interests of fairness I think the ALDE Group should recognise that but for the PPE-DE Group's presence here this afternoon, its amendments would not have been passed.</en>
+      <fr>(EN) Monsieur le Président, sur une motion de procédure, <Alignment alignment="151" annotation_id="181">
+          <DiscourseConnective annotation_id="181" sense="Temporal.Asynchronous.Precedence">avant que</DiscourseConnective>
+        </Alignment> vous soumettiez la proposition de résolution au vote, par souci d'équité, je pense que le groupe ALDE devrait reconnaître <DiscourseConnective annotation_id="313">que</DiscourseConnective> <DiscourseConnective annotation_id="317">sans</DiscourseConnective> la présence du groupe du PPE-DE cet après-midi, ses amendements n'auraient pas été adoptés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="381" docOffset="5">
+      <en>I think there should be consistency in our criticism about presence in this Chamber.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="423">que si</DiscourseConnective> l'on critique les présences dans cette Assemblée, il faut rester cohérent.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>7.</en>
+    <fr>7.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Future of the Africa/EU strategic partnership on the eve of 3rd Africa/EU summit (</en>
+    <fr>Avenir du partenariat stratégique Afrique-UE <DiscourseConnective annotation_id="48">avant</DiscourseConnective> le troisième sommet UE-Afrique (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="86" docOffset="2">
+    <en>- Before the vote on paragraph 8:</en>
+    <fr>- <DiscourseConnective annotation_id="89">Avant</DiscourseConnective> le vote sur l'amendement 8</fr>
+  </ParallelChunk>
+<Speaker annotation_id="120" id="206" name="Michael Gahler">
+    <ParallelChunk annotation_id="120" docOffset="3">
+      <en>(DE) Mr President, this is only about the correct name, about what is being referred to.</en>
+      <fr>(DE) Monsieur le Président, ma remarque porte uniquement sur l'intitulé correct, sur ce à quoi il est fait référence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="209" docOffset="4">
+      <en>It should say in the text: Extractive Industries Transparency Initiative.</en>
+      <fr>Il devrait être mentionné: l'initiative <DiscourseConnective annotation_id="280">pour</DiscourseConnective> la transparence des industries extractives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="283" docOffset="5">
+      <en>That was what was wrong in the text.</en>
+      <fr>C'est ce qui posait problème dans le texte.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="320" id="209" name="Paul Rübig">
+    <ParallelChunk annotation_id="320" docOffset="6">
+      <en>(DE) Mr President, could you tell us the name of the person in the secretariat who is responsible for the seating plan <Alignment alignment="255" annotation_id="439">
+          <DiscourseConnective annotation_id="439" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> whether he or she happens to be in the Chamber?</en>
+      <fr>(DE) Monsieur le Président, pourriez-vous nous donner le nom de la personne qui, au sein du secrétariat, est responsable de l'établissement du plan d'attribution des places <Alignment alignment="0" annotation_id="546">
+          <DiscourseConnective annotation_id="546" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous dire <DiscourseConnective annotation_id="559">si</DiscourseConnective> elle est présente parmi nous aujourd'hui?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="491" id="210" name="President">
+    <ParallelChunk annotation_id="491" docOffset="7">
+      <en>I am informed that the seating is done by the political groups in the plenary.</en>
+      <fr>D'après mes informations, ce plan est établi par les groupes politiques au sein de la plénière.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

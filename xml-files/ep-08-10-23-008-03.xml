@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Piracy at sea (</en>
+    <fr>Actes de piraterie <DiscourseConnective annotation_id="22">en</DiscourseConnective> mer (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="19" docOffset="2">
+    <en>- On paragraph 4 part 2</en>
+    <fr>- Sur le paragraphe 4 (2 e partie)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="43" id="065" name="Rosa Miguélez Ramos">
+    <ParallelChunk annotation_id="43" docOffset="3">
+      <en>(ES) Mr President, I refer to the first part of paragraph 4 in the split voting.</en>
+      <fr>(ES) Monsieur le Président, je me réfère <DiscourseConnective annotation_id="107">à</DiscourseConnective> la première partie du paragraphe 4 du vote par division.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="124" docOffset="4">
+      <en>I should like the vote on the first part of the original paragraph to be repeated.</en>
+      <fr>Je voudrais que l'on répète le vote sur la première partie du paragraphe original.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="207" id="066" name="President">
+    <ParallelChunk annotation_id="207" docOffset="5">
+      <en>I can see that the House agrees.</en>
+      <fr>Je vois <DiscourseConnective annotation_id="257">que</DiscourseConnective> l'Assemblée est d'accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="240" docOffset="6">
+      <en>We will vote on this again.</en>
+      <fr>Nous revoterons donc.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

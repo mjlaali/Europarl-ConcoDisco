@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Composition of committees and delegations: see Minutes</en>
+    <fr>Composition des commissions <DiscourseConnective annotation_id="28">et</DiscourseConnective> des délégations: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="55" id="017" name="Luis Yáñez-Barnuevo García">
+    <ParallelChunk annotation_id="55" docOffset="1">
+      <en>(ES) Mr President, I am sure this is because of how recent it is, <Alignment alignment="151" annotation_id="121">
+          <DiscourseConnective annotation_id="121" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> you have not mentioned yesterday's serious event in Cuba: it seems that a Cuban dissident, Juan Wilfredo Soto García, was murdered by the police in a public park in Santa Clara, Cuba.</en>
+      <fr>(ES) Monsieur le Président, je suis sûr que c'est en raison de son caractère récent <Alignment alignment="121" annotation_id="151">
+          <DiscourseConnective annotation_id="151" sense="Comparison.Contrast">que</DiscourseConnective>
+        </Alignment> vous n'avez pas mentionné l'événement grave qui a eu lieu hier <DiscourseConnective annotation_id="218">à</DiscourseConnective> Cuba. En effet, il semble <DiscourseConnective annotation_id="246">qu'</DiscourseConnective>un dissident cubain, Juan Wilfredo Soto García, ait été tué par la police dans un parc public de la ville cubaine de Santa Clara.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="309" docOffset="2">
+      <en>Mr President, I believe, given Parliament's sensitivity to the issue of human rights, that you should demand, at the very least, an independent investigation to shed light on the murder of this Cuban dissident.</en>
+      <fr>Monsieur le Président, compte tenu de la sensibilité du Parlement <DiscourseConnective annotation_id="445">à</DiscourseConnective> la question des droits de l'homme, j'estime <DiscourseConnective annotation_id="491">que</DiscourseConnective> vous devriez <DiscourseConnective annotation_id="508">à</DiscourseConnective> tout le moins exiger une enquête indépendante <DiscourseConnective annotation_id="556">pour</DiscourseConnective> faire toute la lumière sur le meurtre de ce dissident cubain.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="520" id="018" name="President">
+    <ParallelChunk annotation_id="520" docOffset="3">
+      <en>Thank you for your remark.</en>
+      <fr>Je vous remercie <DiscourseConnective annotation_id="640">pour</DiscourseConnective> votre <DiscourseConnective annotation_id="651">remarque</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="547" docOffset="4">
+      <en>
+        <Alignment alignment="661" annotation_id="547">
+          <DiscourseConnective annotation_id="547" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> such an event has <DiscourseConnective annotation_id="568" sense="Expansion.Conjunction">indeed</DiscourseConnective> taken place, we will adopt the same position <Alignment alignment="439" annotation_id="620">
+          <DiscourseConnective annotation_id="620" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you have suggested.</en>
+      <fr>
+        <Alignment alignment="547" annotation_id="661">
+          <DiscourseConnective annotation_id="661" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> un tel événement s'est réellement produit, nous adopterons la position <Alignment alignment="584" annotation_id="735">
+          <DiscourseConnective annotation_id="735" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> vous avez suggérée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="643" docOffset="5">
+      <en>Thank you for calling attention to this.</en>
+      <fr>Je vous remercie d'avoir attiré notre attention sur ce fait.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Venezuela: the case of Manuel Rosales</en>
+    <fr>Venezuela: le cas de Manuel Rosales</fr>
+  </ParallelChunk>
+<Speaker annotation_id="41" id="303" name="President">
+    <ParallelChunk annotation_id="41" docOffset="2">
+      <en>Thank you very much.</en>
+      <fr>Merci beaucoup.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="62" docOffset="3">
+      <en>This was a emotionally charged sitting, not only because of the human rights issues, but <Alignment alignment="208272" annotation_id="151">
+          <DiscourseConnective annotation_id="151" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it was our last sitting.</en>
+      <fr>Ce fut une séance riche en émotions, <DiscourseConnective annotation_id="92">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="106">parce qu'</DiscourseConnective>elle a traité du sujet des droits de l'homme, <DiscourseConnective annotation_id="161">mais aussi</DiscourseConnective> <Alignment alignment="245" annotation_id="172">
+          <DiscourseConnective annotation_id="172" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il s'agissait de notre dernière séance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="184" docOffset="4">
+      <en>Thank you for your participation.</en>
+      <fr>Merci <DiscourseConnective annotation_id="227">pour</DiscourseConnective> votre participation.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="218" id="304" name="Zdzisław Zbigniew Podkański">
+    <ParallelChunk annotation_id="218" docOffset="5">
+      <en>(PL) May I, on behalf of all Members of the European Parliament, and also our Parliamentary services and assistants, offer you, Madam President, our sincere thanks - to you personally, to the Bureau of the European Parliament and to the entire administration - for chairing the debates so well, for good cooperation and for mutual understanding.</en>
+      <fr>(PL) <DiscourseConnective annotation_id="258">Puis</DiscourseConnective>-je vous présenter, Madame la Présidente, au nom de tous les députés du Parlement européen, <DiscourseConnective annotation_id="354">ainsi</DiscourseConnective> qu'au nom de nos services parlementaires <DiscourseConnective annotation_id="401">et</DiscourseConnective> de nos assistants, nos remerciements sincères - <DiscourseConnective annotation_id="452">à</DiscourseConnective> vous, personnellement, au bureau du Parlement européen <DiscourseConnective annotation_id="509">ainsi</DiscourseConnective> qu'à la totalité de l'administration - <DiscourseConnective annotation_id="554">pour</DiscourseConnective> avoir <DiscourseConnective annotation_id="565">si</DiscourseConnective> bien présidé les débats, <DiscourseConnective annotation_id="593">pour</DiscourseConnective> notre bonne coopération <DiscourseConnective annotation_id="622">et</DiscourseConnective> <DiscourseConnective annotation_id="625">pour</DiscourseConnective> notre compréhension mutuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="564" docOffset="6">
+      <en>We wish you further success, re-election to Parliament, much satisfaction in your public activity and happiness in your personal life.</en>
+      <fr>Nous vous souhaitons d'autres succès, une réélection au Parlement, beaucoup de satisfaction dans vos activités publiques <DiscourseConnective annotation_id="781">et</DiscourseConnective> de bonheur dans votre vie personnelle.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="699" id="305" name="President">
+    <ParallelChunk annotation_id="699" docOffset="7">
+      <en>Thank you very much.</en>
+      <fr>Merci beaucoup.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="720" docOffset="8">
+      <en>I should <Alignment alignment="1332" annotation_id="729">
+          <DiscourseConnective annotation_id="729" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to take this opportunity to thank everyone in Parliament's services for their valuable work.</en>
+      <fr>Je voudrais <Alignment alignment="818" annotation_id="851">
+          <DiscourseConnective annotation_id="851" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> profiter de cette occasion <DiscourseConnective annotation_id="888">pour</DiscourseConnective> remercier tous les services du Parlement <DiscourseConnective annotation_id="934">pour</DiscourseConnective> leur précieux travail.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

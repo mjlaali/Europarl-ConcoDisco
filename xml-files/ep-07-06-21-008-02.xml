@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Review procedures concerning the award of public contracts (vote)</en>
+    <fr>Recours en matière de passation des marchés publics (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="69" docOffset="2">
+    <en>- Report: Fruteau</en>
+    <fr>- Rapport Fruteau</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="87" docOffset="3">
+    <en>- After the vote</en>
+    <fr>- <DiscourseConnective annotation_id="82">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="104" id="062" name="Hannes Swoboda">
+    <ParallelChunk annotation_id="104" docOffset="4">
+      <en>(DE) Mr President, I think we should congratulate Mr Fruteau on his election to the French Parliament.</en>
+      <fr>(DE) Monsieur le Président, je pense que nous devrions féliciter M. Fruteau <DiscourseConnective annotation_id="172">pour</DiscourseConnective> son élection au parlement français.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="207" docOffset="5">
+      <en>It may not be good news for us, <Alignment alignment="266" annotation_id="239">
+          <DiscourseConnective annotation_id="239" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I am sure he is very pleased with the result.</en>
+      <fr>Ce n'est peut-être pas une bonne nouvelle <DiscourseConnective annotation_id="255">pour</DiscourseConnective> nous, <Alignment alignment="239" annotation_id="266">
+          <DiscourseConnective annotation_id="266" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je suis sûr qu'il est extrêmement heureux de ce <DiscourseConnective annotation_id="319">résultat</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="289" id="063" name="President">
+    <ParallelChunk annotation_id="289" docOffset="6">
+      <en>I too would like to congratulate Mr Fruteau, <Alignment alignment="377" annotation_id="334">
+          <DiscourseConnective annotation_id="334" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we now go on to the next item.</en>
+      <fr>Je souhaiterais moi <DiscourseConnective annotation_id="349">aussi</DiscourseConnective> féliciter M. Fruteau, <Alignment alignment="334" annotation_id="377">
+          <DiscourseConnective annotation_id="377" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous passons <DiscourseConnective annotation_id="393">maintenant</DiscourseConnective> au point suivant.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

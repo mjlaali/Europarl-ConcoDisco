@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="120" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the report by Marisa Matias, on behalf of the Committee on the Environment, Public Health and Food Safety, on the proposal for a directive of the European Parliament and of the Council amending Directive 2001/83/EC <Alignment alignment="267" annotation_id="244">
+          <DiscourseConnective annotation_id="244" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> regards the prevention of the entry into the legal supply chain of medicinal products which are falsified in relation to their identity, history or source - C6-0513/2008 -.</en>
+      <fr>L'ordre du jour appelle le rapport de Marisa Matias, au nom de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="134">et</DiscourseConnective> de la sécurité alimentaire, sur la proposition de directive du Parlement européen <DiscourseConnective annotation_id="219">et</DiscourseConnective> du Conseil modifiant la directive 2001/83/CE <Alignment alignment="244" annotation_id="267">
+          <DiscourseConnective annotation_id="267" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> ce qui concerne la prévention de l'introduction dans la chaîne d'approvisionnement légale de médicaments falsifiés du point de vue de leur identité, de leur historique <DiscourseConnective annotation_id="438">ou</DiscourseConnective> de leur source - C6-0513/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

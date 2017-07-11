@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Agenda: see Minutes</en>
+    <fr>Ordre du jour: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="20" id="008" name="Carlos Carnero González">
+    <ParallelChunk annotation_id="20" docOffset="1">
+      <en>(ES) Madam President, I do not intend to speak for five minutes.</en>
+      <fr>(ES) Madame la Présidente, je n'ai pas l'intention de parler pendant cinq minutes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="85" docOffset="2">
+      <en>I would just like to ask you, given your generosity and knowledge of the region to which I am going to refer, to allow me to speak on a point of order.</en>
+      <fr>Je voudrais seulement vous demander, étant donné votre générosité <DiscourseConnective annotation_id="183">et</DiscourseConnective> votre connaissance de la région <DiscourseConnective annotation_id="218">à</DiscourseConnective> laquelle je vais faire référence, de me permettre d'intervenir <DiscourseConnective annotation_id="283">pour</DiscourseConnective> une motion de procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="237" docOffset="3">
+      <en>Madam President, I wonder whether the President of this Institution could express his support, <Alignment alignment="1085" annotation_id="332">
+          <DiscourseConnective annotation_id="332" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> he has not already done so, for the Secretary-General of the United Nations', Mr Ban Ki-moon's, call for a cease to hostilities in Lebanon, which are causing huge loss of life.</en>
+      <fr>Madame la Présidente, je me demandais <DiscourseConnective annotation_id="351">si</DiscourseConnective> le Président de cette institution ne pourrait pas, <Alignment alignment="332" annotation_id="405">
+          <DiscourseConnective annotation_id="405" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il ne l'a <DiscourseConnective annotation_id="417">déjà</DiscourseConnective> fait, exprimer son soutien à l'appel formulé par le Secrétaire général des Nations unies, M. Ban Ki-moon, <DiscourseConnective annotation_id="528">à</DiscourseConnective> la cessation des hostilités au Liban, qui ont déjà coûté de nombreuses vies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="512" docOffset="4">
+      <en>I believe that this is essential <Alignment alignment="643" annotation_id="545">
+          <DiscourseConnective annotation_id="545" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it would reflect the feelings of every single Member of this Parliament.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="616">que</DiscourseConnective> ce geste est essentiel <Alignment alignment="545" annotation_id="643">
+          <DiscourseConnective annotation_id="643" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="646">qu'</DiscourseConnective>il reflèterait l'état d'esprit de tous les députés du Parlement sans exception.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="627" docOffset="5">
+      <en>I know that we have a debate on the situation in Palestine this afternoon, <Alignment alignment="805" annotation_id="702">
+          <DiscourseConnective annotation_id="702" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the truth is that, at this very moment, innocent civilians are still dying in Lebanon.</en>
+      <fr>Je sais <DiscourseConnective annotation_id="737">qu'</DiscourseConnective>un débat sur la situation <DiscourseConnective annotation_id="766">en</DiscourseConnective> Palestine est prévu cet après-midi, <Alignment alignment="511" annotation_id="805">
+          <DiscourseConnective annotation_id="805" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="810">le fait est qu'</DiscourseConnective>en ce moment même, des civils innocents meurent <DiscourseConnective annotation_id="873">encore</DiscourseConnective> au Liban.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="793" docOffset="6">
+      <en>That is what I am asking for.</en>
+      <fr>Voilà ma requête.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="823" id="009" name="President">
+    <ParallelChunk annotation_id="823" docOffset="7">
+      <en>Your request will be passed on to the President, who will certainly <DiscourseConnective annotation_id="891" sense="Expansion.Conjunction">also</DiscourseConnective> put it to the Conference of Presidents.</en>
+      <fr>Votre requête sera transmise au Président, qui la soumettra certainement <DiscourseConnective annotation_id="981">à</DiscourseConnective> la Conférence des Présidents.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

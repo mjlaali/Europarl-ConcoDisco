@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>11.</en>
+    <fr>11.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Situation in Tibet (vote)</en>
+    <fr>Situation au Tibet (vote)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="30" id="080" name="President">
+    <ParallelChunk annotation_id="30" docOffset="2">
+      <en>The House was almost unanimous in expressing its views on this important issue <Alignment alignment="97" annotation_id="109">
+          <DiscourseConnective annotation_id="109" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that those to whom this vote is addressed will heed its message.</en>
+      <fr>(DE) Le Parlement a exprimé son opinion de manière presque unanime <Alignment alignment="0" annotation_id="97">
+          <DiscourseConnective annotation_id="97" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="109">que</DiscourseConnective> ceux <DiscourseConnective annotation_id="118">à</DiscourseConnective> qui ce vote est destiné en comprendront la signification.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

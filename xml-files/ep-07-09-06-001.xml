@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 10 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 10 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="59" id="005" name="Antonio Tajani">
+    <ParallelChunk annotation_id="59" docOffset="2">
+      <en>(IT) Mr President, ladies and gentlemen, Europe has lost one of its greatest artists today.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="96">et</DiscourseConnective> Messieurs, l'Europe a perdu aujourd'hui l'un de ses plus grands artistes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="151" docOffset="3">
+      <en>Luciano Pavarotti died this morning in Modena, <Alignment alignment="221" annotation_id="198">
+          <DiscourseConnective annotation_id="198" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think it only right to pay tribute to this great man of art and culture who took European music to the entire world.</en>
+      <fr>Luciano Pavarotti est décédé ce matin <DiscourseConnective annotation_id="211">à</DiscourseConnective> Modène, <Alignment alignment="198" annotation_id="221">
+          <DiscourseConnective annotation_id="221" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> selon moi, il n'est que justice de rendre hommage <DiscourseConnective annotation_id="274">à</DiscourseConnective> ce grand homme d'art <DiscourseConnective annotation_id="297">et</DiscourseConnective> de culture, qui a fait découvrir la musique européenne au monde entier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="321" docOffset="4">
+      <en>His passing is a huge loss to the European Union as a whole, <Alignment alignment="175380" annotation_id="382">
+          <DiscourseConnective annotation_id="382" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I believe it fitting to remember Luciano Pavarotti in this House.</en>
+      <fr>Son décès est une énorme perte <DiscourseConnective annotation_id="403">pour</DiscourseConnective> toute l'Union européenne, <Alignment alignment="207" annotation_id="434">
+          <DiscourseConnective annotation_id="434" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense qu'il convient de nous souvenir de Luciano Pavarotti au sein de cette Assemblée.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

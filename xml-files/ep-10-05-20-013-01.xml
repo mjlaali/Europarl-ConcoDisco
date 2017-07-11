@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Religious freedom in Pakistan (</en>
+    <fr>Liberté de religion au Pakistan (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="35" docOffset="2">
+    <en>Resolution: Religious freedom in Pakistan</en>
+    <fr>Résolution: liberté de religion au Pakistan</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="77" docOffset="3">
+    <en>Before the vote on paragraph 13:</en>
+    <fr>- <DiscourseConnective annotation_id="83">Avant</DiscourseConnective> le vote sur le paragraphe 13</fr>
+  </ParallelChunk>
+<Speaker annotation_id="110" id="289" name="Bernd Posselt">
+    <ParallelChunk annotation_id="110" docOffset="4">
+      <en>(DE) Madam President, our fellow Members have negotiated very skilfully and have agreed on a very good resolution with the groups.</en>
+      <fr>(DE) Madame la Présidente, nos collègues ont mené leurs négociations de façon magistrale <DiscourseConnective annotation_id="207">et</DiscourseConnective> sont parvenus à un accord sur une excellente résolution avec les groupes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="241" docOffset="5">
+      <en>
+        <Alignment alignment="284" annotation_id="241">
+          <DiscourseConnective annotation_id="241" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, paragraph 13 is confusing and muddled and does not actually mean anything.</en>
+      <fr>
+        <Alignment alignment="241" annotation_id="284">
+          <DiscourseConnective annotation_id="284" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, le paragraphe 13 est confus <DiscourseConnective annotation_id="323">et</DiscourseConnective> vague, <DiscourseConnective annotation_id="333">et</DiscourseConnective> ne veut rien dire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="325" docOffset="6">
+      <en>This is why we are proposing a new wording, which reads as follows: 'Is concerned about the possible misuse of the 'Combating Defamation of Religion' campaign at the UN, stressing the Council conclusions of 16 November 2009'.</en>
+      <fr>
+        <DiscourseConnective annotation_id="355">C'est pourquoi</DiscourseConnective> nous proposons une nouvelle formulation, qui serait la suivante: "est préoccupé par l'abus possible de la campagne de "lutte contre la diffamation des religions" aux Nations unies, soulignant les conclusions du Conseil du 16 novembre 2009".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="551" docOffset="7">
+      <en>The content is the same, <Alignment alignment="637" annotation_id="576">
+          <DiscourseConnective annotation_id="576" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the wording is tighter.</en>
+      <fr>Le contenu reste le <DiscourseConnective annotation_id="631">même</DiscourseConnective>, <Alignment alignment="213" annotation_id="637">
+          <DiscourseConnective annotation_id="637" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la formulation est plus concise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="604" docOffset="8">
+      <en>We are asking you to vote in favour of this new wording.</en>
+      <fr>Nous vous demandons de voter <DiscourseConnective annotation_id="704">en</DiscourseConnective> faveur de cette nouvelle formulation.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

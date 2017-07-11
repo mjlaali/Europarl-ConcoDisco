@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="007" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I would like to welcome to the plenary chamber Maria Romana de Gasperi, the daughter of the great Italian statesman and one of the founders of the European Community, Alcide de Gasperi.</en>
+      <fr>J'ai le grand plaisir d'accueillir parmi nous <DiscourseConnective annotation_id="68">pour</DiscourseConnective> cette séance plénière Mme Maria Romana de Gasperi, fille du grand homme d'État italien <DiscourseConnective annotation_id="160">et</DiscourseConnective> l'un des pères fondateurs de la Communauté européenne, Alcide de Gasperi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="194" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

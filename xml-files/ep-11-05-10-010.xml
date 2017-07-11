@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="128" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, I shall now read a message from Mr Buzek.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, je vais à présent vous lire un message adressé par M. Buzek.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="72" docOffset="2">
+      <en>'I am pleased to inform you that today we have the honour of welcoming Bogdan Borusewicz, Speaker of the Polish Senate, Irena Degutienė, Speaker of the Seimas of the Republic of Lithuania and Volodimir Litvin, Speaker of the Verkovna Rada of Ukraine.</en>
+      <fr>"Je suis heureux de vous informer <DiscourseConnective annotation_id="140">que</DiscourseConnective> nous avons aujourd'hui le plaisir d'accueillir Bogdan Borusewicz, président du Sénat polonais, Irena Degutienė, présidente de la Seimas de la République de Lituanie, <DiscourseConnective annotation_id="310">et</DiscourseConnective> Volodimir Litvin, président de la Verkhovna Rada d'Ukraine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="323" docOffset="3">
+      <en>The three speakers met today in Parliament for an extraordinary session of the Parliamentary Assembly of Lithuania, Poland and Ukraine.</en>
+      <fr>Les trois présidents se sont réunis aujourd'hui au Parlement <DiscourseConnective annotation_id="434">pour</DiscourseConnective> une session extraordinaire de l'Assemblée parlementaire de Lituanie, Pologne <DiscourseConnective annotation_id="516">et</DiscourseConnective> Ukraine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="459" docOffset="4">
+      <en>This assembly is rooted in the tradition of the Polish-Lithuanian Commonwealth, which for more than two centuries has represented the boundary of Europe, understood as a political, cultural and civil project.</en>
+      <fr>Cette instance tire ses racines dans l'Union polono-lituanienne qui représenta, plus de deux siècles durant, la frontière d'une Europe comprise <DiscourseConnective annotation_id="672">comme</DiscourseConnective> un projet politique, culturel <DiscourseConnective annotation_id="708">et</DiscourseConnective> civil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="668" docOffset="5">
+      <en>The meeting of this parliamentary assembly in Strasbourg today marks the 220th anniversary of the adoption of the 3 May Constitution, the first constitution in Europe.'</en>
+      <fr>La réunion de l'Assemblée parlementaire <DiscourseConnective annotation_id="758">à</DiscourseConnective> Strasbourg marque le 220e anniversaire de l'adoption de la constitution du 3 mai, la première constitution <DiscourseConnective annotation_id="867">en</DiscourseConnective> Europe".</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

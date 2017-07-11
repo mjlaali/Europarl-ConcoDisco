@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Interpretation of the Rules of Procedure</en>
+    <fr>Interprétation du règlement</fr>
+  </ParallelChunk>
+<Speaker annotation_id="41" id="006" name="President">
+    <ParallelChunk annotation_id="41" docOffset="1">
+      <en>The interpretation of Rules 56 and 50 of the Rules of Procedure of the European Parliament, which was adopted by the Committee on Constitutional Affairs at its sitting of Monday 14 February 2011, was announced during yesterday's voting time.</en>
+      <fr>L'interprétation des articles 56 <DiscourseConnective annotation_id="61">et</DiscourseConnective> 50 du règlement du Parlement européen, adoptée par la commission des affaires constitutionnelles dans sa réunion du lundi 14 février 2011, a été annoncée hier pendant l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="283" docOffset="2">
+      <en>
+        <Alignment alignment="250" annotation_id="283">
+          <DiscourseConnective annotation_id="283" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> this interpretation was not contested by anyone pursuant to Rule 211(4) of the Rules of Procedure, the interpretation can be deemed to have been adopted.</en>
+      <fr>
+        <Alignment alignment="52" annotation_id="250">
+          <DiscourseConnective annotation_id="250" sense="Temporal.Synchrony">En</DiscourseConnective>
+        </Alignment> l'absence de toute opposition conformément <DiscourseConnective annotation_id="296">à</DiscourseConnective> l'article 211, paragraphe 4, du règlement, cette interprétation peut être réputée adoptée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="440" docOffset="3">
+      <en>
+        <Alignment alignment="935" annotation_id="440">
+          <DiscourseConnective annotation_id="440" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+        </Alignment>, the vote on the Mathieu report on the procedure for a single permit for third-country nationals to reside and work in the territory of a Member State has been removed from the agenda for this part-session.</en>
+      <fr>Le vote sur le rapport de Véronique Mathieu sur la procédure de délivrance d'un permis unique autorisant les ressortissants de pays tiers <DiscourseConnective annotation_id="527">à</DiscourseConnective> résider <DiscourseConnective annotation_id="537">et</DiscourseConnective> à travailler sur le territoire d'un État membre est, <Alignment alignment="242" annotation_id="593">
+          <DiscourseConnective annotation_id="593" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, retiré de l'ordre du jour de cette période de session.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="659" docOffset="4">
+      <en>
+        <Alignment alignment="664" annotation_id="659">
+          <DiscourseConnective annotation_id="659" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you are aware, the matter has been the subject of much debate, <DiscourseConnective annotation_id="725" sense="Expansion.Conjunction">and</DiscourseConnective> now we have an interpretation on the basis of the Rules of Procedure and the principles governing our work.</en>
+      <fr>
+        <Alignment alignment="288" annotation_id="664">
+          <DiscourseConnective annotation_id="664" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, la question a été longuement débattue. Nous disposons à présent d'une interprétation sur la base du règlement <DiscourseConnective annotation_id="795">et</DiscourseConnective> des principes régissant nos travaux.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 9 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 09 heures.)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="58" id="005" name="Daniel Cohn-Bendit">
+    <ParallelChunk annotation_id="58" docOffset="2">
+      <en>- (FR) Madam President, I would like to check something with you.</en>
+      <fr>- (FR) Madame la Présidente, je vous demande de vérifier une chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="124" docOffset="3">
+      <en>Apparently it was decided, at the request of the French Presidency, to control photography during President Sarkozy's speech.</en>
+      <fr>Il paraît qu'il a été décidé, <DiscourseConnective annotation_id="158">à</DiscourseConnective> la demande de la Présidence française, de réglementer la prise d'images lors de l'intervention du Président Sarkozy.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="250" docOffset="4">
+      <en>I would like to know who took this decision, who requested it, <Alignment alignment="349" annotation_id="313">
+          <DiscourseConnective annotation_id="313" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> who is in charge of photography at the European Parliament.</en>
+      <fr>Je voudrais savoir qui a pris cette décision, qui a fait cette demande, <Alignment alignment="169" annotation_id="349">
+          <DiscourseConnective annotation_id="349" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui dirige la prise d'images au Parlement européen?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="377" docOffset="5">
+      <en>Is it the European Parliament or the French Presidency?</en>
+      <fr>Est-ce que c'est le Parlement européen <DiscourseConnective annotation_id="443">ou</DiscourseConnective> la Présidence française?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="433" docOffset="6">
+      <en>I would appreciate an answer before the start of the sitting.</en>
+      <fr>Je vous demande une réponse <DiscourseConnective annotation_id="499">avant</DiscourseConnective> le début de la séance.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="495" id="006" name="President">
+    <ParallelChunk annotation_id="495" docOffset="7">
+      <en>Mr Cohn-Bendit, you will have an answer before the start of the sitting, <Alignment alignment="606" annotation_id="568">
+          <DiscourseConnective annotation_id="568" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> for now, <Alignment alignment="646" annotation_id="581">
+          <DiscourseConnective annotation_id="581" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you do not mind, we will proceed with the voting.</en>
+      <fr>(FR) Monsieur Cohn-Bendit, vous aurez une réponse <DiscourseConnective annotation_id="578">avant</DiscourseConnective> le début de la séance <Alignment alignment="568" annotation_id="606">
+          <DiscourseConnective annotation_id="606" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="612">maintenant</DiscourseConnective>, nous allons bien sûr, <Alignment alignment="409" annotation_id="646">
+          <DiscourseConnective annotation_id="646" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> vous le voulez bien, passer aux votes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="634" id="007" name="Astrid Lulling">
+    <ParallelChunk annotation_id="634" docOffset="8">
+      <en>- (FR) Madam President, as Quaestor of this Parliament, I would like to draw your attention to the fact that the route to the Parliament entrance is blocked on one side by riot police.</en>
+      <fr>- (FR) Madame la Présidente, en <DiscourseConnective annotation_id="720">tant que</DiscourseConnective> questeur de ce Parlement, je voudrais attirer votre attention sur le fait <DiscourseConnective annotation_id="803">que</DiscourseConnective> la route permettant d'accéder <DiscourseConnective annotation_id="837">à</DiscourseConnective> l'entrée du Parlement <DiscourseConnective annotation_id="861">d'un côté</DiscourseConnective> est barrée par les CRS.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="819" docOffset="9">
+      <en>They are not allowing official cars to enter.</en>
+      <fr>Ils ne laissent pas entrer les voitures officielles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="865" docOffset="10">
+      <en>
+        <Alignment alignment="948" annotation_id="865">
+          <DiscourseConnective annotation_id="865" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> some Members arrive late <Alignment alignment="989" annotation_id="893">
+          <DiscourseConnective annotation_id="893" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they have to make another detour, they should not be penalised <Alignment alignment="1060" annotation_id="964">
+          <DiscourseConnective annotation_id="964" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they cannot take part in the voting.</en>
+      <fr>
+        <Alignment alignment="865" annotation_id="948">
+          <DiscourseConnective annotation_id="948" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> certains collègues arrivent en retard <Alignment alignment="893" annotation_id="989">
+          <DiscourseConnective annotation_id="989" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il faut faire un nouveau détour, il ne faudrait pas les punir <Alignment alignment="864" annotation_id="1060">
+          <DiscourseConnective annotation_id="1060" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>ils ne peuvent pas assister aux votes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1004" id="008" name="President">
+    <ParallelChunk annotation_id="1004" docOffset="11">
+      <en>Mrs Lulling, clearly this will be taken into account, <Alignment alignment="1227" annotation_id="1058">
+          <DiscourseConnective annotation_id="1058" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> some Members are having difficulty in being admitted to Parliament.</en>
+      <fr>(FR) Il est bien évident, Madame Lulling, que ce sera pris en compte <Alignment alignment="1469" annotation_id="1170">
+          <DiscourseConnective annotation_id="1170" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, en effet, certains collègues ont des difficultés <DiscourseConnective annotation_id="1230">pour</DiscourseConnective> accéder au Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

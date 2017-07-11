@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>2010 progress report on Croatia (</en>
+    <fr>Rapport 2010 sur les progrès accomplis par la Croatie (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="37" id="126" name="Franziska Katharina Brantner">
+    <ParallelChunk annotation_id="37" docOffset="2">
+      <en>Mr President, in relation to the next two amendments, I am withdrawing our Amendment No 8.</en>
+      <fr>(EN) Monsieur le Président, <DiscourseConnective annotation_id="87">en</DiscourseConnective> ce qui concerne les deux prochains amendements, je retire notre amendement 8.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="128" docOffset="3">
+      <en>In return, <Alignment alignment="185" annotation_id="139">
+          <DiscourseConnective annotation_id="139" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> discussed with Mr Swoboda, the rapporteur, and his shadows, we have an oral amendment to Amendment 7 which reads, 'in order to address remaining shortcomings with regard to the domestic prosecution of war crimes ... ' the text would <Alignment alignment="492" annotation_id="375">
+          <DiscourseConnective annotation_id="375" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> continue with that in Amendment 7 by Mr Swoboda.</en>
+      <fr>
+        <DiscourseConnective annotation_id="168">En</DiscourseConnective> contrepartie, <Alignment alignment="165" annotation_id="185">
+          <DiscourseConnective annotation_id="185" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous en avons discuté avec le rapporteur M. Swoboda et avec ses rapporteurs fictifs, nous avons un amendement oral <DiscourseConnective annotation_id="306">à</DiscourseConnective> l'amendement 7. Cet amendement est le suivant: "<DiscourseConnective annotation_id="356">en vue de</DiscourseConnective> remédier aux lacunes qui subsistent dans la poursuite au niveau national des crimes de guerre [...]" le texte se poursuivrait <Alignment alignment="3" annotation_id="492">
+          <DiscourseConnective annotation_id="492" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> selon l'amendement 7 de M. Swoboda.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

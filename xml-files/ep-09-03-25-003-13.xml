@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>13.</en>
+    <fr>13.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>EC-SADC EPA States Interim Economic Partnership Agreement (vote)</en>
+    <fr>Accord de partenariat économique intérimaire CE - États de l'APE CDAA (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="69" docOffset="2">
+    <en>- Before the vote on Amendment 13:</en>
+    <fr>- <DiscourseConnective annotation_id="83">Avant</DiscourseConnective> le vote sur l'amendement 13</fr>
+  </ParallelChunk>
+<Speaker annotation_id="104" id="118" name="Kader Arif">
+    <ParallelChunk annotation_id="104" docOffset="3">
+      <en>- (FR) Madam President, <Alignment alignment="970" annotation_id="128">
+          <DiscourseConnective annotation_id="128" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Amendment 4 was an addition, <DiscourseConnective annotation_id="160" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> 14 and 8 should not lapse, <Alignment alignment="215" annotation_id="192">
+          <DiscourseConnective annotation_id="192" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="371" annotation_id="196">
+          <DiscourseConnective annotation_id="196" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> we would have voted on 14 and 8.</en>
+      <fr>Madame la Présidente, <Alignment alignment="215" annotation_id="139">
+          <DiscourseConnective annotation_id="139" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'amendement 4 était une addition, le 14 <DiscourseConnective annotation_id="183">et</DiscourseConnective> le 8 ne devraient pas tomber <Alignment alignment="192" annotation_id="215">
+          <DiscourseConnective annotation_id="215" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="54" annotation_id="218">
+          <DiscourseConnective annotation_id="218" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, on aurait voté sur le 14 <DiscourseConnective annotation_id="249">et</DiscourseConnective> sur le 8.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="234" id="119" name="President">
+    <ParallelChunk annotation_id="234" docOffset="4">
+      <en>- The feeling is that the amendment with the addition covers the whole of the text.</en>
+      <fr>L'idée, je pense, est <DiscourseConnective annotation_id="284">que</DiscourseConnective> l'amendement contenant l'addition couvre l'ensemble du texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="318" docOffset="5">
+      <en>
+        <Alignment alignment="350" annotation_id="318">
+          <DiscourseConnective annotation_id="318" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> you really want to vote on the original text, we can go back, <Alignment alignment="448" annotation_id="383">
+          <DiscourseConnective annotation_id="383" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the general mood seems to be to carry on, I think.</en>
+      <fr>
+        <Alignment alignment="306" annotation_id="350">
+          <DiscourseConnective annotation_id="350" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous souhaitez vraiment vous prononcer sur le texte original, nous pouvons revenir en arrière, <Alignment alignment="357" annotation_id="448">
+          <DiscourseConnective annotation_id="448" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le sentiment général semble être de poursuivre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="438" id="120" name="Robert Sturdy">
+    <ParallelChunk annotation_id="438" docOffset="6">
+      <en>- Madam President, I am quite happy to carry on.</en>
+      <fr>(EN) Madame la Présidente, je serai ravi de poursuivre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="487" docOffset="7">
+      <en>I think it is covered.</en>
+      <fr>Je pense qu'il est couvert.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="510" id="121" name="President">
+    <ParallelChunk annotation_id="510" docOffset="8">
+      <en>- We will <Alignment alignment="883" annotation_id="520">
+          <DiscourseConnective annotation_id="520" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> keep going.</en>
+      <fr>
+        <Alignment alignment="520" annotation_id="585">
+          <DiscourseConnective annotation_id="585" sense="Contingency.Cause.Result">Dans ce cas</DiscourseConnective>
+        </Alignment>, nous continuons.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

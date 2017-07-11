@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 9 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 9 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="58" id="004" name="President">
+    <ParallelChunk annotation_id="58" docOffset="2">
+      <en>Honourable Members, good morning!</en>
+      <fr>Honorables députés, bonjour!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="92" docOffset="3">
+      <en>Today, 26 September, is the European Day of Languages.</en>
+      <fr>Aujourd'hui, 26 septembre, c'est la journée européenne des langues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="147" docOffset="4">
+      <en>We have a duty to remind people here at the European Parliament, the temple of languages, of the importance of this day for the philosophy and the substance of the European Union, and the work we carry out to achieve a multicultural Europe, where distinctive features, cultures and the spirit of our peoples are respected.</en>
+      <fr>Il est de notre devoir de rappeler à tous, ici, au Parlement européen, le temple des langues, l'importance de cette journée <DiscourseConnective annotation_id="279">pour</DiscourseConnective> la philosophie <DiscourseConnective annotation_id="299">et</DiscourseConnective> la quintessence de l'Union européenne, <DiscourseConnective annotation_id="341">et</DiscourseConnective> le travail que nous accomplissons <DiscourseConnective annotation_id="378">pour</DiscourseConnective> une Europe multiculturelle respectueuse des particularités, des valeurs <DiscourseConnective annotation_id="455">et</DiscourseConnective> des mentalités propres à nos populations.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="470" id="005" name="Josu Ortuondo Larrea">
+    <ParallelChunk annotation_id="470" docOffset="5">
+      <en>- (ES) Madam President, many thanks for allowing me to speak.</en>
+      <fr>- (ES) Madame la Présidente, je vous remercie beaucoup de m'offrir l'occasion de m'exprimer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="532" docOffset="6">
+      <en>Today we are celebrating the European Day of Languages, <Alignment alignment="656" annotation_id="588">
+          <DiscourseConnective annotation_id="588" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wish to echo the feelings of many citizens of the Spanish state who fail to comprehend why they are discriminated against by the European Parliament's Bureau, <Alignment alignment="855" annotation_id="753">
+          <DiscourseConnective annotation_id="753" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> Catalans, Galicians and Basques like myself, citizens' representatives, are not permitted to use our languages in Parliament.</en>
+      <fr>Aujourd'hui, nous célébrons la Journée européenne des langues, <Alignment alignment="588" annotation_id="656">
+          <DiscourseConnective annotation_id="656" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je souhaiterais refléter ce que ressentent de nombreux citoyens de l'État espagnol qui ne parviennent pas <DiscourseConnective annotation_id="765">à</DiscourseConnective> comprendre la discrimination dont ils font l'objet par le Bureau du Parlement européen, <Alignment alignment="674" annotation_id="855">
+          <DiscourseConnective annotation_id="855" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> les Catalans, les Galiciens <DiscourseConnective annotation_id="887">et</DiscourseConnective> les Basques, <DiscourseConnective annotation_id="903">comme</DiscourseConnective> moi-même, des représentants de citoyens, ne peuvent pas utiliser leurs langues au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="885" docOffset="7">
+      <en>Unlike the Commission, the Council and the Committee of the Regions, where the people's representatives may express themselves in these coofficial languages, the Bureau refuses to accept Basque, Catalan or Gallego, which are coofficial languages in the Spanish state.</en>
+      <fr>Contrairement à l'usage au sein de la Commission, du Conseil <DiscourseConnective annotation_id="1063">et</DiscourseConnective> du Comité des régions qui veut que les représentants des peuples puissent s'exprimer dans ces langues co-officielles, le Bureau refuse de reconnaître le basque, le catalan <DiscourseConnective annotation_id="1238">ou</DiscourseConnective> le galicien qui sont des langues co-officielles de l'État espagnol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1153" docOffset="8">
+      <en>Madam President ...</en>
+      <fr>Madame la Présidente ...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1173" docOffset="9">
+      <en>(The speaker spoke in Basque)</en>
+      <fr>(L'intervenant s'exprime <DiscourseConnective annotation_id="1359">en</DiscourseConnective> basque)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1203" id="006" name="President">
+    <ParallelChunk annotation_id="1203" docOffset="10">
+      <en>Mr Ortuondo, the Presidency will seek information on this matter, even <Alignment alignment="437675" annotation_id="1274">
+          <DiscourseConnective annotation_id="1274" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> it is something that we have discussed many times <Alignment alignment="1497" annotation_id="1331">
+          <DiscourseConnective annotation_id="1331" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the answers are well known.</en>
+      <fr>M. Ortuondo, la présidence va <DiscourseConnective annotation_id="1400">s'</DiscourseConnective>informer <DiscourseConnective annotation_id="1411">à</DiscourseConnective> ce sujet, <Alignment alignment="1274" annotation_id="1423">
+          <DiscourseConnective annotation_id="1423" sense="Comparison.Contrast">même s'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="1433">s'</DiscourseConnective>agit d'une matière <DiscourseConnective annotation_id="1454">que</DiscourseConnective> nous avons discutée à maintes reprises <Alignment alignment="1331" annotation_id="1497">
+          <DiscourseConnective annotation_id="1497" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que les réponses sont bien connues.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

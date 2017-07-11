@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="068" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the vote.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+      <en>I have had a request from a number of Members, who have unavoidable commitments that will prevent them from being here for the whole of the vote, that the votes on Mr Van Orden's report on Bulgaria and Mr Moscovici's report on Romania be moved up the list.</en>
+      <fr>Plusieurs députés m'ont fait part d'engagements impératifs qui les empêcheront d'être présents durant toute l'heure des votes; ils m'ont demandé d'avancer les votes des rapports de M. Van Orden sur la Bulgarie <DiscourseConnective annotation_id="269">et</DiscourseConnective> de M. Moscovici sur la Roumanie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="296" docOffset="3">
+      <en>I <Alignment alignment="316" annotation_id="298">
+          <DiscourseConnective annotation_id="298" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> propose that we take the votes on the Bulgaria and Romania reports after the simplified procedure votes.</en>
+      <fr>Je propose <Alignment alignment="298" annotation_id="316">
+          <DiscourseConnective annotation_id="316" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> de voter sur les rapports concernant la Bulgarie <DiscourseConnective annotation_id="380">et</DiscourseConnective> la Roumanie <DiscourseConnective annotation_id="395">après</DiscourseConnective> les votes en procédure simplifiée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="413" docOffset="4">
+      <en>Are there any objections to that change in the voting order?</en>
+      <fr>Y a-t-il des objections <DiscourseConnective annotation_id="460">à</DiscourseConnective> cette modification de l'ordre des votes?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="474" id="069" name="Hannes Swoboda">
+    <ParallelChunk annotation_id="474" docOffset="5">
+      <en>(DE) Mr President, there is, essentially, of course, no reason to move reports up the list simply <Alignment alignment="619" annotation_id="572">
+          <DiscourseConnective annotation_id="572" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> a few Members cannot be here, <Alignment alignment="672" annotation_id="610">
+          <DiscourseConnective annotation_id="610" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> Bulgaria, Romania, and their accession are of such importance that we can, by way of exception, agree to this.</en>
+      <fr>(DE) Monsieur le Président, bien sûr, aucune raison essentielle ne justifie que l'on avance des rapports <DiscourseConnective annotation_id="608">simplement</DiscourseConnective> <Alignment alignment="572" annotation_id="619">
+          <DiscourseConnective annotation_id="619" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> quelques députés ne peuvent être présents, <Alignment alignment="610" annotation_id="672">
+          <DiscourseConnective annotation_id="672" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la Bulgarie, la Roumanie <DiscourseConnective annotation_id="702">et</DiscourseConnective> leur adhésion sont <DiscourseConnective annotation_id="724">si</DiscourseConnective> importantes <DiscourseConnective annotation_id="739">que</DiscourseConnective> nous pouvons faire une exception.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="725" docOffset="6">
+      <en>(Parliament agreed to the change in the voting order)</en>
+      <fr>(Le Parlement marque son accord sur la modification de l'ordre des votes)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="779" docOffset="7">
+      <en>(For the results and other details on the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="852">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="881">et</DiscourseConnective> autres détails les concernant: cf. procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

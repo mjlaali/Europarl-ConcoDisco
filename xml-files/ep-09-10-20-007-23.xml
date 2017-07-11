@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>23.</en>
+    <fr>23.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Evaluation mechanism to verify the application of the Schengen acquis (</en>
+    <fr>Mécanisme d'évaluation destiné <DiscourseConnective annotation_id="35">à</DiscourseConnective> contrôler l'application de l'acquis de Schengen (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="76" id="141" language="FR" name="Karel De Gucht">
+    <ParallelChunk annotation_id="76" docOffset="2">
+      <en>Mr President, the scenario is the same.</en>
+      <fr>membre de la Commission. - Monsieur le Président, c'est le <DiscourseConnective annotation_id="146">même</DiscourseConnective> cas de figure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="116" docOffset="3">
+      <en>
+        <Alignment alignment="62" annotation_id="116">
+          <DiscourseConnective annotation_id="116" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, the Commission's position is identical.</en>
+      <fr>
+        <Alignment alignment="116" annotation_id="166">
+          <DiscourseConnective annotation_id="166" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, la position de la Commission est identique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="167" id="142" name="President">
+    <ParallelChunk annotation_id="167" docOffset="4">
+      <en>Well <DiscourseConnective annotation_id="172" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>, I think that obviously this second report will <Alignment alignment="500" annotation_id="225">
+          <DiscourseConnective annotation_id="225" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be referred back to committee, <Alignment alignment="101250" annotation_id="261">
+          <DiscourseConnective annotation_id="261" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the European Commission has decided to maintain its proposal.</en>
+      <fr>Bien. <Alignment alignment="261" annotation_id="222">
+          <DiscourseConnective annotation_id="222" sense="Temporal.Synchrony">Puisque</DiscourseConnective>
+        </Alignment> la Commission européenne a décidé de maintenir sa proposition, je pense <DiscourseConnective annotation_id="302">que</DiscourseConnective> ce deuxième rapport sera <Alignment alignment="225" annotation_id="331">
+          <DiscourseConnective annotation_id="331" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> renvoyé en commission.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

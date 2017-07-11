@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Closure of the sitting</en>
+    <fr>Levée de la séance</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="253" name="President">
+    <ParallelChunk annotation_id="23" docOffset="1">
+      <en>All that remains is for me to thank our members of the public, who are few in numbers but attentive, for their presence.</en>
+      <fr>Il me reste <DiscourseConnective annotation_id="31">à</DiscourseConnective> remercier notre public, réduit <DiscourseConnective annotation_id="64">mais</DiscourseConnective> attentif, <DiscourseConnective annotation_id="79">pour</DiscourseConnective> sa présence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="144" docOffset="2">
+      <en>It <Alignment alignment="109" annotation_id="147">
+          <DiscourseConnective annotation_id="147" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> remains for me to close what is surely my last evening sitting as president.</en>
+      <fr>Il me reste <Alignment alignment="27" annotation_id="109">
+          <DiscourseConnective annotation_id="109" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à clore ce qui est certainement ma dernière présidence de séance de nuit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="229" docOffset="3">
+      <en>(The sitting was closed at 11.45 p.m.)</en>
+      <fr>(La séance est levée à 23 h 45)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

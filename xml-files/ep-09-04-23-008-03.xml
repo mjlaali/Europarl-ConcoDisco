@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Common rules for access to the international road haulage market (recast) (</en>
+    <fr>Accès au marché du transport international de marchandises par route (refonte) (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="79" id="142" name="Michael Gahler">
+    <ParallelChunk annotation_id="79" docOffset="2">
+      <en>(DE) Mr President, given the hundreds of votes that we now have, perhaps you could just announce 'adopted' or 'rejected' rather than reading out the individual figures.</en>
+      <fr>(DE) Monsieur le Président, <DiscourseConnective annotation_id="112">étant donné que</DiscourseConnective> nous procédons à des centaines de votes, peut-être pourriez-vous <DiscourseConnective annotation_id="193">simplement</DiscourseConnective> annoncer "adopté" <DiscourseConnective annotation_id="222">ou</DiscourseConnective> "rejeté" <DiscourseConnective annotation_id="234">plutôt que de</DiscourseConnective> lire systématiquement les chiffres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="248" id="143" name="President">
+    <ParallelChunk annotation_id="248" docOffset="3">
+      <en>Yes, Mr Gahler, I would like very much to do <Alignment alignment="324" annotation_id="293">
+          <DiscourseConnective annotation_id="293" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you wish, <Alignment alignment="342" annotation_id="306">
+          <DiscourseConnective annotation_id="306" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I have <Alignment alignment="350" annotation_id="317">
+          <Alignment alignment="1365" annotation_id="317">
+            <DiscourseConnective annotation_id="317" sense="Comparison.Contrast">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> done that in the past.</en>
+      <fr>Oui, Monsieur Gahler, je voudrais faire <Alignment alignment="293" annotation_id="324">
+          <DiscourseConnective annotation_id="324" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous dites, <Alignment alignment="0" annotation_id="342">
+          <DiscourseConnective annotation_id="342" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="317" annotation_id="345">
+          <Alignment alignment="329" annotation_id="345">
+            <DiscourseConnective annotation_id="345" sense="Comparison.Contrast">en vérité</DiscourseConnective>
+          </Alignment>
+        </Alignment> j'ai déjà procédé comme cela par le passé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="348" docOffset="4">
+      <en>I am not doing it today <Alignment alignment="428" annotation_id="372">
+          <DiscourseConnective annotation_id="372" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the Association of European Journalists has asked that we detail the votes.</en>
+      <fr>Je ne le fais pas aujourd'hui <Alignment alignment="372" annotation_id="428">
+          <DiscourseConnective annotation_id="428" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> l'Association des journalistes européens m'a demandé de détailler les votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="456" docOffset="5">
+      <en>
+        <Alignment alignment="354" annotation_id="456">
+          <DiscourseConnective annotation_id="456" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we do not, the result cannot be duly recorded, <Alignment alignment="608" annotation_id="506">
+          <DiscourseConnective annotation_id="506" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they rightly state that <Alignment alignment="623" annotation_id="534">
+          <DiscourseConnective annotation_id="534" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they do not know the result of the vote, they cannot make a political assessment as to the position of the House.</en>
+      <fr>
+        <Alignment alignment="255" annotation_id="515">
+          <DiscourseConnective annotation_id="515" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous ne le faisons pas, les résultats ne peuvent être dûment enregistrés, <Alignment alignment="506" annotation_id="592">
+          <DiscourseConnective annotation_id="592" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ils affirment à juste titre <Alignment alignment="462" annotation_id="623">
+          <DiscourseConnective annotation_id="623" sense="Contingency.Condition">que s'</DiscourseConnective>
+        </Alignment>ils ne connaissent pas les résultats du vote, ils ne peuvent procéder à une évaluation politique de la position de l'Assemblée.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

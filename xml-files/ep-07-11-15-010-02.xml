@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Uzbekistan (vote)</en>
+    <fr>Ouzbékistan (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="21" docOffset="2">
+    <en>- (EL) Joint motion for a resolution Β6-0451/2007</en>
+    <fr>- Proposition de résolution commune Β6-0451/2007</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="71" docOffset="3">
+    <en>After the vote on the first motion for a resolution:</en>
+    <fr>
+      <DiscourseConnective annotation_id="71">Après</DiscourseConnective> le vote sur la première proposition de résolution:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="124" id="263" name="Evgeni Kirilov">
+    <ParallelChunk annotation_id="124" docOffset="4">
+      <en>Madam President, I could not vote in time.</en>
+      <fr>(EN) Madame la Présidente, je n'ai pas pu voter <DiscourseConnective annotation_id="176">à</DiscourseConnective> temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="167" docOffset="5">
+      <en>Please put my vote in favour.</en>
+      <fr>Veuillez indiquer mon vote favorable.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

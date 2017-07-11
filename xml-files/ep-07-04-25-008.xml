@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="110" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, it is my pleasure to inform you that, within the context of interparliamentary relations, the Knesset delegation, chaired by Mrs Amira Dotan, chairman of the delegation for relations with the European Parliament, will be visiting our Parliament over the next few days.</en>
+      <fr>Chers collègues, j'ai le plaisir de vous informer <DiscourseConnective annotation_id="72">que</DiscourseConnective>, dans le cadre des relations interparlementaires, la délégation de la Knesset, présidée par Mme Amira Dotan, présidente de la délégation <DiscourseConnective annotation_id="213">pour</DiscourseConnective> les relations avec le Parlement européen, effectue ces jours-ci une visite dans notre Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="299" docOffset="2">
+      <en>I should like to extend a very warm welcome to Mrs Dotan and to the members of her delegation.</en>
+      <fr>Je souhaite très chaleureusement la bienvenue <DiscourseConnective annotation_id="361">à</DiscourseConnective> Mme Dotan <DiscourseConnective annotation_id="373">et</DiscourseConnective> aux membres de sa délégation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="394" docOffset="3">
+      <en>I should like to stress the importance that we attach to this visit.</en>
+      <fr>Je souligne l'importance <DiscourseConnective annotation_id="431">que</DiscourseConnective> nous accordons <DiscourseConnective annotation_id="450">à</DiscourseConnective> une telle visite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="463" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="474" docOffset="5">
+      <en>They are seated on the left, <Alignment alignment="524" annotation_id="503">
+          <DiscourseConnective annotation_id="503" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I extend a cordial welcome to them.</en>
+      <fr>Ils se trouvent <DiscourseConnective annotation_id="505">donc</DiscourseConnective> sur la gauche <Alignment alignment="503" annotation_id="524">
+          <DiscourseConnective annotation_id="524" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je leur adresse mon salut amical.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statements by the President</en>
+    <fr>Déclarations de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="28" id="006" name="President">
+    <ParallelChunk annotation_id="28" docOffset="1">
+      <en>Ladies and gentlemen, sad news has reached us of the recent shooting of French policeman Jean-Serge Nérin by ETA.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="39">et</DiscourseConnective> Messieurs, c'est avec tristesse que nous avons récemment appris la mort du policier français Jean-Serge Nérin, tombé sous les balles de l'ETA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="142" docOffset="2">
+      <en>This makes us aware that the problem of terrorism in Europe has not yet been solved.</en>
+      <fr>Cet événement nous rappelle <DiscourseConnective annotation_id="213">que</DiscourseConnective> le problème du terrorisme <DiscourseConnective annotation_id="243">en</DiscourseConnective> Europe n'est pas <DiscourseConnective annotation_id="263">encore</DiscourseConnective> résolu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="227" docOffset="3">
+      <en>On behalf of Parliament, <Alignment alignment="299" annotation_id="252">
+          <DiscourseConnective annotation_id="252" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> for my own part, I would like to offer our condolences to the family of the murdered policeman.</en>
+      <fr>Au nom du Parlement, <Alignment alignment="202" annotation_id="299">
+          <DiscourseConnective annotation_id="299" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="302">en</DiscourseConnective> mon nom propre, je tiens <DiscourseConnective annotation_id="330">à</DiscourseConnective> présenter nos condoléances <DiscourseConnective annotation_id="359">à</DiscourseConnective> la famille du policier assassiné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="352" docOffset="4">
+      <en>I hope the Spanish and French police will bring to justice not only the killers themselves, but also those who ordered the killing.</en>
+      <fr>J'espère que les forces de police espagnoles <DiscourseConnective annotation_id="440">et</DiscourseConnective> françaises pourront traduire <DiscourseConnective annotation_id="472">en</DiscourseConnective> justice <DiscourseConnective annotation_id="483">non seulement</DiscourseConnective> les assassins, <DiscourseConnective annotation_id="512">mais aussi</DiscourseConnective> ceux qui ont commandité ce meurtre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="484" docOffset="5">
+      <en>There is a second piece of disturbing news: the arrest in Cuba of 30 participants in a demonstration by the 'Ladies in White' group.</en>
+      <fr>Je dois aussi vous faire part d'une autre nouvelle préoccupante: l'arrestation, <DiscourseConnective annotation_id="639">à</DiscourseConnective> Cuba, de 30 personnes ayant participé <DiscourseConnective annotation_id="679">à</DiscourseConnective> une manifestation du groupe des "Dames <DiscourseConnective annotation_id="720">en</DiscourseConnective> blanc".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="617" docOffset="6">
+      <en>The 'Ladies in White' are mothers and wives of imprisoned opposition activists.</en>
+      <fr>Les "Dames <DiscourseConnective annotation_id="742">en</DiscourseConnective> blanc" sont une association de mères <DiscourseConnective annotation_id="782">et</DiscourseConnective> d'épouses de militants d'opposition emprisonnés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="697" docOffset="7">
+      <en>In 2005, the European Parliament awarded the 'Ladies in White' the Sakharov Prize.</en>
+      <fr>
+        <DiscourseConnective annotation_id="834">En</DiscourseConnective> 2005, le Parlement européen avait octroyé aux "Dames <DiscourseConnective annotation_id="890">en</DiscourseConnective> blanc" le prix Sakharov.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="780" docOffset="8">
+      <en>We join today with those heroic women, <Alignment alignment="965" annotation_id="819">
+          <DiscourseConnective annotation_id="819" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we are thinking about them and their difficult situation.</en>
+      <fr>Nous disons aujourd'hui <DiscourseConnective annotation_id="942">à</DiscourseConnective> ces femmes héroïques <Alignment alignment="85" annotation_id="965">
+          <DiscourseConnective annotation_id="965" sense="Expansion.Conjunction">que</DiscourseConnective>
+        </Alignment> nos pensées les accompagnent dans cette situation difficile.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

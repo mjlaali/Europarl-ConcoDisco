@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Succession and wills (vote)</en>
+    <fr>Successions <DiscourseConnective annotation_id="15">et</DiscourseConnective> testaments (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="31" docOffset="2">
+    <en>- before the vote on Amendment 3:</en>
+    <fr>
+      <DiscourseConnective annotation_id="36">Avant</DiscourseConnective> le vote sur l'amendement 3</fr>
+  </ParallelChunk>
+<Speaker annotation_id="65" id="085" name="Maria Berger">
+    <ParallelChunk annotation_id="65" docOffset="3">
+      <en>(DE) Mr President, I move that our Amendment 3 be amended so that, in the English text, the word 'testator' is replaced in its two occurrences by the word 'deceased', <Alignment alignment="281" annotation_id="232">
+          <DiscourseConnective annotation_id="232" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the period for which a normal residence may be maintained is reduced from three to two years.</en>
+      <fr>(DE) Monsieur le Président, je propose <DiscourseConnective annotation_id="108">que</DiscourseConnective> notre amendement 3 <DiscourseConnective annotation_id="131">soit</DiscourseConnective> modifié <DiscourseConnective annotation_id="144">de manière à ce que</DiscourseConnective>, dans la version anglaise, le mot "testator" <DiscourseConnective annotation_id="209">soit</DiscourseConnective> remplacé aux deux endroits où il apparaît par le terme "deceased", <Alignment alignment="232" annotation_id="281">
+          <DiscourseConnective annotation_id="281" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que la période pendant laquelle une résidence normale peut être maintenue <DiscourseConnective annotation_id="358">soit</DiscourseConnective> réduite de trois <DiscourseConnective annotation_id="380">à</DiscourseConnective> deux ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="330" docOffset="4">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(Le parlement marque son accord <DiscourseConnective annotation_id="424">pour</DiscourseConnective> l'adoption de l'amendement oral)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="379" docOffset="5">
+      <en>- before the vote on Amendment 1:</en>
+      <fr>
+        <DiscourseConnective annotation_id="462">Avant</DiscourseConnective> le vote sur l'amendement 1</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="413" id="087" name="Maria Berger">
+    <ParallelChunk annotation_id="413" docOffset="6">
+      <en>(DE) Mr President, <Alignment alignment="88" annotation_id="432">
+          <DiscourseConnective annotation_id="432" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> this amendment was intended to delete a number of words from our rapporteur's original text, its effect was to delete a few too many of them, <Alignment alignment="258286" annotation_id="583">
+          <DiscourseConnective annotation_id="583" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> the words 'with binding effect' should stand and not be deleted.</en>
+      <fr>(DE) Monsieur le Président, <Alignment alignment="432" annotation_id="523">
+          <DiscourseConnective annotation_id="523" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> l'intention de cet amendement ait été de supprimer plusieurs termes utilisés par le rapporteur dans son texte initial, il a fini par en éliminer trop. <Alignment alignment="583" annotation_id="683">
+          <DiscourseConnective annotation_id="683" sense="Contingency.Cause.Result">Ainsi</DiscourseConnective>
+        </Alignment>, les termes "avec effet obligatoire" devraient être conservés, <DiscourseConnective annotation_id="752">et</DiscourseConnective> non pas supprimés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="651" docOffset="7">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(Le Parlement marque son accord <DiscourseConnective annotation_id="806">pour</DiscourseConnective> l'adoption de l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

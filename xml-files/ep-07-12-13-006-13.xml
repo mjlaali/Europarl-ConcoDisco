@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>13.</en>
+    <fr>13.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Asset management II (vote)</en>
+    <fr>Gestion d'actifs II (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="31" docOffset="2">
+    <en>- Report: Wolf Klinz</en>
+    <fr>- Rapport: Wolf Klinz</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="52" docOffset="3">
+    <en>- Before the vote on Amendment 2:</en>
+    <fr>- <DiscourseConnective annotation_id="55">Avant</DiscourseConnective> le vote sur l'amendement 2:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="86" id="098" name="Margarita Starkevičiūt">
+    <ParallelChunk annotation_id="86" docOffset="4">
+      <en>Mr President, I would like to clarify our amendment and insert the words: 'indirectly, <Alignment alignment="195" annotation_id="173">
+          <DiscourseConnective annotation_id="173" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>', <Alignment alignment="114014" annotation_id="187">
+          <DiscourseConnective annotation_id="187" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> the text now reads: '...the product to retail investors directly or indirectly, <Alignment alignment="323" annotation_id="270">
+          <DiscourseConnective annotation_id="270" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> by bundling it with other retail products'.</en>
+      <fr>(EN) Monsieur le Président, j'aimerais clarifier notre amendement <DiscourseConnective annotation_id="155">et</DiscourseConnective> introduire les mots: "indirectement, <Alignment alignment="173" annotation_id="195">
+          <DiscourseConnective annotation_id="195" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>", <Alignment alignment="187" annotation_id="209">
+          <DiscourseConnective annotation_id="209" sense="Contingency.Cause.Result">de sorte qu'</DiscourseConnective>
+        </Alignment>on puisse désormais lire: "...son produit <DiscourseConnective annotation_id="263">à</DiscourseConnective> des investisseurs de détail directement <DiscourseConnective annotation_id="305">ou</DiscourseConnective> indirectement, <Alignment alignment="270" annotation_id="323">
+          <DiscourseConnective annotation_id="323" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="335">en</DiscourseConnective> le groupant avec d'autres produits de détail".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="326" docOffset="5">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

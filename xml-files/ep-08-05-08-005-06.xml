@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Transatlantic Economic Council (vote)</en>
+    <fr>Conseil économique transatlantique (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="41" docOffset="2">
+    <en>Before the vote on paragraph 13:</en>
+    <fr>(FR) <DiscourseConnective annotation_id="50">Avant</DiscourseConnective> le vote sur le paragraphe 13</fr>
+  </ParallelChunk>
+<Speaker annotation_id="74" id="113" name="Erika Mann">
+    <ParallelChunk annotation_id="74" docOffset="3">
+      <en>(DE) Madam President, in our deliberations on the joint motion for a resolution which took place on a cross-party basis on Monday, we forgot that the IMF recommendations on financial crises are already available <Alignment alignment="312" annotation_id="286">
+          <DiscourseConnective annotation_id="286" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it is now a matter of their implementation.</en>
+      <fr>(DE) Madame la Présidente, lors de nos délibérations interpartis qui ont eu lieu lundi sur la proposition de résolution commune, nous avons oublié <DiscourseConnective annotation_id="232">que</DiscourseConnective> les recommandations du FMI sur les crises financières sont <DiscourseConnective annotation_id="295">déjà</DiscourseConnective> disponibles <Alignment alignment="6" annotation_id="312">
+          <DiscourseConnective annotation_id="312" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="315">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="321">s'</DiscourseConnective>agit <DiscourseConnective annotation_id="328">maintenant</DiscourseConnective> de les appliquer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="339" docOffset="4">
+      <en>I would <Alignment alignment="468" annotation_id="347">
+          <DiscourseConnective annotation_id="347" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> recommend - and I very much hope that this will have the support of the House - that the following phrase be inserted in the text:</en>
+      <fr>Je recommanderais <Alignment alignment="3" annotation_id="375">
+          <DiscourseConnective annotation_id="375" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> - avec l'espoir <DiscourseConnective annotation_id="396">que</DiscourseConnective> l'Assemblé y sera favorable - d'ajouter la phrase suivante dans le texte:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="488" docOffset="5">
+      <en>'To the implementation by both parties of the conclusions.'</en>
+      <fr>(EN) "que les deux parties mettent en œuvre les conclusions."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="548" docOffset="6">
+      <en>(DE) and then the remainder of the text.</en>
+      <fr>(DE) <DiscourseConnective annotation_id="541">puis</DiscourseConnective> le reste du texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="589" docOffset="7">
+      <en>There would be no other changes to the text.</en>
+      <fr>Aucune autre modification ne serait apportée au texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="634" docOffset="8">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(FR) (L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

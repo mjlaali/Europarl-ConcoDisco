@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Credit Rating Agencies (</en>
+    <fr>Agences de notation de crédit (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="28" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="37">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="47" id="151" language="FR" name="Jean-Paul Gauzès">
+    <ParallelChunk annotation_id="47" docOffset="3">
+      <en>Mr President, one moment just to tell you that this is an important report <Alignment alignment="167" annotation_id="122">
+          <DiscourseConnective annotation_id="122" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it introduces a European regulation on rating agencies, and is <Alignment alignment="275" annotation_id="193">
+          <DiscourseConnective annotation_id="193" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> an element of the response to the crisis.</en>
+      <fr>rapporteur. - Monsieur le Président, un instant seulement <DiscourseConnective annotation_id="109">pour</DiscourseConnective> vous indiquer <DiscourseConnective annotation_id="128">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="134">s'</DiscourseConnective>agit là d'un rapport important <Alignment alignment="122" annotation_id="167">
+          <DiscourseConnective annotation_id="167" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> c'est la mise en place d'une réglementation européenne concernant les agences de notation, <DiscourseConnective annotation_id="266">et</DiscourseConnective> c'est <Alignment alignment="246" annotation_id="275">
+          <DiscourseConnective annotation_id="275" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> un des éléments de réponse <DiscourseConnective annotation_id="307">à</DiscourseConnective> la crise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="245" docOffset="4">
+      <en>I wish to tell you that, this morning, COREPER adopted the compromise text that has been tabled for your vote.</en>
+      <fr>Je vous informe <DiscourseConnective annotation_id="335">que</DiscourseConnective>, ce matin, le COREPER a adopté le texte de compromis qui est soumis <DiscourseConnective annotation_id="407">à</DiscourseConnective> votre vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="356" docOffset="5">
+      <en>For Parliament's vote to comply, it is better for you to reject the amendments, except in the case of the votes on Amendment 172, corresponding parts.</en>
+      <fr>
+        <DiscourseConnective annotation_id="421">Pour que</DiscourseConnective> le vote du Parlement <DiscourseConnective annotation_id="451">soit</DiscourseConnective> conforme, il convient que vous rejetiez les amendements, sauf dans le cas des votes sur l'amendement 172, parties correspondantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="507" docOffset="6">
+      <en>I wish, <DiscourseConnective annotation_id="515" sense="Expansion.Conjunction">also</DiscourseConnective>, to thank the shadow rapporteurs, Mr Pittella and Mr Klinz, and all of those who worked on this important issue.</en>
+      <fr>Et je tiens <DiscourseConnective annotation_id="599">à</DiscourseConnective> remercier les rapporteurs fictifs, Gianni Pittella <DiscourseConnective annotation_id="652">et</DiscourseConnective> Wolf Klinz, <DiscourseConnective annotation_id="667">et</DiscourseConnective> l'ensemble des personnes qui ont travaillé sur ce dossier important.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Certain issues relating to motor insurance (debate)</en>
+    <fr>Certains points concernant l'assurance automobile (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="52" id="210" name="President">
+    <ParallelChunk annotation_id="52" docOffset="1">
+      <en>The next item is the report by Mr Mladenov, on behalf of the Committee on Internal Market and Consumer Protection, on certain issues relating to motor insurance.</en>
+      <fr>(PL) L'ordre du jour appelle le rapport de M. Mladenov, au nom de la commission du marché intérieur <DiscourseConnective annotation_id="158">et</DiscourseConnective> de la protection des consommateurs, sur certains points concernant l'assurance automobile.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="214" id="211" name="Nickolay Mladenov">
+    <ParallelChunk annotation_id="214" docOffset="2">
+      <en>rapporteur. - Mr President, Madam Commissioner, colleagues, and interpreters who are staying this late on such an interesting day as today with the European Council discussing Georgia, I hope you will have a little time and energy to focus on another report which is, despite its technicality, quite important for all of us.</en>
+      <fr>rapporteur. - (EN) M. le Président, Madame la Commissaire, chers collègues, chers interprètes qui restez <DiscourseConnective annotation_id="357">si</DiscourseConnective> tard <DiscourseConnective annotation_id="365">en</DiscourseConnective> <DiscourseConnective annotation_id="368">un jour</DiscourseConnective> aussi intéressant avec les discussions sur la Géorgie au Conseil européen, j'espère que vous aurez un peu de temps <DiscourseConnective annotation_id="491">et</DiscourseConnective> d'énergie <DiscourseConnective annotation_id="504">pour</DiscourseConnective> vous concentrer sur un autre rapport qui, malgré sa technicité, est assez important <DiscourseConnective annotation_id="593">pour</DiscourseConnective> nous tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="539" docOffset="3">
+      <en>It goes back to an issue raised in this House <Alignment alignment="672" annotation_id="585">
+          <DiscourseConnective annotation_id="585" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the fourth Motor Insurance Directive was adopted.</en>
+      <fr>On en revient <DiscourseConnective annotation_id="623">à</DiscourseConnective> une question soulevée au sein de cette Chambre <Alignment alignment="12608" annotation_id="672">
+          <DiscourseConnective annotation_id="672" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> la quatrième directive sur l'assurance automobile a été adoptée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="640" docOffset="4">
+      <en>Back <DiscourseConnective annotation_id="645" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>, this House decided to ask the Commission to undertake a more in-depth study of a number of questions that were raised by Parliament but were not addressed in the fourth Motor Insurance Directive itself.</en>
+      <fr>À cette époque, cette Chambre avait décidé de demander à la Commission d'entreprendre une étude plus approfondie de certaines questions soulevées par le Parlement <DiscourseConnective annotation_id="906">mais</DiscourseConnective> auxquelles la quatrième directive sur l'assurance automobile elle-même ne répondait pas. Il s'agit de trois séries de questions: la première consistant à examiner si les dispositions pénalisantes nationales sont effectivement mises en œuvre au sein de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="854" docOffset="5">
+      <en>Namely these three sets of questions: the first being to look into whether the national penalty provisions are effectively implemented across the European Union; <Alignment alignment="1192" annotation_id="1016">
+          <DiscourseConnective annotation_id="1016" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> to look at how the claims representative system set up under the directive functions <Alignment alignment="1542" annotation_id="1106">
+          <DiscourseConnective annotation_id="1106" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> whether there is a need to harmonise across the European Union; and finally to look at perhaps the most important and controversial issue that is intimately connected to questions raised by consumers which is whether the current availability of voluntary legal expenses schemes for motor insurance in Europe should be converted into a compulsory scheme to cover cross-border accidents across the European Union.</en>
+      <fr>Regarder <Alignment alignment="1016" annotation_id="1192">
+          <DiscourseConnective annotation_id="1192" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> comment le système de représentation des peines est fondé au titre des fonctions de la directive. <DiscourseConnective annotation_id="1298">Et</DiscourseConnective> <DiscourseConnective annotation_id="1301">enfin</DiscourseConnective> considérer éventuellement le point le plus important <DiscourseConnective annotation_id="1360">et</DiscourseConnective> le plus controversé intimement connecté <DiscourseConnective annotation_id="1403">à</DiscourseConnective> la question soulevée par les consommateurs, qui est la suivante: est-ce que la disponibilité actuelle des schémas de dépense volontaires <Alignment alignment="1106" annotation_id="1542">
+          <DiscourseConnective annotation_id="1542" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> légaux <DiscourseConnective annotation_id="1552">pour</DiscourseConnective> l'assurance automobile <DiscourseConnective annotation_id="1580">en</DiscourseConnective> Europe devrait être convertie <DiscourseConnective annotation_id="1613">en</DiscourseConnective> un schéma obligatoire <DiscourseConnective annotation_id="1638">afin de</DiscourseConnective> couvrir les accidents transfrontaliers au sein de l'Union européenne?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1522" docOffset="6">
+      <en>Let me start with the last question <Alignment alignment="1758" annotation_id="1558">
+          <DiscourseConnective annotation_id="1558" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> that is perhaps the most important question and clearly one of the questions which is of most interest to European consumers.</en>
+      <fr>Laissez-moi commencer avec cette question <Alignment alignment="1558" annotation_id="1758">
+          <DiscourseConnective annotation_id="1758" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> c'est peut-être la plus importante <DiscourseConnective annotation_id="1797">et</DiscourseConnective> la plus claire des questions, et <DiscourseConnective annotation_id="1833">également</DiscourseConnective> celle qui intéresse le plus les consommateurs européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1692" docOffset="7">
+      <en>I myself <Alignment alignment="1910" annotation_id="1701">
+          <DiscourseConnective annotation_id="1701" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I went looking into this report was very much tempted to argue for harmonisation and to argue for compulsory legal expenses insurance across the European Union.</en>
+      <fr>Moi-même, <Alignment alignment="1701" annotation_id="1910">
+          <DiscourseConnective annotation_id="1910" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> j'ai examiné ce rapport, j'ai été fortement tenté d'argumenter en faveur d'une harmonisation <DiscourseConnective annotation_id="2009">et</DiscourseConnective> d'une assurance obligatoire <DiscourseConnective annotation_id="2040">pour</DiscourseConnective> les dépenses juridiques au sein de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1867" docOffset="8">
+      <en>
+        <Alignment alignment="2100" annotation_id="1867">
+          <DiscourseConnective annotation_id="1867" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> detailed study suggested that that might not be in the interests of the consumers or in the interests of the European insurance industry.</en>
+      <fr>
+        <Alignment alignment="1867" annotation_id="2100">
+          <DiscourseConnective annotation_id="2100" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> une étude détaillée suggère <DiscourseConnective annotation_id="2133">que</DiscourseConnective> cela ne serait pas dans l'intérêt des consommateurs <DiscourseConnective annotation_id="2189">ou</DiscourseConnective> du secteur européen des assurances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2009" docOffset="9">
+      <en>It would, <Alignment alignment="2228" annotation_id="2019">
+          <DiscourseConnective annotation_id="2019" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> that were adopted, raise the costs of motor insurance for consumers in many Member States.</en>
+      <fr>
+        <Alignment alignment="2019" annotation_id="2228">
+          <DiscourseConnective annotation_id="2228" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> cette disposition était adoptée, elle ferait augmenter les coûts des assurances automobiles <DiscourseConnective annotation_id="2323">pour</DiscourseConnective> les consommateurs de nombreux États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2113" docOffset="10">
+      <en>It would create incentives for higher and unjustified claims to be made.</en>
+      <fr>Cela inciterait à la création d'un plus grand nombre de plaintes injustifiées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2186" docOffset="11">
+      <en>It would create many delays in addressing existing claims <Alignment alignment="2531" annotation_id="2244">
+          <DiscourseConnective annotation_id="2244" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it would create a very strong disincentive for people to go for out-of-court settlements.</en>
+      <fr>Il y aurait davantage de retard dans le traitement de plaintes déjà existantes <Alignment alignment="2244" annotation_id="2531">
+          <DiscourseConnective annotation_id="2531" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cela n'inciterait pas du tout les citoyens <DiscourseConnective annotation_id="2577">à</DiscourseConnective> s'arranger à l'amiable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2338" docOffset="12">
+      <en>Finally, it would create a very strong and unfortunate burden on the judicial systems of our Member States, something which I do not believe any one of us really wants to do.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2603">Enfin</DiscourseConnective>, cela créerait un très lourd <DiscourseConnective annotation_id="2638">et</DiscourseConnective> malencontreux fardeau <DiscourseConnective annotation_id="2663">pour</DiscourseConnective> les systèmes judiciaires de nos États membres, ce <DiscourseConnective annotation_id="2718">que</DiscourseConnective> je ne pense pas que nous désirons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2513" docOffset="13">
+      <en>So perhaps the other approach which this report suggests is the better approach <DiscourseConnective annotation_id="2593" sense="Expansion.Conjunction">and</DiscourseConnective> that is to increase awareness of existing voluntary schemes across the European Union.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2757">Donc</DiscourseConnective>, l'autre approche <DiscourseConnective annotation_id="2780">que</DiscourseConnective> suggère ce rapport est peut-être la meilleure. Elle incite <DiscourseConnective annotation_id="2843">à</DiscourseConnective> avoir une meilleure connaissance des schémas volontaires existants au sein de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2684" docOffset="14">
+      <en>Now, in many of the old Member States, they exist and function quite well and are now developing in the new Member States.</en>
+      <fr>Dans de nombreux anciens États membres de l'Union, ils existent déjà <DiscourseConnective annotation_id="3012">et</DiscourseConnective> fonctionnent assez bien, <DiscourseConnective annotation_id="3040">et</DiscourseConnective> ils se développent dans les nouveaux États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2807" docOffset="15">
+      <en>In the new Member States in particular they need to be promoted more, perhaps through including them in pre-contractual information on taking out such options across the European Union with a particular focus on new Member States.</en>
+      <fr>Dans ces derniers, particulièrement, ils doivent être davantage vantés, peut-être <DiscourseConnective annotation_id="3177">en</DiscourseConnective> les incluant dans les informations précontractuelles sur la souscription de telles options au sein de l'Union européenne avec un accent plus particulier sur les nouveaux États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3038" docOffset="16">
+      <en>As far <DiscourseConnective annotation_id="3045" sense="Temporal.Synchrony">as</DiscourseConnective> the question of claims representatives is concerned, the European Commission did undertake a study. We looked at that study very carefully.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3365">En</DiscourseConnective> ce qui concerne la question des représentants chargés du règlement des sinistres, la Commission a entrepris une étude <DiscourseConnective annotation_id="3486">que</DiscourseConnective> nous avons examinée très attentivement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3188" docOffset="17">
+      <en>We consulted with industry <Alignment alignment="3561" annotation_id="3215">
+          <DiscourseConnective annotation_id="3215" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we consulted with consumer organisations across the European Union, <Alignment alignment="3630" annotation_id="3287">
+          <DiscourseConnective annotation_id="3287" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> national information centres have been set up in all Member States.</en>
+      <fr>Nous avons consulté le secteur <Alignment alignment="3215" annotation_id="3561">
+          <DiscourseConnective annotation_id="3561" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les organisations de consommateurs au sein de l'Union européenne, <Alignment alignment="3287" annotation_id="3630">
+          <DiscourseConnective annotation_id="3630" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des centres d'information nationaux ont été mis sur pied dans tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3359" docOffset="18">
+      <en>Through these national information centres, consumers can pursue their claims and can find the information that they need.</en>
+      <fr>Grâce à ces centres, les consommateurs peuvent suivre leurs plaintes <DiscourseConnective annotation_id="3788">et</DiscourseConnective> trouver les informations dont ils ont besoin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3482" docOffset="19">
+      <en>Now what we do need to do there is to make consumers actually more aware of the existing system rather than try to set up a new system on top of it.</en>
+      <fr>Ce que nous devons <DiscourseConnective annotation_id="3856">maintenant</DiscourseConnective> faire, c'est davantage informer les consommateurs du système existant <DiscourseConnective annotation_id="3937">plutôt qu'</DiscourseConnective>essayer de mettre un nouveau système sur pied.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3631" docOffset="20">
+      <en>Finally, on the question of national penalty provisions and whether to harmonise them <DiscourseConnective annotation_id="3717" sense="Expansion.Alternative">or</DiscourseConnective> not, the report argues that we should uphold the principle of subsidiarity.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3994">Enfin</DiscourseConnective>, <DiscourseConnective annotation_id="4001">en</DiscourseConnective> ce qui concerne la question des dispositions pénalisantes nationales <DiscourseConnective annotation_id="4073">et</DiscourseConnective> leur harmonisation, le rapport avance <DiscourseConnective annotation_id="4114">que</DiscourseConnective> nous devrions maintenir le principe de subsidiarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3796" docOffset="21">
+      <en>That means that existing national penalty provisions in European Member States have to be upheld.</en>
+      <fr>Cela signifie <DiscourseConnective annotation_id="4185">que</DiscourseConnective> les dispositions pénalisantes nationales au sein des États membres doivent être maintenues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3894" docOffset="22">
+      <en>There is no need to harmonise.</en>
+      <fr>L'harmonisation n'est pas nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3925" docOffset="23">
+      <en>There is, <Alignment alignment="4326" annotation_id="3935">
+          <DiscourseConnective annotation_id="3935" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, a need for the European Commission to monitor the situation in more detail across the European Union and make sure that, <Alignment alignment="10942" annotation_id="4065">
+          <DiscourseConnective annotation_id="4065" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> national authorities do need help, they receive that help from the European Commission.</en>
+      <fr>Il est <Alignment alignment="3935" annotation_id="4326">
+          <DiscourseConnective annotation_id="4326" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> nécessaire <DiscourseConnective annotation_id="4347">que</DiscourseConnective> la Commission européenne contrôle la situation de façon plus détaillée au sein de l'Union européenne <DiscourseConnective annotation_id="4452">et</DiscourseConnective> <DiscourseConnective annotation_id="4455">s'</DiscourseConnective>assure <Alignment alignment="4065" annotation_id="4464">
+          <DiscourseConnective annotation_id="4464" sense="Temporal.Synchrony">que si</DiscourseConnective>
+        </Alignment> les autorités nationales ont besoin d'aide, elles en reçoivent de la Commission européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4158" docOffset="24">
+      <en>This is the gist of the report that we are debating tonight.</en>
+      <fr>C'était donc l'essentiel du rapport dont nous débattons ce soir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4219" id="212" name="Meglena Kuneva">
+    <ParallelChunk annotation_id="4219" docOffset="25">
+      <en>Member of the Commission. - Mr President, on behalf of my colleague Commissioner Charlie McCreevy, let me first of all congratulate the Internal Market and Consumer Protection Committee and the Legal Affairs Committee, and <DiscourseConnective annotation_id="4442" sense="Expansion.Restatement">in particular</DiscourseConnective> Mr Mladenov and Mr Gargani, for their work in producing a thorough and consistent report on a number of specific motor insurance issues.</en>
+      <fr>membre de la Commission. - (EN) M. le Président, au nom de mon collègue le commissaire Charlie McCreevy, laissez-moi tout d'abord féliciter la commission du marché intérieur <DiscourseConnective annotation_id="4802">et</DiscourseConnective> de la protection du consommateur, la commission des affaires juridiques, <DiscourseConnective annotation_id="4878">ainsi</DiscourseConnective> que tout particulièrement MM. Mladenov <DiscourseConnective annotation_id="4923">et</DiscourseConnective> Gargani <DiscourseConnective annotation_id="4934">pour</DiscourseConnective> le travail qu'ils ont accompli <DiscourseConnective annotation_id="4970">en</DiscourseConnective> publiant ce rapport complet <DiscourseConnective annotation_id="5001">et</DiscourseConnective> consistent portant sur une série de points liés aux assurances automobiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4593" docOffset="26">
+      <en>Mr Mladenov, I cannot agree more with you that this is <DiscourseConnective annotation_id="4648" sense="Expansion.Conjunction">also</DiscourseConnective> a consumer issue.</en>
+      <fr>M. Mladenov, je ne pourrais être plus d'accord avec vous: cette question concerne les consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4671" docOffset="27">
+      <en>The Commission welcomes your support for the conclusions we draw in our Motor Insurance report of 2007.</en>
+      <fr>La Commission salue votre soutien des conclusions que nous avons tirées dans notre rapport 2007 sur l'assurance automobile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4775" docOffset="28">
+      <en>Allow me to address briefly some issues covered in this report.</en>
+      <fr>Laissez-moi me consacrer brièvement à certains points abordés dans ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4839" docOffset="29">
+      <en>Let me start with national penalties introduced in respect of the reasoned offer procedure.</en>
+      <fr>Je commencerai par les pénalités nationales introduites conformément à la procédure d'offre motivée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4931" docOffset="30">
+      <en>The Commission welcomes the clear position you have taken in the report on this issue.</en>
+      <fr>La Commission salue la position claire que vous avez prise <DiscourseConnective annotation_id="5544">à</DiscourseConnective> ce sujet dans le rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5018" docOffset="31">
+      <en>
+        <Alignment alignment="5572" annotation_id="5018">
+          <DiscourseConnective annotation_id="5018" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, your report seems to confirm our stance on the matter, namely that national penalty provisions, <Alignment alignment="26309" annotation_id="5122">
+          <DiscourseConnective annotation_id="5122" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> not equivalent, produce the desired effect <Alignment alignment="5769" annotation_id="5174">
+          <DiscourseConnective annotation_id="5174" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> therefore no harmonisation at EU level is needed in this respect.</en>
+      <fr>
+        <Alignment alignment="5018" annotation_id="5572">
+          <DiscourseConnective annotation_id="5572" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, votre rapport semble confirmer notre position sur ce sujet, <DiscourseConnective annotation_id="5642">c'est-à-dire que</DiscourseConnective> les dispositions pénalisantes nationales, <Alignment alignment="6423" annotation_id="5701">
+          <DiscourseConnective annotation_id="5701" sense="Comparison.Contrast">bien qu'</DiscourseConnective>
+        </Alignment>elles ne soient pas équivalentes, produisent l'effet désiré <Alignment alignment="5174" annotation_id="5769">
+          <DiscourseConnective annotation_id="5769" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> aucune harmonisation n'est nécessaire au niveau européen <DiscourseConnective annotation_id="5829">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5244" docOffset="32">
+      <en>The Commission will stay vigilant and take steps, <Alignment alignment="24551" annotation_id="5294">
+          <DiscourseConnective annotation_id="5294" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> necessary, against those Member States which do not fully comply with the Directive's provisions in question.</en>
+      <fr>La Commission restera vigilante <DiscourseConnective annotation_id="5874">et</DiscourseConnective> prendra <Alignment alignment="2197" annotation_id="5885">
+          <DiscourseConnective annotation_id="5885" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nécessaire des mesures contre les États membres qui ne respectent pas totalement les dispositions de la directive <DiscourseConnective annotation_id="6002">en</DiscourseConnective> question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5407" docOffset="33">
+      <en>
+        <Alignment alignment="6948" annotation_id="5407">
+          <DiscourseConnective annotation_id="5407" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> we can only welcome your call upon the Commission to further closely monitor the functioning of the mechanism introduced by the EU motor insurance Directives.</en>
+      <fr>
+        <Alignment alignment="5407" annotation_id="6015">
+          <DiscourseConnective annotation_id="6015" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+        </Alignment>, nous ne pouvons <DiscourseConnective annotation_id="6041">que</DiscourseConnective> saluer votre appel <DiscourseConnective annotation_id="6064">à</DiscourseConnective> la Commission de continuer à surveiller de près le fonctionnement du mécanisme introduit par la directive européenne sur l'assurance automobile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5576" docOffset="34">
+      <en>The motor insurance expert group, set up by my services a year ago, brings Member States' representatives and stakeholders together and has proven to be a very useful tool to this end.</en>
+      <fr>Le groupe d'experts sur l'assurance automobile, mis sur pied par moi-même il y a un an, rassemble les représentants des États membres <DiscourseConnective annotation_id="6345">et</DiscourseConnective> les parties prenantes, <DiscourseConnective annotation_id="6371">et</DiscourseConnective> s'est révélé être un outil très utile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5761" docOffset="35">
+      <en>In line with your suggestion, the Commission will involve consumer organisations representing traffic accident victims in the process of assessing the effectiveness of the systems existing in the Member States.</en>
+      <fr>Conformément à votre suggestion, la Commission impliquera des organisations de consommateurs représentant les victimes d'accidents de la route dans la procédure d'évaluation de l'efficacité des systèmes existant dans les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5972" docOffset="36">
+      <en>Let me now turn to a second point: the legal expenses, which are very important for the consumers and for insurers as well.</en>
+      <fr>Je vais <DiscourseConnective annotation_id="6657">maintenant</DiscourseConnective> me tourner vers un deuxième point: les frais juridiques, qui sont très importants <DiscourseConnective annotation_id="6750">pour</DiscourseConnective> les consommateurs, <DiscourseConnective annotation_id="6774">ainsi</DiscourseConnective> que <DiscourseConnective annotation_id="6784">pour</DiscourseConnective> les assureurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6096" docOffset="37">
+      <en>Your report considers several pros and cons of a system where legal expenses would be compulsorily covered, EU-wide, by the motor insurance policy of the liable party.</en>
+      <fr>Votre rapport envisage plusieurs pours <DiscourseConnective annotation_id="6843">et</DiscourseConnective> contres d'un système dans lequel les frais juridiques seraient obligatoirement couverts, à l'échelle européenne, par la police d'assurance automobile de la partie responsable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6264" docOffset="38">
+      <en>
+        <Alignment alignment="7022" annotation_id="6264">
+          <DiscourseConnective annotation_id="6264" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> stated in the Commission report of 2007, we are convinced that such a solution would be very unlikely to provide clear benefits for road traffic accident victims; it might even lead to a distortion of well-established national systems of motor claims settlement.</en>
+      <fr>
+        <Alignment alignment="6264" annotation_id="7022">
+          <DiscourseConnective annotation_id="7022" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> stipulé dans le rapport 2007de la Commission, nous sommes convaincus <DiscourseConnective annotation_id="7097">qu'</DiscourseConnective>il serait très peu probable qu'une telle solution apporte de réels avantages aux victimes d'accidents de la route. Cela pourrait <DiscourseConnective annotation_id="7229">même</DiscourseConnective> conduire <DiscourseConnective annotation_id="7243">à</DiscourseConnective> une distorsion des systèmes nationaux bien établis de règlement des plaintes automobiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6530" docOffset="39">
+      <en>
+        <Alignment alignment="7335" annotation_id="6530">
+          <Alignment alignment="19036" annotation_id="6530">
+            <DiscourseConnective annotation_id="6530" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, premiums are likely to increase in those countries where either no or limited reimbursement of legal costs has been the practice so far.</en>
+      <fr>
+        <Alignment alignment="6530" annotation_id="7335">
+          <Alignment alignment="6530" annotation_id="7335">
+            <DiscourseConnective annotation_id="7335" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les primes sont susceptibles d'augmenter dans les pays où il n'est pas coutume de rembourser les frais juridiques, partiellement <DiscourseConnective annotation_id="7474">ou</DiscourseConnective> intégralement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6680" docOffset="40">
+      <en>I am pleased to see that your report reflects some of these concerns <Alignment alignment="17612" annotation_id="6749">
+          <DiscourseConnective annotation_id="6749" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it gives preference to market-led solutions, such as the use of voluntary legal expenses insurance.</en>
+      <fr>Je suis ravie de constater <DiscourseConnective annotation_id="7519">que</DiscourseConnective> votre rapport reflète certaines de ces inquiétudes <Alignment alignment="6749" annotation_id="7574">
+          <DiscourseConnective annotation_id="7574" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7577">qu'</DiscourseConnective>il montre sa préférence <DiscourseConnective annotation_id="7604">pour</DiscourseConnective> des solutions orientées par le marché, telles <DiscourseConnective annotation_id="7655">que</DiscourseConnective> l'utilisation d'une assurance volontaire pour les frais juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6858" docOffset="41">
+      <en>It seems to be evident, <Alignment alignment="41225" annotation_id="6882">
+          <DiscourseConnective annotation_id="6882" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment>, that in some markets this type of insurance cover is hardly used, <Alignment alignment="8594" annotation_id="6956">
+          <DiscourseConnective annotation_id="6956" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that better promotion is needed.</en>
+      <fr>Il semble <Alignment alignment="6882" annotation_id="7737">
+          <DiscourseConnective annotation_id="7737" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> évident <DiscourseConnective annotation_id="7755">que</DiscourseConnective> sur certains marchés, ce type d'assurance est à peine utilisé <Alignment alignment="6537" annotation_id="7821">
+          <DiscourseConnective annotation_id="7821" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7824">qu'</DiscourseConnective>il faut le promouvoir plus efficacement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6993" docOffset="42">
+      <en>This is a mission the market should accomplish itself, <DiscourseConnective annotation_id="7048" sense="Temporal.Synchrony">as</DiscourseConnective> the Commission should not promote particular insurance products or particular lines of insurance business.</en>
+      <fr>C'est une mission que le marché devrait accomplir lui-même, la Commission ne devrait pas promouvoir des produits d'assurance <DiscourseConnective annotation_id="7993">en particulier</DiscourseConnective> <DiscourseConnective annotation_id="8008">ou</DiscourseConnective> certaines pratiques du secteur des assurances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7158" docOffset="43">
+      <en>Finally, let me address the issue of the awareness of tools and mechanisms under the EU motor insurance directives.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8058">Pour terminer</DiscourseConnective>, j'aimerais aborder la question de la connaissance des outils <DiscourseConnective annotation_id="8134">et</DiscourseConnective> mécanismes au titre des directives européennes sur l'assurance automobile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7274" docOffset="44">
+      <en>The Commission agrees that there is room for improvement, especially in relation to the new Member States, <DiscourseConnective annotation_id="7381" sense="Temporal.Synchrony">as</DiscourseConnective> regards the degree of citizens' awareness of the tools created by the EU motor insurance directives, such as the claims representative mechanism or the existence of national information centres.</en>
+      <fr>La Commission estime elle-aussi <DiscourseConnective annotation_id="8244">qu'</DiscourseConnective>il y a de la marge <DiscourseConnective annotation_id="8266">pour</DiscourseConnective> une amélioration, particulièrement <DiscourseConnective annotation_id="8306">en</DiscourseConnective> ce qui concerne les nouveaux États membres, au niveau du degré d'information des citoyens des outils créés par les directives européennes sur l'assurance automobile, <DiscourseConnective annotation_id="8475">comme</DiscourseConnective> par exemple le mécanisme de représentant chargé du règlement des litiges <DiscourseConnective annotation_id="8554">ou</DiscourseConnective> l'existence de centres d'information nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7579" docOffset="45">
+      <en>The insurance industry can and should play a major role in this area.</en>
+      <fr>Le secteur des assurances peut <DiscourseConnective annotation_id="8636">et</DiscourseConnective> doit jouer un rôle majeur dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7649" docOffset="46">
+      <en>The Commission has contributed to the information need of both traffic accident victims and motorists through the publication of a number of motor insurance leaflets placed on the 'Your Europe' portal.</en>
+      <fr>La Commission a contribué au besoin d'information des victimes d'accidents de la route <DiscourseConnective annotation_id="8769">et</DiscourseConnective> des usagers grâce à la publication d'un certain nombre de dépliants sur l'assurance automobile placés sur le portail "L'Europe est à vous".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7851" docOffset="47">
+      <en>Many other information sources exist at national level, such as automobile clubs, motor insurance bureaux, claims settlement agencies and others.</en>
+      <fr>De nombreuses autres sources d'information existent au niveau national, tels <DiscourseConnective annotation_id="8989">que</DiscourseConnective> les clubs automobiles, les bureaux d'assurance automobile, les agences de règlement de sinistres, etc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7997" docOffset="48">
+      <en>In conclusion: Over the last years, regular reporting to the European Parliament on motor insurance issues has become a well-established practice <Alignment alignment="3838" annotation_id="8143">
+          <DiscourseConnective annotation_id="8143" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am looking forward to our continued good cooperation.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9096">En</DiscourseConnective> conclusion: au cours des dernières années, un rapport régulier au Parlement européen sur les questions d'assurance automobile est devenu une pratique établie <Alignment alignment="8143" annotation_id="9257">
+          <DiscourseConnective annotation_id="9257" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je me réjouis de la suite de notre bonne coopération.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8203" id="213" name="Othmar Karas">
+    <ParallelChunk annotation_id="8203" docOffset="49">
+      <en>representing the draftsman of the opinion of the Committee on Legal Affairs. - (DE) Mr President, Commissioner, rapporteur, ladies and gentlemen, on behalf of the Chairman of the Committee on Legal Affairs, Mr Gargani, I should like to thank the rapporteur for his report and the good cooperation.</en>
+      <fr>représentant le rapporteur pour avis de la commission des affaires juridiques. - (DE) M. le Président, commissaire, rapporteur, mesdames, mesdemoiselles, messieurs, au nom du président de la commission des affaires juridiques, M. Gargani, je souhaite remercier le rapporteur <DiscourseConnective annotation_id="9589">pour</DiscourseConnective> son rapport <DiscourseConnective annotation_id="9606">et</DiscourseConnective> sa bonne coopération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8501" docOffset="50">
+      <en>There are three points in particular which I should like to mention: firstly, consumers' interests; secondly, the principle of subsidiarity, and thirdly, relevance.</en>
+      <fr>Il y a trois points <DiscourseConnective annotation_id="9651">en particulier</DiscourseConnective> <DiscourseConnective annotation_id="9666">que</DiscourseConnective> je souhaite aborder: <DiscourseConnective annotation_id="9691">premièrement</DiscourseConnective>, l'intérêt des consommateurs, <DiscourseConnective annotation_id="9734">deuxièmement</DiscourseConnective>, le principe de subsidiarité, <DiscourseConnective annotation_id="9777">et</DiscourseConnective> <DiscourseConnective annotation_id="9780">troisièmement</DiscourseConnective>, la pertinence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8666" docOffset="51">
+      <en>We believe it is far more in line with consumers' interests not to convert voluntary legal expenses schemes for motor insurance in Europe into a compulsory scheme.</en>
+      <fr>Nous pensons qu'il est bien plus favorable aux intérêts des consommateurs de ne pas convertir les schémas de frais juridiques volontaires <DiscourseConnective annotation_id="9948">pour</DiscourseConnective> l'assurance automobile <DiscourseConnective annotation_id="9976">en</DiscourseConnective> Europe <DiscourseConnective annotation_id="9986">en</DiscourseConnective> un schéma volontaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8830" docOffset="52">
+      <en>We do not need mandatory product bundling or product integration which would simply push up the price of insurance and restrict consumer choice.</en>
+      <fr>Nous n'avons pas besoin de combinaison <DiscourseConnective annotation_id="10050">ou</DiscourseConnective> d'intégration de produits obligatoires qui ne feraient qu'augmenter le prix de l'assurance <DiscourseConnective annotation_id="10144">et</DiscourseConnective> restreindre le choix des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8975" docOffset="53">
+      <en>On the issue of subsidiarity, I welcome the fact that the rapporteur is not attempting to drive forward harmonisation at all costs.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10187">En</DiscourseConnective> ce qui concerne la subsidiarité, je salue le fait <DiscourseConnective annotation_id="10240">que</DiscourseConnective> le rapporteur n'essaye pas de faire avancer l'harmonisation <DiscourseConnective annotation_id="10304">à</DiscourseConnective> tout prix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9107" docOffset="54">
+      <en>The countries in which some legal costs are already covered by motor insurance can continue with this type of scheme without other countries being forced to follow suit.</en>
+      <fr>Les pays dans lesquels certains frais juridiques sont <DiscourseConnective annotation_id="10371">déjà</DiscourseConnective> couverts par l'assurance automobile peuvent continuer avec ce type de schéma <DiscourseConnective annotation_id="10453">sans que</DiscourseConnective> d'autres pays ne soient forcés d'en faire <DiscourseConnective annotation_id="10504">autant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9277" docOffset="55">
+      <en>As to the issue of relevance, I would remind the House that we are dealing with an issue which, in numerical terms, is of only very limited relevance.</en>
+      <fr>En ce qui concerne la pertinence, je souhaite rappeler à la Chambre <DiscourseConnective annotation_id="10580">que</DiscourseConnective> nous traitons un problème qui, <DiscourseConnective annotation_id="10615">en</DiscourseConnective> termes numérique, est d'une pertinence très limitée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9428" docOffset="56">
+      <en>Cross-border accidents account for only around 1% of road traffic accidents in Europe, <Alignment alignment="23367" annotation_id="9515">
+          <DiscourseConnective annotation_id="9515" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> almost all of them are settled out of court.</en>
+      <fr>Les accidents transfrontaliers ne représentent qu'environ 1 % des accidents de la route <DiscourseConnective annotation_id="10759">en</DiscourseConnective> Europe, <Alignment alignment="16656" annotation_id="10770">
+          <DiscourseConnective annotation_id="10770" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> presque tous sont réglés à l'amiable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9564" docOffset="57">
+      <en>I congratulate the rapporteur on the report.</en>
+      <fr>Je félicite le rapporteur <DiscourseConnective annotation_id="10837">pour</DiscourseConnective> son document.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9609" id="214" name="Andreas Schwab">
+    <ParallelChunk annotation_id="9609" docOffset="58">
+      <en>on behalf of the PPE-DE Group. - (DE) Mr President, Commissioner, ladies and gentlemen, I should like to start by thanking my colleague Nickolay Mladenov for his truly excellent work on this very difficult issue.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) M. le Président, commissaire, mesdames, mesdemoiselles, messieurs, je souhaite commencer par remercier mon collègue Nickolay Mladenov <DiscourseConnective annotation_id="11022">pour</DiscourseConnective> son travail réellement excellent sur ce point très difficile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9822" docOffset="59">
+      <en>His own-initiative report covers all the key problems and does so quite outstandingly.</en>
+      <fr>Son rapport d'initiative couvre tous les problèmes essentiels <DiscourseConnective annotation_id="11151">et</DiscourseConnective> le fait de façon assez exceptionnelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9909" docOffset="60">
+      <en>
+        <Alignment alignment="10567" annotation_id="9909">
+          <DiscourseConnective annotation_id="9909" sense="Comparison.Concession">Nonetheless</DiscourseConnective>
+        </Alignment>, I would point out that this report is just one little piece of the puzzle in people's everyday dealings with the EU.</en>
+      <fr>
+        <Alignment alignment="9909" annotation_id="11193">
+          <DiscourseConnective annotation_id="11193" sense="Comparison.Concession">Néanmoins</DiscourseConnective>
+        </Alignment>, je souhaite souligner <DiscourseConnective annotation_id="11226">que</DiscourseConnective> ce rapport n'est <DiscourseConnective annotation_id="11247">qu'</DiscourseConnective>une petite pièce du puzzle dans les opérations du peuple avec l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10039" docOffset="61">
+      <en>Mr Karas has rightly pointed out that cross-border accidents account for a very small percentage of road traffic accidents <Alignment alignment="11446" annotation_id="10162">
+          <DiscourseConnective annotation_id="10162" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that most of them are settled out of court.</en>
+      <fr>M. Karas a justement souligné <DiscourseConnective annotation_id="11348">que</DiscourseConnective> les accidents transfrontaliers représentent un très petit pourcentage d'accidents de la route <Alignment alignment="10162" annotation_id="11446">
+          <DiscourseConnective annotation_id="11446" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11449">que</DiscourseConnective> la plupart d'entre eux sont réglés à l'amiable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10210" docOffset="62">
+      <en>
+        <Alignment alignment="11501" annotation_id="10210">
+          <DiscourseConnective annotation_id="10210" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, a major German weekly newspaper published an article last week which described how an ordinary citizen wished to re-register a German car in Italy, only to fail eight months later, having realised that it is simply not possible.</en>
+      <fr>
+        <Alignment alignment="10210" annotation_id="11501">
+          <DiscourseConnective annotation_id="11501" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, un grand hebdomadaire allemand a publié la semaine dernière un article qui décrit comment un citoyen ordinaire a souhaité réenregistrer une voiture allemande <DiscourseConnective annotation_id="11670">en</DiscourseConnective> Italie, <DiscourseConnective annotation_id="11681">pour</DiscourseConnective> échouer huit mois <DiscourseConnective annotation_id="11704">plus tard</DiscourseConnective>, réalisant <DiscourseConnective annotation_id="11725">que</DiscourseConnective> ce n'est <DiscourseConnective annotation_id="11738">simplement</DiscourseConnective> pas possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10448" docOffset="63">
+      <en>Citizens dealing with this type of problem on an individual basis feel extremely unhappy about it.</en>
+      <fr>Les citoyens face à ce genre de problème sur une base individuelle en sont extrêmement mécontents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10547" docOffset="64">
+      <en>That is why the report, with its incentive for voluntary schemes, is the right approach.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11862">C'est pourquoi</DiscourseConnective> ce rapport, avec son incitant en faveur de schémas volontaires, est la bonne approche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10636" docOffset="65">
+      <en>
+        <Alignment alignment="11964" annotation_id="10636">
+          <DiscourseConnective annotation_id="10636" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the Member States have a role to play in determining whether harmonisation of compensation law in the European Union might not, in the long term, be a far better solution which is more in line with citizens' interests.</en>
+      <fr>
+        <Alignment alignment="10636" annotation_id="11964">
+          <DiscourseConnective annotation_id="11964" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, les États membres ont un rôle <DiscourseConnective annotation_id="12005">à</DiscourseConnective> jouer <DiscourseConnective annotation_id="12013">lorsqu'</DiscourseConnective>il s'agit de déterminer <DiscourseConnective annotation_id="12044">si</DiscourseConnective> l'harmonisation de la loi de compensation dans l'Union européenne ne pourrait pas <DiscourseConnective annotation_id="12129">à</DiscourseConnective> long terme être une bien meilleure solution bien plus <DiscourseConnective annotation_id="12185">en</DiscourseConnective> phase avec les intérêts des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10864" docOffset="66">
+      <en>Here in Parliament and especially in the Committee on Legal Affairs, we have dealt with the issue of non-contractual damages - in the case of Rome II, <Alignment alignment="20245" annotation_id="11015">
+          <DiscourseConnective annotation_id="11015" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> - on various occasions <Alignment alignment="12430" annotation_id="11050">
+          <DiscourseConnective annotation_id="11050" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is now up to the Member States to look at which alternative solutions they can identify, <Alignment alignment="12536" annotation_id="11146">
+          <DiscourseConnective annotation_id="11146" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> harmonisation of compensation law and the adoption of legal costs as damages is not possible for this House due to the issue of competence.</en>
+      <fr>Ici au Parlement <DiscourseConnective annotation_id="12243">et</DiscourseConnective> particulièrement <DiscourseConnective annotation_id="12263">à</DiscourseConnective> la commission des affaires juridiques, nous avons traité la question des dommages non contractuels - dans le cas de Rome II <Alignment alignment="11015" annotation_id="12389">
+          <DiscourseConnective annotation_id="12389" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> - <DiscourseConnective annotation_id="12403">à</DiscourseConnective> de nombreuses occasions, <Alignment alignment="12890" annotation_id="12430">
+          <DiscourseConnective annotation_id="12430" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il revient <DiscourseConnective annotation_id="12444">maintenant</DiscourseConnective> aux États membres de voir quelles solutions alternatives ils peuvent identifier, <Alignment alignment="11146" annotation_id="12536">
+          <DiscourseConnective annotation_id="12536" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'harmonisation de la loi de compensation <DiscourseConnective annotation_id="12581">et</DiscourseConnective> l'adoption des frais juridiques en <DiscourseConnective annotation_id="12619">tant que</DiscourseConnective> dommages n'est pas possible <DiscourseConnective annotation_id="12656">pour</DiscourseConnective> cette Chambre étant donné le problème des compétences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11289" docOffset="67">
+      <en>This is an issue which we will need to resolve in future.</en>
+      <fr>C'est un problème <DiscourseConnective annotation_id="12734">que</DiscourseConnective> nous devrons résoudre <DiscourseConnective annotation_id="12760">à</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11347" docOffset="68">
+      <en>That being the case, Mr Mladenov's proposal is outstanding and deserves our support.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12772">Dans ce cas</DiscourseConnective>, la proposition de M. Mladenov est exceptionnelle est mérite notre soutien.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11432" id="215" name="Diana Wallis">
+    <ParallelChunk annotation_id="11432" docOffset="69">
+      <en>on behalf of the ALDE Group. - Mr President, motor insurance has been a success story of this Parliament <Alignment alignment="5120" annotation_id="11537">
+          <DiscourseConnective annotation_id="11537" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the long line of directives still actually represents some unfinished business - business which sadly involves an increasing number of our citizens <DiscourseConnective annotation_id="11689" sense="Temporal.Synchrony">as</DiscourseConnective> they exercise their rights of free movement across the Union.</en>
+      <fr>au nom du groupe ALDE. - (EN) M. le Président, l'assurance automobile est un grand succès de ce Parlement <Alignment alignment="11537" annotation_id="12966">
+          <DiscourseConnective annotation_id="12966" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la longue ligne de directives représente <DiscourseConnective annotation_id="13010">encore</DiscourseConnective> des affaires non finies. Des affaires qui impliquent <DiscourseConnective annotation_id="13070">malheureusement</DiscourseConnective> un nombre croissant de nos citoyens alors qu'ils exercent leur droit de libre circulation au sein de l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11754" docOffset="70">
+      <en>Mr Mladenov's report makes a very important contribution to the ongoing work.</en>
+      <fr>Le rapport de M. Mladenov apporte une très importante contribution au travail en cours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11832" docOffset="71">
+      <en>It is clear that claims need to be simplified as much as possible <Alignment alignment="38104" annotation_id="11898">
+          <DiscourseConnective annotation_id="11898" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the three-month period has to be respected.</en>
+      <fr>Il est clair <DiscourseConnective annotation_id="13297">que</DiscourseConnective> les litiges doivent être simplifiés <DiscourseConnective annotation_id="13337">autant</DiscourseConnective> <DiscourseConnective annotation_id="13344">que</DiscourseConnective> possible <Alignment alignment="11898" annotation_id="13357">
+          <DiscourseConnective annotation_id="13357" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la période de trois mois doit être respectée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11946" docOffset="72">
+      <en>Accident trauma must not be increased by legal trauma.</en>
+      <fr>Le traumatisme de l'accident ne doit pas être gonflé par le traumatisme juridique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12001" docOffset="73">
+      <en>We know that there are complicated issues of conflict of law that this Parliament wanted to solve in our approach to the Rome II Regulation.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="13501">qu'</DiscourseConnective>il y a des points de points de conflit juridique compliqués <DiscourseConnective annotation_id="13564">que</DiscourseConnective> ce Parlement souhaitait résoudre dans notre approche vers la réglementation Rome II.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12142" docOffset="74">
+      <en>We have now been assisted by the Court of Justice in its Oldenburg judgment, where the Court has read together the fourth Directive and the Brussels Regulation in the way we intended, allowing a victim to take direct legal action in their country of residence rather than going to the defendant's court.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="13664">maintenant</DiscourseConnective> été assistés par la Cour de justice dans son jugement Oldenburg, où la cour a lu la quatrième directive <DiscourseConnective annotation_id="13779">et</DiscourseConnective> la réglementation de Bruxelles de la façon que nous l'envisagions, permettant à une victime d'entreprendre des actions juridiques directes dans son pays de résidence <DiscourseConnective annotation_id="13948">plutôt que de</DiscourseConnective> se rendre au tribunal du défendant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12446" docOffset="75">
+      <en>This will put pressure on the need for out-of-court settlements.</en>
+      <fr>Cela fera pression sur la nécessité de règlements à l'amiable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12511" docOffset="76">
+      <en>It is an important development.</en>
+      <fr>Il <DiscourseConnective annotation_id="14064">s'</DiscourseConnective>agit d'un développement important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12543" docOffset="77">
+      <en>It may in the short term create some difficulties <Alignment alignment="14151" annotation_id="12593">
+          <DiscourseConnective annotation_id="12593" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, Commissioner, you need to ensure that Member States respect this judgment and this interpretation of EU law.</en>
+      <fr>Cela pourrait créer des difficultés <DiscourseConnective annotation_id="14137">à</DiscourseConnective> court terme <Alignment alignment="9657" annotation_id="14151">
+          <DiscourseConnective annotation_id="14151" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, commissaire, vous devez garantir <DiscourseConnective annotation_id="14190">que</DiscourseConnective> les États membres respectent ce jugement <DiscourseConnective annotation_id="14235">et</DiscourseConnective> l'interprétation de la législation européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12707" docOffset="78">
+      <en>The next step is to devise a system arising from the Rome II follow-up studies that ensures that victims are compensated fully in relation to their home country circumstances.</en>
+      <fr>La prochaine étape est d'imaginer un système naissant des études de suivi de Rome II assurant <DiscourseConnective annotation_id="14379">que</DiscourseConnective> les victimes reçoivent une intégration intégrale liée au contexte de leur pays de résidence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12883" docOffset="79">
+      <en>The story is ongoing <Alignment alignment="21178" annotation_id="12904">
+          <DiscourseConnective annotation_id="12904" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the achievements, <Alignment alignment="14524" annotation_id="12926">
+          <DiscourseConnective annotation_id="12926" sense="Expansion.Conjunction">likewise</DiscourseConnective>
+        </Alignment>, are very far from being inconsiderable.</en>
+      <fr>L'histoire est en cours, <Alignment alignment="12904" annotation_id="14501">
+          <DiscourseConnective annotation_id="14501" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les réalisations, <Alignment alignment="20050" annotation_id="14524">
+          <DiscourseConnective annotation_id="14524" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment>, sont loin d'être insignifiantes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12976" id="216" name="Malcolm Harbour">
+    <ParallelChunk annotation_id="12976" docOffset="80">
+      <en>Mr President, first of all I want to join in thanking Nickolay Mladenov for a very important and serious piece of work.</en>
+      <fr>(EN) M. le Président, <DiscourseConnective annotation_id="14590">pour commencer</DiscourseConnective>, je veux moi <DiscourseConnective annotation_id="14618">aussi</DiscourseConnective> remercier Nickolay Mladenov <DiscourseConnective annotation_id="14652">pour</DiscourseConnective> son travail sérieux <DiscourseConnective annotation_id="14677">et</DiscourseConnective> très important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13096" docOffset="81">
+      <en>His first major report for the Committee on the Internal Market will, I hope, be the first of many.</en>
+      <fr>Son premier rapport majeur <DiscourseConnective annotation_id="14723">pour</DiscourseConnective> la commission du marché intérieur sera, je l'espère, le premier d'une longue série.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13196" docOffset="82">
+      <en>It has been very helpful that he has come in and looked at this issue with fresh eyes, representing citizens who are enjoying new entitlements through their membership of the European Union <Alignment alignment="18329" annotation_id="13386">
+          <DiscourseConnective annotation_id="13386" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> who perhaps expect some of these issues to be dealt with better than in the past.</en>
+      <fr>Le fait <DiscourseConnective annotation_id="14820">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="14826">soit</DiscourseConnective> venu examiner ces problèmes avec un regard neuf fut très utile, il a représenté les citoyens qui profitent de nouveaux droits grâce à leur adhésion <DiscourseConnective annotation_id="14979">à</DiscourseConnective> l'Union européenne <Alignment alignment="1939" annotation_id="15000">
+          <DiscourseConnective annotation_id="15000" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui attendent peut-être que certains problèmes soient <DiscourseConnective annotation_id="15057">mieux</DiscourseConnective> traités <DiscourseConnective annotation_id="15071">que</DiscourseConnective> par le passé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13472" docOffset="83">
+      <en>I want to build on some of the points that a number of my colleagues have made, particularly Diana Wallis and Andrew Schwab.</en>
+      <fr>Je souhaite apporter ma contribution <DiscourseConnective annotation_id="15126">à</DiscourseConnective> certains points <DiscourseConnective annotation_id="15144">que</DiscourseConnective> nombre de mes collègues ont soulevé, particulièrement Diana Wallis <DiscourseConnective annotation_id="15215">et</DiscourseConnective> Andreas Schwab.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13597" docOffset="84">
+      <en>Diana and I have been involved in this area <Alignment alignment="40514" annotation_id="13641">
+          <DiscourseConnective annotation_id="13641" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> we came to Parliament in 1999, and <Alignment alignment="15342" annotation_id="13682">
+          <DiscourseConnective annotation_id="13682" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> understand its importance.</en>
+      <fr>Diana <DiscourseConnective annotation_id="15240">et</DiscourseConnective> moi nous sommes impliqués dans ce domaine <Alignment alignment="9684" annotation_id="15285">
+          <DiscourseConnective annotation_id="15285" sense="Contingency.Cause.Reason">depuis</DiscourseConnective>
+        </Alignment> notre arrivée au Parlement <DiscourseConnective annotation_id="15319">en</DiscourseConnective> 1999, <DiscourseConnective annotation_id="15328">et</DiscourseConnective> comprenons <Alignment alignment="13934" annotation_id="15342">
+          <DiscourseConnective annotation_id="15342" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> son importance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13719" docOffset="85">
+      <en>I think it is fair to say that <Alignment alignment="47765" annotation_id="13750">
+          <DiscourseConnective annotation_id="13750" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Parliament had not consistently raised these issues with the Commission and said that the motor insurance regime, and particularly its cross-border aspects for mobile motorists, was deeply unsatisfactory, then I do not think that we would be where we are now, anywhere close to the fourth Motor Insurance Directive, <Alignment alignment="9297" annotation_id="14069">
+          <DiscourseConnective annotation_id="14069" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> maybe looking for a fifth.</en>
+      <fr>Je pense qu'il est juste de <DiscourseConnective annotation_id="15395">dire que</DiscourseConnective> <Alignment alignment="15456" annotation_id="15404">
+          <DiscourseConnective annotation_id="15404" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> le Parlement n'avait pas invariablement soulevé ces points avec la Commission <DiscourseConnective annotation_id="15485">et</DiscourseConnective> dit <DiscourseConnective annotation_id="15492">que</DiscourseConnective> le régime d'assurance automobile, <DiscourseConnective annotation_id="15530">et</DiscourseConnective> particulièrement ses aspects transfrontaliers <DiscourseConnective annotation_id="15579">pour</DiscourseConnective> les automobilistes, était profondément insatisfaisant, <DiscourseConnective annotation_id="15639">alors</DiscourseConnective> je ne pense pas <DiscourseConnective annotation_id="15661">que</DiscourseConnective> nous serions où nous en sommes <DiscourseConnective annotation_id="15696">maintenant</DiscourseConnective>, tout proches de la quatrième directive sur l'assurance automobile, <Alignment alignment="14069" annotation_id="15775">
+          <DiscourseConnective annotation_id="15775" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> envisageant peut-être la cinquième.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14100" docOffset="86">
+      <en>This shows how Parliament really can reflect the interests of citizens in what are complex cross-border issues, but ones that do not come into play <Alignment alignment="15982" annotation_id="14248">
+          <DiscourseConnective annotation_id="14248" sense="Expansion.Alternative">unless</DiscourseConnective>
+        </Alignment> people run into serious problems.</en>
+      <fr>Cela montre à quel point le Parlement peut réellement réfléchir aux intérêts des citoyens dans des questions transfrontalières complexes, <DiscourseConnective annotation_id="15952">mais</DiscourseConnective> qui n'entrent pas en jeu <Alignment alignment="14248" annotation_id="15982">
+          <DiscourseConnective annotation_id="15982" sense="Expansion.Alternative">tant que</DiscourseConnective>
+        </Alignment> les personnes n'ont pas de graves problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14289" docOffset="87">
+      <en>People have brought their problems to us, <Alignment alignment="16088" annotation_id="14331">
+          <DiscourseConnective annotation_id="14331" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they have had accidents in other countries and are unable to claim compensation for what are, in many cases, severe or even lifelong injuries.</en>
+      <fr>Les citoyens nous ont fait part de leurs problèmes, <Alignment alignment="14331" annotation_id="16088">
+          <DiscourseConnective annotation_id="16088" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> ils ont des accidents avec d'autres pays <DiscourseConnective annotation_id="16135">et</DiscourseConnective> sont incapables de demander des compensations <DiscourseConnective annotation_id="16184">pour</DiscourseConnective> ce qui sont, dans de nombreux cas, des blessures graves <DiscourseConnective annotation_id="16245">ou</DiscourseConnective> <DiscourseConnective annotation_id="16248">même</DiscourseConnective> des blessures à vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14479" docOffset="88">
+      <en>I was pleased that the Commissioner, in line with her very strong commitment to consumers and the energy she has brought to this portfolio, wanted to seize this issue.</en>
+      <fr>J'ai été enchantée <DiscourseConnective annotation_id="16293">que</DiscourseConnective> la commissaire, conformément à son engagement très fort envers les consommateurs <DiscourseConnective annotation_id="16378">et</DiscourseConnective> l'énergie qu'elle a dépensé <DiscourseConnective annotation_id="16409">pour</DiscourseConnective> ce portefeuille, veuille se saisir de cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14647" docOffset="89">
+      <en>
+        <Alignment alignment="34298" annotation_id="14647">
+          <DiscourseConnective annotation_id="14647" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would particularly highlight what Nikolay Mladenov says in his report about the need to step up the level of cooperation between the insurance industry, Member States and the Commission, in order to get better deals under existing legislation.</en>
+      <fr>
+        <Alignment alignment="9179" annotation_id="16468">
+          <DiscourseConnective annotation_id="16468" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, je souhaite particulièrement souligner ce qu'a dit Nickolay Mladenov dans son rapport sur la nécessité d'élever le niveau de coopération entre le secteur des assurances, les États membres <DiscourseConnective annotation_id="16667">et</DiscourseConnective> la Commission <DiscourseConnective annotation_id="16684">afin d'</DiscourseConnective>obtenir de meilleurs arrangements dans le cadre de la législation existante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14902" docOffset="90">
+      <en>We are acting as a ginger group to put salt and pepper into the system, <Alignment alignment="14330" annotation_id="14974">
+          <DiscourseConnective annotation_id="14974" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I feel we are entitled to a bit more support from the European insurance industry.</en>
+      <fr>Nous agissons en tant que groupe énergique, souhaitant apporter notre grain de sel au système, <Alignment alignment="14974" annotation_id="16863">
+          <DiscourseConnective annotation_id="16863" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense que nous avons le droit de recevoir un peu plus de soutien de la part du secteur européen des assurances.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15061" id="217" name="Zita Pleštinská">
+    <ParallelChunk annotation_id="15061" docOffset="91">
+      <en>(SK) Like my fellow Members who have contributed to today's debate, I too consider Nickolay Mladenov's report to be correctly timed and very important with regard to consumer protection.</en>
+      <fr>(SK) <DiscourseConnective annotation_id="16986">Tout comme</DiscourseConnective> mes collègues députés ayant contribué au débat d'aujourd'hui, je considère <DiscourseConnective annotation_id="17072">également</DiscourseConnective> que le rapport de Nickolay Mladenov tombe à point nommé <DiscourseConnective annotation_id="17138">et</DiscourseConnective> est très important pour la protection des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15248" docOffset="92">
+      <en>In the context of the increased volume of foreign automobile travel, especially following the enlargement of the EU and the extension of Schengen, many European citizens are becoming accident victims abroad and, through ignorance, often experience serious problems.</en>
+      <fr>Dans le contexte de l'accroissement du volume de trafic automobile étranger, particulièrement suite à l'élargissement de l'UE <DiscourseConnective annotation_id="17324">et</DiscourseConnective> à l'extension de l'espace Schengen, de nombreux citoyens européens deviennent victimes d'accidents à l'étranger <DiscourseConnective annotation_id="17439">et</DiscourseConnective>, par ignorance, rencontrent souvent de graves problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15514" docOffset="93">
+      <en>
+        <Alignment alignment="17499" annotation_id="15514">
+          <DiscourseConnective annotation_id="15514" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> travelling abroad by car, citizens must be provided with basic information on how to handle claims.</en>
+      <fr>
+        <Alignment alignment="10439" annotation_id="17499">
+          <DiscourseConnective annotation_id="17499" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> voyager à l'étranger <DiscourseConnective annotation_id="17529">en</DiscourseConnective> voiture, les citoyens doivent recevoir des informations de base sur le traitement des litiges.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15621" docOffset="94">
+      <en>It is important to contact the appropriate information centres which, pursuant to the Fourth Motor Insurance Directive, are to be established in every Member State.</en>
+      <fr>Il est important de contacter les centres d'information appropriés qui, conformément <DiscourseConnective annotation_id="17712">à</DiscourseConnective> la quatrième directive sur l'assurance automobile, doivent être établis dans chaque État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15786" docOffset="95">
+      <en>The pre-contractual information package should include comprehensive information to consumers on how the claims representative system works and on legal expenses insurance.</en>
+      <fr>Le paquet d'information précontractuel devrait inclure des informations exhaustives <DiscourseConnective annotation_id="17895">à</DiscourseConnective> l'attention des consommateurs sur le fonctionnement du système de règlement de litige <DiscourseConnective annotation_id="17983">et</DiscourseConnective> les assurances <DiscourseConnective annotation_id="18001">pour</DiscourseConnective> les frais juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15959" docOffset="96">
+      <en>Member States have established different systems <Alignment alignment="18083" annotation_id="16008">
+          <DiscourseConnective annotation_id="16008" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> national regulatory bodies are better placed to guarantee the highest possible level of consumer protection in their national markets.</en>
+      <fr>Les États membres ont mis sur pied différents systèmes <Alignment alignment="16008" annotation_id="18083">
+          <DiscourseConnective annotation_id="18083" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des organes nationaux de réglementation sont <DiscourseConnective annotation_id="18131">mieux</DiscourseConnective> placés <DiscourseConnective annotation_id="18144">pour</DiscourseConnective> garantir le plus haut niveau de protection du consommateur possible sur leurs marchés nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16147" docOffset="97">
+      <en>For this reason, I agree with the rapporteur that it is not necessary to harmonise national penalty provisions at Community level.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18246">Pour</DiscourseConnective> cette raison, je suis d'accord avec le rapporteur sur le fait <DiscourseConnective annotation_id="18313">qu'</DiscourseConnective>il n'est pas nécessaire d'harmoniser les dispositions pénalisantes nationales au niveau communautaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16278" id="218" name="Milan Gaľa">
+    <ParallelChunk annotation_id="16278" docOffset="98">
+      <en>(SK) I consider the creation of a network of claims representatives to be a benefit of the 2000 Motor Insurance Directive.</en>
+      <fr>(SK) J'estime que la création d'un réseau de représentants chargés du règlement des litiges est un avantage de la directive sur l'assurance automobile de 2000.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16401" docOffset="99">
+      <en>Their efforts will speed up the settlement of motoring claims.</en>
+      <fr>Leurs efforts accélèreront le règlement des litiges automobiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16464" docOffset="100">
+      <en>As regards penalties for delays in addressing claims, I agree with the rapporteur's view.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18644">En</DiscourseConnective> ce qui concerne les pénalités <DiscourseConnective annotation_id="18677">pour</DiscourseConnective> les retards dans le traitement des plaintes, je suis d'accord avec l'avis du rapporteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16554" docOffset="101">
+      <en>On the basis of subsidiarity, national regulatory bodies are better placed to guarantee the highest possible level of consumer protection in their national markets.</en>
+      <fr>Sur la base de la subsidiarité, des organes nationaux de réglementation sont <DiscourseConnective annotation_id="18848">mieux</DiscourseConnective> placés <DiscourseConnective annotation_id="18861">pour</DiscourseConnective> garantir le plus haut niveau de protection du consommateur possible sur leurs marchés nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16719" docOffset="102">
+      <en>According to the available data, more than 90% of all claims are settled out of court <Alignment alignment="36964" annotation_id="16805">
+          <DiscourseConnective annotation_id="16805" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment>, in this respect, there is no need for the Commission's initiative to introduce compulsory legal expenses insurance across the European Union.</en>
+      <fr>D'après les données disponibles, plus de 90 % des plaintes sont réglées à l'amiable et <Alignment alignment="16805" annotation_id="19050">
+          <DiscourseConnective annotation_id="19050" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="19056">à cet égard</DiscourseConnective>, l'initiative de la Commission d'introduire des assurances obligatoires pour les frais juridiques dans l'Union européenne n'est pas nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16951" docOffset="103">
+      <en>It would raise the costs of compulsory motor insurance and burden the courts with additional disputes, which could be settled out of court.</en>
+      <fr>Cela augmenterait les coûts des assurances automobiles obligatoires <DiscourseConnective annotation_id="19280">et</DiscourseConnective> chargerait les tribunaux avec des conflits supplémentaires qui pourraient être réglés à l'amiable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17091" docOffset="104">
+      <en>The voluntary nature of legal expenses insurance needs to be retained <Alignment alignment="19462" annotation_id="17161">
+          <DiscourseConnective annotation_id="17161" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, in the new Member States, citizens must be provided with more information on insurance products.</en>
+      <fr>La nature volontaire de l'assurance <DiscourseConnective annotation_id="19418">pour</DiscourseConnective> les frais juridiques doit être retenue <Alignment alignment="17161" annotation_id="19462">
+          <DiscourseConnective annotation_id="19462" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, dans les nouveaux États membres, les citoyens doivent être <DiscourseConnective annotation_id="19525">mieux</DiscourseConnective> informés sur les produits d'assurance.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17263" id="219" name="Colm Burke">
+    <ParallelChunk annotation_id="17263" docOffset="105">
+      <en>Mr President, as a legal practitioner who has dealt with cross-border claims, it is not all rosy in the garden <Alignment alignment="19693" annotation_id="17374">
+          <DiscourseConnective annotation_id="17374" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> might be suggested in the report.</en>
+      <fr>(EN) M. le Président, en <DiscourseConnective annotation_id="19595">tant que</DiscourseConnective> praticien juridique ayant traité des litiges transfrontaliers, tout n'est pas aussi rose <Alignment alignment="17374" annotation_id="19693">
+          <DiscourseConnective annotation_id="19693" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> suggéré par le rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17411" docOffset="106">
+      <en>
+        <Alignment alignment="24813" annotation_id="17411">
+          <DiscourseConnective annotation_id="17411" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> I welcome the report, some of the kind of problems that I have come across are problems where there is legal cost insurance <Alignment alignment="10352" annotation_id="17541">
+          <DiscourseConnective annotation_id="17541" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> where the claimants are finding it difficult to recover costs on the basis of it.</en>
+      <fr>
+        <Alignment alignment="17411" annotation_id="19721">
+          <DiscourseConnective annotation_id="19721" sense="Comparison.Contrast">Alors que</DiscourseConnective>
+        </Alignment> je salue ce rapport, certains types de problèmes <DiscourseConnective annotation_id="19780">que</DiscourseConnective> j'ai rencontrés sont des problèmes où il existe une assurance pour les frais juridiques, <Alignment alignment="17541" annotation_id="19873">
+          <DiscourseConnective annotation_id="19873" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> où les plaignants trouvent difficile de récupérer leurs frais sur cette base.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17627" docOffset="107">
+      <en>These claimants have gone through court procedures and expended monies in order to validate their claims and <Alignment alignment="38876" annotation_id="17736">
+          <DiscourseConnective annotation_id="17736" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> find that, on the one hand, the insurer of the offending party which caused the accident is not paying the full costs of putting the case together, <Alignment alignment="20220" annotation_id="17889">
+          <DiscourseConnective annotation_id="17889" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="27387" annotation_id="17893">
+          <Alignment alignment="20223" annotation_id="17893">
+            <Alignment alignment="32304" annotation_id="17893">
+              <Alignment alignment="20223" annotation_id="17893">
+                <DiscourseConnective annotation_id="17893" sense="Comparison.Contrast">on the other hand</DiscourseConnective>
+              </Alignment>
+            </Alignment>
+          </Alignment>
+        </Alignment>, their own insurance company, with whom they had insurance for covering legal costs, is <DiscourseConnective annotation_id="17999" sense="Expansion.Conjunction">also</DiscourseConnective> not paying up and is walking away from its responsibilities.</en>
+      <fr>Ces plaignants ont vécu des procédures au tribunal <DiscourseConnective annotation_id="20005">et</DiscourseConnective> dépensé de l'argent <DiscourseConnective annotation_id="20028">afin de</DiscourseConnective> valider leurs litiges <DiscourseConnective annotation_id="20058">et</DiscourseConnective> découvrir <Alignment alignment="17736" annotation_id="20071">
+          <DiscourseConnective annotation_id="20071" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="20079">que</DiscourseConnective>, <DiscourseConnective annotation_id="20084">d'un côté</DiscourseConnective>, l'assureur de la partie incriminée ayant causé l'accident ne paye pas l'intégralité des frais de mise sur pied de l'affaire, <Alignment alignment="15639" annotation_id="20220">
+          <DiscourseConnective annotation_id="20220" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="11250" annotation_id="20223">
+          <Alignment alignment="17893" annotation_id="20223">
+            <Alignment alignment="17893" annotation_id="20223">
+              <Alignment alignment="5655" annotation_id="20223">
+                <DiscourseConnective annotation_id="20223" sense="Comparison.Contrast">de l'autre côté</DiscourseConnective>
+              </Alignment>
+            </Alignment>
+          </Alignment>
+        </Alignment>, leur propre compagnie d'assurance, chez qui ils étaient assurés <DiscourseConnective annotation_id="20304">pour</DiscourseConnective> les frais juridiques, ne paye pas non plus <DiscourseConnective annotation_id="20352">et</DiscourseConnective> se dégage de ses responsabilités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18065" docOffset="108">
+      <en>This is an area that we need to look at and be very careful about.</en>
+      <fr>C'est une zone <DiscourseConnective annotation_id="20404">que</DiscourseConnective> nous devons examiner, avec beaucoup de soins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18132" docOffset="109">
+      <en>I had one case, <Alignment alignment="20459" annotation_id="18148">
+          <DiscourseConnective annotation_id="18148" sense="Expansion.Instantiation">for instance</DiscourseConnective>
+        </Alignment>, where we had to pay EUR 30 000 for a forensic accountant's report <Alignment alignment="25725" annotation_id="18228">
+          <DiscourseConnective annotation_id="18228" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> where we were not allowed to recover the full cost of that report.</en>
+      <fr>J'ai <Alignment alignment="18148" annotation_id="20459">
+          <DiscourseConnective annotation_id="20459" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> eu une affaire où nous devions payer 30 000 EUR <DiscourseConnective annotation_id="20519">pour</DiscourseConnective> le rapport d'un comptable médicolégal <Alignment alignment="18228" annotation_id="20562">
+          <DiscourseConnective annotation_id="20562" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous n'avons pas pu récupérer l'intégralité du coût du rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18299" docOffset="110">
+      <en>
+        <Alignment alignment="26062" annotation_id="18299">
+          <DiscourseConnective annotation_id="18299" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> the person had their own insurance, they were not able to add their own insurance policy for costs and were not able to recover under that policy either.</en>
+      <fr>
+        <Alignment alignment="18299" annotation_id="20629">
+          <DiscourseConnective annotation_id="20629" sense="Comparison.Concession">Bien que</DiscourseConnective>
+        </Alignment> la personne ait sa propre assurance, ils n'ont pas pu ajouter leur propre police d'assurance <DiscourseConnective annotation_id="20731">pour</DiscourseConnective> les frais <DiscourseConnective annotation_id="20746">et</DiscourseConnective> n'ont pas pu être remboursés par cette police <DiscourseConnective annotation_id="20795">non plus</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18462" docOffset="111">
+      <en>That is a matter that we need to look at and make sure that it is properly monitored.</en>
+      <fr>Nous devons examiner ce problème <DiscourseConnective annotation_id="20838">et</DiscourseConnective> nous assurer <DiscourseConnective annotation_id="20854">qu'</DiscourseConnective>il est correctement contrôlé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18548" id="220" name="Meglena Kuneva">
+    <ParallelChunk annotation_id="18548" docOffset="112">
+      <en>Member of the Commission. - Mr President, let me thank you once more for the very useful piece of work which Mr Mladenov presented with the help of his colleagues.</en>
+      <fr>membre de la Commission. - (EN) M. le Président, laissez-moi vous remercier une fois <DiscourseConnective annotation_id="20972">encore</DiscourseConnective> <DiscourseConnective annotation_id="20979">pour</DiscourseConnective> le travail très utile qu'a présenté M. Mladenov <DiscourseConnective annotation_id="21032">à</DiscourseConnective> l'aide de ses collègues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18712" docOffset="113">
+      <en>It is very useful for the Commission as well.</en>
+      <fr>Il est <DiscourseConnective annotation_id="21066">également</DiscourseConnective> très utile <DiscourseConnective annotation_id="21087">pour</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18758" docOffset="114">
+      <en>The Commission is preparing a study dealing with compensation levels awarded to cross-border victims <Alignment alignment="14356" annotation_id="18859">
+          <DiscourseConnective annotation_id="18859" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this issue was raised by Mrs Wallis and some other colleagues.</en>
+      <fr>La Commission prépare une étude traitant des niveaux de compensation attribués aux victimes transfrontalières <Alignment alignment="6743" annotation_id="21217">
+          <DiscourseConnective annotation_id="21217" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cette question a été soulevée par Mme Wallis <DiscourseConnective annotation_id="21265">et</DiscourseConnective> quelques autres collègues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18926" docOffset="115">
+      <en>We are aiming in this study at obtaining an objective, well-founded and evidence-based analysis of the issue.</en>
+      <fr>Nous visons un objectif <DiscourseConnective annotation_id="21319">sans</DiscourseConnective> cette étude: une analyse bien fondée <DiscourseConnective annotation_id="21361">et</DiscourseConnective> basée sur les preuves de ce problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19036" docOffset="116">
+      <en>The study is under way <Alignment alignment="21423" annotation_id="19059">
+          <DiscourseConnective annotation_id="19059" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Commission is examining the second interim report.</en>
+      <fr>L'étude est <DiscourseConnective annotation_id="21414">en</DiscourseConnective> cours <Alignment alignment="7222" annotation_id="21423">
+          <DiscourseConnective annotation_id="21423" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la Commission examine le deuxième rapport intermédiaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19118" docOffset="117">
+      <en>Mr Harbour <Alignment alignment="21496" annotation_id="19129">
+          <DiscourseConnective annotation_id="19129" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> mentioned that we need to be very concrete in our work and cooperate firmly on this issue to make the internal market more complete both for businesses and for consumers.</en>
+      <fr>M. Harbour a <Alignment alignment="10554" annotation_id="21496">
+          <DiscourseConnective annotation_id="21496" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> mentionné <DiscourseConnective annotation_id="21516">que</DiscourseConnective> nous devions être très concrets dans notre travail <DiscourseConnective annotation_id="21571">et</DiscourseConnective> coopérer fermement <DiscourseConnective annotation_id="21593">afin que</DiscourseConnective> le marché intérieur soit plus complet à la fois <DiscourseConnective annotation_id="21650">pour</DiscourseConnective> les entreprises <DiscourseConnective annotation_id="21671">et</DiscourseConnective> les consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19305" docOffset="118">
+      <en>It is very important for this cooperation to be straightened up.</en>
+      <fr>Il est très important de mettre de l'ordre dans cette coopération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19370" docOffset="119">
+      <en>I am really more than glad to see that Mr Mladenov's report is doing this through the good set-up of the pieces of his work and <DiscourseConnective annotation_id="19498" sense="Expansion.Conjunction">also</DiscourseConnective> has such nice and meaningful support from his colleagues.</en>
+      <fr>Je suis vraiment plus <DiscourseConnective annotation_id="21782">qu'</DiscourseConnective>heureuse de voir <DiscourseConnective annotation_id="21802">que</DiscourseConnective> le rapport de M. Mladenov y parvienne grâce à la bonne mise en place des éléments de son travail, <DiscourseConnective annotation_id="21904">et</DiscourseConnective> qu'il reçoive un soutien <DiscourseConnective annotation_id="21932">si</DiscourseConnective> gentil <DiscourseConnective annotation_id="21942">et</DiscourseConnective> si éloquent de ses collègues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19561" docOffset="120">
+      <en>Once more, congratulations and thank you.</en>
+      <fr>
+        <DiscourseConnective annotation_id="21975">Encore</DiscourseConnective> une fois, félicitations <DiscourseConnective annotation_id="22006">et</DiscourseConnective> merci.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19603" id="221" name="Nickolay Mladenov">
+    <ParallelChunk annotation_id="19603" docOffset="121">
+      <en>rapporteur. - Mr President, I would like to thank the Commissioner and my colleagues for their very interesting and insightful comments on this report.</en>
+      <fr>rapporteur. - (EN) M. le Président, je souhaite remercier la commissaire <DiscourseConnective annotation_id="22089">et</DiscourseConnective> ses collègues <DiscourseConnective annotation_id="22106">pour</DiscourseConnective> leurs commentaires très intéressants <DiscourseConnective annotation_id="22148">et</DiscourseConnective> très perspicaces sur ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19755" docOffset="122">
+      <en>I am a firm believer that the best-protected consumer is the consumer who is best informed on their rights and can defend those rights based on the information provided.</en>
+      <fr>Je crois réellement <DiscourseConnective annotation_id="22204">qu'</DiscourseConnective>un consommateur <DiscourseConnective annotation_id="22223">mieux</DiscourseConnective> protégé est un consommateur <DiscourseConnective annotation_id="22257">mieux</DiscourseConnective> informé de ses droits <DiscourseConnective annotation_id="22285">et</DiscourseConnective> qui peut les défendre sur la base des informations fournies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19925" docOffset="123">
+      <en>We as legislators need to make sure that consumers receive information and are free to make the choice of whether to take certain protection against a certain risk <Alignment alignment="22514" annotation_id="20089">
+          <DiscourseConnective annotation_id="20089" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not, rather than to impose a uniform level on all of them.</en>
+      <fr>En <DiscourseConnective annotation_id="22352">tant que</DiscourseConnective> législateur, nous devons nous assurer <DiscourseConnective annotation_id="22399">que</DiscourseConnective> les consommateurs reçoivent des informations <DiscourseConnective annotation_id="22448">et</DiscourseConnective> soient libre de choisir de se protéger contre certains risques <Alignment alignment="12872" annotation_id="22514">
+          <DiscourseConnective annotation_id="22514" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non, <DiscourseConnective annotation_id="22522">plutôt que</DiscourseConnective> leur imposer <DiscourseConnective annotation_id="22546">à</DiscourseConnective> tous un niveau uniforme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20151" docOffset="124">
+      <en>Mrs Wallis, Andreas Schwab and Mr Burke raised extremely important points that go beyond the very limited scope of this report.</en>
+      <fr>Mme Wallis, Andreas Schwab <DiscourseConnective annotation_id="22600">et</DiscourseConnective> M. Burke ont soulevé des questions très importantes qui dépassent la portée très limitée de ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20279" docOffset="125">
+      <en>I am very happy that Commissioner Kuneva has said that the Commission will pursue a further study of many of the questions raised in this House.</en>
+      <fr>Je suis très heureux <DiscourseConnective annotation_id="22728">que</DiscourseConnective> la commissaire Kuneva ait déclaré <DiscourseConnective annotation_id="22766">que</DiscourseConnective> la Commission mènera une autre étude sur de nombreuses questions soulevées dans cette Chambre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20424" docOffset="126">
+      <en>I am convinced that Parliament will look very carefully at the study that the Commission produces, precisely to go back and look at the questions that Mr Burke has raised, which are absolutely valid and an increasing matter of discussion in many Member States, including my own.</en>
+      <fr>Je suis convaincu <DiscourseConnective annotation_id="22883">que</DiscourseConnective> le Parlement examinera très attentivement l'étude <DiscourseConnective annotation_id="22937">que</DiscourseConnective> publiera la Commission, <DiscourseConnective annotation_id="22965">précisément</DiscourseConnective> <DiscourseConnective annotation_id="22977">pour</DiscourseConnective> revoir <DiscourseConnective annotation_id="22989">et</DiscourseConnective> examiner les questions <DiscourseConnective annotation_id="23015">que</DiscourseConnective> M. Burke a soulevées, qui sont absolument pertinentes <DiscourseConnective annotation_id="23073">et</DiscourseConnective> qui portent de plus <DiscourseConnective annotation_id="23096">en plus</DiscourseConnective> <DiscourseConnective annotation_id="23104">à</DiscourseConnective> débattre dans de nombreux États membres, dont le mien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20703" docOffset="127">
+      <en>Mr Schwab raised the question of a uniform approach to damages, which is a very valid question for all of us.</en>
+      <fr>M. Schwab a soulevé la question d'une approche uniforme des litiges, ce qui est une question très pertinente <DiscourseConnective annotation_id="23270">pour</DiscourseConnective> nous tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20813" docOffset="128">
+      <en>I hope that the Commission's study will address that issue.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="23295">que</DiscourseConnective> l'étude de la Commission se penchera sur ce point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20873" docOffset="129">
+      <en>Let me <Alignment alignment="23364" annotation_id="20880">
+          <DiscourseConnective annotation_id="20880" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> say a couple of things about the follow-up to this report.</en>
+      <fr>Permettez-moi <Alignment alignment="17430" annotation_id="23364">
+          <DiscourseConnective annotation_id="23364" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de m'exprimer sur le suivi de ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20944" docOffset="130">
+      <en>I hope that the Commission will take very seriously its responsibility to monitor national authorities' implementation of existing penalty provisions.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="23425">que</DiscourseConnective> la Commission prendra très sérieusement sa responsabilité de contrôler l'application par les autorités nationales des dispositions pénalisantes existantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21095" docOffset="131">
+      <en>
+        <Alignment alignment="48733" annotation_id="21095">
+          <DiscourseConnective annotation_id="21095" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, <Alignment alignment="23595" annotation_id="21103">
+          <DiscourseConnective annotation_id="21103" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we were gathering information in order to put this report together, a small number of Member States were not very forthcoming in providing information on how the system functions in their societies, <Alignment alignment="23839" annotation_id="21307">
+          <DiscourseConnective annotation_id="21307" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we did manage to receive an adequate reply in the end.</en>
+      <fr>
+        <Alignment alignment="22478" annotation_id="23585">
+          <DiscourseConnective annotation_id="23585" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, <Alignment alignment="21103" annotation_id="23595">
+          <DiscourseConnective annotation_id="23595" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous avons rassemblé des informations <DiscourseConnective annotation_id="23639">afin de</DiscourseConnective> construire ce rapport, un petit nombre d'États membres n'était pas très disponible <DiscourseConnective annotation_id="23730">lorsqu'</DiscourseConnective>il s'agissait de nous apporter des informations sur le fonctionnement du système dans leurs sociétés, <Alignment alignment="21307" annotation_id="23839">
+          <DiscourseConnective annotation_id="23839" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous avons finalement réussi <DiscourseConnective annotation_id="23873">à</DiscourseConnective> recevoir une réponse adéquate.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21366" docOffset="132">
+      <en>Looking carefully at how the system functions and at how it can be improved in the future is an important task that I am sure the Commission will take very seriously in the months and years to come.</en>
+      <fr>C'est une tâche très importante d'examiner avec attention le fonctionnement du système <DiscourseConnective annotation_id="23993">et</DiscourseConnective> les possibles améliorations à apporter dans le futur, et je suis sur <DiscourseConnective annotation_id="24065">que</DiscourseConnective> la Commission s'y attellera très sérieusement dans les mois <DiscourseConnective annotation_id="24129">et</DiscourseConnective> années <DiscourseConnective annotation_id="24139">à</DiscourseConnective> venir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21565" id="222" name="President">
+    <ParallelChunk annotation_id="21565" docOffset="133">
+      <en>The debate is closed.</en>
+      <fr>(PL) Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21587" docOffset="134">
+      <en>The vote will take place on Tuesday.</en>
+      <fr>Le vote aura lieu mardi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

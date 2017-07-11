@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Implementation of the social legislation relating to road transport (short presentation)</en>
+    <fr>Application de la législation sociale liée aux transports routiers (brève présentation)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="89" id="281" name="President">
+    <ParallelChunk annotation_id="89" docOffset="1">
+      <en>The next item is the report by Alejandro Cercas, on behalf of the Committee on Employment and Social Affairs, on the implementation of social legislation relating to road transport.</en>
+      <fr>L'ordre du jour appelle le rapport d'Alejandro Cercas, au nom de la commission de l'emploi <DiscourseConnective annotation_id="179">et</DiscourseConnective> des affaires sociales, sur l'application de la législation sociale liée aux transports routiers.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="271" id="282" language="ES" name="Alejandro Cercas">
+    <ParallelChunk annotation_id="271" docOffset="2">
+      <en>Mr President, Commissioner, thank you for being here.</en>
+      <fr>Monsieur le Président, Monsieur le Commissaire, je vous remercie <DiscourseConnective annotation_id="344">pour</DiscourseConnective> votre présence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="325" docOffset="3">
+      <en>
+        <Alignment alignment="365" annotation_id="325">
+          <DiscourseConnective annotation_id="325" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you are aware, in March 2002, the Council and Parliament came to an agreement, through conciliation, on Directive 2002/15/EC, which establishes the requirements that have to be fulfilled for the working time of persons performing mobile road transport activities, in order to ensure their health and safety, to ensure road safety and <DiscourseConnective annotation_id="662" sense="Expansion.Conjunction">also</DiscourseConnective> to align conditions of competition for all enterprises.</en>
+      <fr>
+        <Alignment alignment="325" annotation_id="365">
+          <DiscourseConnective annotation_id="365" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, <DiscourseConnective annotation_id="386">en</DiscourseConnective> mars 2002, le Conseil <DiscourseConnective annotation_id="411">et</DiscourseConnective> le Parlement sont parvenus <DiscourseConnective annotation_id="441">à</DiscourseConnective> un accord, <DiscourseConnective annotation_id="454">après</DiscourseConnective> conciliation, sur la directive 2002/15/CE, qui établit les exigences <DiscourseConnective annotation_id="529">à</DiscourseConnective> remplir en matière de temps de travail des personnes exécutant des activités mobiles de transport routier, <DiscourseConnective annotation_id="638">afin de</DiscourseConnective> garantir leur santé <DiscourseConnective annotation_id="666">et</DiscourseConnective> leur sécurité, de garantir la sécurité routière <DiscourseConnective annotation_id="717">et</DiscourseConnective> d'aligner les conditions de concurrence <DiscourseConnective annotation_id="760">pour</DiscourseConnective> toutes les entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="723" docOffset="4">
+      <en>It included all types of work, not only driving but also the physical work that these drivers sometimes do in loading and unloading or cleaning the vehicles.</en>
+      <fr>Il couvre tous les types de travail, <DiscourseConnective annotation_id="826">non seulement</DiscourseConnective> la conduite, <DiscourseConnective annotation_id="853">mais aussi</DiscourseConnective> le travail physique <DiscourseConnective annotation_id="884">que</DiscourseConnective> ces chauffeurs doivent parfois exécuter lors du chargement <DiscourseConnective annotation_id="947">et</DiscourseConnective> du déchargement <DiscourseConnective annotation_id="966">ou</DiscourseConnective> du nettoyage des véhicules.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="881" docOffset="5">
+      <en>That conciliation procedure resolved the most significant problem, which was whether <Alignment alignment="2747" annotation_id="966">
+          <DiscourseConnective annotation_id="966" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not self-employed workers should be included, <Alignment alignment="1146" annotation_id="1015">
+          <DiscourseConnective annotation_id="1015" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the parties agreed together, with the support of the Commission, that self-employed workers would be included, in order to put an end, once and for all, to the problems of double legislation, the double standards applied to self-employed drivers and employed drivers.</en>
+      <fr>Cette procédure de conciliation a résolu le problème le plus significatif, à savoir l'inclusion <Alignment alignment="966" annotation_id="1093">
+          <DiscourseConnective annotation_id="1093" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non des travailleurs indépendants à la directive, <Alignment alignment="1015" annotation_id="1146">
+          <DiscourseConnective annotation_id="1146" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les parties ont convenu, avec le soutien de la Commission, <DiscourseConnective annotation_id="1208">que</DiscourseConnective> les travailleurs indépendants seraient inclus, <DiscourseConnective annotation_id="1259">afin de</DiscourseConnective> mettre fin, une fois <DiscourseConnective annotation_id="1288">pour</DiscourseConnective> toutes, aux problèmes de double législation, au traitement inégal appliqué aux chauffeurs indépendants <DiscourseConnective annotation_id="1396">et</DiscourseConnective> aux chauffeurs employés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1287" docOffset="6">
+      <en>The lack of common regulation raised huge problems: these self-employed workers were working extremely long days, causing problems for their personal lives and for road safety, and <Alignment alignment="14097" annotation_id="1468">
+          <DiscourseConnective annotation_id="1468" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> <Alignment alignment="1688" annotation_id="1473">
+          <DiscourseConnective annotation_id="1473" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> drivers were posing as self-employed and undermining the rules of fair competition.</en>
+      <fr>L'absence de réglementation commune était à l'origine d'énormes problèmes: ces travailleurs indépendants avaient des journées de travail extrêmement longues, ce qui posait des problèmes dans leurs vies personnelles <DiscourseConnective annotation_id="1639">et</DiscourseConnective> sur le plan de la sécurité routière, <DiscourseConnective annotation_id="1679">et</DiscourseConnective> <Alignment alignment="1468" annotation_id="1682">
+          <DiscourseConnective annotation_id="1682" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <Alignment alignment="1473" annotation_id="1688">
+          <DiscourseConnective annotation_id="1688" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> des chauffeurs se faisaient passer pour des indépendants <DiscourseConnective annotation_id="1755">et</DiscourseConnective> portaient atteinte aux règles de la concurrence loyale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1565" docOffset="7">
+      <en>It was <Alignment alignment="8574" annotation_id="1572">
+          <DiscourseConnective annotation_id="1572" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> a great achievement to put an end once and for all, with a reasonable transition period, to this double legislation, <Alignment alignment="1959" annotation_id="1699">
+          <DiscourseConnective annotation_id="1699" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in 2002, the Commission, the Council and Parliament all reached the conclusion that it was the most rational and logical step.</en>
+      <fr>Cela a <Alignment alignment="1572" annotation_id="1821">
+          <DiscourseConnective annotation_id="1821" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> été un grand progrès de mettre un terme une fois <DiscourseConnective annotation_id="1875">pour</DiscourseConnective> toutes, avec une période de transition raisonnable, <DiscourseConnective annotation_id="1932">à</DiscourseConnective> cette double législation <Alignment alignment="1699" annotation_id="1959">
+          <DiscourseConnective annotation_id="1959" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="1963">en</DiscourseConnective> 2002, la Commission, le Conseil <DiscourseConnective annotation_id="1998">et</DiscourseConnective> le Parlement sont tous parvenus à la conclusion <DiscourseConnective annotation_id="2049">que</DiscourseConnective> c'était la mesure la plus rationnelle <DiscourseConnective annotation_id="2091">et</DiscourseConnective> la plus logique à prendre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1830" docOffset="8">
+      <en>We have produced this own-initiative report, with the support of the Committee on Employment and Social Affairs and the Committee on Transport and Tourism <Alignment alignment="8643" annotation_id="1985">
+          <DiscourseConnective annotation_id="1985" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, Commissioner, it now appears that this principle, this commitment from the Commission, the Council and Parliament, is not so firm; it appears that there are ambiguities; it appears that there are confusions and explanations that we are not satisfied with.</en>
+      <fr>Nous avons produit ce rapport d'initiative, avec l'aide de la commission de l'emploi <DiscourseConnective annotation_id="2206">et</DiscourseConnective> des affaires sociales <DiscourseConnective annotation_id="2231">et</DiscourseConnective> de la commission des transports <DiscourseConnective annotation_id="2266">et</DiscourseConnective> du tourisme, <Alignment alignment="3403" annotation_id="2282">
+          <DiscourseConnective annotation_id="2282" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, Monsieur le Commissaire, il semble <DiscourseConnective annotation_id="2328">à présent que</DiscourseConnective> ce principe, cet engagement de la part de la Commission, du Conseil <DiscourseConnective annotation_id="2410">et</DiscourseConnective> du Parlement, ne <DiscourseConnective annotation_id="2430">soit</DiscourseConnective> pas <DiscourseConnective annotation_id="2439">si</DiscourseConnective> ferme; il semble <DiscourseConnective annotation_id="2459">qu'</DiscourseConnective>il y ait des ambiguïtés; il semble <DiscourseConnective annotation_id="2497">qu'</DiscourseConnective>il y ait des confusions <DiscourseConnective annotation_id="2524">et</DiscourseConnective> des explications qui ne nous satisfont pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2250" docOffset="9">
+      <en>The Commission was meant to have produced a report to set out legislation to ensure that these self-employed workers were indeed included.</en>
+      <fr>La Commission était censée produire un rapport présentant la législation afin de garantir <DiscourseConnective annotation_id="2661">que</DiscourseConnective> ces travailleurs indépendants étaient bel et bien couverts par la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2389" docOffset="10">
+      <en>The truth is that the report was presented last year, <Alignment alignment="2807" annotation_id="2443">
+          <DiscourseConnective annotation_id="2443" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it was, in its own words, inadequate <Alignment alignment="2864" annotation_id="2484">
+          <DiscourseConnective annotation_id="2484" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we are waiting for the final report, which means that now, six months from the end of the term established for integration, we do not have a report or any initiatives from the Commission.</en>
+      <fr>La vérité, c'est <DiscourseConnective annotation_id="2759">que</DiscourseConnective> ce rapport a été présenté l'année dernière, <Alignment alignment="2443" annotation_id="2807">
+          <DiscourseConnective annotation_id="2807" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> qu'il était, selon ses propres termes, insuffisant, <Alignment alignment="2484" annotation_id="2864">
+          <DiscourseConnective annotation_id="2864" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous attendons <DiscourseConnective annotation_id="2882">à</DiscourseConnective> présent le rapport définitif, ce qui signifie <DiscourseConnective annotation_id="2930">qu'</DiscourseConnective>aujourd'hui, à six mois de la fin du délai fixé <DiscourseConnective annotation_id="2981">pour</DiscourseConnective> l'intégration, nous n'avons ni rapport ni initiatives de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2676" docOffset="11">
+      <en>That is why, Commissioner, with the date approaching for the inclusion of self-employed workers - <Alignment alignment="3165" annotation_id="2774">
+          <DiscourseConnective annotation_id="2774" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we are neither clear nor convinced that there is still the will that existed at that time, <Alignment alignment="3486" annotation_id="2869">
+          <DiscourseConnective annotation_id="2869" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are rumours that there are thoughts of reviewing the criteria - Parliament has produced this report with two objectives: as a reminder and as a demand.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3058">C'est pourquoi</DiscourseConnective>, Monsieur le Commissaire, la date de l'inclusion des travailleurs indépendants approchant - <Alignment alignment="2774" annotation_id="3165">
+          <DiscourseConnective annotation_id="3165" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous ne savons pas clairement ni ne sommes convaincus <DiscourseConnective annotation_id="3222">que</DiscourseConnective> la volonté qui existait <DiscourseConnective annotation_id="3250">à</DiscourseConnective> l'époque existe toujours aujourd'hui, <Alignment alignment="2869" annotation_id="3290">
+          <DiscourseConnective annotation_id="3290" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des rumeurs parlent d'une éventuelle révision des critères - le Parlement a produit ce rapport, avec deux objectifs: en <DiscourseConnective annotation_id="3413">tant que</DiscourseConnective> rappel <DiscourseConnective annotation_id="3429">et</DiscourseConnective> en <DiscourseConnective annotation_id="3435">tant que</DiscourseConnective> demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3031" docOffset="12">
+      <en>It is a reminder of the commitments made by the Council, the Commission and Parliament to workers, businesses and all citizens to put an end to this situation, which is a hotbed for lawsuits, and a demand that the promises be kept.</en>
+      <fr>Il <DiscourseConnective annotation_id="3456">s'</DiscourseConnective>agit d'un rappel des engagements pris par le Conseil, la Commission <DiscourseConnective annotation_id="3526">et</DiscourseConnective> le Parlement envers les travailleurs, les entreprises <DiscourseConnective annotation_id="3583">et</DiscourseConnective> tous les citoyens de mettre fin <DiscourseConnective annotation_id="3618">à</DiscourseConnective> cette situation, qui est un terrain fertile <DiscourseConnective annotation_id="3664">pour</DiscourseConnective> les procès, <DiscourseConnective annotation_id="3681">et</DiscourseConnective> d'une demande <DiscourseConnective annotation_id="3698">que</DiscourseConnective> ces promesses soient tenues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3263" docOffset="13">
+      <en>There are no circumstances that have arisen to change the reasons.</en>
+      <fr>Aucun événement ne <DiscourseConnective annotation_id="3750">s'</DiscourseConnective>est produit qui justifie de modifier les motifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3330" docOffset="14">
+      <en>There is still the same need; <Alignment alignment="3833" annotation_id="3360">
+          <DiscourseConnective annotation_id="3360" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, for the health of workers, for road safety and for perfect competition, we should include self-employed drivers in the Directive.</en>
+      <fr>Il y a toujours le <DiscourseConnective annotation_id="3820">même</DiscourseConnective> besoin; <Alignment alignment="3360" annotation_id="3833">
+          <DiscourseConnective annotation_id="3833" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="3843">pour</DiscourseConnective> la santé des travailleurs, <DiscourseConnective annotation_id="3875">pour</DiscourseConnective> la sécurité routière <DiscourseConnective annotation_id="3901">et</DiscourseConnective> <DiscourseConnective annotation_id="3904">pour</DiscourseConnective> une parfaite concurrence, nous devrions inclure les travailleurs indépendants dans la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3501" docOffset="15">
+      <en>A final request, Commissioner.</en>
+      <fr>Une dernière requête, Monsieur le Commissaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3532" docOffset="16">
+      <en>I think that it is very important, at the end of this term, that you do not go back on the commitment made.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="4062">qu'</DiscourseConnective>il est très important, <DiscourseConnective annotation_id="4088">à</DiscourseConnective> la fin de ce mandat, <DiscourseConnective annotation_id="4111">que</DiscourseConnective> vous ne reveniez pas sur l'engagement pris.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3640" docOffset="17">
+      <en>Economic demands or sectors of the profession seeking excessive competitive advantages should never be put ahead of the public needs that I am referring to.</en>
+      <fr>Les exigences économiques <DiscourseConnective annotation_id="4185">ou</DiscourseConnective> les secteurs de la profession qui tentent d'obtenir des avantages compétitifs excessifs ne devraient jamais passer <DiscourseConnective annotation_id="4303">avant</DiscourseConnective> les besoins du public auxquels je fais référence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3797" docOffset="18">
+      <en>
+        <Alignment alignment="9288" annotation_id="3797">
+          <DiscourseConnective annotation_id="3797" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, and <Alignment alignment="4409" annotation_id="3812">
+          <DiscourseConnective annotation_id="3812" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is important, Commissioner, I want to call on you, on behalf of all my fellow members, not to upset the balance and for the promised legislation to be put in place soon.</en>
+      <fr>
+        <Alignment alignment="3797" annotation_id="4359">
+          <DiscourseConnective annotation_id="4359" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="4375">et</DiscourseConnective> <Alignment alignment="3812" annotation_id="4378">
+          <DiscourseConnective annotation_id="4378" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> c'est important, Monsieur le Commissaire, je veux vous demander, au nom de mes collègues, de ne pas perturber l'équilibre <DiscourseConnective annotation_id="4510">et</DiscourseConnective> <DiscourseConnective annotation_id="4513">que</DiscourseConnective> la législation promise <DiscourseConnective annotation_id="4540">soit</DiscourseConnective> <DiscourseConnective annotation_id="4545">bientôt</DiscourseConnective> mise <DiscourseConnective annotation_id="4558">en</DiscourseConnective> place.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3993" id="283" name="Vladimír Špidla">
+    <ParallelChunk annotation_id="3993" docOffset="19">
+      <en>Member of the Commission. - (CS) Ladies and gentlemen, the European Parliament is today discussing the implementation of, <Alignment alignment="4681" annotation_id="4115">
+          <DiscourseConnective annotation_id="4115" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the possible ways of further developing, the Directive on the working time of persons performing mobile road activities.</en>
+      <fr>membre de la Commission. - (CS) Mesdames <DiscourseConnective annotation_id="4609">et</DiscourseConnective> Messieurs, le Parlement européen débat aujourd'hui de l'application, <Alignment alignment="4115" annotation_id="4681">
+          <DiscourseConnective annotation_id="4681" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des éventuels moyens de poursuivre l'élaboration de la directive sur <DiscourseConnective annotation_id="4753">le temps de</DiscourseConnective> travail des personnes exécutant des activités mobiles de transport routier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4240" docOffset="20">
+      <en>This specific legislation organises the working time of persons performing mobile road activities, such as bus drivers and lorry drivers.</en>
+      <fr>Cette législation spécifique organise <DiscourseConnective annotation_id="4879">le temps de</DiscourseConnective> travail des personnes exécutant des activités mobiles de transport routier, telles <DiscourseConnective annotation_id="4974">que</DiscourseConnective> les chauffeurs de bus <DiscourseConnective annotation_id="5000">et</DiscourseConnective> les chauffeurs de camions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4378" docOffset="21">
+      <en>
+        <Alignment alignment="11280" annotation_id="4378">
+          <DiscourseConnective annotation_id="4378" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the Directive does not include self-employed drivers.</en>
+      <fr>La directive ne couvre <Alignment alignment="4378" annotation_id="5053">
+          <DiscourseConnective annotation_id="5053" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> pas les chauffeurs indépendants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4441" docOffset="22">
+      <en>Many Members will recall that the Directive was adopted in 2002 following an arduous conciliation procedure, on the basis of which a complex clause was approved.</en>
+      <fr>Beaucoup de députés se rappelleront <DiscourseConnective annotation_id="5132">que</DiscourseConnective> la directive a été adoptée <DiscourseConnective annotation_id="5163">en</DiscourseConnective> 2002 à la suite d'une difficile procédure de conciliation, sur la base de laquelle une clause complexe avait été approuvée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4603" docOffset="23">
+      <en>This clause establishes that with effect from 23 March 2009 the scope of the Directive will be extended to include all self-employed drivers <Alignment alignment="5429" annotation_id="4744">
+          <DiscourseConnective annotation_id="4744" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the Commission sends a report to the Council and the European Parliament concerning an impact assessment of the present circumstances under which self-employed drivers are not included, and drafts a legislative proposal concerning self-employed drivers.</en>
+      <fr>Cette clause établit <DiscourseConnective annotation_id="5311">que</DiscourseConnective>, <DiscourseConnective annotation_id="5316">à</DiscourseConnective> compter du 23 mars 2009, le champ d'application de la directive sera étendu à tous les chauffeurs indépendants <Alignment alignment="4744" annotation_id="5429">
+          <DiscourseConnective annotation_id="5429" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> la Commission envoie au Conseil <DiscourseConnective annotation_id="5464">et</DiscourseConnective> au Parlement européen un rapport concernant une évaluation d'impact de la situation actuelle, dans laquelle les chauffeurs indépendants ne sont pas inclus, <DiscourseConnective annotation_id="5623">et</DiscourseConnective> élabore une proposition législative concernant les chauffeurs indépendants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5001" docOffset="24">
+      <en>
+        <Alignment alignment="5702" annotation_id="5001">
+          <DiscourseConnective annotation_id="5001" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> the question of whether <Alignment alignment="2598" annotation_id="5034">
+          <DiscourseConnective annotation_id="5034" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not to include self-employed drivers in the scope of the Directive is a genuine dilemma, let me say that it is <Alignment alignment="2282" annotation_id="5148">
+          <DiscourseConnective annotation_id="5148" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a false problem.</en>
+      <fr>
+        <Alignment alignment="5001" annotation_id="5702">
+          <DiscourseConnective annotation_id="5702" sense="Comparison.Concession">Bien que</DiscourseConnective>
+        </Alignment> la question d'inclure <Alignment alignment="5034" annotation_id="5733">
+          <DiscourseConnective annotation_id="5733" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non les chauffeurs indépendants au champ d'application de la directive <DiscourseConnective annotation_id="5807">soit</DiscourseConnective> un véritable dilemme, permettez-moi de <DiscourseConnective annotation_id="5851">dire que</DiscourseConnective> c'est <Alignment alignment="925" annotation_id="5866">
+          <DiscourseConnective annotation_id="5866" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> un faux problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5170" docOffset="25">
+      <en>The Commission's main aim <DiscourseConnective annotation_id="5196" sense="Temporal.Synchrony">when</DiscourseConnective> drafting a legislative proposal concerning road transport working conditions is to ensure a high level of social protection and fair competition as well as improve road safety.</en>
+      <fr>Le principal objectif de la Commission en élaborant une proposition législative concernant les conditions de travail dans le secteur des transports routiers est de garantir un niveau élevé de protection sociale <DiscourseConnective annotation_id="6101">et</DiscourseConnective> une concurrence loyale, <DiscourseConnective annotation_id="6128">ainsi</DiscourseConnective> que d'améliorer la sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5378" docOffset="26">
+      <en>
+        <Alignment alignment="20877" annotation_id="5378">
+          <DiscourseConnective annotation_id="5378" sense="Contingency.Cause.Result">Consequently</DiscourseConnective>
+        </Alignment>, the Commission considered it necessary to introduce a special regime for road transport mobile workers through a specific law accompanying the general Directive on working time.</en>
+      <fr>
+        <Alignment alignment="5378" annotation_id="6172">
+          <DiscourseConnective annotation_id="6172" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, la Commission a jugé nécessaire d'introduire un régime spécial <DiscourseConnective annotation_id="6251">pour</DiscourseConnective> les travailleurs mobiles du secteur des transports routiers à travers une loi spécifique accompagnant la directive générale sur <DiscourseConnective annotation_id="6384">le temps de</DiscourseConnective> travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5570" docOffset="27">
+      <en>
+        <Alignment alignment="6405" annotation_id="5570">
+          <DiscourseConnective annotation_id="5570" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the post-2002 provisions of the legislation concerning drivers have changed significantly <Alignment alignment="16077" annotation_id="5669">
+          <DiscourseConnective annotation_id="5669" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it has been a positive change.</en>
+      <fr>
+        <Alignment alignment="5570" annotation_id="6405">
+          <DiscourseConnective annotation_id="6405" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, les dispositions post-2002 de la législation concernant les chauffeurs ont considérablement changé <Alignment alignment="8449" annotation_id="6515">
+          <DiscourseConnective annotation_id="6515" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de manière positive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5704" docOffset="28">
+      <en>Thanks to your help, and Mr Markov's help in particular, new rules on driving times, rest periods and inspection procedures were adopted in 2005.</en>
+      <fr>Grâce <DiscourseConnective annotation_id="6545">à</DiscourseConnective> votre aide, <DiscourseConnective annotation_id="6559">et</DiscourseConnective> à celle de M. Markov, <DiscourseConnective annotation_id="6584">en particulier</DiscourseConnective>, de nouvelles règles sur les temps de conduite, les périodes de repos <DiscourseConnective annotation_id="6669">et</DiscourseConnective> les procédures d'inspection ont été adoptées <DiscourseConnective annotation_id="6717">en</DiscourseConnective> 2005.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5850" docOffset="29">
+      <en>
+        <Alignment alignment="13415" annotation_id="5850">
+          <DiscourseConnective annotation_id="5850" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> the Working Time Directive adopted in 2002 originally applied only to employed drivers, the rules adopted in 2005 apply to all drivers, both employed and self-employed.</en>
+      <fr>
+        <Alignment alignment="1610" annotation_id="6726">
+          <DiscourseConnective annotation_id="6726" sense="Comparison.Contrast">Si</DiscourseConnective>
+        </Alignment> la directive sur <DiscourseConnective annotation_id="6746">le temps de</DiscourseConnective> travail adoptée <DiscourseConnective annotation_id="6774">en</DiscourseConnective> 2002 ne s'appliquait à l'origine <DiscourseConnective annotation_id="6810">qu'</DiscourseConnective>aux chauffeurs employés, les règles adoptées <DiscourseConnective annotation_id="6858">en</DiscourseConnective> 2005 s'appliquent <DiscourseConnective annotation_id="6879">à</DiscourseConnective> tous les chauffeurs, employés <DiscourseConnective annotation_id="6911">et</DiscourseConnective> indépendants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6025" docOffset="30">
+      <en>The rules apply to 80% of the working time of all drivers.</en>
+      <fr>Les règles s'appliquent <DiscourseConnective annotation_id="6952">à</DiscourseConnective> 80 % du temps de travail de tous les chauffeurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6084" docOffset="31">
+      <en>
+        <Alignment alignment="7003" annotation_id="6084">
+          <DiscourseConnective annotation_id="6084" sense="Contingency.Cause.Result">Consequently</DiscourseConnective>
+        </Alignment>, Parliament's founded concerns about this issue which were voiced in the course of the conciliation procedure for the 2002 Working Time Directive were properly allayed.</en>
+      <fr>
+        <Alignment alignment="3566" annotation_id="7003">
+          <DiscourseConnective annotation_id="7003" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, les craintes fondées du Parlement sur cette question qui ont été exprimées au cours de la procédure de conciliation relative <DiscourseConnective annotation_id="7144">à</DiscourseConnective> la directive sur <DiscourseConnective annotation_id="7163">le temps de</DiscourseConnective> travail de 2002 ont été apaisées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6266" docOffset="32">
+      <en>Regarding the revision of the 2002 Working Time Directive, it is no secret that the attitudes of the individual Member States to this issue are very different <Alignment alignment="7409" annotation_id="6425">
+          <DiscourseConnective annotation_id="6425" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that opinions are <Alignment alignment="7435" annotation_id="6447">
+          <DiscourseConnective annotation_id="6447" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> divided within the Member States and within the transport sector.</en>
+      <fr>En ce qui concerne la révision de la directive sur <DiscourseConnective annotation_id="7260">le temps de</DiscourseConnective> travail de 2002, ce n'est un secret pour personne <DiscourseConnective annotation_id="7322">que</DiscourseConnective> les attitudes des divers États membres face <DiscourseConnective annotation_id="7370">à</DiscourseConnective> cette question sont très différentes <Alignment alignment="6425" annotation_id="7409">
+          <DiscourseConnective annotation_id="7409" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7412">que</DiscourseConnective> les avis divergent <Alignment alignment="6447" annotation_id="7435">
+          <DiscourseConnective annotation_id="7435" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> au sein des États membres <DiscourseConnective annotation_id="7471">et</DiscourseConnective> au sein du secteur des transports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6518" docOffset="33">
+      <en>The Commission published its report on the consequences of the exclusion of self-employed drivers from the scope of the Directive in May 2007.</en>
+      <fr>La Commission a publié son rapport sur les conséquences de l'exclusion des chauffeurs indépendants du champ d'application de la directive <DiscourseConnective annotation_id="7647">en</DiscourseConnective> mai 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6661" docOffset="34">
+      <en>The report reached two conclusions.</en>
+      <fr>Le rapport arrivait à deux conclusions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6697" docOffset="35">
+      <en>Firstly, it stated that there were both advantages and disadvantages of including and excluding self-employed drivers.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7700">Premièrement</DiscourseConnective>, il déclarait <DiscourseConnective annotation_id="7727">qu'</DiscourseConnective>il y avait à la fois des avantages <DiscourseConnective annotation_id="7765">et</DiscourseConnective> des inconvénients <DiscourseConnective annotation_id="7786">à</DiscourseConnective> inclure <DiscourseConnective annotation_id="7796">et</DiscourseConnective> exclure les chauffeurs indépendants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6816" docOffset="36">
+      <en>Secondly, the implementation of the Directive had caused some problems <Alignment alignment="7912" annotation_id="6887">
+          <DiscourseConnective annotation_id="6887" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the Member States had found it difficult to enforce it.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7836">Deuxièmement</DiscourseConnective>, l'application de la directive avait causé quelques problèmes, <Alignment alignment="6887" annotation_id="7912">
+          <DiscourseConnective annotation_id="7912" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les États membres l'avaient trouvée difficile <DiscourseConnective annotation_id="7968">à</DiscourseConnective> exécuter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6951" docOffset="37">
+      <en>This problem was chiefly due to the mistaken classification of some drivers as self-employed.</en>
+      <fr>Ce problème était principalement dû <DiscourseConnective annotation_id="8016">à</DiscourseConnective> la classification erronée de certains chauffeurs <DiscourseConnective annotation_id="8067">comme</DiscourseConnective> indépendants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7045" docOffset="38">
+      <en>This is how the transport sector describes those drivers who, <Alignment alignment="7710" annotation_id="7107">
+          <DiscourseConnective annotation_id="7107" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> officially self-employed, are in reality dependent on one company and are unable to plan their work themselves <Alignment alignment="8288" annotation_id="7227">
+          <DiscourseConnective annotation_id="7227" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> they would like to do.</en>
+      <fr>C'est la manière dont le secteur des transports décrit les chauffeurs qui, <Alignment alignment="3258" annotation_id="8162">
+          <DiscourseConnective annotation_id="8162" sense="Comparison.Contrast">bien qu'</DiscourseConnective>
+        </Alignment>officiellement indépendants, dépendent <DiscourseConnective annotation_id="8209">en réalité</DiscourseConnective> d'une entreprise <DiscourseConnective annotation_id="8237">et</DiscourseConnective> ne peuvent pas planifier leur travail eux-mêmes <Alignment alignment="7227" annotation_id="8288">
+          <DiscourseConnective annotation_id="8288" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> ils le voudraient.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7253" docOffset="39">
+      <en>They are socially vulnerable <Alignment alignment="1869" annotation_id="7282">
+          <DiscourseConnective annotation_id="7282" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="19031" annotation_id="7287">
+          <DiscourseConnective annotation_id="7287" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I said before, <Alignment alignment="8374" annotation_id="7305">
+          <DiscourseConnective annotation_id="7305" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> the Directive applies to them already, we need to see significant improvements in its implementation.</en>
+      <fr>Ils sont socialement vulnérables <Alignment alignment="1942" annotation_id="8346">
+          <DiscourseConnective annotation_id="8346" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="7287" annotation_id="8350">
+          <DiscourseConnective annotation_id="8350" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je l'ai déjà dit, <Alignment alignment="7305" annotation_id="8374">
+          <DiscourseConnective annotation_id="8374" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> la directive s'applique <DiscourseConnective annotation_id="8407">déjà</DiscourseConnective> <DiscourseConnective annotation_id="8412">à</DiscourseConnective> eux, nous devons assister <DiscourseConnective annotation_id="8440">à</DiscourseConnective> des améliorations significatives dans son application.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7416" docOffset="40">
+      <en>The Commission very carefully monitored the transposition of the Directive into national legislation and, <Alignment alignment="8604" annotation_id="7522">
+          <DiscourseConnective annotation_id="7522" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> necessary, commenced proceedings where breaches were observed.</en>
+      <fr>La Commission a surveillé très attentivement la transposition de la directive <DiscourseConnective annotation_id="8575">en</DiscourseConnective> législation nationale <DiscourseConnective annotation_id="8600">et</DiscourseConnective>, <Alignment alignment="3559" annotation_id="8604">
+          <DiscourseConnective annotation_id="8604" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> cela était nécessaire, a entamé des poursuites <DiscourseConnective annotation_id="8659">quand</DiscourseConnective> des infractions avaient été observées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7590" docOffset="41">
+      <en>
+        <Alignment alignment="8704" annotation_id="7590">
+          <Alignment alignment="8704" annotation_id="7590">
+            <DiscourseConnective annotation_id="7590" sense="Temporal.Asynchronous.Succession">As soon as</DiscourseConnective>
+          </Alignment>
+        </Alignment> the Member States completed the transposition of the Directive into national legislation, we performed a thorough check of the quality of this transposition.</en>
+      <fr>
+        <Alignment alignment="3343" annotation_id="8704">
+          <Alignment alignment="7590" annotation_id="8704">
+            <DiscourseConnective annotation_id="8704" sense="Temporal.Asynchronous.Succession">Dès que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les États membres avaient achevé la transposition de la directive <DiscourseConnective annotation_id="8778">en</DiscourseConnective> législation nationale, nous procédions à un contrôle approfondi de la qualité de cette transposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7759" docOffset="42">
+      <en>In many cases this resulted in the commencement of proceedings where breaches of duty were observed.</en>
+      <fr>Dans de nombreux cas, cela a mené <DiscourseConnective annotation_id="8917">à</DiscourseConnective> l'introduction de poursuites <DiscourseConnective annotation_id="8948">lorsque</DiscourseConnective> des infractions étaient observées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7860" docOffset="43">
+      <en>At present the Commission is <Alignment alignment="14526" annotation_id="7889">
+          <DiscourseConnective annotation_id="7889" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> carrying out an impact assessment with a view to establishing a compact basis for a legislative proposal to be developed this year.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8991">À</DiscourseConnective> l'heure actuelle, la Commission est <Alignment alignment="48" annotation_id="9029">
+          <DiscourseConnective annotation_id="9029" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> en train de réaliser une évaluation d'impact <DiscourseConnective annotation_id="9080">en vue d'</DiscourseConnective>établir une base compacte <DiscourseConnective annotation_id="9115">pour</DiscourseConnective> une proposition législative qui sera élaborée cette année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8026" docOffset="44">
+      <en>
+        <Alignment alignment="9189" annotation_id="8026">
+          <DiscourseConnective annotation_id="8026" sense="Contingency.Cause.Result">Consequently</DiscourseConnective>
+        </Alignment>, it would be premature for the Commission to adopt already a view on those aspects of the issues concerning self-employed drivers that pose the question of whether <Alignment alignment="9377" annotation_id="8203">
+          <DiscourseConnective annotation_id="8203" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not to include them in the scope of the Working Time Directive.</en>
+      <fr>Il serait <Alignment alignment="8026" annotation_id="9189">
+          <DiscourseConnective annotation_id="9189" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> prématuré <DiscourseConnective annotation_id="9214">pour</DiscourseConnective> la Commission de <DiscourseConnective annotation_id="9236">déjà</DiscourseConnective> adopter un point de vue sur ces aspects des considérations relatives aux chauffeurs indépendants qui posent la question de les inclure, <Alignment alignment="1883" annotation_id="9377">
+          <DiscourseConnective annotation_id="9377" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> pas, dans le champ d'application de la directive sur <DiscourseConnective annotation_id="9433">le temps de</DiscourseConnective> travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8270" docOffset="45">
+      <en>I welcome the report by Mr Cercas, particularly the developments concerning the issue of transposition.</en>
+      <fr>Je salue le rapport de M. Cercas, <DiscourseConnective annotation_id="9488">en particulier</DiscourseConnective> les développements relatifs à la question de la transposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8374" docOffset="46">
+      <en>
+        <Alignment alignment="9566" annotation_id="8374">
+          <DiscourseConnective annotation_id="8374" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="9577" annotation_id="8383">
+          <DiscourseConnective annotation_id="8383" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I said before, the Commission is of the opinion that the solution put forward in the report does not take into account the problem of the full and correct transposition of the Directive for the workers it already covers.</en>
+      <fr>
+        <Alignment alignment="8374" annotation_id="9566">
+          <DiscourseConnective annotation_id="9566" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <Alignment alignment="8383" annotation_id="9577">
+          <DiscourseConnective annotation_id="9577" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je l'ai dit, la Commission est d'avis <DiscourseConnective annotation_id="9621">que</DiscourseConnective> la solution proposée dans le rapport ne tient pas compte du problème de la transposition totale <DiscourseConnective annotation_id="9721">et</DiscourseConnective> correcte de la directive <DiscourseConnective annotation_id="9749">pour</DiscourseConnective> les travailleurs qu'elle couvre <DiscourseConnective annotation_id="9786">déjà</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8607" docOffset="47">
+      <en>This is what we have been working on up until now <Alignment alignment="1720" annotation_id="8657">
+          <DiscourseConnective annotation_id="8657" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what we hope to achieve with the next amendment.</en>
+      <fr>C'est ce sur quoi nous avons travaillé <DiscourseConnective annotation_id="9831">jusqu'à</DiscourseConnective> <DiscourseConnective annotation_id="9839">maintenant</DiscourseConnective> <Alignment alignment="8657" annotation_id="9850">
+          <DiscourseConnective annotation_id="9850" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce que nous espérons réaliser avec la prochaine modification.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8710" id="284" name="President">
+    <ParallelChunk annotation_id="8710" docOffset="48">
+      <en>That concludes the debate.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8737" docOffset="49">
+      <en>The vote will take place tomorrow.</en>
+      <fr>Le vote aura lieu demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8772" docOffset="50">
+      <en>Written declarations (Rule 142)</en>
+      <fr>Déclarations écrites (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8804" id="285" name="Mary Lou McDonald ">
+    <ParallelChunk annotation_id="8804" docOffset="51">
+      <en>in writing. - Road transport is an essential economic activity in the EU.</en>
+      <fr>par écrit. - (EN) Les transports routiers sont une activité économique essentielle au sein de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8878" docOffset="52">
+      <en>Compliance with rules for driving, working time and rest periods are basic requirements for ensuring road safety and the health and safety of drivers and passengers.</en>
+      <fr>Le respect des règles relatives au temps de conduite, de travail <DiscourseConnective annotation_id="10160">et</DiscourseConnective> aux périodes de repos est une exigence fondamentale <DiscourseConnective annotation_id="10215">en vue de</DiscourseConnective> garantir la sécurité routière, la santé <DiscourseConnective annotation_id="10265">et</DiscourseConnective> la sécurité des chauffeurs <DiscourseConnective annotation_id="10295">et</DiscourseConnective> des passagers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9044" docOffset="53">
+      <en>We particularly welcome the inclusion of all workers in the sector, including self-employed drivers, within the rules on working time which will guarantee fair competition within the sector.</en>
+      <fr>Nous saluons <DiscourseConnective annotation_id="10326">en particulier</DiscourseConnective> l'inclusion de tous les travailleurs du secteur, y compris les chauffeurs indépendants, dans les règles sur <DiscourseConnective annotation_id="10449">le temps de</DiscourseConnective> travail qui garantiront une concurrence loyale au sein du secteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9235" docOffset="54">
+      <en>It must <Alignment alignment="17417" annotation_id="9243">
+          <DiscourseConnective annotation_id="9243" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be clear that the Directive establishes minimum requirements and must under no circumstances lead to a levelling down of the more favourable conditions that already exist in some Member States.</en>
+      <fr>Il doit <Alignment alignment="9243" annotation_id="10536">
+          <DiscourseConnective annotation_id="10536" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être clair <DiscourseConnective annotation_id="10557">que</DiscourseConnective> la directive établit des exigences minimales <DiscourseConnective annotation_id="10606">et</DiscourseConnective> ne doit <DiscourseConnective annotation_id="10617">en</DiscourseConnective> aucun cas entraîner un nivellement par le bas des conditions plus favorables qui existent <DiscourseConnective annotation_id="10710">déjà</DiscourseConnective> dans certains États membres.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

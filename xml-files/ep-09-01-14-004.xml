@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="097" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the vote.</en>
+      <fr>L'ordre du jour appelle le vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+      <en>I would like to inform the Chamber that during the vote, at the express request of the association of parliamentary journalists, for each set of results we must <Alignment alignment="682" annotation_id="200">
+          <DiscourseConnective annotation_id="200" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> expressly indicate the number of votes for and against and the number of abstentions.</en>
+      <fr>Je voudrais informer l'Assemblée <DiscourseConnective annotation_id="82">que</DiscourseConnective>, au cours du vote, <DiscourseConnective annotation_id="105">à</DiscourseConnective> la demande expresse de l'association des journalistes parlementaires, <DiscourseConnective annotation_id="177">pour</DiscourseConnective> chaque série de résultats, nous devons <Alignment alignment="200" annotation_id="221">
+          <DiscourseConnective annotation_id="221" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> expressément indiquer le nombre de voix <DiscourseConnective annotation_id="271">pour</DiscourseConnective> <DiscourseConnective annotation_id="276">et</DiscourseConnective> contre <DiscourseConnective annotation_id="286">et</DiscourseConnective> le nombre d'abstentions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="291" docOffset="3">
+      <en>We had wished to simplify things for you, <Alignment alignment="614" annotation_id="333">
+          <DiscourseConnective annotation_id="333" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is not possible.</en>
+      <fr>Nous aurions voulu simplifier les choses <DiscourseConnective annotation_id="355">pour</DiscourseConnective> vous, <Alignment alignment="0" annotation_id="366">
+          <DiscourseConnective annotation_id="366" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce n'est pas possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="357" docOffset="4">
+      <en>(For details of the outcome of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="395">Pour</DiscourseConnective> les résultats détaillés du vote: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

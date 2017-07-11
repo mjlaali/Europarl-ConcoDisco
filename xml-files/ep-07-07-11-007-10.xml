@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Community postal services (vote)</en>
+    <fr>Services postaux de la Communauté (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="37" docOffset="2">
+    <en>- Report: Ferber</en>
+    <fr>- Rapport Ferber</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="54" docOffset="3">
+    <en>- Before the vote on Amendment 64:</en>
+    <fr>- <DiscourseConnective annotation_id="64">Avant</DiscourseConnective> le vote sur l'amendement 64:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="89" id="119" name="Brian Simpson">
+    <ParallelChunk annotation_id="89" docOffset="4">
+      <en>Mr President, I should like you to check that the corresponding part of Amendment 64 is compatible with Amendment 62, which was adopted.</en>
+      <fr>(EN) Monsieur le Président, pourriez-vous vérifier <DiscourseConnective annotation_id="150">si</DiscourseConnective> la partie correspondante de l'amendement 64 est bien compatible avec l'amendement 62, qui a été adopté.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="226" id="120" name="President">
+    <ParallelChunk annotation_id="226" docOffset="5">
+      <en>That is exactly what we are going to do!</en>
+      <fr>C'est exactement ce que nous allons faire!</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

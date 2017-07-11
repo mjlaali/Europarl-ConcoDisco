@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Statute of the European Ombudsman (</en>
+    <fr>Statut du Médiateur européen (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+    <en>Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="34">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="56" id="083" name="Anneli Jäätteenmäki">
+    <ParallelChunk annotation_id="56" docOffset="3">
+      <en>rapporteur. - (FI) Mr President, could you please propose to Parliament the following procedure, on which the coordinators on the Committee on Constitutional Affairs were unanimous at their meeting of 31 March.</en>
+      <fr>rapporteur. - (FI) M. le Président, pourriez-vous s'il vous plaît proposer au Parlement la procédure suivante, qui a fait l'unanimité au sein de la commission des affaires constitutionnelles lors de sa réunion du 31 mars.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="267" docOffset="4">
+      <en>The vote now to take place should only relate to a draft decision, with the vote on a motion for a resolution postponed <Alignment alignment="415" annotation_id="387">
+          <DiscourseConnective annotation_id="387" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> the Commission has delivered its opinion <Alignment alignment="282546" annotation_id="434">
+          <DiscourseConnective annotation_id="434" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Council has given its approval.</en>
+      <fr>Le vote qui doit <DiscourseConnective annotation_id="288">maintenant</DiscourseConnective> avoir lieu ne devrait plus concerner que le projet de décision. Le vote sur le projet de résolution est lui reporté <Alignment alignment="839" annotation_id="415">
+          <DiscourseConnective annotation_id="415" sense="Temporal.Asynchronous.Precedence">jusqu'à ce que</DiscourseConnective>
+        </Alignment> la Commission ait rendu son avis <Alignment alignment="434" annotation_id="463">
+          <DiscourseConnective annotation_id="463" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que le Conseil ait donné son approbation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="474" docOffset="5">
+      <en>The President of Parliament should officially submit the text of the draft decision agreed by Parliament in the vote to the Commission and Council to examine, pursuant to Article 195 of the EC Treaty.</en>
+      <fr>Le président du Parlement devrait officiellement soumettre le texte du projet de décision voté par le Parlement <DiscourseConnective annotation_id="620">à</DiscourseConnective> l'examen de la Commission <DiscourseConnective annotation_id="648">et</DiscourseConnective> du Conseil, conformément <DiscourseConnective annotation_id="676">à</DiscourseConnective> l'article 195 du traité CE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="675" docOffset="6">
+      <en>Finally, he should request the Committee on Constitutional Affairs to make the necessary contact with the Council and the Commission and make a proposal to Parliament in good time on how to proceed in the matter.</en>
+      <fr>
+        <DiscourseConnective annotation_id="706">Enfin</DiscourseConnective>, il doit demander à la commission des affaires constitutionnelles d'établir les contacts nécessaires avec le Conseil <DiscourseConnective annotation_id="829">et</DiscourseConnective> la Commission <DiscourseConnective annotation_id="846">et</DiscourseConnective> de faire une proposition au Parlement <DiscourseConnective annotation_id="887">en</DiscourseConnective> temps voulu sur le modus operandi <DiscourseConnective annotation_id="924">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="888" docOffset="7">
+      <en>(Parliament approved the proposal on the voting procedure)</en>
+      <fr>(Le Parlement approuve la proposition sur la procédure de vote)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="013" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>
+        <Alignment alignment="22" annotation_id="8">
+          <DiscourseConnective annotation_id="8" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> moving on to the first item on the agenda, I would like to welcome a delegation from the Pan African Parliament, led by Her Excellency Mrs Getrude Mongella, President of the Pan-African Parliament, which is seated in the public gallery.</en>
+      <fr>
+        <Alignment alignment="8" annotation_id="22">
+          <DiscourseConnective annotation_id="22" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> passer au premier point <DiscourseConnective annotation_id="55">à</DiscourseConnective> l'ordre du jour, je tiens <DiscourseConnective annotation_id="83">à</DiscourseConnective> souhaiter la bienvenue à une délégation du parlement panafricain, conduite par Son Excellence Getrude Mongella, présidente du parlement panafricain, qui a pris place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="252" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="263" docOffset="3">
+      <en>Welcome, Madam President.</en>
+      <fr>Soyez la bienvenue, Madame la Présidente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="289" docOffset="4">
+      <en>Your delegation will take part in an exchange of views today with our Committee on Development and with the Delegation for relations with the Pan-African Parliament.</en>
+      <fr>Votre délégation participera tout à l'heure à un échange de vues avec notre commission du développement <DiscourseConnective annotation_id="444">et</DiscourseConnective> avec la délégation <DiscourseConnective annotation_id="466">pour</DiscourseConnective> les relations avec le parlement panafricain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="455" docOffset="5">
+      <en>You will <Alignment alignment="534" annotation_id="464">
+          <DiscourseConnective annotation_id="464" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> have meetings with representatives of the European Parliament's different services in order to help you to develop your Parliament's administrative structure and strengthen the relations between our two institutions.</en>
+      <fr>Vous rencontrerez <Alignment alignment="464" annotation_id="534">
+          <DiscourseConnective annotation_id="534" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des représentants des différents services du Parlement européen <DiscourseConnective annotation_id="608">pour</DiscourseConnective> vous aider <DiscourseConnective annotation_id="624">à</DiscourseConnective> construire la structure administrative de votre parlement <DiscourseConnective annotation_id="684">et</DiscourseConnective> pour renforcer les relations entre nos deux institutions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="686" docOffset="6">
+      <en>I wish you a happy and fruitful stay in Brussels.</en>
+      <fr>Je vous souhaite un agréable <DiscourseConnective annotation_id="774">et</DiscourseConnective> fructueux séjour <DiscourseConnective annotation_id="794">à</DiscourseConnective> Bruxelles.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

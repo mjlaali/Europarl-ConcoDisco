@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="150" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, <DiscourseConnective annotation_id="30" sense="Contingency.Condition">if</DiscourseConnective> you will allow me, I would like to point out that a group of guests have been in the gallery, a group of men and women who are known in my country as 'war children'.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, permettez-moi de vous signaler <DiscourseConnective annotation_id="76">qu'</DiscourseConnective>un groupe de personnes, que l'on appelle dans mon pays "les enfants de la guerre", vient de prendre place dans la tribune des visiteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="199" docOffset="2">
+      <en>They were children who, between 1936 and 1939, fled Spain, the fascist bombardments, who were evacuated <Alignment alignment="316" annotation_id="303">
+          <DiscourseConnective annotation_id="303" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> who found solidarity and care in families in Belgium and the United Kingdom.</en>
+      <fr>Entre 1936 <DiscourseConnective annotation_id="227">et</DiscourseConnective> 1939, ces enfants ont fui l'Espagne, les bombardements fascistes. Ils ont été évacués <Alignment alignment="181" annotation_id="316">
+          <DiscourseConnective annotation_id="316" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ont trouvé solidarité <DiscourseConnective annotation_id="341">et</DiscourseConnective> soins dans des familles <DiscourseConnective annotation_id="368">en</DiscourseConnective> Belgique <DiscourseConnective annotation_id="380">et</DiscourseConnective> au Royaume-Uni.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="384" docOffset="3">
+      <en>Today, with all of them over 75 years old, they have come to visit Parliament, to be amongst us, <DiscourseConnective annotation_id="481" sense="Expansion.Conjunction">and</DiscourseConnective> it is very important and very moving for us to pay tribute to them and, in particular, to pay tribute to the solidarity of the British and Belgian people, who took them in and provided them with the families that they had been denied in their own country.</en>
+      <fr>Aujourd'hui, ils ont tous plus de 75 ans et sont venus visiter le Parlement, <DiscourseConnective annotation_id="476">pour</DiscourseConnective> être parmi nous. Il est très important <DiscourseConnective annotation_id="520">et</DiscourseConnective> très émouvant de leur rendre hommage <DiscourseConnective annotation_id="560">et</DiscourseConnective>, <DiscourseConnective annotation_id="564">en particulier</DiscourseConnective>, de rendre hommage <DiscourseConnective annotation_id="598">à</DiscourseConnective> la solidarité des citoyens britanniques <DiscourseConnective annotation_id="640">et</DiscourseConnective> belges qui les ont accueillis <DiscourseConnective annotation_id="673">et</DiscourseConnective> leur ont donné la famille <DiscourseConnective annotation_id="702">qu'</DiscourseConnective>ils n'ont pu avoir dans leur pays.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

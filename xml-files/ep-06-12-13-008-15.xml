@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>15.</en>
+    <fr>15.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Russia-EU Summit (vote)</en>
+    <fr>Sommet Russie/Union européenne (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="28" docOffset="2">
+    <en>- Before the vote on Amendment 6:</en>
+    <fr>- <DiscourseConnective annotation_id="44">Avant</DiscourseConnective> le vote sur l'amendement 6</fr>
+  </ParallelChunk>
+<Speaker annotation_id="62" id="139" name="Konrad Szymański">
+    <ParallelChunk annotation_id="62" docOffset="3">
+      <en>Mr President, I wish to point out that Amendment 9, tabled by the PPE-DE Group, is not contradictory to my own Amendment 6 <Alignment alignment="233" annotation_id="185">
+          <DiscourseConnective annotation_id="185" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="96263" annotation_id="189">
+          <DiscourseConnective annotation_id="189" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> I should like to ask you to put both amendments to the vote separately.</en>
+      <fr>(EN) Monsieur le Président, je voudrais souligner <DiscourseConnective annotation_id="127">que</DiscourseConnective> l'amendement 9, déposé par le groupe PPE-DE, n'est pas en contradiction avec mon propre amendement 6, <Alignment alignment="185" annotation_id="233">
+          <DiscourseConnective annotation_id="233" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais <Alignment alignment="189" annotation_id="248">
+          <DiscourseConnective annotation_id="248" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> vous demander de soumettre ces deux amendements au vote séparément.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

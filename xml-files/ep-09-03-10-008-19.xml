@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>19.</en>
+    <fr>19.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Small Business Act (</en>
+    <fr>Small Business Act (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="25" docOffset="2">
+    <en>Before the vote on paragraph 8:</en>
+    <fr>- <DiscourseConnective annotation_id="27">Avant</DiscourseConnective> le vote sur le paragraphe 8:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="57" id="161" name="Alexander Alvaro">
+    <ParallelChunk annotation_id="57" docOffset="3">
+      <en>Mr President, I just want to point out - <Alignment alignment="309" annotation_id="98">
+          <DiscourseConnective annotation_id="98" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> hungry Mr Beazley made a point about the roll-call votes - that, on the following report, every roll-call vote was requested by the PPE-DE Group.</en>
+      <fr>(EN) Monsieur le Président, je veux juste signaler - <Alignment alignment="98" annotation_id="115">
+          <DiscourseConnective annotation_id="115" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> notre affamé M. Beazley a fait une <DiscourseConnective annotation_id="158">remarque</DiscourseConnective> au sujet des votes par appel nominal - <DiscourseConnective annotation_id="206">que</DiscourseConnective>, sur le rapport suivant, chacun des votes par appel nominal a été demandé par le groupe PPE-DE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="250" docOffset="4">
+      <en>So much for that one!</en>
+      <fr>Voilà ce qu'il en est <DiscourseConnective annotation_id="328">pour</DiscourseConnective> celui-là!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="272" id="162" name="President">
+    <ParallelChunk annotation_id="272" docOffset="5">
+      <en>
+        <Alignment alignment="343" annotation_id="272">
+          <DiscourseConnective annotation_id="272" sense="Expansion.Conjunction">And</DiscourseConnective>
+        </Alignment> Mr Beazley is a very devout member of the PPE-DE Group!</en>
+      <fr>
+        <Alignment alignment="272" annotation_id="343">
+          <DiscourseConnective annotation_id="343" sense="Expansion.Conjunction">Et</DiscourseConnective>
+        </Alignment> M. Beazley est un fervent membre du groupe PPE-DE!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="332" docOffset="6">
+      <en>(Laughter)</en>
+      <fr>(Rires)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="343" docOffset="7">
+      <en>That concludes the vote.</en>
+      <fr>Le vote est clos.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

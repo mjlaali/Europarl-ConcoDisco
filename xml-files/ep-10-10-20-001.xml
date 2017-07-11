@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="005" name="Edit Herczog">
+    <ParallelChunk annotation_id="23" docOffset="1">
+      <en>Mr President, yesterday, we had a discussion on the budget.</en>
+      <fr>(EN) Monsieur le Président, nous avons eu hier une discussion sur le budget.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="83" docOffset="2">
+      <en>It was clear during the debate that the report by the Committee on Industry, Research and Energy (ITRE) had not been received by the relevant services.</en>
+      <fr>Au cours du débat, il est apparu clairement <DiscourseConnective annotation_id="144">que</DiscourseConnective> les services concernés n'avaient pas reçu le rapport de la commission de l'industrie, de la recherche <DiscourseConnective annotation_id="250">et</DiscourseConnective> de l'énergie (ITRE).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="235" docOffset="3">
+      <en>We checked the issue.</en>
+      <fr>Nous avons vérifié le problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="257" docOffset="4">
+      <en>The report was completed and sent properly, so probably some mistakes occurred during the procedure.</en>
+      <fr>Ce rapport a été achevé <DiscourseConnective annotation_id="330">et</DiscourseConnective> envoyé correctement, et il y a <DiscourseConnective annotation_id="364">donc</DiscourseConnective> probablement eu une erreur au cours de la procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="358" docOffset="5">
+      <en>
+        <Alignment alignment="350484" annotation_id="358">
+          <DiscourseConnective annotation_id="358" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is not important to find who is responsible <Alignment alignment="787" annotation_id="414">
+          <DiscourseConnective annotation_id="414" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what happened exactly.</en>
+      <fr>
+        <Alignment alignment="569" annotation_id="422">
+          <DiscourseConnective annotation_id="422" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> l'important n'est pas de trouver qui est responsable <Alignment alignment="662" annotation_id="480">
+          <DiscourseConnective annotation_id="480" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce qui s'est passé exactement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="441" docOffset="6">
+      <en>What is most important is that we wish to be sure that our report, which was <DiscourseConnective annotation_id="518" sense="Expansion.Conjunction">also</DiscourseConnective> our base for the trialogue, <Alignment alignment="622" annotation_id="551">
+          <DiscourseConnective annotation_id="551" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> where the biggest difference lay <DiscourseConnective annotation_id="588" sense="Temporal.Synchrony">as</DiscourseConnective> compared with the Council paper, is sent to the Council official documents.</en>
+      <fr>Le plus important, c'est <DiscourseConnective annotation_id="539">que</DiscourseConnective> nous voulons être sûrs <DiscourseConnective annotation_id="566">que</DiscourseConnective> notre rapport, qui a servi de base <DiscourseConnective annotation_id="605">à</DiscourseConnective> notre trilogue <Alignment alignment="460" annotation_id="622">
+          <DiscourseConnective annotation_id="622" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui présentait les différences les plus importantes par rapport aux documents du Conseil, <DiscourseConnective annotation_id="715">soit</DiscourseConnective> envoyé aux documents officiels du Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="667" docOffset="7">
+      <en>I <Alignment alignment="709" annotation_id="669">
+          <DiscourseConnective annotation_id="669" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> brought it with me and deliver it to you, as well as to the Council.</en>
+      <fr>
+        <Alignment alignment="669" annotation_id="763">
+          <DiscourseConnective annotation_id="763" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> je l'ai amené avec moi, <DiscourseConnective annotation_id="802">et</DiscourseConnective> je vous le remets <DiscourseConnective annotation_id="823">ainsi</DiscourseConnective> qu'au Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="748" docOffset="8">
+      <en>We kindly ask you to make sure that the proposal by the ITRE Committee, which was adopted unanimously, will arrive at the Council in due time.</en>
+      <fr>Nous vous demandons de faire en sorte <DiscourseConnective annotation_id="882">que</DiscourseConnective> la proposition de la commission ITRE, qui a été adoptée à l'unanimité, parvienne en temps utile au Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="891" docOffset="9">
+      <en>Thank you very much for your support in this matter.</en>
+      <fr>Je vous remercie <DiscourseConnective annotation_id="1011">pour</DiscourseConnective> votre soutien dans ce dossier.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="944" id="006" name="President">
+    <ParallelChunk annotation_id="944" docOffset="10">
+      <en>We will do what you want.</en>
+      <fr>Nous allons faire ce que vous souhaitez.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="970" docOffset="11">
+      <en>It is great.</en>
+      <fr>C'est magnifique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="983" docOffset="12">
+      <en>The beginning of today's discussion is fantastic!</en>
+      <fr>La discussion d'aujourd'hui commence de façon fantastique!</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

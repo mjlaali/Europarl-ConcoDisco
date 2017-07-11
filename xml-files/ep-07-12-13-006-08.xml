@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>8.</en>
+    <fr>8.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>EU-China Summit - EU-China human rights dialogue (vote)</en>
+    <fr>Sommet UE/Chine - Dialogue droits de l'homme UE/Chine (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="59" docOffset="2">
+    <en>- Motion for a resolution</en>
+    <fr>- Proposition de résolution</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="85" docOffset="3">
+    <en>- After the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="94">Après</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="103" id="086" name="Toine Manders">
+    <ParallelChunk annotation_id="103" docOffset="4">
+      <en>(NL) Mr President, on a point of order under Rules 114 and 166, which Commissioner Mandelson will recognise: <Alignment alignment="522" annotation_id="212">
+          <DiscourseConnective annotation_id="212" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we are received in China, we use an official symbol, the flag.</en>
+      <fr>(NL) Monsieur le Président, une motion de procédure aux termes des articles 114 <DiscourseConnective annotation_id="189">et</DiscourseConnective> 166, <DiscourseConnective annotation_id="197">que</DiscourseConnective> le commissaire Mandelson reconnaîtra: <Alignment alignment="153" annotation_id="239">
+          <DiscourseConnective annotation_id="239" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous sommes reçus <DiscourseConnective annotation_id="265">en</DiscourseConnective> Chine, nous utilisons un symbole officiel, le drapeau.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="280" docOffset="5">
+      <en>Now this is being removed from the Treaty, <Alignment alignment="1315" annotation_id="323">
+          <DiscourseConnective annotation_id="323" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would call on all countries to follow Germany's lead and recognise this officially as a symbol once more, <DiscourseConnective annotation_id="435" sense="Contingency.Cause.Result">so that</DiscourseConnective> we can be received with an official symbol throughout the world.</en>
+      <fr>Il a été retiré du traité <Alignment alignment="0" annotation_id="349">
+          <DiscourseConnective annotation_id="349" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais enjoindre l'ensemble des États membres <DiscourseConnective annotation_id="403">à</DiscourseConnective> suivre l'exemple de l'Allemagne en rendant au drapeau son rang de symbole officiel partout où nous sommes reçus dans le monde.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="508" id="087" name="President">
+    <ParallelChunk annotation_id="508" docOffset="6">
+      <en>This will all be passed on to the competent authorities.</en>
+      <fr>Tout cela sera transmis aux autorités compétentes.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

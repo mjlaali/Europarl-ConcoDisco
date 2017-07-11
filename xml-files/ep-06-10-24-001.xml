@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 9.05 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 9h05)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="61" id="004" name="President">
+    <ParallelChunk annotation_id="61" docOffset="2">
+      <en>You wish to take the floor, Mr Carnero González.</en>
+      <fr>Monsieur Carnero González, vous avez demandé la parole.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="110" docOffset="3">
+      <en>I imagine that it is for a point of order.</en>
+      <fr>Je suppose <DiscourseConnective annotation_id="121">que</DiscourseConnective> c'est <DiscourseConnective annotation_id="131">pour</DiscourseConnective> une motion de procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="153" docOffset="4">
+      <en>On the basis of which Rule do you wish to speak?</en>
+      <fr>Quel article du règlement invoquez-vous?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="202" id="005" name="Carlos Carnero González">
+    <ParallelChunk annotation_id="202" docOffset="5">
+      <en>(ES) Yes, Mr President, I simply wished to mention the fact that the media is reporting that a European citizen, of Spanish nationality, Mr Emilio Morenatti, has been kidnapped in Gaza this morning by a group of armed men.</en>
+      <fr>(ES) Oui, Monsieur le Président, je voudrais <DiscourseConnective annotation_id="247">simplement</DiscourseConnective> signaler le fait <DiscourseConnective annotation_id="275">que</DiscourseConnective> les médias indiquent <DiscourseConnective annotation_id="300">qu'</DiscourseConnective>un citoyen européen, de nationalité espagnole, M. Emilio Morenatti, a été kidnappé ce matin par un groupe d'hommes armés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="425" docOffset="6">
+      <en>I would ask that you call upon the Presidency of the Council and the Commission to do everything they can ...</en>
+      <fr>Je voudrais vous demander d'intervenir auprès de la présidence du Conseil <DiscourseConnective annotation_id="499">et</DiscourseConnective> de la Commission <DiscourseConnective annotation_id="519">pour qu'</DiscourseConnective>elles fassent tout ce qui est en leur pouvoir...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="535" docOffset="7">
+      <en>(The President cut off the speaker)</en>
+      <fr>(Le Président retire la parole à l'orateur)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="571" id="006" name="President">
+    <ParallelChunk annotation_id="571" docOffset="8">
+      <en>That is not a point of order.</en>
+      <fr>Il ne <DiscourseConnective annotation_id="626">s'</DiscourseConnective>agit pas d'une motion de procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="601" docOffset="9">
+      <en>I understand your concern, <Alignment alignment="695" annotation_id="628">
+          <DiscourseConnective annotation_id="628" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the Rules of Procedure must be respected.</en>
+      <fr>Je comprends votre inquiétude, <Alignment alignment="628" annotation_id="695">
+          <DiscourseConnective annotation_id="695" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le règlement doit être respecté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="674" docOffset="10">
+      <en>I take good note of what you say, thank you.</en>
+      <fr>Je prends bonne note de votre intervention, merci.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

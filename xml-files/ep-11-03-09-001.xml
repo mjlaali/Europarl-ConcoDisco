@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="004" name="President">
+    <ParallelChunk annotation_id="23" docOffset="1">
+      <en>Welcome to the Vice-President of the Commission/High Representative of the Union for Foreign Affairs and Security Policy.</en>
+      <fr>Je souhaite la bienvenue <DiscourseConnective annotation_id="48">à</DiscourseConnective> la vice-présidente de la Commission <DiscourseConnective annotation_id="86">et</DiscourseConnective> haute représentante de l'Union <DiscourseConnective annotation_id="120">pour</DiscourseConnective> les affaires étrangères <DiscourseConnective annotation_id="149">et</DiscourseConnective> la politique de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="145" docOffset="2">
+      <en>Ladies and gentlemen, we are making an early start today <Alignment alignment="343" annotation_id="202">
+          <DiscourseConnective annotation_id="202" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we have an important debate.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="187">et</DiscourseConnective> Messieurs, nous commençons tôt aujourd'hui, <Alignment alignment="202" annotation_id="234">
+          <DiscourseConnective annotation_id="234" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous allons avoir un débat important.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

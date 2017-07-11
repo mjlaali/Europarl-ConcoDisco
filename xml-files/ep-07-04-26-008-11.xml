@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>11.</en>
+    <fr>11.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Homophobia in Europe (vote)</en>
+    <fr>Homophobie <DiscourseConnective annotation_id="15">en</DiscourseConnective> Europe (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="32" docOffset="2">
+    <en>- Motion for a resolution:</en>
+    <fr>- Proposition de résolution</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="59" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="62">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="78" id="082" name="Zbigniew Zaleski">
+    <ParallelChunk annotation_id="78" docOffset="4">
+      <en>(DE) Mr President, <Alignment alignment="105" annotation_id="97">
+          <DiscourseConnective annotation_id="97" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we vote, I would like to make a brief observation.</en>
+      <fr>(DE) Monsieur le Président, <Alignment alignment="97" annotation_id="105">
+          <DiscourseConnective annotation_id="105" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> procéder au vote, je souhaiterais faire une brève <DiscourseConnective annotation_id="164">remarque</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="155" docOffset="5">
+      <en>In terms of semantics, the content of the resolution does not correspond to the concept of homophobia.</en>
+      <fr>Sur le plan sémantique, le contenu de la résolution ne correspond pas au concept d'homophobie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="258" docOffset="6">
+      <en>The word in the title has been incorrectly used.</en>
+      <fr>Ce terme a été erronément utilisé dans le titre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="307" docOffset="7">
+      <en>- Before the vote on paragraph 12a:</en>
+      <fr>- <DiscourseConnective annotation_id="320">Avant</DiscourseConnective> le vote sur l'amendement 12 bis:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="343" id="084" name="Kathalijne Maria Buitenweg">
+    <ParallelChunk annotation_id="343" docOffset="8">
+      <en>Mr President, following the debate on the Commission statement, we would like to update the motion for a resolution by adding a new paragraph 12a which would read: 'Welcomes the fact that the European Commission has started the procedure for a new directive that would enlarge the scope of Directive 2000/78/EC on equal treatment in employment and social occupation to include areas of discrimination outside the labour market;'.</en>
+      <fr>(EN) Monsieur le Président, suite au débat sur la déclaration de la Commission, nous souhaiterions actualiser la proposition de résolution <DiscourseConnective annotation_id="498">en</DiscourseConnective> y ajoutant un nouveau paragraphe 12a qui dirait ceci: "Salue le fait <DiscourseConnective annotation_id="570">que</DiscourseConnective> la Commission européenne a entamé le processus d'élaboration d'une nouvelle directive qui étendrait le champ d'application de la directive 2000/78/CE <DiscourseConnective annotation_id="724">en</DiscourseConnective> faveur de l'égalité de traitement <DiscourseConnective annotation_id="761">en</DiscourseConnective> matière d'emploi <DiscourseConnective annotation_id="781">et</DiscourseConnective> de travail, <DiscourseConnective annotation_id="796">pour</DiscourseConnective> inclure des types de discrimination observés en dehors du marché du travail;".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="773" docOffset="9">
+      <en>(The oral amendment was not accepted)</en>
+      <fr>(L'amendement oral est rejeté.)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

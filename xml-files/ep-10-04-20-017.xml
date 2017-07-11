@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Closure of the sitting</en>
+    <fr>Levée de la séance</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="425" name="President">
+    <ParallelChunk annotation_id="23" docOffset="1">
+      <en>The next sitting will take place tomorrow, 21 April.</en>
+      <fr>La prochaine séance aura lieu demain, le 21 avril.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="76" docOffset="2">
+      <en>The debates will be held from 09.00 to 13.00 and from 15.00 to 19.00.</en>
+      <fr>Les débats se dérouleront de 9 heures <DiscourseConnective annotation_id="108">à</DiscourseConnective> 13 heures <DiscourseConnective annotation_id="120">et</DiscourseConnective> de 15 heures <DiscourseConnective annotation_id="136">à</DiscourseConnective> 19 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="146" docOffset="3">
+      <en>I do not know <Alignment alignment="475" annotation_id="160">
+          <DiscourseConnective annotation_id="160" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> everyone is aware that tomorrow, the sitting will be closed at 19.00.</en>
+      <fr>Je ne sais pas <Alignment alignment="80" annotation_id="164">
+          <DiscourseConnective annotation_id="164" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> tout le monde est informé de ce <DiscourseConnective annotation_id="199">que</DiscourseConnective>, demain, la séance sera levée <DiscourseConnective annotation_id="233">à</DiscourseConnective> 19 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="233" docOffset="4">
+      <en>(The sitting was closed at 23.25)</en>
+      <fr>(La séance est levée à 23 h 25)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

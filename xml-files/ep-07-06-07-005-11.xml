@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>11.</en>
+    <fr>11.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Consultation of the Visa Information System (VIS) (vote)</en>
+    <fr>Accès en consultation au système d'information sur les visas (VIS) (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="61" docOffset="2">
+    <en>- Report: Ludford</en>
+    <fr>- Rapport Ludford</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="79" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="98">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="98" id="084" name="Avril Doyle">
+    <ParallelChunk annotation_id="98" docOffset="4">
+      <en>Mr President, I just want to point out that the Irish Members of the PPE-DE Group will not be participating, <Alignment alignment="240" annotation_id="207">
+          <DiscourseConnective annotation_id="207" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Ireland unfortunately is not part of Schengen.</en>
+      <fr>(EN) Monsieur le Président, je veux seulement souligner <DiscourseConnective annotation_id="168">que</DiscourseConnective> les membres irlandais du groupe PPE-DE ne participeront pas au vote <Alignment alignment="207" annotation_id="240">
+          <DiscourseConnective annotation_id="240" sense="Temporal.Synchrony">puisque</DiscourseConnective>
+        </Alignment> l'Irlande ne fait <DiscourseConnective annotation_id="266">malheureusement</DiscourseConnective> pas partie de Schengen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="257" docOffset="5">
+      <en>It is the position we take in the Council, <Alignment alignment="115308" annotation_id="300">
+          <DiscourseConnective annotation_id="300" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> we will take it here as well.</en>
+      <fr>C'est la position que nous adoptons au Conseil, <Alignment alignment="300" annotation_id="354">
+          <DiscourseConnective annotation_id="354" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> nous l'adoptons dans le cas présent <DiscourseConnective annotation_id="395">également</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

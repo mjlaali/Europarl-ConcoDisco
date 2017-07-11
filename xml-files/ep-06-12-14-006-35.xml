@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>35.</en>
+    <fr>35.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>A European strategy for sustainable, competitive and secure energy (vote)</en>
+    <fr>Stratégie européenne <DiscourseConnective annotation_id="25">pour</DiscourseConnective> une énergie sûre, compétitive <DiscourseConnective annotation_id="60">et</DiscourseConnective> durable - Livre vert (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="78" docOffset="2">
+    <en>Before the vote on Amendment 10:</en>
+    <fr>- <DiscourseConnective annotation_id="93">Avant</DiscourseConnective> le vote sur l'amendement 10</fr>
+  </ParallelChunk>
+<Speaker annotation_id="111" id="130" name="Claude Turmes">
+    <ParallelChunk annotation_id="111" docOffset="3">
+      <en>Mr President, in this amendment, one phrase was deleted from the original text which I believe is important - it is supported by the Socialists and the Liberals - <Alignment alignment="312" annotation_id="274">
+          <DiscourseConnective annotation_id="274" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which reads <Alignment alignment="325" annotation_id="290">
+          <DiscourseConnective annotation_id="290" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> follows: 'strengthening laws with regard to competition policies'.</en>
+      <fr>(EN) Monsieur le Président, dans cet amendement, une phrase a été supprimée du texte original. Elle était selon moi importante - elle est soutenue par les socialistes <DiscourseConnective annotation_id="294">et</DiscourseConnective> les libéraux - <Alignment alignment="274" annotation_id="312">
+          <DiscourseConnective annotation_id="312" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> se lisait <Alignment alignment="290" annotation_id="325">
+          <DiscourseConnective annotation_id="325" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> suit: "le renforcement des législations concernant la politique de concurrence".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="360" docOffset="4">
+      <en>We should add that.</en>
+      <fr>Nous devrions l'ajouter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="380" docOffset="5">
+      <en>It <Alignment alignment="444" annotation_id="383">
+          <DiscourseConnective annotation_id="383" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> makes more sense to vote for the whole paragraph.</en>
+      <fr>Il est <Alignment alignment="383" annotation_id="444">
+          <DiscourseConnective annotation_id="444" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> plus logique de voter sur l'ensemble du paragraphe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="438" docOffset="6">
+      <en>(The oral amendment was not accepted)</en>
+      <fr>(L'amendement oral est rejeté)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

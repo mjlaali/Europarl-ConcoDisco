@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Resumption of the session</en>
+    <fr>Reprise de la session</fr>
+  </ParallelChunk>
+<Speaker annotation_id="26" id="999" name="President">
+    <ParallelChunk annotation_id="26" docOffset="1">
+      <en>I declare resumed the session of the European Parliament adjourned on Thursday 17 January 2008.</en>
+      <fr>Je déclare la reprise de la session du Parlement européen suspendue jeudi 17 janvier 2008..</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="122" docOffset="2">
+      <en>The sitting cannot begin until 12.30 p.m., <Alignment alignment="154" annotation_id="165">
+          <DiscourseConnective annotation_id="165" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the President of the Commission is unable to be present any earlier.</en>
+      <fr>La séance ne peut débuter <DiscourseConnective annotation_id="140">avant</DiscourseConnective> 12 h 30 <Alignment alignment="165" annotation_id="154">
+          <DiscourseConnective annotation_id="154" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> le Président de la Commission ne peut être présent plus tôt.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="242" docOffset="3">
+      <en>It is <Alignment alignment="242" annotation_id="248">
+          <DiscourseConnective annotation_id="248" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> scheduled to end at 2 p.m.</en>
+      <fr>Elle est <Alignment alignment="248" annotation_id="242">
+          <DiscourseConnective annotation_id="242" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> programmée <DiscourseConnective annotation_id="262">pour</DiscourseConnective> être clôturée <DiscourseConnective annotation_id="281">à</DiscourseConnective> 14 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="285" docOffset="4">
+      <en>(The sitting was suspended at 12.05 p.m. and resumed at 12.30 p.m.)</en>
+      <fr>(La séance est suspendue à 12 h 05 <DiscourseConnective annotation_id="329">et</DiscourseConnective> reprend <DiscourseConnective annotation_id="340">à</DiscourseConnective> 12 h 30).</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

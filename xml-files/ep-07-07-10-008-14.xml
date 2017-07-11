@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>14.</en>
+    <fr>14.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Labour force sample survey (vote)</en>
+    <fr>Enquête par sondage sur les forces de travail dans la Communauté (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="38" docOffset="2">
+    <en>Report: Jan Andersson</en>
+    <fr>- Rapport Jan Andersson</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="60" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="102">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="79" id="127" name="Jan Andersson ">
+    <ParallelChunk annotation_id="79" docOffset="4">
+      <en>rapporteur. - (SV) I just want to direct Members' attention to the fact that Amendments 1 to 3 have been withdrawn in order to facilitate an agreement with the Council at first reading.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="129">simplement</DiscourseConnective> attirer l'attention des députés sur le fait <DiscourseConnective annotation_id="184">que</DiscourseConnective> les amendements 1 <DiscourseConnective annotation_id="206">à</DiscourseConnective> 3 ont été retirés <DiscourseConnective annotation_id="226">afin de</DiscourseConnective> faciliter un accord avec le Conseil <DiscourseConnective annotation_id="270">en</DiscourseConnective> première lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="265" docOffset="5">
+      <en>Members of the committee have been informed of this measure.</en>
+      <fr>Les membres de la commission ont été informés de cette mesure.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="326" id="128" name="President">
+    <ParallelChunk annotation_id="326" docOffset="6">
+      <en>I <Alignment alignment="365" annotation_id="328">
+          <DiscourseConnective annotation_id="328" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> move straight to the single vote.</en>
+      <fr>Je procède <Alignment alignment="328" annotation_id="365">
+          <DiscourseConnective annotation_id="365" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> immédiatement au vote individuel.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

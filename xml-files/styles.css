@@ -1,0 +1,17 @@
+.blank_row
+{
+    height: 10px !important; /* Overwrite any previous rules */
+    background-color: #9acd32;
+}
+
+.supsub {
+    display: inline-block;
+}
+
+.supsub sup,
+.supsub sub {
+    position: relative;
+    display: block;
+    font-size: .5em;
+    line-height: 1.2;
+}

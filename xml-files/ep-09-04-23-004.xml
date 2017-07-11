@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Patient safety (debate)</en>
+    <fr>Sécurité des patients (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="24" id="076" name="President">
+    <ParallelChunk annotation_id="24" docOffset="1">
+      <en>The next item is the report by Mrs Sartori, on behalf of the Committee on the Environment, Public Health and Food Safety, on the proposal for a Council recommendation on patient safety, including the prevention and control of healthcare associated infections - C6-0032/2009 -.</en>
+      <fr>L'ordre du jour appelle le rapport de Mme Sartori, au nom de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="146">et</DiscourseConnective> de la sécurité alimentaire, sur la proposition de recommandation du Conseil relative à la sécurité des patients, y compris la prévention des infections associées aux soins <DiscourseConnective annotation_id="321">et</DiscourseConnective> la lutte contre celles-ci - C6-0032/2009 -.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="301" docOffset="2">
+      <en>The rapporteur cannot be here and will be replaced in the initial introduction by Mrs Grossetête.</en>
+      <fr>La rapporteure n'a pu être présente <DiscourseConnective annotation_id="404">et</DiscourseConnective> sera remplacée <DiscourseConnective annotation_id="422">pour</DiscourseConnective> l'introduction initiale par Mme Grossetête.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="399" id="077" language="FR" name="Françoise Grossetête">
+    <ParallelChunk annotation_id="399" docOffset="3">
+      <en>Mr President, yes, I am replacing Mrs Sartori, who is <DiscourseConnective annotation_id="453" sense="Expansion.Conjunction">in fact</DiscourseConnective> detained in Italy, <Alignment alignment="592" annotation_id="480">
+          <DiscourseConnective annotation_id="480" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I pass on her full apologies <Alignment alignment="13456" annotation_id="513">
+          <DiscourseConnective annotation_id="513" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> she was particularly keen to be present here today.</en>
+      <fr>rapporteure suppléante. - Monsieur le Président, oui, je remplace Mme Sartori qui, effectivement, est retenue <DiscourseConnective annotation_id="581">en</DiscourseConnective> Italie, <Alignment alignment="480" annotation_id="592">
+          <DiscourseConnective annotation_id="592" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est vrai que je vous adresse tous ses regrets <Alignment alignment="513" annotation_id="643">
+          <DiscourseConnective annotation_id="643" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle aurait particulièrement aimé être présente aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="573" docOffset="4">
+      <en>We are going to speak mainly about medical procedures <Alignment alignment="21270" annotation_id="627">
+          <DiscourseConnective annotation_id="627" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, sometimes, they can have harmful consequences for patients' health, whether because of the undesirable effects of medicines, because of medical error, or because of infections contracted in the place of medication.</en>
+      <fr>Les actes médicaux, nous allons <DiscourseConnective annotation_id="745">en</DiscourseConnective> parler <DiscourseConnective annotation_id="755">surtout</DiscourseConnective> <Alignment alignment="627" annotation_id="763">
+          <DiscourseConnective annotation_id="763" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, parfois, ils peuvent avoir des conséquences préjudiciables <DiscourseConnective annotation_id="833">pour</DiscourseConnective> la santé des patients, <DiscourseConnective annotation_id="861">soit</DiscourseConnective> en raison d'effets indésirables des médicaments, soit par erreur médicale, <DiscourseConnective annotation_id="941">soit</DiscourseConnective> du fait d'infections contractées dans les lieux de médication.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="851" docOffset="5">
+      <en>Of these risks, we can mention more particularly nosocomial infections, which affect one in every 20 hospital patients, <Alignment alignment="1141" annotation_id="971">
+          <DiscourseConnective annotation_id="971" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment> 4 100 000 people a year.</en>
+      <fr>Parmi ces risques, on peut citer <DiscourseConnective annotation_id="1042">plus particulièrement</DiscourseConnective> les infections nosocomiales, qui affectent un patient hospitalisé sur vingt, <Alignment alignment="971" annotation_id="1141">
+          <DiscourseConnective annotation_id="1141" sense="Expansion.Restatement">soit</DiscourseConnective>
+        </Alignment> 4 100 000 par an.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1011" docOffset="6">
+      <en>The European Commission figures on this issue are, <Alignment alignment="1223" annotation_id="1062">
+          <DiscourseConnective annotation_id="1062" sense="Expansion.Conjunction">moreover</DiscourseConnective>
+        </Alignment>, very worrying.</en>
+      <fr>Les chiffres de la Commission européenne sur ce sujet sont <Alignment alignment="1062" annotation_id="1223">
+          <DiscourseConnective annotation_id="1223" sense="Expansion.Conjunction">d'ailleurs</DiscourseConnective>
+        </Alignment> très préoccupants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1087" docOffset="7">
+      <en>Adverse events occur among 8% to 12% of hospital patients in the Member States of the European Union.</en>
+      <fr>Les événements indésirables surviennent chez 8 % <DiscourseConnective annotation_id="1302">à</DiscourseConnective> 12 % des patients hospitalisés dans les États membres de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1189" docOffset="8">
+      <en>This gives an annual number of between almost 7 million and 15 million hospital patients, to which can be added the some 37 million patients who call on primary healthcare.</en>
+      <fr>Ceci se traduit en un nombre annuel compris entre près de 7 millions <DiscourseConnective annotation_id="1450">et</DiscourseConnective> 15 millions de patients hospitalisés, auxquels <DiscourseConnective annotation_id="1500">s'</DiscourseConnective>ajoutent les quelque 37 millions de patients qui font appel aux soins de santé primaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1362" docOffset="9">
+      <en>Nosocomial infections alone affect on average one in every 20 hospital patients, making a total of over 4 million patients a year.</en>
+      <fr>Les seules infections nosocomiales affectent <DiscourseConnective annotation_id="1637">en</DiscourseConnective> moyenne un patient hospitalisé sur vingt, <DiscourseConnective annotation_id="1682">pour</DiscourseConnective> un <DiscourseConnective annotation_id="1690">total</DiscourseConnective> <DiscourseConnective annotation_id="1696">de plus</DiscourseConnective> de 4 millions de patients par an.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1493" docOffset="10">
+      <en>In total, every year, nosocomial infections cause the deaths of around 37 000 people in Europe.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1738">Au total</DiscourseConnective>, chaque année, les infections nosocomiales causent le décès d'environ 37 000 personnes <DiscourseConnective annotation_id="1834">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1589" docOffset="11">
+      <en>In order to meet the objective of reducing these infections by 900 000 cases a year by 2015 - <DiscourseConnective annotation_id="1683" sense="Expansion.Restatement">in other words</DiscourseConnective> a 20% reduction - the Member States and the European institutions are being called on to introduce the necessary measures.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1845">Pour</DiscourseConnective> arriver, d'ici à 2015, <DiscourseConnective annotation_id="1873">à</DiscourseConnective> l'objectif de réduire ces infections de 900 000 cas par an, c'est-à-dire une réduction de 20 %, les États membres <DiscourseConnective annotation_id="1989">et</DiscourseConnective> les institutions européennes sont appelés à mettre en place les instruments nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1821" docOffset="12">
+      <en>The report recommends <DiscourseConnective annotation_id="1843" sense="Expansion.Restatement">in particular</DiscourseConnective>: promoting the education and training of health staff and paramedical staff, with particular attention being paid to nosocomial infections and the resistance to antivirals of the viruses that cause them; improving knowledge of this problem amongst patients by asking the Commission to draw up a document for patients on the basis of a handbook for the prevention of nosocomial infections produced by the World Health Organization - the WHO - in 2003; supporting research in this area, with particular attention being paid to new technologies, nanotechnologies and nanomaterials; and increasing the presence of nurses and specialist infection control nurses.</en>
+      <fr>Le rapport préconise notamment: de favoriser l'éducation et la formation du personnel de santé et du personnel paramédical, avec une attention particulière portée aux infections nosocomiales et à la résistance aux antiviraux des virus qui les causent; d'améliorer la connaissance de ce problème parmi les patients en demandant à la Commission d'élaborer un document à l'attention des patients sur la base d'un guide pratique pour la prévention des infections nosocomiales qui a été élaboré par l'Organisation mondiale de la santé - l'OMS - en 2003; de soutenir la recherche dans ce domaine avec une attention particulière aux nouvelles technologies, aux nanotechnologies, aux nanomatériaux; de renforcer la présence d'infirmiers et infirmières spécialisés dans les contrôles des infections.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2515" docOffset="13">
+      <en>Finally, it is important, <Alignment alignment="12457" annotation_id="2541">
+          <DiscourseConnective annotation_id="2541" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the text emphasises - and Mrs Sartori has been very insistent on this point - to improve patient training on the issue.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2872">Enfin</DiscourseConnective>, il est important, <Alignment alignment="2541" annotation_id="2897">
+          <DiscourseConnective annotation_id="2897" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le souligne le texte, <DiscourseConnective annotation_id="2925">et</DiscourseConnective> Mme Sartori a beaucoup insisté <DiscourseConnective annotation_id="2959">là-dessus</DiscourseConnective>, d'améliorer la formation des patients sur un tel sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2664" docOffset="14">
+      <en>It is imperative that the Commission be asked to draw up a patient-oriented document for the prevention of nosocomial infections <Alignment alignment="27851" annotation_id="2793">
+          <DiscourseConnective annotation_id="2793" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it be presented to Parliament <Alignment alignment="28040" annotation_id="2832">
+          <DiscourseConnective annotation_id="2832" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Council.</en>
+      <fr>Il est impératif d'inviter la Commission <DiscourseConnective annotation_id="3067">à</DiscourseConnective> élaborer un document <DiscourseConnective annotation_id="3090">pour</DiscourseConnective> la prévention de ces infections nosocomiales à l'usage des patients <Alignment alignment="3156" annotation_id="3163">
+          <DiscourseConnective annotation_id="3163" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3166">à</DiscourseConnective> le présenter au Parlement <Alignment alignment="2832" annotation_id="3194">
+          <DiscourseConnective annotation_id="3194" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> au Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2849" docOffset="15">
+      <en>The Commission should <Alignment alignment="3224" annotation_id="2871">
+          <DiscourseConnective annotation_id="2871" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> make provision for three-yearly monitoring of the progress achieved in this area by the Member States and by the European Union.</en>
+      <fr>Un suivi devra <Alignment alignment="2871" annotation_id="3224">
+          <DiscourseConnective annotation_id="3224" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> être mis en œuvre par la Commission tous les trois ans, au regard des progrès accomplis par les États membres <DiscourseConnective annotation_id="3340">et</DiscourseConnective> par l'Union européenne dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3005" docOffset="16">
+      <en>A survey carried out in France, <Alignment alignment="20847" annotation_id="3037">
+          <DiscourseConnective annotation_id="3037" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, shows that 83% of the people questioned have heard of nosocomial infections, <Alignment alignment="20013" annotation_id="3127">
+          <DiscourseConnective annotation_id="3127" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that these risks are the main source of concern for French people <DiscourseConnective annotation_id="3197" sense="Temporal.Synchrony">when</DiscourseConnective> being admitted to hospital.</en>
+      <fr>Une enquête réalisée <Alignment alignment="3037" annotation_id="3404">
+          <DiscourseConnective annotation_id="3404" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3416">en</DiscourseConnective> France montre <DiscourseConnective annotation_id="3433">que</DiscourseConnective> 83 % des personnes interrogées ont entendu parler des infections nosocomiales, <Alignment alignment="3127" annotation_id="3516">
+          <DiscourseConnective annotation_id="3516" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3519">que</DiscourseConnective> ces risques constituent la source d'inquiétude première des Français dans le cadre d'une hospitalisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3230" docOffset="17">
+      <en>
+        <Alignment alignment="10040" annotation_id="3230">
+          <Alignment alignment="3629" annotation_id="3230">
+            <DiscourseConnective annotation_id="3230" sense="Comparison.Contrast">On the other hand</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the general public does not feel it is properly informed of the causes and the consequences of nosocomial infections.</en>
+      <fr>
+        <Alignment alignment="16028" annotation_id="3629">
+          <Alignment alignment="3" annotation_id="3629">
+            <DiscourseConnective annotation_id="3629" sense="Comparison.Contrast">En revanche</DiscourseConnective>
+          </Alignment>
+        </Alignment>, le grand public ne s'estime pas correctement informé sur les causes <DiscourseConnective annotation_id="3710">et</DiscourseConnective> les conséquences des infections nosocomiales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3367" docOffset="18">
+      <en>In the next few years, the effort to prevent nosocomial infections must lay greater emphasis on information for health professionals and for the population as a whole.</en>
+      <fr>L'effort en matière de lutte contre les infections nosocomiales devra, dans les années à venir, mettre davantage l'accent sur l'information des professionnels de santé, <DiscourseConnective annotation_id="3928">comme</DiscourseConnective> de la population dans son ensemble.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3535" id="078" name="Daniela Filipiová">
+    <ParallelChunk annotation_id="3535" docOffset="19">
+      <en>President-in-Office of the Council. - (CS) Ladies and gentlemen, the area of patient safety and healthcare quality is one of the main priorities of the Czech Presidency in the area of public health.</en>
+      <fr>présidente <DiscourseConnective annotation_id="3981">en</DiscourseConnective> exercice du Conseil. - (CS) Mesdames <DiscourseConnective annotation_id="4021">et</DiscourseConnective> Messieurs, le domaine de la sécurité des patients <DiscourseConnective annotation_id="4074">et</DiscourseConnective> de la qualité des soins de santé constitue l'une des priorités de la présidence tchèque <DiscourseConnective annotation_id="4165">en</DiscourseConnective> matière de santé publique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3734" docOffset="20">
+      <en>We are aware of the importance of continually improving patient safety and related improvements in healthcare quality in relation to cross-border healthcare.</en>
+      <fr>Nous sommes conscients de l'importance d'une amélioration permanente de la sécurité des patients <DiscourseConnective annotation_id="4292">et</DiscourseConnective> des améliorations connexes de la qualité des soins de santé dans le contexte des soins de santé transfrontaliers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3892" docOffset="21">
+      <en>The main aim of the Council's draft proposal on patient safety and the quality of health care, including the prevention and control of hospital-acquired infections, is to define an integrated approach under which patients can transfer safely to high quality health care centres <Alignment alignment="23052" annotation_id="4170">
+          <DiscourseConnective annotation_id="4170" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> where all factors having an impact on this will be taken into account.</en>
+      <fr>L'objectif principal du projet de proposition du Conseil relatif à la sécurité des patients <DiscourseConnective annotation_id="4501">et</DiscourseConnective> à la qualité des soins de santé, y compris la prévention <DiscourseConnective annotation_id="4561">et</DiscourseConnective> le contrôle des infections hospitalières, consiste <DiscourseConnective annotation_id="4615">à</DiscourseConnective> définir une approche intégrée grâce à laquelle les patients peuvent être transférés en toute sécurité vers des centres de soins de santé de haute qualité <Alignment alignment="4170" annotation_id="4771">
+          <DiscourseConnective annotation_id="4771" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui permettra de prendre en compte tous les facteurs ayant un impact sur cet aspect.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4245" docOffset="22">
+      <en>This initiative arose based on findings of an alarming growth in the occurrence of adverse events throughout Europe, with hospital-acquired infections being among the most frequently-occurring adverse events.</en>
+      <fr>Cette initiative a été prise à la suite du constat d'une augmentation alarmante du nombre d'événements indésirables <DiscourseConnective annotation_id="4975">en</DiscourseConnective> Europe, les infections hospitalières étant l'un des événements indésirables les plus fréquents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4454" docOffset="23">
+      <en>This is a major challenge which is connected with the increasing expectations of the public in this area, the ageing population in Europe and the constant advances in medicine and medical science generally.</en>
+      <fr>Il <DiscourseConnective annotation_id="5077">s'</DiscourseConnective>agit d'un défi majeur qui découle des attentes croissantes du public dans ce domaine, du vieillissement de la population européenne <DiscourseConnective annotation_id="5211">ainsi</DiscourseConnective> que des avancées constantes de la médecine <DiscourseConnective annotation_id="5260">et</DiscourseConnective> des sciences médicales en général.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4661" docOffset="24">
+      <en>Hospital acquired infections are <Alignment alignment="37920" annotation_id="4694">
+          <DiscourseConnective annotation_id="4694" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> attracting ever more attention from the media and politicians.</en>
+      <fr>De plus <DiscourseConnective annotation_id="5306">en plus</DiscourseConnective> <Alignment alignment="4694" annotation_id="5314">
+          <DiscourseConnective annotation_id="5314" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment>, les infections hospitalières font l'objet de l'attention des médias <DiscourseConnective annotation_id="5393">et</DiscourseConnective> des responsables politiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4762" docOffset="25">
+      <en>These were the reasons behind the decision of the Czech Presidency to organise the ministerial conference which took place in Prague on April 15-16 under the banner of 'Bacterial Threats to Patient Safety in Europe'.</en>
+      <fr>Telles ont été les raisons qui ont conduit la présidence tchèque <DiscourseConnective annotation_id="5490">à</DiscourseConnective> décider la tenue de la conférence ministérielle qui a eu lieu <DiscourseConnective annotation_id="5554">à</DiscourseConnective> Prague les 15 <DiscourseConnective annotation_id="5570">et</DiscourseConnective> 16 avril sous le thème "La menace microbienne <DiscourseConnective annotation_id="5619">pour</DiscourseConnective> la sécurité des patients <DiscourseConnective annotation_id="5649">en</DiscourseConnective> Europe".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4979" docOffset="26">
+      <en>It focused especially on hospital antibiotic programmes, the influence of health care system parameters on the occurrence of antibiotic resistance and hospital-acquired infections and also management and responsibilities in this area.</en>
+      <fr>Cette conférence s'est <DiscourseConnective annotation_id="5684">notamment</DiscourseConnective> intéressée aux programmes antibiotiques hospitaliers, à l'influence des paramètres des systèmes de soins de santé sur l'occurrence de la résistance antibiotique <DiscourseConnective annotation_id="5855">et</DiscourseConnective> sur les infections hospitalière, ainsi qu'à la gestion <DiscourseConnective annotation_id="5913">et</DiscourseConnective> aux responsabilités dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5214" docOffset="27">
+      <en>
+        <Alignment alignment="2416" annotation_id="5214">
+          <DiscourseConnective annotation_id="5214" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> let us return to the draft proposal.</en>
+      <fr>
+        <Alignment alignment="10706" annotation_id="5953">
+          <DiscourseConnective annotation_id="5953" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> revenons au projet de proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5255" docOffset="28">
+      <en>The Czech Presidency is aware that the organisation of health systems falls fully within the competency of Member States.</en>
+      <fr>La présidence tchèque est consciente <DiscourseConnective annotation_id="6030">que</DiscourseConnective> l'organisation des systèmes de soins de santé relève pleinement de la compétence des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5377" docOffset="29">
+      <en>Of course this initiative, in my opinion, will provide a suitable stimulus for the further development of national policies aimed at greater protection for the health and lives of citizens.</en>
+      <fr>Il va sans dire que cette initiative, <DiscourseConnective annotation_id="6172">à</DiscourseConnective> mes yeux, redonnera un élan bienvenu <DiscourseConnective annotation_id="6211">à</DiscourseConnective> la poursuite du développement des politiques nationales destinées <DiscourseConnective annotation_id="6279">à</DiscourseConnective> accroître la protection de la santé <DiscourseConnective annotation_id="6317">et</DiscourseConnective> de la vie des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5567" docOffset="30">
+      <en>Generally speaking, the Council agrees with the need for better cooperation and coordination in this area at all levels, i.e. local, regional, national and EU, as well as the need to share relevant information.</en>
+      <fr>D'une façon générale, le Conseil s'accorde sur la nécessité d'améliorer la coopération <DiscourseConnective annotation_id="6431">et</DiscourseConnective> la coordination dans ce domaine, <DiscourseConnective annotation_id="6467">à</DiscourseConnective> tous les niveaux, c'est-à-dire local, régional, national <DiscourseConnective annotation_id="6526">et</DiscourseConnective> communautaire, <DiscourseConnective annotation_id="6544">ainsi</DiscourseConnective> que sur la nécessité de partager les informations utiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5778" docOffset="31">
+      <en>The creation of a system for reporting the occurrence of adverse events <Alignment alignment="6681" annotation_id="5850">
+          <DiscourseConnective annotation_id="5850" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> constitutes a significant measure.</en>
+      <fr>La création d'un système signalant les événements indésirables constitue <Alignment alignment="5850" annotation_id="6681">
+          <DiscourseConnective annotation_id="6681" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> une mesure d'importance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5895" docOffset="32">
+      <en>The system will ensure immunity of course, in order to encourage reporting.</en>
+      <fr>Le système assurera bien entendu l'immunité <DiscourseConnective annotation_id="6765">afin d'</DiscourseConnective>encourager le signalement des incidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5971" docOffset="33">
+      <en>Emphasis is <Alignment alignment="6826" annotation_id="5983">
+          <DiscourseConnective annotation_id="5983" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> placed on more training of health workers in the area of patient safety and the creation of common definitions and terminology as well as comparable indicators which will allow easier identification of problems.</en>
+      <fr>L'accent est <Alignment alignment="5983" annotation_id="6826">
+          <DiscourseConnective annotation_id="6826" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> placé sur la formation plus poussée des travailleurs du secteur des soins de santé <DiscourseConnective annotation_id="6919">en</DiscourseConnective> matière de sécurité des patients, sur la création de définitions <DiscourseConnective annotation_id="6987">et</DiscourseConnective> d'une terminologie communes <DiscourseConnective annotation_id="7018">ainsi</DiscourseConnective> que d'indicateurs comparables qui permettront une identification plus facile des problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6200" docOffset="34">
+      <en>This will enable subsequent assessment of the effectiveness of measures and interventions aimed at increasing patient safety and easier communication of experience and information between Member States.</en>
+      <fr>Ces mesures permettront l'évaluation ultérieure de l'efficacité des mesures <DiscourseConnective annotation_id="7192">et</DiscourseConnective> des interventions visant <DiscourseConnective annotation_id="7220">à</DiscourseConnective> accroître la sécurité des patients <DiscourseConnective annotation_id="7257">et</DiscourseConnective> faciliteront la communication des expériences <DiscourseConnective annotation_id="7306">et</DiscourseConnective> des informations entre les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6403" docOffset="35">
+      <en>The Czech Presidency is at present completing negotiations on the draft proposal in the working bodies of the Council <Alignment alignment="6548" annotation_id="6521">
+          <DiscourseConnective annotation_id="6521" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it will try to get it accepted by the EPSCO Council in June this year.</en>
+      <fr>La présidence tchèque termine actuellement les négociations sur le projet de proposition au sein des organes de travail du Conseil <Alignment alignment="2963" annotation_id="7482">
+          <DiscourseConnective annotation_id="7482" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle tentera de faire accepter le texte par le Conseil EPSCO <DiscourseConnective annotation_id="7546">en</DiscourseConnective> juin de cette année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6596" docOffset="36">
+      <en>Of course, it was precisely due to the importance of this issue that the Council decided <DiscourseConnective annotation_id="6685" sense="Expansion.Conjunction">also</DiscourseConnective> to consult the European Parliament <Alignment alignment="19255" annotation_id="6725">
+          <DiscourseConnective annotation_id="6725" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> its opinion contributes significantly to the ongoing discussion.</en>
+      <fr>Il va sans dire que c'est en raison de l'importance de cette problématique <DiscourseConnective annotation_id="7645">que</DiscourseConnective> le Conseil a décidé de consulter le Parlement européen, <Alignment alignment="10486" annotation_id="7705">
+          <DiscourseConnective annotation_id="7705" sense="Temporal.Synchrony">puisque</DiscourseConnective>
+        </Alignment> son avis contribue largement <DiscourseConnective annotation_id="7742">à</DiscourseConnective> la discussion en cours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6793" docOffset="37">
+      <en>I firmly believe that the Council and Parliament share the common aim of increasing patient safety in the EU.</en>
+      <fr>Je suis fermement convaincue <DiscourseConnective annotation_id="7797">que</DiscourseConnective> le Parlement <DiscourseConnective annotation_id="7814">et</DiscourseConnective> le Conseil partagent l'objectif d'une amélioration de la sécurité des patients dans l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6903" docOffset="38">
+      <en>In this spirit the Council will <DiscourseConnective annotation_id="6935" sense="Expansion.Conjunction">also</DiscourseConnective> carefully consider the amendment proposals contained in your report on the draft proposal.</en>
+      <fr>C'est dans cet esprit que le Conseil prendra soigneusement note des propositions d'amendements contenues dans votre rapport sur le projet de proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7031" docOffset="39">
+      <en>In conclusion I would again like thank everyone taking part in preparing the EP report and the rapporteur Amalia Sartori, who drew up the report.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8061">Pour conclure</DiscourseConnective>, je souhaiterais remercier toutes celles et ceux qui ont pris part <DiscourseConnective annotation_id="8142">à</DiscourseConnective> la préparation de ce rapport du PE <DiscourseConnective annotation_id="8179">ainsi</DiscourseConnective> que la rapporteure Amalia Sartori, qui a rédigé le rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7177" id="079" name="Androulla Vassiliou">
+    <ParallelChunk annotation_id="7177" docOffset="40">
+      <en>Member of the Commission. - Mr President, I would like first of all to thank the committee on the Environment, Public Health and Food Safety for its work on this dossier, and especially the rapporteur, Ms Amalia Sartori, for her efforts on what is a health-care priority of the highest order.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, je tiens <DiscourseConnective annotation_id="8309">avant</DiscourseConnective> toute chose <DiscourseConnective annotation_id="8327">à</DiscourseConnective> remercier la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="8394">et</DiscourseConnective> de la sécurité alimentaire <DiscourseConnective annotation_id="8424">pour</DiscourseConnective> le travail qu'elle a effectué sur ce dossier, <DiscourseConnective annotation_id="8475">et</DiscourseConnective> <DiscourseConnective annotation_id="8478">en particulier</DiscourseConnective> la rapporteure, Mme Amalia Sartori, <DiscourseConnective annotation_id="8529">pour</DiscourseConnective> les efforts qu'elle a consentis sur une priorité de premier ordre en matière de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7470" docOffset="41">
+      <en>Patient safety is about reducing adverse events which occur in all health-care settings - in hospitals, in primary care, in long-term care or in the community.</en>
+      <fr>La sécurité des patients passe par la réduction des évènements indésirables qui se produisent dans toutes les structures de soins de santé - dans les hôpitaux, les centres de soins primaires et de soins à long terme <DiscourseConnective annotation_id="8846">ou</DiscourseConnective> au sein de la communauté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7630" docOffset="42">
+      <en>It is estimated that, in EU Member States, between 8% and 12% of patients admitted to hospitals suffer from adverse effects whilst receiving health care.</en>
+      <fr>Selon les estimations, au sein des États membres de l'UE, entre 8 % <DiscourseConnective annotation_id="8943">et</DiscourseConnective> 12 % des patients admis <DiscourseConnective annotation_id="8970">à</DiscourseConnective> l'hôpital souffrent d'effets non désirés <DiscourseConnective annotation_id="9013">lorsqu'</DiscourseConnective>ils reçoivent des soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7784" docOffset="43">
+      <en>These figures are unacceptably high.</en>
+      <fr>Le niveau élevé de ces chiffres est inacceptable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7821" docOffset="44">
+      <en>They paint a disturbing picture that affects not only patients but also their families and friends.</en>
+      <fr>Ils révèlent un tableau troublant qui affecte <DiscourseConnective annotation_id="9150">non seulement</DiscourseConnective> les patients, <DiscourseConnective annotation_id="9178">mais aussi</DiscourseConnective> leurs familles <DiscourseConnective annotation_id="9204">et</DiscourseConnective> amis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7921" docOffset="45">
+      <en>In addition to this, adverse events are a huge burden on health-care budgets and on the economy as a whole.</en>
+      <fr>Qui plus est, les évènements indésirables représentent une charge énorme <DiscourseConnective annotation_id="9286">pour</DiscourseConnective> les budgets des soins de santé <DiscourseConnective annotation_id="9322">et</DiscourseConnective> <DiscourseConnective annotation_id="9325">pour</DiscourseConnective> l'économie dans son ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8029" docOffset="46">
+      <en>Health-care-associated infections are a specific example of a very common adverse event.</en>
+      <fr>Les infections nosocomiales sont un exemple particulier d'événement indésirable très courant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8118" docOffset="47">
+      <en>The total number of hospitalised patients acquiring at least one health-care-associated infection in the EU every year has been estimated at EUR 4.1 million - equivalent to 1 in 20 hospitalised patients.</en>
+      <fr>Au sein de l'UE, chaque année, le nombre <DiscourseConnective annotation_id="9495">total</DiscourseConnective> de patients hospitalisés qui contractent <DiscourseConnective annotation_id="9542">au moins</DiscourseConnective> une infection nosocomiale est estimé <DiscourseConnective annotation_id="9588">à</DiscourseConnective> 4,1 millions - soit un patient hospitalisé sur vingt.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8322" docOffset="48">
+      <en>Approximately 37 000 deaths are estimated to occur every year because of these infections.</en>
+      <fr>Chaque année, quelque 37 000 décès seraient dus à ces infections.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8413" docOffset="49">
+      <en>Clearly, we must strive to improve significantly this situation.</en>
+      <fr>Nous devons à l'évidence faire tout ce que nous pouvons <DiscourseConnective annotation_id="9766">pour</DiscourseConnective> améliorer sensiblement cette situation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8478" docOffset="50">
+      <en>Member States have all recognised the patient safety challenge they face and have taken measures to tackle the problem.</en>
+      <fr>Les États membres ont tous reconnu le défi qu'ils avaient à relever en termes de sécurité des patients <DiscourseConnective annotation_id="9914">et</DiscourseConnective> ils ont pris des mesures <DiscourseConnective annotation_id="9942">pour</DiscourseConnective> s'attaquer au problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8598" docOffset="51">
+      <en>
+        <Alignment alignment="9983" annotation_id="8598">
+          <DiscourseConnective annotation_id="8598" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we know that among the 27 Member States there are varying levels of awareness, resources and expertise available to counter the problem.</en>
+      <fr>Nous savons <Alignment alignment="8598" annotation_id="9983">
+          <DiscourseConnective annotation_id="9983" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9993">que</DiscourseConnective>, parmi les 27 États membres, il existe différents niveaux de sensibilisation, de moyens <DiscourseConnective annotation_id="10085">et</DiscourseConnective> d'expertise disponible <DiscourseConnective annotation_id="10111">pour</DiscourseConnective> faire face à ce problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8744" docOffset="52">
+      <en>It is likely that patients in all Member States are not benefiting from current research findings and the systematic exchange of best practice and expertise.</en>
+      <fr>Il est probable <DiscourseConnective annotation_id="10158">que</DiscourseConnective> les patients des différents États membres ne bénéficient pas tous des recherches actuelles ni de l'échange systématique des meilleures pratiques <DiscourseConnective annotation_id="10307">et</DiscourseConnective> expertises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8902" docOffset="53">
+      <en>
+        <Alignment alignment="10331" annotation_id="8902">
+          <DiscourseConnective annotation_id="8902" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, I feel that patient safety is another area where the EU can provide real added value to make all European patients safer, <Alignment alignment="10507" annotation_id="9035">
+          <DiscourseConnective annotation_id="9035" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> of course respecting Member States' responsibility for delivering health care on their territories.</en>
+      <fr>Je pense <Alignment alignment="8902" annotation_id="10331">
+          <DiscourseConnective annotation_id="10331" sense="Contingency.Cause.Result">dès lors que</DiscourseConnective>
+        </Alignment> la sécurité des patients est un domaine dans lequel l'UE pourrait apporter une réelle valeur ajoutée <DiscourseConnective annotation_id="10445">afin que</DiscourseConnective> tous les patients européens soient plus en sécurité, <Alignment alignment="9035" annotation_id="10507">
+          <DiscourseConnective annotation_id="10507" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> respectant - cela va sans dire - la responsabilité des États membres <DiscourseConnective annotation_id="10584">quant à</DiscourseConnective> la fourniture des soins de santé sur leur territoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9141" docOffset="54">
+      <en>That is why the European Commission put forward its communication and a proposal for a Council Recommendation on patient safety, including the prevention and control of health-care-associated infections.</en>
+      <fr>Voilà pourquoi la Commission européenne a avancé cette communication <DiscourseConnective annotation_id="10715">ainsi</DiscourseConnective> qu'une proposition de recommandation du Conseil sur la sécurité des patients, lesquelles couvrent <DiscourseConnective annotation_id="10819">notamment</DiscourseConnective> la prévention <DiscourseConnective annotation_id="10843">et</DiscourseConnective> le contrôle des infections nosocomiales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9345" docOffset="55">
+      <en>I look forward to hearing your views.</en>
+      <fr>Je suis impatiente d'écouter vos points de vue sur le sujet.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9383" id="080" name="Antonios Trakatellis">
+    <ParallelChunk annotation_id="9383" docOffset="56">
+      <en>on behalf of the PPE-DE Group. - (EL) Mr President, the numbers quoted by Mrs Grossetête and the Commissioner are truly overwhelming and show that many patients are exposed to worrying incidents in hospitals, the most frequent being health care-associated infections.</en>
+      <fr>au nom du groupe PPE-DE. - (EL) Monsieur le Président, les chiffres cités par Mme Grossetête <DiscourseConnective annotation_id="11041">et</DiscourseConnective> par la commissaire sont proprement préoccupants <DiscourseConnective annotation_id="11092">et</DiscourseConnective> montrent <DiscourseConnective annotation_id="11104">que</DiscourseConnective> de nombreux patients sont exposés <DiscourseConnective annotation_id="11142">à</DiscourseConnective> des incidents inquiétants dans les hôpitaux, les plus nombreux étant les infections associées aux soins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9651" docOffset="57">
+      <en>The number of infections could obviously be reduced considerably; first of all, greater discipline is needed in hospitals <Alignment alignment="11414" annotation_id="9773">
+          <DiscourseConnective annotation_id="9773" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, on the one hand, there are people who visit patients in hospital <Alignment alignment="11491" annotation_id="9847">
+          <DiscourseConnective annotation_id="9847" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there is always the risk of transferring bacteria <DiscourseConnective annotation_id="9901" sense="Expansion.Conjunction">and</DiscourseConnective>, <Alignment alignment="5456" annotation_id="9906">
+          <Alignment alignment="26326" annotation_id="9906">
+            <Alignment alignment="37777" annotation_id="9906">
+              <DiscourseConnective annotation_id="9906" sense="Comparison.Contrast">on the other hand</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, hygiene rules need to be applied strictly by both patients and staff and staff need constant information and training on healthcare-associated infections.</en>
+      <fr>D'évidence, il est tout à fait possible de réduire considérablement le nombre des infections; en premier lieu, il faut une discipline plus stricte dans les hôpitaux <Alignment alignment="9773" annotation_id="11414">
+          <DiscourseConnective annotation_id="11414" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="11425">d'une part</DiscourseConnective>, des personnes visitent les patients dans les hôpitaux <Alignment alignment="163" annotation_id="11491">
+          <DiscourseConnective annotation_id="11491" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que le risque d'un transfert de bactéries est toujours présent; <Alignment alignment="9906" annotation_id="11558">
+          <Alignment alignment="871" annotation_id="11558">
+            <Alignment alignment="3154" annotation_id="11558">
+              <DiscourseConnective annotation_id="11558" sense="Comparison.Contrast">d'autre part</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, tant les patients <DiscourseConnective annotation_id="11590">que</DiscourseConnective> le personnel doivent appliquer strictement les règles d'hygiène, le personnel doit bénéficier <DiscourseConnective annotation_id="11688">en</DiscourseConnective> permanence d'information <DiscourseConnective annotation_id="11716">et</DiscourseConnective> de formations sur les infections associées aux soins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10080" docOffset="58">
+      <en>
+        <Alignment alignment="7285" annotation_id="10080">
+          <DiscourseConnective annotation_id="10080" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I believe that the crux of the matter today is that we should collect accurate data, <Alignment alignment="11851" annotation_id="10174">
+          <DiscourseConnective annotation_id="10174" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there are differences from one hospital to another and from one clinic to another, even in the same country; <Alignment alignment="11989" annotation_id="10291">
+          <DiscourseConnective annotation_id="10291" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, we need to know <Alignment alignment="12008" annotation_id="10320">
+          <DiscourseConnective annotation_id="10320" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> healthcare-associated infections are more frequent in surgery patients or in internist clinics, we need to know the strain and the resistance of bacteria; all these data are very important <Alignment alignment="12260" annotation_id="10512">
+          <DiscourseConnective annotation_id="10512" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we are to be able to establish the causes and <DiscourseConnective annotation_id="10561" sense="Contingency.Cause.Result">thus</DiscourseConnective> achieve an effective reduction in healthcare-associated infections.</en>
+      <fr>Je pense <Alignment alignment="7979" annotation_id="11782">
+          <DiscourseConnective annotation_id="11782" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11792">que</DiscourseConnective> le cœur du débat aujourd'hui est la collecte de données précises <Alignment alignment="10209" annotation_id="11861">
+          <DiscourseConnective annotation_id="11861" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il existe des différences d'un hôpital <DiscourseConnective annotation_id="11909">à</DiscourseConnective> l'autre <DiscourseConnective annotation_id="11919">et</DiscourseConnective> d'une clinique <DiscourseConnective annotation_id="11937">à</DiscourseConnective> l'autre, y compris dans un <DiscourseConnective annotation_id="11966">même</DiscourseConnective> pays. Nous devons <Alignment alignment="10291" annotation_id="11989">
+          <DiscourseConnective annotation_id="11989" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> savoir <Alignment alignment="10320" annotation_id="12008">
+          <DiscourseConnective annotation_id="12008" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les infections associées aux soins sont plus fréquentes chez les patients en chirurgie <DiscourseConnective annotation_id="12098">ou</DiscourseConnective> dans les cliniques où travaillent des internes; nous devons <DiscourseConnective annotation_id="12161">également</DiscourseConnective> connaître la souche <DiscourseConnective annotation_id="12191">et</DiscourseConnective> la résistance des bactéries; toutes ces données sont essentielles <Alignment alignment="10512" annotation_id="12260">
+          <DiscourseConnective annotation_id="12260" sense="Contingency.Condition">pour que</DiscourseConnective>
+        </Alignment> nous puissions établir les causes et atteindre par conséquent une réduction du nombre des infections associées aux soins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10634" docOffset="59">
+      <en>We <Alignment alignment="12391" annotation_id="10637">
+          <DiscourseConnective annotation_id="10637" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> need to collect detailed data in order to address healthcare-associated infections.</en>
+      <fr>
+        <Alignment alignment="2111" annotation_id="12391">
+          <DiscourseConnective annotation_id="12391" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, nous devons recueillir des données détaillées <DiscourseConnective annotation_id="12453">afin de</DiscourseConnective> nous attaquer aux infections associées aux soins.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10731" id="081" name="Linda McAvan">
+    <ParallelChunk annotation_id="10731" docOffset="60">
+      <en>on behalf of the PSE Group. - Mr President, I think that this recommendation is a very good example of the added value that the European Union can bring to health care where, <DiscourseConnective annotation_id="10906" sense="Comparison.Contrast">although</DiscourseConnective> we have limited competences, bringing together experts from Member States can really make a difference to peoples' lives.</en>
+      <fr>au nom du groupe PSE. - (EN) Monsieur le Président, je pense <DiscourseConnective annotation_id="12572">que</DiscourseConnective> cette recommandation est un excellent exemple de la valeur ajoutée <DiscourseConnective annotation_id="12643">que</DiscourseConnective> l'Union européenne est en mesure d'apporter en matière de soins de santé, un domaine dans lequel, malgré nos compétences limitées, la réunion d'experts des États membres peut réellement faire la différence <DiscourseConnective annotation_id="12853">pour</DiscourseConnective> le bien-être des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11037" docOffset="61">
+      <en>
+        <Alignment alignment="12885" annotation_id="11037">
+          <DiscourseConnective annotation_id="11037" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> Mr Trakatellis said, the figures that the Commissioner spoke about, on adverse reactions to medical care and on health-care-associated infections, are quite shocking.</en>
+      <fr>
+        <Alignment alignment="11625" annotation_id="12885">
+          <DiscourseConnective annotation_id="12885" sense="Temporal.Synchrony">Ainsi</DiscourseConnective>
+        </Alignment> que l'a indiqué M. Trakatellis, les chiffres rapportés par la commissaire au sujet des réactions indésirables aux soins médicaux <DiscourseConnective annotation_id="13020">et</DiscourseConnective> des infections nosocomiales sont pour le moins choquants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11207" docOffset="62">
+      <en>Nobody should go into hospital and come out more ill than they were in the first place <Alignment alignment="13160" annotation_id="11294">
+          <DiscourseConnective annotation_id="11294" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> many of us will know people who have had this problem.</en>
+      <fr>Personne ne devrait rentrer <DiscourseConnective annotation_id="13109">à</DiscourseConnective> l'hôpital <DiscourseConnective annotation_id="13121">pour</DiscourseConnective> en ressortir plus malade <DiscourseConnective annotation_id="13151">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="13154">avant</DiscourseConnective> <Alignment alignment="9144" annotation_id="13160">
+          <DiscourseConnective annotation_id="13160" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous sommes certainement nombreux <DiscourseConnective annotation_id="13197">à</DiscourseConnective> connaître des personnes confrontées à ce problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11353" docOffset="63">
+      <en>It is a problem right across the European Union, <Alignment alignment="12971" annotation_id="11402">
+          <DiscourseConnective annotation_id="11402" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is why it is extremely important that your initiative on health-care-associated infections should go ahead.</en>
+      <fr>Celui-ci touche toute l'Union européenne <Alignment alignment="11402" annotation_id="13291">
+          <DiscourseConnective annotation_id="13291" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13294">c'est pourquoi</DiscourseConnective> il est extrêmement important <DiscourseConnective annotation_id="13338">que</DiscourseConnective> votre initiative sur les maladies nosocomiales aboutisse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11519" docOffset="64">
+      <en>I think that we have a lot to learn from each other, <Alignment alignment="13464" annotation_id="11572">
+          <DiscourseConnective annotation_id="11572" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we can certainly avoid a lot of problems for our citizens <Alignment alignment="14155" annotation_id="11634">
+          <DiscourseConnective annotation_id="11634" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we work together to tackle this issue and bring the best heads in Europe together.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="13409">que</DiscourseConnective> nous avons beaucoup <DiscourseConnective annotation_id="13433">à</DiscourseConnective> apprendre les uns des autres <Alignment alignment="16639" annotation_id="13464">
+          <DiscourseConnective annotation_id="13464" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que nous pouvons certainement éviter quantité de désagréments <DiscourseConnective annotation_id="13529">à</DiscourseConnective> nos concitoyens <Alignment alignment="19238" annotation_id="13547">
+          <DiscourseConnective annotation_id="13547" sense="Contingency.Condition">en</DiscourseConnective>
+        </Alignment> luttant ensemble contre ce problème <DiscourseConnective annotation_id="13586">et</DiscourseConnective> en rassemblant les meilleurs experts d'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11720" docOffset="65">
+      <en>The second point I want to talk about is one mentioned very briefly in our parliamentary report, <Alignment alignment="27944" annotation_id="11817">
+          <DiscourseConnective annotation_id="11817" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is needle-stick injuries.</en>
+      <fr>Le deuxième point dont je voudrais parler est mentionné très rapidement dans notre rapport parlementaire <Alignment alignment="13613" annotation_id="13741">
+          <DiscourseConnective annotation_id="13741" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il concerne les blessures causées par les seringues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11852" docOffset="66">
+      <en>I know the Commission has been looking at this issue for a long time now, <DiscourseConnective annotation_id="11926" sense="Expansion.Conjunction">and</DiscourseConnective> there is a cooperation between employers and trade unions on this issue, <Alignment alignment="13949" annotation_id="12003">
+          <DiscourseConnective annotation_id="12003" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we still have a situation where an estimated one million workers in the health services across Europe are affected by needle-stick injuries.</en>
+      <fr>Je sais que cela fait longtemps <DiscourseConnective annotation_id="13829">maintenant que</DiscourseConnective> la Commission se penche sur cette question et que les employeurs et les syndicats coopèrent <DiscourseConnective annotation_id="13936">à ce propos</DiscourseConnective>, <Alignment alignment="14838" annotation_id="13949">
+          <DiscourseConnective annotation_id="13949" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous sommes toujours dans une situation où, selon les estimations, un million de travailleurs des services de santé au sein de l'Europe sont concernés par les blessures causées par les seringues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12148" docOffset="67">
+      <en>This could be avoided <Alignment alignment="30567" annotation_id="12170">
+          <DiscourseConnective annotation_id="12170" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the needles they were using were replaced with a safer kind.</en>
+      <fr>Ces blessures pourraient être évitées <Alignment alignment="14570" annotation_id="14188">
+          <DiscourseConnective annotation_id="14188" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les seringues qu'ils utilisent étaient remplacées par d'autres d'un type plus sûr.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12234" docOffset="68">
+      <en>I hope, Madam Commissioner, that you will be returning to the Commission <Alignment alignment="20510" annotation_id="12307">
+          <DiscourseConnective annotation_id="12307" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that in the new Parliament session you will bring forward a proposal on needle-stick injuries, which is very important for many health-care workers and is a very avoidable problem in our health-care system.</en>
+      <fr>J'espère, Madame la Commissaire, <DiscourseConnective annotation_id="14307">que</DiscourseConnective> vous retournerez <DiscourseConnective annotation_id="14328">à</DiscourseConnective> la Commission <Alignment alignment="12307" annotation_id="14344">
+          <DiscourseConnective annotation_id="14344" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14347">que</DiscourseConnective> vous reviendrez devant le nouveau Parlement avec une proposition sur les blessures causées par les seringues - un sujet d'une importance capitale <DiscourseConnective annotation_id="14497">pour</DiscourseConnective> de nombreux travailleurs du secteur des soins de santé. C'est un problème facilement évitable dans notre système des soins de santé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12518" id="082" name="Marios Matsakis">
+    <ParallelChunk annotation_id="12518" docOffset="69">
+      <en>on behalf of the ALDE Group. - Mr President, approximately 10% of patients admitted to hospitals and about 15% of patients receiving primary care in the EU suffer some kind of adverse event, ranging from a mild, fully recoverable condition to a life-threatening or fatal occurrence.</en>
+      <fr>au nom du groupe ALDE. - (EN) Monsieur le Président, près de 10 % des patients admis <DiscourseConnective annotation_id="14720">à</DiscourseConnective> l'hôpital <DiscourseConnective annotation_id="14732">et</DiscourseConnective> 15 % de patients qui reçoivent des soins primaires au sein de l'UE sont victimes d'évènements indésirables, qui vont d'une affection banale tout à fait soignable <DiscourseConnective annotation_id="14897">à</DiscourseConnective> une issue fatale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12801" docOffset="70">
+      <en>
+        <Alignment alignment="9067" annotation_id="12801">
+          <DiscourseConnective annotation_id="12801" sense="Expansion.Restatement">In other words</DiscourseConnective>
+        </Alignment>, about one in four of our patients suffer damage because of the treatment and not because of their disease.</en>
+      <fr>
+        <Alignment alignment="12801" annotation_id="14917">
+          <DiscourseConnective annotation_id="14917" sense="Expansion.Restatement">Autrement dit</DiscourseConnective>
+        </Alignment>, près d'un patient sur quatre souffre en raison du traitement <DiscourseConnective annotation_id="14993">et</DiscourseConnective> non de sa maladie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12924" docOffset="71">
+      <en>This statistic is even more dramatic <Alignment alignment="28184" annotation_id="12961">
+          <DiscourseConnective annotation_id="12961" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we consider that the number of health-care-associated deaths in Europe is almost twice the number of deaths caused by road traffic accidents.</en>
+      <fr>Ces statistiques sont <DiscourseConnective annotation_id="15037">encore</DiscourseConnective> plus dramatiques <Alignment alignment="12961" annotation_id="15061">
+          <DiscourseConnective annotation_id="15061" sense="Temporal.Synchrony">si</DiscourseConnective>
+        </Alignment> l'on considère <DiscourseConnective annotation_id="15079">que</DiscourseConnective> le nombre de décès liés aux soins de santé <DiscourseConnective annotation_id="15126">en</DiscourseConnective> Europe est deux fois plus élevé que celui des décès dus à des accidents de la route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13108" docOffset="72">
+      <en>Ms Sartori's report can do much to improve matters, <Alignment alignment="6355" annotation_id="13160">
+          <DiscourseConnective annotation_id="13160" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, as always, the success of any policy depends very much on its application, <Alignment alignment="29333" annotation_id="13240">
+          <DiscourseConnective annotation_id="13240" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in this respect national governments have the responsibility to prove, by their deeds, whether they really care about their citizens.</en>
+      <fr>Le rapport de Mme Sartori peut améliorer sensiblement la situation, <Alignment alignment="13160" annotation_id="15282">
+          <DiscourseConnective annotation_id="15282" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="15288">comme</DiscourseConnective> toujours, le succès de toute politique dépend dans une large mesure de son application <Alignment alignment="9261" annotation_id="15381">
+          <DiscourseConnective annotation_id="15381" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="15385">à cet égard</DiscourseConnective>, les gouvernements nationaux doivent prouver, par leurs actions, <DiscourseConnective annotation_id="15462">qu'</DiscourseConnective>ils se préoccupent réellement de leurs citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13378" docOffset="73">
+      <en>Health-care systems, especially in the 12 newer Member States, need in many cases a complete overhaul, with attention required to the structural improvement of hospitals, the modernisation of equipment and up-to-date training of health personnel.</en>
+      <fr>Les systèmes de soins de santé, <DiscourseConnective annotation_id="15546">notamment</DiscourseConnective> dans les 12 nouveaux États membres, doivent dans bien des cas faire l'objet d'une révision complète, <DiscourseConnective annotation_id="15657">en</DiscourseConnective> veillant notamment aux améliorations structurelles au sein des hôpitaux, à la modernisation des équipements <DiscourseConnective annotation_id="15768">et</DiscourseConnective> <DiscourseConnective annotation_id="15771">à</DiscourseConnective> la formation continue du personnel de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13625" docOffset="74">
+      <en>Such changes can occur only with the help of the EU, both in terms of finance and expertise, <Alignment alignment="11095" annotation_id="13718">
+          <DiscourseConnective annotation_id="13718" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> such help must be made readily available for the sake of patients' safety.</en>
+      <fr>Ces changements ne peuvent s'opérer <DiscourseConnective annotation_id="15854">qu'</DiscourseConnective>avec l'aide de l'UE, <DiscourseConnective annotation_id="15878">en</DiscourseConnective> termes tant financiers <DiscourseConnective annotation_id="15904">que</DiscourseConnective> d'expertise, <Alignment alignment="17476" annotation_id="15921">
+          <DiscourseConnective annotation_id="15921" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cette aide ne doit pas se faire attendre, au nom de la sécurité des patients.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13797" id="083" name="Siiri Oviir">
+    <ParallelChunk annotation_id="13797" docOffset="75">
+      <en>(ET) Open health care is a primary benefit and right.</en>
+      <fr>(<DiscourseConnective annotation_id="16003">ET</DiscourseConnective>) Des soins de santé ouverts sont un avantage <DiscourseConnective annotation_id="16051">et</DiscourseConnective> un droit de première importance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13851" docOffset="76">
+      <en>The 37 000 deaths per year caused by infections acquired as a result of health care services is too high, <Alignment alignment="619" annotation_id="13957">
+          <DiscourseConnective annotation_id="13957" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> as citizens of the European Union we cannot permit or accept this.</en>
+      <fr>Ces 37 000 décès annuels causés par des infections contractées <DiscourseConnective annotation_id="16150">à</DiscourseConnective> la suite de services de soins de santé sont un chiffre trop élevé <Alignment alignment="13957" annotation_id="16218">
+          <DiscourseConnective annotation_id="16218" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les citoyens de l'Union européenne que nous sommes ne peuvent accepter cela.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14028" docOffset="77">
+      <en>Based on the principle of subsidiarity, European Union institutions and above all the Commission must take on an important role in the promotion of the dissemination of information and best practices.</en>
+      <fr>Sur la base du principe de subsidiarité, les institutions de l'Union européenne <DiscourseConnective annotation_id="16378">et</DiscourseConnective> <DiscourseConnective annotation_id="16381">surtout</DiscourseConnective> la Commission doivent assumer un rôle de premier plan dans la promotion et la diffusion des informations <DiscourseConnective annotation_id="16494">et</DiscourseConnective> des bonnes pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14229" docOffset="78">
+      <en>I must emphasise the importance of offering specific and rapid solutions for the decisive and permanent reduction of nosocomial infections in Europe.</en>
+      <fr>Je souhaite insister sur l'importance de pouvoir offrir des solutions spécifiques <DiscourseConnective annotation_id="16601">et</DiscourseConnective> rapides afin d'obtenir une réduction décisive <DiscourseConnective annotation_id="16650">et</DiscourseConnective> permanente des infections nosocomiales <DiscourseConnective annotation_id="16692">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14379" docOffset="79">
+      <en>In this area, I support the rapporteur's recommendations in this report.</en>
+      <fr>Dans ce domaine, je soutiens les recommandations formulées par la rapporteure dans son rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14452" id="084" name="Daniela Filipiová">
+    <ParallelChunk annotation_id="14452" docOffset="80">
+      <en>President-in-Office of the Council. - (CS) Mr President, ladies and gentlemen, I would like to thank all MEPs for their comments, suggestions and observations.</en>
+      <fr>présidente <DiscourseConnective annotation_id="16810">en</DiscourseConnective> exercice du Conseil. - (CS) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="16873">et</DiscourseConnective> Messieurs, je souhaiterais remercier tous les députés <DiscourseConnective annotation_id="16930">pour</DiscourseConnective> leurs remarques, leurs suggestions <DiscourseConnective annotation_id="16970">et</DiscourseConnective> leurs observations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14612" docOffset="81">
+      <en>I have to say that I was delighted to hear that in principle the opinions of the European Parliament and Council coincide over this issue.</en>
+      <fr>Je dois <DiscourseConnective annotation_id="17001">dire que</DiscourseConnective> je me suis réjouie tout particulièrement d'entendre <DiscourseConnective annotation_id="17062">qu'en</DiscourseConnective> principe les avis du Parlement européen <DiscourseConnective annotation_id="17108">et</DiscourseConnective> du Conseil coïncident sur ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14751" docOffset="82">
+      <en>The Council will of course carefully consider all of the European Parliament's amendment proposals and based on this it will assess whether <Alignment alignment="14661" annotation_id="14891">
+          <DiscourseConnective annotation_id="14891" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not to incorporate them into the final version of the draft proposal.</en>
+      <fr>Il va sans dire que le Conseil accordera la plus grande attention aux propositions d'amendements du Parlement européen <DiscourseConnective annotation_id="17268">et</DiscourseConnective> que, à la suite de cet examen, il les intègrera <Alignment alignment="682" annotation_id="17319">
+          <DiscourseConnective annotation_id="17319" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non dans la version finale de la proposition de rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14964" id="085" name="Androulla Vassiliou">
+    <ParallelChunk annotation_id="14964" docOffset="83">
+      <en>Member of the Commission. - Mr President, today's debate illustrates Parliament's high level of interest and concern regarding patient safety.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, le débat d'aujourd'hui illustre bien tout l'intérêt <DiscourseConnective annotation_id="17486">et</DiscourseConnective> l'attention que le Parlement accorde <DiscourseConnective annotation_id="17526">à</DiscourseConnective> la sécurité des patients.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15107" docOffset="84">
+      <en>It <Alignment alignment="40878" annotation_id="15110">
+          <DiscourseConnective annotation_id="15110" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> sends a signal that this is an area of great potential for EU added value.</en>
+      <fr>Il montre <Alignment alignment="15110" annotation_id="17564">
+          <DiscourseConnective annotation_id="17564" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17570">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="17576">s'</DiscourseConnective>agit d'un domaine où l'UE peut apporter une grande valeur ajoutée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15190" docOffset="85">
+      <en>For the most part, the Commission welcomes the proposed amendments: <Alignment alignment="38563" annotation_id="15258">
+          <DiscourseConnective annotation_id="15258" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> we welcome the proposal for Member States to designate competent authorities for patient safety at the various levels of state and local government administration.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17645">Pour</DiscourseConnective> l'essentiel, la Commission accepte les amendements proposés: <Alignment alignment="15258" annotation_id="17711">
+          <DiscourseConnective annotation_id="17711" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, nous saluons la proposition visant à ce que les États membres désignent les autorités compétentes en matière de sécurité des patients aux différents niveaux d'administration nationale <DiscourseConnective annotation_id="17908">et</DiscourseConnective> locale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15434" docOffset="86">
+      <en>This reflects the fact that some Member States have devolved systems of health care.</en>
+      <fr>Cette proposition reflète le fait <DiscourseConnective annotation_id="17953">que</DiscourseConnective> certains États membres ont des systèmes développés de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15519" docOffset="87">
+      <en>We <Alignment alignment="29441" annotation_id="15522">
+          <DiscourseConnective annotation_id="15522" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> agree that the scale and cost of data collection should not be disproportionate to the expected benefits.</en>
+      <fr>Nous sommes <Alignment alignment="15522" annotation_id="18039">
+          <DiscourseConnective annotation_id="18039" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> d'accord sur le fait <DiscourseConnective annotation_id="18070">que</DiscourseConnective> l'ampleur <DiscourseConnective annotation_id="18084">et</DiscourseConnective> le coût de la collecte de données ne devraient pas être disproportionnés par rapport aux avantages escomptés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15633" docOffset="88">
+      <en>In relation to proposed amendments specific to health-care-associated infections, we welcome the provision for adequate protection for health-care staff.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18197">En</DiscourseConnective> ce qui concerne les amendements relatifs aux infections nosocomiales, nous saluons la garantie d'une protection adéquate <DiscourseConnective annotation_id="18321">pour</DiscourseConnective> le personnel soignant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15787" docOffset="89">
+      <en>We <Alignment alignment="27666" annotation_id="15790">
+          <DiscourseConnective annotation_id="15790" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> support the highlighting of the morbidity and mortality burden of health-care-associated infections and the need to recruit more infection-control nurses.</en>
+      <fr>Nous soutenons <Alignment alignment="15790" annotation_id="18364">
+          <DiscourseConnective annotation_id="18364" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> l'accent mis sur la charge des infections nosocomiales en termes de morbidité <DiscourseConnective annotation_id="18452">et</DiscourseConnective> de mortalité, <DiscourseConnective annotation_id="18469">ainsi</DiscourseConnective> que la nécessité de recruter des infirmières spécialisées dans le contrôle de ces infections.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15950" docOffset="90">
+      <en>
+        <Alignment alignment="23886" annotation_id="15950">
+          <DiscourseConnective annotation_id="15950" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I must raise some reservations and objections concerning the reduction of targets.</en>
+      <fr>Je dois <Alignment alignment="9378" annotation_id="18577">
+          <DiscourseConnective annotation_id="18577" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> vous faire part de certaines réserves <DiscourseConnective annotation_id="18625">et</DiscourseConnective> objections concernant la réduction des objectifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16042" docOffset="91">
+      <en>Some suggested that Member States should provide the means necessary to bring about a 20% reduction in the number of persons affected by adverse events, including an overall reduction in the EU of 900 000 cases each year.</en>
+      <fr>D'aucuns ont suggéré <DiscourseConnective annotation_id="18699">que</DiscourseConnective> les États membres devraient prévoir les moyens nécessaires <DiscourseConnective annotation_id="18762">à</DiscourseConnective> une réduction d'environ 20 % du nombre de personnes touchées par les évènements indésirables, en ce compris une réduction globale de 900 000 cas par an <DiscourseConnective annotation_id="18916">pour</DiscourseConnective> l'ensemble de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16264" docOffset="92">
+      <en>The Commission does not think it is appropriate to set such targets at EU level <DiscourseConnective annotation_id="16344" sense="Temporal.Synchrony">as</DiscourseConnective> Member States are at different stages <Alignment alignment="19106" annotation_id="16385">
+          <DiscourseConnective annotation_id="16385" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it would be very difficult to set suitable, realistic and achievable targets that would be appropriate for them all.</en>
+      <fr>La Commission n'est pas d'avis qu'il <DiscourseConnective annotation_id="18978">soit</DiscourseConnective> approprié de fixer de tels objectifs au niveau de l'UE, dès lors que les États membres se trouvent <DiscourseConnective annotation_id="19082">à</DiscourseConnective> des stades différents <Alignment alignment="5065" annotation_id="19106">
+          <DiscourseConnective annotation_id="19106" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'il serait très difficile de définir des objectifs appropriés, réalistes <DiscourseConnective annotation_id="19184">et</DiscourseConnective> réalisables qui conviennent <DiscourseConnective annotation_id="19215">à</DiscourseConnective> tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16506" docOffset="93">
+      <en>I have taken very careful note of what Ms McAvan said about needle-stick injuries <Alignment alignment="10029" annotation_id="16588">
+          <DiscourseConnective annotation_id="16588" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I will think about a proposal for a special initiative.</en>
+      <fr>J'ai pris bonne note de ce que Mme McAvan a dit au sujet des blessures causées par les seringues <Alignment alignment="8453" annotation_id="19338">
+          <DiscourseConnective annotation_id="19338" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je songerai à une proposition <DiscourseConnective annotation_id="19371">en vue d'</DiscourseConnective>une initiative spéciale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16648" docOffset="94">
+      <en>Minister Filipiová made a reference to the responsibility of Member States in this aspect.</en>
+      <fr>La ministre Filipiová s'est référée <DiscourseConnective annotation_id="19441">à</DiscourseConnective> la responsabilité des États membres <DiscourseConnective annotation_id="19479">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16739" docOffset="95">
+      <en>Our initiative on patient safety and health-care-associated infections fully respects the Member States' competence to finance structure and deliver health services <DiscourseConnective annotation_id="16904" sense="Temporal.Synchrony">as</DiscourseConnective> they see fit.</en>
+      <fr>Notre initiative sur la sécurité des patients <DiscourseConnective annotation_id="19538">et</DiscourseConnective> sur les infections nosocomiales respecte pleinement les compétences des États membres en matière de financement des structures <DiscourseConnective annotation_id="19668">et</DiscourseConnective> de fourniture des services de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16921" docOffset="96">
+      <en>The purpose of our proposal is to help Member States to put in place the proper and adequate strategies to reduce or avoid adverse events in health care, including health-care-associated infections, by pooling the best available evidence and expertise in the EU and lending Commission support to achieving economies of scale in this area.</en>
+      <fr>Notre proposition a <DiscourseConnective annotation_id="19728">pour</DiscourseConnective> objectif d'aider les États membres <DiscourseConnective annotation_id="19768">à</DiscourseConnective> mettre <DiscourseConnective annotation_id="19777">en</DiscourseConnective> place les stratégies appropriées <DiscourseConnective annotation_id="19813">pour</DiscourseConnective> réduire <DiscourseConnective annotation_id="19826">ou</DiscourseConnective> éviter les évènements indésirables au niveau des soins de santé, en ce compris les infections nosocomiales, en mettant en commun les meilleures preuves <DiscourseConnective annotation_id="19981">et</DiscourseConnective> expertises possibles au niveau de l'UE <DiscourseConnective annotation_id="20023">et</DiscourseConnective> en apportant le soutien de la Commission dans le but de réaliser des économies d'échelle dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17260" docOffset="97">
+      <en>
+        <Alignment alignment="20132" annotation_id="17260">
+          <DiscourseConnective annotation_id="17260" sense="Temporal.Asynchronous.Succession">Once</DiscourseConnective>
+        </Alignment> this patient safety recommendation is adopted in the Council, it will signal an unprecedented political commitment from Member State governments to prioritise patient safety in their health-care policies.</en>
+      <fr>
+        <Alignment alignment="17638" annotation_id="20132">
+          <DiscourseConnective annotation_id="20132" sense="Temporal.Asynchronous.Succession">Lorsque</DiscourseConnective>
+        </Alignment> cette recommandation sur la sécurité des patients sera adoptée au sein du Conseil, elle sera le signe d'un engagement politique sans précédent de la part des gouvernements des États membres <DiscourseConnective annotation_id="20330">afin de</DiscourseConnective> placer la sécurité des patients parmi les priorités de leurs politiques de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17470" docOffset="98">
+      <en>Action to reduce adverse events of all types, including health-care-associated infections in all health-care settings <Alignment alignment="33972" annotation_id="17588">
+          <DiscourseConnective annotation_id="17588" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in all EU Member States, is a goal we all share.</en>
+      <fr>La réduction des évènements indésirables de tous types, dont les infections nosocomiales, dans toutes les structures de soins de santé <Alignment alignment="17588" annotation_id="20564">
+          <DiscourseConnective annotation_id="20564" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> dans tous les États membres de l'UE est un objectif que nous partageons tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17641" docOffset="99">
+      <en>This proposal can play a big part in achieving this goal.</en>
+      <fr>La proposition à l'examen peut contribuer grandement <DiscourseConnective annotation_id="20698">à</DiscourseConnective> la réalisation de cet objectif.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17699" id="086" language="FR" name="Françoise Grossetête">
+    <ParallelChunk annotation_id="17699" docOffset="100">
+      <en>Mr President, I wish first to thank all the Members who have spoken on Mrs Sartori's report.</en>
+      <fr>rapporteure. - Monsieur le Président, je remercie <DiscourseConnective annotation_id="20782">d'abord</DiscourseConnective> tous nos collègues qui sont intervenus sur le rapport de Mme Sartori.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17792" docOffset="101">
+      <en>I would like to thank them for the proposals they are making.</en>
+      <fr>Je voudrais les remercier <DiscourseConnective annotation_id="20886">pour</DiscourseConnective> les propositions qu'ils font.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17854" docOffset="102">
+      <en>I would <DiscourseConnective annotation_id="17862" sense="Expansion.Conjunction">also</DiscourseConnective> like to say to Mrs Vassiliou, who appears not to share the quantified objectives set out in Mrs Sartori's report, that we are, of course, taking her remark into account, <DiscourseConnective annotation_id="18037" sense="Comparison.Contrast">but</DiscourseConnective> it is important, in any case, for us to do our utmost to ensure a high level of protection, both for patients and for health staff. <DiscourseConnective annotation_id="18173" sense="Expansion.Conjunction">Also</DiscourseConnective>, whilst it is not desirable to have a quantified proposal, taking into account the diversity of the care delivered in the European Union, I believe that it is all the same important for us to do our utmost to ensure the highest possible levels of safety.</en>
+      <fr>Je voudrais aussi dire à Mme la Commissaire, qui ne semble pas partager les objectifs chiffrés qui ont été fixés dans le rapport par Mme Sartori, que nous prenons en compte, bien sûr, sa remarque, mais qu'il est important, de toute façon, que nous fassions le maximum pour assurer un niveau de protection élevé, aussi bien pour les patients que pour les personnels de santé, et que, s'il n'est pas souhaitable qu'il y ait une proposition chiffrée compte tenu de la diversité, bien sûr, des soins qui sont dispensés au sein de l'Union européenne, je crois qu'il est quand même important que nous fassions le maximum pour assurer le plus possible de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18433" docOffset="103">
+      <en>That is the added value of the European Union.</en>
+      <fr>C'est cela la valeur ajoutée de l'Union européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18480" id="087" name="President">
+    <ParallelChunk annotation_id="18480" docOffset="104">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18502" docOffset="105">
+      <en>The vote will take place today at 12 noon.</en>
+      <fr>Le vote aura lieu aujourd'hui <DiscourseConnective annotation_id="21680">à</DiscourseConnective> 12 h 00.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

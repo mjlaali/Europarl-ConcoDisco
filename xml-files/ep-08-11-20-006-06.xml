@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Single application procedure for residence and work (</en>
+    <fr>Procédure de demande unique de permis de résidence <DiscourseConnective annotation_id="54">et</DiscourseConnective> de travail (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="57" docOffset="2">
+    <en>- After the vote on Amendment 10:</en>
+    <fr>- <DiscourseConnective annotation_id="72">Après</DiscourseConnective> le vote sur l'amendement 10:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="91" id="095" name="Robert Goebbels">
+    <ParallelChunk annotation_id="91" docOffset="3">
+      <en>(FR) Madam President, I think you need to repeat the vote on Amendment 1, <Alignment alignment="1181" annotation_id="165">
+          <DiscourseConnective annotation_id="165" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there was the same majority that voted in favour of Amendment 1.</en>
+      <fr>Madame la Présidente, je crois que vous devriez refaire le vote de l'amendement 1 <Alignment alignment="165" annotation_id="189">
+          <DiscourseConnective annotation_id="189" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il y avait la <DiscourseConnective annotation_id="207">même</DiscourseConnective> majorité qui a voté <DiscourseConnective annotation_id="232">en</DiscourseConnective> faveur de l'amendement 1.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="238" docOffset="4">
+      <en>You rushed the gun in saying that it had been rejected.</en>
+      <fr>Vous êtes allée un peu vite <DiscourseConnective annotation_id="289">en</DiscourseConnective> disant <DiscourseConnective annotation_id="299">qu'</DiscourseConnective>il était rejeté.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="294" id="096" name="President">
+    <ParallelChunk annotation_id="294" docOffset="5">
+      <en>I think it is too late.</en>
+      <fr>Je pense que c'est trop tard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="318" docOffset="6">
+      <en>It was clearer for me on the first vote than it was on the subsequent ones.</en>
+      <fr>C'était plus clair <DiscourseConnective annotation_id="368">pour</DiscourseConnective> moi au moment du premier vote <DiscourseConnective annotation_id="403">que</DiscourseConnective> lors des votes qui ont suivi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="394" docOffset="7">
+      <en>I am sorry, <Alignment alignment="454" annotation_id="406">
+          <DiscourseConnective annotation_id="406" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I have made my mind up on that one.</en>
+      <fr>Je suis désolée, <Alignment alignment="406" annotation_id="454">
+          <DiscourseConnective annotation_id="454" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ma décision a été prise sur ce vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

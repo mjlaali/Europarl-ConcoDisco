@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>11.</en>
+    <fr>11.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Situation in Pakistan (vote)</en>
+    <fr>Situation au Pakistan (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="33" docOffset="2">
+    <en>- Joint motion for a resolution</en>
+    <fr>- Proposition de résolution commune</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="65" docOffset="3">
+    <en>- Before the vote on paragraph 1:</en>
+    <fr>- <DiscourseConnective annotation_id="71">Avant</DiscourseConnective> le vote sur le paragraphe 1:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="99" id="112" name="Robert Evans">
+    <ParallelChunk annotation_id="99" docOffset="4">
+      <en>Mr President, I apologise for this, <DiscourseConnective annotation_id="135" sense="Comparison.Contrast">but</DiscourseConnective> colleagues will recognise that this situation is changing daily <DiscourseConnective annotation_id="203" sense="Expansion.Conjunction">and</DiscourseConnective> the oral amendment is not quite the same as that listed on some people's sheets <DiscourseConnective annotation_id="287" sense="Contingency.Cause.Result">so</DiscourseConnective> I will read it out: 'Expresses its solidarity with the people of Pakistan who are victims of the violence perpetrated by the armed extremists; is deeply concerned for the safety of the 1800 or more people in the Red Mosque, some of whom were held as hostages; recognises the challenges the siege posed to the Government of Pakistan; expresses its grave concern about the still unknown number of victims and supports the efforts to bring those responsible to justice'.</en>
+      <fr>(EN) Monsieur le Président, je m'en excuse, mais mes collègues reconnaîtront que cette situation change tous les jours et l'amendement oral n'est pas tout à fait le même que celui qui figure sur la feuille de certains, de sorte que je vais le lire: "exprime sa solidarité avec le peuple du Pakistan, victime de la violence des extrémistes armés; est profondément inquiet pour la sécurité des personnes, au nombre de 1800 ou plus, que l'on pense se trouver actuellement dans l'enceinte de Mosquée rouge et dont certaines ont peut-être été retenues en otage; reconnaît que le siège a constitué un défi pour le gouvernement pakistanais; exprime sa profonde préoccupation quant au nombre toujours inconnu de victimes et soutient les efforts entrepris en vue de traduire les responsables en justice".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="758" id="113" name="Eva Lichtenberger">
+    <ParallelChunk annotation_id="758" docOffset="5">
+      <en>(DE) Since the storming of the Red Mosque has now been carried out, should we not use the past tense, at least in the second part?</en>
+      <fr>(DE) <DiscourseConnective annotation_id="907">Étant donné que</DiscourseConnective> le siège de la Mosquée Rouge est à présent terminé, ne vaudrait-il pas mieux utiliser le passé, <DiscourseConnective annotation_id="1019">du moins</DiscourseConnective> dans la deuxième partie?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="889" docOffset="6">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

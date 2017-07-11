@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>EU-Mauritania fisheries agreement (vote)</en>
+    <fr>Accord de pêche UE/Mauritanie (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="44" docOffset="2">
+    <en>- after the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="40">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="62" id="067" name="Véronique De Keyser">
+    <ParallelChunk annotation_id="62" docOffset="3">
+      <en>(FR) Mr President, <Alignment alignment="77" annotation_id="81">
+          <DiscourseConnective annotation_id="81" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> we had some difficulties last time with roll-call votes on a show of hands, I would like to know why we have had a roll-call vote today, which is not even indicated on my voting list.</en>
+      <fr>Monsieur le Président, <Alignment alignment="81" annotation_id="77">
+          <DiscourseConnective annotation_id="77" sense="Contingency.Cause.Reason">comme</DiscourseConnective>
+        </Alignment> nous avions eu quelques difficultés la dernière fois avec des appels nominaux <DiscourseConnective annotation_id="161">à</DiscourseConnective> main levée, je voulais savoir pourquoi nous avions un appel nominal aujourd'hui, qui n'est de toute façon pas renseigné dans ma liste de vote.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="271" id="068" name="President">
+    <ParallelChunk annotation_id="271" docOffset="4">
+      <en>
+        <Alignment alignment="119882" annotation_id="271">
+          <DiscourseConnective annotation_id="271" sense="Contingency.Cause.Reason">Because</DiscourseConnective>
+        </Alignment> a political group requested one.</en>
+      <fr>
+        <Alignment alignment="271" annotation_id="306">
+          <DiscourseConnective annotation_id="306" sense="Contingency.Cause.Reason">Parce qu'</DiscourseConnective>
+        </Alignment>un groupe politique en a fait la demande.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

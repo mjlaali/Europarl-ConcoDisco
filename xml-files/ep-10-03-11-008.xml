@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="106" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the vote.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+      <en>(For details of the outcome of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes et autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="93" id="107" name="Robert Goebbels">
+    <ParallelChunk annotation_id="93" docOffset="3">
+      <en>(FR) Mr President, I would ask you to wait a little while longer <Alignment alignment="219" annotation_id="158">
+          <DiscourseConnective annotation_id="158" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> many Members are still stuck in the lifts.</en>
+      <fr>Monsieur le Président, je vous prierais d'attendre encore quelques instants <Alignment alignment="158" annotation_id="219">
+          <DiscourseConnective annotation_id="219" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> beaucoup de collègues sont <DiscourseConnective annotation_id="256">encore</DiscourseConnective> bloqués dans les ascenseurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="209" docOffset="4">
+      <en>Someone had the extraordinary idea of repairing the lifts during the one week of the month in which we are in Strasbourg, <Alignment alignment="208606" annotation_id="331">
+          <DiscourseConnective annotation_id="331" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it could be done in the other three.</en>
+      <fr>Quelqu'un a eu l'idée extraordinaire de faire une intervention technique sur les ascenseurs pendant la seule semaine où nous sommes <DiscourseConnective annotation_id="424">à</DiscourseConnective> Strasbourg <Alignment alignment="4" annotation_id="437">
+          <DiscourseConnective annotation_id="437" sense="Temporal.Synchrony">alors qu'</DiscourseConnective>
+        </Alignment>on pourrait le faire pendant trois semaines par mois.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="373" id="108" name="President">
+    <ParallelChunk annotation_id="373" docOffset="5">
+      <en>Mr Goebbels, it is already after 12.00.</en>
+      <fr>Monsieur Goebbels, il est <DiscourseConnective annotation_id="526">déjà</DiscourseConnective> 12 heures passées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="413" docOffset="6">
+      <en>We have already been waiting for five minutes.</en>
+      <fr>Nous attendons <DiscourseConnective annotation_id="565">déjà</DiscourseConnective> <DiscourseConnective annotation_id="570">depuis</DiscourseConnective> cinq minutes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="460" docOffset="7">
+      <en>I think that we can proceed to the vote.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="600">que</DiscourseConnective> nous pouvons procéder au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="501" docOffset="8">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

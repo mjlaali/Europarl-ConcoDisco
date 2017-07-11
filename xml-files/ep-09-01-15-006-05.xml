@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>EU strategy towards Belarus (vote)</en>
+    <fr>Stratégie de l'Union européenne à l'égard du Belarus (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="38" docOffset="2">
+    <en>Before the vote - concerns paragraph 9:</en>
+    <fr>- <DiscourseConnective annotation_id="65">Avant</DiscourseConnective> le vote - au sujet du paragraphe 9:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="78" id="086" name="Jan Marinus Wiersma">
+    <ParallelChunk annotation_id="78" docOffset="3">
+      <en>We propose to delete the last sentence of paragraph 9, which reads: 'calls on the Belarusian authorities to end their practice of issuing exit visas to their citizens, in particular, children and students'.</en>
+      <fr>(EN) Nous proposons de supprimer la dernière phrase du paragraphe 9 qui dit: "invite les autorités du Belarus <DiscourseConnective annotation_id="217">à</DiscourseConnective> mettre un terme à la pratique qui consiste à délivrer des visas de sortie aux citoyens bélarussiens, <DiscourseConnective annotation_id="320">en particulier</DiscourseConnective> aux enfants <DiscourseConnective annotation_id="347">et</DiscourseConnective> aux étudiants".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="285" docOffset="4">
+      <en>We want to delete this <Alignment alignment="366" annotation_id="308">
+          <DiscourseConnective annotation_id="308" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the authorities have already abolished this system of exit visas, <DiscourseConnective annotation_id="382" sense="Contingency.Cause.Result">so</DiscourseConnective> it is obsolete.</en>
+      <fr>
+        <Alignment alignment="3" annotation_id="366">
+          <DiscourseConnective annotation_id="366" sense="Contingency.Cause.Reason">En effet</DiscourseConnective>
+        </Alignment>, les autorités ayant <DiscourseConnective annotation_id="396">déjà</DiscourseConnective> aboli les visas de sortie, ce paragraphe est obsolète.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

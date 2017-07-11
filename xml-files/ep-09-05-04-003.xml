@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Approval of the minutes of the previous sitting: see Minutes</en>
+    <fr>Approbation du procès-verbal de la séance précédente: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="61" id="009" name="Johannes Blokland">
+    <ParallelChunk annotation_id="61" docOffset="1">
+      <en>(NL) Mr President, Queen's Day in the Netherlands is the annual occasion <DiscourseConnective annotation_id="134" sense="Temporal.Synchrony">when</DiscourseConnective> the entire Dutch population celebrates with the House of Orange-Nassau.</en>
+      <fr>(NL) Monsieur le Président, aux Pays-Bas, le Jour de la Reine est celui de la célébration par tout le peuple néerlandais de la Maison d'Orange-Nassau.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="211" docOffset="2">
+      <en>These celebrations were brutally disrupted, <Alignment alignment="721" annotation_id="255">
+          <DiscourseConnective annotation_id="255" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have barely recovered from the shock.</en>
+      <fr>Les festivités ont été brutalement interrompues <Alignment alignment="47" annotation_id="272">
+          <DiscourseConnective annotation_id="272" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est à peine si nous nous sommes remis de ce traumatisme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="300" docOffset="3">
+      <en>We remember the victims and express our condolences to their relatives.</en>
+      <fr>Nous rendons hommage aux victimes <DiscourseConnective annotation_id="368">et</DiscourseConnective> exprimons nos condoléances <DiscourseConnective annotation_id="398">à</DiscourseConnective> leurs familles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="372" docOffset="4">
+      <en>On behalf of the Dutch delegation, I should like to thank you for the letter you sent on behalf of the European Parliament to our queen Beatrix.</en>
+      <fr>Au nom de la délégation néerlandaise, permettez-moi de vous remercier <DiscourseConnective annotation_id="486">pour</DiscourseConnective> le courrier que vous avez adressé à la Reine Beatrix des Pays-Bas.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

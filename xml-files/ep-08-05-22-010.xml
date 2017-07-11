@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Calendar of part-sessions</en>
+    <fr>Calendrier des périodes de session</fr>
+  </ParallelChunk>
+<Speaker annotation_id="26" id="129" name="President">
+    <ParallelChunk annotation_id="26" docOffset="1">
+      <en>
+        <Alignment alignment="35" annotation_id="26">
+          <DiscourseConnective annotation_id="26" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> proceeding to the explanations of vote, let me inform you that the Conference of Presidents has decided, pursuant to Rule 127(3) of the Rules of Procedure, to amend this year's calendar of part-sessions.</en>
+      <fr>
+        <Alignment alignment="26" annotation_id="35">
+          <DiscourseConnective annotation_id="35" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> passer aux explications de vote, je vous informe <DiscourseConnective annotation_id="93">que</DiscourseConnective> la Conférence des présidents a décidé, conformément <DiscourseConnective annotation_id="149">à</DiscourseConnective> l'article 127, paragraphe 3, du règlement, de modifier le calendrier des séances pour cette année, de convoquer une séance plénière extraordinaire le mardi 24 juin prochain, de 9 heures à 11 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="237" docOffset="2">
+      <en>It is convening an extraordinary plenary sitting on Tuesday, 24 June 2008, from 9 a.m. to 11 a.m., for a joint debate on the outcome of the European Council of 19 and 20 June 2008 and the report on the Slovenian Presidency's six-month term.</en>
+      <fr>Il <DiscourseConnective annotation_id="353">s'</DiscourseConnective>agira d'une discussion commune sur les résultats du Conseil européen des 19 <DiscourseConnective annotation_id="431">et</DiscourseConnective> 20 juin prochains <DiscourseConnective annotation_id="452">et</DiscourseConnective> sur le bilan du semestre d'activité de la présidence slovène.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

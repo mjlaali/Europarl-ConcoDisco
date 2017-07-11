@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>21.</en>
+    <fr>21.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>European Authentic Act (</en>
+    <fr>L'acte authentique européen (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="29" docOffset="2">
+    <en>- After the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="36">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="47" id="134" name="Hartmut Nassauer">
+    <ParallelChunk annotation_id="47" docOffset="3">
+      <en>(DE) Mr President, I wish to return to the subject of the final vote on the Susta report.</en>
+      <fr>(DE) Monsieur le Président, je voudrais revenir sur la question du vote final concernant le rapport Susta.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="137" docOffset="4">
+      <en>We accidentally voted against it in the final vote, <Alignment alignment="217" annotation_id="189">
+          <DiscourseConnective annotation_id="189" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we meant to vote in favour.</en>
+      <fr>Nous avons accidentellement voté contre lors du vote final, <Alignment alignment="189" annotation_id="217">
+          <DiscourseConnective annotation_id="217" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> nous avions l'intention de voter <DiscourseConnective annotation_id="260">pour</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="222" docOffset="5">
+      <en>This resulted from slight confusion about the oral amendment.</en>
+      <fr>Cette erreur est due à une légère confusion <DiscourseConnective annotation_id="310">à propos</DiscourseConnective> de l'amendement oral.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="284" docOffset="6">
+      <en>I would ask you to accept our intention to vote in favour of the report in the final vote.</en>
+      <fr>Je vous demanderai de bien vouloir accepter notre intention de vote <DiscourseConnective annotation_id="409">en</DiscourseConnective> faveur du rapport lors du vote final.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>32.</en>
+    <fr>32.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Common authorisation procedure for food additives (vote)</en>
+    <fr>Procédure d'autorisation uniforme <DiscourseConnective annotation_id="38">pour</DiscourseConnective> les additifs, enzymes et arômes alimentaires (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="61" docOffset="2">
+    <en>Report: Åsa Westlund</en>
+    <fr>- Rapport Åsa Westlund</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="82" docOffset="3">
+    <en>- <Alignment alignment="120" annotation_id="84">
+        <DiscourseConnective annotation_id="84" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+      </Alignment> the vote</en>
+    <fr>- <Alignment alignment="84" annotation_id="120">
+        <DiscourseConnective annotation_id="120" sense="Temporal.Asynchronous.Precedence">Avant</DiscourseConnective>
+      </Alignment> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="100" id="166" name="Hartmut Nassauer">
+    <ParallelChunk annotation_id="100" docOffset="4">
+      <en>(DE) Madam President, allow me to point out an error in the voting list of the Group of the European People's Party (Christian Democrats) and European Democrats.</en>
+      <fr>(DE) Madame la Présidente, permettez-moi de signaler une erreur dans la liste de vote du groupe du parti populaire européen (démocrates-chrétiens) <DiscourseConnective annotation_id="282">et</DiscourseConnective> des démocrates européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="262" docOffset="5">
+      <en>In the vote on the legal basis, Amendment 39, we should be listed with a minus instead of a plus.</en>
+      <fr>Dans le vote sur la base juridique, l'amendement 39, nous devrions figurer dans la liste avec un moins et non un plus.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

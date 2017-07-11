@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="030" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I would like to welcome the delegation from Mexico comprising members of Mexico's Chamber of Deputies and Senate, who are present in the official gallery.</en>
+      <fr>Je voudrais souhaiter la bienvenue à la délégation mexicaine, <DiscourseConnective annotation_id="84">à</DiscourseConnective> la tribune officielle. Cette délégation se compose de membres de la Chambre des députés <DiscourseConnective annotation_id="174">et</DiscourseConnective> du Sénat du Mexique.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

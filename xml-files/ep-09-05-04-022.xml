@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Protection of animals used for scientific purposes (debate)</en>
+    <fr>Protection des animaux utilisés <DiscourseConnective annotation_id="32">à</DiscourseConnective> des fins scientifiques (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="60" id="185" name="President">
+    <ParallelChunk annotation_id="60" docOffset="1">
+      <en>The next item is the report by Mr Parish, on behalf of the Committee on Agriculture and Rural Development, on the proposal for a directive of the European Parliament and of the Council on the protection of animals used for scientific purposes - C6-0391/2008 -.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Parish, au nom de la commission de l'agriculture <DiscourseConnective annotation_id="155">et</DiscourseConnective> du développement rural, sur la proposition de directive du Parlement européen <DiscourseConnective annotation_id="236">et</DiscourseConnective> du Conseil relative à la protection des animaux utilisés <DiscourseConnective annotation_id="296">à</DiscourseConnective> des fins scientifiques - C6-0391/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="321" id="186" name="Neil Parish">
+    <ParallelChunk annotation_id="321" docOffset="2">
+      <en>rapporteur. - Madam President, firstly I would like to thank all the shadow rapporteurs who have been very willing to work with me on what is an incredibly technical and difficult dossier.</en>
+      <fr>rapporteur. - (EN) Madame la Présidente, je voudrais <DiscourseConnective annotation_id="392">tout d'abord</DiscourseConnective> remercier tous les rapporteurs fictifs qui ont fait preuve d'une bonne volonté considérable <DiscourseConnective annotation_id="497">pour</DiscourseConnective> collaborer avec moi sur un dossier incroyablement technique <DiscourseConnective annotation_id="562">et</DiscourseConnective> difficile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="510" docOffset="3">
+      <en>By working together we have been able to come up with what I believe is a good compromise.</en>
+      <fr>
+        <DiscourseConnective annotation_id="576">En</DiscourseConnective> travaillant ensemble, nous sommes parvenus à ce que je pense être un bon compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="601" docOffset="4">
+      <en>I would <Alignment alignment="675" annotation_id="609">
+          <DiscourseConnective annotation_id="609" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the Commission for their cooperation, <Alignment alignment="730" annotation_id="666">
+          <DiscourseConnective annotation_id="666" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we look forward to working with them on this dossier in the future.</en>
+      <fr>Je voudrais <Alignment alignment="609" annotation_id="675">
+          <DiscourseConnective annotation_id="675" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> remercier la Commission <DiscourseConnective annotation_id="709">pour</DiscourseConnective> sa coopération, <Alignment alignment="26618" annotation_id="730">
+          <DiscourseConnective annotation_id="730" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous nous réjouissons de collaborer avec elle <DiscourseConnective annotation_id="779">à</DiscourseConnective> l'avenir sur ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="738" docOffset="5">
+      <en>I would <Alignment alignment="46672" annotation_id="746">
+          <DiscourseConnective annotation_id="746" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank Patrick Baragiola from the AGRI secretariat and my adviser Dan Dalton.</en>
+      <fr>Je voudrais <Alignment alignment="746" annotation_id="818">
+          <DiscourseConnective annotation_id="818" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> remercier Patrick Baragiola du secrétariat AGRI <DiscourseConnective annotation_id="876">ainsi</DiscourseConnective> que mon conseiller Dan Dalton.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="836" docOffset="6">
+      <en>Animal testing is a highly controversial area and involves a moral dilemma.</en>
+      <fr>Les tests sur les animaux sont extrêmement controversés <DiscourseConnective annotation_id="969">et</DiscourseConnective> posent un dilemme moral.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="912" docOffset="7">
+      <en>Is it ever right to test on animals in order to potentially save the lives of humans?</en>
+      <fr>Est-il jamais justifié d'effectuer des tests sur des animaux <DiscourseConnective annotation_id="1058">afin de</DiscourseConnective> tenter de sauver des vies humaines?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="998" docOffset="8">
+      <en>I believe that, <Alignment alignment="40180" annotation_id="1014">
+          <Alignment alignment="18102" annotation_id="1014">
+            <DiscourseConnective annotation_id="1014" sense="Contingency.Condition">as long as</DiscourseConnective>
+          </Alignment>
+        </Alignment> tests are properly justified from both the scientific and ethical perspective, then it is.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="1111">que</DiscourseConnective> oui, <Alignment alignment="1014" annotation_id="1120">
+          <Alignment alignment="1014" annotation_id="1120">
+            <DiscourseConnective annotation_id="1120" sense="Contingency.Condition">pour autant que</DiscourseConnective>
+          </Alignment>
+        </Alignment> ces tests se justifient du point de vue scientifique <DiscourseConnective annotation_id="1189">comme</DiscourseConnective> du point de vue éthique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1116" docOffset="9">
+      <en>
+        <Alignment alignment="1232" annotation_id="1116">
+          <DiscourseConnective annotation_id="1116" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we must do everything we can to minimise both the number of tests and the amount of suffering imposed upon animals.</en>
+      <fr>Nous devons <Alignment alignment="7241" annotation_id="1232">
+          <DiscourseConnective annotation_id="1232" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> faire tout ce qui est en notre pouvoir <DiscourseConnective annotation_id="1281">pour</DiscourseConnective> minimiser le nombre de tests <DiscourseConnective annotation_id="1315">et</DiscourseConnective> la souffrance infligée aux animaux concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1241" docOffset="10">
+      <en>The Commission report was a good start.</en>
+      <fr>Le rapport de la Commission en la matière représente un bon début.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1281" docOffset="11">
+      <en>It showed that the Commission is keen on moving towards an end to animal experimentation whenever possible.</en>
+      <fr>Il montre le réel souhait de la Commission de mettre fin aux tests sur les animaux <DiscourseConnective annotation_id="1514">dans tous les cas</DiscourseConnective> possibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1389" docOffset="12">
+      <en>
+        <Alignment alignment="1569" annotation_id="1389">
+          <DiscourseConnective annotation_id="1389" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, in many areas the Commission proposal was ambiguous and may have the opposite effect to that which the Commission is seeking.</en>
+      <fr>Dans de nombreux domaines <Alignment alignment="11456" annotation_id="1569">
+          <DiscourseConnective annotation_id="1569" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment>, la proposition de la Commission est ambiguë <DiscourseConnective annotation_id="1624">et</DiscourseConnective> risque d'avoir l'effet inverse de celui recherché par la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1524" docOffset="13">
+      <en>The omission of definitions of a severity classification was a glaring hole in the whole proposal.</en>
+      <fr>L'omission des définitions liées <DiscourseConnective annotation_id="1729">à</DiscourseConnective> la classification des degrés de gravité représente une grave lacune <DiscourseConnective annotation_id="1799">pour</DiscourseConnective> cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1623" docOffset="14">
+      <en>The Commission was in effect asking Parliament to make a judgement on the rules surrounding the classifications without knowing what they actually were.</en>
+      <fr>Dans sa proposition originale, la Commission demandait <DiscourseConnective annotation_id="1878">en fait</DiscourseConnective> au Parlement de juger les règles relatives à la classification <DiscourseConnective annotation_id="1949">sans</DiscourseConnective> les connaître.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1776" docOffset="15">
+      <en>
+        <Alignment alignment="1969" annotation_id="1776">
+          <Alignment alignment="1969" annotation_id="1776">
+            <DiscourseConnective annotation_id="1776" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, some provisions, particularly the recommendations on the reuse of animals and on the proposed use of only F2 primates (second-generation primates) are likely to mean that many more animals will have to be used.</en>
+      <fr>
+        <Alignment alignment="15389" annotation_id="1969">
+          <Alignment alignment="1776" annotation_id="1969">
+            <DiscourseConnective annotation_id="1969" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, certaines dispositions, et <DiscourseConnective annotation_id="2006">notamment</DiscourseConnective> les recommandations relatives à la réutilisation d'animaux <DiscourseConnective annotation_id="2075">et</DiscourseConnective> la proposition de n'utiliser que des primates F2 (primates de deuxième génération), risquent de nécessiter l'utilisation d'un plus grand nombre d'animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2000" docOffset="16">
+      <en>In the case of F2 primates, no feasibility study has been done to see whether it is possible to do what the Commission is proposing.</en>
+      <fr>Dans le cas des primates F2, aucune étude de faisabilité n'a été réalisée <DiscourseConnective annotation_id="2307">en vue de</DiscourseConnective> déterminer la viabilité de l'approche proposée par la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2133" docOffset="17">
+      <en>Their impact assessment only looks at numbers; it does not look into the welfare implications.</en>
+      <fr>L'étude d'impact n'analyse <DiscourseConnective annotation_id="2410">que</DiscourseConnective> les chiffres, elle n'aborde pas les conséquences en termes de bien-être.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2228" docOffset="18">
+      <en>For this reason, Parliament urgently needed to amend the proposal: not to weaken it but to make it clear exactly <Alignment alignment="2615" annotation_id="2341">
+          <DiscourseConnective annotation_id="2341" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> testing on animals should be allowed and under what circumstances.</en>
+      <fr>Il fallait <DiscourseConnective annotation_id="2498">donc</DiscourseConnective> absolument que le Parlement modifie cette proposition, non <DiscourseConnective annotation_id="2562">pour</DiscourseConnective> l'affaiblir, <DiscourseConnective annotation_id="2580">mais</DiscourseConnective> <DiscourseConnective annotation_id="2585">pour</DiscourseConnective> clarifier avec précision <Alignment alignment="8231" annotation_id="2615">
+          <DiscourseConnective annotation_id="2615" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> des tests sur des animaux doivent être autorisés <DiscourseConnective annotation_id="2670">et</DiscourseConnective> dans quelles circonstances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2413" docOffset="19">
+      <en>I believe that the AGRI Committee report strikes a compromise between ensuring that research can continue in the EU and improving animal welfare.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="2710">que</DiscourseConnective> le rapport de la commission AGRI représente un compromis permettant à la fois de poursuivre la recherche dans l'Union européenne <DiscourseConnective annotation_id="2843">et</DiscourseConnective> d'améliorer le bien-être animal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2559" docOffset="20">
+      <en>From an animal welfare perspective it is a step forward.</en>
+      <fr>Du point de vue du bien-être animal, il représente un pas en <DiscourseConnective annotation_id="2940">avant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2616" docOffset="21">
+      <en>It is all about promoting alternatives to animal experimentation through a financial commitment, more emphasis on the three 'R's and the strengthening of the role of ECVAM.</en>
+      <fr>Il <DiscourseConnective annotation_id="2950">s'</DiscourseConnective>agit avant tout de promouvoir les alternatives <DiscourseConnective annotation_id="2999">à</DiscourseConnective> l'expérimentation animale au moyen d'un engagement financier, de mettre davantage l'accent sur les trois R ("replacement, reduction and refinement" - remplacement, réduction et perfectionnement) <DiscourseConnective annotation_id="3196">et</DiscourseConnective> de renforcer le rôle du CEVMA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2789" docOffset="22">
+      <en>
+        <DiscourseConnective annotation_id="2789" sense="Expansion.Conjunction">In addition</DiscourseConnective> I have <Alignment alignment="3235" annotation_id="2808">
+          <DiscourseConnective annotation_id="2808" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> proposed regular thematic reviews of primate experiments to identify and phase out those experiments which are not necessary.</en>
+      <fr>J'ai <Alignment alignment="15484" annotation_id="3235">
+          <DiscourseConnective annotation_id="3235" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> proposé des réexamens thématiques réguliers des expérimentations sur les primates afin d'identifier <DiscourseConnective annotation_id="3345">et</DiscourseConnective> d'éliminer progressivement les expériences superflues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2939" docOffset="23">
+      <en>It is <Alignment alignment="8566" annotation_id="2945">
+          <DiscourseConnective annotation_id="2945" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a step forward for medical research.</en>
+      <fr>Ce rapport représente <Alignment alignment="2945" annotation_id="3425">
+          <DiscourseConnective annotation_id="3425" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> un pas en <DiscourseConnective annotation_id="3445">avant</DiscourseConnective> <DiscourseConnective annotation_id="3451">pour</DiscourseConnective> la recherche médicale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2987" docOffset="24">
+      <en>It will update the current outdated legislation and will allow medical research to continue as and <DiscourseConnective annotation_id="3086" sense="Temporal.Synchrony">when</DiscourseConnective> that research is scientifically and ethically justified.</en>
+      <fr>Il permettra de mettre à jour la législation désuète actuelle tout en permettant la poursuite des recherches médicales justifiées d'un point de vue scientifique <DiscourseConnective annotation_id="3640">et</DiscourseConnective> éthique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3148" docOffset="25">
+      <en>I believe that this is fundamentally important.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="3661">que</DiscourseConnective> cet aspect revêt une importance fondamentale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3196" docOffset="26">
+      <en>We <Alignment alignment="3724" annotation_id="3199">
+          <DiscourseConnective annotation_id="3199" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want to see animal tests reduced.</en>
+      <fr>Nous voulons <Alignment alignment="1509" annotation_id="3724">
+          <DiscourseConnective annotation_id="3724" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> réduire le nombre de tests sur les animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3238" docOffset="27">
+      <en>
+        <Alignment alignment="3778" annotation_id="3238">
+          <DiscourseConnective annotation_id="3238" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, European citizens quite rightly demand that the best and more effective medicines are available.</en>
+      <fr>
+        <Alignment alignment="3238" annotation_id="3778">
+          <DiscourseConnective annotation_id="3778" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, les citoyens européens exigent à juste titre de disposer des médicaments les plus efficaces.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3344" docOffset="28">
+      <en>Reliable European research and development is essential.</en>
+      <fr>Il est donc essentiel de poursuivre en Europe des activités de recherche <DiscourseConnective annotation_id="3955">et</DiscourseConnective> de développement de qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3401" docOffset="29">
+      <en>Vaccines for polio, German measles, hepatitis B, diphtheria, measles, mumps, rubella and meningitis, along with combined therapy drugs for HIV, medicines to control asthma, life support systems for premature babies and deep brain stimulation for Parkinson's disease, have all been developed through experimentation on animals, and specifically primates.</en>
+      <fr>Les vaccins contre la polio, la rubéole, l'hépatite B, la diphtérie, la rougeole, les oreillons <DiscourseConnective annotation_id="4083">et</DiscourseConnective> la méningite ont tous étés développés grâce à des expériences sur des animaux, <DiscourseConnective annotation_id="4165">et</DiscourseConnective> <DiscourseConnective annotation_id="4168">plus précisément</DiscourseConnective> sur des primates. Il en va de même pour les traitements combinés contre le VIH, les médicaments de maîtrise de l'asthme, les systèmes d'assistance <DiscourseConnective annotation_id="4332">pour</DiscourseConnective> bébés prématurés <DiscourseConnective annotation_id="4354">ou encore</DiscourseConnective> la stimulation cérébrale profonde des patients atteints de la maladie de Parkinson.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3755" docOffset="30">
+      <en>Many millions of lives have been saved or improved <DiscourseConnective annotation_id="3806" sense="Contingency.Cause.Result">as a result</DiscourseConnective>.</en>
+      <fr>Ces expériences ont permis de sauver <DiscourseConnective annotation_id="4485">ou</DiscourseConnective> d'améliorer des millions de vies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3819" docOffset="31">
+      <en>
+        <Alignment alignment="4522" annotation_id="3819">
+          <DiscourseConnective annotation_id="3819" sense="Temporal.Asynchronous.Precedence">Until</DiscourseConnective>
+        </Alignment> we have alternatives in place, I believe that it would be unwise to outlaw these types of experiments, either directly or indirectly through poorly worded legislation.</en>
+      <fr>
+        <Alignment alignment="3819" annotation_id="4522">
+          <DiscourseConnective annotation_id="4522" sense="Temporal.Asynchronous.Precedence">Tant que</DiscourseConnective>
+        </Alignment> nous ne possédons pas d'alternative, je pense <DiscourseConnective annotation_id="4577">qu'</DiscourseConnective>il ne serait pas sage d'interdire ces expériences, de façon directe <DiscourseConnective annotation_id="4648">ou</DiscourseConnective> indirecte du fait d'une législation mal formulée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3993" docOffset="32">
+      <en>This directive will set out the framework to ensure that we can phase out animal testing as soon as alternative methods are available.</en>
+      <fr>Cette directive établira le cadre nécessaire <DiscourseConnective annotation_id="4746">pour</DiscourseConnective> permettre l'élimination progressive des tests sur les animaux <DiscourseConnective annotation_id="4813">dès que</DiscourseConnective> des méthodes alternatives sont disponibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4128" docOffset="33">
+      <en>It significantly improves the search for alternatives and puts us firmly on the path to one day phasing out animal testing altogether.</en>
+      <fr>Elle améliore considérablement la recherche d'alternatives <DiscourseConnective annotation_id="4924">et</DiscourseConnective> nous met clairement sur la voie qui nous mènera <DiscourseConnective annotation_id="4975">un jour</DiscourseConnective> à éliminer entièrement les tests sur les animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4263" docOffset="34">
+      <en>We have a good compromise in the AGRI Committee.</en>
+      <fr>Nous sommes parvenus à un bon compromis au sein de la commission AGRI.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4312" docOffset="35">
+      <en>
+        <Alignment alignment="50684" annotation_id="4312">
+          <DiscourseConnective annotation_id="4312" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the Liberal group appears to be trying to drive a coach and horses through this agreement.</en>
+      <fr>
+        <Alignment alignment="12940" annotation_id="5104">
+          <DiscourseConnective annotation_id="5104" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, il semble que le groupe libéral souhaite empêcher l'adoption de cet accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4412" docOffset="36">
+      <en>I would urge them not to vote against this report, <DiscourseConnective annotation_id="4463" sense="Contingency.Cause.Reason">because</DiscourseConnective> it will set back animal welfare by several years <Alignment alignment="5523" annotation_id="4520">
+          <DiscourseConnective annotation_id="4520" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it would be completely wrong for them to take this action.</en>
+      <fr>Je demande aux libéraux de ne pas voter contre ce rapport. Un tel vote ferait reculer de plusieurs années le bien-être animal, <Alignment alignment="5131" annotation_id="5318">
+          <DiscourseConnective annotation_id="5318" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> une telle action de leur part serait tout à fait injustifiable.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4583" id="187" name="Stavros Dimas">
+    <ParallelChunk annotation_id="4583" docOffset="37">
+      <en>Member of the Commission. - (EL) Madam President, I welcome the opportunity that we have this evening of debating the proposal to revise the directive on the protection of animals used for scientific purposes.</en>
+      <fr>membre de la Commission. - (EL) Madame la Présidente, je me réjouis de l'occasion qui nous est donnée ce soir de discuter de la proposition de réviser la directive relative à la protection des animaux utilisés <DiscourseConnective annotation_id="5595">à</DiscourseConnective> des fins scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4793" docOffset="38">
+      <en>I should like to thank the rapporteur, Mr Parish, and the three parliamentary committees that examined the report for their efforts and their comments.</en>
+      <fr>Je souhaite remercier le rapporteur, M. Parish, <DiscourseConnective annotation_id="5669">ainsi</DiscourseConnective> que les trois commissions parlementaires qui ont examiné ce rapport, <DiscourseConnective annotation_id="5744">pour</DiscourseConnective> leurs efforts <DiscourseConnective annotation_id="5763">et</DiscourseConnective> leurs commentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4945" docOffset="39">
+      <en>I am certain that the dialogue which ensues will be constructive.</en>
+      <fr>Je suis certain <DiscourseConnective annotation_id="5802">que</DiscourseConnective> le dialogue qui suivra sera constructif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5011" docOffset="40">
+      <en>Numerous Member States have long since adopted their own national legislation on the protection of animals used for scientific purposes.</en>
+      <fr>De nombreux États membres ont adopté <DiscourseConnective annotation_id="5884">depuis</DiscourseConnective> longtemps leur propre législation nationale <DiscourseConnective annotation_id="5935">en</DiscourseConnective> matière de protection des animaux utilisés <DiscourseConnective annotation_id="5981">à</DiscourseConnective> des fins scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5148" docOffset="41">
+      <en>
+        <Alignment alignment="6010" annotation_id="5148">
+          <DiscourseConnective annotation_id="5148" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+        </Alignment>, there are different levels of protection in Europe.</en>
+      <fr>Il <Alignment alignment="5148" annotation_id="6010">
+          <DiscourseConnective annotation_id="6010" sense="Contingency.Cause.Result">en</DiscourseConnective>
+        </Alignment> résulte différents niveaux de protection <DiscourseConnective annotation_id="6054">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5213" docOffset="42">
+      <en>The review will achieve a harmonised level of protection within the Community and will safeguard the smooth operation of the internal market.</en>
+      <fr>Cette révision permettra d'obtenir un niveau de protection uniforme au sein de la Communauté <DiscourseConnective annotation_id="6158">et</DiscourseConnective> de sauvegarder ainsi le bon fonctionnement du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5355" docOffset="43">
+      <en>The Commission's aim is to improve the legislation of the European Union governing animal experiments.</en>
+      <fr>L'objectif de la Commission est d'améliorer la législation de l'Union européenne en matière d'expérimentation animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5458" docOffset="44">
+      <en>On the one hand, this will both limit the number of experimental animals <DiscourseConnective annotation_id="5531" sense="Expansion.Conjunction">and</DiscourseConnective>, <DiscourseConnective annotation_id="5536" sense="Comparison.Contrast">on the other hand</DiscourseConnective>, it will provide suitable care and treatment of animals subjected to experiments, <Alignment alignment="6505" annotation_id="5636">
+          <DiscourseConnective annotation_id="5636" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> required under the Protocol on protection and welfare of animals added to the Treaty establishing the European Community.</en>
+      <fr>Cette mesure permettra de limiter le nombre d'expériences sur des animaux, mais elle garantira aussi un traitement adéquat des animaux soumis <DiscourseConnective annotation_id="6486">à</DiscourseConnective> ces expériences, <Alignment alignment="13609" annotation_id="6505">
+          <DiscourseConnective annotation_id="6505" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'exige le protocole sur la protection <DiscourseConnective annotation_id="6550">et</DiscourseConnective> le bien-être des animaux annexé au traité instituant la Communauté européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5761" docOffset="45">
+      <en>Our aim is for this review to considerably improve the welfare of experimental animals within the European Union.</en>
+      <fr>Notre objectif est <DiscourseConnective annotation_id="6651">que</DiscourseConnective> cette révision améliore considérablement le bien-être des animaux utilisés pour des expériences au sein de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5875" docOffset="46">
+      <en>The welfare requirements of animals are now officially included in the Treaty on European Union and must be taken into account <DiscourseConnective annotation_id="6002" sense="Temporal.Synchrony">when</DiscourseConnective> laying down policies in sectors such as the internal market.</en>
+      <fr>Les exigences relatives au bien-être des animaux font désormais officiellement partie du traité sur l'Union européenne, <DiscourseConnective annotation_id="6902">et</DiscourseConnective> doivent être prises en compte dans l'élaboration des politiques dans des secteurs tels <DiscourseConnective annotation_id="6992">que</DiscourseConnective> le marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6068" docOffset="47">
+      <en>Experts and specialists in the animal testing sector, the research community, the industry directly interested and citizens were involved in formulating the proposal with transparent procedures and without exclusions.</en>
+      <fr>Les experts <DiscourseConnective annotation_id="7029">et</DiscourseConnective> les spécialistes du secteur de l'expérimentation animale, les chercheurs, les secteurs de l'industrie directement concernés <DiscourseConnective annotation_id="7156">et</DiscourseConnective> les citoyens ont participé <DiscourseConnective annotation_id="7186">à</DiscourseConnective> l'élaboration d'une proposition définissant des procédures transparentes <DiscourseConnective annotation_id="7261">et</DiscourseConnective> <DiscourseConnective annotation_id="7264">sans</DiscourseConnective> exceptions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6286" docOffset="48">
+      <en>The proposal is <Alignment alignment="22789" annotation_id="6302">
+          <DiscourseConnective annotation_id="6302" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> based on a carefully substantiated impact assessment.</en>
+      <fr>Cette proposition repose <Alignment alignment="6302" annotation_id="7306">
+          <DiscourseConnective annotation_id="7306" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> sur une étude d'impact minutieuse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6361" docOffset="49">
+      <en>
+        <Alignment alignment="11569" annotation_id="6361">
+          <DiscourseConnective annotation_id="6361" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, numerous scientific agencies made a significant contribution to this procedure.</en>
+      <fr>
+        <Alignment alignment="15258" annotation_id="7351">
+          <DiscourseConnective annotation_id="7351" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, de nombreuses agences scientifiques ont apporté une contribution importante <DiscourseConnective annotation_id="7437">à</DiscourseConnective> cette procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6451" docOffset="50">
+      <en>A comparative analysis of the possible benefits and the costs of taking action against not taking action was carried out in order to draw up the proposal.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7456">Pour</DiscourseConnective> élaborer cette proposition, nous avons effectué une analyse comparative des avantages <DiscourseConnective annotation_id="7547">et</DiscourseConnective> des coûts possibles de l'action envisagée par rapport à l'inaction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6606" docOffset="51">
+      <en>This proposal strikes the necessary balance; on the one hand, it promotes competitiveness and research in Europe <Alignment alignment="7734" annotation_id="6719">
+          <DiscourseConnective annotation_id="6719" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="7738" annotation_id="6724">
+          <Alignment alignment="34648" annotation_id="6724">
+            <Alignment alignment="7427" annotation_id="6724">
+              <DiscourseConnective annotation_id="6724" sense="Comparison.Contrast">on the other hand</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, it takes full account of the welfare requirements of animals.</en>
+      <fr>Cette position respecte l'équilibre nécessaire. <DiscourseConnective annotation_id="7666">D'une part</DiscourseConnective>, elle promeut la compétitivité <DiscourseConnective annotation_id="7708">et</DiscourseConnective> la recherche <DiscourseConnective annotation_id="7724">en</DiscourseConnective> Europe <Alignment alignment="6719" annotation_id="7734">
+          <DiscourseConnective annotation_id="7734" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="19571" annotation_id="7738">
+          <Alignment alignment="11975" annotation_id="7738">
+            <Alignment alignment="22839" annotation_id="7738">
+              <DiscourseConnective annotation_id="7738" sense="Comparison.Contrast">d'autre part</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, elle prend pleinement en compte les exigences relatives au bien-être des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6805" docOffset="52">
+      <en>The Commission has carefully examined the concerns expressed by various sides that the proposal would expel European research from Europe, due to the supposed administrative burden or the cost involved in specific animal welfare requirements.</en>
+      <fr>La Commission a analysé avec soin les inquiétudes exprimées par différentes parties selon lesquelles cette proposition risquait de faire fuir la recherche européenne en raison de la charge administrative supposée <DiscourseConnective annotation_id="8047">ou</DiscourseConnective> des coûts impliqués par certaines exigences spécifiques en matière de bien-être animal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7048" docOffset="53">
+      <en>
+        <Alignment alignment="8138" annotation_id="7048">
+          <DiscourseConnective annotation_id="7048" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, there is no evidence that there will be any such drain to non-EU countries.</en>
+      <fr>
+        <Alignment alignment="8035" annotation_id="8138">
+          <DiscourseConnective annotation_id="8138" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, rien ne permet de craindre une telle fuite de la recherche vers les pays non européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7133" docOffset="54">
+      <en>Several of the welfare standards contained in our proposal and many of the stricter licensing procedures are already being applied by Member States who lead the way in research globally.</en>
+      <fr>Plusieurs des normes en matière de bien-être <DiscourseConnective annotation_id="8282">et</DiscourseConnective> des procédures d'autorisation plus strictes contenues dans notre proposition sont <DiscourseConnective annotation_id="8367">déjà</DiscourseConnective> appliquées par des États membres <DiscourseConnective annotation_id="8405">à</DiscourseConnective> la pointe de la recherche mondiale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7320" docOffset="55">
+      <en>
+        <Alignment alignment="2018" annotation_id="7320">
+          <DiscourseConnective annotation_id="7320" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, our proposal makes provision for measures to minimise the administrative burden.</en>
+      <fr>
+        <Alignment alignment="17649" annotation_id="8443">
+          <DiscourseConnective annotation_id="8443" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, notre proposition prévoit des mesures destinées <DiscourseConnective annotation_id="8500">à</DiscourseConnective> minimiser la charge administrative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7414" docOffset="56">
+      <en>There is, <Alignment alignment="8547" annotation_id="7424">
+          <Alignment alignment="1738" annotation_id="7424">
+            <DiscourseConnective annotation_id="7424" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, no contradiction between the adoption of strict animal welfare standards and the promotion of a high level of scientific research.</en>
+      <fr>Il n'y a <Alignment alignment="16520" annotation_id="8547">
+          <Alignment alignment="9668" annotation_id="8547">
+            <DiscourseConnective annotation_id="8547" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> aucune contradiction entre l'adoption de normes strictes en matière de bien-être animal <DiscourseConnective annotation_id="8643">et</DiscourseConnective> la promotion d'une recherche scientifique de haut niveau.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7564" docOffset="57">
+      <en>
+        <Alignment alignment="5231" annotation_id="7564">
+          <Alignment alignment="8348" annotation_id="7564">
+            <DiscourseConnective annotation_id="7564" sense="Comparison.Contrast">On the contrary</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the two concepts are interconnected.</en>
+      <fr>
+        <Alignment alignment="24716" annotation_id="8704">
+          <Alignment alignment="20597" annotation_id="8704">
+            <DiscourseConnective annotation_id="8704" sense="Comparison.Contrast">Au contraire</DiscourseConnective>
+          </Alignment>
+        </Alignment>, ces deux concepts sont liés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7618" docOffset="58">
+      <en>Under the Commission proposal, the licensing of research on animals who are still conscious will be accompanied by systematic independent ethical evaluation.</en>
+      <fr>Selon la proposition de la Commission, l'autorisation de recherches sur des animaux conscients s'accompagnera systématiquement d'une évaluation éthique indépendante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7776" docOffset="59">
+      <en>This will put the principles of restoring, restricting and improving the use of animals into practice.</en>
+      <fr>Ceci garantira la mise <DiscourseConnective annotation_id="8936">en</DiscourseConnective> pratique des principes de remplacement, de restriction <DiscourseConnective annotation_id="8994">et</DiscourseConnective> de perfectionnement de l'utilisation des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7879" docOffset="60">
+      <en>These provisions are the fundamental objectives of the review.</en>
+      <fr>Ces dispositions sont les objectifs fondamentaux de la révision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7942" docOffset="61">
+      <en>We shall be unable to achieve our objectives <Alignment alignment="46699" annotation_id="7987">
+          <DiscourseConnective annotation_id="7987" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we replace licensing by tacit agreement to every type of research <Alignment alignment="38637" annotation_id="8056">
+          <DiscourseConnective annotation_id="8056" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> <Alignment alignment="10087" annotation_id="8059">
+          <DiscourseConnective annotation_id="8059" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we allow the ethical evaluation to be carried out by those with a direct interest in the research project.</en>
+      <fr>Nous ne parviendrons pas <DiscourseConnective annotation_id="9137">à</DiscourseConnective> atteindre nos objectifs <Alignment alignment="26789" annotation_id="9163">
+          <DiscourseConnective annotation_id="9163" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous remplaçons l'autorisation par l'approbation tacite de tous les types de recherche, <Alignment alignment="6770" annotation_id="9254">
+          <DiscourseConnective annotation_id="9254" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <Alignment alignment="7191" annotation_id="9257">
+          <DiscourseConnective annotation_id="9257" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous permettons que l'évaluation éthique <DiscourseConnective annotation_id="9301">soit</DiscourseConnective> assurée par des personnes ayant un intérêt direct dans le projet de recherche concerné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8169" docOffset="62">
+      <en>Finally, the Commission wishes to avoid any possible interruption to scientific projects under way and to minimise the administrative burden.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9394">Enfin</DiscourseConnective>, la Commission souhaite éviter toute interruption des projets scientifiques <DiscourseConnective annotation_id="9476">en</DiscourseConnective> cours <DiscourseConnective annotation_id="9485">et</DiscourseConnective> minimiser la charge administrative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8311" docOffset="63">
+      <en>That is why it allows for flexible application and encourages the use of existing infrastructures in the Member States wherever possible.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9524">C'est pourquoi</DiscourseConnective> elle permet une application souple <DiscourseConnective annotation_id="9574">et</DiscourseConnective> encourage, dans la mesure du possible, l'utilisation des infrastructures existantes des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8449" docOffset="64">
+      <en>Ladies and gentlemen, the recast proposal will restore the smooth operation of the internal market, improve animal welfare standards and promote research.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="9689">et</DiscourseConnective> Messieurs, cette proposition révisée permettra de rétablir le bon fonctionnement du marché intérieur, d'améliorer les normes de bien-être animal <DiscourseConnective annotation_id="9837">et</DiscourseConnective> de promouvoir la recherche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8604" docOffset="65">
+      <en>The current legislation urgently needs to be strengthened and improved in a properly balanced manner <Alignment alignment="40102" annotation_id="8705">
+          <DiscourseConnective annotation_id="8705" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is precisely what the Commission proposal achieves.</en>
+      <fr>Il est grand temps de renforcer <DiscourseConnective annotation_id="9900">et</DiscourseConnective> d'améliorer la législation actuelle de façon équilibrée, <Alignment alignment="22741" annotation_id="9960">
+          <DiscourseConnective annotation_id="9960" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est <DiscourseConnective annotation_id="9969">précisément</DiscourseConnective> ce que fait la proposition de la Commission.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8766" id="188" name="Marios Matsakis">
+    <ParallelChunk annotation_id="8766" docOffset="66">
+      <en>rapporteur for the opinion of the Committee on the Environment, Public Health and Food Safety. - Madam President, it is a necessary evil of our times that, unfortunately, human and animal health research requires, as a must, animal experimentation.</en>
+      <fr>rapporteur <DiscourseConnective annotation_id="10037">pour</DiscourseConnective> avis de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="10105">et</DiscourseConnective> de la sécurité alimentaire. - (EN) Madame la Présidente, la recherche médicale au profit des humains <DiscourseConnective annotation_id="10209">comme</DiscourseConnective> des animaux nécessite <DiscourseConnective annotation_id="10237">malheureusement</DiscourseConnective> des expériences sur les animaux. Il <DiscourseConnective annotation_id="10289">s'</DiscourseConnective>agit là d'un mal nécessaire de notre temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9015" docOffset="67">
+      <en>It is my firm belief that no true scientist enjoys experimenting on animals or does so <Alignment alignment="10498" annotation_id="9102">
+          <DiscourseConnective annotation_id="9102" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> alternative means of research are available.</en>
+      <fr>Je suis fermement convaincu <DiscourseConnective annotation_id="10363">qu'</DiscourseConnective>aucun vrai scientifique ne prend plaisir à expérimenter sur des animaux, et qu'aucun scientifique n'opte pour de telles expériences <Alignment alignment="9102" annotation_id="10498">
+          <DiscourseConnective annotation_id="10498" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> des méthodes de recherche alternatives sont disponibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9152" docOffset="68">
+      <en>Such research must of course at all times be as humane as possible to the animals involved.</en>
+      <fr>Il va de soi que cette recherche doit toujours <DiscourseConnective annotation_id="10608">s'</DiscourseConnective>efforcer de traiter les animaux concernés de la façon la plus humaine possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9244" docOffset="69">
+      <en>To this end the directive under debate seeks - correctly, in my view - to improve matters significantly and decidedly.</en>
+      <fr>La directive dont nous discutons vise, à juste titre selon moi, <DiscourseConnective annotation_id="10754">à</DiscourseConnective> améliorer considérablement la situation en la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9363" docOffset="70">
+      <en>Important areas of note are the safeguarding of the principles of ethical review and authorisation as well as the concepts of enhanced national inspections and increased transparency throughout.</en>
+      <fr>Parmi les aspects importants de cette proposition, on peut noter le respect des principes d'examen éthique <DiscourseConnective annotation_id="10918">et</DiscourseConnective> d'autorisation, la notion de contrôles nationaux améliorés <DiscourseConnective annotation_id="10980">ou encore</DiscourseConnective> le renforcement global de la transparence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9558" docOffset="71">
+      <en>It must be emphasised that the aim of the scientific and political world should always be to phase out the use of animals in research <Alignment alignment="11160" annotation_id="9692">
+          <DiscourseConnective annotation_id="9692" sense="Contingency.Condition">if and when</DiscourseConnective>
+        </Alignment> alternative and effective methods not using animals are made available.</en>
+      <fr>Il faut souligner <DiscourseConnective annotation_id="11051">que</DiscourseConnective> l'objectif du monde scientifique <DiscourseConnective annotation_id="11088">et</DiscourseConnective> politique devrait toujours être d'éliminer l'expérimentation animale <Alignment alignment="9701" annotation_id="11160">
+          <DiscourseConnective annotation_id="11160" sense="Contingency.Condition">dans tous les cas</DiscourseConnective>
+        </Alignment> où des méthodes alternatives efficaces n'impliquant pas d'animaux sont disponibles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9776" id="189" name="Esko Seppänen">
+    <ParallelChunk annotation_id="9776" docOffset="72">
+      <en>draftsman of the opinion of the Committee on Industry, Research and Energy. - (FI) Madam President, Commissioner, the report by the Committee on Agriculture and Rural Development is a compromise that takes account of the views of the parties in a balanced way.</en>
+      <fr>rapporteur pour avis de la commission de l'industrie, de la recherche <DiscourseConnective annotation_id="11332">et</DiscourseConnective> de l'énergie. - (FI) Madame la Présidente, Monsieur le Commissaire, le rapport de la commission de l'agriculture <DiscourseConnective annotation_id="11448">et</DiscourseConnective> du développement rural constitue un compromis équilibré qui tient compte des opinions des différentes parties concernées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10037" docOffset="73">
+      <en>The Commission proposal has been amended in a way that the Committee on Industry, Research and Energy is <Alignment alignment="50434" annotation_id="10142">
+          <DiscourseConnective annotation_id="10142" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> proposing.</en>
+      <fr>La proposition de la Commission a été modifiée de la façon <DiscourseConnective annotation_id="11632">que</DiscourseConnective> proposait <Alignment alignment="17021" annotation_id="11646">
+          <DiscourseConnective annotation_id="11646" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la commission de l'industrie, de la recherche <DiscourseConnective annotation_id="11702">et</DiscourseConnective> de l'énergie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10158" docOffset="74">
+      <en>
+        <Alignment alignment="11719" annotation_id="10158">
+          <DiscourseConnective annotation_id="10158" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> there are no alternative procedures for developing all drugs and vaccines, animal experiments have to be conducted.</en>
+      <fr>
+        <Alignment alignment="13881" annotation_id="11719">
+          <DiscourseConnective annotation_id="11719" sense="Temporal.Synchrony">Dans la mesure où</DiscourseConnective>
+        </Alignment> il n'existe pas de procédures alternatives <DiscourseConnective annotation_id="11780">pour</DiscourseConnective> le développement de tous les médicaments <DiscourseConnective annotation_id="11826">et</DiscourseConnective> de tous les vaccins, les expériences sur les animaux restent nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10277" docOffset="75">
+      <en>We are responsible to the citizens of the EU for ensuring that our fellow citizens, <Alignment alignment="5176" annotation_id="10361">
+          <DiscourseConnective annotation_id="10361" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> ill, are comforted by the hope that the drugs needed to cure them are <Alignment alignment="12110" annotation_id="10436">
+          <DiscourseConnective annotation_id="10436" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> developed in Europe.</en>
+      <fr>Vis-à-vis des citoyens de l'UE, nous avons la responsabilité de faire en sorte <DiscourseConnective annotation_id="11982">que</DiscourseConnective> <Alignment alignment="24164" annotation_id="11986">
+          <DiscourseConnective annotation_id="11986" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>ils sont malades, nos concitoyens soient rassurés par l'espoir <DiscourseConnective annotation_id="12056">que</DiscourseConnective> les médicaments nécessaires <DiscourseConnective annotation_id="12088">pour</DiscourseConnective> les guérir aient <Alignment alignment="10436" annotation_id="12110">
+          <DiscourseConnective annotation_id="12110" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> été développés <DiscourseConnective annotation_id="12131">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10462" docOffset="76">
+      <en>At the same time, those who conduct animal tests are under an obligation to treat experimental animals well and cause them as little pain as possible.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12142">D'un autre côté</DiscourseConnective>, ceux qui effectuent des tests sur des animaux ont le devoir de traiter correctement ces animaux <DiscourseConnective annotation_id="12255">et</DiscourseConnective> de les faire souffrir le moins possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10613" docOffset="77">
+      <en>The directive is a clear improvement for animal welfare, <Alignment alignment="12376" annotation_id="10670">
+          <DiscourseConnective annotation_id="10670" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> many of the amendments tabled by the Committee on Agriculture are the same or similar to what we, the Committee on Industry, proposed.</en>
+      <fr>Cette directive représente une amélioration claire <DiscourseConnective annotation_id="12350">pour</DiscourseConnective> le bien-être animal, <Alignment alignment="10670" annotation_id="12376">
+          <DiscourseConnective annotation_id="12376" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> bon nombre des amendements déposés par la commission de l'agriculture sont identiques <DiscourseConnective annotation_id="12465">ou</DiscourseConnective> semblables <DiscourseConnective annotation_id="12479">à</DiscourseConnective> ceux <DiscourseConnective annotation_id="12486">que</DiscourseConnective> nous avions proposés au sein de la commission de l'industrie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10809" docOffset="78">
+      <en>
+        <Alignment alignment="12552" annotation_id="10809">
+          <DiscourseConnective annotation_id="10809" sense="Contingency.Cause.Result">Accordingly</DiscourseConnective>
+        </Alignment>, the Committee on Agriculture's report should be adopted with as few changes as possible.</en>
+      <fr>
+        <Alignment alignment="18696" annotation_id="12552">
+          <DiscourseConnective annotation_id="12552" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, le rapport de la commission de l'agriculture doit être adopté avec <DiscourseConnective annotation_id="12635">aussi</DiscourseConnective> peu de modifications <DiscourseConnective annotation_id="12662">que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10911" id="190" name="Elisabeth Jeggle">
+    <ParallelChunk annotation_id="10911" docOffset="79">
+      <en>on behalf of the PPE-DE Group. - (DE) Madam President, Commissioner, ladies and gentlemen, the Animal Testing Directive is based on the 3Rs principle. Our objective is the replacement, reduction and refinement of animal testing.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Madame la Présidente, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="12764">et</DiscourseConnective> Messieurs, la directive sur l'expérimentation animale repose sur le principe des trois R. Notre objectif est de remplacer, de réduire <DiscourseConnective annotation_id="12901">et</DiscourseConnective> de perfectionner l'expérimentation animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11140" docOffset="80">
+      <en>In order to achieve this, we need to develop and promote alternative methods.</en>
+      <fr>Pour y parvenir, nous devons développer <DiscourseConnective annotation_id="12988">et</DiscourseConnective> mettre en avant des méthodes alternatives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11218" docOffset="81">
+      <en>Thirdly, we must find a compromise between animal welfare and research, <Alignment alignment="53616" annotation_id="11290">
+          <DiscourseConnective annotation_id="11290" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> placing the emphasis on human health.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13034">Troisièmement</DiscourseConnective>, nous devons trouver un compromis entre le bien-être animal <DiscourseConnective annotation_id="13108">et</DiscourseConnective> la recherche, <Alignment alignment="15809" annotation_id="13125">
+          <DiscourseConnective annotation_id="13125" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> mettant l'accent sur la santé humaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11334" docOffset="82">
+      <en>Commissioner, you have <Alignment alignment="48806" annotation_id="11357">
+          <DiscourseConnective annotation_id="11357" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> emphasised that we need to have the same standards in all Member States.</en>
+      <fr>Monsieur le Commissaire, vous avez <Alignment alignment="18901" annotation_id="13207">
+          <DiscourseConnective annotation_id="13207" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souligné la nécessité d'appliquer les mêmes normes dans tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11435" docOffset="83">
+      <en>The current legislative proposal is based on the Community Action Plan on the Protection and Welfare of Animals and on the animal health strategy.</en>
+      <fr>Cette proposition législative repose sur le plan d'action communautaire <DiscourseConnective annotation_id="13369">pour</DiscourseConnective> la protection <DiscourseConnective annotation_id="13388">et</DiscourseConnective> le bien-être des animaux <DiscourseConnective annotation_id="13416">et</DiscourseConnective> sur la stratégie de santé animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11582" docOffset="84">
+      <en>We want to ensure a high level of protection and high standards in the European Union and throughout the world.</en>
+      <fr>Nous voulons garantir un degré de protection élevé <DiscourseConnective annotation_id="13505">et</DiscourseConnective> des normes strictes dans l'Union européenne <DiscourseConnective annotation_id="13552">et</DiscourseConnective> dans le monde entier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11694" docOffset="85">
+      <en>
+        <Alignment alignment="37321" annotation_id="11694">
+          <DiscourseConnective annotation_id="11694" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the complete abolition of animal testing without other methods being available as an adequate replacement would make the majority of the research based on animal experimentation in the European Union almost impossible.</en>
+      <fr>
+        <Alignment alignment="9376" annotation_id="13577">
+          <DiscourseConnective annotation_id="13577" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, la suppression complète des tests sur les animaux en l'absence d'autres méthodes susceptibles de les remplacer de façon adéquate rendrait presque impossible la majeure partie de la recherche basée sur l'expérimentation animale dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11922" docOffset="86">
+      <en>Research projects would move abroad, we would lose the huge amount of knowledge that we currently have <Alignment alignment="13972" annotation_id="12025">
+          <DiscourseConnective annotation_id="12025" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we would make ourselves completely dependent on other countries.</en>
+      <fr>Les projets de recherche partiraient à l'étranger, nous perdrions la masse de connaissances énorme dont nous disposons actuellement <Alignment alignment="15814" annotation_id="13972">
+          <DiscourseConnective annotation_id="13972" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous deviendrions complètement tributaires d'autres pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12094" docOffset="87">
+      <en>
+        <Alignment alignment="17929" annotation_id="12094">
+          <DiscourseConnective annotation_id="12094" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, it is important to find a compromise <Alignment alignment="14080" annotation_id="12142">
+          <DiscourseConnective annotation_id="12142" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Committee on Agriculture and Rural Development has presented a good compromise.</en>
+      <fr>Il est <Alignment alignment="24848" annotation_id="14040">
+          <DiscourseConnective annotation_id="14040" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> important de trouver un compromis, <Alignment alignment="18577" annotation_id="14080">
+          <DiscourseConnective annotation_id="14080" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la commission de l'agriculture <DiscourseConnective annotation_id="14114">et</DiscourseConnective> du développement rural a présenté un compromis de qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12230" docOffset="88">
+      <en>Admittedly it is not an easy balancing act, <Alignment alignment="14236" annotation_id="12274">
+          <DiscourseConnective annotation_id="12274" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> for people who are ill it may be a matter of survival.</en>
+      <fr>Il n'est <DiscourseConnective annotation_id="14185">certes</DiscourseConnective> pas facile de maintenir un juste équilibre, <Alignment alignment="30809" annotation_id="14236">
+          <DiscourseConnective annotation_id="14236" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14241">pour</DiscourseConnective> les personnes malades, il peut s'agir d'une question de vie ou de mort.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12333" docOffset="89">
+      <en>The result of the vote in the Committee on Agriculture and Rural Development on 31 March meets these requirements.</en>
+      <fr>Le <DiscourseConnective annotation_id="14321">résultat</DiscourseConnective> du vote au sein de la commission de l'agriculture <DiscourseConnective annotation_id="14380">et</DiscourseConnective> du développement rural du 31 mars répond à ces exigences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12448" docOffset="90">
+      <en>We must support this compromise which was accepted by 72% of the committee.</en>
+      <fr>Nous devons soutenir ce compromis, approuvé par 72 % des membres de la commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12524" docOffset="91">
+      <en>
+        <Alignment alignment="14524" annotation_id="12524">
+          <DiscourseConnective annotation_id="12524" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, I call on all Members of this House to reject all the more far-reaching amendments that have been submitted and to vote in favour of the amendments from the Group of the European People's Party (Christian Democrats) and European Democrats and the Socialist Group in the European Parliament.</en>
+      <fr>
+        <Alignment alignment="12524" annotation_id="14524">
+          <DiscourseConnective annotation_id="14524" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> j'invite tous les membres de cette Assemblée <DiscourseConnective annotation_id="14584">à</DiscourseConnective> rejeter tous les amendements de grande envergure déposés <DiscourseConnective annotation_id="14643">et</DiscourseConnective> <DiscourseConnective annotation_id="14646">à</DiscourseConnective> voter <DiscourseConnective annotation_id="14654">en</DiscourseConnective> faveur des amendements déposés par le groupe du Parti populaire européen (Démocrates-chrétiens) <DiscourseConnective annotation_id="14753">et</DiscourseConnective> des Démocrates européens <DiscourseConnective annotation_id="14781">et</DiscourseConnective> par le groupe socialiste du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12826" docOffset="92">
+      <en>My warm thanks go not only to the rapporteur, but also to many of my fellow Members throughout Parliament.</en>
+      <fr>Je remercie <DiscourseConnective annotation_id="14844">non seulement</DiscourseConnective> le rapporteur, <DiscourseConnective annotation_id="14873">mais aussi</DiscourseConnective> de nombreux collègues députés de l'ensemble du Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12933" id="192" language="FR" name="Roselyne Lefrançois">
+    <ParallelChunk annotation_id="12933" docOffset="93">
+      <en>Mr President, Commissioner, ladies and gentlemen, I must firstly congratulate the rapporteur, Mr Parish, on the quality of his work and the importance that he placed on cooperation with the shadow rapporteurs.</en>
+      <fr>au nom du groupe PSE. - Monsieur le Président, Monsieur le Commissaire et chers collègues, je tiens <DiscourseConnective annotation_id="15042">tout d'abord</DiscourseConnective> à saluer le rapporteur, M. Parish, <DiscourseConnective annotation_id="15090">pour</DiscourseConnective> la qualité de son travail <DiscourseConnective annotation_id="15121">et</DiscourseConnective> l'importance <DiscourseConnective annotation_id="15137">qu'</DiscourseConnective>il a accordée <DiscourseConnective annotation_id="15154">à</DiscourseConnective> la coopération avec les rapporteurs fictifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13143" docOffset="94">
+      <en>
+        <Alignment alignment="15201" annotation_id="13143">
+          <DiscourseConnective annotation_id="13143" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> we vote tomorrow at first reading, I want to go over the main lines of this report.</en>
+      <fr>
+        <Alignment alignment="23806" annotation_id="15201">
+          <DiscourseConnective annotation_id="15201" sense="Temporal.Asynchronous.Precedence">Avant que</DiscourseConnective>
+        </Alignment> nous votions demain, <DiscourseConnective annotation_id="15232">en</DiscourseConnective> première lecture, je souhaiterais revenir sur les grandes lignes de ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13234" docOffset="95">
+      <en>Nowadays, the negative image that animal experimentation can have among the general public confirms the indisputable importance of this issue.</en>
+      <fr>Aujourd'hui, l'image négative <DiscourseConnective annotation_id="15345">que</DiscourseConnective> peut véhiculer l'expérimentation animale dans l'opinion publique confirme l'incontestable portée de ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13377" docOffset="96">
+      <en>Like me, you will have <Alignment alignment="15482" annotation_id="13400">
+          <DiscourseConnective annotation_id="13400" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> received, over the last few weeks, a large number of letters from worried citizens.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15461">Comme</DiscourseConnective> moi, vous avez <Alignment alignment="26198" annotation_id="15482">
+          <DiscourseConnective annotation_id="15482" sense="Expansion.Conjunction">d'ailleurs</DiscourseConnective>
+        </Alignment> reçu <DiscourseConnective annotation_id="15498">depuis</DiscourseConnective> quelques semaines un grand nombre de courriers de citoyens inquiets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13489" docOffset="97">
+      <en>
+        <Alignment alignment="15574" annotation_id="13489">
+          <DiscourseConnective annotation_id="13489" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="15580" annotation_id="13498">
+          <DiscourseConnective annotation_id="13498" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> we have a duty to propose a text that takes account of the public's fears, we must not, for all that, neglect the demands of researchers.</en>
+      <fr>
+        <Alignment alignment="2472" annotation_id="15574">
+          <DiscourseConnective annotation_id="15574" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment>, <Alignment alignment="29467" annotation_id="15580">
+          <DiscourseConnective annotation_id="15580" sense="Comparison.Contrast">si</DiscourseConnective>
+        </Alignment> nous avons le devoir de proposer un texte qui prenne en considération les craintes de ces derniers, nous ne devons pas <DiscourseConnective annotation_id="15702">pour autant</DiscourseConnective> négliger les revendications des professionnels de la recherche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13642" docOffset="98">
+      <en>I must underline the fact that we cannot forget that researchers are not only legitimate representatives of this public opinion, but primarily people whose role is absolutely fundamental within our society.</en>
+      <fr>Car, je tiens à le souligner, n'oublions pas <DiscourseConnective annotation_id="15823">que</DiscourseConnective> les chercheurs sont <DiscourseConnective annotation_id="15847">non seulement</DiscourseConnective> des représentants légitimes de cette opinion publique, <DiscourseConnective annotation_id="15916">mais</DiscourseConnective> <DiscourseConnective annotation_id="15921">surtout</DiscourseConnective> des personnes dont le rôle est tout à fait fondamental au sein de notre société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13849" docOffset="99">
+      <en>You must be aware that, in the last 20 years, the number of animals used for scientific purposes has not increased, despite the fact that the number of scientific publications in the area of biomedical research has doubled every two years.</en>
+      <fr>Il faut savoir <DiscourseConnective annotation_id="16025">que</DiscourseConnective>, <DiscourseConnective annotation_id="16030">depuis</DiscourseConnective> vingt ans, le nombre d'animaux utilisés <DiscourseConnective annotation_id="16077">à</DiscourseConnective> des fins scientifiques n'a pas augmenté, <DiscourseConnective annotation_id="16120">tandis que</DiscourseConnective> le nombre de publications scientifiques, dans le domaine de la recherche biomédicale, a doublé tous les deux ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14089" docOffset="100">
+      <en>In order to understand the challenges involved in revising this directive, I myself have met with many stakeholders representing the various opinions on this issue.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16245">Pour</DiscourseConnective> comprendre les enjeux de la révision de cette directive, j'ai moi-même rencontré un grand nombre d'acteurs représentant les différentes sensibilités liées au dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14254" docOffset="101">
+      <en>To my mind, the initial text proposed by the European Commission was really moving away from the fundamental aim in using animals, namely to make advances in research.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16417">À</DiscourseConnective> mon sens, le texte initial proposé par la Commission européenne s'éloignait véritablement de l'objectif fondamental de l'utilisation des animaux, qui est de faire progresser la recherche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14422" docOffset="102">
+      <en>It was therefore essential to put the issue of human health back at the heart of the discussions.</en>
+      <fr>Il était <DiscourseConnective annotation_id="16616">donc</DiscourseConnective> essentiel de replacer la question de la santé humaine au cœur de la réflexion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14520" docOffset="103">
+      <en>Clearly, the provisions on animal experimentation must be amended, <Alignment alignment="70406" annotation_id="14587">
+          <DiscourseConnective annotation_id="14587" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> European research must not, <Alignment alignment="16829" annotation_id="14619">
+          <DiscourseConnective annotation_id="14619" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, suffer negative consequences from this new legislation.</en>
+      <fr>Bien sûr, les dispositions en matière d'expérimentation animale doivent être modifiées, <Alignment alignment="29402" annotation_id="16788">
+          <DiscourseConnective annotation_id="16788" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la recherche européenne ne doit pas <Alignment alignment="30644" annotation_id="16829">
+          <DiscourseConnective annotation_id="16829" sense="Comparison.Contrast">pour autant</DiscourseConnective>
+        </Alignment> subir les conséquences négatives de cette nouvelle législation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14684" docOffset="104">
+      <en>The strategy that I adopted, and which has been taken up by the rapporteur, <Alignment alignment="18954" annotation_id="14760">
+          <DiscourseConnective annotation_id="14760" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> involved rebalancing this proposal to ensure that researchers are not harmed.</en>
+      <fr>La stratégie <DiscourseConnective annotation_id="16918">que</DiscourseConnective> j'ai adoptée, <DiscourseConnective annotation_id="16936">et</DiscourseConnective> qui a été suivie par le rapporteur, consistait <Alignment alignment="14760" annotation_id="16986">
+          <DiscourseConnective annotation_id="16986" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> à rééquilibrer cette proposition <DiscourseConnective annotation_id="17024">afin de</DiscourseConnective> s'assurer <DiscourseConnective annotation_id="17042">que</DiscourseConnective> les chercheurs ne soient pas lésés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14848" docOffset="105">
+      <en>Based on the report adopted in the Committee on Agriculture and Rural Development, I believe that we can arrive at a coherent and reasonable text, which I hope will be broadly supported by Parliament.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="17091">que</DiscourseConnective> nous pouvons arriver, sur la base du rapport adopté <DiscourseConnective annotation_id="17147">en</DiscourseConnective> commission AGRI, <DiscourseConnective annotation_id="17167">à</DiscourseConnective> un texte cohérent <DiscourseConnective annotation_id="17187">et</DiscourseConnective> raisonnable, qui sera, je l'espère, largement soutenu par le Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15049" id="193" name="Jorgo Chatzimarkakis">
+    <ParallelChunk annotation_id="15049" docOffset="106">
+      <en>on behalf of the ALDE Group. - (DE) Mr President, Mahatma Gandhi said 'The greatness of a nation and its moral progress can be judged by the way it treats its animals.'</en>
+      <fr>au nom du groupe ALDE. - (DE) Monsieur le Président, le mahatma Gandhi a dit un jour: "On peut juger de la grandeur d'une nation par la façon dont les animaux y sont traités."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15218" docOffset="107">
+      <en>The welfare of laboratory animals is an important and delicate subject that many people would like to ignore.</en>
+      <fr>Le bien-être des animaux de laboratoire est un problème important <DiscourseConnective annotation_id="17504">et</DiscourseConnective> délicat <DiscourseConnective annotation_id="17515">que</DiscourseConnective> de nombreuses personnes préfèreraient ignorer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15328" docOffset="108">
+      <en>
+        <Alignment alignment="17576" annotation_id="15328">
+          <DiscourseConnective annotation_id="15328" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is a very sensitive issue, in particular <Alignment alignment="17626" annotation_id="15381">
+          <DiscourseConnective annotation_id="15381" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to research using monkeys and especially great apes.</en>
+      <fr>Il <DiscourseConnective annotation_id="17569">s'</DiscourseConnective>agit <Alignment alignment="9445" annotation_id="17576">
+          <DiscourseConnective annotation_id="17576" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> d'une question très sensible, <DiscourseConnective annotation_id="17616">notamment</DiscourseConnective> <Alignment alignment="10096" annotation_id="17626">
+          <DiscourseConnective annotation_id="17626" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> il <DiscourseConnective annotation_id="17635">s'</DiscourseConnective>agit de recherches impliquant des singes, <DiscourseConnective annotation_id="17679">et</DiscourseConnective> <DiscourseConnective annotation_id="17682">en particulier</DiscourseConnective> des primates.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15448" docOffset="109">
+      <en>We know that this is the case from the public reaction.</en>
+      <fr>La réaction de l'opinion publique nous l'indique clairement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15504" docOffset="110">
+      <en>The Commission was subjected to great pressure.</en>
+      <fr>La Commission a fait l'objet d'une pression importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15552" docOffset="111">
+      <en>I would like specifically to thank Commissioner Dimas.</en>
+      <fr>Je voudrais remercier tout particulièrement M. le commissaire Dimas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15607" docOffset="112">
+      <en>You have done some very good preparatory work <Alignment alignment="17950" annotation_id="15653">
+          <DiscourseConnective annotation_id="15653" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you have introduced important improvements in the welfare of laboratory animals, such as prior authorisation and follow-up checks for all tests.</en>
+      <fr>Vous avez accompli un travail préparatoire excellent <Alignment alignment="18336" annotation_id="17950">
+          <DiscourseConnective annotation_id="17950" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous avez contribué à améliorer considérablement le bien-être des animaux de laboratoire, <DiscourseConnective annotation_id="18043">par exemple</DiscourseConnective> au moyen d'autorisations préalables <DiscourseConnective annotation_id="18091">et</DiscourseConnective> de contrôles de suivi <DiscourseConnective annotation_id="18116">pour</DiscourseConnective> tous les tests.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15802" docOffset="113">
+      <en>You have extended the directive to cover all animal species, not just mammals.</en>
+      <fr>Vous avez élargi la portée de cette directive <DiscourseConnective annotation_id="18183">de façon à ce qu'</DiscourseConnective>elle couvre toutes les espèces animales, et pas uniquement les mammifères.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15881" docOffset="114">
+      <en>The Commission has <Alignment alignment="22267" annotation_id="15900">
+          <DiscourseConnective annotation_id="15900" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> effectively resolved the highly controversial issue of tests on non-human primates.</en>
+      <fr>La Commission a <Alignment alignment="2100" annotation_id="18291">
+          <DiscourseConnective annotation_id="18291" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> résolu efficacement le problème fort controversé des tests sur des primates non humains.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15989" docOffset="115">
+      <en>These tests have been restricted to life-threatening illnesses and brain diseases.</en>
+      <fr>Ces tests sont désormais limités aux maladies mortelles <DiscourseConnective annotation_id="18446">et</DiscourseConnective> aux maladies du cerveau.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16072" docOffset="116">
+      <en>Unfortunately, many details of the Commission proposal have been amended by the votes in the committees.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18474">Malheureusement</DiscourseConnective>, les votes au sein des commissions ont modifié de nombreux détails de la proposition de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16177" docOffset="117">
+      <en>
+        <Alignment alignment="18593" annotation_id="16177">
+          <DiscourseConnective annotation_id="16177" sense="Expansion.Instantiation">For instance</DiscourseConnective>
+        </Alignment>, the standards that I have just referred to have been turned on their heads by the vote in the Committee on Agriculture and Rural Development.</en>
+      <fr>
+        <Alignment alignment="16177" annotation_id="18593">
+          <DiscourseConnective annotation_id="18593" sense="Expansion.Instantiation">Par exemple</DiscourseConnective>
+        </Alignment>, le vote de la commission de l'agriculture <DiscourseConnective annotation_id="18648">et</DiscourseConnective> du développement rural a carrément inversé les normes <DiscourseConnective annotation_id="18705">que</DiscourseConnective> je viens de mentionner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16333" docOffset="118">
+      <en>To give just one example, following the vote in the Committee on Agriculture and Rural Development, tests will be automatically authorised <DiscourseConnective annotation_id="16472" sense="Contingency.Condition">if</DiscourseConnective> they have not received official authorisation after 60 days.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18733">Pour</DiscourseConnective> ne citer qu'un exemple, selon le vote de la commission de l'agriculture <DiscourseConnective annotation_id="18810">et</DiscourseConnective> du développement rural, les tests qui n'ont pas reçu d'autorisation officielle au bout de 60 jours seront automatiquement autorisés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16536" docOffset="119">
+      <en>This is an indefensible situation for us in Europe.</en>
+      <fr>Il <DiscourseConnective annotation_id="18949">s'</DiscourseConnective>agit là d'une situation intolérable <DiscourseConnective annotation_id="18987">pour</DiscourseConnective> l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16588" docOffset="120">
+      <en>This is why I am calling on my fellow Members to read through what you are voting on tomorrow and not just to follow your voting guidelines.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19002">C'est pourquoi</DiscourseConnective> j'invite mes collègues députés <DiscourseConnective annotation_id="19048">à</DiscourseConnective> lire attentivement ce sur quoi ils voteront demain <DiscourseConnective annotation_id="19101">et</DiscourseConnective> à ne pas suivre <DiscourseConnective annotation_id="19120">simplement</DiscourseConnective> leurs consignes de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16729" docOffset="121">
+      <en>I am grateful to the rapporteur for being prepared to make some compromises at the last minute.</en>
+      <fr>Je suis reconnaissant au rapporteur, qui a accepté de faire certains compromis <DiscourseConnective annotation_id="19235">en</DiscourseConnective> dernière minute.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16825" docOffset="122">
+      <en>I am pleased that Mr Parish plans to introduce an oral amendment tomorrow to ensure that the rules on the authorisation period for projects are made clearer.</en>
+      <fr>Je me réjouis <DiscourseConnective annotation_id="19269">que</DiscourseConnective> M. Parish prévoie de proposer demain un amendement oral visant à clarifier les règles relatives aux délais d'autorisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16983" docOffset="123">
+      <en>
+        <Alignment alignment="19408" annotation_id="16983">
+          <DiscourseConnective annotation_id="16983" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is a pity that Article 15 has not got through.</en>
+      <fr>Je regrette <Alignment alignment="16238" annotation_id="19408">
+          <DiscourseConnective annotation_id="19408" sense="Comparison.Contrast">cependant que</DiscourseConnective>
+        </Alignment> l'article 15 n'ait pas été retenu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17042" docOffset="124">
+      <en>Article 15 gives some Member States the option of retaining stricter standards, <Alignment alignment="19551" annotation_id="17122">
+          <DiscourseConnective annotation_id="17122" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> is the case, <Alignment alignment="19570" annotation_id="17138">
+          <DiscourseConnective annotation_id="17138" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, in the Netherlands.</en>
+      <fr>Cet article donne à certains États membres la possibilité de garder des normes plus strictes, <Alignment alignment="4635" annotation_id="19551">
+          <DiscourseConnective annotation_id="19551" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> c'est le cas <Alignment alignment="16063" annotation_id="19570">
+          <DiscourseConnective annotation_id="19570" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> aux Pays-Bas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17171" docOffset="125">
+      <en>Why do we want to lower the standards which are currently very high in the Netherlands?</en>
+      <fr>Pourquoi voudrions-nous relâcher les normes actuellement très strictes des Pays-Bas?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17259" docOffset="126">
+      <en>Our joint aim must be to find a balance between high levels of animal welfare and intensive research.</en>
+      <fr>Notre objectif commun devrait être de trouver un équilibre entre la protection des animaux <DiscourseConnective annotation_id="19772">et</DiscourseConnective> l'intensité de la recherche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17361" docOffset="127">
+      <en>I have had enough of the knock-out argument, which is always trotted out, that research will move abroad.</en>
+      <fr>J'ai suffisamment entendu l'argument massue, sans cesse répété, selon lequel la recherche risque de partir à l'étranger.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17467" docOffset="128">
+      <en>This is not necessarily always true.</en>
+      <fr>Ce n'est pas nécessairement toujours le cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17504" docOffset="129">
+      <en>Schopenhauer said 'Any stupid boy can crush a beetle, <Alignment alignment="20058" annotation_id="17558">
+          <DiscourseConnective annotation_id="17558" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> all the professors in the world cannot create a new beetle.'</en>
+      <fr>Comme le disait Schopenhauer: "N'importe quel crétin de gamin peut écraser un scarabée, <Alignment alignment="17558" annotation_id="20058">
+          <DiscourseConnective annotation_id="20058" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> tous les professeurs du monde ne peuvent en créer un".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17623" docOffset="130">
+      <en>We must provide a set of values, <DiscourseConnective annotation_id="17656" sense="Contingency.Cause.Reason">because</DiscourseConnective> that is our job.</en>
+      <fr>Nous devons définir un ensemble de valeurs, tel est notre métier.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17681" id="194" name="Kartika Tamara Liotard">
+    <ParallelChunk annotation_id="17681" docOffset="131">
+      <en>on behalf of the GUE/NGL Group. - (NL) I am pleased that the Commission has taken the initiative to revise the Directive on the protection of animals used for scientific purposes.</en>
+      <fr>au nom du groupe GUE/NGL. - (NL) Je me réjouis <DiscourseConnective annotation_id="20231">que</DiscourseConnective> la Commission ait pris l'initiative de réviser la directive sur la protection des animaux utilisés <DiscourseConnective annotation_id="20334">à</DiscourseConnective> des fins scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17861" docOffset="132">
+      <en>Both the use and the suffering of laboratory animals must be substantially reduced, <DiscourseConnective annotation_id="17945" sense="Expansion.Conjunction">and</DiscourseConnective> this can be done by encouraging the development of scientific methods that are equivalent or more efficient, but without unduly hindering the development of medicinal products.</en>
+      <fr>Nous devons réduire considérablement aussi bien l'utilisation <DiscourseConnective annotation_id="20422">que</DiscourseConnective> les souffrances des animaux de laboratoire. Pour y parvenir, nous devons encourager le développement de méthodes scientifiques équivalentes <DiscourseConnective annotation_id="20566">ou</DiscourseConnective> plus efficaces encore, <DiscourseConnective annotation_id="20592">sans</DiscourseConnective> toutefois entraver le développement de médicaments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18126" docOffset="133">
+      <en>Something I have difficulty with, <Alignment alignment="26890" annotation_id="18160">
+          <DiscourseConnective annotation_id="18160" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, is the fact that several amendments have been tabled that could considerably weaken the proposal.</en>
+      <fr>J'ai <Alignment alignment="9721" annotation_id="20654">
+          <DiscourseConnective annotation_id="20654" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> du mal <DiscourseConnective annotation_id="20671">à</DiscourseConnective> accepter plusieurs amendements qui ont été déposés et dont l'adoption affaiblirait considérablement cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18267" docOffset="134">
+      <en>We must not lose sight of the objective of the proposal.</en>
+      <fr>Nous ne devons pas perdre de vue l'objectif de cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18324" docOffset="135">
+      <en>This is about protecting laboratory animals and not about business profits.</en>
+      <fr>Il <DiscourseConnective annotation_id="20861">s'</DiscourseConnective>agit de protéger les animaux de laboratoire, <DiscourseConnective annotation_id="20908">et</DiscourseConnective> non les bénéfices des entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18400" docOffset="136">
+      <en>The most important thing is to ban procedures categorised as 'severe' in which laboratory animals may suffer prolonged pain.</en>
+      <fr>Le plus important est d'interdire les procédures classées <DiscourseConnective annotation_id="21004">comme</DiscourseConnective> "graves", qui sont susceptibles de soumettre les animaux de laboratoire à une souffrance prolongée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18525" docOffset="137">
+      <en>These procedures are unethical and barbaric.</en>
+      <fr>Ces procédures sont barbares <DiscourseConnective annotation_id="21139">et</DiscourseConnective> contraires à l'éthique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18570" docOffset="138">
+      <en>Finally, the use of non-human primates in experiments must be phased out completely - and rapidly.</en>
+      <fr>
+        <DiscourseConnective annotation_id="21166">Enfin</DiscourseConnective>, il faut éliminer complètement <DiscourseConnective annotation_id="21203">et</DiscourseConnective> rapidement l'expérimentation sur des primates non humains.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18669" docOffset="139">
+      <en>Parliament adopted a written declaration on this back in 2007, <Alignment alignment="21331" annotation_id="18732">
+          <DiscourseConnective annotation_id="18732" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think that it is now time to match words with deeds.</en>
+      <fr>Le Parlement a adopté une déclaration écrite <DiscourseConnective annotation_id="21310">à</DiscourseConnective> cet effet <DiscourseConnective annotation_id="21322">en</DiscourseConnective> 2007, <Alignment alignment="18732" annotation_id="21331">
+          <DiscourseConnective annotation_id="21331" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="21343">que</DiscourseConnective> l'heure est venue de joindre l'acte à la parole.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18791" id="195" name="Bastiaan Belder">
+    <ParallelChunk annotation_id="18791" docOffset="140">
+      <en>on behalf of the IND/DEM Group. - (NL) Mr President, high animal welfare standards are an expression of civilisation and of respect for one's fellow creatures.</en>
+      <fr>Monsieur le Président, l'instauration de normes élevées de bien-être animal est un signe de civilisation <DiscourseConnective annotation_id="21501">et</DiscourseConnective> de respect envers les autres créatures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18951" docOffset="141">
+      <en>Where good alternatives to animal testing are available, these must be used, <Alignment alignment="42321" annotation_id="19028">
+          <DiscourseConnective annotation_id="19028" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we want less animal testing.</en>
+      <fr>Nous voulons réduire l'expérimentation animale, et cela signifie <Alignment alignment="19028" annotation_id="21609">
+          <DiscourseConnective annotation_id="21609" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="21613">lorsque</DiscourseConnective> de bonnes alternatives <DiscourseConnective annotation_id="21644">à</DiscourseConnective> l'expérimentation animale sont disponibles elles doivent être utilisées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19060" docOffset="142">
+      <en>This <Alignment alignment="21722" annotation_id="19065">
+          <DiscourseConnective annotation_id="19065" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> goes for good procedures that reduce animal suffering or require fewer laboratory animals, <Alignment alignment="45742" annotation_id="19161">
+          <DiscourseConnective annotation_id="19161" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we want less animal suffering.</en>
+      <fr>Il <Alignment alignment="0" annotation_id="21722">
+          <DiscourseConnective annotation_id="21722" sense="Expansion.Conjunction">en</DiscourseConnective>
+        </Alignment> va de même <DiscourseConnective annotation_id="21736">pour</DiscourseConnective> les procédures permettant de réduire les souffrances des animaux <DiscourseConnective annotation_id="21806">ou</DiscourseConnective> d'utiliser un nombre moins important d'animaux de laboratoire, <Alignment alignment="19161" annotation_id="21872">
+          <DiscourseConnective annotation_id="21872" sense="Temporal.Synchrony">puisque</DiscourseConnective>
+        </Alignment> nous souhaitons limiter les souffrances des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19195" docOffset="143">
+      <en>I think that the proposed compulsory ethical review is progress.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="21942">que</DiscourseConnective> l'examen éthique obligatoire proposé constitue un progrès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19260" docOffset="144">
+      <en>Naturally, the objective of this directive cannot be to compel Member States to accept testing on human embryos as an alternative.</en>
+      <fr>Bien entendu, l'objectif de cette directive ne peut être d'obliger les États membres <DiscourseConnective annotation_id="22090">à</DiscourseConnective> accepter <DiscourseConnective annotation_id="22101">comme</DiscourseConnective> alternative les expériences sur des embryons humains.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19391" docOffset="145">
+      <en>Member States must take their own ethical decision on this.</en>
+      <fr>Les États membres doivent prendre leurs propres décisions éthiques <DiscourseConnective annotation_id="22228">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19451" docOffset="146">
+      <en>The Commission's ultimate aim is to abolish animal testing completely.</en>
+      <fr>L'objectif ultime de la Commission est d'abolir complètement l'expérimentation animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19522" docOffset="147">
+      <en>
+        <Alignment alignment="24293" annotation_id="19522">
+          <DiscourseConnective annotation_id="19522" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> we share this aim, it is an unfortunate fact that we cannot yet do without animal testing, <DiscourseConnective annotation_id="19622" sense="Expansion.Conjunction">nor</DiscourseConnective> are we yet in a position to say definitively <Alignment alignment="14453" annotation_id="19671">
+          <DiscourseConnective annotation_id="19671" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> this will be the case.</en>
+      <fr>
+        <Alignment alignment="21699" annotation_id="22331">
+          <DiscourseConnective annotation_id="22331" sense="Comparison.Concession">Bien que</DiscourseConnective>
+        </Alignment> nous partagions cet objectif, nous ne pouvons <DiscourseConnective annotation_id="22386">malheureusement</DiscourseConnective> pas <DiscourseConnective annotation_id="22406">encore</DiscourseConnective> nous passer d'expériences sur les animaux, et nous ne sommes pas <DiscourseConnective annotation_id="22478">encore</DiscourseConnective> <DiscourseConnective annotation_id="22485">en</DiscourseConnective> mesure de dire <Alignment alignment="19671" annotation_id="22503">
+          <DiscourseConnective annotation_id="22503" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous pourrons nous en passer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19699" docOffset="148">
+      <en>Already giving a final deadline for banning animal testing would be ill-advised and perhaps even hazardous to human health; I agree with the rapporteur on this.</en>
+      <fr>Il serait inopportun, <DiscourseConnective annotation_id="22561">et</DiscourseConnective> peut-être <DiscourseConnective annotation_id="22574">même</DiscourseConnective> dangereux <DiscourseConnective annotation_id="22589">pour</DiscourseConnective> la santé humaine, de fixer dès aujourd'hui une échéance <DiscourseConnective annotation_id="22650">pour</DiscourseConnective> l'interdiction de l'expérimentation animale. Je suis d'accord avec le rapporteur sur ce point.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19860" id="196" name="Françoise Grossetête">
+    <ParallelChunk annotation_id="19860" docOffset="149">
+      <en>(FR) Mr President, our fellow citizens are calling for more research, particularly in the biomedical area, in order to find new treatments for diseases for which we do not yet have a cure.</en>
+      <fr>Monsieur le Président, nos concitoyens réclament plus de recherche, <DiscourseConnective annotation_id="22818">en particulier</DiscourseConnective> dans le domaine biomédical, <DiscourseConnective annotation_id="22861">afin que</DiscourseConnective> l'on trouve des nouveaux traitements <DiscourseConnective annotation_id="22907">pour</DiscourseConnective> des maladies que l'on ne sait pas <DiscourseConnective annotation_id="22946">encore</DiscourseConnective> soigner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20049" docOffset="150">
+      <en>This is the case, among others, with all the neurodegenerative diseases, such as Parkinson's and Alzheimer's.</en>
+      <fr>C'est le cas, entre autres, de toutes les maladies neurodégénératives, <DiscourseConnective annotation_id="23033">comme</DiscourseConnective> la maladie de Parkinson <DiscourseConnective annotation_id="23063">et</DiscourseConnective> la maladie d'Alzheimer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20159" docOffset="151">
+      <en>We <Alignment alignment="7546" annotation_id="20162">
+          <DiscourseConnective annotation_id="20162" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> know that we need animal experimentation <DiscourseConnective annotation_id="20208" sense="Expansion.Conjunction">and</DiscourseConnective> that this animal experimentation has fortunately reduced in recent years <Alignment alignment="10495" annotation_id="20285">
+          <DiscourseConnective annotation_id="20285" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we have set ourselves the goal of finding alternative solutions.</en>
+      <fr>On sait <Alignment alignment="9746" annotation_id="23098">
+          <DiscourseConnective annotation_id="23098" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="23104">que</DiscourseConnective> nous avons besoin des expérimentations animales, <DiscourseConnective annotation_id="23157">que</DiscourseConnective> ces expérimentations animales, heureusement, ont beaucoup diminué ces dernières années <Alignment alignment="29247" annotation_id="23248">
+          <DiscourseConnective annotation_id="23248" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous nous sommes fixé l'objectif de trouver des solutions alternatives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20358" docOffset="152">
+      <en>
+        <Alignment alignment="23330" annotation_id="20358">
+          <DiscourseConnective annotation_id="20358" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, unfortunately, we know that, in some cases, these solutions do not exist <Alignment alignment="36021" annotation_id="20440">
+          <DiscourseConnective annotation_id="20440" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we still need to use animal experimentation, particularly on non-human primates.</en>
+      <fr>
+        <Alignment alignment="31397" annotation_id="23330">
+          <DiscourseConnective annotation_id="23330" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="23335">malheureusement</DiscourseConnective>, nous savons <DiscourseConnective annotation_id="23364">que</DiscourseConnective>, dans certains cas, ces solutions-là n'existent pas <Alignment alignment="12674" annotation_id="23420">
+          <DiscourseConnective annotation_id="23420" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous avons toujours besoin de recourir à cette expérimentation animale, <DiscourseConnective annotation_id="23495">notamment</DiscourseConnective> sur les primates non humains.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20525" docOffset="153">
+      <en>In this case, we must do absolutely everything we can to ensure that European research remains in the territory of Europe <Alignment alignment="16550" annotation_id="20647">
+          <Alignment alignment="23654" annotation_id="20647">
+            <DiscourseConnective annotation_id="20647" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we can offer maximum protection.</en>
+      <fr>
+        <DiscourseConnective annotation_id="23535">Dans ce cas-là</DiscourseConnective>, nous devons absolument tout faire <DiscourseConnective annotation_id="23585">pour que</DiscourseConnective> la recherche européenne reste sur le territoire de l'Europe <Alignment alignment="24825" annotation_id="23654">
+          <Alignment alignment="20647" annotation_id="23654">
+            <DiscourseConnective annotation_id="23654" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous apportions le maximum de protection.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20688" docOffset="154">
+      <en>Taking into account an animal's pain during an experiment offers every guarantee that this experimentation will produce good results.</en>
+      <fr>Prendre en compte la douleur de l'animal lors d'une expérimentation, c'est se donner toutes les garanties <DiscourseConnective annotation_id="23811">que</DiscourseConnective> cette expérimentation produira de bons résultats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20822" docOffset="155">
+      <en>
+        <Alignment alignment="23865" annotation_id="20822">
+          <DiscourseConnective annotation_id="20822" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, let us keep our research and, in particular, let us <Alignment alignment="23916" annotation_id="20885">
+          <DiscourseConnective annotation_id="20885" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> keep animal experimentation.</en>
+      <fr>
+        <Alignment alignment="12985" annotation_id="23865">
+          <DiscourseConnective annotation_id="23865" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, gardons notre recherche <DiscourseConnective annotation_id="23895">et</DiscourseConnective>, <DiscourseConnective annotation_id="23899">surtout</DiscourseConnective>, gardons <Alignment alignment="20885" annotation_id="23916">
+          <DiscourseConnective annotation_id="23916" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> les expérimentations animales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20919" docOffset="156">
+      <en>Let us particularly make sure that this research is not relocated outside Europe.</en>
+      <fr>Qu'elles ne soient <DiscourseConnective annotation_id="23972">surtout</DiscourseConnective> pas délocalisées hors d'Europe.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21001" id="197" name="Luis Manuel Capoulas Santos">
+    <ParallelChunk annotation_id="21001" docOffset="157">
+      <en>(PT) Mr President, Commissioner, ladies and gentlemen, using animals for scientific purposes is a very sensitive matter that gives rise to controversial and irreconcilable emotions, <Alignment alignment="24239" annotation_id="21183">
+          <DiscourseConnective annotation_id="21183" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> viewed from one side only.</en>
+      <fr>(PT) Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="24074">et</DiscourseConnective> Messieurs, l'utilisation d'animaux <DiscourseConnective annotation_id="24112">à</DiscourseConnective> des fins scientifiques est une question très sensible qui suscite des émotions controversées <DiscourseConnective annotation_id="24207">et</DiscourseConnective> inconciliables, ne serait-ce <Alignment alignment="21183" annotation_id="24239">
+          <DiscourseConnective annotation_id="24239" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> l'on adopte un seul point de vue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21213" docOffset="158">
+      <en>It is impossible to discuss this issue solely from the perspective of protecting the interests and rights of animals.</en>
+      <fr>Il est impossible de débattre de cette question en adoptant uniquement le point de vue de la protection des intérêts <DiscourseConnective annotation_id="24397">et</DiscourseConnective> des droits des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21331" docOffset="159">
+      <en>It is <DiscourseConnective annotation_id="21337" sense="Expansion.Conjunction">also</DiscourseConnective> impossible to discuss this issue looking solely at the interests of science or using a logic of obtaining results at the lowest possible cost.</en>
+      <fr>De même, il est impossible de débattre de cette question <DiscourseConnective annotation_id="24481">en</DiscourseConnective> ne prenant en considération que les intérêts de la science <DiscourseConnective annotation_id="24543">ou</DiscourseConnective> en défendant une logique de résultats au moindre coût.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21485" docOffset="160">
+      <en>No one can be indifferent to the suffering of other living beings, even less so in the case of animals as close to us as primates.</en>
+      <fr>Personne ne peut être indifférent aux souffrances d'autres êtres vivants, <DiscourseConnective annotation_id="24675">surtout quand</DiscourseConnective> il s'agit d'animaux <DiscourseConnective annotation_id="24709">aussi</DiscourseConnective> proches de nous <DiscourseConnective annotation_id="24731">que</DiscourseConnective> les primates.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21616" docOffset="161">
+      <en>
+        <Alignment alignment="10226" annotation_id="21616">
+          <DiscourseConnective annotation_id="21616" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, our sensitivity is even further heightened <Alignment alignment="319" annotation_id="21668">
+          <DiscourseConnective annotation_id="21668" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we are faced with the suffering of human beings caused by accidents, war or disease.</en>
+      <fr>
+        <Alignment alignment="19846" annotation_id="24749">
+          <DiscourseConnective annotation_id="24749" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, notre sensibilité est <DiscourseConnective annotation_id="24782">encore</DiscourseConnective> plus forte <Alignment alignment="21668" annotation_id="24800">
+          <DiscourseConnective annotation_id="24800" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous sommes confrontés aux souffrances d'êtres humains causées par des accidents, la guerre <DiscourseConnective annotation_id="24900">ou</DiscourseConnective> la maladie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21758" docOffset="162">
+      <en>In order to combat pain, we cannot refuse science the instruments that it needs, including the use of guinea pigs.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24915">Afin de</DiscourseConnective> combattre la douleur, nous ne pouvons refuser à la science les instruments dont elle a besoin, <DiscourseConnective annotation_id="25018">notamment</DiscourseConnective> le recours à des cobayes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21873" docOffset="163">
+      <en>This report sets out a possible balance between the contradiction of values and emotions with which we are faced, <Alignment alignment="25167" annotation_id="21987">
+          <DiscourseConnective annotation_id="21987" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it reveals an effort to compromise which can only ennoble this Parliament and its most committed Members.</en>
+      <fr>Ce rapport propose un équilibre possible entre la contradiction des valeurs <DiscourseConnective annotation_id="25130">et</DiscourseConnective> des émotions qui nous surmontent, <Alignment alignment="21987" annotation_id="25167">
+          <DiscourseConnective annotation_id="25167" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> témoigne d'un souci de compromis qui ne peut <DiscourseConnective annotation_id="25215">que</DiscourseConnective> donner une image noble de cette Assemblée <DiscourseConnective annotation_id="25261">et</DiscourseConnective> de ses membres les plus engagés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22097" docOffset="164">
+      <en>I <Alignment alignment="23995" annotation_id="22099">
+          <DiscourseConnective annotation_id="22099" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> congratulate those with whom I dealt most in this discussion - the rapporteur, Neil Parish, and the shadow rapporteur of the Socialist Group in the European Parliament, Roselyne Lefrançois - on their excellent work and the consensus that they managed to achieve on such a difficult and controversial issue.</en>
+      <fr>
+        <Alignment alignment="22099" annotation_id="25297">
+          <DiscourseConnective annotation_id="25297" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> je félicite les personnes avec lesquelles j'ai le plus communiqué lors de cette discussion, à savoir le rapporteur, Neil Parish, <DiscourseConnective annotation_id="25441">et</DiscourseConnective> la rapporteure fictive du groupe socialiste au Parlement européen, Roselyne Lefrançois, <DiscourseConnective annotation_id="25532">pour</DiscourseConnective> leur excellent travail <DiscourseConnective annotation_id="25560">et</DiscourseConnective> le consensus auquel ils sont parvenus dans le cadre d'une question aussi difficile <DiscourseConnective annotation_id="25646">et</DiscourseConnective> aussi controversée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22416" docOffset="165">
+      <en>My political group, the PSE Group, will <Alignment alignment="37822" annotation_id="22456">
+          <DiscourseConnective annotation_id="22456" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> vote for this report and the amendments with which we tried to further improve it, in the belief that we will <Alignment alignment="1637" annotation_id="22576">
+          <DiscourseConnective annotation_id="22576" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> help to reduce the suffering of animals, without compromising scientific progress for the benefit of human health and the viability of European research.</en>
+      <fr>Mon groupe politique, le groupe PSE, votera <Alignment alignment="22456" annotation_id="25713">
+          <DiscourseConnective annotation_id="25713" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> en faveur de ce rapport <DiscourseConnective annotation_id="25746">et</DiscourseConnective> des amendements <DiscourseConnective annotation_id="25765">que</DiscourseConnective> nous avons introduits <DiscourseConnective annotation_id="25791">pour</DiscourseConnective> l'améliorer davantage, dans la conviction <DiscourseConnective annotation_id="25838">que</DiscourseConnective> nous contribuerons <Alignment alignment="13893" annotation_id="25861">
+          <DiscourseConnective annotation_id="25861" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="25867">à</DiscourseConnective> réduire les souffrances des animaux, ce <DiscourseConnective annotation_id="25909">sans</DiscourseConnective> compromettre les progrès scientifiques bénéficiant à la santé humaine <DiscourseConnective annotation_id="25984">et</DiscourseConnective> à la viabilité de la recherche européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22740" id="198" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="22740" docOffset="166">
+      <en>- (CS) Mr President, Commissioner, ladies and gentlemen, I am concerned about the suffering of laboratory animals as well, <Alignment alignment="21768" annotation_id="22863">
+          <DiscourseConnective annotation_id="22863" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> at the same time I know, as a physician, that we must do everything we can to make vaccines and medicines available to our patients as soon as possible, for the treatment of new and old diseases.</en>
+      <fr>(CS) Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="26092">et</DiscourseConnective> Messieurs, je me préoccupe moi aussi de la souffrance des animaux de laboratoire. <Alignment alignment="22863" annotation_id="26177">
+          <DiscourseConnective annotation_id="26177" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment>, en <DiscourseConnective annotation_id="26186">tant que</DiscourseConnective> médecin, je sais <DiscourseConnective annotation_id="26212">aussi</DiscourseConnective> <DiscourseConnective annotation_id="26218">que</DiscourseConnective> nous devons tout faire pour fournir le plus rapidement possible à nos patients les vaccins <DiscourseConnective annotation_id="26313">et</DiscourseConnective> les médicaments nécessaires pour lutter contre les maladies existantes <DiscourseConnective annotation_id="26387">et</DiscourseConnective> nouvelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23063" docOffset="167">
+      <en>I would like to thank our fellow Members, who have succeeded in finding a truly balanced compromise which respects and honours ethical principles applying to the treatment of animals <Alignment alignment="26581" annotation_id="23246">
+          <DiscourseConnective annotation_id="23246" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> at the same time making it possible to carry on with research projects.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="26410">à</DiscourseConnective> remercier nos collègues députés qui sont parvenus <DiscourseConnective annotation_id="26462">à</DiscourseConnective> trouver un compromis réellement équilibré, qui respecte les principes éthiques applicables au traitement des animaux <Alignment alignment="23246" annotation_id="26581">
+          <DiscourseConnective annotation_id="26581" sense="Temporal.Synchrony">tout en</DiscourseConnective>
+        </Alignment> permettant la poursuite des projets de recherche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23324" docOffset="168">
+      <en>First and foremost this directive sends a clear political signal that we want our scientists to look for alternative methods of verifying research into new medicines, in order to minimise the number of animals and the number of tests, <DiscourseConnective annotation_id="23559" sense="Comparison.Contrast">while</DiscourseConnective> naturally complying with all of the possible ethical principles <Alignment alignment="27009" annotation_id="23629">
+          <DiscourseConnective annotation_id="23629" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="23632" sense="Temporal.Synchrony">as</DiscourseConnective> to avoid the suffering of animals.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26639">Avant</DiscourseConnective> tout, cette directive exprime clairement notre volonté politique de voir nos scientifiques rechercher des méthodes alternatives permettant de valider les recherches sur de nouveaux médicaments, l'objectif étant de réduire autant que possible le nombre de tests <DiscourseConnective annotation_id="26906">et</DiscourseConnective> le nombre d'animaux concernés tout en respectant bien entendu tous les principes éthiques possibles <Alignment alignment="22060" annotation_id="27009">
+          <DiscourseConnective annotation_id="27009" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>éviter la souffrance des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23670" docOffset="169">
+      <en>I would like to thank you all for this outcome.</en>
+      <fr>Je vous remercie tous <DiscourseConnective annotation_id="27072">pour</DiscourseConnective> ce <DiscourseConnective annotation_id="27080">résultat</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23718" id="199" name="Caroline Lucas">
+    <ParallelChunk annotation_id="23718" docOffset="170">
+      <en>Mr President, I cannot hide the fact that this report has been a serious disappointment to those of us who thought that a rapporteur who was <Alignment alignment="27227" annotation_id="23859">
+          <DiscourseConnective annotation_id="23859" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> the president of the animal welfare intergroup might have reflected that concern for animals <DiscourseConnective annotation_id="23957" sense="Expansion.Alternative.Chosen alternative">rather</DiscourseConnective> more diligently in his report.</en>
+      <fr>(EN) Monsieur le Président, je ne saurais cacher à quel point ce rapport déçoit ceux d'entre nous qui pensaient <DiscourseConnective annotation_id="27202">qu'</DiscourseConnective>un rapporteur qui est <Alignment alignment="23859" annotation_id="27227">
+          <DiscourseConnective annotation_id="27227" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> le président de l'intergroupe sur le bien-être animal aurait reflété davantage dans son rapport les préoccupations en faveur des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23995" docOffset="171">
+      <en>It is therefore essential that some crucial amendments are adopted <DiscourseConnective annotation_id="24062" sense="Temporal.Synchrony">when</DiscourseConnective> we vote on this.</en>
+      <fr>Il est <DiscourseConnective annotation_id="27378">donc</DiscourseConnective> essentiel <DiscourseConnective annotation_id="27393">que</DiscourseConnective> certains amendements cruciaux soient adoptés lors du vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24084" docOffset="172">
+      <en>
+        <Alignment alignment="27464" annotation_id="24084">
+          <DiscourseConnective annotation_id="24084" sense="Expansion.Restatement">In particular</DiscourseConnective>
+        </Alignment>, the scope of authorisation must apply to all projects, not just to severe and moderate ones.</en>
+      <fr>Il faut <Alignment alignment="16028" annotation_id="27464">
+          <DiscourseConnective annotation_id="27464" sense="Expansion.Restatement">notamment</DiscourseConnective>
+        </Alignment> que tous les projets soient soumis <DiscourseConnective annotation_id="27509">à</DiscourseConnective> autorisation, et pas uniquement les procédures de gravité sévère <DiscourseConnective annotation_id="27576">ou</DiscourseConnective> modérée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24192" docOffset="173">
+      <en>
+        <Alignment alignment="27588" annotation_id="24192">
+          <DiscourseConnective annotation_id="24192" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we fail to ensure that, it will mean that many procedures causing pain, distress or suffering would no longer be subject to a centrally monitored ethical review <DiscourseConnective annotation_id="24356" sense="Expansion.Conjunction">and</DiscourseConnective> that <DiscourseConnective annotation_id="24365" sense="Temporal.Asynchronous.Precedence">in turn</DiscourseConnective> would effectively undermine the enforcement of many of the measures set out in the proposal as a whole.</en>
+      <fr>
+        <Alignment alignment="856" annotation_id="27588">
+          <DiscourseConnective annotation_id="27588" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous n'imposons pas cette condition, de nombreuses procédures qui provoquent la douleur, la détresse <DiscourseConnective annotation_id="27692">ou</DiscourseConnective> la souffrance ne feront plus l'objet d'un examen éthique contrôlé centralement. Ceci entraverait la mise en pratique de nombreuses mesures prévues par cette proposition dans son ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24477" docOffset="174">
+      <en>
+        <DiscourseConnective annotation_id="24477" sense="Comparison.Contrast">But</DiscourseConnective>, <DiscourseConnective annotation_id="24482" sense="Contingency.Condition">if</DiscourseConnective> our amendments are passed, it will mean that there will be renewed effort going into research and the alternatives to animal testing, which is particularly critical in basic and medical research.</en>
+      <fr>Si nos amendements sont adoptés, par contre, cela signifiera une relance des efforts de recherche en matière de méthodes alternatives <DiscourseConnective annotation_id="28017">à</DiscourseConnective> l'expérimentation animale, un élément essentiel dans le domaine de la recherche fondamentale <DiscourseConnective annotation_id="28112">et</DiscourseConnective> de la recherche médicale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24681" docOffset="175">
+      <en>Current efforts are concentrated on regulatory testing, which accounts for only 10% of animal use.</en>
+      <fr>Les efforts actuels se concentrent sur les tests réglementaires, qui ne représentent <DiscourseConnective annotation_id="28226">que</DiscourseConnective> 10 % de l'utilisation d'animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24780" docOffset="176">
+      <en>For the sake of both the animals and human health, it is essential that more modern, effective non-animal tests come into use as soon as possible.</en>
+      <fr>Pour les animaux comme pour la santé humaine, il est essentiel d'utiliser <DiscourseConnective annotation_id="28337">dès que</DiscourseConnective> possible des tests plus modernes et efficaces n'impliquant pas d'animaux.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="24927" id="200" name="Stavros Dimas">
+    <ParallelChunk annotation_id="24927" docOffset="177">
+      <en>Member of the Commission. - (EL) Mr President, I should like to thank all the speakers for their very constructive contributions to this evening's debate.</en>
+      <fr>membre de la Commission. - (<DiscourseConnective annotation_id="28447">EN</DiscourseConnective>) Monsieur le Président, je souhaite remercier tous les intervenants <DiscourseConnective annotation_id="28518">pour</DiscourseConnective> leurs contributions très constructives au débat de ce soir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25082" docOffset="178">
+      <en>Allow me to formulate some brief comments on certain amendments.</en>
+      <fr>Permettez-moi de formuler quelques brefs commentaires concernant certains amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25147" docOffset="179">
+      <en>The Commission can accept numerous amendments in full, in part or in principle.</en>
+      <fr>La Commission peut accepter complètement, partiellement <DiscourseConnective annotation_id="28726">ou</DiscourseConnective> <DiscourseConnective annotation_id="28729">en</DiscourseConnective> principe de nombreux amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25227" docOffset="180">
+      <en>These amendments include proposals to improve the confidentiality of data relating to installations and staff working with animals. They <Alignment alignment="19552" annotation_id="25364">
+          <DiscourseConnective annotation_id="25364" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> include proposals for regular review of the use of non-human primates at European Union level.</en>
+      <fr>Il s'agit <DiscourseConnective annotation_id="28776">par exemple</DiscourseConnective> des amendements proposant d'améliorer la confidentialité des données relatives aux installations <DiscourseConnective annotation_id="28885">et</DiscourseConnective> au personnel travaillant avec des animaux, <Alignment alignment="14254" annotation_id="28931">
+          <DiscourseConnective annotation_id="28931" sense="Expansion.Conjunction">ou encore</DiscourseConnective>
+        </Alignment> de réexaminer à intervalles réguliers l'utilisation de primates non humains au niveau de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25464" docOffset="181">
+      <en>Concern was <Alignment alignment="29063" annotation_id="25476">
+          <DiscourseConnective annotation_id="25476" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> expressed about the criteria for severity bands.</en>
+      <fr>Certains ont <Alignment alignment="2060" annotation_id="29063">
+          <DiscourseConnective annotation_id="29063" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> exprimé des inquiétudes quant aux critères utilisés <DiscourseConnective annotation_id="29125">pour</DiscourseConnective> définir les degrés de gravité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25530" docOffset="182">
+      <en>I am in a position to announce to you that, before the summer recess, the Commission will convene a working party of experts to examine the definition of appropriate criteria for use in the European Union.</en>
+      <fr>Je suis <DiscourseConnective annotation_id="29169">en</DiscourseConnective> mesure de vous annoncer <DiscourseConnective annotation_id="29196">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="29199">avant</DiscourseConnective> l'interruption d'été, la Commission réunira un groupe de travail composé d'experts chargés de définir des critères adéquats <DiscourseConnective annotation_id="29329">à</DiscourseConnective> utiliser dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25736" docOffset="183">
+      <en>Without doubt, we will need to maintain the balance struck, as a result of detailed consultation with those directly involved, between the needs of industry and the promotion of research, on the one hand, and animal welfare, on the other.</en>
+      <fr>Nous devrons bien sûr préserver l'équilibre auquel nous sommes parvenus, au terme de consultations détaillées avec les parties directement concernées, entre les besoins de l'industrie <DiscourseConnective annotation_id="29549">et</DiscourseConnective> la promotion de la recherche <DiscourseConnective annotation_id="29581">d'un côté</DiscourseConnective> <DiscourseConnective annotation_id="29591">et</DiscourseConnective> le bien-être des animaux <DiscourseConnective annotation_id="29619">de l'autre</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25975" docOffset="184">
+      <en>
+        <Alignment alignment="65871" annotation_id="25975">
+          <DiscourseConnective annotation_id="25975" sense="Contingency.Cause.Result">Consequently</DiscourseConnective>
+        </Alignment>, the restrictions on the use of non-human primates must be retained, <Alignment alignment="29722" annotation_id="26057">
+          <DiscourseConnective annotation_id="26057" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> must the principle of licensing and independent ethical evaluation of all forms of research, which are basic elements in this proposal.</en>
+      <fr>Il faut <Alignment alignment="15200" annotation_id="29639">
+          <DiscourseConnective annotation_id="29639" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> maintenir les restrictions relatives à l'utilisation de primates non humains, <Alignment alignment="26057" annotation_id="29722">
+          <DiscourseConnective annotation_id="29722" sense="Temporal.Synchrony">tout comme</DiscourseConnective>
+        </Alignment> le principe d'autorisation <DiscourseConnective annotation_id="29760">et</DiscourseConnective> d'évaluation éthique indépendante de toutes les formes de recherche. Ces principes sont des éléments fondamentaux de cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26196" docOffset="185">
+      <en>To recapitulate, the Commission is able to accept 83 of the 202 proposed amendments in full, in part or in principle.</en>
+      <fr>
+        <DiscourseConnective annotation_id="29899">Pour</DiscourseConnective> récapituler, la Commission peut accepter complètement, partiellement, <DiscourseConnective annotation_id="29974">ou</DiscourseConnective> <DiscourseConnective annotation_id="29977">en</DiscourseConnective> principe 83 des 202 amendements proposés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26314" docOffset="186">
+      <en>I shall send Parliament's secretariat a list with the Commission's detailed positions on the amendments.</en>
+      <fr>J'enverrai au secrétariat du Parlement une liste reprenant la position détaillée de la Commission envers ces amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26419" docOffset="187">
+      <en>Finally, I should like to say that, over and above this proposal, which is very important <Alignment alignment="30225" annotation_id="26509">
+          <DiscourseConnective annotation_id="26509" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> for which we must maintain the balance between the needs of scientific research and improving human health, <Alignment alignment="20750" annotation_id="26621">
+          <DiscourseConnective annotation_id="26621" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> at the same time using methods which are not hard on animals, I must say that the Commission, all the while I have been Commissioner, has taken numerous measures to protect animals.</en>
+      <fr>
+        <DiscourseConnective annotation_id="30144">Enfin</DiscourseConnective>, je voudrais <DiscourseConnective annotation_id="30163">dire qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="30171">en plus de</DiscourseConnective> cette proposition, qui est très importante <Alignment alignment="26509" annotation_id="30225">
+          <DiscourseConnective annotation_id="30225" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="30228">pour</DiscourseConnective> laquelle nous devons répondre aux besoins de la recherche scientifique <DiscourseConnective annotation_id="30304">et</DiscourseConnective> améliorer la santé humaine <Alignment alignment="26621" annotation_id="30334">
+          <DiscourseConnective annotation_id="30334" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> utilisant des méthodes <DiscourseConnective annotation_id="30365">sans</DiscourseConnective> cruauté envers les animaux, je dois <DiscourseConnective annotation_id="30406">dire que</DiscourseConnective> la Commission, depuis aussi longtemps que je suis commissaire, a pris de nombreuses mesures visant <DiscourseConnective annotation_id="30514">à</DiscourseConnective> protéger les animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26809" docOffset="188">
+      <en>I would remind you of our previous debate on seals, of the very drastic measures and reaction in connection with whale hunting, of the issues relating to unsustainable hunting, especially in spring, and of the measures which we took for the first time as the Commission, with safety measures to prevent precisely such cases.</en>
+      <fr>Je voudrais vous rappeler notre précédent débat consacré aux phoques, les mesures radicales <DiscourseConnective annotation_id="30630">et</DiscourseConnective> la réaction par rapport <DiscourseConnective annotation_id="30657">à</DiscourseConnective> la chasse à la baleine, les questions relatives <DiscourseConnective annotation_id="30707">à</DiscourseConnective> la chasse non durable, <DiscourseConnective annotation_id="30732">notamment</DiscourseConnective> au printemps, <DiscourseConnective annotation_id="30756">et</DiscourseConnective> les mesures <DiscourseConnective annotation_id="30771">que</DiscourseConnective> nous avons prises <DiscourseConnective annotation_id="30793">pour</DiscourseConnective> la première fois en <DiscourseConnective annotation_id="30818">tant que</DiscourseConnective> Commission, avec des mesures de sécurité destinées <DiscourseConnective annotation_id="30878">à</DiscourseConnective> empêcher <DiscourseConnective annotation_id="30889">précisément</DiscourseConnective> ces situations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27134" docOffset="189">
+      <en>I truly cannot understand how practices such as fox-hunting or bullfights or cockfighting can be compatible with today's culture.</en>
+      <fr>Je ne comprends réellement pas comment notre culture actuelle peut tolérer des pratiques telles <DiscourseConnective annotation_id="31013">que</DiscourseConnective> la chasse au renard, la corrida <DiscourseConnective annotation_id="31049">ou</DiscourseConnective> les combats de coqs.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="27264" id="201" name="Neil Parish">
+    <ParallelChunk annotation_id="27264" docOffset="190">
+      <en>rapporteur. - Mr President, I should like to thank Members very much for their views and the Commissioner for his views.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je tiens <DiscourseConnective annotation_id="31124">à</DiscourseConnective> remercier mes collègues députés <DiscourseConnective annotation_id="31158">et</DiscourseConnective> M. le commissaire pour les opinions qu'ils ont exprimées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27385" docOffset="191">
+      <en>We are right to have this review of this legislation.</en>
+      <fr>Nous avons raison de réviser cette législation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27439" docOffset="192">
+      <en>It is right to refine, reduce and replace animal testing wherever possible.</en>
+      <fr>Il est juste de perfectionner, de réduire <DiscourseConnective annotation_id="31309">et</DiscourseConnective> de remplacer <DiscourseConnective annotation_id="31325">autant</DiscourseConnective> que possible l'expérimentation animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27515" docOffset="193">
+      <en>We are right to keep the momentum going.</en>
+      <fr>Nous avons raison de maintenir notre lancée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27556" docOffset="194">
+      <en>Both industry and animal welfare organisations believe this is necessary.</en>
+      <fr>Tant l'industrie <DiscourseConnective annotation_id="31434">que</DiscourseConnective> les organisations de défense des animaux estiment ces mesures nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27630" docOffset="195">
+      <en>This is an issue which I believe goes well beyond politics and is very much a moral issue that we must get right.</en>
+      <fr>Je pense qu'il <DiscourseConnective annotation_id="31528">s'</DiscourseConnective>agit d'une question qui dépasse largement la politique, qu'il <DiscourseConnective annotation_id="31592">s'</DiscourseConnective>agit d'une question morale à laquelle nous devons apporter une réponse correcte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27744" docOffset="196">
+      <en>I for one am very disappointed - <Alignment alignment="31737" annotation_id="27777">
+          <DiscourseConnective annotation_id="27777" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> he were here I would say it to him clearly - that Graham Watson has made a personal attack on me in my own region, making this a highly political issue.</en>
+      <fr>Je suis quant à moi fort déçu, et je le lui dirais clairement <Alignment alignment="27777" annotation_id="31737">
+          <DiscourseConnective annotation_id="31737" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il était ici, <DiscourseConnective annotation_id="31753">que</DiscourseConnective> Graham Watson ait lancé une attaque personnelle contre moi dans ma propre région, faisant de ce dossier un dossier politique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27933" docOffset="197">
+      <en>This is regrettable <Alignment alignment="1167" annotation_id="27953">
+          <DiscourseConnective annotation_id="27953" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we need to come forward with a sensible proposal in the end.</en>
+      <fr>C'est d'autant plus regrettable <Alignment alignment="7079" annotation_id="31915">
+          <DiscourseConnective annotation_id="31915" sense="Contingency.Cause.Reason">qu'en</DiscourseConnective>
+        </Alignment> fin de compte, nous devrons soumettre une proposition raisonnable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28022" docOffset="198">
+      <en>A lot of technical expertise and work has been put into this report.</en>
+      <fr>Ce rapport a demandé beaucoup de travail, <DiscourseConnective annotation_id="32030">et</DiscourseConnective> il est le fruit d'une expertise technique considérable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28091" docOffset="199">
+      <en>We do not deliver this report lightly.</en>
+      <fr>Nous ne le présentons pas à la légère.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28130" docOffset="200">
+      <en>We have put serious work into it <Alignment alignment="32164" annotation_id="28163">
+          <DiscourseConnective annotation_id="28163" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have good compromises.</en>
+      <fr>Nous y avons travaillé sérieusement <Alignment alignment="21525" annotation_id="32164">
+          <DiscourseConnective annotation_id="32164" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous sommes arrivés à de bons compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28193" docOffset="201">
+      <en>I have sought to bring all sides together to deliver a report which is right for Parliament, right for research and industry, and right for animal welfare.</en>
+      <fr>Je me suis efforcé de réunir toutes les parties afin de préparer un rapport correct <DiscourseConnective annotation_id="32292">pour</DiscourseConnective> le Parlement, correct <DiscourseConnective annotation_id="32319">pour</DiscourseConnective> la recherche <DiscourseConnective annotation_id="32337">et</DiscourseConnective> l'industrie, <DiscourseConnective annotation_id="32353">et</DiscourseConnective> correct <DiscourseConnective annotation_id="32364">pour</DiscourseConnective> le bien-être animal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28349" docOffset="202">
+      <en>I would urge all to support it because, <Alignment alignment="32434" annotation_id="28389">
+          <DiscourseConnective annotation_id="28389" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we do not get it through, we face delaying the report for a couple of years, <DiscourseConnective annotation_id="28469" sense="Expansion.Conjunction">and</DiscourseConnective> this would be detrimental to the industry and to animal welfare.</en>
+      <fr>Je vous invite tous <DiscourseConnective annotation_id="32410">à</DiscourseConnective> le soutenir <DiscourseConnective annotation_id="32424">parce que</DiscourseConnective> <Alignment alignment="28389" annotation_id="32434">
+          <DiscourseConnective annotation_id="32434" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous ne l'adoptons pas, nous risquons de retarder ce rapport de plusieurs années, ce qui nuirait aussi bien <DiscourseConnective annotation_id="32545">à</DiscourseConnective> l'industrie <DiscourseConnective annotation_id="32559">qu'</DiscourseConnective>au bien-être animal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28538" docOffset="203">
+      <en>
+        <DiscourseConnective annotation_id="28538" sense="Contingency.Cause.Result">So</DiscourseConnective> I would urge all Members to support it.</en>
+      <fr>J'invite donc tous les députés <DiscourseConnective annotation_id="32614">à</DiscourseConnective> appuyer ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28581" docOffset="204">
+      <en>
+        <Alignment alignment="32636" annotation_id="28581">
+          <DiscourseConnective annotation_id="28581" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there are groups here that decide to vote against it, I think in the long run all it will do is delay what is a good proposal, one which will help to make sure there is research available in the European Union to help with disease control and new medicine <Alignment alignment="16702" annotation_id="28840">
+          <DiscourseConnective annotation_id="28840" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> at the same time reducing the number of animals we need to use and actually strengthening ECVAM in looking for alternatives.</en>
+      <fr>
+        <Alignment alignment="13311" annotation_id="32636">
+          <DiscourseConnective annotation_id="32636" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> certains groupes décident de voter contre ce rapport, je pense qu'à long terme ils parviendront uniquement à retarder une bonne proposition, une proposition qui permettra de poursuivre la recherche médicale <DiscourseConnective annotation_id="32846">et</DiscourseConnective> le développement de nouveaux médicaments dans l'Union européenne, <Alignment alignment="18004" annotation_id="32915">
+          <DiscourseConnective annotation_id="32915" sense="Temporal.Synchrony">tout en</DiscourseConnective>
+        </Alignment> réduisant le nombre d'animaux nécessaires <DiscourseConnective annotation_id="32965">pour</DiscourseConnective> ces recherches <DiscourseConnective annotation_id="32985">et</DiscourseConnective> <DiscourseConnective annotation_id="32988">en</DiscourseConnective> renforçant la recherche d'alternatives par le CEVMA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28971" docOffset="205">
+      <en>
+        <DiscourseConnective annotation_id="28971" sense="Contingency.Cause.Result">So</DiscourseConnective> I would urge all Members to vote for it <Alignment alignment="33100" annotation_id="29014">
+          <DiscourseConnective annotation_id="29014" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we want a really resounding result in the morning.</en>
+      <fr>J'invite donc tous les députés <DiscourseConnective annotation_id="33075">à</DiscourseConnective> voter <DiscourseConnective annotation_id="33083">pour</DiscourseConnective> ce rapport, <Alignment alignment="22464" annotation_id="33100">
+          <DiscourseConnective annotation_id="33100" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous voulons réellement obtenir un <DiscourseConnective annotation_id="33145">résultat</DiscourseConnective> retentissant demain matin.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29073" id="202" name="President">
+    <ParallelChunk annotation_id="29073" docOffset="206">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29095" docOffset="207">
+      <en>The vote will take place tomorrow (Tuesday, 5 May 2009).</en>
+      <fr>Le vote aura lieu demain, mardi 5 mai 2009.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29152" docOffset="208">
+      <en>Written statements (Rule 142)</en>
+      <fr>Déclarations écrites (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29182" id="203" name="Šarūnas Birutis ">
+    <ParallelChunk annotation_id="29182" docOffset="209">
+      <en>in writing. - (LT) The draft Commission report strongly supports the development of a more animal welfare friendly approach to the issue of the use of animals in scientific experimentation.</en>
+      <fr>par écrit. - (LT) Le projet de rapport de la Commission soutient fermement le développement d'une approche de l'utilisation d'animaux dans l'expérimentation scientifique plus favorable au bien-être des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29372" docOffset="210">
+      <en>This demonstrates the Commission's commitment towards the end goal of the abolition of animal experimentation.</en>
+      <fr>Ceci démontre l'engagement de la Commission en faveur du but ultime de l'abolition de l'expérimentation animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29483" docOffset="211">
+      <en>The European Union should be working towards this goal.</en>
+      <fr>Tel doit être le but recherché par l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29539" docOffset="212">
+      <en>The European Parliament has made its belief clear that more should be done towards the final objective of removing animals from scientific experiments altogether.</en>
+      <fr>Le Parlement européen a exprimé clairement sa conviction <DiscourseConnective annotation_id="33715">qu'</DiscourseConnective>il faut en faire plus pour se rapprocher de l'objectif ultime d'éliminer entièrement l'utilisation d'animaux dans les expériences scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29702" docOffset="213">
+      <en>
+        <Alignment alignment="33863" annotation_id="29702">
+          <DiscourseConnective annotation_id="29702" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, whilst this remains the end goal, we are not yet in a position to end animal experimentation altogether.</en>
+      <fr>
+        <Alignment alignment="18271" annotation_id="33863">
+          <DiscourseConnective annotation_id="33863" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="33874">bien que</DiscourseConnective> cela reste l'objectif ultime, nous ne sommes pas <DiscourseConnective annotation_id="33932">encore</DiscourseConnective> <DiscourseConnective annotation_id="33939">en</DiscourseConnective> mesure de mettre fin entièrement à l'expérimentation animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29816" docOffset="214">
+      <en>There remains a huge gap in the development of alternative, non-animal testing methods.</en>
+      <fr>Il reste encore un fossé considérable à combler dans le développement de méthodes de test alternatives n'impliquant pas d'animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29904" docOffset="215">
+      <en>Whilst this remains the case, it would be unwise and potentially disastrous for human health to mandate a date beyond which animal testing or testing on certain categories of animals, such as non-human primates, can no longer be carried out.</en>
+      <fr>
+        <DiscourseConnective annotation_id="34135">Aussi longtemps que</DiscourseConnective> cela sera le cas, il serait peu sage, <DiscourseConnective annotation_id="34193">et</DiscourseConnective> potentiellement désastreux <DiscourseConnective annotation_id="34223">pour</DiscourseConnective> la santé humaine, de fixer une date au-delà de laquelle les expériences sur les animaux, <DiscourseConnective annotation_id="34317">ou</DiscourseConnective> sur certaines catégories d'animaux <DiscourseConnective annotation_id="34355">comme</DiscourseConnective> les primates non humains, ne seront plus permises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30146" docOffset="216">
+      <en>Public opinion polls tend to support this approach <Alignment alignment="34489" annotation_id="30197">
+          <DiscourseConnective annotation_id="30197" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they cannot be ignored.</en>
+      <fr>Les sondages montrent que l'opinion publique est favorable <DiscourseConnective annotation_id="34471">à</DiscourseConnective> cette approche, <Alignment alignment="34129" annotation_id="34489">
+          <DiscourseConnective annotation_id="34489" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous ne pouvons les ignorer.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="30225" id="997" language="RO" name="Daciana Octavia Sârbu ">
+    <ParallelChunk annotation_id="30225" docOffset="217">
+      <en>I would first of all like to congratulate the European Commission for its proposal to revise Directive 86/609/EEC, <Alignment alignment="34637" annotation_id="30340">
+          <DiscourseConnective annotation_id="30340" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I am sorry that the rapporteur did not put forward more ambitious objectives.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="34530">tout d'abord</DiscourseConnective> <DiscourseConnective annotation_id="34543">à</DiscourseConnective> féliciter la Commission européenne d'avoir proposé une révision de la directive 86/609/CEE, <Alignment alignment="18762" annotation_id="34637">
+          <DiscourseConnective annotation_id="34637" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je regrette <DiscourseConnective annotation_id="34654">que</DiscourseConnective> le rapporteur n'ait pas proposé d'objectifs plus ambitieux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30422" docOffset="218">
+      <en>I think that we must invest more in carrying out research into finding alternatives to using animals for scientific purposes.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="34727">que</DiscourseConnective> nous devons investir davantage dans la recherche d'alternatives <DiscourseConnective annotation_id="34795">à</DiscourseConnective> l'utilisation d'animaux <DiscourseConnective annotation_id="34821">à</DiscourseConnective> des fins scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30548" docOffset="219">
+      <en>We must oblige laboratories to resort to the use of animals for scientific experiments as little as possible, especially those taken from the wild.</en>
+      <fr>Nous devons obliger les laboratoires <DiscourseConnective annotation_id="34884">à</DiscourseConnective> recourir le moins possible à l'expérimentation animale, et <DiscourseConnective annotation_id="34945">surtout</DiscourseConnective> à utiliser le moins possible d'animaux capturés dans la nature.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30696" docOffset="220">
+      <en>I strongly oppose the use of non-human primates for biomedical research, except only where there is a need to use them exclusively in experiments involving life-threatening or debilitating conditions.</en>
+      <fr>Je suis fermement opposée à l'utilisation de primates non humains <DiscourseConnective annotation_id="35083">pour</DiscourseConnective> la recherche biomédicale, à l'exception des expériences menées dans le cadre de recherches sur des maladies mortelles <DiscourseConnective annotation_id="35206">ou</DiscourseConnective> handicapantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30897" docOffset="221">
+      <en>From an ethical standpoint, there must be an upper limit of pain, suffering and distress above which animals must never be subjected in scientific procedures.</en>
+      <fr>Du point de vue éthique, il doit y avoir une limite supérieure de douleur, de souffrance <DiscourseConnective annotation_id="35313">et</DiscourseConnective> de détresse à ne jamais dépasser dans les expériences scientifiques sur les animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31056" docOffset="222">
+      <en>With this in mind, carrying out experiments which result in severe pain, suffering or stress, and which are likely to be prolonged, must be banned.</en>
+      <fr>Dans cet esprit, il faut interdire les expériences provoquant une douleur, une souffrance <DiscourseConnective annotation_id="35491">ou</DiscourseConnective> un stress prononcés <DiscourseConnective annotation_id="35514">et</DiscourseConnective> potentiellement prolongés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31204" docOffset="223">
+      <en>I am aware that public health is of paramount importance, <Alignment alignment="35607" annotation_id="31262">
+          <DiscourseConnective annotation_id="31262" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we must not allow animals to be subjected to extreme suffering in order to test treatments.</en>
+      <fr>J'ai conscience de l'importance capitale de la santé publique, <Alignment alignment="2564" annotation_id="35607">
+          <DiscourseConnective annotation_id="35607" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous ne devons pas permettre que des animaux subissent des souffrances extrêmes <DiscourseConnective annotation_id="35692">pour</DiscourseConnective> tester de nouveaux traitements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31358" docOffset="224">
+      <en>I <Alignment alignment="45654" annotation_id="31360">
+          <DiscourseConnective annotation_id="31360" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> support the amendment stipulating that the directive must not restrict Member States from applying or adopting more stringent national measures, aimed at improving the welfare and protection of animals used for scientific purposes.</en>
+      <fr>Je soutiens <Alignment alignment="5615" annotation_id="35741">
+          <DiscourseConnective annotation_id="35741" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> l'amendement précisant <DiscourseConnective annotation_id="35774">que</DiscourseConnective> cette directive ne doit pas empêcher les États membres d'appliquer <DiscourseConnective annotation_id="35845">ou</DiscourseConnective> d'adopter des mesures nationales plus strictes visant <DiscourseConnective annotation_id="35902">à</DiscourseConnective> améliorer le bien-être <DiscourseConnective annotation_id="35927">et</DiscourseConnective> la protection des animaux utilisés <DiscourseConnective annotation_id="35965">à</DiscourseConnective> des fins scientifiques.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

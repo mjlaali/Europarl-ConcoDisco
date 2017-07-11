@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="095" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the vote.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+      <en>(For the results and other details on the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="89">et</DiscourseConnective> autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="100" docOffset="3">
+      <en>*</en>
+      <fr>*</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="102" id="096" name="Nigel Farage">
+    <ParallelChunk annotation_id="102" docOffset="4">
+      <en>Madam President, under Rule 110 of our Rules of Procedure, the Commission may, at any time, request permission to make a statement on an urgent issue.</en>
+      <fr>(EN) Madame la Présidente, en vertu de l'article 110 de notre règlement, la Commission peut <DiscourseConnective annotation_id="237">à</DiscourseConnective> tout moment demander l'autorisation de faire une déclaration sur une question urgente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="253" docOffset="5">
+      <en>Overnight, we have had the economically calamitous, but unsurprising, news that another country has bitten the dust <Alignment alignment="482" annotation_id="369">
+          <DiscourseConnective annotation_id="369" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that Portugal is going to have to be bailed out.</en>
+      <fr>Nous avons appris cette nuit - c'est une nouvelle calamiteuse sur le plan économique, <DiscourseConnective annotation_id="412">mais</DiscourseConnective> qui ne nous surprend pas - <DiscourseConnective annotation_id="444">qu'</DiscourseConnective>un autre pays a mordu la poussière <Alignment alignment="862" annotation_id="482">
+          <DiscourseConnective annotation_id="482" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="485">que</DiscourseConnective> le Portugal devra être renfloué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="422" docOffset="6">
+      <en>Can I ask whether you have received any request from the Commission to make a statement on Portugal today?</en>
+      <fr>
+        <DiscourseConnective annotation_id="522">Puis</DiscourseConnective>-je vous demander <DiscourseConnective annotation_id="544">si</DiscourseConnective> vous avez reçu une demande de la part de la Commission de faire une déclaration <DiscourseConnective annotation_id="627">à propos</DiscourseConnective> du Portugal aujourd'hui?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="529" docOffset="7">
+      <en>If not, would the Commissioner say why not?</en>
+      <fr>
+        <DiscourseConnective annotation_id="661">Si</DiscourseConnective> tel n'est pas le cas, le commissaire pourrait-il en donner les raisons?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="573" docOffset="8">
+      <en>Does he think that the bailing-out of Portugal is not important enough for this Parliament to discuss, <Alignment alignment="466544" annotation_id="676">
+          <DiscourseConnective annotation_id="676" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> is he just burying his head in the sand?</en>
+      <fr>Pense-t-il <DiscourseConnective annotation_id="747">que</DiscourseConnective> le renflouement du Portugal n'est pas suffisamment important <DiscourseConnective annotation_id="812">pour que</DiscourseConnective> l'Assemblée <DiscourseConnective annotation_id="833">en</DiscourseConnective> discute, <Alignment alignment="676" annotation_id="845">
+          <DiscourseConnective annotation_id="845" sense="Expansion.Alternative">ou bien</DiscourseConnective>
+        </Alignment> se contente-t-il de faire l'autruche?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="720" id="097" name="President">
+    <ParallelChunk annotation_id="720" docOffset="9">
+      <en>Mr Farage, you have made your point <Alignment alignment="942" annotation_id="756">
+          <DiscourseConnective annotation_id="756" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am sure that Commissioner Šefčovič has heard.</en>
+      <fr>Monsieur Farage, vous avez dit ce que vous pensiez <Alignment alignment="1267" annotation_id="942">
+          <DiscourseConnective annotation_id="942" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis certaine <DiscourseConnective annotation_id="962">que</DiscourseConnective> le commissaire Šefčovič l'a entendu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="808" docOffset="10">
+      <en>It is the prerogative of each institution to react.</en>
+      <fr>C'est la prérogative de chaque institution de réagir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="860" docOffset="11">
+      <en>You have been heard <Alignment alignment="1075" annotation_id="880">
+          <DiscourseConnective annotation_id="880" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we will see what happens.</en>
+      <fr>On vous a entendu <Alignment alignment="880" annotation_id="1075">
+          <DiscourseConnective annotation_id="1075" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous verrons ce qui se passera.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="910" id="098" name="Nigel Farage">
+    <ParallelChunk annotation_id="910" docOffset="12">
+      <en>Madam President, I ask: is the answer yes or no?</en>
+      <fr>(EN) Madame la Présidente, ma question est: est-ce "oui" <DiscourseConnective annotation_id="1167">ou</DiscourseConnective> "non"?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="959" docOffset="13">
+      <en>Have you received a request from the Commission to make an urgent statement on the Portuguese situation <Alignment alignment="1291" annotation_id="1063">
+          <DiscourseConnective annotation_id="1063" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not?</en>
+      <fr>Avez-vous reçu une demande de la Commission de faire une déclaration urgente à propos de la situation au Portugal <Alignment alignment="0" annotation_id="1291">
+          <DiscourseConnective annotation_id="1291" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1071" id="099" name="President">
+    <ParallelChunk annotation_id="1071" docOffset="14">
+      <en>Mr Farage, it is the Commission's prerogative <Alignment alignment="1354" annotation_id="1117">
+          <DiscourseConnective annotation_id="1117" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you have had the chance to be heard.</en>
+      <fr>Monsieur Farage, c'est la prérogative de la Commission <Alignment alignment="499" annotation_id="1354">
+          <DiscourseConnective annotation_id="1354" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous avez eu la possibilité d'être entendu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1158" docOffset="15">
+      <en>We will now proceed with our votes.</en>
+      <fr>Nous passons <DiscourseConnective annotation_id="1414">maintenant</DiscourseConnective> aux votes.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Liability of carriers of passengers by boat in the event of accidents (vote)</en>
+    <fr>Responsabilité des entreprises assurant le transport de personnes par bateau <DiscourseConnective annotation_id="80">en</DiscourseConnective> cas d'accident (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="80" docOffset="2">
+    <en>- Costa report</en>
+    <fr>- Rapport Costa</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="95" docOffset="3">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="123">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="113" id="138" name="Paolo Costa ">
+    <ParallelChunk annotation_id="113" docOffset="4">
+      <en>rapporteur. - (IT) Mr President, ladies and gentlemen, I am just taking the floor to say, for the sake of clarity, that as rapporteur I call on everyone, in all roll-call votes, to vote against anything not tabled by the committee.</en>
+      <fr>Monsieur le Président, Mesdames <DiscourseConnective annotation_id="169">et</DiscourseConnective> Messieurs, j'interviens seulement <DiscourseConnective annotation_id="206">pour</DiscourseConnective> dire, <DiscourseConnective annotation_id="217">pour</DiscourseConnective> la clarté des choses, <DiscourseConnective annotation_id="244">qu'en</DiscourseConnective> ma qualité de rapporteur, j'invite chacun, lors de tous les votes par appel nominal, <DiscourseConnective annotation_id="335">à</DiscourseConnective> voter contre tout ce qui n'a pas été déposé par la commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="345" docOffset="5">
+      <en>I do so to prevent the European Union from having to intervene the next time there is an accident on any major European river, <Alignment alignment="543" annotation_id="472">
+          <DiscourseConnective annotation_id="472" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> that might happen <Alignment alignment="575" annotation_id="498">
+          <DiscourseConnective annotation_id="498" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we do not extend consumer protection to this sector as well.</en>
+      <fr>Je le fais pour éviter à l'Union européenne de devoir intervenir la prochaine fois qu'il y aura un accident sur un grand cours d'eau européen, <Alignment alignment="472" annotation_id="543">
+          <DiscourseConnective annotation_id="543" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> cela pourrait arriver <Alignment alignment="498" annotation_id="575">
+          <DiscourseConnective annotation_id="575" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous n'étendons pas la protection des consommateurs <DiscourseConnective annotation_id="630">à</DiscourseConnective> ce secteur <DiscourseConnective annotation_id="643">aussi</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="562" id="139" name="Georg Jarzembowski">
+    <ParallelChunk annotation_id="562" docOffset="6">
+      <en>(DE) Mr President, that was a very brief description of the problem.</en>
+      <fr>(DE) Monsieur le Président, c'était une description très brève du problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="631" docOffset="7">
+      <en>Both my own group and the other take the view that specific rules would offer better protection for passengers on inland vessels, <Alignment alignment="886" annotation_id="761">
+          <DiscourseConnective annotation_id="761" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the present regulations, on which we are to vote, apply to sea-going traffic, <DiscourseConnective annotation_id="845" sense="Expansion.Conjunction">and</DiscourseConnective> so I would just like to point out that we are doing no less for the passengers' safety <Alignment alignment="361873" annotation_id="936">
+          <DiscourseConnective annotation_id="936" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we table our amendments, and <Alignment alignment="1119" annotation_id="968">
+          <DiscourseConnective annotation_id="968" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> - it is to be hoped - get a majority to vote for them.</en>
+      <fr>Mon groupe <DiscourseConnective annotation_id="737">et</DiscourseConnective> l'autre groupe pensent <DiscourseConnective annotation_id="763">que</DiscourseConnective> des règles spécifiques offriraient une meilleure protection aux passagers des navires sur les voies d'eau intérieures, <Alignment alignment="761" annotation_id="886">
+          <DiscourseConnective annotation_id="886" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> les règlements actuels, sur lesquels nous devons voter, s'appliquent au trafic maritime. Je voudrais donc dire <DiscourseConnective annotation_id="1005">simplement</DiscourseConnective> <DiscourseConnective annotation_id="1016">que</DiscourseConnective> nous n'en faisons pas moins <DiscourseConnective annotation_id="1048">pour</DiscourseConnective> la sécurité des passagers <Alignment alignment="936" annotation_id="1079">
+          <DiscourseConnective annotation_id="1079" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous déposons nos amendements, et si <Alignment alignment="1027" annotation_id="1119">
+          <DiscourseConnective annotation_id="1119" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> - il faut l'espérer - nous rassemblons une majorité <DiscourseConnective annotation_id="1179">pour</DiscourseConnective> les adopter.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

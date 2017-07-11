@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Bangladesh</en>
+    <fr>Bangladesh</fr>
+  </ParallelChunk>
+<Speaker annotation_id="14" id="133" name="President">
+    <ParallelChunk annotation_id="14" docOffset="2">
+      <en>The next item is the debate on six motions for a resolution on Bangladesh.</en>
+      <fr>(FR) L'ordre du jour appelle le débat sur six propositions de résolution concernant le Bangladesh.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="89" id="134" name="Robert Evans ">
+    <ParallelChunk annotation_id="89" docOffset="3">
+      <en>author. - Mr President, Bangladesh is a country that I have visited many times and one of which I am very fond.</en>
+      <fr>auteur. - (EN) Monsieur le Président, le Bengladesh est un pays <DiscourseConnective annotation_id="177">que</DiscourseConnective> j'ai visité plusieurs fois <DiscourseConnective annotation_id="208">et</DiscourseConnective> <DiscourseConnective annotation_id="211">que</DiscourseConnective> j'apprécie beaucoup.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="201" docOffset="4">
+      <en>
+        <Alignment alignment="8933" annotation_id="201">
+          <DiscourseConnective annotation_id="201" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, I have many friends of Bangladeshi origin in London <Alignment alignment="301" annotation_id="261">
+          <DiscourseConnective annotation_id="261" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I follow the political situation there very closely.</en>
+      <fr>
+        <Alignment alignment="201" annotation_id="236">
+          <DiscourseConnective annotation_id="236" sense="Expansion.Conjunction">En réalité</DiscourseConnective>
+        </Alignment>, j'ai beaucoup d'amis d'origine bangladaise <DiscourseConnective annotation_id="291">à</DiscourseConnective> Londres <Alignment alignment="261" annotation_id="301">
+          <DiscourseConnective annotation_id="301" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis la situation politique de ce pays de très près.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="318" docOffset="5">
+      <en>This resolution acknowledges that the situation has deteriorated significantly in recent months, such that there are now real concerns about law and order, human rights and, indeed, the mere survival of democracy in that country, which is highlighted throughout this resolution.</en>
+      <fr>Cette résolution atteste de la détérioration significative de la situation dans les mois récents suscitant l'inquiétude en matière d'ordre public, de droits de l'homme <DiscourseConnective annotation_id="528">et</DiscourseConnective>, <DiscourseConnective annotation_id="532">en fait</DiscourseConnective>, <DiscourseConnective annotation_id="541">en</DiscourseConnective> matière de démocratie pure <DiscourseConnective annotation_id="571">et</DiscourseConnective> simple dans ce pays, ce qui ressort de l'ensemble de cette résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="597" docOffset="6">
+      <en>
+        <Alignment alignment="645" annotation_id="597">
+          <DiscourseConnective annotation_id="597" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> the electoral process was suspended in January, I think most of us hoped it would just be a matter of weeks <Alignment alignment="37948" annotation_id="710">
+          <DiscourseConnective annotation_id="710" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> elections could take place, <Alignment alignment="840" annotation_id="745">
+          <DiscourseConnective annotation_id="745" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the weeks have become months, <Alignment alignment="1131" annotation_id="779">
+          <DiscourseConnective annotation_id="779" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> months have now become years, <Alignment alignment="935" annotation_id="813">
+          <DiscourseConnective annotation_id="813" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> a new democratically-elected government can be in place.</en>
+      <fr>
+        <Alignment alignment="597" annotation_id="645">
+          <DiscourseConnective annotation_id="645" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> le processus électoral a été suspendu <DiscourseConnective annotation_id="691">en</DiscourseConnective> janvier, je pense que la plupart d'entre nous espéraient qu'il s'agirait d'une question de semaines <Alignment alignment="710" annotation_id="794">
+          <DiscourseConnective annotation_id="794" sense="Temporal.Asynchronous.Precedence">avant que</DiscourseConnective>
+        </Alignment> les élections puissent se dérouler; <Alignment alignment="745" annotation_id="840">
+          <DiscourseConnective annotation_id="840" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les semaines se sont transformées en mois, <Alignment alignment="779" annotation_id="888">
+          <DiscourseConnective annotation_id="888" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les mois sont <DiscourseConnective annotation_id="905">maintenant</DiscourseConnective> devenus des années <Alignment alignment="813" annotation_id="935">
+          <DiscourseConnective annotation_id="935" sense="Temporal.Asynchronous.Precedence">avant qu'</DiscourseConnective>
+        </Alignment>un nouveau gouvernement démocratiquement élu puisse être mis <DiscourseConnective annotation_id="1005">en</DiscourseConnective> place.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="877" docOffset="7">
+      <en>In the mean time, we have the unconstitutional and unsatisfactory situation of a civilian caretaker government with the support of the military trying to keep law and order in an increasingly desperate and violent climate.</en>
+      <fr>Dans l'intervalle, nous avons une situation inconstitutionnelle <DiscourseConnective annotation_id="1079">et</DiscourseConnective> insatisfaisante d'un gouvernement civil intérimaire soutenu par les militaires, tentant de faire respecter l'ordre public dans un climat de plus <DiscourseConnective annotation_id="1227">en plus</DiscourseConnective> violent <DiscourseConnective annotation_id="1243">et</DiscourseConnective> désespéré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1100" docOffset="8">
+      <en>Two former prime ministers are in jail.</en>
+      <fr>Deux anciens Premiers ministres sont <DiscourseConnective annotation_id="1294">en</DiscourseConnective> prison.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1140" docOffset="9">
+      <en>There have been riots at the university, hundreds of arrests (including of academics) and allegations of assaults and torture.</en>
+      <fr>Il y a eu des émeutes <DiscourseConnective annotation_id="1327">à</DiscourseConnective> l'université, des centaines d'arrestations (y compris des universitaires) <DiscourseConnective annotation_id="1403">et</DiscourseConnective> des allégations d'agressions <DiscourseConnective annotation_id="1435">et</DiscourseConnective> de tortures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1267" docOffset="10">
+      <en>This cannot be the way forward <Alignment alignment="1488" annotation_id="1298">
+          <DiscourseConnective annotation_id="1298" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="13548" annotation_id="1303">
+          <DiscourseConnective annotation_id="1303" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> paragraph 11 makes clear, I am sure we in the European Parliament stand ready to help and assist to bring the return of democracy to Bangladesh as soon as possible.</en>
+      <fr>Cela ne peut refléter la progression <Alignment alignment="1298" annotation_id="1488">
+          <DiscourseConnective annotation_id="1488" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="9936" annotation_id="1492">
+          <DiscourseConnective annotation_id="1492" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'indique clairement le paragraphe 11, je suis convaincu <DiscourseConnective annotation_id="1555">que</DiscourseConnective> le Parlement européen se tient prêt <DiscourseConnective annotation_id="1595">à</DiscourseConnective> aider <DiscourseConnective annotation_id="1603">et</DiscourseConnective> soutenir le retour de la démocratie au Bengladesh <DiscourseConnective annotation_id="1656">dès que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1471" id="135" name="Marios Matsakis ">
+    <ParallelChunk annotation_id="1471" docOffset="11">
+      <en>author. - Mr President, Bangladesh is territorially about the same size as Greece but has a population almost twice that of Germany.</en>
+      <fr>auteur. - (EN) Monsieur le Président, le Bengladesh a une surface à peu près équivalente à celle de la Grèce <DiscourseConnective annotation_id="1783">mais</DiscourseConnective> sa population représente pratiquement deux fois celle de l'Allemagne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1604" docOffset="12">
+      <en>It became a nation only in 1971 following years of civil war which involved neighbouring ex-British colonies, Pakistan and India.</en>
+      <fr>Le Bengladesh est devenu une nation <DiscourseConnective annotation_id="1894">en</DiscourseConnective> 1971 seulement, <DiscourseConnective annotation_id="1913">après</DiscourseConnective> de nombreuses années de guerre civile qui impliquait des ex-colonies britanniques voisines, le Pakistan <DiscourseConnective annotation_id="2023">et</DiscourseConnective> l'Inde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1734" docOffset="13">
+      <en>Bangladesh suffered 15 years of military dictatorship <Alignment alignment="2084" annotation_id="1788">
+          <DiscourseConnective annotation_id="1788" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="1793" sense="Comparison.Contrast">although</DiscourseConnective> civilian government was restored in 1990, the country is far from having a true democracy.</en>
+      <fr>Ce pays a enduré 15 années de dictature militaire <Alignment alignment="1788" annotation_id="2084">
+          <DiscourseConnective annotation_id="2084" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> malgré la restauration d'un gouvernement civil <DiscourseConnective annotation_id="2134">en</DiscourseConnective> 1990, le pays est loin d'avoir une vraie démocratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1893" docOffset="14">
+      <en>Today, it is a very poor nation plagued by widespread corruption, political interference by the military, severe abuses of human rights, bans on political activities, discrimination against women, religious extremism and a long list of other evils, some of which are mentioned in the resolution.</en>
+      <fr>Aujourd'hui, c'est une nation très pauvre, en proie <DiscourseConnective annotation_id="2242">à</DiscourseConnective> une vaste corruption, des ingérences politiques par les militaires, de sérieux abus infligés aux droits de l'homme, des interdictions d'activités politiques, de la discrimination contre les femmes, de l'extrémisme religieux <DiscourseConnective annotation_id="2468">ainsi</DiscourseConnective> qu'une longue liste d'autres fléaux, certains d'entres eux étant mentionnés dans la résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2189" docOffset="15">
+      <en>Yet, as is stated clearly in Recital N: 'the EU and Bangladesh have good long-lasting relations and are important economic partners'.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2570">Pourtant</DiscourseConnective>, <DiscourseConnective annotation_id="2580">comme</DiscourseConnective> il est clairement indiqué dans le considérant N: "l'Union européenne <DiscourseConnective annotation_id="2655">et</DiscourseConnective> le Bengladesh entretiennent, depuis longtemps, de bonnes relations <DiscourseConnective annotation_id="2725">et</DiscourseConnective> sont des partenaires économiques importants".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2323" docOffset="16">
+      <en>This is true, but so much for choosing our friends and partners and so much for being successful in helping such friendly nations to improve their state of prosperity, their level of democracy and the rule of law.</en>
+      <fr>Cela est vrai, <DiscourseConnective annotation_id="2789">mais</DiscourseConnective> nous avons suffisamment choisi nos alliés <DiscourseConnective annotation_id="2836">et</DiscourseConnective> partenaires <DiscourseConnective annotation_id="2851">et</DiscourseConnective> avons apporté notre secours pour que de tels pays puissent retrouver la prospérité, leur niveau de démocratie <DiscourseConnective annotation_id="2964">et</DiscourseConnective> le respect de l'ordre public.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2537" docOffset="17">
+      <en>In fairness, the EU has tried to improve things in Bangladesh, <Alignment alignment="6980" annotation_id="2600">
+          <DiscourseConnective annotation_id="2600" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> has it tried hard enough?</en>
+      <fr>
+        <DiscourseConnective annotation_id="2997">En</DiscourseConnective> toute honnêteté, l'Union européenne a tenté d'améliorer les choses au Bengladesh, <Alignment alignment="2600" annotation_id="3082">
+          <DiscourseConnective annotation_id="3082" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> a-t-elle suffisamment essayé?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2630" docOffset="18">
+      <en>Has the aid given to Bangladesh been directed properly at improving the nation's productivity infrastructure <Alignment alignment="3252" annotation_id="2739">
+          <DiscourseConnective annotation_id="2739" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> has it been deviated into the pockets of corrupt officials?</en>
+      <fr>L'aide apportée au Bengladesh a-t-elle été correctement distribuée <DiscourseConnective annotation_id="3184">en vue d'</DiscourseConnective>améliorer l'infrastructure de la productivité de la nation <Alignment alignment="2739" annotation_id="3252">
+          <DiscourseConnective annotation_id="3252" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> a-t-elle été détournée dans les poches des officiels corrompus?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2802" docOffset="19">
+      <en>Has the pressure on the military to stop interfering with the nation's political life been severe and determined enough, <Alignment alignment="3471" annotation_id="2923">
+          <DiscourseConnective annotation_id="2923" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> has it been weak and ineffective?</en>
+      <fr>La pression exercée sur les militaires <DiscourseConnective annotation_id="3358">pour</DiscourseConnective> mettre fin à leur ingérence dans la vie politique du pays a-t-elle été suffisamment vigoureuse <DiscourseConnective annotation_id="3458">et</DiscourseConnective> décisive, <Alignment alignment="2923" annotation_id="3471">
+          <DiscourseConnective annotation_id="3471" sense="Expansion.Alternative">ou bien</DiscourseConnective>
+        </Alignment> s'est-elle révélée faible <DiscourseConnective annotation_id="3505">et</DiscourseConnective> inefficace?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2960" docOffset="20">
+      <en>One can provide one's own answers to these questions.</en>
+      <fr>Chacun peut apporter ses propres réponses <DiscourseConnective annotation_id="3562">à</DiscourseConnective> ces questions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3014" docOffset="21">
+      <en>
+        <Alignment alignment="3579" annotation_id="3014">
+          <DiscourseConnective annotation_id="3014" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, my view is that we are a long way from doing what is necessary; there is an urgent need to review our policy on Bangladesh, not excluding the implementation of sanctions and certainly including the serving of stern warnings to neighbouring Pakistan and India to resist the temptation of interfering in the internal affairs of Bangladesh.</en>
+      <fr>
+        <Alignment alignment="3014" annotation_id="3579">
+          <DiscourseConnective annotation_id="3579" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, de mon point de vue, c'est <DiscourseConnective annotation_id="3617">que</DiscourseConnective> nous sommes loin de faire ce qui est nécessaire; il faut revoir rapidement notre politique relative au Bengladesh, ne pas exclure la mise en œuvre de sanctions, mais au contraire avertir de manière stricte les pays voisins tels le Pakistan <DiscourseConnective annotation_id="3861">et</DiscourseConnective> l'Inde <DiscourseConnective annotation_id="3871">pour qu'</DiscourseConnective>ils résistent à la tentation de s'ingérer dans les affaires internes du Bengladesh.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3361" id="136" name="Charles Tannock ">
+    <ParallelChunk annotation_id="3361" docOffset="22">
+      <en>author. - Mr President, like my colleague Robert Evans, I <Alignment alignment="20505" annotation_id="3419">
+          <DiscourseConnective annotation_id="3419" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> represent, in London, our region, over 150 000 constituents of Bangladeshi origin.</en>
+      <fr>auteur. - (EN) Monsieur le Président, <DiscourseConnective annotation_id="4001">de même que</DiscourseConnective> mon collègue Robert Evans, je représente <Alignment alignment="3419" annotation_id="4054">
+          <DiscourseConnective annotation_id="4054" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="4065">à</DiscourseConnective> Londres, notre région, plus de 150 000 électeurs d'origine bangladaise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3507" docOffset="23">
+      <en>Bangladesh is a large and strategic South Asian country, <Alignment alignment="39266" annotation_id="3564">
+          <DiscourseConnective annotation_id="3564" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> once again regrettably is in the news with the August student demonstrations and the arrest of three former prime ministers in a process aimed at combating corruption, but unfortunately and perversely having the appearance of attempting to stifle the democratic, albeit deeply divided, political classes.</en>
+      <fr>Le Bengladesh est un grand pays stratégique dans le sud-est asiatique, <Alignment alignment="3564" annotation_id="4210">
+          <DiscourseConnective annotation_id="4210" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> une fois <DiscourseConnective annotation_id="4222">encore</DiscourseConnective>, il est regrettable qu'il ait été au cœur des informations en août, <DiscourseConnective annotation_id="4297">en</DiscourseConnective> raison de la manifestation étudiante <DiscourseConnective annotation_id="4337">et</DiscourseConnective> de l'arrestation de trois anciens Premiers ministres qui tentaient de vaincre la corruption <DiscourseConnective annotation_id="4432">mais</DiscourseConnective> qui, <DiscourseConnective annotation_id="4442">malheureusement</DiscourseConnective> <DiscourseConnective annotation_id="4458">et</DiscourseConnective> de manière subversive, donnaient l'impression qu'ils voulaient réprimer les classes politiques démocratiques, <DiscourseConnective annotation_id="4571">bien que</DiscourseConnective> sévèrement divisées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3873" docOffset="24">
+      <en>The caretaker government has reassured the EU and the USA that it will proceed to democratic elections at the end of 2008, <Alignment alignment="4731" annotation_id="3996">
+          <DiscourseConnective annotation_id="3996" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective>
+        </Alignment> the electoral registration process is completed and robust enough against electoral fraud.</en>
+      <fr>Le gouvernement par intérim a rassuré l'UE <DiscourseConnective annotation_id="4644">et</DiscourseConnective> les États-Unis sur le fait <DiscourseConnective annotation_id="4674">qu'</DiscourseConnective>il organiserait des élections démocratiques fin 2008, <Alignment alignment="3996" annotation_id="4731">
+          <DiscourseConnective annotation_id="4731" sense="Temporal.Asynchronous.Succession">une fois que</DiscourseConnective>
+        </Alignment> les inscriptions sur les listes électorales seraient closes <DiscourseConnective annotation_id="4804">et</DiscourseConnective> suffisamment fiables pour faire face aux fraudes électorales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4092" docOffset="25">
+      <en>
+        <Alignment alignment="4869" annotation_id="4092">
+          <DiscourseConnective annotation_id="4092" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the timescale appears very long, <Alignment alignment="4911" annotation_id="4134">
+          <DiscourseConnective annotation_id="4134" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are suspicions that the military, whose profile politically has recently risen, are keen to radically alter the political complexion of the country by removing from circulation the two warring protagonists, ex-prime ministers Sheikh Hasina and Khaleda Zia.</en>
+      <fr>
+        <Alignment alignment="14947" annotation_id="4869">
+          <DiscourseConnective annotation_id="4869" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, la période semble bien longue, <Alignment alignment="4134" annotation_id="4911">
+          <DiscourseConnective annotation_id="4911" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on suspecte <DiscourseConnective annotation_id="4926">que</DiscourseConnective> les militaires, dont le profil politique a récemment pris de l'ampleur, soient enclins <DiscourseConnective annotation_id="5017">à</DiscourseConnective> modifier totalement le paysage politique du pays <DiscourseConnective annotation_id="5068">en</DiscourseConnective> retirant de la circulation les deux protagonistes belligérants, à savoir des deux anciens Premiers ministres Sheikh Hasina <DiscourseConnective annotation_id="5194">et</DiscourseConnective> Khaleda Zia.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4401" docOffset="26">
+      <en>It is difficult to understand why they are not released on bail pending trial, <DiscourseConnective annotation_id="4480" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="4484" sense="Expansion.Conjunction">furthermore</DiscourseConnective> why the initial arrests were so melodramatic and lacking in due process under the emergency powers - which this resolution rightly calls for to be lifted, as well as calling for EU diplomatic observers to be present at the two ladies' trials.</en>
+      <fr>Il est difficile de comprendre pourquoi ils ne sont pas remis en liberté sous caution le temps du procès. On outre, la question se pose de savoir pourquoi les arrestations initiales ont pris tant d'ampleur <DiscourseConnective annotation_id="5416">et</DiscourseConnective> ne furent pas menées aux termes d'une procédure équitables et aux termes des pleins pouvoirs - cette résolution demande, à juste titre, la levée de tels actes <DiscourseConnective annotation_id="5578">et</DiscourseConnective> enjoint les diplomates de l'UE d'assurer leur présence au procès des deux femmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4739" docOffset="27">
+      <en>Certainly, Western aid donors are watching Bangladesh very carefully, given the concerns about the deteriorating human rights situation over the last few years and <DiscourseConnective annotation_id="4903" sense="Expansion.Conjunction">also</DiscourseConnective> increasing Islamist radicalisation of its society and a departure, very sadly, from its original course of secular multi-party democracy - a model we in the EU should strongly continue to support for that country.</en>
+      <fr>Il est certain que les donateurs occidentaux surveillent de très près le Bengladesh, étant donné les inquiétudes <DiscourseConnective annotation_id="5776">quant à</DiscourseConnective> la détérioration de la situation des Droits de l'Homme <DiscourseConnective annotation_id="5839">depuis</DiscourseConnective> quelques années <DiscourseConnective annotation_id="5862">et</DiscourseConnective> la montée de la radicalisation islamiste de la société <DiscourseConnective annotation_id="5920">et</DiscourseConnective> <DiscourseConnective annotation_id="5923">pour finir</DiscourseConnective>, tristement, d'une démocratie initialement séculaire et représentée par plusieurs partis - un modèle que nous devrions, au sein de l'UE vigoureusement continuer de soutenir <DiscourseConnective annotation_id="6107">pour</DiscourseConnective> ce pays.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5122" id="137" name="Marcin Libicki ">
+    <ParallelChunk annotation_id="5122" docOffset="28">
+      <en>author. - (PL) Mr President, the next country we are to discuss during this afternoon's debate is Bangladesh, where fundamental rights are <Alignment alignment="22032" annotation_id="5261">
+          <DiscourseConnective annotation_id="5261" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> being breached.</en>
+      <fr>auteur. - (PL) Monsieur le Président, le débat de cet après-midi porte également sur un autre pays, le Bangladesh, où les droits de l'homme sont <Alignment alignment="5261" annotation_id="6266">
+          <DiscourseConnective annotation_id="6266" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> violés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5282" docOffset="29">
+      <en>Having heard about all these individual cases we are bound to wonder how such a situation can exist in a world that is increasingly subject to so-called globalisation, that is networked by economic organisations and even more so by political ones, a world that has seen the establishment of the United Nations and of the European Union on our own continent, and a world where there are so many organisations claiming to respect human beings.</en>
+      <fr>Après avoir écouté la relation de ces cas individuels, force est de nous demander comment une telle situation peut exister dans un monde <DiscourseConnective annotation_id="6421">de plus</DiscourseConnective> <DiscourseConnective annotation_id="6429">en plus</DiscourseConnective> soumis <DiscourseConnective annotation_id="6444">à</DiscourseConnective> ladite mondialisation, avec son réseau d'organisations économiques <DiscourseConnective annotation_id="6513">et</DiscourseConnective> surtout politiques, un monde qui a vu naître les Nations unies <DiscourseConnective annotation_id="6579">et</DiscourseConnective> l'Union européenne sur notre propre continent, <DiscourseConnective annotation_id="6629">et</DiscourseConnective> un monde où de <DiscourseConnective annotation_id="6647">si</DiscourseConnective> nombreuses organisations affirment respecter les droits de l'homme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5724" docOffset="30">
+      <en>We might well ask ourselves why globalisation of fundamental humanitarian principles has not taken place.</en>
+      <fr>Nous pouvons nous demander pourquoi la mondialisation des principes humanitaires fondamentaux n'a pas eu lieu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5830" docOffset="31">
+      <en>It seems to be a problem affecting our times and our organisations.</en>
+      <fr>Ce problème semble affecter notre époque <DiscourseConnective annotation_id="6870">et</DiscourseConnective> nos organisations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5898" docOffset="32">
+      <en>Everyone is interested in politics and economics, <Alignment alignment="6950" annotation_id="5948">
+          <DiscourseConnective annotation_id="5948" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="38246" annotation_id="5952">
+          <DiscourseConnective annotation_id="5952" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to giving politics and economics a human dimension, <Alignment alignment="7036" annotation_id="6018">
+          <Alignment alignment="3514" annotation_id="6018">
+            <DiscourseConnective annotation_id="6018" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> no further harm is done to humble ordinary people, we appear to be helpless.</en>
+      <fr>Tout le monde <DiscourseConnective annotation_id="6906">s'</DiscourseConnective>intéresse <DiscourseConnective annotation_id="6918">à</DiscourseConnective> la politique <DiscourseConnective annotation_id="6933">et</DiscourseConnective> à l'économie, <Alignment alignment="5948" annotation_id="6950">
+          <DiscourseConnective annotation_id="6950" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="5952" annotation_id="6955">
+          <DiscourseConnective annotation_id="6955" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="6965">s'</DiscourseConnective>agit de donner une dimension humaine à la politique <DiscourseConnective annotation_id="7019">et</DiscourseConnective> à l'économie, <Alignment alignment="6018" annotation_id="7036">
+          <Alignment alignment="6018" annotation_id="7036">
+            <DiscourseConnective annotation_id="7036" sense="Contingency.Cause.Result">de sorte qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>il ne soit pas davantage fait de mal aux personnes humbles et ordinaires, nous nous avérons inutiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6103" docOffset="33">
+      <en>Commissioner Reding said a moment ago <DiscourseConnective annotation_id="6141" sense="Comparison.Contrast">while</DiscourseConnective> we were discussing Burma that there is a danger that we will becomes helpless again and fail to react against these injustices.</en>
+      <fr>La commissaire Reding a déclaré il y a un instant lors du débat sur la Birmanie <DiscourseConnective annotation_id="7230">que</DiscourseConnective> nous risquions de redevenir inutiles <DiscourseConnective annotation_id="7271">et</DiscourseConnective> de ne pas agir face à ces injustices.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6275" docOffset="34">
+      <en>We need to understand, <Alignment alignment="7324" annotation_id="6298">
+          <DiscourseConnective annotation_id="6298" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that certain steps have to be taken <Alignment alignment="7387" annotation_id="6343">
+          <DiscourseConnective annotation_id="6343" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that there is an imbalance between the scale of our political activities, our economic activities and the extent of compliance with standard fundamental rights.</en>
+      <fr>Nous devons <Alignment alignment="6298" annotation_id="7324">
+          <DiscourseConnective annotation_id="7324" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> comprendre <DiscourseConnective annotation_id="7345">que</DiscourseConnective> certaines mesures doivent être prises <Alignment alignment="6343" annotation_id="7387">
+          <DiscourseConnective annotation_id="7387" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7390">qu'</DiscourseConnective>il y a un déséquilibre entre l'ampleur de nos activités politiques, nos activités économiques, <DiscourseConnective annotation_id="7488">et</DiscourseConnective> l'ampleur du respect des droits fondamentaux standard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6508" docOffset="35">
+      <en>I should <Alignment alignment="7558" annotation_id="6517">
+          <DiscourseConnective annotation_id="6517" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to draw attention to another issue.</en>
+      <fr>Je voudrais <Alignment alignment="6517" annotation_id="7558">
+          <DiscourseConnective annotation_id="7558" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> attirer l'attention sur un autre point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6563" docOffset="36">
+      <en>In the declaration reference is made to the emergence of persecution for religious reasons amongst others.</en>
+      <fr>La déclaration fait référence <DiscourseConnective annotation_id="7638">à</DiscourseConnective> l'émergence de la persécution <DiscourseConnective annotation_id="7670">pour</DiscourseConnective> motifs religieux <DiscourseConnective annotation_id="7692">notamment</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6670" docOffset="37">
+      <en>I should like to point out that religious persecution is generally, <Alignment alignment="7772" annotation_id="6738">
+          <DiscourseConnective annotation_id="6738" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> not always, directed against Christians, notably Catholics.</en>
+      <fr>J'aimerais souligner <DiscourseConnective annotation_id="7724">que</DiscourseConnective> la persécution religieuse est généralement, <Alignment alignment="6738" annotation_id="7772">
+          <DiscourseConnective annotation_id="7772" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> pas systématiquement, dirigée contre les chrétiens, <DiscourseConnective annotation_id="7829">notamment</DiscourseConnective> les catholiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6805" docOffset="38">
+      <en>At a global level, Catholics are currently the group most frequently persecuted and killed for their faith.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7856">À</DiscourseConnective> l'échelle mondiale, les catholiques représentent actuellement le groupe le plus persécuté <DiscourseConnective annotation_id="7948">et</DiscourseConnective> mis à mort en raison de sa foi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6913" docOffset="39">
+      <en>We should stick to the facts <Alignment alignment="8019" annotation_id="6942">
+          <DiscourseConnective annotation_id="6942" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="8022" annotation_id="6946">
+          <DiscourseConnective annotation_id="6946" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we refer to persecution we should remember who is persecuting whom.</en>
+      <fr>Nous devons nous en tenir aux faits <Alignment alignment="6942" annotation_id="8019">
+          <DiscourseConnective annotation_id="8019" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="6946" annotation_id="8022">
+          <DiscourseConnective annotation_id="8022" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous faisons référence <DiscourseConnective annotation_id="8053">à</DiscourseConnective> la persécution, rappeler qui persécute qui.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7019" id="138" name="Carl Schlyter ">
+    <ParallelChunk annotation_id="7019" docOffset="40">
+      <en>author. - (SV) Mr President, I think that Bangladesh has been a country of great hope.</en>
+      <fr>auteur. - (SV) Monsieur le Président, je pense <DiscourseConnective annotation_id="8146">que</DiscourseConnective> le Bangladesh est un pays de grand espoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7106" docOffset="41">
+      <en>It has religious freedom, women in rural areas have access to microcredit <Alignment alignment="7538" annotation_id="7180">
+          <DiscourseConnective annotation_id="7180" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we could see a local economy beginning to develop.</en>
+      <fr>Il jouit d'une liberté de culte, les femmes des zones rurales ont accès au micro-crédit <Alignment alignment="7180" annotation_id="8281">
+          <DiscourseConnective annotation_id="8281" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> une économie locale pourrait y naître.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7235" docOffset="42">
+      <en>These positive trends have been quickly reversed, <Alignment alignment="30957" annotation_id="7285">
+          <DiscourseConnective annotation_id="7285" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, in a country where terror is spreading.</en>
+      <fr>Ces tendances positives ont <Alignment alignment="7285" annotation_id="8351">
+          <DiscourseConnective annotation_id="8351" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> été rapidement inversées, dans un pays où se répand la terreur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7334" docOffset="43">
+      <en>In order to tackle corruption, according to the government, journalists, lawyers, political actors and student activists are being imprisoned.</en>
+      <fr>Pour enrayer la corruption, le gouvernement fait emprisonner journalistes, avocats, acteurs politiques <DiscourseConnective annotation_id="8528">et</DiscourseConnective> militants étudiants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7477" docOffset="44">
+      <en>
+        <Alignment alignment="15863" annotation_id="7477">
+          <DiscourseConnective annotation_id="7477" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> I may say, putting everyone in prison is a bad way to tackle corruption, to say the least.</en>
+      <fr>
+        <Alignment alignment="7477" annotation_id="8552">
+          <DiscourseConnective annotation_id="8552" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> je puis me permettre, emprisonner tout le monde est une mauvaise manière de lutter contre la corruption, c'est le moins qu'on puisse dire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7571" docOffset="45">
+      <en>We promise that we will help Bangladesh on the path to democracy <Alignment alignment="8761" annotation_id="7636">
+          <DiscourseConnective annotation_id="7636" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there must be a will on the part of the government.</en>
+      <fr>Nous promettons d'aider le Bangladesh sur la voie de la démocratie <Alignment alignment="7636" annotation_id="8761">
+          <DiscourseConnective annotation_id="8761" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le gouvernement doit témoigner de sa volonté lui aussi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7692" docOffset="46">
+      <en>
+        <Alignment alignment="8820" annotation_id="7692">
+          <DiscourseConnective annotation_id="7692" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> I finish, I want to raise something that is in the resolution, <Alignment alignment="8886" annotation_id="7762">
+          <DiscourseConnective annotation_id="7762" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> which perhaps not many will talk about <Alignment alignment="8928" annotation_id="7805">
+          <DiscourseConnective annotation_id="7805" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which I think is important, <DiscourseConnective annotation_id="7837" sense="Temporal.Synchrony">as</DiscourseConnective> I have spent a lot of time with people in slums.</en>
+      <fr>
+        <Alignment alignment="7692" annotation_id="8820">
+          <DiscourseConnective annotation_id="8820" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> conclure, j'aimerais soulever un point de la résolution, <Alignment alignment="7762" annotation_id="8886">
+          <DiscourseConnective annotation_id="8886" sense="Comparison.Contrast">que</DiscourseConnective>
+        </Alignment> peu d'entre nous aborderons peut-être <Alignment alignment="7805" annotation_id="8928">
+          <DiscourseConnective annotation_id="8928" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui me semble important, étant donné tout <DiscourseConnective annotation_id="8973">le temps que</DiscourseConnective> j'ai passé avec la population dans les taudis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7889" docOffset="47">
+      <en>There were people in the old regime, in the ruling class, who took land, <Alignment alignment="9122" annotation_id="7962">
+          <DiscourseConnective annotation_id="7962" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="9127" annotation_id="7966">
+          <DiscourseConnective annotation_id="7966" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the government attempted to take back that land, millions of poor people, poor peasants and people in slums were evicted from their homes, from the last small shred of hope of survival which they had through a small piece of land.</en>
+      <fr>Certaines personnes de l'ancien régime, parmi la classe dirigeante, ont pris des terres, <Alignment alignment="7962" annotation_id="9122">
+          <DiscourseConnective annotation_id="9122" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="7966" annotation_id="9127">
+          <DiscourseConnective annotation_id="9127" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> le gouvernement a tenté de les reprendre, des millions de pauvres, paysans <DiscourseConnective annotation_id="9210">et</DiscourseConnective> habitants des taudis, ont été expulsés de chez eux, privés du lambeau d'espoir de survie <DiscourseConnective annotation_id="9302">que</DiscourseConnective> leur procurait cette petite parcelle de terre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8202" docOffset="48">
+      <en>We must <Alignment alignment="12334" annotation_id="8210">
+          <DiscourseConnective annotation_id="8210" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> think of these people <Alignment alignment="9353" annotation_id="8237">
+          <DiscourseConnective annotation_id="8237" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we are fighting for democracy in Bangladesh, <Alignment alignment="12479" annotation_id="8287">
+          <DiscourseConnective annotation_id="8287" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> they have the least voice of all.</en>
+      <fr>
+        <Alignment alignment="8237" annotation_id="9353">
+          <DiscourseConnective annotation_id="9353" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> nous luttons <DiscourseConnective annotation_id="9374">pour</DiscourseConnective> la démocratie au Bangladesh, nous devons <Alignment alignment="8210" annotation_id="9420">
+          <DiscourseConnective annotation_id="9420" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> penser <DiscourseConnective annotation_id="9437">à</DiscourseConnective> ces personnes, <Alignment alignment="8287" annotation_id="9454">
+          <DiscourseConnective annotation_id="9454" sense="Temporal.Synchrony">puisqu'</DiscourseConnective>
+        </Alignment>elles sont les moins entendues de tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8324" docOffset="49">
+      <en>They have the least power of all.</en>
+      <fr>Elles ont le moins de pouvoir de tous.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8358" id="139" name="Bogusław Sonik">
+    <ParallelChunk annotation_id="8358" docOffset="50">
+      <en>on behalf of the PPE-DE Group. - (PL) Mr President, the situation in Bangladesh is certainly worrying.</en>
+      <fr>au nom du PPE-DE. - (PL) Monsieur le Président, la situation au Bangladesh est indubitablement inquiétante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8461" docOffset="51">
+      <en>Action has been taken, <Alignment alignment="19764" annotation_id="8484">
+          <DiscourseConnective annotation_id="8484" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, with a view to holding elections at the appointed time.</en>
+      <fr>Une action a <Alignment alignment="8484" annotation_id="9661">
+          <DiscourseConnective annotation_id="9661" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> été entreprise <DiscourseConnective annotation_id="9686">en vue de</DiscourseConnective> la tenue d'élections au moment désigné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8549" docOffset="52">
+      <en>There is concern, <Alignment alignment="13124" annotation_id="8567">
+          <DiscourseConnective annotation_id="8567" sense="Comparison.Contrast">nevertheless</DiscourseConnective>
+        </Alignment>, that the Election Commission's work programme presented in July 2007 will not be completed on time.</en>
+      <fr>On craint <Alignment alignment="8567" annotation_id="9746">
+          <DiscourseConnective annotation_id="9746" sense="Comparison.Contrast">cependant que</DiscourseConnective>
+        </Alignment> le programme de travail de la commission électorale présenté <DiscourseConnective annotation_id="9821">en</DiscourseConnective> juillet 2007 ne <DiscourseConnective annotation_id="9840">soit</DiscourseConnective> pas achevé <DiscourseConnective annotation_id="9856">à</DiscourseConnective> temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8681" docOffset="53">
+      <en>We should recall that the European Union's observation mission came to an end on 22 January, <Alignment alignment="16579" annotation_id="8774">
+          <DiscourseConnective annotation_id="8774" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the United Nations <DiscourseConnective annotation_id="8798" sense="Expansion.Conjunction">also</DiscourseConnective> withdrew its support.</en>
+      <fr>Nous devrions rappeler <DiscourseConnective annotation_id="9888">que</DiscourseConnective> la mission d'observation de l'Union européenne a pris fin le 22 janvier, <Alignment alignment="8774" annotation_id="9965">
+          <DiscourseConnective annotation_id="9965" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> les Nations unies ont à leur tour retiré leur aide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8825" docOffset="54">
+      <en>We cannot abandon Bangladesh at this stage.</en>
+      <fr>Nous ne pouvons abandonner le Bangladesh <DiscourseConnective annotation_id="10066">à</DiscourseConnective> ce stade.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8869" docOffset="55">
+      <en>We must send observers with a broad remit.</en>
+      <fr>Nous devons envoyer des observateurs et les doter de larges compétences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8912" docOffset="56">
+      <en>The observers should <Alignment alignment="10176" annotation_id="8933">
+          <DiscourseConnective annotation_id="8933" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> monitor criminal proceedings under way and arrests of ordinary citizens.</en>
+      <fr>Les observateurs doivent <Alignment alignment="8933" annotation_id="10176">
+          <DiscourseConnective annotation_id="10176" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> superviser les procédures pénales <DiscourseConnective annotation_id="10220">en</DiscourseConnective> cours <DiscourseConnective annotation_id="10229">et</DiscourseConnective> les arrestations de citoyens ordinaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9011" docOffset="57">
+      <en>It is particularly important to exert pressure on the authorities to secure the freedom of the students arrested during the protests of 28 August 2007.</en>
+      <fr>Il importe tout spécialement de faire pression sur les autorités <DiscourseConnective annotation_id="10338">afin de</DiscourseConnective> garantir la sécurité des étudiants arrêtés lors des manifestations du 28 août 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9163" docOffset="58">
+      <en>We should react swiftly, providing wide-ranging aid; <Alignment alignment="18710" annotation_id="9216">
+          <DiscourseConnective annotation_id="9216" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we fail to do so, we cannot expect the elections to take place at the appointed time.</en>
+      <fr>Nous devons réagir avec diligence et offrir une aide très vaste; <Alignment alignment="9216" annotation_id="10495">
+          <DiscourseConnective annotation_id="10495" sense="Contingency.Condition">sans</DiscourseConnective>
+        </Alignment> cela, nous ne pouvons espérer la tenue des élections <DiscourseConnective annotation_id="10553">à</DiscourseConnective> la date prévue.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9305" id="140" name="Lidia Joanna Geringer de Oedenberg">
+    <ParallelChunk annotation_id="9305" docOffset="59">
+      <en>on behalf of the PSE Group. - (PL) Mr President, almost a year has gone by since the last European Parliament resolution on Bangladesh.</en>
+      <fr>au nom du PSE. - (PL) Monsieur le Président, près d'un an s'est écoulé <DiscourseConnective annotation_id="10642">depuis</DiscourseConnective> la dernière résolution du Parlement européen sur le Bangladesh.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9441" docOffset="60">
+      <en>Despite our high hopes the situation in the country has deteriorated.</en>
+      <fr>Malgré nos grandes espérances, la situation du pays s'est détériorée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9511" docOffset="61">
+      <en>The elections planned for January of this year did not take place and were postponed until the end of 2008.</en>
+      <fr>Les élections prévues <DiscourseConnective annotation_id="10805">pour</DiscourseConnective> janvier de cette année n'ont pas eu lieu <DiscourseConnective annotation_id="10851">et</DiscourseConnective> ont été reportées à la fin 2008.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9619" docOffset="62">
+      <en>With the support of the army, the interim government declared a state of emergency.</en>
+      <fr>Avec l'appui de l'armée, le gouvernement intérimaire a déclaré l'état d'urgence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9703" docOffset="63">
+      <en>The current leadership is openly restricting all political activity and the freedom of the press and other media.</en>
+      <fr>Les dirigeants actuels restreignent ouvertement toute activité politique <DiscourseConnective annotation_id="11041">et</DiscourseConnective> la liberté de la presse <DiscourseConnective annotation_id="11068">et</DiscourseConnective> d'autres médias.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9817" docOffset="64">
+      <en>The individuals arrested include two former prime ministers, 160 leading politicians and over 100 000 civilians.</en>
+      <fr>Parmi les personnes arrêtées figurent deux anciens premiers ministres, 160 personnalités politiques de premier plan <DiscourseConnective annotation_id="11204">et</DiscourseConnective> plus de 100 000 civils.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9930" docOffset="65">
+      <en>The brutal suppression of the student protests against the army at Dhaka University in August of this year gave rise to serious concern at international level.</en>
+      <fr>La répression brutale des manifestations étudiantes contre l'armée <DiscourseConnective annotation_id="11298">à</DiscourseConnective> l'université de Dhaka <DiscourseConnective annotation_id="11322">en</DiscourseConnective> août dernier a suscité de vives préoccupations <DiscourseConnective annotation_id="11372">à</DiscourseConnective> l'échelle internationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10090" docOffset="66">
+      <en>In view of the aforementioned events, the Council and the European Commission should monitor the situation carefully.</en>
+      <fr>Au vu des événements susmentionnés, le Conseil <DiscourseConnective annotation_id="11447">et</DiscourseConnective> la Commission européenne doivent suivre de près la situation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10208" docOffset="67">
+      <en>They should press first and foremost for independent institutions and political parties in Bangladesh to be allowed to resume their activities.</en>
+      <fr>Ils doivent avant tout faire pression <DiscourseConnective annotation_id="11550">afin que</DiscourseConnective> les institutions indépendantes <DiscourseConnective annotation_id="11590">et</DiscourseConnective> les partis politiques du Bangladesh puissent reprendre leurs activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10352" docOffset="68">
+      <en>It is essential to send another observation mission and provide technical assistance, which could make a positive contribution to preparations for free democratic elections.</en>
+      <fr>Il est crucial d'envoyer une nouvelle mission d'observation <DiscourseConnective annotation_id="11725">et</DiscourseConnective> d'apporter une assistance technique, qui pourrait apporter une contribution positive aux préparatifs des élections démocratiques libres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10526" docOffset="69">
+      <en>Only <Alignment alignment="11931" annotation_id="10531">
+          <DiscourseConnective annotation_id="10531" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> all the interested parties work together will it be possible to stabilise the situation in Bangladesh effectively.</en>
+      <fr>La situation au Bangladesh ne pourra être stabilisée efficacement <Alignment alignment="6889" annotation_id="11931">
+          <DiscourseConnective annotation_id="11931" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> toutes les parties intéressées travaillent de concert.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10649" id="141" language="NL" name="Koenraad Dillen">
+    <ParallelChunk annotation_id="10649" docOffset="70">
+      <en>Mr President, it is obviously a good thing that the human rights situation in Bangladesh is being exposed here in the northern hemisphere.</en>
+      <fr>au nom du groupe ITS. - (NL) Monsieur le Président, l'exposition dans l'hémisphère nord de la situation des droits de l'homme au Bangladesh est naturellement une bonne chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10788" docOffset="71">
+      <en>After all, we have seen the present regime attempting to silence the legitimate political protest of students and journalists through arbitrary arrests and detentions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12168">Après tout</DiscourseConnective>, nous avons pu voir le régime en place tenter de réduire au silence la manifestation politique légitime des étudiants <DiscourseConnective annotation_id="12297">et</DiscourseConnective> journalistes à coup d'arrestations <DiscourseConnective annotation_id="12335">et</DiscourseConnective> de détentions arbitraires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10956" docOffset="72">
+      <en>
+        <Alignment alignment="14698" annotation_id="10956">
+          <DiscourseConnective annotation_id="10956" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> the new government took over in January 2007 more than 250 000 people have already been locked up.</en>
+      <fr>
+        <Alignment alignment="10956" annotation_id="12365">
+          <DiscourseConnective annotation_id="12365" sense="Contingency.Cause.Reason">Depuis</DiscourseConnective>
+        </Alignment> l'accession au pouvoir du nouveau gouvernement <DiscourseConnective annotation_id="12419">en</DiscourseConnective> janvier 2007, plus de 250 000 personnes ont <DiscourseConnective annotation_id="12466">déjà</DiscourseConnective> été incarcérées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11061" docOffset="73">
+      <en>Since the declaration of the state of emergency, the army has been responsible for countless cases of torture and murder.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12488">Depuis</DiscourseConnective> la déclaration de l'état d'urgence, l'armée s'est rendue responsable d'un nombre incalculable d'actes de torture <DiscourseConnective annotation_id="12608">et</DiscourseConnective> de meurtres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11183" docOffset="74">
+      <en>
+        <Alignment alignment="12635" annotation_id="11183">
+          <DiscourseConnective annotation_id="11183" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would really like to expose another issue, an issue that is endemic in that state <DiscourseConnective annotation_id="11276" sense="Expansion.Conjunction">and</DiscourseConnective> that carries on regardless of changes of government.</en>
+      <fr>J'aimerais <Alignment alignment="15662" annotation_id="12635">
+          <DiscourseConnective annotation_id="12635" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> mettre en avant un autre problème, un problème endémique dans cet État, qui perdure au fil des changements de gouvernement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11333" docOffset="75">
+      <en>It is something that is often neglected by all kinds of human rights organisations, <Alignment alignment="30934" annotation_id="11417">
+          <DiscourseConnective annotation_id="11417" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> evidently it is something that simply cannot be spoken about.</en>
+      <fr>Il <DiscourseConnective annotation_id="12772">s'</DiscourseConnective>agit d'un phénomène souvent négligé par toutes sortes d'organisations de défense des droits de l'homme, <Alignment alignment="1907" annotation_id="12878">
+          <DiscourseConnective annotation_id="12878" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il est évident qu'il <DiscourseConnective annotation_id="12903">s'</DiscourseConnective>agit d'un sujet tabou.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11487" docOffset="76">
+      <en>I am talking about the wholesale and systematic gang rape that takes place in Bangladesh.</en>
+      <fr>Je parle des viols collectifs de masse <DiscourseConnective annotation_id="12967">et</DiscourseConnective> systématiques qui font rage au Bangladesh.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11577" docOffset="77">
+      <en>The violence against women and young girls is one of the most heinous violations of human rights in that Islamic state.</en>
+      <fr>La violence envers les femmes <DiscourseConnective annotation_id="13043">et</DiscourseConnective> les jeunes filles est l'une des plus abominables violations des droits de l'homme dans cet État islamique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11697" docOffset="78">
+      <en>This kind of violence encompasses sexual and domestic violence, gang rape, throwing acid over women and honour killings.</en>
+      <fr>Ce type de violence englobe la violence sexuelle <DiscourseConnective annotation_id="13202">et</DiscourseConnective> domestique, les viols collectifs, le jet d'acide sur les femmes <DiscourseConnective annotation_id="13269">et</DiscourseConnective> les crimes d'honneur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11818" docOffset="79">
+      <en>Whether <Alignment alignment="13318" annotation_id="11826">
+          <DiscourseConnective annotation_id="11826" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not people want to hear about it, it is undeniable that by means of these atrocities extremist Muslims want to cleanse Bangladesh of its religious minorities in order to transform the country into a monolithic, Islamic state.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13294">Que</DiscourseConnective> les gens souhaitent <Alignment alignment="11826" annotation_id="13318">
+          <DiscourseConnective annotation_id="13318" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non en entendre parler, il ne fait aucun doute <DiscourseConnective annotation_id="13368">que</DiscourseConnective> par ces atrocités, les musulmans extrémistes entendent purger le Bangladesh de ses minorités religieuses et ainsi transformer le pays <DiscourseConnective annotation_id="13506">en</DiscourseConnective> un État islamique monolithique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12055" docOffset="80">
+      <en>Every government of Bangladesh has failed to act <Alignment alignment="13596" annotation_id="12104">
+          <DiscourseConnective annotation_id="12104" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this is a downright disgrace.</en>
+      <fr>Aucun gouvernement du Bangladesh n'est parvenu <DiscourseConnective annotation_id="13588">à</DiscourseConnective> agir, <Alignment alignment="12104" annotation_id="13596">
+          <DiscourseConnective annotation_id="13596" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est une véritable honte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12138" docOffset="81">
+      <en>Bangladesh ratified the UN Convention on the Elimination of All Forms of Discrimination against Women in 1984.</en>
+      <fr>Le Bangladesh a ratifié la Convention des Nations unies sur l'élimination de toutes les formes de violence envers les femmes <DiscourseConnective annotation_id="13751">en</DiscourseConnective> 1984.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12249" docOffset="82">
+      <en>It is high time that Parliament sent out a very clear signal to the Bangladeshi Government to inform it of its responsibilities.</en>
+      <fr>Il est grand temps <DiscourseConnective annotation_id="13779">que</DiscourseConnective> ce Parlement envoie un signal très clair au gouvernement du Bangladesh afin de l'informer de ses responsabilités.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12378" id="142" name="Marianne Mikko">
+    <ParallelChunk annotation_id="12378" docOffset="83">
+      <en>(ET) Ladies and gentlemen, neither the European Union nor the UN suspends its election observation missions lightly; unfortunately we had to do so in Bangladesh.</en>
+      <fr>(<DiscourseConnective annotation_id="13898">ET</DiscourseConnective>) Mesdames <DiscourseConnective annotation_id="13911">et</DiscourseConnective> Messieurs, ni l'Union européenne ni les Nations unies ne suppriment à la légère leurs missions d'observation des élections; nous avons hélas dû le faire au Bangladesh.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12540" docOffset="84">
+      <en>In January the activity of democracy was suspended with the support of the military in a country whose two main parties, in the only example of its kind in the world, are led by women.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14082">En</DiscourseConnective> janvier, la démocratie a été suspendue avec l'aide des militaires dans un pays dont les deux principaux partis sont dirigés par des femmes, un cas unique au monde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12725" docOffset="85">
+      <en>I admit that combating coercion and corruption is important for an effective economy and politics, <Alignment alignment="14379" annotation_id="12824">
+          <DiscourseConnective annotation_id="12824" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> dirty methods such as suppressing demonstrations, gagging the press and undermining fair judicial proceedings may not be employed to that end.</en>
+      <fr>Je reconnais l'importance de la lutte contre la coercition <DiscourseConnective annotation_id="14308">et</DiscourseConnective> la corruption <DiscourseConnective annotation_id="14325">pour</DiscourseConnective> obtenir une économie <DiscourseConnective annotation_id="14351">et</DiscourseConnective> une politique efficaces, <Alignment alignment="12824" annotation_id="14379">
+          <DiscourseConnective annotation_id="14379" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> les méthodes douteuses telles <DiscourseConnective annotation_id="14418">que</DiscourseConnective> la répression des manifestations, l'étranglement de la presse <DiscourseConnective annotation_id="14484">et</DiscourseConnective> l'entravement des procédures judiciaires équitables ne puissent pas être utilisées <DiscourseConnective annotation_id="14570">à</DiscourseConnective> cette fin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12976" docOffset="86">
+      <en>For nearly twenty-five years Bangladesh has been moving towards the European model.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14583">Depuis</DiscourseConnective> près de vingt-cinq ans, le Bangladesh se rapproche du modèle européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13060" docOffset="87">
+      <en>Secularism, hand in hand with religious tolerance, human rights and freedom of speech are values which our Parliament supports with all possible means.</en>
+      <fr>Le sécularisme, de même que la tolérance religieuse, les droits de l'homme <DiscourseConnective annotation_id="14736">et</DiscourseConnective> la liberté d'expression sont des valeurs <DiscourseConnective annotation_id="14780">que</DiscourseConnective> notre Parlement défend par tous les moyens possibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13212" docOffset="88">
+      <en>We should <Alignment alignment="14850" annotation_id="13222">
+          <DiscourseConnective annotation_id="13222" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> do all we can to put Bangladesh back on the road of democracy.</en>
+      <fr>Nous devons <Alignment alignment="13222" annotation_id="14850">
+          <DiscourseConnective annotation_id="14850" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> faire tout notre possible <DiscourseConnective annotation_id="14885">pour</DiscourseConnective> remettre le Bangladesh sur la voie de la démocratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13295" docOffset="89">
+      <en>The technical assistance to organise elections and the bipartite working groups are the least the European Union can do.</en>
+      <fr>L'assistance technique <DiscourseConnective annotation_id="14966">pour</DiscourseConnective> l'organisation des élections <DiscourseConnective annotation_id="15000">et</DiscourseConnective> les groupes de travail bipartites sont la moindre des choses que l'Union européenne puisse faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13416" docOffset="90">
+      <en>We demand an immediate end to the state of emergency and to military intervention.</en>
+      <fr>Nous demandons qu'il soit immédiatement mis un terme <DiscourseConnective annotation_id="15154">à</DiscourseConnective> l'état d'urgence <DiscourseConnective annotation_id="15173">et</DiscourseConnective> <DiscourseConnective annotation_id="15176">à</DiscourseConnective> l'intervention militaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13499" id="143" name="Viviane Reding">
+    <ParallelChunk annotation_id="13499" docOffset="91">
+      <en>Member of the Commission. - Mr President, the European Commission shares the concern at the human rights situation in Bangladesh articulated in the draft parliamentary resolutions.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, la Commission européenne partage son inquiétude <DiscourseConnective annotation_id="15307">quant à</DiscourseConnective> la situation des droits de l'homme au Bengladesh telle qu'articulée dans les projets de résolutions parlementaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13680" docOffset="92">
+      <en>The European Union, by the way, has a commendable history of constructive engagement on human rights and democracy with Bangladesh, <DiscourseConnective annotation_id="13812" sense="Expansion.Conjunction">and</DiscourseConnective> the decision to send an EU election observation mission to scrutinise the abortive 2007 elections and to suspend the mission in the face of the Awami League boycott and compelling evidence of efforts to rig the polls, is an example of that engagement.</en>
+      <fr>L'Union européenne, rappelons-le, fait preuve, admirablement, d'un passé constructif s'agissant de son implication dans les questions relatives aux droits de l'homme <DiscourseConnective annotation_id="15597">et</DiscourseConnective> la démocratie vis-à-vis du Bengladesh; la décision d'envoyer une mission d'observation électorale afin de soutenir les élections infructueuses de 2007 <DiscourseConnective annotation_id="15751">et</DiscourseConnective> de suspendre la mission au vu du boycott de la Ligue Awami <DiscourseConnective annotation_id="15813">et</DiscourseConnective> des preuves indéniables d'élections truquées, est un exemple de son engagement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14068" docOffset="93">
+      <en>In the wake of the formation of the military-backed caretaker Government and the declaration of a state of emergency in January 2007, the EU has sought to balance strong support for a return to democracy in 2008 with the rigorous monitoring of the human rights situation.</en>
+      <fr>Suite à la mise en place d'un gouvernement intérimaire soutenu par les militaires, <DiscourseConnective annotation_id="15979">et</DiscourseConnective> à la déclaration d'un état d'urgence <DiscourseConnective annotation_id="16019">en</DiscourseConnective> janvier 2007, l'UE a cherché <DiscourseConnective annotation_id="16051">à</DiscourseConnective> mettre en place un soutien fort pour assurer le retour de la démocratie <DiscourseConnective annotation_id="16125">en</DiscourseConnective> 2008 s'appuyant sur une surveillance vigoureuse de la situation des droits de l'homme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14340" docOffset="94">
+      <en>This is reflected in the European Commission's intention to extend substantial support, alongside eight other international development partners, to the development of a voter list with photos.</en>
+      <fr>L'élargissement du soutien substantiel en partenariat avec huit autres acteurs internationaux se reflète <DiscourseConnective annotation_id="16320">dans l'intention de</DiscourseConnective> la Commission européenne ainsi que la mise en place d'une liste électorale avec des photos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14534" docOffset="95">
+      <en>Parliament will recall that profound misgivings over the list prepared for the 2007 elections were a key factor in the postponement of the polls.</en>
+      <fr>Le Parlement gardera en mémoire les craintes profondes relatives à la liste des élections de 2007 comme étant un élément clé dans le report des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14680" docOffset="96">
+      <en>The EC delegation in Dhaka is closely following the voters' list pilot project and has provided highly positive feedback on the process.</en>
+      <fr>La délégation de la Communauté européenne <DiscourseConnective annotation_id="16625">à</DiscourseConnective> Dhaka suit de près le projet pilote en matière de liste électorale <DiscourseConnective annotation_id="16694">et</DiscourseConnective> a communiqué un feedback très positif sur le processus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14817" docOffset="97">
+      <en>The EU has, <Alignment alignment="22891" annotation_id="14829">
+          <DiscourseConnective annotation_id="14829" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, consistently made clear that progress on technical preparations for the elections must be matched by progress on political reforms, <Alignment alignment="16926" annotation_id="14970">
+          <DiscourseConnective annotation_id="14970" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="16930" annotation_id="14974">
+          <DiscourseConnective annotation_id="14974" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the EU troika underlined during its visit to Dhaka in June, the political parties must be implicated in the reform process as soon as possible.</en>
+      <fr>L'UE a <Alignment alignment="14829" annotation_id="16760">
+          <DiscourseConnective annotation_id="16760" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> indiqué clairement <DiscourseConnective annotation_id="16789">que</DiscourseConnective> les progrès sur l'aspect technique des préparations des élections doivent être assortis de progrès en matière de réformes politiques <Alignment alignment="14970" annotation_id="16926">
+          <DiscourseConnective annotation_id="16926" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="17283" annotation_id="16930">
+          <DiscourseConnective annotation_id="16930" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a souligné la troïka de l'UE au cours de sa visite <DiscourseConnective annotation_id="16989">à</DiscourseConnective> Dhaka <DiscourseConnective annotation_id="16997">en</DiscourseConnective> juin, les partis politiques doivent <DiscourseConnective annotation_id="17036">s'</DiscourseConnective>impliquer dans le processus de réforme <DiscourseConnective annotation_id="17077">dès que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15121" docOffset="98">
+      <en>In an encouraging move, the Bangladesh Election Commission has now announced a schedule for consultations with the 15 principal parties in the country.</en>
+      <fr>Dans un élan prometteur, la Commission électorale du Bengladesh a <DiscourseConnective annotation_id="17161">maintenant</DiscourseConnective> annoncé un programme de consultations avec les 15 principaux partis du pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15273" docOffset="99">
+      <en>The EU has made strong representations to the Government of Bangladesh, and to the military, on the need to ensure respect for the human rights and due process, most recently during a local EU troika démarche to the Foreign Affairs advisors on 8 August.</en>
+      <fr>L'UE a indiqué clairement au gouvernement du Bengladesh <DiscourseConnective annotation_id="17305">et</DiscourseConnective> aux autorités militaires pas <DiscourseConnective annotation_id="17337">plus tard</DiscourseConnective> qu'au cours d'une démarche locale de la troïka de l'UE, auprès des conseillers des affaires étrangères le 8 août, qu'il s'agissait de s'assurer du respect des droits de l'homme <DiscourseConnective annotation_id="17524">et</DiscourseConnective> d'une procédure équitable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15527" docOffset="100">
+      <en>That démarche <Alignment alignment="17575" annotation_id="15541">
+          <DiscourseConnective annotation_id="15541" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> provided the opportunity to raise seven individual cases of human rights violations.</en>
+      <fr>Cette démarche était <Alignment alignment="6380" annotation_id="17575">
+          <DiscourseConnective annotation_id="17575" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+        </Alignment> l'occasion de soulever sept affaires individuelles d'abus infligés aux droits de l'homme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15631" docOffset="101">
+      <en>The Government has provided detailed responses to some of those cases.</en>
+      <fr>Le gouvernement a fourni des réponses détaillées sur ces affaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15702" docOffset="102">
+      <en>EU heads of mission will continue to pursue human rights concerns with the authorities, with a view to ensuring that those who have committed abuses are appropriately punished <Alignment alignment="16232" annotation_id="15878">
+          <DiscourseConnective annotation_id="15878" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the others released.</en>
+      <fr>Les chefs de la délégation de l'UE poursuivront leurs efforts en matière de droits de l'homme <DiscourseConnective annotation_id="17839">dans le but de</DiscourseConnective> s'assurer <DiscourseConnective annotation_id="17864">que</DiscourseConnective> ceux qui sont à l'origine de ces abus soient correctement punis <Alignment alignment="15878" annotation_id="17932">
+          <DiscourseConnective annotation_id="17932" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les autres libérés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15903" docOffset="103">
+      <en>As to the specific case of United Nations Special Rapporteur, Sigma Huda, the head of the EC delegation in Dhaka has conveyed concerns regarding her medical condition and treatment to the Ministry of Foreign Affairs.</en>
+      <fr>S'agissant du cas particulier du rapporteur spécial des Nations unies, Sigma Huda, le chef de la délégation de la CE <DiscourseConnective annotation_id="18072">à</DiscourseConnective> Dakha a fait part de ses inquiétudes au ministre des affaires étrangères concernant l'état de santé de cette dernière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16120" docOffset="104">
+      <en>I understand that Mrs Suda is appealing the decision of the trial court, <Alignment alignment="18263" annotation_id="16193">
+          <DiscourseConnective annotation_id="16193" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the EC will follow the case very closely.</en>
+      <fr>Je crois savoir <DiscourseConnective annotation_id="18209">que</DiscourseConnective> Madame Suda fait appel de la décision du tribunal <Alignment alignment="16193" annotation_id="18263">
+          <DiscourseConnective annotation_id="18263" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la CE suivra cette affaire de très près.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16239" docOffset="105">
+      <en>Support for human rights and good governance <DiscourseConnective annotation_id="16284" sense="Expansion.Conjunction">also</DiscourseConnective> constitutes one of the three priorities for the EC financial assistance to Bangladesh under the country strategy paper for 2007-2013, alongside human and social development and trade and economic development.</en>
+      <fr>Le soutien aux droits de l'homme <DiscourseConnective annotation_id="18340">et</DiscourseConnective> à une bonne gouvernance constitue l'une des trois priorités <DiscourseConnective annotation_id="18403">quant à</DiscourseConnective> l'aide financière apportée au Bengladesh aux termes du document de stratégie par pays portant sur la période 2007-2013, <DiscourseConnective annotation_id="18531">parallèlement</DiscourseConnective> au développement social et humain, au développement économique et d'échanges commerciaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16498" docOffset="106">
+      <en>EUR 55 million have been earmarked for action under that priority for the period 2007 to 2010.</en>
+      <fr>55 millions d'euros ont été alloués <DiscourseConnective annotation_id="18671">en ce sens</DiscourseConnective> aux termes de cette priorité <DiscourseConnective annotation_id="18711">pour</DiscourseConnective> la période 2007-2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16593" docOffset="107">
+      <en>In conclusion, the European Commission remains optimistic that Bangladesh is on track to hold credible parliamentary elections in 2008.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18738">Pour conclure</DiscourseConnective>, la Commission européenne reste optimiste quant au fait <DiscourseConnective annotation_id="18808">que</DiscourseConnective> le Bengladesh est sur le point d'organiser des élections parlementaires crédibles <DiscourseConnective annotation_id="18894">en</DiscourseConnective> 2008.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16729" docOffset="108">
+      <en>We are extending substantial political and financial support to that goal, <DiscourseConnective annotation_id="16804" sense="Comparison.Contrast">while</DiscourseConnective> - and I would like to underline this - remaining very vigilant on human rights and other concerns.</en>
+      <fr>Nous déployons davantage de soutien politique <DiscourseConnective annotation_id="18949">et</DiscourseConnective> financier substantiel <DiscourseConnective annotation_id="18974">à</DiscourseConnective> cette fin tout en restant - <DiscourseConnective annotation_id="19004">et</DiscourseConnective> je souhaiterais le souligner - très vigilants sur les droits de l'homme <DiscourseConnective annotation_id="19079">et</DiscourseConnective> sur d'autres sujets.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16909" id="144" name="President">
+    <ParallelChunk annotation_id="16909" docOffset="109">
+      <en>The debate is closed.</en>
+      <fr>(FR) Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16931" docOffset="110">
+      <en>The vote will take place at the end of this afternoon's debates.</en>
+      <fr>Le vote aura lieu <DiscourseConnective annotation_id="19145">à</DiscourseConnective> l'issue des débats de cet après-midi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

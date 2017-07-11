@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Tribute</en>
+    <fr>Reprise de la session</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="1" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I am afraid I have to start today by announcing the passing away yesterday of our fellow member, Mr Günter Lüttge, who died after a serious illness.</en>
+      <fr>
+        <DiscourseConnective annotation_id="22">Pour commencer</DiscourseConnective>, c' est avec une grande tristesse que je vous annonce le décès, hier, de notre collègue, M. Günter Lüttge, des suites d' une grave maladie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="157" docOffset="2">
+      <en>Mr Lüttge became an MEP in 1989 and was mainly involved in transport policy.</en>
+      <fr>M. Lüttge est devenu député européen <DiscourseConnective annotation_id="214">en</DiscourseConnective> 1989 <DiscourseConnective annotation_id="222">et</DiscourseConnective> a <DiscourseConnective annotation_id="227">surtout</DiscourseConnective> été actif dans le domaine de la politique des transports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="234" docOffset="3">
+      <en>I suggest we observe a minute' s silence in his memory.</en>
+      <fr>Je vous propose, chers collègues, d' observer <DiscourseConnective annotation_id="339">en</DiscourseConnective> sa mémoire une minute de silence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="290" docOffset="4">
+      <en>(The House rose and observed a minute' s silence)</en>
+      <fr>(L' Assemblée, debout, observe une minute de silence)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="340" docOffset="5">
+      <en>Approval of the Minutes of the previous sitting</en>
+      <fr>Approbation du procès-verbal de la séance précédente</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="388" id="2" name="President">
+    <ParallelChunk annotation_id="388" docOffset="6">
+      <en>The Minutes of yesterday' s sitting have been distributed.</en>
+      <fr>Le procès-verbal de la séance d' hier a été distribué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="447" docOffset="7">
+      <en>Are there any comments?</en>
+      <fr>Y a-t-il des observations ?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="471" id="3" name="Adam">
+    <ParallelChunk annotation_id="471" docOffset="8">
+      <en>Mr President, referring to the text adopted yesterday and the issue of human cloning, item 8 in the English version, paragraph 11, reads 'considers that any temporary committee set up by this Parliament ....'.</en>
+      <fr>Monsieur le Président, il est indiqué au point 8, paragraphe 11 du texte adopté hier sur la question du clonage humain : "estime <DiscourseConnective annotation_id="695">que si</DiscourseConnective> une commission temporaire devait être instaurée au sein du Parlement".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="681" docOffset="9">
+      <en>It does not actually say that such a temporary committee should be set up.</en>
+      <fr>Ce passage n'indique pas explicitement <DiscourseConnective annotation_id="812">qu'</DiscourseConnective>une telle commission temporaire doit être créée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="756" docOffset="10">
+      <en>Could we have some guidance as to what the presidency will do about this particular section of the resolution?</en>
+      <fr>Pourrions-nous avoir quelques précisions sur ce que la présidence fera au sujet de cette section particulière de la résolution ?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="867" id="4" name="President">
+    <ParallelChunk annotation_id="867" docOffset="11">
+      <en>I shall submit this to the Conference of Presidents, Mr Adam, <DiscourseConnective annotation_id="929" sense="Expansion.Conjunction">and</DiscourseConnective> you will be notified of the outcome.</en>
+      <fr>Je le soumettrai <DiscourseConnective annotation_id="1010">à</DiscourseConnective> la Conférence des présidents, Monsieur Adam. Vous serez tenu au courant.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="970" id="5" name="Bowis">
+    <ParallelChunk annotation_id="970" docOffset="12">
+      <en>Mr President, my name does not seem to be on yesterday's attendance list <Alignment alignment="1177" annotation_id="1043">
+          <DiscourseConnective annotation_id="1043" sense="Comparison.Concession">although</DiscourseConnective>
+        </Alignment> I did actually sign in.</en>
+      <fr>Monsieur le Président, il semble que mon nom ne figure pas sur la liste de présence d'hier, <Alignment alignment="1043" annotation_id="1177">
+          <DiscourseConnective annotation_id="1177" sense="Comparison.Concession">alors que</DiscourseConnective>
+        </Alignment> je l'ai signée.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1076" id="6" name="President">
+    <ParallelChunk annotation_id="1076" docOffset="13">
+      <en>Mr Bowis, that will be duly corrected and amended.</en>
+      <fr>Monsieur Bowis, cela sera corrigé <DiscourseConnective annotation_id="1237">et</DiscourseConnective> rectifié.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1127" id="7" name="Ford, Glyn">
+    <ParallelChunk annotation_id="1127" docOffset="14">
+      <en>Mr President, following up the point that Mr Adam made, I presume you will report back at the beginning of the mini-session on the result <Alignment alignment="1410" annotation_id="1265">
+          <DiscourseConnective annotation_id="1265" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, of course, <DiscourseConnective annotation_id="1281" sense="Contingency.Condition">if</DiscourseConnective> there is a proposal for the establishment of a temporary committee this House will have to vote on it.</en>
+      <fr>Monsieur le Président, pour poursuivre sur la <DiscourseConnective annotation_id="1296">remarque</DiscourseConnective> de M. Adam, je suppose que vous nous ferez part du <DiscourseConnective annotation_id="1356">résultat</DiscourseConnective> au début de la prochaine période de session, <Alignment alignment="1265" annotation_id="1410">
+          <DiscourseConnective annotation_id="1410" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que, bien entendu, toute proposition d'établissement d'une commission temporaire sera mise au voix.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1387" id="8" name="President">
+    <ParallelChunk annotation_id="1387" docOffset="15">
+      <en>That will be the course of action, Mr Ford.</en>
+      <fr>Il <DiscourseConnective annotation_id="1516">en</DiscourseConnective> sera fait ainsi, Monsieur Ford.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1431" docOffset="16">
+      <en>(The Minutes were approved)</en>
+      <fr>(Le procès-verbal est adopté)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1459" docOffset="17">
+      <en>European Year of Lifelong Learning (1996)</en>
+      <fr>Résultats de l'Année européenne de l'éducation et la formation tout au long de la vie (1996)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1501" id="9" name="President">
+    <ParallelChunk annotation_id="1501" docOffset="18">
+      <en>The next item is the report (A5-0200/2000) by Mr Gutiérrez-Cortines, on behalf of the Committee on Culture, Youth, Education, the Media and Sport, on the Commission report to the Council, the European Parliament, the Economic and Social Committee and the Committee of the Regions on the implementation, results and overall assessment of the European Year of Lifelong Learning (1996), submitted pursuant to Article 8 of European Parliament and Council Decision 2493/95/EC [COM(1999) 447 - C5-0205/1999 - 1999/2163(COS)]</en>
+      <fr>L' ordre du jour appelle le rapport (A5-0200/2000) de Mme Gutiérrez Cortines, au nom de la commission de la culture, de la jeunesse, de l' éducation, des médias et des sports, sur le rapport de la Commission au Conseil, au Parlement européen, au Comité économique et social et au Comité des régions sur la mise en oeuvre, les résultats et l' évaluation globale de l' Année européenne de l' éducation et de la formation tout au long de la vie (1996), présenté conformément à l' article 8 de la décision nº 2493/95/CE du Parlement européen et du Conseil [COM(1999) 447 - C5-0205/1999 - 1999/2163(COS)]</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2020" id="10" language="ES" name="Gutiérrez-Cortines">
+    <ParallelChunk annotation_id="2020" docOffset="19">
+      <en>Mr President, the report on the European Year of Lifelong Learning is seemingly an unimportant document, <DiscourseConnective annotation_id="2125" sense="Expansion.Conjunction">and</DiscourseConnective> yet it has revealed significant gaps and black spots in the European system.</en>
+      <fr>Monsieur le Président, le rapport sur l' Année européenne de l' éducation et de la formation tout au long de la vie est apparemment un document sans importance, <DiscourseConnective annotation_id="2435">mais</DiscourseConnective> il a révélé de profondes lacunes <DiscourseConnective annotation_id="2473">et</DiscourseConnective> d'importants points négatifs au sein du système européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2206" docOffset="20">
+      <en>The report concerns a year of information and promotion in response to the Luxembourg Summit and other summits, at which tremendous importance was given to training as a means of integrating Europeans into working life, irrespective of age.</en>
+      <fr>Il s' agissait d' une année de diffusion, de promotion, <DiscourseConnective annotation_id="2590">en</DiscourseConnective> réponse au sommet de Luxembourg <DiscourseConnective annotation_id="2625">et</DiscourseConnective> à d' autres sommets où l' on a accordé une importance énorme <DiscourseConnective annotation_id="2689">à</DiscourseConnective> la formation en <DiscourseConnective annotation_id="2707">tant que</DiscourseConnective> moyen d' insertion des Européens dans le monde du travail, quel que soit leur âge.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2447" docOffset="21">
+      <en>The report has shown, first of all, that <Alignment alignment="2849" annotation_id="2488">
+          <DiscourseConnective annotation_id="2488" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> money is invested in education, that money is multiplied.</en>
+      <fr>En fait, le rapport a démontré, <DiscourseConnective annotation_id="2831">premièrement</DiscourseConnective>, <DiscourseConnective annotation_id="2845">que</DiscourseConnective> <Alignment alignment="2488" annotation_id="2849">
+          <DiscourseConnective annotation_id="2849" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> l' on attribue de l' argent <DiscourseConnective annotation_id="2885">à</DiscourseConnective> l' éducation, l' argent se multiplie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2551" docOffset="22">
+      <en>The Member States keen to participate quadrupled their budgets.</en>
+      <fr>Les pays avides <DiscourseConnective annotation_id="2941">à</DiscourseConnective> participer ont quadruplé leur budget.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2615" docOffset="23">
+      <en>That is, money invested in education gives the best results <Alignment alignment="3066" annotation_id="2675">
+          <DiscourseConnective annotation_id="2675" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it is multiplied and does not lead to fraud, or anything like that.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2981">Bref</DiscourseConnective>, l' argent investi dans l' éducation est celui qui donne de meilleurs résultats <Alignment alignment="2675" annotation_id="3066">
+          <DiscourseConnective annotation_id="3066" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> il se multiplie <DiscourseConnective annotation_id="3086">et</DiscourseConnective> n' engendre pas des cas de fraude <DiscourseConnective annotation_id="3123">ou</DiscourseConnective> de problèmes de ce genre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2746" docOffset="24">
+      <en>Secondly, the European Year of Lifelong Learning highlighted the Commission's difficulty in providing information and responses and being transparent.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3152">Deuxièmement</DiscourseConnective> l' Année européenne de l' éducation et de la formation tout au long de la vie a mis en exergue les difficultés de la Commission <DiscourseConnective annotation_id="3293">pour</DiscourseConnective> informer, donner des réponses <DiscourseConnective annotation_id="3328">et</DiscourseConnective> être transparente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2897" docOffset="25">
+      <en>It was practically impossible to gather all the necessary documentation, partly, it seems, <Alignment alignment="3437" annotation_id="2988">
+          <DiscourseConnective annotation_id="2988" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the Member States do not provide it, <Alignment alignment="3484" annotation_id="3033">
+          <DiscourseConnective annotation_id="3033" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> partly <Alignment alignment="3499" annotation_id="3044">
+          <DiscourseConnective annotation_id="3044" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there are no procedures for collecting it with the necessary ease and speed.</en>
+      <fr>Il a été pratiquement impossible de réunir toutes les informations requises, en partie <Alignment alignment="2988" annotation_id="3437">
+          <DiscourseConnective annotation_id="3437" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les pays semblent ne pas les fournir <Alignment alignment="3033" annotation_id="3484">
+          <DiscourseConnective annotation_id="3484" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, en partie, <Alignment alignment="3044" annotation_id="3499">
+          <DiscourseConnective annotation_id="3499" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment> il n' existe pas des procédures <DiscourseConnective annotation_id="3541">pour</DiscourseConnective> les obtenir avec la facilité <DiscourseConnective annotation_id="3575">et</DiscourseConnective> l' agilité requises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3129" docOffset="26">
+      <en>We have <Alignment alignment="3599" annotation_id="3137">
+          <DiscourseConnective annotation_id="3137" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> turned the report into a response and a series of recommendations on the criteria that we think lifelong learning should meet.</en>
+      <fr>
+        <Alignment alignment="3137" annotation_id="3599">
+          <DiscourseConnective annotation_id="3599" sense="Contingency.Cause.Result">Aussi</DiscourseConnective>
+        </Alignment>, nous avons transformé le rapport <DiscourseConnective annotation_id="3639">en</DiscourseConnective> une réponse <DiscourseConnective annotation_id="3654">et</DiscourseConnective> en une série de recommandations sur les critères auxquels, à notre avis, doit répondre la formation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3274" docOffset="27">
+      <en>We found ourselves with a muddle of criteria, partly introduced by the Council, <Alignment alignment="3880" annotation_id="3354">
+          <DiscourseConnective annotation_id="3354" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the document published by the Commission, the proposal for the Year of Lifelong Learning, was of far higher quality.</en>
+      <fr>Nous avons été confrontés <DiscourseConnective annotation_id="3807">à</DiscourseConnective> une grande confusions de critères, en partie engendrée par le Conseil, <Alignment alignment="3354" annotation_id="3880">
+          <DiscourseConnective annotation_id="3880" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> le document publié par la Commission, la proposition de l' Année européenne de l' éducation et de la formation tout au long de la vie, était de bien meilleure qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3474" docOffset="28">
+      <en>It is clear that we need much more clarity over training.</en>
+      <fr>Il est évident <DiscourseConnective annotation_id="4067">que</DiscourseConnective> la formation doit être beaucoup plus claire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3532" docOffset="29">
+      <en>
+        <Alignment alignment="4116" annotation_id="3532">
+          <DiscourseConnective annotation_id="3532" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, training for integration, language teaching and recreational training for the elderly is mixed up with training for work, resulting in such a muddle that it is impossible to make an assessment or gauge the quality and know what the criteria are for good practice.</en>
+      <fr>
+        <Alignment alignment="3532" annotation_id="4116">
+          <DiscourseConnective annotation_id="4116" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, la formation <DiscourseConnective annotation_id="4140">pour</DiscourseConnective> l' intégration, l' enseignement des langues <DiscourseConnective annotation_id="4189">et</DiscourseConnective> la formation du troisième âge se confondent avec la formation <DiscourseConnective annotation_id="4254">pour</DiscourseConnective> l' emploi, <DiscourseConnective annotation_id="4270">de sorte qu'</DiscourseConnective> il existe un magma qui nous empêche d' évaluer <DiscourseConnective annotation_id="4330">ou</DiscourseConnective> de connaître la qualité <DiscourseConnective annotation_id="4357">et</DiscourseConnective> de savoir quels sont les critères <DiscourseConnective annotation_id="4394">pour</DiscourseConnective> les bonnes pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3805" docOffset="30">
+      <en>So, we are asking for the educational objectives to be clearly distinguished and regulated.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4421">En fait</DiscourseConnective>, nous demandons de réglementer <DiscourseConnective annotation_id="4460">et</DiscourseConnective> de distinguer clairement les objectifs éducatifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3897" docOffset="31">
+      <en>Obviously, education for the integration of immigrants is not the same as training for new qualifications, training for a first job or retraining, or many other types.</en>
+      <fr>Bien évidemment, l' éducation <DiscourseConnective annotation_id="4543">pour</DiscourseConnective> l' intégration des immigrés n' a rien à voir avec la formation <DiscourseConnective annotation_id="4611">pour</DiscourseConnective> acquérir de nouvelles qualifications, la formation <DiscourseConnective annotation_id="4667">pour</DiscourseConnective> postuler à un premier emploi <DiscourseConnective annotation_id="4701">ou</DiscourseConnective> la formation dans le cadre d'un recyclage professionnel, au-delà de nombreux autres aspects.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4065" docOffset="32">
+      <en>We have <Alignment alignment="4808" annotation_id="4073">
+          <DiscourseConnective annotation_id="4073" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> requested clarity and better organisation of the system as a whole.</en>
+      <fr>Nous avons <Alignment alignment="4073" annotation_id="4808">
+          <DiscourseConnective annotation_id="4808" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> demandé plus de clarté <DiscourseConnective annotation_id="4840">et</DiscourseConnective> une meilleure organisation de l'ensemble du système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4151" docOffset="33">
+      <en>We have <Alignment alignment="4907" annotation_id="4159">
+          <DiscourseConnective annotation_id="4159" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> requested greater lifelong learning and retraining for teachers.</en>
+      <fr>Nous avons <Alignment alignment="4159" annotation_id="4907">
+          <DiscourseConnective annotation_id="4907" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> demandé une plus grande formation <DiscourseConnective annotation_id="4951">et</DiscourseConnective> un recyclage continu <DiscourseConnective annotation_id="4975">pour</DiscourseConnective> les enseignants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4229" docOffset="34">
+      <en>It is clear that, <Alignment alignment="5010" annotation_id="4247">
+          <DiscourseConnective annotation_id="4247" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we consider lifelong learning to be simply for unqualified groups, account will not be taken of retraining university staff and teachers at training centres, who have to be the flagship of knowledge and disseminate information in society.</en>
+      <fr>Il est clair <Alignment alignment="4247" annotation_id="5010">
+          <DiscourseConnective annotation_id="5010" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> nous considérons que la formation tout au long de la vie est seulement destinée au personnel non qualifié, on ne tiendra pas compte du recyclage du personnel des universités <DiscourseConnective annotation_id="5191">et</DiscourseConnective> des centres de formation, qui doivent être la source mère de la connaissance <DiscourseConnective annotation_id="5271">et</DiscourseConnective> transmettre l' information <DiscourseConnective annotation_id="5301">à</DiscourseConnective> la société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4489" docOffset="35">
+      <en>Finally, we have asked that it be made quite clear where the money from the Structural Funds for training, which is not monitored, is going.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5315">Enfin</DiscourseConnective>, nous avons demandé de mettre au clair la destination de l' argent des Fonds structurels destiné à la formation, argent qui n' est pas contrôlé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4630" docOffset="36">
+      <en>From our point of view, this is a key issue.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5466">À</DiscourseConnective> notre avis, ce sujet est capital.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4675" docOffset="37">
+      <en>What we cannot have is Europe paying so little attention to education and the education funds being used for other purposes.</en>
+      <fr>Ce qui est inacceptable, c'est que l' Europe accorde <DiscourseConnective annotation_id="5555">aussi</DiscourseConnective> peu d' attention <DiscourseConnective annotation_id="5578">à</DiscourseConnective> l' éducation <DiscourseConnective annotation_id="5593">et</DiscourseConnective> que les fonds éducatifs soient utilisés <DiscourseConnective annotation_id="5636">à</DiscourseConnective> d' autres fins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4800" docOffset="38">
+      <en>One of the great problems of European history stems from the fact that <Alignment alignment="5712" annotation_id="4871">
+          <DiscourseConnective annotation_id="4871" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective>
+        </Alignment> social classes have fought their way up the social scale and succeeded in integrating into the ruling classes, they have imitated the faults of the aristocracy, they have become conceited and lost sight of the value of training and the fight to retain the knowledge they have acquired.</en>
+      <fr>Un des grands problèmes de l' histoire européenne est <DiscourseConnective annotation_id="5708">que</DiscourseConnective> <Alignment alignment="4871" annotation_id="5712">
+          <DiscourseConnective annotation_id="5712" sense="Temporal.Asynchronous.Succession">lorsque</DiscourseConnective>
+        </Alignment> les classes ont pu progresser, après avoir longtemps lutté, et sont parvenues <DiscourseConnective annotation_id="5798">à</DiscourseConnective> intégrer les classes dirigeantes, elles ont copié les défauts de l' aristocratie et en sont venues à faire preuve de suffisance et à négliger l'importance de la formation <DiscourseConnective annotation_id="5971">et</DiscourseConnective> de la lutte <DiscourseConnective annotation_id="5986">pour</DiscourseConnective> demeurer dans le monde de la connaissance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5162" docOffset="39">
+      <en>So, we are living in an aristocratic Europe, which does not want to concern itself with education, which has become somewhat conceited about being European.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6034">Bref</DiscourseConnective>, nous vivons dans une Europe aristocratique où nous ne voulons pas nous soucier de l' éducation, où nous nous complaisons dans un certaine fierté pour le simple fait d' être européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5319" docOffset="40">
+      <en>We consider that it is enough to be a European citizen <Alignment alignment="6280" annotation_id="5374">
+          <DiscourseConnective annotation_id="5374" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we do not realise that <Alignment alignment="6315" annotation_id="5401">
+          <DiscourseConnective annotation_id="5401" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we want to have researchers, <Alignment alignment="6359" annotation_id="5433">
+          <DiscourseConnective annotation_id="5433" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we want to have a truly competitive Europe, we need to take care of our human resources.</en>
+      <fr>Nous considérons <DiscourseConnective annotation_id="6241">qu'</DiscourseConnective> il suffit d' être citoyen européen <Alignment alignment="5374" annotation_id="6280">
+          <DiscourseConnective annotation_id="6280" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous ne nous rendons pas compte <Alignment alignment="5401" annotation_id="6315">
+          <DiscourseConnective annotation_id="6315" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> nous voulons disposer de chercheurs, <Alignment alignment="5433" annotation_id="6359">
+          <DiscourseConnective annotation_id="6359" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous voulons que l'Europe soit réellement compétitive, nous devons nous soucier de nos ressources humaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5525" docOffset="41">
+      <en>Europe needs to realise that, in spite of the subsidiarity principle, training people and helping them to manage themselves <Alignment alignment="6599" annotation_id="5649">
+          <DiscourseConnective annotation_id="5649" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> their future is one of the fundamental objectives of its existence.</en>
+      <fr>L' Europe doit se rendre compte <DiscourseConnective annotation_id="6502">que</DiscourseConnective> malgré le principe de subsidiarité, former les personnes <DiscourseConnective annotation_id="6563">et</DiscourseConnective> les aider <DiscourseConnective annotation_id="6576">à</DiscourseConnective> se gérer elles-mêmes <Alignment alignment="5649" annotation_id="6599">
+          <DiscourseConnective annotation_id="6599" sense="Expansion.Conjunction">ainsi</DiscourseConnective>
+        </Alignment> que leur propre avenir constitue l' un des objectifs essentiels de leur propre existence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5721" docOffset="42">
+      <en>
+        <Alignment alignment="6695" annotation_id="5721">
+          <DiscourseConnective annotation_id="5721" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, a Europe that only takes care of its own interests, a Europe of subsidies, a Europe with teachers who only want to reduce their teaching hours, a Europe that contemplates and confuses trade union policy with educational policy is a worrying Europe.</en>
+      <fr>
+        <Alignment alignment="5721" annotation_id="6695">
+          <DiscourseConnective annotation_id="6695" sense="Contingency.Cause.Result">Aussi</DiscourseConnective>
+        </Alignment>, une Europe qui se soucie seulement de ses intérêts, une Europe de la subvention, une Europe dotée d' un professorat qui veut seulement réduire les heures de cours, une Europe qui envisage <DiscourseConnective annotation_id="6890">et</DiscourseConnective> confond la politique syndicale avec la politique éducative est une Europe préoccupante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5981" docOffset="43">
+      <en>I would like to draw attention to this situation, <Alignment alignment="7035" annotation_id="6031">
+          <DiscourseConnective annotation_id="6031" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I believe that we must rethink our attitude towards education, <Alignment alignment="7101" annotation_id="6098">
+          <DiscourseConnective annotation_id="6098" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we are talking about people and our future.</en>
+      <fr>Je voudrais attirer l' attention sur cette situation, <Alignment alignment="6031" annotation_id="7035">
+          <DiscourseConnective annotation_id="7035" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="7047">qu'</DiscourseConnective> il faut revoir notre intérêt envers l' éducation, <Alignment alignment="6098" annotation_id="7101">
+          <DiscourseConnective annotation_id="7101" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> nous parlons de personnes <DiscourseConnective annotation_id="7131">et</DiscourseConnective> de notre avenir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6145" id="11" language="DE" name="Klaß">
+    <ParallelChunk annotation_id="6145" docOffset="44">
+      <en>Mr President, ladies and gentlemen, we have the report before us, undoubtedly so that we can make improvements to it, as the rapporteur, Mrs Gutiérrez-Cortines said.</en>
+      <fr>Monsieur le Président, Mesdames <DiscourseConnective annotation_id="7183">et</DiscourseConnective> Messieurs, chers collègues, nous avons à examiner le rapport et certainement, - <DiscourseConnective annotation_id="7266">comme</DiscourseConnective> l'a déclaré le rapporteur, Madame Gutiérrez Cortines - <DiscourseConnective annotation_id="7327">à</DiscourseConnective> y introduire des améliorations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6311" docOffset="45">
+      <en>I <Alignment alignment="7375" annotation_id="6313">
+          <DiscourseConnective annotation_id="6313" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> think, <Alignment alignment="7361" annotation_id="6325">
+          <DiscourseConnective annotation_id="6325" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that we ought again to use this morning' s discussion to raise awareness once more and to make people aware of education again.</en>
+      <fr>
+        <Alignment alignment="6325" annotation_id="7361">
+          <DiscourseConnective annotation_id="7361" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> je pense <Alignment alignment="6313" annotation_id="7375">
+          <DiscourseConnective annotation_id="7375" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7385">que</DiscourseConnective> nous devrions profiter une fois encore du débat de ce matin <DiscourseConnective annotation_id="7449">pour</DiscourseConnective> renforcer à nouveau la prise de conscience <DiscourseConnective annotation_id="7497">et</DiscourseConnective> faire comprendre la nécessité de l'apprentissage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6462" docOffset="46">
+      <en>We are all delighted with the new achievements of our age: travel, the Internet, mobile phones and simultaneous television broadcasts from the other side of the world, <Alignment alignment="7745" annotation_id="6630">
+          <DiscourseConnective annotation_id="6630" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we are now experiencing again with the Olympic Games in Australia.</en>
+      <fr>Nous nous réjouissons tous des nouveaux acquis de notre époque : les voyages, l'Internet, le GSM, les retransmissions en direct à la télévision d'événements se déroulant à l'autre bout du monde, <Alignment alignment="6630" annotation_id="7745">
+          <DiscourseConnective annotation_id="7745" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous aurons encore l'occasion de le vivre avec les Jeux olympiques qui vont avoir lieu <DiscourseConnective annotation_id="7838">en</DiscourseConnective> Australie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6700" docOffset="47">
+      <en>These are all achievements, but also signs of the time and of the society in which we live: the information age, the information society, the age of knowledge, technology and globalisation, to mention but a few designations.</en>
+      <fr>Ce sont <DiscourseConnective annotation_id="7860">autant</DiscourseConnective> d'acquis <DiscourseConnective annotation_id="7876">et</DiscourseConnective> d'indices de l'époque <DiscourseConnective annotation_id="7901">et</DiscourseConnective> de la société dans laquelle nous vivons : l'ère de l'information, la société de l'information, la civilisation de la connaissance et de la technologie, la mondialisation, <DiscourseConnective annotation_id="8075">pour</DiscourseConnective> ne citer que ceux-là.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6925" docOffset="48">
+      <en>All are characterised by a very rapid pace of change and by an enormous number of transformations, indeed revolutions, which have been triggered, and continue to be triggered, by the new knowledge.</en>
+      <fr>Tous ces acquis se caractérisent par le rythme effréné <DiscourseConnective annotation_id="8157">et</DiscourseConnective> les proportions considérables que prennent les changements, ou <DiscourseConnective annotation_id="8223">plutôt</DiscourseConnective> les révolutions, qui ont été <DiscourseConnective annotation_id="8259">et</DiscourseConnective> seront <DiscourseConnective annotation_id="8269">encore</DiscourseConnective> déclenchés par de nouvelles découvertes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7123" docOffset="49">
+      <en>The dissemination of information and knowledge is now incomparably faster and more extensive than it was even a few years ago.</en>
+      <fr>La diffusion des informations, de la connaissance, se fait aujourd'hui de façon beaucoup plus rapide <DiscourseConnective annotation_id="8418">et</DiscourseConnective> plus vaste <DiscourseConnective annotation_id="8432">qu'</DiscourseConnective>il y a quelques années encore.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7250" docOffset="50">
+      <en>People must be prepared for this vertiginous and fascinating roller coaster of change.</en>
+      <fr>Les hommes doivent être préparés <DiscourseConnective annotation_id="8499">à</DiscourseConnective> ce tourbillon de changements à la fois vertigineux <DiscourseConnective annotation_id="8552">et</DiscourseConnective> fascinant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7337" docOffset="51">
+      <en>From the earliest days of childhood, from schooldays <DiscourseConnective annotation_id="7390" sense="Expansion.Restatement">in fact</DiscourseConnective>, the key words have been lifelong learning.</en>
+      <fr>Et il faut commencer dès le plus jeune âge, <DiscourseConnective annotation_id="8610">à</DiscourseConnective> savoir à l'école : apprendre pour la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7442" docOffset="52">
+      <en>That tenet is now only half the truth, <Alignment alignment="8666" annotation_id="7481">
+          <DiscourseConnective annotation_id="7481" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, <Alignment alignment="57302" annotation_id="7490">
+          <DiscourseConnective annotation_id="7490" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it cannot remain so, for the processes of change and transformation in society, in the world of work and in the environment are by no means over after school or after training, but continue and become still more marked.</en>
+      <fr>Aujourd'hui <Alignment alignment="7481" annotation_id="8666">
+          <DiscourseConnective annotation_id="8666" sense="Comparison.Contrast">pourtant</DiscourseConnective>
+        </Alignment>, cette phrase n'est plus <DiscourseConnective annotation_id="8700">qu'</DiscourseConnective>à moitié vraie <Alignment alignment="7490" annotation_id="8718">
+          <DiscourseConnective annotation_id="8718" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle ne peut le rester. <DiscourseConnective annotation_id="8745">Car</DiscourseConnective> les processus de changement <DiscourseConnective annotation_id="8777">et</DiscourseConnective> de transformation dans la société, le monde du travail <DiscourseConnective annotation_id="8835">et</DiscourseConnective> l'environnement ne sont pas près de s'arrêter <DiscourseConnective annotation_id="8884">après</DiscourseConnective> l'école <DiscourseConnective annotation_id="8898">ou</DiscourseConnective> la formation ; que du contraire, ils se poursuivent <DiscourseConnective annotation_id="8953">et</DiscourseConnective> <DiscourseConnective annotation_id="8956">s'</DiscourseConnective>intensifient.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7714" docOffset="53">
+      <en>Human beings must <Alignment alignment="8985" annotation_id="7732">
+          <DiscourseConnective annotation_id="7732" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> learn to meet these challenges themselves and to adjust to lifelong learning.</en>
+      <fr>L'homme doit <Alignment alignment="7732" annotation_id="8985">
+          <DiscourseConnective annotation_id="8985" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> apprendre <DiscourseConnective annotation_id="9000">à</DiscourseConnective> relever lui-même ces défis <DiscourseConnective annotation_id="9029">et</DiscourseConnective> <DiscourseConnective annotation_id="9032">à</DiscourseConnective> s'adapter <DiscourseConnective annotation_id="9044">à</DiscourseConnective> une éducation et à une formation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7820" docOffset="54">
+      <en>Only in that way can we all, in future, <Alignment alignment="9151" annotation_id="7860">
+          <DiscourseConnective annotation_id="7860" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> participate in the fine achievements of our age, that is to say, hold our own in the ever more rapidly changing competitiveness of life - both personal and professional - and both seize and help to create opportunities.</en>
+      <fr>Ce n'est que de cette manière que nous pourrons <Alignment alignment="7860" annotation_id="9151">
+          <DiscourseConnective annotation_id="9151" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> tous participer <DiscourseConnective annotation_id="9177">à</DiscourseConnective> l'avenir aux acquis positifs de notre époque : faire face aux situations concurrentielles de la vie, qui évoluent de plus <DiscourseConnective annotation_id="9301">en plus</DiscourseConnective> rapidement - que ce soit sur le plan privé <DiscourseConnective annotation_id="9352">ou</DiscourseConnective> professionnel -, saisir les opportunités <DiscourseConnective annotation_id="9396">et</DiscourseConnective> participer <DiscourseConnective annotation_id="9410">à</DiscourseConnective> leur conception.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8085" docOffset="55">
+      <en>In order to help these insights come to the fore throughout Europe, 1996 was designated the European Year of Lifelong Learning.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9429">Afin de</DiscourseConnective> faire triompher ces conclusions dans toute l'Europe, 1996 a été proclamée Année européenne de l'éducation et de la formation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8213" docOffset="56">
+      <en>With relatively modest financial resources of ECU 8.4 million from the European Union, a much welcomed ECU 34 million was raised for the project with the help of partner countries from the European Economic Area: Liechtenstein, Switzerland and Norway.</en>
+      <fr>Avec les moyens financiers relativement maigres de l'ordre de 8,4 millions d'écus <DiscourseConnective annotation_id="9668">pour</DiscourseConnective> l'Union européenne <DiscourseConnective annotation_id="9692">et</DiscourseConnective> la contribution des partenaires de l'espace économique européen (EEE) - le Liechtenstein, la Suisse <DiscourseConnective annotation_id="9795">et</DiscourseConnective> la Norvège -, un budget de 34 millions d'écus a été réuni <DiscourseConnective annotation_id="9856">pour</DiscourseConnective> le projet et a été accueilli très favorablement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8465" docOffset="57">
+      <en>In many congresses, seminars and PR events, there was constructive discussion in all areas of society of the necessity and opportunities for rethinking education in the direction of lifelong learning.</en>
+      <fr>Les multiples conférences, séminaires <DiscourseConnective annotation_id="9948">et</DiscourseConnective> ateliers ont abordé de façon constructive le thème lié <DiscourseConnective annotation_id="10006">à</DiscourseConnective> la nécessité <DiscourseConnective annotation_id="10021">et</DiscourseConnective> aux opportunités d'un changement des mentalités vers un apprentissage tout au long de la vie, et ce dans tous les secteurs de la société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8666" docOffset="58">
+      <en>These are opportunities - especially for Europe and European integration - of which we can avail ourselves here and now: knowledge of other languages, other cultures, other ways of life, everything that is so important for us <DiscourseConnective annotation_id="8892" sense="Temporal.Synchrony">as</DiscourseConnective> Europe grows together.</en>
+      <fr>Ces opportunités - <DiscourseConnective annotation_id="10181">pour</DiscourseConnective> l'Europe <DiscourseConnective annotation_id="10195">et</DiscourseConnective> l'intégration européenne également -, nous pouvons en faire l'expérience ici-même : la connaissance d'autres langues, d'autres cultures, d'autres modes de vie, tout ce qui est <DiscourseConnective annotation_id="10374">si</DiscourseConnective> important <DiscourseConnective annotation_id="10387">pour</DiscourseConnective> nous dans le cadre du développement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8918" docOffset="59">
+      <en>The European Year of Lifelong Learning set us thinking in a way which must be continued and consolidated.</en>
+      <fr>L'Année européenne de l'éducation et de la formation tout au long de la vie a favorisé le développement d'une notion nouvelle et s'est avéré être une initiative opportune qui doit être poursuivie <DiscourseConnective annotation_id="10634">et</DiscourseConnective> consolidée.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9024" id="12" language="PT" name="Lage">
+    <ParallelChunk annotation_id="9024" docOffset="60">
+      <en>Mr President, ladies and gentlemen, the traditional concept of education was that students would cease learning <DiscourseConnective annotation_id="9136" sense="Temporal.Synchrony">when</DiscourseConnective> they left school.</en>
+      <fr>Monsieur le Président, chers collègues, dans la conception traditionnelle de l'éducation, l'étudiant achevait son apprentissage à la fin de sa scolarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9159" docOffset="61">
+      <en>It is true that a small elite would continue to create, pass on or acquire new knowledge and ideas, <Alignment alignment="10925" annotation_id="9259">
+          <DiscourseConnective annotation_id="9259" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> for the great majority, leaving school meant the end of formal education.</en>
+      <fr>Bien sûr, une petite élite continuait <DiscourseConnective annotation_id="10841">à</DiscourseConnective> créer, transmettre <DiscourseConnective annotation_id="10862">ou</DiscourseConnective> acquérir de nouveaux savoirs <DiscourseConnective annotation_id="10894">et</DiscourseConnective> de nouvelles connaissances. <Alignment alignment="9259" annotation_id="10925">
+          <DiscourseConnective annotation_id="10925" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> dans la plupart des cas, la fin de l'école signifiait la fin de l'apprentissage formel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9337" docOffset="62">
+      <en>Things have changed radically.</en>
+      <fr>Les choses ont radicalement changé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9368" docOffset="63">
+      <en>Learning has become broader and longer.</en>
+      <fr>La scolarité <DiscourseConnective annotation_id="11067">s'</DiscourseConnective>est élargie <DiscourseConnective annotation_id="11081">et</DiscourseConnective> s'est allongée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9408" docOffset="64">
+      <en>New methods and sources for acquiring knowledge and training have appeared.</en>
+      <fr>De nouvelles sources <DiscourseConnective annotation_id="11121">et</DiscourseConnective> modalités d'acquisition du savoir <DiscourseConnective annotation_id="11158">et</DiscourseConnective> de formation ont fait leur apparition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9484" docOffset="65">
+      <en>Anyone who does not keep up with this progress, these new requirements, risks becoming marginalised, undervalued in his or her professional life, risks losing social status and suffering intellectual impoverishment.</en>
+      <fr>Ceux qui ne suivent pas ce mouvement, ces nouvelles exigences, courent le risque de la marginalisation, de la dépréciation professionnelle, de la perte de leur statut social <DiscourseConnective annotation_id="11374">et</DiscourseConnective> de l'appauvrissement intellectuel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9700" docOffset="66">
+      <en>It is said, and rightly so, that we are becoming a society of information and knowledge. The great philosopher Nietzsche, <Alignment alignment="11499" annotation_id="9822">
+          <DiscourseConnective annotation_id="9822" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, warned us that it is impossible to found a civilisation on knowledge.</en>
+      <fr>On dit à juste titre <DiscourseConnective annotation_id="11433">que</DiscourseConnective> nous entrons dans la société de la connaissance <DiscourseConnective annotation_id="11485">et</DiscourseConnective> du savoir, <Alignment alignment="9822" annotation_id="11499">
+          <DiscourseConnective annotation_id="11499" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le grand philosophe Nietzsche nous a averti <DiscourseConnective annotation_id="11548">que</DiscourseConnective> : "il n'est pas possible de fonder une civilisation sur le savoir".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9901" docOffset="67">
+      <en>This warning should give us food for thought.</en>
+      <fr>Cet avertissement devrait nous faire réfléchir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9947" docOffset="68">
+      <en>
+        <Alignment alignment="11668" annotation_id="9947">
+          <DiscourseConnective annotation_id="9947" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment>, today, there is no alternative to scientific progress and to the increase in knowledge and information, the truth of the matter is that lifelong learning cannot be reduced simply to the acquisition of useful skills. It must be part of a culture, of a set of values that provide meaning for mankind' s life in society.</en>
+      <fr>
+        <Alignment alignment="9947" annotation_id="11668">
+          <DiscourseConnective annotation_id="11668" sense="Comparison.Concession">Bien qu'</DiscourseConnective>
+        </Alignment>il n'y ait pas aujourd'hui d'alternative au développement de la science, à l'augmentation du savoir <DiscourseConnective annotation_id="11776">et</DiscourseConnective> de l'information, la vérité est <DiscourseConnective annotation_id="11811">que</DiscourseConnective> l'éducation tout au long de la vie ne peut se réduire <DiscourseConnective annotation_id="11869">à</DiscourseConnective> la simple acquisition de compétences utiles, mais qu'elle doit <DiscourseConnective annotation_id="11934">s'</DiscourseConnective>insérer dans une culture, dans un ensemble de valeurs qui donnent un sens <DiscourseConnective annotation_id="12010">à</DiscourseConnective> la vie de l'homme <DiscourseConnective annotation_id="12030">en</DiscourseConnective> société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10275" docOffset="69">
+      <en>Lifelong learning and training has <DiscourseConnective annotation_id="10310" sense="Contingency.Cause.Result">therefore</DiscourseConnective> become an indispensable factor that states, educational bodies and the public themselves can no longer underestimate.</en>
+      <fr>L'éducation <DiscourseConnective annotation_id="12054">et</DiscourseConnective> la formation tout au long de la vie deviennent un impératif <DiscourseConnective annotation_id="12117">que</DiscourseConnective> les États, les organes éducatifs <DiscourseConnective annotation_id="12154">et</DiscourseConnective> les citoyens ne peuvent sous-estimer dorénavant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10438" docOffset="70">
+      <en>Holding the European Year of Lifelong Learning and Training was an important step and a symbolic moment in raising the awareness of the European people with regard to this new state of affairs.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12206">C'est pourquoi</DiscourseConnective>, l'Année européenne de l'éducation <DiscourseConnective annotation_id="12256">et</DiscourseConnective> de la formation tout au long de la vie représente un jalon important <DiscourseConnective annotation_id="12328">et</DiscourseConnective> un moment symbolique dans la prise de conscience, par les Européens, de cette nouvelle réalité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10632" docOffset="71">
+      <en>The theorising that preceded and continued throughout the European Year of Lifelong Learning and the considerable interest it raised in schools and citizens' groups made a major contribution to this.</en>
+      <fr>La théorisation qui a précédé <DiscourseConnective annotation_id="12457">et</DiscourseConnective> accompagné cette réalisation de l'Année européenne <DiscourseConnective annotation_id="12511">et</DiscourseConnective> le mouvement d'intérêt qu'il a suscité de la part des écoles <DiscourseConnective annotation_id="12575">et</DiscourseConnective> des associations de citoyens constitue une importante contribution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10832" docOffset="72">
+      <en>'Lifelong learning and training' has definitively entered the vocabulary of politicians, educationalists and businesspeople.</en>
+      <fr>L'éducation <DiscourseConnective annotation_id="12658">et</DiscourseConnective> la formation tout au long de la vie est définitivement passé dans le vocabulaire des hommes politiques, des pédagogues, des entrepreneurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10957" docOffset="73">
+      <en>Even more importantly, these words have <DiscourseConnective annotation_id="10997" sense="Expansion.Conjunction">also</DiscourseConnective> become part of everyday language.</en>
+      <fr>Et, chose plus importante encore, dans le langage courant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11036" docOffset="74">
+      <en>Lifelong learning and training has <DiscourseConnective annotation_id="11071" sense="Expansion.Conjunction">also</DiscourseConnective> become an instrument in the fight against academic failure, students giving up on education and illiteracy.</en>
+      <fr>L'éducation <DiscourseConnective annotation_id="12871">et</DiscourseConnective> la formation tout au long de la vie est devenu un instrument de lutte contre l'échec scolaire, l'abandon <DiscourseConnective annotation_id="12979">et</DiscourseConnective> l'analphabétisme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11184" docOffset="75">
+      <en>It is <Alignment alignment="13006" annotation_id="11190">
+          <DiscourseConnective annotation_id="11190" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> a good cause.</en>
+      <fr>C'est <Alignment alignment="11190" annotation_id="13006">
+          <DiscourseConnective annotation_id="13006" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> aujourd'hui une juste cause.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11214" docOffset="76">
+      <en>For these reasons, this initiative was valuable, timely and fruitful.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13040">Pour</DiscourseConnective> toutes ces raisons, cette initiative est la bienvenue, elle est opportune <DiscourseConnective annotation_id="13119">et</DiscourseConnective> féconde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11284" docOffset="77">
+      <en>Its objectives were achieved <DiscourseConnective annotation_id="11313" sense="Expansion.Conjunction">and</DiscourseConnective> what was lacking in funds was compensated for by the harnessing of goodwill and by the number of people who signed up to it.</en>
+      <fr>Ses objectifs ont été atteints, ce qui a manqué <DiscourseConnective annotation_id="13179">en</DiscourseConnective> moyens financiers a été compensé par la mobilisation des bonnes volontés <DiscourseConnective annotation_id="13255">et</DiscourseConnective> par l'adhésion <DiscourseConnective annotation_id="13273">qu'</DiscourseConnective>elle a recueillie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11442" docOffset="78">
+      <en>The line between people' s first educational experiences and later opportunities has now been crossed.</en>
+      <fr>La frontière entre l'éducation initiale <DiscourseConnective annotation_id="13335">et</DiscourseConnective> d'autres moments éducatifs est aujourd'hui dépassée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11545" docOffset="79">
+      <en>Education...</en>
+      <fr>Éducation ...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11558" docOffset="80">
+      <en>(The President cut the speaker off)</en>
+      <fr>(Le Président retire la parole à l'orateur)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11594" id="13" language="ES" name="Gasòliba i Böhm">
+    <ParallelChunk annotation_id="11594" docOffset="81">
+      <en>Mr President, ladies and gentlemen, I would like to express the Liberal Group' s support for the report by Mrs Cristina Gutiérrez-Cortines, which, <DiscourseConnective annotation_id="11741" sense="Temporal.Synchrony">as</DiscourseConnective> she herself mentioned in the introduction to her report, is not, and should not be, considered to be purely a formality, a summary of the application of the European Year of Learning in 1996, but rather as an analysis that serves to make a series of proposals on what the standing of education should be in its various fields, including the fields of lifelong learning and vocational and technical training, which deserve special attention.</en>
+      <fr>Monsieur le Président, chers collègues, je voudrais exprimer le soutien du groupe libéral au rapport de notre collègue, Mme Cristina Gutiérrez-Cortines, qui, comme elle l' a dit elle-même dans l' introduction de son rapport, n' est pas et ne doit pas être considéré purement comme un formalité, comme un bilan de l' application de l' Année européenne de l' éducation en 1996, mais comme une analyse nous aidant à présenter une série de propositions sur ce que devrait être la dimension de l' éducation dans ses divers domaines, y compris la formation tout au long de la vie et la formation professionnelle et les enseignements techniques, auxquels il faut accorder une attention toute particulière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12185" docOffset="82">
+      <en>This coincides with the ideas expressed a few months ago at the Lisbon and Feira European Councils, <Alignment alignment="14274" annotation_id="12285">
+          <DiscourseConnective annotation_id="12285" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> all the Member States pledged to develop a series of measures at European Union level so that, during this decade, the European Union can become a leading society at international level and achieve the levels of competence that North America has today, particularly in technological areas.</en>
+      <fr>Cela coïncide avec les idées exprimées il y a quelques mois lors des réunions des Conseils européens de Lisbonne <DiscourseConnective annotation_id="14261">et</DiscourseConnective> de Feira, <Alignment alignment="12285" annotation_id="14274">
+          <DiscourseConnective annotation_id="14274" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> tous les États membres se sont engagés <DiscourseConnective annotation_id="14321">à</DiscourseConnective> développer au niveau de l' Union une série d' actions <DiscourseConnective annotation_id="14377">pour qu'</DiscourseConnective> au cours de cette décennie, l' Union européenne devienne une société occupant le premier rang de la scène internationale <DiscourseConnective annotation_id="14507">et</DiscourseConnective> atteignant les niveaux de compétence, <DiscourseConnective annotation_id="14548">notamment</DiscourseConnective> dans les domaines technologiques, qui caractérisent actuellement la société américaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12580" docOffset="83">
+      <en>To be precise, the key element in the process to achieve this level of competence lies in training, education and in a society with levels of excellence that lay the necessary foundations for progress to be made in the most technologically developed and advanced fields of scientific and technological innovation.</en>
+      <fr>L' élément clé de ce processus <DiscourseConnective annotation_id="14677">en vue d'</DiscourseConnective> atteindre ce niveau de compétence réside précisément dans la formation, dans l' éducation <DiscourseConnective annotation_id="14777">et</DiscourseConnective> dans une société dotée de niveaux d' excellence permettant d' offrir la base nécessaire <DiscourseConnective annotation_id="14868">pour</DiscourseConnective> progresser dans les domaines technologiquement plus développés <DiscourseConnective annotation_id="14936">et</DiscourseConnective> plus avancés de l' innovation scientifique <DiscourseConnective annotation_id="14982">et</DiscourseConnective> technologique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12894" docOffset="84">
+      <en>The report by Mrs Cristina Gutiérrez-Cortines, and she has <Alignment alignment="15064" annotation_id="12953">
+          <DiscourseConnective annotation_id="12953" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> mentioned this today, shows the imbalances that still exist in the field of education between the level of the European Union and national level, that is, on the one hand we want action in education at European Union level, <Alignment alignment="15306" annotation_id="13182">
+          <DiscourseConnective annotation_id="13182" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> on the other, the Member States do not want to give up their competences and establish true cooperation on an educational level.</en>
+      <fr>Le rapport de Mme Cristina Gutiérrez-Cortines, <DiscourseConnective annotation_id="15047">et</DiscourseConnective> elle l' a dit <Alignment alignment="12953" annotation_id="15064">
+          <DiscourseConnective annotation_id="15064" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> aujourd' hui, démontre les déséquilibres <DiscourseConnective annotation_id="15111">encore</DiscourseConnective> existants dans le domaine de l' éducation entre le niveau de l' Union européenne <DiscourseConnective annotation_id="15199">et</DiscourseConnective> le niveau national, <DiscourseConnective annotation_id="15222">bref</DiscourseConnective>, d' une part on souhaite une action au niveau éducatif de l' Union européenne, <Alignment alignment="13182" annotation_id="15306">
+          <DiscourseConnective annotation_id="15306" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> d' autre part, les États membres rechignent <DiscourseConnective annotation_id="15355">à</DiscourseConnective> céder leurs compétences <DiscourseConnective annotation_id="15381">et</DiscourseConnective> à établir une véritable coopération au niveau éducatif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13315" docOffset="85">
+      <en>It is true that there are some programmes that we always use as references, such as Socrates or Leonardo, <Alignment alignment="15554" annotation_id="13421">
+          <DiscourseConnective annotation_id="13421" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> in precisely these programmes, we must recognise the lack of sufficient resources to achieve the scope and effect that we would like.</en>
+      <fr>Il est vrai <DiscourseConnective annotation_id="15452">qu'</DiscourseConnective> il existe certains programmes qui nous servent toujours de référence, <DiscourseConnective annotation_id="15526">comme</DiscourseConnective> Socrates <DiscourseConnective annotation_id="15541">ou</DiscourseConnective> Leonardo, <Alignment alignment="13421" annotation_id="15554">
+          <DiscourseConnective annotation_id="15554" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> dans ces programmes nous devons <DiscourseConnective annotation_id="15591">précisément</DiscourseConnective> constater le manque de ressources suffisantes <DiscourseConnective annotation_id="15649">pour qu'</DiscourseConnective> elles revêtent l'ampleur <DiscourseConnective annotation_id="15683">et</DiscourseConnective> la portée <DiscourseConnective annotation_id="15696">que</DiscourseConnective> nous souhaiterions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13559" docOffset="86">
+      <en>Finally, I <Alignment alignment="15720" annotation_id="13570">
+          <DiscourseConnective annotation_id="13570" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> recommend that you pay particular attention to points 16, 17, 18, 19, 23 and 24, which constitute a good guide for the achievement of these higher levels of education at European Union level.</en>
+      <fr>
+        <Alignment alignment="13570" annotation_id="15720">
+          <DiscourseConnective annotation_id="15720" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+        </Alignment>, chers collègues, <DiscourseConnective annotation_id="15747">pour terminer</DiscourseConnective>, je vous recommande d' observer attentivement les points 16, 17, 18, 19, 23 <DiscourseConnective annotation_id="15837">et</DiscourseConnective> 24, qui constituent un bon guide <DiscourseConnective annotation_id="15873">pour</DiscourseConnective> atteindre ces meilleurs niveaux d' enseignement au niveau de l' Union européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13772" id="14" language="DE" name="Echerer">
+    <ParallelChunk annotation_id="13772" docOffset="87">
+      <en>Mr President, first of all, I should like to congratulate our rapporteur on her excellent work and also on the commendable way in which she cooperated in the Committee on Culture, Youth, Education, the Media and Sport.</en>
+      <fr>Monsieur le Président, je voudrais <DiscourseConnective annotation_id="15995">tout d'abord</DiscourseConnective> féliciter notre rapporteur <DiscourseConnective annotation_id="16035">pour</DiscourseConnective> le travail remarquable <DiscourseConnective annotation_id="16063">et</DiscourseConnective> la bonne coopération au sein de la commission de la culture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13991" docOffset="88">
+      <en>Philosophical and literary texts, as well as popular wisdom, tell us that 'you are never too old to learn' .</en>
+      <fr>Les textes philosophiques <DiscourseConnective annotation_id="16153">et</DiscourseConnective> littéraires, voire <DiscourseConnective annotation_id="16175">même</DiscourseConnective> le langage populaire, nous disent <DiscourseConnective annotation_id="16214">qu'</DiscourseConnective>on apprend <DiscourseConnective annotation_id="16228">à</DiscourseConnective> tout âge.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14100" docOffset="89">
+      <en>The 'Lifelong Learning' initiative was a perfectly proper one and the result of a wise decision, aimed at doing justice to the demands of the twenty-first century and at enabling people to adjust to these demands.</en>
+      <fr>L'initiative relative à l'éducation <DiscourseConnective annotation_id="16276">et</DiscourseConnective> <DiscourseConnective annotation_id="16279">à</DiscourseConnective> la formation tout au long de la vie s'est révélée être une sage décision <DiscourseConnective annotation_id="16354">et</DiscourseConnective> une bonne initiative pour répondre aux exigences du XXIe siècle, pour y faire face.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14314" docOffset="90">
+      <en>It is mainly the early phases of life which, right into our own time, have been, and remain, the time for education and training.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16441">Jusqu'à</DiscourseConnective> ce jour, l'éducation <DiscourseConnective annotation_id="16470">et</DiscourseConnective> la formation étaient <DiscourseConnective annotation_id="16494">et</DiscourseConnective> restent principalement liées aux phases initiales de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14444" docOffset="91">
+      <en>The importance of lifelong learning cannot, <Alignment alignment="16608" annotation_id="14488">
+          <DiscourseConnective annotation_id="14488" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, be limited to the spheres of education and training policy alone.</en>
+      <fr>L'importance d'un apprentissage permanent ne peut <Alignment alignment="14488" annotation_id="16608">
+          <DiscourseConnective annotation_id="16608" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> être limitée aux seuls domaines de l'éducation <DiscourseConnective annotation_id="16665">et</DiscourseConnective> de la politique de la formation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14563" docOffset="92">
+      <en>Its success <Alignment alignment="16719" annotation_id="14575">
+          <DiscourseConnective annotation_id="14575" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> depends, in large measure, upon labour-market policy and upon the successful dissemination of science and technology.</en>
+      <fr>Son succès dépend <Alignment alignment="14575" annotation_id="16719">
+          <DiscourseConnective annotation_id="16719" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="16725">en</DiscourseConnective> grande partie de la politique du marché du travail <DiscourseConnective annotation_id="16779">et</DiscourseConnective> d'une diffusion fructueuse de la science <DiscourseConnective annotation_id="16823">et</DiscourseConnective> de la technologie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14698" docOffset="93">
+      <en>Lifelong learning begins where schooling, or basic education, leaves off, <DiscourseConnective annotation_id="14772" sense="Expansion.Conjunction">and</DiscourseConnective> this is where the first and, in my view, also the greatest weakness of this wonderful initiative is to be found.</en>
+      <fr>L'éducation et la formation tout au long de la vie commencent là où la formation scolaire, la formation de base, <DiscourseConnective annotation_id="16958">s'</DiscourseConnective>arrête.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14889" docOffset="94">
+      <en>Lifelong learning can only work <DiscourseConnective annotation_id="14921" sense="Contingency.Condition">if</DiscourseConnective> there is a change to the way in which, <DiscourseConnective annotation_id="14963" sense="Expansion.Conjunction">and</DiscourseConnective> above all the pace at which, basic education under the original educational systems is adapted.</en>
+      <fr>Ceci est le premier point faible et, selon moi le plus grand, de cette formidable initiative : pour que l'éducation et la formation tout au long de la vie fonctionnent, il faut changer l'adaptation et <DiscourseConnective annotation_id="17169">surtout</DiscourseConnective> le rythme d'adaptation de la formation de base dans le cadre des systèmes éducatifs fondamentaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15063" docOffset="95">
+      <en>In a knowledge society, one of the main functions of schooling should be to offer students methods they need to gain access to large amounts of information, to understand this information and to transform it into knowledge.</en>
+      <fr>Dans une société de la connaissance, une des principales fonctions de l'école devrait consister <DiscourseConnective annotation_id="17371">à</DiscourseConnective> proposer aux étudiants des méthodes d'apprentissage qu'ils utiliseraient <DiscourseConnective annotation_id="17446">pour</DiscourseConnective> avoir accès <DiscourseConnective annotation_id="17463">à</DiscourseConnective> de gros volumes d'informations, <DiscourseConnective annotation_id="17497">pour</DiscourseConnective> comprendre ces informations <DiscourseConnective annotation_id="17530">et</DiscourseConnective> les convertir <DiscourseConnective annotation_id="17547">en</DiscourseConnective> savoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15287" docOffset="96">
+      <en>Syllabuses, or the means by which learning has so far been imparted, must be fundamentally altered.</en>
+      <fr>Les programmes scolaires, la méthode utilisée jusqu'ici pour enseigner la matière, doivent être fondamentalement modifiés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15387" docOffset="97">
+      <en>I do not of course want to interfere in the nation states, <Alignment alignment="17749" annotation_id="15446">
+          <DiscourseConnective annotation_id="15446" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> this is, <DiscourseConnective annotation_id="15459" sense="Comparison.Concession">nonetheless</DiscourseConnective>, an idea which we ought to explore communally in this European Community.</en>
+      <fr>Je ne voudrais pas intervenir dans les affaires des États nationaux <Alignment alignment="15446" annotation_id="17749">
+          <DiscourseConnective annotation_id="17749" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cette idée, nous devrions également en discuter en commun au sein de cette Communauté européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15545" docOffset="98">
+      <en>
+        <Alignment alignment="17864" annotation_id="15545">
+          <DiscourseConnective annotation_id="15545" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>
+        </Alignment>, the direction taken should be an individual one, but with social components.</en>
+      <fr>Il faudrait <Alignment alignment="15545" annotation_id="17864">
+          <DiscourseConnective annotation_id="17864" sense="Expansion.Alternative.Chosen alternative">plutôt</DiscourseConnective>
+        </Alignment> opter pour une orientation individuelle <DiscourseConnective annotation_id="17911">à</DiscourseConnective> composantes sociales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15631" docOffset="99">
+      <en>We need to learn more about arguing critically, about increasing students' self-confidence and about increasing their ability to express themselves in language.</en>
+      <fr>Nous devrions apprendre davantage <DiscourseConnective annotation_id="17969">à</DiscourseConnective> avoir l'esprit critique, <DiscourseConnective annotation_id="17996">à</DiscourseConnective> faire en sorte que l'étudiant ait davantage confiance <DiscourseConnective annotation_id="18052">en</DiscourseConnective> lui, <DiscourseConnective annotation_id="18060">à</DiscourseConnective> soutenir une faculté d'expression linguistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15792" docOffset="100">
+      <en>Skills of this kind will become ever more important alongside instrumental skills such as the ability to write, to acquire other languages and to do arithmetic.</en>
+      <fr>Ces éléments deviendront <DiscourseConnective annotation_id="18135">de plus</DiscourseConnective> <DiscourseConnective annotation_id="18143">en plus</DiscourseConnective> importants, outre les compétences <DiscourseConnective annotation_id="18185">que</DiscourseConnective> sont la faculté d'écrire <DiscourseConnective annotation_id="18214">et</DiscourseConnective> de calculer et la capacité d'apprendre d'autres langues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15953" docOffset="101">
+      <en>One goal must be to enable pupils constantly to update their knowledge and skills <DiscourseConnective annotation_id="16035" sense="Contingency.Cause.Result">so that</DiscourseConnective> they are neither able nor willing to view a diploma or certificate as the end of a learning process or <DiscourseConnective annotation_id="16146" sense="Temporal.Synchrony">as</DiscourseConnective> a seal of approval upon something finally completed.</en>
+      <fr>L'objectif doit être de rendre l'élève apte <DiscourseConnective annotation_id="18318">à</DiscourseConnective> actualiser en permanence ses connaissances <DiscourseConnective annotation_id="18363">et</DiscourseConnective> ses capacités - qu'il en <DiscourseConnective annotation_id="18391">soit</DiscourseConnective> capable <DiscourseConnective annotation_id="18404">et</DiscourseConnective> qu'il le veuille ; l'élève doit considérer le diplôme <DiscourseConnective annotation_id="18461">ou</DiscourseConnective> le certificat non pas <DiscourseConnective annotation_id="18486">comme</DiscourseConnective> étant la fin d'un processus d'apprentissage, l'attestation d'un <DiscourseConnective annotation_id="18556">résultat</DiscourseConnective> définitif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16202" docOffset="102">
+      <en>Our society must break away from the outdated system of school, work and pension.</en>
+      <fr>Notre société doit se débarrasser du système obsolète - temps d'étude, temps de travail, temps de retraite !</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16284" docOffset="103">
+      <en>Lifelong learning begins, then, with the reform of our schooling.</en>
+      <fr>L'éducation et la formation tout au long de la vie commencent <DiscourseConnective annotation_id="18747">donc</DiscourseConnective> par la réforme de notre enseignement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16350" docOffset="104">
+      <en>The individual must learn for him or herself.</en>
+      <fr>L'individu devrait apprendre <DiscourseConnective annotation_id="18819">pour</DiscourseConnective> lui-même.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16396" docOffset="105">
+      <en>That is not something it lies within our power to bring about, <Alignment alignment="18861" annotation_id="16459">
+          <DiscourseConnective annotation_id="16459" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we can do a lot to help bring it about, for the population of Europe is not, of course, just a human resource for the European labour market, but a wealth of marvellous individuals.</en>
+      <fr>Cela ne dépend pas de nous <Alignment alignment="16459" annotation_id="18861">
+          <DiscourseConnective annotation_id="18861" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous pouvons y apporter une solide contribution. <DiscourseConnective annotation_id="18915">Car</DiscourseConnective> la population européenne n'est pas seulement une ressource humaine <DiscourseConnective annotation_id="18986">pour</DiscourseConnective> le marché du travail européen ; c'est une foule d'individus merveilleux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16645" docOffset="106">
+      <en>Allow me to give a personal example by way of conclusion. I know a joiner in a small suburb of Vienna where the prejudice is still somewhat commonly held that anyone who works with their hands must not be very well educated.</en>
+      <fr>Permettez-moi <DiscourseConnective annotation_id="19078">pour conclure</DiscourseConnective> de citer un exemple personnel : il y a un menuisier qui vit dans la région de Vienne, dans une petite banlieue où on pense <DiscourseConnective annotation_id="19215">encore que</DiscourseConnective> celui qui travaille manuellement n'a pas fait de hautes études.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16870" docOffset="107">
+      <en>This joiner is between 40 and 50 years of age, speaks four languages and is known as something of a philosopher.</en>
+      <fr>Ce menuisier a entre 40 <DiscourseConnective annotation_id="19314">et</DiscourseConnective> 50 ans, parle quatre langues <DiscourseConnective annotation_id="19346">et</DiscourseConnective> les gens le considèrent <DiscourseConnective annotation_id="19373">comme</DiscourseConnective> un petit philosophe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16983" docOffset="108">
+      <en>A Europe of people like that would be my ideal.</en>
+      <fr>C'est l'Europe telle <DiscourseConnective annotation_id="19421">que</DiscourseConnective> je la rêve.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17031" id="15" name="Seppänen">
+    <ParallelChunk annotation_id="17031" docOffset="109">
+      <en>Mr President, in Finland we ordinary people say: 'All in the good time of the powers-that-be.'</en>
+      <fr>Monsieur le Président, chez nous en Finlande, les gens ordinaires disent <DiscourseConnective annotation_id="19510">que</DiscourseConnective> les "messieurs" se meuvent avec lenteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17126" docOffset="110">
+      <en>We could say the same in connection with this, <DiscourseConnective annotation_id="17173" sense="Temporal.Synchrony">as</DiscourseConnective> the political balance sheet for the Year of Lifelong Learning (1996) is yet to be reckoned.</en>
+      <fr>C' est un dicton que l' on pourrait employer maintenant aussi : nous avons à examiner les résultats de l' Année européenne de l' éducation et la formation tout au long de la vie, qui date de 1996.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17268" docOffset="111">
+      <en>In spite of the time wasted, the rapporteur regrets that the qualitative assessment of the implementation of the theme year programme is imperfect.</en>
+      <fr>Malgré le temps perdu, le rapporteur doit déplorer <DiscourseConnective annotation_id="19803">que</DiscourseConnective> l' évaluation qualitative du programme de l' année thème est lacunaire !</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17416" docOffset="112">
+      <en>The number of opportunities can surely be counted in a shorter space of time than this.</en>
+      <fr>On devrait pouvoir calculer le nombre de manifestations organisées <DiscourseConnective annotation_id="19947">en</DiscourseConnective> moins de temps <DiscourseConnective annotation_id="19965">que</DiscourseConnective> cela.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17504" docOffset="113">
+      <en>In a seminar on the European paper industry held here in Strasbourg on Wednesday a representative of employees in the industry turned our intention to an important issue.</en>
+      <fr>Lors d' un séminaire sur l' industrie papetière organisé ici <DiscourseConnective annotation_id="20036">à</DiscourseConnective> Strasbourg mercredi, un représentant des travailleurs de la branche a attiré l' attention sur une chose importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17675" docOffset="114">
+      <en>
+        <Alignment alignment="20154" annotation_id="17675">
+          <DiscourseConnective annotation_id="17675" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> we purchase hardware, it is always an investment, <Alignment alignment="20231" annotation_id="17730">
+          <DiscourseConnective annotation_id="17730" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="20236" annotation_id="17734">
+          <DiscourseConnective annotation_id="17734" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we acquire software labelled 'company staff training' , it is not considered to be an investment.</en>
+      <fr>
+        <Alignment alignment="17675" annotation_id="20154">
+          <DiscourseConnective annotation_id="20154" sense="Temporal.Synchrony">Quand</DiscourseConnective>
+        </Alignment> on achète du matériel informatique, c' est toujours un investissement, <Alignment alignment="17730" annotation_id="20231">
+          <DiscourseConnective annotation_id="20231" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="17734" annotation_id="20236">
+          <DiscourseConnective annotation_id="20236" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> on achète quelque chose qui n' est pas du matériel et qui s' appelle "formation du personnel de l' entreprise", ce n' est pas considéré comme un investissement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17837" docOffset="115">
+      <en>The rapporteur has justifiably emphasised this.</en>
+      <fr>L' auteur du rapport a, fort opportunément, insisté justement sur cet aspect.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17885" docOffset="116">
+      <en>Training has to be considered to be an investment and not a running cost.</en>
+      <fr>La formation et l' éducation doivent être considérées comme un investissement, <DiscourseConnective annotation_id="20560">et</DiscourseConnective> non pas <DiscourseConnective annotation_id="20571">comme</DiscourseConnective> des frais courants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17959" docOffset="117">
+      <en>We must stress the importance of the fact that lifelong learning <Alignment alignment="20688" annotation_id="18024">
+          <DiscourseConnective annotation_id="18024" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> involves an all-round educational element and not just a professional one.</en>
+      <fr>Il faut que l' on insiste sur le fait que l' apprentissage tout au long de la vie concerne <Alignment alignment="18024" annotation_id="20688">
+          <DiscourseConnective annotation_id="20688" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> la culture générale, pas seulement la formation professionnelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18104" docOffset="118">
+      <en>Far too often training is too biased in its scope, <Alignment alignment="20835" annotation_id="18155">
+          <DiscourseConnective annotation_id="18155" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is especially true today of information society development.</en>
+      <fr>Bien trop souvent, l' éducation et la formation sont trop peu diversifiées, <Alignment alignment="18155" annotation_id="20835">
+          <DiscourseConnective annotation_id="20835" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c' est particulièrement vrai aujourd' hui dans l' optique du développement de la société de l' information.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18225" docOffset="119">
+      <en>Electronic programs are complicated and get more so all the time.</en>
+      <fr>Les programmes informatiques sont complexes <DiscourseConnective annotation_id="20990">et</DiscourseConnective> deviennent <DiscourseConnective annotation_id="21004">sans</DiscourseConnective> cesse plus complexes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18291" docOffset="120">
+      <en>Those who master the language of software often do not understand the language of its content.</en>
+      <fr>Ceux qui maîtrisent le langage de programmation ne comprennent souvent pas la langue du contenu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18386" docOffset="121">
+      <en>Can I ask something that is being asked in Finland now? A man speaks six languages, <Alignment alignment="21214" annotation_id="18470">
+          <DiscourseConnective annotation_id="18470" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> what has he got to say?</en>
+      <fr>On peut poser la question, comme on le fait <DiscourseConnective annotation_id="21172">en</DiscourseConnective> Finlande : un homme parle six langues, <Alignment alignment="18470" annotation_id="21214">
+          <DiscourseConnective annotation_id="21214" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="21219">qu'</DiscourseConnective> a-t-il <DiscourseConnective annotation_id="21230">à</DiscourseConnective> dire ?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18498" docOffset="122">
+      <en>A person might speak the language of computers in the information society, <Alignment alignment="21321" annotation_id="18573">
+          <DiscourseConnective annotation_id="18573" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> perhaps he has nothing else to say.</en>
+      <fr>Dans la société de l' information, quelqu' un peut parler la langue des machines, <Alignment alignment="18573" annotation_id="21321">
+          <DiscourseConnective annotation_id="21321" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ne rien avoir <DiscourseConnective annotation_id="21340">à</DiscourseConnective> dire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18613" docOffset="123">
+      <en>It is only noughts and ones anyway.</en>
+      <fr>Il n' y a <DiscourseConnective annotation_id="21358">que</DiscourseConnective> des uns <DiscourseConnective annotation_id="21370">et</DiscourseConnective> des zéros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18649" docOffset="124">
+      <en>In this, we are clashing with the eEurope strategy, which the Commission prepared for the Lisbon summit.</en>
+      <fr>Nous nous heurtons sur ce point <DiscourseConnective annotation_id="21416">à</DiscourseConnective> la stratégie pour l'e-Europe, élaborée par la Commission <DiscourseConnective annotation_id="21475">à</DiscourseConnective> l' occasion du sommet de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18754" docOffset="125">
+      <en>Much attention was paid to hardware in it, <Alignment alignment="21570" annotation_id="18797">
+          <DiscourseConnective annotation_id="18797" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> little to that software which we call training software.</en>
+      <fr>Cette stratégie accorde une grande attention au matériel, <Alignment alignment="18797" annotation_id="21570">
+          <DiscourseConnective annotation_id="21570" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> peu d' attention au "logiciel" qu' on appelle "formation et éducation".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18858" docOffset="126">
+      <en>The public must be trained, not only to use computers, but also to use them for their own benefit.</en>
+      <fr>Il faut apprendre aux gens <DiscourseConnective annotation_id="21674">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="21688">à</DiscourseConnective> utiliser les machines, <DiscourseConnective annotation_id="21713">mais aussi</DiscourseConnective> <DiscourseConnective annotation_id="21724">à</DiscourseConnective> les utiliser <DiscourseConnective annotation_id="21739">à</DiscourseConnective> quelque chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18957" docOffset="127">
+      <en>People must know how to use computers for beneficial and essential purposes <DiscourseConnective annotation_id="19033" sense="Contingency.Cause.Result">so</DiscourseConnective> they can improve their own way of working and take better control of their lives.</en>
+      <fr>Il faut savoir utiliser les machines à des fins utiles <DiscourseConnective annotation_id="21811">et</DiscourseConnective> nécessaires, qui améliorent les capacités d' action de l' homme <DiscourseConnective annotation_id="21878">et</DiscourseConnective> la manière dont il gère sa vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19118" docOffset="128">
+      <en>Nowadays, everyone must have the necessary reading and writing skills to use the various forms of electronic media to their advantage.</en>
+      <fr>Toute personne doit aujourd' hui être "alphabétisée" <DiscourseConnective annotation_id="21966">à</DiscourseConnective> utiliser les médias électroniques sous leurs diverses formes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19253" docOffset="129">
+      <en>This new sort of literacy has to be taught to many adults starting at the beginning.</en>
+      <fr>De nombreux adultes devront passer par cette néo-alphabétisation en partant de zéro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19338" docOffset="130">
+      <en>When, under the eEurope programme, the aim is in place to bring a computer cable into every home, that will increase democracy.</en>
+      <fr>Fixer <DiscourseConnective annotation_id="22121">à</DiscourseConnective> un programme communautaire comme objectif d' étendre le câblage informatique dans chaque foyer, c' est augmenter la démocratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19466" docOffset="131">
+      <en>These days, democracy is created by everyone having equal access to a diverse array of information.</en>
+      <fr>Aujourd' hui, la démocratie se réalise <DiscourseConnective annotation_id="22290">par le fait que</DiscourseConnective> tous ont des possibilités égales d' accéder <DiscourseConnective annotation_id="22350">à</DiscourseConnective> un savoir diversifié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19566" docOffset="132">
+      <en>For the information to be fully exploited we have to remember that learning is <Alignment alignment="22481" annotation_id="19645">
+          <DiscourseConnective annotation_id="19645" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a social event.</en>
+      <fr>Si l' on veut que le savoir puisse servir à quelque chose, il ne faut pas oublier <DiscourseConnective annotation_id="22456">que</DiscourseConnective> l' apprentissage est <Alignment alignment="19645" annotation_id="22481">
+          <DiscourseConnective annotation_id="22481" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> un événement social.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19666" docOffset="133">
+      <en>Training cannot be left to depend on the eEurope programme alone: we <Alignment alignment="22610" annotation_id="19735">
+          <DiscourseConnective annotation_id="19735" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> need social communities for it.</en>
+      <fr>On ne peut pas laisser le soin de l' éducation et de la formation au seul programme e-Europe, il faut <Alignment alignment="19735" annotation_id="22610">
+          <DiscourseConnective annotation_id="22610" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="22616">pour</DiscourseConnective> cela des communautés sociales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19772" docOffset="134">
+      <en>
+        <Alignment alignment="22652" annotation_id="19772">
+          <DiscourseConnective annotation_id="19772" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> no one knows everything, an individual must be able to decide for him/herself what is worth knowing.</en>
+      <fr>
+        <Alignment alignment="19772" annotation_id="22652">
+          <DiscourseConnective annotation_id="22652" sense="Temporal.Synchrony">Étant donné que</DiscourseConnective>
+        </Alignment> personne ne peut savoir tout faire, les personnes doivent avoir la capacité de décider elles-mêmes ce qu' il leur est utile de savoir faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19876" docOffset="135">
+      <en>
+        <Alignment alignment="22809" annotation_id="19876">
+          <DiscourseConnective annotation_id="19876" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the state makes that decision it is just a step away from propaganda and indoctrination.</en>
+      <fr>
+        <Alignment alignment="19876" annotation_id="22809">
+          <DiscourseConnective annotation_id="22809" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> ce sont les pouvoirs publics qui en décident, on glisse facilement sur le terrain de la propagande <DiscourseConnective annotation_id="22911">et</DiscourseConnective> de l' endoctrinement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19968" docOffset="136">
+      <en>
+        <Alignment alignment="22936" annotation_id="19968">
+          <DiscourseConnective annotation_id="19968" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> we examine EU programmes, which are often mean the same kind of thing for everyone or contain demands for conformity on the part of everyone, we see we are turning the EU into a totalitarian federation.</en>
+      <fr>
+        <Alignment alignment="19968" annotation_id="22936">
+          <DiscourseConnective annotation_id="22936" sense="Temporal.Synchrony">Si</DiscourseConnective>
+        </Alignment> on étudie les programmes de l' Union européenne, qui sont souvent les mêmes <DiscourseConnective annotation_id="23015">pour</DiscourseConnective> tous <DiscourseConnective annotation_id="23025">ou</DiscourseConnective> qui sont porteurs d' une exigence d' uniformisation <DiscourseConnective annotation_id="23080">pour</DiscourseConnective> tous, on se dit que l' on est en train de faire de l' Union européenne un État fédéral totalitaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20176" docOffset="137">
+      <en>We need lifelong learning and all-round educational knowledge, <Alignment alignment="23246" annotation_id="20239">
+          <DiscourseConnective annotation_id="20239" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can counter the attempt by the European Union to create a European totalitarian state and be its politburo.</en>
+      <fr>Nous avons besoin de l' apprentissage tout au long de la vie <Alignment alignment="20239" annotation_id="23246">
+          <DiscourseConnective annotation_id="23246" sense="Contingency.Cause.Result">pour</DiscourseConnective>
+        </Alignment> pouvoir lutter contre les tentatives de l' Union européenne de créer un État européen totalitaire dont elle serait le Politburo.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20358" id="16" language="DE" name="Rübig">
+    <ParallelChunk annotation_id="20358" docOffset="138">
+      <en>Mr President, ladies and gentlemen, just an hour ago I was still sitting with my French teacher, making a big effort to learn some more French.</en>
+      <fr>Monsieur le Président, Mesdames <DiscourseConnective annotation_id="23412">et</DiscourseConnective> Messieurs, voici une heure, j'étais <DiscourseConnective annotation_id="23451">encore</DiscourseConnective> avec mon professeur de français et je me suis appliqué <DiscourseConnective annotation_id="23513">à</DiscourseConnective> apprendre de nouvelles choses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20502" docOffset="139">
+      <en>I must tell you, it is really fun learning a language.</en>
+      <fr>Je dois <DiscourseConnective annotation_id="23554">dire que</DiscourseConnective> c'est vraiment amusant d'apprendre une langue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20557" docOffset="140">
+      <en>It is good <DiscourseConnective annotation_id="20568" sense="Temporal.Synchrony">when</DiscourseConnective> you know that you do not have to take an examination <Alignment alignment="23676" annotation_id="20626">
+          <DiscourseConnective annotation_id="20626" sense="Temporal.Asynchronous.Precedence">afterwards</DiscourseConnective>
+        </Alignment> but are learning for yourself <Alignment alignment="23752" annotation_id="20667">
+          <DiscourseConnective annotation_id="20667" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in order to communicate with other people and treat them in the right way.</en>
+      <fr>Et c'est agréable de savoir <DiscourseConnective annotation_id="23638">que</DiscourseConnective> l'on ne devra pas passer d'examen <Alignment alignment="20626" annotation_id="23676">
+          <DiscourseConnective annotation_id="23676" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="23684">mais</DiscourseConnective> que l'on apprend <DiscourseConnective annotation_id="23706">pour</DiscourseConnective> soi-même, que l'on apprend <DiscourseConnective annotation_id="23738">à</DiscourseConnective> communiquer <Alignment alignment="20667" annotation_id="23752">
+          <DiscourseConnective annotation_id="23752" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="23755">à</DiscourseConnective> savoir s'y prendre avec les autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20746" docOffset="141">
+      <en>I have to say that I am honestly enjoying learning French</en>
+      <fr>Je dois <DiscourseConnective annotation_id="23801">dire que</DiscourseConnective> l'apprentissage du français m'amuse beaucoup !</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20804" docOffset="142">
+      <en>(The President asked the speaker whether he might not like to continue his speech in French.)</en>
+      <fr>(Le Président demande à l'orateur <DiscourseConnective annotation_id="23891">s'</DiscourseConnective>il souhaite poursuivre son intervention <DiscourseConnective annotation_id="23933">en</DiscourseConnective> français.)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20898" docOffset="143">
+      <en>(Laughter)</en>
+      <fr>(Rires)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20909" docOffset="144">
+      <en>I believe that that is <DiscourseConnective annotation_id="20932" sense="Expansion.Conjunction">also</DiscourseConnective> what we need in the future: for learning to be fun.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="23964">que</DiscourseConnective> c'est ce dont nous avons besoin <DiscourseConnective annotation_id="24000">à</DiscourseConnective> l'avenir : apprendre doit être agréable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20989" docOffset="145">
+      <en>In life, the learning pyramid is, <Alignment alignment="24088" annotation_id="21023">
+          <Alignment alignment="24088" annotation_id="21023">
+            <DiscourseConnective annotation_id="21023" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, turning.</en>
+      <fr>Dans la vie, la pyramide d'apprentissage est <Alignment alignment="21023" annotation_id="24088">
+          <Alignment alignment="21023" annotation_id="24088">
+            <DiscourseConnective annotation_id="24088" sense="Expansion.Restatement">de fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> inversée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21041" docOffset="146">
+      <en>
+        <Alignment alignment="24106" annotation_id="21041">
+          <DiscourseConnective annotation_id="21041" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> it comes to learning, we really used to think of young full-time students, <Alignment alignment="24227" annotation_id="21121">
+          <DiscourseConnective annotation_id="21121" sense="Comparison.Contrast">whereas</DiscourseConnective>
+        </Alignment> now we see that people in employment are having to learn more and more.</en>
+      <fr>
+        <Alignment alignment="21041" annotation_id="24106">
+          <DiscourseConnective annotation_id="24106" sense="Temporal.Synchrony">Lorsqu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="24116">s'</DiscourseConnective>agit de l'éducation et de la formation, nous pensions <DiscourseConnective annotation_id="24172">plutôt</DiscourseConnective> <DiscourseConnective annotation_id="24179">auparavant</DiscourseConnective> <DiscourseConnective annotation_id="24190">à</DiscourseConnective> de jeunes étudiants à temps plein, <Alignment alignment="21121" annotation_id="24227">
+          <DiscourseConnective annotation_id="24227" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment> nous constatons aujourd'hui <DiscourseConnective annotation_id="24265">que</DiscourseConnective> ceux qui exercent une activité professionnelle sont amenés <DiscourseConnective annotation_id="24328">à</DiscourseConnective> apprendre <DiscourseConnective annotation_id="24340">de plus</DiscourseConnective> <DiscourseConnective annotation_id="24348">en plus</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21201" docOffset="147">
+      <en>I believe that we, ourselves, in the European Parliament can confirm that we are actually, day by day, doing more in the way of learning, evaluating and passing judgment than ever we had to do at school or university.</en>
+      <fr>Je crois, et les membres du Parlement européen peuvent le confirmer, <DiscourseConnective annotation_id="24426">que</DiscourseConnective> nous apprenons, apprécions <DiscourseConnective annotation_id="24457">et</DiscourseConnective> évaluons <DiscourseConnective annotation_id="24469">à vrai dire</DiscourseConnective> bien plus chaque jour que nous ne le faisions <DiscourseConnective annotation_id="24527">à</DiscourseConnective> l'école <DiscourseConnective annotation_id="24537">ou</DiscourseConnective> au cours de nos études.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21419" docOffset="148">
+      <en>With increasing age, you <Alignment alignment="24583" annotation_id="21444">
+          <DiscourseConnective annotation_id="21444" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> become more aware of what it is you would like to learn.</en>
+      <fr>Avec l'âge, on est <Alignment alignment="21444" annotation_id="24583">
+          <DiscourseConnective annotation_id="24583" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> davantage conscient de ce que l'on désire apprendre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21506" docOffset="149">
+      <en>You become significantly more selective, <Alignment alignment="24680" annotation_id="21547">
+          <DiscourseConnective annotation_id="21547" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is the very joy of learning that makes you enthusiastic and want to learn new things.</en>
+      <fr>On devient beaucoup plus sélectif <Alignment alignment="21547" annotation_id="24680">
+          <DiscourseConnective annotation_id="24680" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la joie d'apprendre fait <DiscourseConnective annotation_id="24708">que</DiscourseConnective> l'on est enthousiaste <DiscourseConnective annotation_id="24734">et</DiscourseConnective> que l'on accepte volontiers d'apprendre quelque chose de nouveau.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21640" docOffset="150">
+      <en>What we have here, then, is a paradigm shift, not only in the economy, but also in broad strata of society, not only through e-learning and the new opportunities provided by technology, but also through a change in consciousness.</en>
+      <fr>Cela signifie que nous sommes face à un changement de paradigme, pas seulement au niveau économique, <DiscourseConnective annotation_id="24904">mais</DiscourseConnective> dans de larges couches de la société, et pas uniquement via l'e-Learning <DiscourseConnective annotation_id="24982">et</DiscourseConnective> les nouvelles possibilités technologiques <DiscourseConnective annotation_id="25027">mais aussi</DiscourseConnective> grâce à un changement des mentalités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21870" docOffset="151">
+      <en>I believe that this very change in consciousness shows that adults in all walks of life really do consider lifelong learning of this kind to be more and more important.</en>
+      <fr>Selon moi, ce changement des mentalités montre précisément <DiscourseConnective annotation_id="25135">que</DiscourseConnective> les adultes, dans toutes les situations de la vie, accordent <DiscourseConnective annotation_id="25200">de plus</DiscourseConnective> <DiscourseConnective annotation_id="25208">en plus d'</DiscourseConnective>importance à cette éducation et à cette formation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22039" docOffset="152">
+      <en>I <Alignment alignment="25292" annotation_id="22041">
+          <DiscourseConnective annotation_id="22041" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> consider it a very good thing that we in the European Parliament should have a good look at long-term strategic issues of this kind.</en>
+      <fr>
+        <Alignment alignment="22041" annotation_id="25292">
+          <DiscourseConnective annotation_id="25292" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> j'estime que c'est une bonne chose <DiscourseConnective annotation_id="25342">que</DiscourseConnective> nous discutions au sein du Parlement européen de ce genre de thèmes, de stratégies à long terme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22184" docOffset="153">
+      <en>Especially on a Friday like today, it is important, I believe, that we should <DiscourseConnective annotation_id="22262" sense="Expansion.Conjunction">also</DiscourseConnective> have the courage to think in terms of long-term strategy about how we might best provide support to the people of Europe.</en>
+      <fr>Pour un vendredi, <DiscourseConnective annotation_id="25461">comme</DiscourseConnective> c'est le cas précisément aujourd'hui, il est selon moi essentiel <DiscourseConnective annotation_id="25532">que</DiscourseConnective> nous ayons le courage de réfléchir, <DiscourseConnective annotation_id="25572">à</DiscourseConnective> long terme et de façon stratégique, à la meilleure manière de venir en aide aux citoyens européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22389" docOffset="154">
+      <en>Particularly for elderly people, the subject of health becomes increasingly important on into old age.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25674">Pour</DiscourseConnective> les personnes âgées, le thème de la santé occupe une place de plus <DiscourseConnective annotation_id="25746">en plus</DiscourseConnective> importante <DiscourseConnective annotation_id="25765">jusqu'au</DiscourseConnective> grand âge.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22492" docOffset="155">
+      <en>We still have a lot to learn about, <DiscourseConnective annotation_id="22528" sense="Expansion.Instantiation">for example</DiscourseConnective>, how to eat properly <Alignment alignment="25880" annotation_id="22561">
+          <DiscourseConnective annotation_id="22561" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> how to treat our bodies.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="25796">encore</DiscourseConnective> beaucoup de choses <DiscourseConnective annotation_id="25822">à</DiscourseConnective> apprendre sur la manière de nous alimenter correctement <Alignment alignment="22561" annotation_id="25880">
+          <DiscourseConnective annotation_id="25880" sense="Expansion.Conjunction">ou</DiscourseConnective>
+        </Alignment> de prendre soin de notre corps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22590" docOffset="156">
+      <en>I believe that precisely these fundamental virtues are very important for the future.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="25924">que</DiscourseConnective> ces vertus fondamentales sont capitales <DiscourseConnective annotation_id="25968">pour</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22676" docOffset="157">
+      <en>What do we need now at the level of the European Community?</en>
+      <fr>De quoi avons-nous besoin à présent au niveau de la Communauté européenne ?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22736" docOffset="158">
+      <en>We need a general system of accreditation for private, public and in-house education, a European education passport like a European driving licence <DiscourseConnective annotation_id="22884" sense="Contingency.Cause.Result">so that</DiscourseConnective> the building blocks of education can be used and compared throughout Europe.</en>
+      <fr>Nous avons besoin d'un système général d'imputation des offres de formation privées, publiques <DiscourseConnective annotation_id="26154">et</DiscourseConnective> d'entreprises, d'un passeport européen de formation, d'un permis de conduire européen, où l'on puisse utiliser les éléments de la formation de façon similaire sur l'ensemble du territoire européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22969" docOffset="159">
+      <en>We need ways of comparing educational expenditure and revenue throughout Europe, as well as ways of comparing qualifications.</en>
+      <fr>Nous avons besoin de comparer les recettes <DiscourseConnective annotation_id="26398">et</DiscourseConnective> dépenses en matière d'éducation et le niveau de qualification dans toute l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23095" docOffset="160">
+      <en>We should be trying to introduce best practices worldwide as a spur to positive competition.</en>
+      <fr>À l'échelon mondial, nous devrions essayer d'introduire les bonnes pratiques, un stimulant <DiscourseConnective annotation_id="26575">pour</DiscourseConnective> la concurrence positive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23188" docOffset="161">
+      <en>We ought to be learning from the whole world which system <DiscourseConnective annotation_id="23246" sense="Expansion.Conjunction">and</DiscourseConnective> which form of education are best for our people and citizens in Europe.</en>
+      <fr>Nous devrions rechercher dans le monde le système d'éducation ou de formation idéal <DiscourseConnective annotation_id="26689">pour</DiscourseConnective> nos concitoyens européens.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23322" id="17" name="MacCormick">
+    <ParallelChunk annotation_id="23322" docOffset="162">
+      <en>Mr President, I hope I will not strike too discordant a note, <Alignment alignment="26797" annotation_id="23384">
+          <DiscourseConnective annotation_id="23384" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it seems to me this debate has been excessively self-congratulatory so far.</en>
+      <fr>Monsieur le Président, j'espère que mon intervention ne détonnera pas trop, <Alignment alignment="23384" annotation_id="26797">
+          <DiscourseConnective annotation_id="26797" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il me semble que le débat a, jusqu'ici, cédé par trop à l'autosatisfaction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23464" docOffset="163">
+      <en>
+        <Alignment alignment="26878" annotation_id="23464">
+          <DiscourseConnective annotation_id="23464" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> I picked up the agenda and read the phrase 'Year of Lifelong Learning' it seemed to me that this was an oxymoron similar to the phrase 'military intelligence' .</en>
+      <fr>
+        <Alignment alignment="23464" annotation_id="26878">
+          <DiscourseConnective annotation_id="26878" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> j'ai consulté l'ordre du jour <DiscourseConnective annotation_id="26916">et</DiscourseConnective> <DiscourseConnective annotation_id="26919">que</DiscourseConnective> j'y ai lu "Année de l'apprentissage tout au long de la vie", j'ai eu le sentiment de me trouver face <DiscourseConnective annotation_id="27024">à</DiscourseConnective> un oxymoron du style "intelligence militaire".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23630" docOffset="164">
+      <en>A year seems a short time for the project.</en>
+      <fr>Une année me semble bien courte <DiscourseConnective annotation_id="27105">pour</DiscourseConnective> un tel projet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23673" docOffset="165">
+      <en>The question is: how valuable are these 'Year of ...' enterprises <Alignment alignment="27231" annotation_id="23739">
+          <DiscourseConnective annotation_id="23739" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> applications for funding have to be submitted within three months <Alignment alignment="27326" annotation_id="23810">
+          <DiscourseConnective annotation_id="23810" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> everything will have to be carried out in one year.</en>
+      <fr>La question qui se pose est la suivante : quelle peut bien être la valeur de ces "années de x ou de y..." <Alignment alignment="23739" annotation_id="27231">
+          <DiscourseConnective annotation_id="27231" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> l'on sait que les demandes de financement doivent être introduites dans les trois mois <Alignment alignment="23810" annotation_id="27326">
+          <DiscourseConnective annotation_id="27326" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que le projet doit être bouclé <DiscourseConnective annotation_id="27360">en</DiscourseConnective> un an.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23866" docOffset="166">
+      <en>I have been at the receiving end of such systems, both as a university teacher and <Alignment alignment="27454" annotation_id="23949">
+          <DiscourseConnective annotation_id="23949" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I was involved in an educational and social charity.</en>
+      <fr>Je me suis retrouvé en bout de chaîne, lorsque j'étais professeur à l'université <DiscourseConnective annotation_id="27451">et</DiscourseConnective> <Alignment alignment="23949" annotation_id="27454">
+          <DiscourseConnective annotation_id="27454" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> j'étais impliqué dans une association caritative à vocation éducative <DiscourseConnective annotation_id="27532">et</DiscourseConnective> sociale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24007" docOffset="167">
+      <en>From the point of view of people trying to do the job, these challenges, at very short notice and with very little explanation of how applications are to be made <DiscourseConnective annotation_id="24169" sense="Expansion.Conjunction">and</DiscourseConnective> what criteria are to be applied, can do at least as much harm as good.</en>
+      <fr>Ce genre de défi <DiscourseConnective annotation_id="27561">à</DiscourseConnective> très court terme peut faire <DiscourseConnective annotation_id="27591">au moins</DiscourseConnective> <DiscourseConnective annotation_id="27600">autant</DiscourseConnective> de mal que de bien aux personnes actives sur le terrain, qui ne savent généralement pas très bien comment introduire les candidatures ni quels sont les critères appliqués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24244" docOffset="168">
+      <en>One can always point to the fact <Alignment alignment="27779" annotation_id="24277">
+          <DiscourseConnective annotation_id="24277" sense="Temporal.Asynchronous.Precedence">afterwards</DiscourseConnective>
+        </Alignment> that the money was spent <DiscourseConnective annotation_id="24313" sense="Expansion.Conjunction">and</DiscourseConnective> other money came in <Alignment alignment="27881" annotation_id="24337">
+          <DiscourseConnective annotation_id="24337" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that good things have been achieved; <Alignment alignment="27928" annotation_id="24378">
+          <DiscourseConnective annotation_id="24378" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> could things have been done better?</en>
+      <fr>
+        <Alignment alignment="24277" annotation_id="27779">
+          <DiscourseConnective annotation_id="27779" sense="Temporal.Asynchronous.Precedence">Après</DiscourseConnective>
+        </Alignment> coup, on peut toujours <DiscourseConnective annotation_id="27808">dire que</DiscourseConnective> l'argent a été dépensé, que de nouveaux fonds ont été débloqués <Alignment alignment="24337" annotation_id="27881">
+          <DiscourseConnective annotation_id="27881" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="27884">que</DiscourseConnective> des choses positives ont été réalisées, <Alignment alignment="24378" annotation_id="27928">
+          <DiscourseConnective annotation_id="27928" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> auraient-elles pu l'être <DiscourseConnective annotation_id="27958">mieux</DiscourseConnective> ?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24418" docOffset="169">
+      <en>Both the Committee reports - the Committee report and the subsidiary Committee opinion - draw attention to the fact that the assessment methodology used by the Commission was not very exact <Alignment alignment="28178" annotation_id="24608">
+          <DiscourseConnective annotation_id="24608" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the criteria set were not particularly clear.</en>
+      <fr>Le rapport des commissions, à savoir le rapport de la commission elle-même <DiscourseConnective annotation_id="28041">et</DiscourseConnective> l'avis de la commission subsidiaire, ont attiré l'attention sur le caractère approximatif de la méthode d'évaluation de la Commission <Alignment alignment="24608" annotation_id="28178">
+          <DiscourseConnective annotation_id="28178" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> sur le manque de transparence des critères utilisés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24658" docOffset="170">
+      <en>This is not to say we should not do these things, <Alignment alignment="28296" annotation_id="24708">
+          <DiscourseConnective annotation_id="24708" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we should do them better and reflect very carefully on what can best be done at Community level <Alignment alignment="28437" annotation_id="24808">
+          <DiscourseConnective annotation_id="24808" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what at lower levels, not even at Member State level or in autonomous regions within the Member States, but right down at the level of schools, colleges and universities.</en>
+      <fr>Je ne veux pas <DiscourseConnective annotation_id="28249">dire qu'</DiscourseConnective>il faut cesser ce genre d'initiatives, <Alignment alignment="24708" annotation_id="28296">
+          <DiscourseConnective annotation_id="28296" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> qu'il faut améliorer leur mise en uvre <DiscourseConnective annotation_id="28340">et</DiscourseConnective> réfléchir très soigneusement au meilleur niveau d'action, que ce <DiscourseConnective annotation_id="28408">soit</DiscourseConnective> au niveau communautaire <Alignment alignment="24808" annotation_id="28437">
+          <DiscourseConnective annotation_id="28437" sense="Expansion.Conjunction">ou</DiscourseConnective>
+        </Alignment> à d'autres niveaux - pas <DiscourseConnective annotation_id="28465">même</DiscourseConnective> celui des États membres <DiscourseConnective annotation_id="28494">ou</DiscourseConnective> des régions autonomes qui les composent <DiscourseConnective annotation_id="28537">mais</DiscourseConnective> réellement <DiscourseConnective annotation_id="28553">à</DiscourseConnective> la base, dans les écoles, les collèges <DiscourseConnective annotation_id="28594">et</DiscourseConnective> les universités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24983" docOffset="171">
+      <en>My constituency has just come through a serious crisis in its educational assessment, partly due to a lack of proper consultation with classroom teachers.</en>
+      <fr>Ma circonscription vient de surmonter une crise grave d'évaluation éducative, qui est à attribuer partiellement <DiscourseConnective annotation_id="28726">à</DiscourseConnective> l'absence de consultation des enseignants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25138" docOffset="172">
+      <en>Grandiose ideas issued from on high and not adequately and rigorously tested at the sharp end will always fail, sometimes with damaging consequences for individuals and for society.</en>
+      <fr>Les grandes idées imposées par le haut sont vouées à l'échec, si elles ne sont pas testées de façon adéquate <DiscourseConnective annotation_id="28880">et</DiscourseConnective> avec rigueur sur le terrain. Il arrive parfois qu'elles aient des conséquences dramatiques sur les personnes <DiscourseConnective annotation_id="28992">et</DiscourseConnective> sur la société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25320" docOffset="173">
+      <en>Subsidiarity matters, especially in a field like education and lifelong learning, <DiscourseConnective annotation_id="25402" sense="Expansion.Conjunction">and</DiscourseConnective> we forget that at our peril.</en>
+      <fr>Le principe de subsidiarité est important, <DiscourseConnective annotation_id="29054">en particulier</DiscourseConnective> dans un domaine tel que l'éducation <DiscourseConnective annotation_id="29105">et</DiscourseConnective> l'apprentissage tout au long de la vie. Nous avons tendance à l'oublier, <DiscourseConnective annotation_id="29181">à</DiscourseConnective> nos risques et périls.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25435" docOffset="174">
+      <en>Networking can be useful in disseminating ideas for best practice, <Alignment alignment="29292" annotation_id="25502">
+          <DiscourseConnective annotation_id="25502" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we must not delude ourselves that a Year of Lifelong Learning will make a real difference.</en>
+      <fr>La mise en réseau peut être un moyen utile de diffuser des idées de bonnes pratiques, <Alignment alignment="25502" annotation_id="29292">
+          <DiscourseConnective annotation_id="29292" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous ne devons pas croire <DiscourseConnective annotation_id="29323">qu'</DiscourseConnective>une année consacrée <DiscourseConnective annotation_id="29346">à</DiscourseConnective> l'apprentissage tout au long de la vie fera une réelle différence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25597" docOffset="175">
+      <en>That can only come from the commitment of the people on the ground.</en>
+      <fr>Cette différence ne peut venir que de l'engagement des personnes sur le terrain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25665" docOffset="176">
+      <en>Those are the people we must respect and encourage and support.</en>
+      <fr>Et ce sont ces personnes que nous devons respecter, encourager <DiscourseConnective annotation_id="29559">et</DiscourseConnective> soutenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25729" docOffset="177">
+      <en>We are all in favour of lifelong learning, but let us not be too self-congratulatory <DiscourseConnective annotation_id="25814" sense="Temporal.Synchrony">when</DiscourseConnective> the evidence is so thin.</en>
+      <fr>Nous sommes tous <DiscourseConnective annotation_id="29589">en</DiscourseConnective> faveur de l'apprentissage tout au long de la vie, <DiscourseConnective annotation_id="29642">mais</DiscourseConnective>, face à l'insignifiance des résultats, évitons de sombrer dans l'autosatisfaction.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25844" id="18" language="SV" name="Schmid, Herman">
+    <ParallelChunk annotation_id="25844" docOffset="178">
+      <en>Lifelong learning is something we all look upon with the greatest benevolence.</en>
+      <fr>Monsieur le Président, nous envisageons tous avec la plus grande bienveillance le principe d'une formation et d'une éducation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25923" docOffset="179">
+      <en>We can hear that especially from this discussion.</en>
+      <fr>C'est ce <DiscourseConnective annotation_id="29889">que</DiscourseConnective> nous entendons dire, une fois de plus, au cours de cette discussion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25973" docOffset="180">
+      <en>
+        <Alignment alignment="29967" annotation_id="25973">
+          <DiscourseConnective annotation_id="25973" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> it comes to taking action, <DiscourseConnective annotation_id="26005" sense="Comparison.Contrast">however</DiscourseConnective>, the situation is often the reverse.</en>
+      <fr>Mais <Alignment alignment="25973" annotation_id="29967">
+          <DiscourseConnective annotation_id="29967" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="29977">s'</DiscourseConnective>agit de passer à l'action, on constate souvent l'inverse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26050" docOffset="181">
+      <en>I agree with the rapporteur who criticises the Commission' s efforts on behalf of lifelong learning during 1996, the year of the relevant campaign, together with the slipshod evaluation which followed.</en>
+      <fr>Je suis d'accord avec le rapporteur, qui critique les mesures prises dans ce sens par la Commission, lors de l'année de la campagne de 1996, ainsi que l'estimation bâclée qui en a été faite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26252" docOffset="182">
+      <en>Lifelong learning is a phenomenon requiring a lot of resources.</en>
+      <fr>L'apprentissage tout au long de la vie est un phénomène qui exige des moyens importants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26316" docOffset="183">
+      <en>It demands new thinking on educational policy and calls for financial resources to be prioritised.</en>
+      <fr>Il suppose que l'on repense la politique en matière de formation <DiscourseConnective annotation_id="30382">et</DiscourseConnective> qu'on donne la priorité aux ressources financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26415" docOffset="184">
+      <en>Allow me to begin by commenting on the new thinking required.</en>
+      <fr>Je voudrais commenter <DiscourseConnective annotation_id="30459">tout d'abord</DiscourseConnective> la nécessité d'un remodelage éducatif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26477" docOffset="185">
+      <en>In our education systems, we specialise in the contrary, that is to say self-enclosed educational courses, limited by time and with heavy emphasis upon the final examination.</en>
+      <fr>Nos systèmes de formation sont experts dans la poursuite de l'objectif inverse, <DiscourseConnective annotation_id="30591">c'est-à-dire qu'</DiscourseConnective>ils proposent des cursus limités dans le temps <DiscourseConnective annotation_id="30654">et</DiscourseConnective> sanctionnés par un examen final sur lequel est mis l'accent essentiel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26652" docOffset="186">
+      <en>Lifelong learning requires the opposite, namely continuity and courses of long duration.</en>
+      <fr>L'apprentissage tout au long de la vie exige le contraire : à savoir, une continuité <DiscourseConnective annotation_id="30813">et</DiscourseConnective> des cursus de longue durée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26741" docOffset="187">
+      <en>It is no longer enough to educate for the immediate needs of the workplace.</en>
+      <fr>Il ne suffit plus de former la main-d'uvre destinée à couvrir les besoins immédiats, just in time, du marché de l'emploi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26817" docOffset="188">
+      <en>Now, it is a matter of educating people for life.</en>
+      <fr>Il <DiscourseConnective annotation_id="30969">s'</DiscourseConnective>agit à présent de former des personnels qualifiés <DiscourseConnective annotation_id="31021">à</DiscourseConnective> vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26867" docOffset="189">
+      <en>We <Alignment alignment="31039" annotation_id="26870">
+          <DiscourseConnective annotation_id="26870" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> need new forms of organisation in education.</en>
+      <fr>Nous avons <Alignment alignment="26870" annotation_id="31039">
+          <DiscourseConnective annotation_id="31039" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> besoin de nouveaux modes d'organisation de l'enseignement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26925" docOffset="190">
+      <en>We need new educational ideas and tools.</en>
+      <fr>Il nous faut des idées <DiscourseConnective annotation_id="31126">et</DiscourseConnective> des instruments pédagogiques nouveaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26966" docOffset="191">
+      <en>Perhaps the greatest problem is that which many other speakers have raised, namely access to money.</en>
+      <fr>Le problème le plus considérable est peut-être celui <DiscourseConnective annotation_id="31221">qu'</DiscourseConnective>ont évoqué plusieurs autres intervenants, à savoir l'argent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27066" docOffset="192">
+      <en>We need to allocate much greater resources to education than we have done up until now, both to the workplace and to the public education system, as well as to other areas.</en>
+      <fr>Il faudra attribuer <DiscourseConnective annotation_id="31305">à</DiscourseConnective> l'enseignement des moyens beaucoup plus importants <DiscourseConnective annotation_id="31358">que</DiscourseConnective> cela n'a été le cas <DiscourseConnective annotation_id="31382">jusqu'à</DiscourseConnective> présent, et ce aussi bien dans le milieu de travail <DiscourseConnective annotation_id="31442">que</DiscourseConnective> dans le système éducatif public et les autres instances de formation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27239" docOffset="193">
+      <en>There must be money to pay for the costs of education and <Alignment alignment="31591" annotation_id="27297">
+          <DiscourseConnective annotation_id="27297" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> to replace income in the form of wages, especially in the case of those who need to study full-time.</en>
+      <fr>Il faut trouver de l'argent <DiscourseConnective annotation_id="31544">pour</DiscourseConnective> payer le coût de l'enseignement lui-même, <Alignment alignment="27297" annotation_id="31591">
+          <DiscourseConnective annotation_id="31591" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="31602">pour</DiscourseConnective> remplacer les revenus des salariés, <DiscourseConnective annotation_id="31643">notamment</DiscourseConnective> dans le cas des personnes qui doivent étudier <DiscourseConnective annotation_id="31699">à</DiscourseConnective> plein temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27403" docOffset="194">
+      <en>It is especially important to be able to finance the fairly long study periods which may be required <Alignment alignment="31813" annotation_id="27504">
+          <DiscourseConnective annotation_id="27504" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> people are to be able to move from traditional sectors to new areas of the labour market.</en>
+      <fr>Il est particulièrement important de pouvoir financer des cursus assez longs, qui sont nécessaires <Alignment alignment="27504" annotation_id="31813">
+          <DiscourseConnective annotation_id="31813" sense="Contingency.Condition">pour que</DiscourseConnective>
+        </Alignment> les salariés puissent passer des secteurs traditionnels aux nouveaux domaines du marché de l'emploi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27597" docOffset="195">
+      <en>
+        <DiscourseConnective annotation_id="27597" sense="Contingency.Cause.Reason">Because</DiscourseConnective> access to money is always a problem, I think that quantitative objectives are required in connection with expenditure on adult education.</en>
+      <fr>L'accès aux ressources financières posant toujours problème, je pense qu'il est nécessaire d'instaurer, <DiscourseConnective annotation_id="32027">pour</DiscourseConnective> la formation des adultes, des objectifs quantitatifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27743" docOffset="196">
+      <en>Consideration might be given to earmarking a certain proportion of companies' production costs for this purpose, a specific percentage of the State budget, a particular portion of normal working hours or, <DiscourseConnective annotation_id="27948" sense="Contingency.Condition">if</DiscourseConnective> appropriate, a certain number of the individual' s working hours. <Alignment alignment="32345" annotation_id="28017">
+          <DiscourseConnective annotation_id="28017" sense="Expansion.Alternative">Alternatively</DiscourseConnective>
+        </Alignment>, other similar quantitative measures might be made use of.</en>
+      <fr>On pourrait imaginer de consacrer <DiscourseConnective annotation_id="32120">à</DiscourseConnective> cet effet telle ou telle part des coûts de production de l'entreprise, tel pourcentage du budget de l'État, telle part du temps de travail normal des salariés, <DiscourseConnective annotation_id="32282">ou</DiscourseConnective> éventuellement, telle part du temps de travail individuel - <Alignment alignment="28017" annotation_id="32345">
+          <DiscourseConnective annotation_id="32345" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> d'appliquer d'autres objectifs quantitatifs similaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28090" docOffset="197">
+      <en>The Swedish Presidency, which will begin on 1 January 2001, has said that lifelong learning will be one of its priorities.</en>
+      <fr>La présidence suédoise qui débutera le 1er janvier 2001 a déclaré <DiscourseConnective annotation_id="32470">que</DiscourseConnective> la formation et l'éducation tout au long de la vie feraient partie des questions auxquelles elle attribuerait la priorité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28213" docOffset="198">
+      <en>I think we could call upon the Swedish Government to propose just such quantitative objectives for lifelong adult education.</en>
+      <fr>Je pense que nous pourrions demander que le gouvernement suédois propose, justement, des objectifs quantitatifs de ce type applicables à la formation des adultes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28338" docOffset="199">
+      <en>Many speakers here in the Chamber have agreed about the need to set financial priorities.</en>
+      <fr>Plusieurs intervenants dans cette Assemblée ont exprimé leur accord concernant la nécessité d'établir des priorités financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28428" docOffset="200">
+      <en>Perhaps we could issue a joint statement to the Swedish Presidency on this issue.</en>
+      <fr>Peut-être pourrions-nous adresser <DiscourseConnective annotation_id="32923">à</DiscourseConnective> la présidence suédoise une déclaration commune sur cette question.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="28510" id="19" language="DE" name="Posselt">
+    <ParallelChunk annotation_id="28510" docOffset="201">
+      <en>Mr President, one of the most pleasant forms of lifelong learning is membership of the European Parliament and, especially, participation in these Friday sittings at which, for once, you have the time to deal with the reports of colleagues from other specialist fields.</en>
+      <fr>Monsieur le Président, une des plus belles formes d'éducation et de formation tout au long de la vie est d'être membre du Parlement européen. Ceci permet <DiscourseConnective annotation_id="33146">notamment</DiscourseConnective> de prendre part aux séances du vendredi, au cours desquelles on a <DiscourseConnective annotation_id="33222">le temps de</DiscourseConnective> traiter également les rapports de collègues d'autres spécialités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28780" docOffset="202">
+      <en>I hope that a majority of this House will <Alignment alignment="33354" annotation_id="28822">
+          <DiscourseConnective annotation_id="28822" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> learn and not go ahead and abolish these Friday sittings.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="33309">qu'</DiscourseConnective>une majorité de cette Assemblée apprendra <Alignment alignment="28822" annotation_id="33354">
+          <DiscourseConnective annotation_id="33354" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> et refusera la suppression prévue des séances du vendredi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28885" docOffset="203">
+      <en>But now to the subject in hand.</en>
+      <fr>J'en viens à présent au thème <DiscourseConnective annotation_id="33453">même</DiscourseConnective> de cette séance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28917" docOffset="204">
+      <en>Mrs Gutiérrez-Cortines has submitted an excellent report which is <Alignment alignment="33542" annotation_id="28983">
+          <DiscourseConnective annotation_id="28983" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> very critical of the fact that our heads of state and government are constantly making grandiose announcements.</en>
+      <fr>Madame Gutiérrez-Cortines a présenté un excellent rapport, qui est <Alignment alignment="28983" annotation_id="33542">
+          <DiscourseConnective annotation_id="33542" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> très critique <DiscourseConnective annotation_id="33562">parce que</DiscourseConnective> nos chefs d'État <DiscourseConnective annotation_id="33589">et</DiscourseConnective> de gouvernement ne cessent de faire de grandes déclarations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29100" docOffset="205">
+      <en>The Feira Summit was just such an occasion - a pure media event, to use the buzz word. Very little of substance happened, <Alignment alignment="33773" annotation_id="29222">
+          <DiscourseConnective annotation_id="29222" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Le Sommet de Feira fut un événement de ce genre, un événement purement médiatique, comme on le dit si bien aujourd'hui, <Alignment alignment="29222" annotation_id="33773">
+          <DiscourseConnective annotation_id="33773" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> en substance très peu de choses se sont produites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29231" docOffset="206">
+      <en>Little is being provided for in terms of the budget <DiscourseConnective annotation_id="29283" sense="Expansion.Conjunction">and</DiscourseConnective> few resources are available, <DiscourseConnective annotation_id="29316" sense="Contingency.Cause.Reason">because</DiscourseConnective> it is all about appearances.</en>
+      <fr>Peu de choses sont prévues au budget, les moyens sont faibles - l'effet est suffisant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29353" docOffset="207">
+      <en>We need to put an end to this kind of spin.</en>
+      <fr>Nous devons <DiscourseConnective annotation_id="33928">en</DiscourseConnective> finir avec cette politique des déclarations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29397" docOffset="208">
+      <en>I am <Alignment alignment="33976" annotation_id="29402">
+          <DiscourseConnective annotation_id="29402" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> very grateful for the sound report which Mrs Gutiérrez-Cortines has submitted.</en>
+      <fr>
+        <Alignment alignment="29402" annotation_id="33976">
+          <DiscourseConnective annotation_id="33976" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> je suis très reconnaissant du rapport très sérieux présenté par Madame Gutiérrez-Cortines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29491" docOffset="209">
+      <en>One thing, of course, she has quite clearly emphasised is the importance of the subsidiarity principle. <Alignment alignment="34170" annotation_id="29595">
+          <DiscourseConnective annotation_id="29595" sense="Comparison.Concession">Nonetheless</DiscourseConnective>
+        </Alignment>, resources must <Alignment alignment="34194" annotation_id="29623">
+          <DiscourseConnective annotation_id="29623" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be invested at European level.</en>
+      <fr>Elle a bien sûr mis clairement en évidence l'importance du principe de la subsidiarité, <Alignment alignment="29595" annotation_id="34170">
+          <DiscourseConnective annotation_id="34170" sense="Comparison.Concession">mais</DiscourseConnective>
+        </Alignment> des moyens doivent <Alignment alignment="29623" annotation_id="34194">
+          <DiscourseConnective annotation_id="34194" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être mis en uvre au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29659" docOffset="210">
+      <en>Above all, value must be attached to quality in this area, <DiscourseConnective annotation_id="29718" sense="Expansion.Conjunction">and</DiscourseConnective> quality means setting priorities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="34241">À cet égard</DiscourseConnective>, il y a lieu <DiscourseConnective annotation_id="34266">surtout</DiscourseConnective> d'accorder de l'importance <DiscourseConnective annotation_id="34301">à</DiscourseConnective> la qualité, ce qui signifie qu'il faut fixer des priorités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29756" docOffset="211">
+      <en>One of our priorities must be to extend precisely this idea of lifelong learning to people in the candidate States for, in Central and Eastern Europe, a totalitarian system has, for decades, robbed people of the opportunity to develop freely.</en>
+      <fr>Parmi nos priorités, nous devons veiller <DiscourseConnective annotation_id="34404">à</DiscourseConnective> élargir cette idée de l'éducation et de la formation tout au long de la vie aux populations des pays candidats <DiscourseConnective annotation_id="34517">car</DiscourseConnective>, <DiscourseConnective annotation_id="34522">en</DiscourseConnective> Europe centrale <DiscourseConnective annotation_id="34541">et</DiscourseConnective> orientale, pendant des décennies, un régime totalitaire a empêché ces personnes de <DiscourseConnective annotation_id="34627">s'</DiscourseConnective>épanouir librement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29999" docOffset="212">
+      <en>It is a great failing of our strategy that we concentrate very heavily upon young people in these countries.</en>
+      <fr>Une grande erreur de notre politique est de s'attacher surtout aux jeunes de ces pays. C'est important, bien entendu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30108" docOffset="213">
+      <en>It is obviously important to do that as well, <Alignment alignment="34767" annotation_id="30154">
+          <DiscourseConnective annotation_id="30154" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the bulk of people are elderly - elderly people who have to overcome decades of dictatorship <Alignment alignment="34907" annotation_id="30251">
+          <DiscourseConnective annotation_id="30251" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> who are, today, able to make a fresh start.</en>
+      <fr>
+        <Alignment alignment="30154" annotation_id="34767">
+          <DiscourseConnective annotation_id="34767" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, la majeure partie de la population est constituée de personnes d'un certain âge qui doivent surmonter les décennies de dictature <Alignment alignment="30251" annotation_id="34907">
+          <DiscourseConnective annotation_id="34907" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> qui peuvent prendre un nouveau départ aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30299" docOffset="214">
+      <en>This too is something we need to support by making this area a priority.</en>
+      <fr>Nous devons également venir en aide <DiscourseConnective annotation_id="34999">à</DiscourseConnective> ces personnes <DiscourseConnective annotation_id="35015">en</DiscourseConnective> considérant cette problématique comme prioritaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30372" docOffset="215">
+      <en>I should <DiscourseConnective annotation_id="30381" sense="Expansion.Conjunction">also</DiscourseConnective> like to say that, in my view, elderly people in particular, who nowadays still have twenty or thirty productive years in front of them <Alignment alignment="35201" annotation_id="30521">
+          <DiscourseConnective annotation_id="30521" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> they retire, must be able to play an increased part in our society.</en>
+      <fr>Je voudrais ajouter <DiscourseConnective annotation_id="35089">que</DiscourseConnective> ces personnes d'un certain âge, qui disposent aujourd'hui <DiscourseConnective annotation_id="35151">encore</DiscourseConnective> de 20 <DiscourseConnective annotation_id="35164">à</DiscourseConnective> 30 années productives devant elles <Alignment alignment="30521" annotation_id="35201">
+          <DiscourseConnective annotation_id="35201" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> leur mise à la retraite, doivent, selon moi, pouvoir s'intégrer davantage dans notre société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30595" docOffset="216">
+      <en>As a part of this process, there must <DiscourseConnective annotation_id="30633" sense="Expansion.Conjunction">also</DiscourseConnective> be educational opportunities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35301">Pour ce faire</DiscourseConnective>, elles doivent avoir la possibilité de se former.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30668" docOffset="217">
+      <en>I am sorry that, nowadays, the discussion is about increasingly closing the doors of universities to older people, charging fees and ensuring that older people can no longer take an active part in the life of universities.</en>
+      <fr>Je regrette <DiscourseConnective annotation_id="35377">que</DiscourseConnective> l'on envisage aujourd'hui de refuser <DiscourseConnective annotation_id="35418">de plus</DiscourseConnective> en plus l'accès des personnes plus âgées aux universités, que l'on parle de lever des taxes <DiscourseConnective annotation_id="35518">et</DiscourseConnective> de veiller à ce <DiscourseConnective annotation_id="35537">que</DiscourseConnective> ces personnes ne puissent plus prendre part <DiscourseConnective annotation_id="35585">à</DiscourseConnective> la vie universitaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="30891" id="20" name="Iivari">
+    <ParallelChunk annotation_id="30891" docOffset="218">
+      <en>Mr President, Gutiérrez-Cortines' report states that the Union administration' s besetting sin - its slow start to getting measures off the ground - afflicted the theme year of lifelong learning.</en>
+      <fr>Monsieur le Président, le rapport Gutiérrez Cortines constate <DiscourseConnective annotation_id="35671">que</DiscourseConnective> le péché mignon de l' administration de l' Union européenne - la lenteur de la mise en uvre des mesures - a fait sentir ses effets sur l' année thème de l' éducation et la formation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31087" docOffset="219">
+      <en>National coordinating bodies suffered from such matters as materials arriving late and there not being enough of them.</en>
+      <fr>Les organes nationaux de coordination ont eu à souffrir <DiscourseConnective annotation_id="35937">notamment</DiscourseConnective> des retards <DiscourseConnective annotation_id="35959">et</DiscourseConnective> de l' insuffisance de la documentation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31206" docOffset="220">
+      <en>
+        <DiscourseConnective annotation_id="31206" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>, things moved slowly <DiscourseConnective annotation_id="31239" sense="Temporal.Synchrony">when</DiscourseConnective> it came to using the Internet.</en>
+      <fr>L' utilisation de l' Internet a elle aussi connu des problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31275" docOffset="221">
+      <en>That naturally made it hard to implement the theme year programme.</en>
+      <fr>Cela a bien évidemment compliqué la mise en uvre de l' Année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31342" docOffset="222">
+      <en>Unfortunately, the situation appears to be the same with the Socrates programme 2 that has just started.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36128">Malheureusement</DiscourseConnective>, la situation ne semble guère différente en ce qui concerne le programme Socrates II qui vient de débuter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31447" docOffset="223">
+      <en>Messages of concern are coming from national agencies that the agreements between them and the Commission are still not finalised <Alignment alignment="36397" annotation_id="31577">
+          <DiscourseConnective annotation_id="31577" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there is a lack of certainty about payment.</en>
+      <fr>Des messages inquiets proviennent des bureaux nationaux : les accords entre ces bureaux <DiscourseConnective annotation_id="36339">et</DiscourseConnective> la Commission ne sont pas <DiscourseConnective annotation_id="36368">encore</DiscourseConnective> signés définitivement <Alignment alignment="31577" annotation_id="36397">
+          <DiscourseConnective annotation_id="36397" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> aucune certitude n' existe quant aux paiements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31625" docOffset="224">
+      <en>This cannot help but be reflected <DiscourseConnective annotation_id="31659" sense="Expansion.Conjunction">also</DiscourseConnective> in the implementation of the adult education component, Grundvik, which forms part of Socrates.</en>
+      <fr>Cela ne peut pas ne pas avoir de répercussions sur la mise en uvre de la section "Grundvik-formation des adultes" du programme Socrates.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31760" docOffset="225">
+      <en>That is a pity.</en>
+      <fr>C' est dommage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31776" docOffset="226">
+      <en>The administrative problems associated with Socrates have to be resolved swiftly for the Union' s input into lifelong learning to come within reach of the people.</en>
+      <fr>Il faut que les problèmes administratifs de Socrates soient réglés rapidement, afin de pouvoir faire bénéficier les citoyens de l' effort communautaire <DiscourseConnective annotation_id="36753">en</DiscourseConnective> faveur de l' apprentissage tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31939" docOffset="227">
+      <en>Training and education are being seen more and more clearly as European resources.</en>
+      <fr>La formation <DiscourseConnective annotation_id="36820">et</DiscourseConnective> l' apprentissage sont <DiscourseConnective annotation_id="36845">de plus</DiscourseConnective> <DiscourseConnective annotation_id="36853">en plus</DiscourseConnective> nettement considérés <DiscourseConnective annotation_id="36882">comme</DiscourseConnective> une ressource pour l' Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32022" docOffset="228">
+      <en>They do not mean just vital items of expenditure.</en>
+      <fr>Ils ne sont pas seulement synonymes de dépenses obligatoires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32072" docOffset="229">
+      <en>Hopefully the change in attitudes will <Alignment alignment="37073" annotation_id="32111">
+          <DiscourseConnective annotation_id="32111" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be reflected before long in the Union' s budget.</en>
+      <fr>Il faut espérer que ce changement qui s' est produit dans les attitudes se reflétera bientôt <Alignment alignment="32111" annotation_id="37073">
+          <DiscourseConnective annotation_id="37073" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> dans le budget communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32165" docOffset="230">
+      <en>
+        <DiscourseConnective annotation_id="32165" sense="Comparison.Contrast">But</DiscourseConnective> the Year of European Languages, organised for next year, will have to persevere in the same way, appropriations being as meagre <DiscourseConnective annotation_id="32297" sense="Temporal.Synchrony">as</DiscourseConnective> they were with the Year of Lifelong Learning.</en>
+      <fr>L' Année européenne des langues qui sera organisée l' an prochain devra se débrouiller elle aussi avec les mêmes maigres ressources que l' Année de l' éducation et de la formation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32346" docOffset="231">
+      <en>Parliament, <Alignment alignment="37313" annotation_id="32358">
+          <DiscourseConnective annotation_id="32358" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, did its best to establish a legal basis in time for the measures to be effected.</en>
+      <fr>
+        <Alignment alignment="32358" annotation_id="37313">
+          <DiscourseConnective annotation_id="37313" sense="Comparison.Contrast">Pourtant</DiscourseConnective>
+        </Alignment>, le Parlement européen a fait de son <DiscourseConnective annotation_id="37359">mieux</DiscourseConnective> <DiscourseConnective annotation_id="37365">pour que</DiscourseConnective> les mesures soient dotées <DiscourseConnective annotation_id="37400">à</DiscourseConnective> temps d' une base juridique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32448" docOffset="232">
+      <en>
+        <Alignment alignment="37431" annotation_id="32448">
+          <DiscourseConnective annotation_id="32448" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> training comes under the principle of subsidiarity, its European dimension is strengthening all the time.</en>
+      <fr>
+        <Alignment alignment="32448" annotation_id="37431">
+          <DiscourseConnective annotation_id="37431" sense="Comparison.Concession">Bien que</DiscourseConnective>
+        </Alignment> l' éducation et la formation relèvent du principe de subsidiarité, leur dimension européenne ne cesse de se renforcer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32563" docOffset="233">
+      <en>European success in global competition is built on skilled and involved people.</en>
+      <fr>Le succès de l' Europe dans la concurrence mondiale repose sur des personnes capables <DiscourseConnective annotation_id="37645">et</DiscourseConnective> qui participent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32643" docOffset="234">
+      <en>Lifelong learning is essential in the fight against unemployment and exclusion.</en>
+      <fr>L' apprentissage tout au long de la vie occupe une position clé dans la lutte contre le chômage <DiscourseConnective annotation_id="37761">et</DiscourseConnective> l' exclusion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32723" docOffset="235">
+      <en>It is justifiable that the report adopted by the Committee on Culture, Youth, Education, the Media and Sport should contain a request to the Commission to apply the notion of further education, not only at the level of advanced know-how and skills and universities, but also in traditional professions, particularly the craftsmen trades.</en>
+      <fr>Le rapport adopté par la Commission de la culture, de la jeunesse, de l' éducation, des médias <DiscourseConnective annotation_id="37873">et</DiscourseConnective> des sports demande à juste titre à la Commission que la formation continue s' applique tant aux plus hauts niveaux d' excellence <DiscourseConnective annotation_id="38005">et</DiscourseConnective> au monde universitaire qu' <DiscourseConnective annotation_id="38035">à</DiscourseConnective> celui des métiers traditionnels <DiscourseConnective annotation_id="38069">notamment</DiscourseConnective> dans les domaines de l' artisanat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33061" docOffset="236">
+      <en>Lifelong learning, as such, is often seen only as a necessary regeneration of the workforce.</en>
+      <fr>L' éducation et la formation tout au long de la vie ne sont souvent vues que comme un renouvellement intrinsèque et indispensable de la main-d' uvre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33154" docOffset="237">
+      <en>It should, <DiscourseConnective annotation_id="33165" sense="Comparison.Contrast">however</DiscourseConnective>, be a fundamental right of every citizen, leading not just to improved professional skills, but also to human growth, happiness and understanding.</en>
+      <fr>Elles devraient en fait être un droit fondamental de tout citoyen, qui mène <DiscourseConnective annotation_id="38340">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="38354">à</DiscourseConnective> l' amélioration des aptitudes professionnelles, <DiscourseConnective annotation_id="38404">mais aussi</DiscourseConnective> au développement humain, à la joie <DiscourseConnective annotation_id="38450">et</DiscourseConnective> à la compréhension.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33320" docOffset="238">
+      <en>The facilities modern technology offers for learning can be brought within everybody' s reach.</en>
+      <fr>Les moyens technologiques d' aujourd' hui permettent de mettre le savoir à la portée de tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33415" docOffset="239">
+      <en>That opportunity must be taken.</en>
+      <fr>Cette possibilité, il faut l' exploiter.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="33447" id="21" name="Purvis">
+    <ParallelChunk annotation_id="33447" docOffset="240">
+      <en>Mr President, paragraph 16 of Mrs Gutiérrez-Cortines' excellent report calls for training designed to correct school failures.</en>
+      <fr>Monsieur le Président, le paragraphe 16 de l'excellent rapport de Mme Gutiérrez-Cortines préconise la mise en place de formations destinées <DiscourseConnective annotation_id="38748">à</DiscourseConnective> lutter contre l'échec scolaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33574" docOffset="241">
+      <en>It would be far better <DiscourseConnective annotation_id="33597" sense="Contingency.Condition">if</DiscourseConnective> we could avoid that sort of failure.</en>
+      <fr>Ce serait beaucoup <DiscourseConnective annotation_id="38801">mieux</DiscourseConnective> d'éviter ce genre d'échec.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33637" docOffset="242">
+      <en>The saddest case of all is a school leaver with no qualifications to his credit descending into hopelessness.</en>
+      <fr>Il ne peut rien arriver de pire qu'un élève qui quitte l'école <DiscourseConnective annotation_id="38897">sans</DiscourseConnective> qualifications et plein de désillusions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33747" docOffset="243">
+      <en>A situation which becomes sadder and sadder as the occupations available to those with no qualifications become scarcer and scarcer.</en>
+      <fr>Aujourd'hui, cette situation devient d'autant plus grave <DiscourseConnective annotation_id="39000">que</DiscourseConnective> les emplois <DiscourseConnective annotation_id="39016">pour</DiscourseConnective> les personnes non qualifiées se font de plus en plus rares.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33880" docOffset="244">
+      <en>The reason is often that the young teenager is discouraged from learning by the rigidities of an education system that sticks to established lines and tries to fit square pegs into round holes.</en>
+      <fr>La raison de cet échec réside souvent dans le fait <DiscourseConnective annotation_id="39132">que</DiscourseConnective> le jeune adolescent est découragé par la rigidité d'un système éducatif qui reste collé <DiscourseConnective annotation_id="39224">à</DiscourseConnective> une ligne établie <DiscourseConnective annotation_id="39244">et</DiscourseConnective> se révèle inadapté <DiscourseConnective annotation_id="39266">pour</DiscourseConnective> certains.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34074" docOffset="245">
+      <en>I appeal to the Commission to look favourably on a research programme into the use and development of aptitude tests to identify at an early stage - 12 or 13 years old at the latest - what a young person is going to be good at, no matter what that profession, occupation or job may be.</en>
+      <fr>J'invite instamment la Commission <DiscourseConnective annotation_id="39315">à</DiscourseConnective> examiner d'un il favorable la mise en place d'un programme de recherche sur l'utilisation <DiscourseConnective annotation_id="39407">et</DiscourseConnective> l'élaboration de tests d'aptitude destinés <DiscourseConnective annotation_id="39453">à</DiscourseConnective> identifier très tôt, vers 12 <DiscourseConnective annotation_id="39484">ou</DiscourseConnective> 13 ans, les aptitudes du jeune, indépendamment de la profession, du travail <DiscourseConnective annotation_id="39563">ou</DiscourseConnective> de l'emploi visé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34360" docOffset="246">
+      <en>Schools have to respond by providing courses at which young people will succeed.</en>
+      <fr>Les écoles doivent proposer des cours qui garantissent la réussite des jeunes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34441" docOffset="247">
+      <en>Success encourages further ambition.</en>
+      <fr>La réussite encourage l'ambition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34478" docOffset="248">
+      <en>It means satisfied, enthusiastic teenagers instead of discouraged troublemakers.</en>
+      <fr>Les adolescents sont satisfaits et enthousiastes <DiscourseConnective annotation_id="39746">plutôt que d'</DiscourseConnective>être des trublions désabusés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34559" docOffset="249">
+      <en>It means school-leavers with light in their eyes, with excitement about the future, able to contribute to society.</en>
+      <fr>Ceux qui quittent l'école sont pleins d'espoir et n'ont pas peur de l'avenir. Ils sont <DiscourseConnective annotation_id="39876">en</DiscourseConnective> mesure d'apporter leur contribution <DiscourseConnective annotation_id="39915">à</DiscourseConnective> la société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34674" docOffset="250">
+      <en>It means school-leavers with a passport to a better and more fulfilling life.</en>
+      <fr>Ils auront un passeport <DiscourseConnective annotation_id="39953">pour</DiscourseConnective> une vie meilleure <DiscourseConnective annotation_id="39976">et</DiscourseConnective> plus satisfaisante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34752" docOffset="251">
+      <en>Nothing is more vital to the future of Europe than the young people who are going to build that Europe.</en>
+      <fr>Rien n'est plus vital <DiscourseConnective annotation_id="40021">pour</DiscourseConnective> l'avenir de l'Europe <DiscourseConnective annotation_id="40047">que</DiscourseConnective> les jeunes qui vont la bâtir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34856" docOffset="252">
+      <en>There is not one young person who cannot play his part.</en>
+      <fr>Il n'y en a pas un seul qui ne soit pas capable d'apporter sa contribution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34912" docOffset="253">
+      <en>We have to enable this sadly wasted potential to be mobilised and to succeed.</en>
+      <fr>Nous devons mobiliser ce potentiel inutilement gâché <DiscourseConnective annotation_id="40210">et</DiscourseConnective> lui ouvrir la porte de la réussite.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="34990" id="23" name="President">
+    <ParallelChunk annotation_id="34990" docOffset="254">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35012" docOffset="255">
+      <en>We shall now proceed to the vote.</en>
+      <fr>Nous passons <DiscourseConnective annotation_id="40281">maintenant</DiscourseConnective> au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35046" docOffset="256">
+      <en>(Parliament adopted the resolution)</en>
+      <fr>(Le Parlement adopte la résolution)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35082" docOffset="257">
+      <en>Explanations of vote</en>
+      <fr>Explications de vote</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="35103" id="24" language="IT" name="Fatuzzo">
+    <ParallelChunk annotation_id="35103" docOffset="258">
+      <en>Mr President, I voted for this important document, <DiscourseConnective annotation_id="35154" sense="Expansion.Conjunction">and</DiscourseConnective> its importance has been stressed by all the speakers, particularly by Mrs Echerer who said: 'You are never too old to learn', by Mr Posselt, who is so eager to support the elderly that I could give him a Pensioners' Party membership card, and by Commissioner Barnier himself, who has assured us of his strong commitment in this area.</en>
+      <fr>Monsieur le Président, j'ai voté en faveur de ce document essentiel dont l'importance, a été justement soulignée par tous les orateurs, <DiscourseConnective annotation_id="40494">en particulier</DiscourseConnective> par Mme Echerer, qui a dit : "Chaque personne doit apprendre pour elle-même", par M. Posselt, à qui je pourrais donner une carte de membre du parti des retraités, tant il s'est démené <DiscourseConnective annotation_id="40693">pour</DiscourseConnective> venir en aide aux personnes âgées, <DiscourseConnective annotation_id="40733">et</DiscourseConnective> par le commissaire Barnier, qui a assuré un engagement particulier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35492" docOffset="259">
+      <en>
+        <Alignment alignment="40804" annotation_id="35492">
+          <DiscourseConnective annotation_id="35492" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, Mr President, as representative of the Pensioners' Party to the European Parliament, I call for words to be translated into action.</en>
+      <fr>
+        <Alignment alignment="35492" annotation_id="40804">
+          <DiscourseConnective annotation_id="40804" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, Monsieur le Président, en <DiscourseConnective annotation_id="40841">tant que</DiscourseConnective> représentant du parti des retraités au Parlement européen, je souhaiterais qu'on passe des paroles aux actes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35633" docOffset="260">
+      <en>The elderly in the Member States have no opportunity learn, have no help from national states and are not even allowed to use school buildings, which accommodate children in the morning and could accommodate old people in the afternoon.</en>
+      <fr>Les personnes âgées des États membres ne peuvent apprendre, elles ne reçoivent aucune aide de la part des États, elles ne peuvent <DiscourseConnective annotation_id="41090">même</DiscourseConnective> pas utiliser les locaux des écoles qui, le matin, accueillent des enfants et, le soir, pourraient accueillir leurs grands-parents.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="35870" id="25" language="DE" name="Posselt">
+    <ParallelChunk annotation_id="35870" docOffset="261">
+      <en>Mr President, my reference to Communist dictatorships has clearly triggered feelings of great agitation in an MEP from the extreme left.</en>
+      <fr>Monsieur le Président, la référence que j'ai faite aux dictatures communistes a manifestement mis un collègue de l'extrême-gauche dans tous ses états.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36007" docOffset="262">
+      <en>I should <DiscourseConnective annotation_id="36016" sense="Contingency.Cause.Result">therefore</DiscourseConnective> like to say that today' s vote has been very important.</en>
+      <fr>C'est la raison pour laquelle je tenais <DiscourseConnective annotation_id="41417">à</DiscourseConnective> <DiscourseConnective annotation_id="41419">dire que</DiscourseConnective> le vote d'aujourd'hui était très important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36082" docOffset="263">
+      <en>The people in his party, the PDS, are clearly determined not to learn anything new for the rest of their lives.</en>
+      <fr>Les membres de son parti, le PDS, sont apparemment décidés <DiscourseConnective annotation_id="41531">à</DiscourseConnective> ne rien apprendre de plus tout au long de leur vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36194" docOffset="264">
+      <en>I am <DiscourseConnective annotation_id="36199" sense="Contingency.Cause.Result">therefore</DiscourseConnective> very pleased that we have adopted this report by a large majority.</en>
+      <fr>Voilà pourquoi je suis heureux <DiscourseConnective annotation_id="41616">que</DiscourseConnective> nous ayons adopté ce rapport <DiscourseConnective annotation_id="41649">à</DiscourseConnective> une grande majorité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="36276" id="26" language="DE" name="Rübig">
+    <ParallelChunk annotation_id="36276" docOffset="265">
+      <en>Mr President, lifelong learning must be a responsibility not only of the European Commission and the European institutions but also, and especially, of the Member States.</en>
+      <fr>Monsieur le Président, l'éducation et la formation tout au long de la vie ne sont pas uniquement une tâche de la Commission <DiscourseConnective annotation_id="41796">et</DiscourseConnective> des institutions européennes, <DiscourseConnective annotation_id="41829">mais aussi</DiscourseConnective> <DiscourseConnective annotation_id="41840">et</DiscourseConnective> <DiscourseConnective annotation_id="41843">surtout</DiscourseConnective> des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36447" docOffset="266">
+      <en>I voted in favour <Alignment alignment="41904" annotation_id="36465">
+          <DiscourseConnective annotation_id="36465" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I believe that tax advantages for professional and private education must be placed centre-stage <Alignment alignment="42021" annotation_id="36570">
+          <Alignment alignment="42021" annotation_id="36570">
+            <DiscourseConnective annotation_id="36570" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> educational sponsorship, in particular, becomes a possibility, too.</en>
+      <fr>J'ai voté <DiscourseConnective annotation_id="41880">en</DiscourseConnective> faveur de ce rapport <Alignment alignment="36465" annotation_id="41904">
+          <DiscourseConnective annotation_id="41904" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> je crois <DiscourseConnective annotation_id="41923">que</DiscourseConnective> l'avantage fiscal <DiscourseConnective annotation_id="41945">pour</DiscourseConnective> la formation professionnelle <DiscourseConnective annotation_id="41979">et</DiscourseConnective> privée doit occuper une place centrale <Alignment alignment="36570" annotation_id="42021">
+          <Alignment alignment="36570" annotation_id="42021">
+            <DiscourseConnective annotation_id="42021" sense="Contingency.Cause.Result">afin qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>il soit <DiscourseConnective annotation_id="42037">également</DiscourseConnective> possible de parrainer la formation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36646" docOffset="267">
+      <en>Incentives must be created so that, in order to take some of the pressure off the system, foundations can take over educational establishments <Alignment alignment="42204" annotation_id="36789">
+          <DiscourseConnective annotation_id="36789" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> sponsorship can be broadly based.</en>
+      <fr>Il faut créer des mesures d'encouragement <DiscourseConnective annotation_id="42125">pour que</DiscourseConnective> les institutions prennent en charge les établissements d'enseignement <Alignment alignment="36789" annotation_id="42204">
+          <DiscourseConnective annotation_id="42204" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'une promotion soit ainsi possible sur une large base, <DiscourseConnective annotation_id="42264">en vue de</DiscourseConnective> décharger le système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36827" docOffset="268">
+      <en>I <Alignment alignment="42310" annotation_id="36829">
+          <DiscourseConnective annotation_id="36829" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> believe, <Alignment alignment="42296" annotation_id="36843">
+          <DiscourseConnective annotation_id="36843" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that we ought to set an example at European level.</en>
+      <fr>
+        <Alignment alignment="36843" annotation_id="42296">
+          <DiscourseConnective annotation_id="42296" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> je pense <Alignment alignment="36829" annotation_id="42310">
+          <DiscourseConnective annotation_id="42310" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="42316">que</DiscourseConnective> nous devrions servir d'exemple au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36903" docOffset="269">
+      <en>Every year, we ought to devise and evaluate training and further education syllabuses for our officials and politicians to enable us to measure how we are meeting our own needs for professional development.</en>
+      <fr>Chaque année, nous devrions concevoir <DiscourseConnective annotation_id="42409">et</DiscourseConnective> évaluer des programmes d'apprentissage <DiscourseConnective annotation_id="42451">et</DiscourseConnective> de formation permanente <DiscourseConnective annotation_id="42478">pour</DiscourseConnective> nos fonctionnaires <DiscourseConnective annotation_id="42502">et</DiscourseConnective> politiciens, <DiscourseConnective annotation_id="42518">afin que</DiscourseConnective> nous puissions déterminer dans quelle mesure nous nous perfectionnons.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="37110" id="27" language="EL" name="Ályssandrakis">
+    <ParallelChunk annotation_id="37110" docOffset="270">
+      <en>Mr President, the Communist Party of Greece is in favour of a state lifelong learning system, <DiscourseConnective annotation_id="37204" sense="Contingency.Cause.Reason">since</DiscourseConnective> it will give workers the chance to improve their knowledge and professional skills as well as their contribution to society as a whole and their standard of living.</en>
+      <fr>Monsieur le Président, le parti communiste de Grèce est <DiscourseConnective annotation_id="42654">en</DiscourseConnective> faveur d' un système public de formation tout au long de la vie qui donnera la possibilité aux travailleurs d' améliorer leurs connaissances, leurs aptitudes professionnelles et, qui plus est, leur apport à la collectivité <DiscourseConnective annotation_id="42880">et</DiscourseConnective> leur niveau de vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37375" docOffset="271">
+      <en>
+        <Alignment alignment="42903" annotation_id="37375">
+          <DiscourseConnective annotation_id="37375" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the model being promoted by the European Union merely attempts to patch over the shortcomings in an education system which turns out disposable workers who are unable to keep up with developments in the productive process.</en>
+      <fr>
+        <Alignment alignment="37375" annotation_id="42903">
+          <DiscourseConnective annotation_id="42903" sense="Comparison.Contrast">En revanche</DiscourseConnective>
+        </Alignment>, le modèle que préconise l' Union européenne vise <DiscourseConnective annotation_id="42965">simplement</DiscourseConnective> <DiscourseConnective annotation_id="42976">à</DiscourseConnective> combler les lacunes d' un système de formation qui fabrique des travailleurs "jetables", lesquels ne sont pas en mesure de suivre les évolutions du processus de production.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37607" docOffset="272">
+      <en>Workers are forced to pass their entire lives in a vicious circle of work, unemployment, training and so on and so forth.</en>
+      <fr>Le travailleur est contraint toute sa vie de passer par le cercle vicieux "travail, chômage, formation", et <DiscourseConnective annotation_id="43259">ainsi</DiscourseConnective> de suite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37729" docOffset="273">
+      <en>Despite identifying certain shortcomings in the system, Mr Gutiérrez-Cortines' report fails to go far enough in analysing the causes or suggesting remedies, which is why the MEPs of the Communist Party of Greece abstained from the vote.</en>
+      <fr>Le rapport de Mme Gutiérrez-Cortines, <DiscourseConnective annotation_id="43313">bien qu'</DiscourseConnective> il relève certaines déficiences du système, ne va cependant pas assez <DiscourseConnective annotation_id="43392">en</DiscourseConnective> profondeur pour analyser les causes <DiscourseConnective annotation_id="43431">et</DiscourseConnective> proposer des remèdes. Pour ces raisons, nous, eurodéputés du parti communiste de Grèce, nous nous sommes abstenus lors du vote.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="37966" id="28" language="FR" name="Caudron">
+    <ParallelChunk annotation_id="37966" docOffset="274">
+      <en>.</en>
+      <fr>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37968" docOffset="275">
+      <en>(FR) I should like to begin by stressing that access to a good level of education and training is the right of every individual in order to develop his potential and ability to fit into the economic, social and cultural environment.</en>
+      <fr>Je souhaiterais commencer <DiscourseConnective annotation_id="43590">en</DiscourseConnective> rappelant et insistant sur le fait <DiscourseConnective annotation_id="43628">que</DiscourseConnective> l'accès <DiscourseConnective annotation_id="43640">à</DiscourseConnective> un bon niveau d'éducation <DiscourseConnective annotation_id="43668">et</DiscourseConnective> de formation constitue un droit de l'individu <DiscourseConnective annotation_id="43717">pour</DiscourseConnective> le développement de ses potentialités <DiscourseConnective annotation_id="43760">et</DiscourseConnective> son insertion dans le contexte économique, social <DiscourseConnective annotation_id="43813">et</DiscourseConnective> culturel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="38201" docOffset="276">
+      <en>This fundamental fact has fuelled debates at the European Council meetings in Lisbon and Feira.</en>
+      <fr>Cette donnée fondamentale a alimenté les débats lors des Conseils européens de Lisbonne <DiscourseConnective annotation_id="43914">et</DiscourseConnective> de Feira.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="38297" docOffset="277">
+      <en>We further acknowledged that this right must be adapted to cater for the advent of the information society.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="43938">aussi</DiscourseConnective> admis <DiscourseConnective annotation_id="43950">que</DiscourseConnective> ce droit devait être adapté <DiscourseConnective annotation_id="43982">à</DiscourseConnective> l' avènement de la société de l' information.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="38405" docOffset="278">
+      <en>New information and communications technology do indeed have serious repercussions on teaching methodology.</en>
+      <fr>Les nouvelles technologies de l' information <DiscourseConnective annotation_id="44075">et</DiscourseConnective> de la communication ont <DiscourseConnective annotation_id="44102">en effet</DiscourseConnective> des répercussions très importantes sur les modes d' enseignement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="38513" docOffset="279">
+      <en>It is now acknowledged that education and training should be a lifelong process <DiscourseConnective annotation_id="38593" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="38597" sense="Contingency.Cause.Result">so</DiscourseConnective>, throughout these summit meetings, the Commission and the Member States have been encouraged to define coherent strategies and practical measures in order to make lifelong education and training accessible to all.</en>
+      <fr>Il est reconnu <DiscourseConnective annotation_id="44192">qu'</DiscourseConnective> à présent l' éducation <DiscourseConnective annotation_id="44219">et</DiscourseConnective> la formation doivent se faire tout au long de la vie. C' est pourquoi au cours de ces Sommets, la Commission <DiscourseConnective annotation_id="44331">et</DiscourseConnective> les États membres ont été invités <DiscourseConnective annotation_id="44368">à</DiscourseConnective> définir des stratégies cohérentes <DiscourseConnective annotation_id="44404">et</DiscourseConnective> des mesures pratiques <DiscourseConnective annotation_id="44429">pour</DiscourseConnective> rendre l'éducation <DiscourseConnective annotation_id="44453">et</DiscourseConnective> la formation tout au long de la vie accessibles <DiscourseConnective annotation_id="44504">à</DiscourseConnective> tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="38814" docOffset="280">
+      <en>Some parties had, <Alignment alignment="44540" annotation_id="38832">
+          <DiscourseConnective annotation_id="38832" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, begun to consider this subject well before that, <Alignment alignment="44568" annotation_id="38890">
+          <DiscourseConnective annotation_id="38890" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment>, even in 1996, the Commission proposed to the Council and to Parliament that the year 1996 be declared the 'European Year of Lifelong Learning' .</en>
+      <fr>La réflexion sur ce thème a <Alignment alignment="38832" annotation_id="44540">
+          <DiscourseConnective annotation_id="44540" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> débuté bien <DiscourseConnective annotation_id="44562">avant</DiscourseConnective> <Alignment alignment="38890" annotation_id="44568">
+          <DiscourseConnective annotation_id="44568" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> dès 1996, la Commission a proposé au Conseil <DiscourseConnective annotation_id="44621">et</DiscourseConnective> au Parlement européen de proclamer 1996 "Année européenne de l'éducation et de la formation tout au long de la vie".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39042" docOffset="281">
+      <en>The purpose of this year was to make European citizens aware of new concepts in academic and vocational education and to conduct joint discussions with all the operators involved in the role and the stakes of education and training at the dawn of the twenty-first century.</en>
+      <fr>Le but de l'Année était de sensibiliser les citoyens à de nouveaux concepts <DiscourseConnective annotation_id="44817">en</DiscourseConnective> matière d'enseignement académique <DiscourseConnective annotation_id="44854">et</DiscourseConnective> professionnel <DiscourseConnective annotation_id="44871">et</DiscourseConnective> de procéder, avec tous les acteurs concernés, à une réflexion d'ensemble sur le rôle <DiscourseConnective annotation_id="44959">et</DiscourseConnective> les enjeux de l'éducation <DiscourseConnective annotation_id="44988">et</DiscourseConnective> de la formation <DiscourseConnective annotation_id="45007">à</DiscourseConnective> l'aube du XXIe siècle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39315" docOffset="282">
+      <en>Given the high stakes involved, I can only, like our rapporteur, deplore the fact that the budget for the European Year of Lifelong Learning was limited to EUR 8.4 million for the fifteen Member States and their three partners in the EEA.</en>
+      <fr>Vu l' ampleur des enjeux, je ne peux cependant que regretter, à l' instar de Mme le rapporteur, <DiscourseConnective annotation_id="45128">que</DiscourseConnective> le budget de l' Année européenne ait été limité <DiscourseConnective annotation_id="45180">à</DiscourseConnective> 8,4 millions d' euros <DiscourseConnective annotation_id="45204">pour</DiscourseConnective> les quinze États membres <DiscourseConnective annotation_id="45234">et</DiscourseConnective> leurs trois partenaires de l' EEE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39554" docOffset="283">
+      <en>By the same token, we must deplore the flagrant lack of qualitative data in the Commission report.</en>
+      <fr>Dans le <DiscourseConnective annotation_id="45280">même</DiscourseConnective> sens, il nous faut déplorer l' absence flagrante de données qualitatives dans le rapport de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39653" docOffset="284">
+      <en>The Commission should <Alignment alignment="45412" annotation_id="39675">
+          <DiscourseConnective annotation_id="39675" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> improve the quality of its reports in future.</en>
+      <fr>Cette dernière doit <Alignment alignment="39675" annotation_id="45412">
+          <DiscourseConnective annotation_id="45412" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> améliorer dans l' avenir la qualité de ses rapports d' évaluation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39731" docOffset="285">
+      <en>In future programmes, their work should concentrate on defining with greater precision the various concepts and aspects of vocational and lifelong training.</en>
+      <fr>Son action devra se concentrer sur la définition, de manière plus précise dans les prochains programmes, des différents concepts <DiscourseConnective annotation_id="45613">et</DiscourseConnective> aspects de la formation professionnelle <DiscourseConnective annotation_id="45656">et</DiscourseConnective> de la formation tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39888" docOffset="286">
+      <en>They should <Alignment alignment="45710" annotation_id="39900">
+          <DiscourseConnective annotation_id="39900" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> speedily implement action programmes and specific measures in the context of a lifelong education and training strategy.</en>
+      <fr>Elle devra <Alignment alignment="39900" annotation_id="45710">
+          <DiscourseConnective annotation_id="45710" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> mettre rapidement en uvre des programmes d' actions <DiscourseConnective annotation_id="45772">et</DiscourseConnective> des mesures spécifiques, dans le cadre d'une stratégie d' éducation <DiscourseConnective annotation_id="45843">et</DiscourseConnective> d' apprentissage tout au long de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="40026" docOffset="287">
+      <en>The implementation of such measures must be coordinated with the Socrates II and Leonardo programmes.</en>
+      <fr>Ces mesures doivent être prises en coordination avec les programmes Socrates II <DiscourseConnective annotation_id="45967">et</DiscourseConnective> Leonardo.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="40128" docOffset="288">
+      <en>It is up to us to ensure that all citizens can benefit from this training in new technologies, <Alignment alignment="46100" annotation_id="40223">
+          <DiscourseConnective annotation_id="40223" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> there is a great danger of seeing a 'digital divide' being established between the men and women who have the means to access this technology and those who do not.</en>
+      <fr>Il nous incombe de veiller à ce <DiscourseConnective annotation_id="46012">que</DiscourseConnective> tous les citoyens puissent bénéficier de cette formation aux nouvelles technologies <Alignment alignment="40223" annotation_id="46100">
+          <DiscourseConnective annotation_id="46100" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> le risque est grand de voir se creuser une "fracture numérique" entre ceux <DiscourseConnective annotation_id="46179">et</DiscourseConnective> celles qui ont les moyens d' y accéder <DiscourseConnective annotation_id="46221">et</DiscourseConnective> les autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="40390" docOffset="289">
+      <en>The entire debate on the place of universal public service in new telecommunications networks is <Alignment alignment="46243" annotation_id="40487">
+          <DiscourseConnective annotation_id="40487" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> involved.</en>
+      <fr>C' est <Alignment alignment="40487" annotation_id="46243">
+          <DiscourseConnective annotation_id="46243" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> tout le débat sur la place du service universel dans les nouveaux réseaux de télécommunications.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="40502" id="29" name="President">
+    <ParallelChunk annotation_id="40502" docOffset="290">
+      <en>Thank you, Mr Alyssandrakis.</en>
+      <fr>Merci, Monsieur Alyssandrakis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="40531" docOffset="291">
+      <en>Adjournment of the session</en>
+      <fr>Interruption de la session</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="40558" id="30" name="President">
+    <ParallelChunk annotation_id="40558" docOffset="292">
+      <en>I declare the session of the European Parliament adjourned.</en>
+      <fr>Je déclare interrompue la session du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="40618" docOffset="293">
+      <en>(The sitting was closed at 10.10 a.m.)</en>
+      <fr>(La séance est levée <DiscourseConnective annotation_id="46482">à</DiscourseConnective> 10h10)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

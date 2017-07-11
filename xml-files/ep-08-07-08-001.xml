@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 9.00 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 9 heures.)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="61" id="005" name="Carl Schlyter">
+    <ParallelChunk annotation_id="61" docOffset="2">
+      <en>(SV) Mr President, <Alignment alignment="277777" annotation_id="80">
+          <DiscourseConnective annotation_id="80" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you went into the corridors of Parliament yesterday you would have seen a great many stickers from the lobbyists' organisation of the European chemical industry on the floor, <DiscourseConnective annotation_id="258" sense="Expansion.Conjunction">and</DiscourseConnective> some of them are still there today.</en>
+      <fr>(SV) Monsieur le Président, <Alignment alignment="881" annotation_id="87">
+          <DiscourseConnective annotation_id="87" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> vous avez parcouru les couloirs du Parlement hier, vous avez dû voir que le sol était parsemé d'autocollants émanant du lobby de l'industrie chimique européenne; d'ailleurs, il en reste <DiscourseConnective annotation_id="276">encore</DiscourseConnective> plusieurs aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="298" docOffset="3">
+      <en>I wonder whether the quaestors, <Alignment alignment="282980" annotation_id="330">
+          <DiscourseConnective annotation_id="330" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they gave permission for the exhibition, authorised the organisation to spread stickers everywhere on our floors.</en>
+      <fr>Je me demande <DiscourseConnective annotation_id="320">si</DiscourseConnective>, <Alignment alignment="116" annotation_id="324">
+          <DiscourseConnective annotation_id="324" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> autorisant cette exposition, les questeurs ont également donné la permission à cette organisation de répandre des autocollants partout sur le sol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="449" docOffset="4">
+      <en>
+        <Alignment alignment="474" annotation_id="449">
+          <DiscourseConnective annotation_id="449" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> that is the case, I think it was an incorrect decision.</en>
+      <fr>
+        <Alignment alignment="449" annotation_id="474">
+          <DiscourseConnective annotation_id="474" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> c'est le cas, je pense que c'était une mauvaise décision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="508" docOffset="5">
+      <en>
+        <Alignment alignment="1983" annotation_id="508">
+          <DiscourseConnective annotation_id="508" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the quaestors did not give any such permission, I think that Cefic has clearly breached its undertakings as a lobbyist and should <Alignment alignment="698" annotation_id="641">
+          <DiscourseConnective annotation_id="641" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> have its access pass withdrawn or at least receive a harsh reprimand.</en>
+      <fr>En revanche, <Alignment alignment="452" annotation_id="548">
+          <DiscourseConnective annotation_id="548" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les questeurs n'ont jamais donné cette permission, j'estime que le Cefic a clairement rompu ses engagements en <DiscourseConnective annotation_id="662">tant que</DiscourseConnective> lobbyiste <DiscourseConnective annotation_id="681">et</DiscourseConnective> qu'il devrait <Alignment alignment="641" annotation_id="698">
+          <DiscourseConnective annotation_id="698" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> se voir retirer son titre d'accès <DiscourseConnective annotation_id="747">ou</DiscourseConnective> <DiscourseConnective annotation_id="750">au moins</DiscourseConnective> recevoir une sévère admonestation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="721" docOffset="6">
+      <en>I hope you can look into what actually happened and ensure that all these stickers are removed immediately.</en>
+      <fr>J'espère que vous pourrez découvrir ce qui s'est réellement passé <DiscourseConnective annotation_id="860">et</DiscourseConnective> veiller à ce <DiscourseConnective annotation_id="876">que</DiscourseConnective> ces autocollants soient tous retirés immédiatement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="829" id="006" name="President">
+    <ParallelChunk annotation_id="829" docOffset="7">
+      <en>Fine, we shall look into the matter, Mr Schlyter.</en>
+      <fr>C'est entendu, nous examinerons cette affaire, M. Schlyter.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

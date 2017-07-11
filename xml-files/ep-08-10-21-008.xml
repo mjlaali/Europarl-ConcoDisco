@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="126" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is Voting Time.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+      <en>(For results and other details of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="89">et</DiscourseConnective> autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="99" id="127" name="Jan Andersson">
+    <ParallelChunk annotation_id="99" docOffset="3">
+      <en>rapporteur. - (SV) Madam President, we are now running late.</en>
+      <fr>rapporteur. - (SV) Madame la Présidente, il se fait tard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="160" docOffset="4">
+      <en>We have a lot of reports to debate, <Alignment alignment="229699" annotation_id="196">
+          <DiscourseConnective annotation_id="196" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the report that I am responsible for is last on the voting list.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="212">à</DiscourseConnective> débattre d'une masse de rapports <Alignment alignment="196" annotation_id="247">
+          <DiscourseConnective annotation_id="247" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le rapport dont je suis responsable est le dernier sur la liste de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="265" docOffset="5">
+      <en>
+        <Alignment alignment="323" annotation_id="265">
+          <DiscourseConnective annotation_id="265" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> it is possible that a lot of Members will leave the House, I would like us to postpone the vote on the Andersson report until tomorrow.</en>
+      <fr>
+        <Alignment alignment="265" annotation_id="323">
+          <DiscourseConnective annotation_id="323" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> il se peut <DiscourseConnective annotation_id="340">que</DiscourseConnective> de nombreux députés quittent l'Assemblée, je voudrais que nous reportions à demain le vote sur le rapport Andersson.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="404" docOffset="6">
+      <en>I <Alignment alignment="236822" annotation_id="406">
+          <DiscourseConnective annotation_id="406" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> wish to hear whether the other political groups support it.</en>
+      <fr>Je veux <Alignment alignment="773" annotation_id="469">
+          <DiscourseConnective annotation_id="469" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> entendre <DiscourseConnective annotation_id="488">si</DiscourseConnective> les autres groupes politiques le soutiennent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="471" docOffset="7">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="482" id="128" name="President">
+    <ParallelChunk annotation_id="482" docOffset="8">
+      <en>That seems reasonable to me.</en>
+      <fr>Cette requête me semble raisonnable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="511" docOffset="9">
+      <en>Are there any objections?</en>
+      <fr>Y a-t-il des objections?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="537" docOffset="10">
+      <en>That is the decision, then.</en>
+      <fr>
+        <DiscourseConnective annotation_id="618">Dans ce cas</DiscourseConnective>, la demande est acceptée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="565" docOffset="11">
+      <en>(The vote on the Andersson report is postponed until 22 October 2008)</en>
+      <fr>(Le vote sur le rapport Andersson est reporté au 22 octobre 2008)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

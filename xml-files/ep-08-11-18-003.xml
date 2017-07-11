@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Decision on urgent procedure</en>
+    <fr>Décision sur l'urgence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="29" id="008" language="FR" name="Pervenche Berès">
+    <ParallelChunk annotation_id="29" docOffset="1">
+      <en>Madam President, this discussion will take place this evening, <Alignment alignment="153" annotation_id="92">
+          <DiscourseConnective annotation_id="92" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the plenary votes in favour of the urgent procedure on this issue.</en>
+      <fr>présidente de la commission des affaires économiques et monétaires. - Madame la Présidente, nous aurons cette discussion ce soir, <Alignment alignment="373" annotation_id="153">
+          <DiscourseConnective annotation_id="153" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> la plénière veut bien accepter l'urgence sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="162" docOffset="2">
+      <en>This is an amendment to European legislation that enables us to grant facilities for balances of payments, for countries outside the euro zone.</en>
+      <fr>Il <DiscourseConnective annotation_id="220">s'</DiscourseConnective>agit <DiscourseConnective annotation_id="227">en effet</DiscourseConnective> de modifier la réglementation européenne qui nous permet d'accorder des facilités en termes de balance des paiements <DiscourseConnective annotation_id="353">pour</DiscourseConnective> les pays en dehors de la zone euro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="306" docOffset="3">
+      <en>
+        <Alignment alignment="394" annotation_id="306">
+          <DiscourseConnective annotation_id="306" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> we are all aware, the issue at hand is that of Hungary <Alignment alignment="477" annotation_id="364">
+          <DiscourseConnective annotation_id="364" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, unfortunately, I believe that we must look ahead and <Alignment alignment="8" annotation_id="422">
+          <DiscourseConnective annotation_id="422" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> enhance this facility of the European Union to provide assistance to its Member States, including those that lie outside the euro zone.</en>
+      <fr>
+        <Alignment alignment="306" annotation_id="394">
+          <DiscourseConnective annotation_id="394" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> nous le savons tous, l'actualité porte aujourd'hui sur la question hongroise <Alignment alignment="364" annotation_id="477">
+          <DiscourseConnective annotation_id="477" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="483">malheureusement</DiscourseConnective>, je crois <DiscourseConnective annotation_id="509">que</DiscourseConnective> nous devons prévoir l'avenir <DiscourseConnective annotation_id="542">et</DiscourseConnective> <Alignment alignment="422" annotation_id="545">
+          <DiscourseConnective annotation_id="545" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> renforcer cette facilité de soutien de l'Union européenne à ses États membres, y compris à ceux qui sont en dehors de la zone euro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="568" docOffset="4">
+      <en>I would <Alignment alignment="1329" annotation_id="576">
+          <DiscourseConnective annotation_id="576" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask the plenary assembly to kindly vote in favour of this urgent procedure.</en>
+      <fr>Je demande <Alignment alignment="576" annotation_id="693">
+          <DiscourseConnective annotation_id="693" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> à l'Assemblée plénière de bien vouloir accepter de voter cette urgence.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

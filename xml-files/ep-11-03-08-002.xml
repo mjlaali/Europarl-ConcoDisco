@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="006" name="President">
+    <ParallelChunk annotation_id="23" docOffset="1">
+      <en>Good morning, ladies and gentlemen.</en>
+      <fr>Bonjour, Mesdames <DiscourseConnective annotation_id="41">et</DiscourseConnective> Messieurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="59" docOffset="2">
+      <en>Today, 8 March, is International Women's Day.</en>
+      <fr>Aujourd'hui, le 8 mars, est la Journée internationale de la femme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="105" docOffset="3">
+      <en>Parliament has planned numerous events.</en>
+      <fr>Le Parlement a organisé de nombreux événements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="145" docOffset="4">
+      <en>This is an opportunity for us to join in the celebrations of the centenary of this day and to express our thoughts on what women have achieved <Alignment alignment="318" annotation_id="288">
+          <DiscourseConnective annotation_id="288" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what still remains to be done.</en>
+      <fr>Il <DiscourseConnective annotation_id="173">s'</DiscourseConnective>agit d'une occasion de nous joindre aux célébrations du centenaire de cette Journée <DiscourseConnective annotation_id="259">et</DiscourseConnective> d'exprimer nos réflexions sur ce que les femmes ont obtenu <Alignment alignment="288" annotation_id="321">
+          <DiscourseConnective annotation_id="321" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> sur ce qu'il reste <DiscourseConnective annotation_id="343">à</DiscourseConnective> faire.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

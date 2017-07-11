@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="025" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I am pleased to welcome the Chairman of the Mexican Senate's Committee on External Relations, who is in the official guests' gallery.</en>
+      <fr>J'ai le grand plaisir d'accueillir parmi nous le président du comité des affaires étrangères du sénat mexicain, qui vient de prendre place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="142" docOffset="2">
+      <en>Welcome, Senator.</en>
+      <fr>Soyez le, Monsieur le Sénateur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="160" docOffset="3">
+      <en>We wish you a happy and fruitful stay with us.</en>
+      <fr>Nous vous souhaitons un séjour agréable <DiscourseConnective annotation_id="261">et</DiscourseConnective> fructueux parmi nous.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

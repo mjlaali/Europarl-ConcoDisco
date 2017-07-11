@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Malaysia: the practice of caning (</en>
+    <fr>Malaisie: pratique des peines de bastonnade (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="38" id="327" name="Cristian Dan Preda">
+    <ParallelChunk annotation_id="38" docOffset="2">
+      <en>(RO) Mr President, <Alignment alignment="77" annotation_id="57">
+          <DiscourseConnective annotation_id="57" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we proceed to the vote, I would like to request on behalf of my group that <Alignment alignment="714" annotation_id="139">
+          <DiscourseConnective annotation_id="139" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we vote on the situation of Eritrean refugees, we abandon the roll call vote for a joint resolution and request a roll call vote for the resolution proposed by the Group of the European People's Party (Christian Democrats).</en>
+      <fr>(RO) Monsieur le Président, <Alignment alignment="57" annotation_id="77">
+          <DiscourseConnective annotation_id="77" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> passer au vote, je voudrais demander, au nom de mon groupe, <DiscourseConnective annotation_id="146">qu'</DiscourseConnective>
+        <Alignment alignment="139" annotation_id="149">
+          <DiscourseConnective annotation_id="149" sense="Temporal.Synchrony">au moment de</DiscourseConnective>
+        </Alignment> voter sur la situation des réfugiés érythréens, nous abandonnions le vote par appel nominal sur une résolution commune <DiscourseConnective annotation_id="281">et</DiscourseConnective> demandions un vote par appel nominal sur la résolution proposée par le groupe du Parti populaire européen (Démocrates-Chrétiens).</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="368" id="328" name="President">
+    <ParallelChunk annotation_id="368" docOffset="3">
+      <en>You have heard your fellow Member's request.</en>
+      <fr>Vous avez entendu la requête de votre collègue député.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="413" docOffset="4">
+      <en>
+        <Alignment alignment="469" annotation_id="413">
+          <DiscourseConnective annotation_id="413" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there are no objections, we shall proceed <DiscourseConnective annotation_id="458" sense="Temporal.Synchrony">as</DiscourseConnective> suggested.</en>
+      <fr>
+        <Alignment alignment="413" annotation_id="469">
+          <DiscourseConnective annotation_id="469" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il n'y a pas d'objections, nous allons suivre cette suggestion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="472" docOffset="5">
+      <en>I see no objections.</en>
+      <fr>Je ne vois pas d'objections.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Cuba (vote)</en>
+    <fr>Cuba (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="15" docOffset="2">
+    <en>- Joint motion for a resolution</en>
+    <fr>- Proposition de résolution commune</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="47" docOffset="3">
+    <en>Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="51">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="64" id="201" name="Marco Cappato">
+    <ParallelChunk annotation_id="64" docOffset="4">
+      <en>Madam President, I have two oral amendments.</en>
+      <fr>(EN) Madame la Présidente, j'ai deux amendements oraux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="109" docOffset="5">
+      <en>One is to insert a recital Ia <Alignment alignment="160" annotation_id="139">
+          <DiscourseConnective annotation_id="139" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> follows: 'regretting the United Nations Human Rights Council decision to discontinue moratorium human rights abuses in Cuba'.</en>
+      <fr>L'un vise <DiscourseConnective annotation_id="132">à</DiscourseConnective> insérer un considérant Ia <Alignment alignment="22" annotation_id="160">
+          <DiscourseConnective annotation_id="160" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> suit: "regrettant la décision du Conseil des Nations unies pour les droits de l'homme de mettre fin au moratoire sur les violations des droits de l'homme <DiscourseConnective annotation_id="320">à</DiscourseConnective> Cuba".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="268" docOffset="6">
+      <en>(The House agreed to the oral amendment)</en>
+      <fr>(Le Parlement adopte l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="309" id="203" name="Marco Cappato">
+    <ParallelChunk annotation_id="309" docOffset="7">
+      <en>Madam President, I should like to add the following new paragraph after paragraph 15: 'Condemns any policy of sexual discrimination and repression, such as the one until now effective in Cuba, and welcomes the educational campaigns on sexual discrimination that are currently implemented by the National Centre for Sex Education of Cuba'.</en>
+      <fr>(EN) Madame la Présidente, je voudrais ajouter le nouveau paragraphe suivant <DiscourseConnective annotation_id="446">après</DiscourseConnective> le paragraphe 15: "Condamne toute politique de discrimination <DiscourseConnective annotation_id="514">et</DiscourseConnective> de répression sexuelle telle <DiscourseConnective annotation_id="546">que</DiscourseConnective> celle qui est appliquée <DiscourseConnective annotation_id="574">jusqu'à</DiscourseConnective> ce jour <DiscourseConnective annotation_id="590">à</DiscourseConnective> Cuba, <DiscourseConnective annotation_id="598">et</DiscourseConnective> salue les campagnes d'éducation sur la discrimination sexuelle mises en œuvre actuellement par le centre national d'éducation sexuelle de Cuba".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="648" docOffset="8">
+      <en>(The House agreed to the oral amendment)</en>
+      <fr>(Le Parlement adopte l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

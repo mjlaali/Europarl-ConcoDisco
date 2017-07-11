@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>15.</en>
+    <fr>15.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Estimates of revenue and expenditure for the year 2011 - Section I - Parliament (</en>
+    <fr>État prévisionnel des recettes <DiscourseConnective annotation_id="35">et</DiscourseConnective> des dépenses <DiscourseConnective annotation_id="51">pour</DiscourseConnective> l'exercice 2011 - Section I - Parlement (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="86" docOffset="2">
+    <en>Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="100">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="103" id="122" name="Jutta Haug">
+    <ParallelChunk annotation_id="103" docOffset="3">
+      <en>(DE) Madam President, it is a little unusual, <Alignment alignment="166" annotation_id="149">
+          <DiscourseConnective annotation_id="149" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I must inform my own group that our voting list for the Trüpel report is not correct in the form that we have laid it down.</en>
+      <fr>(DE) Madame la Présidente, c'est un peu inhabituel, <Alignment alignment="149" annotation_id="166">
+          <DiscourseConnective annotation_id="166" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je dois informer mon groupe <DiscourseConnective annotation_id="199">que</DiscourseConnective> la liste de vote <DiscourseConnective annotation_id="220">que</DiscourseConnective> nous avons élaborée <DiscourseConnective annotation_id="244">pour</DiscourseConnective> le rapport Trüpel n'est pas correcte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="277" docOffset="4">
+      <en>There has been a misunderstanding.</en>
+      <fr>Il y a eu un malentendu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="312" docOffset="5">
+      <en>We reject all the amendments, except our own.</en>
+      <fr>Nous rejetons tous les amendements, à part les nôtres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="358" id="123" name="President">
+    <ParallelChunk annotation_id="358" docOffset="6">
+      <en>Ms Haug, thank you for that.</en>
+      <fr>Madame Haug, merci de l'avoir signalé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="387" docOffset="7">
+      <en>It looks as though the leadership of your group is well aware of the situation.</en>
+      <fr>Il semble <DiscourseConnective annotation_id="416">que</DiscourseConnective> les dirigeants de votre groupe soient déjà bien au courant de la situation.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

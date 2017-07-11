@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>9.</en>
+    <fr>9.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Global treaty to ban uranium weapons (vote)</en>
+    <fr>Traité mondial visant <DiscourseConnective annotation_id="25">à</DiscourseConnective> l'interdiction des armes à l'uranium (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="47" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="73">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="66" id="114" name="Stefano Zappalà">
+    <ParallelChunk annotation_id="66" docOffset="3">
+      <en>on behalf of the PPE-DE Group. - (IT) Mr President, ladies and gentlemen, on behalf of my group of the European People's Party, I would like to add my personal endorsement of the proposal for a resolution presented today by the other groups, <Alignment alignment="110" annotation_id="308">
+          <DiscourseConnective annotation_id="308" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> the PPE approves the wording in its entirety.</en>
+      <fr>au nom du Groupe PPE-DE. - (IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="152">et</DiscourseConnective> Messieurs, au nom de mon groupe du Parti populaire européen, je souhaite ajouter mon soutien personnel <DiscourseConnective annotation_id="258">à</DiscourseConnective> la proposition de résolution présentée aujourd'hui par les autres groupes. Le PPE approuve <Alignment alignment="308" annotation_id="351">
+          <DiscourseConnective annotation_id="351" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> l'ensemble du texte.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="359" id="115" name="President">
+    <ParallelChunk annotation_id="359" docOffset="4">
+      <en>That is good news.</en>
+      <fr>C'est une bonne nouvelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="378" docOffset="5">
+      <en>It means the joint motion for a resolution tabled by six political groups, including the EPP, replaces all the motions for resolution on this subject, except for.</en>
+      <fr>Donc, c'est la proposition de résolution commune de six groupes politiques, PPE inclus, qui vise à remplacer toutes les propositions de résolution sur ce sujet, à l'exception de la proposition de résolution.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

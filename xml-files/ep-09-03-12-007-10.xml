@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Turkey: progress report 2008 (vote)</en>
+    <fr>Rapport de suivi 2008 sur la Turquie (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="40" docOffset="2">
+    <en>- Before the vote on paragraph 4:</en>
+    <fr>- <DiscourseConnective annotation_id="50">Avant</DiscourseConnective> le vote sur le paragraphe 4:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="74" id="114" name="Andrew Duff">
+    <ParallelChunk annotation_id="74" docOffset="3">
+      <en>on behalf of the ALDE Group. - Mr President, in paragraph, please insert the adjective 'secular', <Alignment alignment="192" annotation_id="172">
+          <Alignment alignment="208309" annotation_id="172">
+            <DiscourseConnective annotation_id="172" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the phrase would be: 'stable, democratic, pluralist, secular and prosperous society'.</en>
+      <fr>au nom du groupe ALDE. - (EN) Monsieur le Président, veuillez ajouter <DiscourseConnective annotation_id="155">à</DiscourseConnective> ce paragraphe l'adjectif "laïque", <Alignment alignment="264" annotation_id="192">
+          <Alignment alignment="235" annotation_id="192">
+            <DiscourseConnective annotation_id="192" sense="Contingency.Cause.Result">de façon à ce que</DiscourseConnective>
+          </Alignment>
+        </Alignment> la phrase se lise comme suit: "une société stable, démocratique, pluraliste, laïque <DiscourseConnective annotation_id="294">et</DiscourseConnective> prospère".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="266" id="116" name="Joost Lagendijk">
+    <ParallelChunk annotation_id="266" docOffset="4">
+      <en>on behalf of the Verts/ALE Group. - Mr President, after yesterday's debate <Alignment alignment="1432" annotation_id="341">
+          <DiscourseConnective annotation_id="341" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> after consultation with the rapporteur, I would like to add one word to the amendment.</en>
+      <fr>au nom du groupe des Verts/ALE. - (EN) Monsieur le Président, à la suite du débat d'hier <Alignment alignment="45" annotation_id="397">
+          <DiscourseConnective annotation_id="397" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="400">après</DiscourseConnective> consultation du rapporteur, je voudrais ajouter un mot <DiscourseConnective annotation_id="461">à</DiscourseConnective> l'amendement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="432" docOffset="5">
+      <en>The word would be 'transitional', <Alignment alignment="1322" annotation_id="466">
+          <DiscourseConnective annotation_id="466" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the amendment would <Alignment alignment="531" annotation_id="490">
+          <DiscourseConnective annotation_id="490" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> read <Alignment alignment="536" annotation_id="500">
+          <DiscourseConnective annotation_id="500" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> follows: 'except for temporary, transitional derogations'.</en>
+      <fr>Ce mot serait "transitoire" <Alignment alignment="728" annotation_id="505">
+          <DiscourseConnective annotation_id="505" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'amendement se lirait <Alignment alignment="490" annotation_id="531">
+          <DiscourseConnective annotation_id="531" sense="Temporal.Asynchronous.Precedence">donc</DiscourseConnective>
+        </Alignment> <Alignment alignment="3" annotation_id="536">
+          <DiscourseConnective annotation_id="536" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> suit: "sauf en cas de dérogation transitoire temporaire".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="562" id="118" name="Joost Lagendijk">
+    <ParallelChunk annotation_id="562" docOffset="6">
+      <en>on behalf of the Verts/ALE Group. - Mr President, after yesterday's debate, I would like to propose replacing the word 'involve' with 'consult'.</en>
+      <fr>au nom du groupe des Verts/ALE. - (EN) Monsieur le Président, à la suite du débat d'hier, je voudrais remplacer le mot "impliquer" par le mot "consulter".</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

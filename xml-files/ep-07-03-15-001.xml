@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 10.05 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 10h05)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="62" id="006" name="Carl Schlyter">
+    <ParallelChunk annotation_id="62" docOffset="2">
+      <en>(SV) Mr President, it is an issue of protocol that I am addressing.</en>
+      <fr>(SV) Monsieur le Président, c'est sur une question de protocole <DiscourseConnective annotation_id="119">que</DiscourseConnective> j'interviens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="130" docOffset="3">
+      <en>Yesterday, <Alignment alignment="143" annotation_id="141">
+          <DiscourseConnective annotation_id="141" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I was to talk about the report on trade defence instruments, I wanted to quote the Muscardini report from October, whereupon I discovered that an important bit of it was missing.</en>
+      <fr>Hier, <Alignment alignment="141" annotation_id="143">
+          <DiscourseConnective annotation_id="143" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> je devais évoquer le rapport sur les instruments de défense commerciale, je voulais citer le rapport Muscardini du mois d'octobre, <DiscourseConnective annotation_id="284">lorsque</DiscourseConnective> je me suis aperçu <DiscourseConnective annotation_id="310">qu'</DiscourseConnective>une partie importante de ce rapport était manquante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="325" docOffset="4">
+      <en>
+        <Alignment alignment="366" annotation_id="325">
+          <Alignment alignment="366" annotation_id="325">
+            <DiscourseConnective annotation_id="325" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I do not know how we are to proceed now.</en>
+      <fr>
+        <Alignment alignment="325" annotation_id="366">
+          <Alignment alignment="325" annotation_id="366">
+            <DiscourseConnective annotation_id="366" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je ne sais pas comment nous devons procéder à présent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="379" docOffset="5">
+      <en>The report is from October 2006, <Alignment alignment="469" annotation_id="412">
+          <DiscourseConnective annotation_id="412" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> there is a serious error in the Swedish version, <Alignment alignment="1606" annotation_id="465">
+          <DiscourseConnective annotation_id="465" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the whole of the following text is missing from paragraph 11, <Alignment alignment="585" annotation_id="530">
+          <DiscourseConnective annotation_id="530" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wonder how we can remedy this. The following text is missing from the Swedish version: 'with a view to including non-compliance with global social and environmental agreements or international covenants as forms of dumping or subsidy'.</en>
+      <fr>Le rapport date d'octobre 2006, <Alignment alignment="637" annotation_id="469">
+          <DiscourseConnective annotation_id="469" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la version suédoise contient une grave erreur, <Alignment alignment="465" annotation_id="521">
+          <DiscourseConnective annotation_id="521" sense="Temporal.Synchrony">puisque</DiscourseConnective>
+        </Alignment> l'intégralité du texte qui suit manque au paragraphe 11 <Alignment alignment="530" annotation_id="585">
+          <DiscourseConnective annotation_id="585" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je me demande comment y remédier: "<DiscourseConnective annotation_id="623">afin de</DiscourseConnective> faire du non-respect des accords dans les domaines social <DiscourseConnective annotation_id="689">et</DiscourseConnective> environnemental à l'échelon mondial <DiscourseConnective annotation_id="728">ou</DiscourseConnective> des conventions internationales une forme de dumping <DiscourseConnective annotation_id="784">ou</DiscourseConnective> de subventionnement".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="772" docOffset="6">
+      <en>
+        <Alignment alignment="809" annotation_id="772">
+          <DiscourseConnective annotation_id="772" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the whole aspect of the environment and social dumping is missing from the Swedish version, the Swedish people will get a false picture of what it is that Parliament wants.</en>
+      <fr>
+        <Alignment alignment="772" annotation_id="809">
+          <DiscourseConnective annotation_id="809" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> tout l'aspect du dumping environnemental <DiscourseConnective annotation_id="853">et</DiscourseConnective> social est absent de la version suédoise, les Suédois se feront une fausse image de ce <DiscourseConnective annotation_id="943">que</DiscourseConnective> le Parlement veut.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="948" id="007" name="President">
+    <ParallelChunk annotation_id="948" docOffset="7">
+      <en>Mr Schlyter, this comment is very important <Alignment alignment="1020" annotation_id="992">
+          <DiscourseConnective annotation_id="992" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it will be taken into account.</en>
+      <fr>Monsieur Schlyter, cette <DiscourseConnective annotation_id="991">remarque</DiscourseConnective> est très importante <Alignment alignment="992" annotation_id="1020">
+          <DiscourseConnective annotation_id="1020" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il en sera tenu compte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1027" docOffset="8">
+      <en>It will be checked <Alignment alignment="1078" annotation_id="1046">
+          <DiscourseConnective annotation_id="1046" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the necessary action will be taken.</en>
+      <fr>Nous allons vérifier tout cela <Alignment alignment="1046" annotation_id="1078">
+          <DiscourseConnective annotation_id="1078" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> prendre les mesures nécessaires.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

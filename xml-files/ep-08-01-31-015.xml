@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Adjournment of the session</en>
+    <fr>Interruption de la session</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="255" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>(FR) That concludes the agenda.</en>
+      <fr>(FR) Le Parlement a épuisé son ordre du jour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="59" docOffset="2">
+      <en>Wishing everyone bon appétit, particularly our visitors from London who, <Alignment alignment="505" annotation_id="132">
+          <DiscourseConnective annotation_id="132" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you have learned, come from the most beautiful city in the world, capital of the most beautiful country, and who will one day realise that it <Alignment alignment="572" annotation_id="277">
+          <DiscourseConnective annotation_id="277" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> belongs to one of the most beautiful continents.</en>
+      <fr>En souhaitant un bon appétit à tout le monde, <DiscourseConnective annotation_id="119">notamment</DiscourseConnective> à nos visiteurs londoniens qui, <Alignment alignment="41" annotation_id="161">
+          <DiscourseConnective annotation_id="161" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous l'avez compris, appartiennent <DiscourseConnective annotation_id="202">à</DiscourseConnective> la plus belle ville du monde, capitale du plus beau pays, <DiscourseConnective annotation_id="262">et</DiscourseConnective> qui réaliseront <DiscourseConnective annotation_id="281">un jour qu'</DiscourseConnective>elle appartient <Alignment alignment="277" annotation_id="308">
+          <DiscourseConnective annotation_id="308" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> au plus beau des continents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="331" docOffset="3">
+      <en>I declare the session of the European Parliament adjourned.</en>
+      <fr>Je déclare interrompue la session du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="391" docOffset="4">
+      <en>(The sitting was closed at 12.20 p.m.)</en>
+      <fr>(La séance est levée <DiscourseConnective annotation_id="425">à</DiscourseConnective> 12 h 20)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Missing persons in Cyprus (vote)</en>
+    <fr>Personnes disparues <DiscourseConnective annotation_id="24">à</DiscourseConnective> Chypre (vote)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="37" id="106" name="President">
+    <ParallelChunk annotation_id="37" docOffset="2">
+      <en>May I draw your attention to the fact that Mrs Resetarits and Mr Triantaphyllides have <Alignment alignment="130" annotation_id="124">
+          <DiscourseConnective annotation_id="124" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> signed this motion for a resolution?</en>
+      <fr>
+        <DiscourseConnective annotation_id="40">Puis</DiscourseConnective>-je attirer votre attention sur le fait <DiscourseConnective annotation_id="84">que</DiscourseConnective> Mme Resetarits <DiscourseConnective annotation_id="103">et</DiscourseConnective> M. Triantaphyllides ont <Alignment alignment="124" annotation_id="130">
+          <DiscourseConnective annotation_id="130" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> signé cette proposition de résolution?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="166" docOffset="3">
+      <en>Mrs Resetarits on behalf of the Group of the Alliance of Liberals and Democrats for Europe and Mr Triantaphyllides on behalf of the Confederal Group of the European United Left/Nordic Green Left.</en>
+      <fr>Mme Resetarits au nom du groupe de l'Alliance des démocrates <DiscourseConnective annotation_id="240">et</DiscourseConnective> des libéraux <DiscourseConnective annotation_id="256">pour</DiscourseConnective> l'Europe <DiscourseConnective annotation_id="270">et</DiscourseConnective> M. Triantaphyllides au nom du groupe confédéral de la Gauche unitaire européenne/Gauche verte nordique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="362" id="107" name="Panayiotis Demetriou">
+    <ParallelChunk annotation_id="362" docOffset="4">
+      <en>Mr President, allow me to inform you that we have among us today the three members of the Committee on Missing Persons for Cyprus: Mr Christophe Girod, the Chairman of the committee, representing the UN; Mrs Gülden Plümer Küçük, representing the Turkish Cypriots; and Mr Elias Georgiades, representing the Greek Cypriots.</en>
+      <fr>(EN) Monsieur le Président, permettez-moi de vous informer <DiscourseConnective annotation_id="436">que</DiscourseConnective> nous comptons aujourd'hui parmi nous les trois membres du Comité <DiscourseConnective annotation_id="505">pour</DiscourseConnective> les personnes disparues <DiscourseConnective annotation_id="534">à</DiscourseConnective> Chypre: M. Christophe Girod, le président du comité, représentant l'ONU, Mme Gülden Plümer Küçük, représentant les Chypriotes turcs, <DiscourseConnective annotation_id="669">et</DiscourseConnective> M. Elias Georgiades, représentant les Chypriotes grecs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="684" docOffset="5">
+      <en>All the members of the Committee are here to obtain our support.</en>
+      <fr>Tous les membres de ce Comité sont ici <DiscourseConnective annotation_id="767">pour</DiscourseConnective> obtenir notre soutien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="749" docOffset="6">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="760" docOffset="7">
+      <en>(Parliament adopted the resolution)</en>
+      <fr>(Le Parlement adopte la résolution)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

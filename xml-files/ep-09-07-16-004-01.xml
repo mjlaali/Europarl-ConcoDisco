@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Appointments to committees: see Minutes</en>
+    <fr>Nominations dans les commissions parlementaires: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="43" id="010" name="Rebecca Harms">
+    <ParallelChunk annotation_id="43" docOffset="2">
+      <en>(DE) Mr President, yesterday we received very sad news from Grozny in Chechnya.</en>
+      <fr>(DE) Monsieur le Président, hier, de bien tristes nouvelles nous sont parvenues de Grozny, <DiscourseConnective annotation_id="162">en</DiscourseConnective> Tchétchénie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="123" docOffset="3">
+      <en>The journalist Natalia Estemirova, who was well known to everyone in our group, was murdered there.</en>
+      <fr>La journaliste Natalia Estemirova, bien connue de tous dans notre groupe, y a été assassinée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="223" docOffset="4">
+      <en>She was found dead just beyond the border between Chechnya and Ingushetia <Alignment alignment="363" annotation_id="297">
+          <DiscourseConnective annotation_id="297" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> being kidnapped in Grozny.</en>
+      <fr>Elle a été retrouvée morte juste derrière la frontière entre la Tchétchénie <DiscourseConnective annotation_id="348">et</DiscourseConnective> l'Ingouchie <Alignment alignment="3" annotation_id="363">
+          <DiscourseConnective annotation_id="363" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> avoir été kidnappée <DiscourseConnective annotation_id="389">à</DiscourseConnective> Grozny.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="330" docOffset="5">
+      <en>Natalia Estemirova was extremely committed to her work for Memorial in Chechnya.</en>
+      <fr>Natalia Estemirova était totalement dévouée <DiscourseConnective annotation_id="443">à</DiscourseConnective> son travail <DiscourseConnective annotation_id="457">pour</DiscourseConnective> le Mémorial <DiscourseConnective annotation_id="474">en</DiscourseConnective> Tchétchénie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="411" docOffset="6">
+      <en>We would ask you to agree to our request to remember this very committed journalist and pioneering fighter for freedom and human rights in Chechnya by observing a minute's silence.</en>
+      <fr>Nous vous demandons d'accéder <DiscourseConnective annotation_id="520">à</DiscourseConnective> notre demande de rendre hommage à cette journaliste très engagée <DiscourseConnective annotation_id="587">et</DiscourseConnective> à cette pionnière de la lutte <DiscourseConnective annotation_id="620">pour</DiscourseConnective> la liberté <DiscourseConnective annotation_id="636">et</DiscourseConnective> les droits de l'homme <DiscourseConnective annotation_id="661">en</DiscourseConnective> Tchétchénie <DiscourseConnective annotation_id="676">en</DiscourseConnective> observant une minute de silence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="592" docOffset="7">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

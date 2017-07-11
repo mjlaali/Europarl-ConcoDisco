@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>European Training Foundation (recast) (</en>
+    <fr>Création d'une Fondation européenne pour la formation (refonte) (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="43" docOffset="2">
+    <en>- Before the vote on the Commission proposal</en>
+    <fr>Préalablement au vote sur la proposition de la Commission</fr>
+  </ParallelChunk>
+<Speaker annotation_id="88" id="085" name="Bernard Lehideux">
+    <ParallelChunk annotation_id="88" docOffset="3">
+      <en>rapporteur. - (FR) Mr President, we have had a great many conversations with the Commission and the Council with a view to reaching an agreement at first reading.</en>
+      <fr>rapporteur. - (FR) Monsieur le Président, nous avons eu de nombreuses conversations avec la Commission <DiscourseConnective annotation_id="230">et</DiscourseConnective> le Conseil avec l'idée d'aboutir à un accord <DiscourseConnective annotation_id="278">en</DiscourseConnective> première lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="251" docOffset="4">
+      <en>The vote on this amendment calls that agreement into question.</en>
+      <fr>Le vote de cet amendement remet cet accord <DiscourseConnective annotation_id="342">en</DiscourseConnective> cause.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="314" docOffset="5">
+      <en>We will be forced to go to a second reading <Alignment alignment="408" annotation_id="358">
+          <DiscourseConnective annotation_id="358" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it is evident, <DiscourseConnective annotation_id="376" sense="Expansion.Conjunction">and</DiscourseConnective> the Council has so informed us, that it will not accept this position.</en>
+      <fr>Nous allons être obligés d'aller <DiscourseConnective annotation_id="385">à</DiscourseConnective> une deuxième lecture <Alignment alignment="358" annotation_id="408">
+          <DiscourseConnective annotation_id="408" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> il est évident, le Conseil nous l'a fait savoir, <DiscourseConnective annotation_id="461">qu'</DiscourseConnective>il n'acceptera pas cette position.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="451" docOffset="6">
+      <en>I regret this situation <Alignment alignment="527" annotation_id="475">
+          <DiscourseConnective annotation_id="475" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in face of this problem, which is not to disown a considerable part of the text we adopted with the first amendment but to keep our word to the Council, I recommend abstention.</en>
+      <fr>Je regrette cette situation <Alignment alignment="475" annotation_id="527">
+          <DiscourseConnective annotation_id="527" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> face <DiscourseConnective annotation_id="535">à</DiscourseConnective> ce problème qui est de ne pas désavouer une bonne partie du texte que nous avons adopté dans le premier amendement <DiscourseConnective annotation_id="652">mais</DiscourseConnective> de respecter la parole donnée au Conseil, je recommande l'abstention.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="656" id="086" name="President">
+    <ParallelChunk annotation_id="656" docOffset="7">
+      <en>We duly note what you have said but will <DiscourseConnective annotation_id="697" sense="Comparison.Concession">nonetheless</DiscourseConnective> continue with the vote.</en>
+      <fr>Nous prenons bonne note de votre communication, <DiscourseConnective annotation_id="775">mais</DiscourseConnective> nous continuons <DiscourseConnective annotation_id="796">pour autant</DiscourseConnective> le vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

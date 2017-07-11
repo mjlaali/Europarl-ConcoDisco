@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>20.</en>
+    <fr>20.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Road Map for renewable energy in Europe (vote)</en>
+    <fr>Feuille de route <DiscourseConnective annotation_id="21">pour</DiscourseConnective> les énergies renouvelables <DiscourseConnective annotation_id="53">en</DiscourseConnective> Europe (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="51" docOffset="2">
+    <en>- Report: Thomsen</en>
+    <fr>- Rapport: Thomsen</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="69" docOffset="3">
+    <en>- Before the vote on the legislative resolution:</en>
+    <fr>- <DiscourseConnective annotation_id="91">Avant</DiscourseConnective> le vote sur la résolution législative:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="118" id="145" name="Britta Thomsen ">
+    <ParallelChunk annotation_id="118" docOffset="4">
+      <en>rapporteur. - Mr President, I just want to say that I hope everyone will vote in favour of the resolution <Alignment alignment="267" annotation_id="224">
+          <DiscourseConnective annotation_id="224" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it is very important that we stand together on this issue in the European Parliament.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je voudrais juste <DiscourseConnective annotation_id="196">dire que</DiscourseConnective> j'espère que tout le monde votera <DiscourseConnective annotation_id="239">en</DiscourseConnective> faveur de la résolution, <Alignment alignment="224" annotation_id="267">
+          <DiscourseConnective annotation_id="267" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> il est très important <DiscourseConnective annotation_id="293">que</DiscourseConnective> nous soyons unis sur cette question au sein du Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

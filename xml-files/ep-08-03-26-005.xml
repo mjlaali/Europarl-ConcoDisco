@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="062" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>May I extend a very warm welcome to a delegation in the visitors' gallery from the Tibetan Parliament-in-exile, led by its Speaker, Karma Chophel.</en>
+      <fr>Je voudrais accueillir très chaleureusement une délégation du Parlement tibétain <DiscourseConnective annotation_id="103">en</DiscourseConnective> exil, se trouvant dans la tribune des visiteurs, dirigée par son Président Karma Chophel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="155" docOffset="2">
+      <en>Welcome to the European Parliament!</en>
+      <fr>Bienvenue au Parlement européen!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="191" docOffset="3">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

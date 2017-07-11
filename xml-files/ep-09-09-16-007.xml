@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="094" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>We shall now proceed to the vote.</en>
+      <fr>Nous allons <DiscourseConnective annotation_id="28">maintenant</DiscourseConnective> procéder au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="46" docOffset="2">
+      <en>(For results and other details of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="58">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="87">et</DiscourseConnective> autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="103" docOffset="3">
+      <en>Today we are facing an unusually important, but also symbolic vote.</en>
+      <fr>Aujourd'hui, nous procéderons à un vote inhabituellement important, <DiscourseConnective annotation_id="209">mais aussi</DiscourseConnective> symbolique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="171" docOffset="4">
+      <en>Once every five years, the European Parliament decides who will head another EU institution.</en>
+      <fr>En effet, une fois tous les cinq ans, le Parlement européen élit la personne qui dirigera une autre institution de l'Union.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

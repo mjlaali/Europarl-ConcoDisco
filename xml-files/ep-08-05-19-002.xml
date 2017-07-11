@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="006" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>Ladies and gentlemen, last week, on Wednesday, 14 May 2008, the terrorist organisation ETA carried out another attack in Spain.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="38">et</DiscourseConnective> Messieurs, la semaine dernière, mercredi 14 mai 2008, l'organisation terroriste ETA a commis un nouvel attentat <DiscourseConnective annotation_id="153">en</DiscourseConnective> Espagne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="155" docOffset="2">
+      <en>An officer of the Guardia Civil, Juan Manuel Piñuel Villalón, was killed by a car bomb in front of the police barracks in Legutiano, in Álava province.</en>
+      <fr>Un officier de la Garde Civile, Juan Manuel Piñuel Villalón, a été tué par une voiture piégée devant les bâtiments de la police de Legutiano, dans la province d'Álava.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="307" docOffset="3">
+      <en>The European Parliament strongly condemns this despicable murder as well as the despicable act that resulted in injuries to other officers.</en>
+      <fr>Le Parlement européen condamne vivement cet assassinat odieux <DiscourseConnective annotation_id="395">ainsi</DiscourseConnective> que l'acte odieux qui a blessé d'autres officiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="447" docOffset="4">
+      <en>On behalf of the whole European Parliament, I should like to express our deep sorrow and sincere condolences to the family of the victim.</en>
+      <fr>Au nom de l'ensemble du Parlement européen, je souhaite exprimer notre profonde tristesse <DiscourseConnective annotation_id="542">et</DiscourseConnective> nos sincères condoléances <DiscourseConnective annotation_id="571">à</DiscourseConnective> la famille de la victime.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="585" docOffset="5">
+      <en>I <Alignment alignment="362" annotation_id="587">
+          <DiscourseConnective annotation_id="587" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> wish to declare our solidarity with the people of Spain and with their public authorities, their democratic institutions and their security forces.</en>
+      <fr>Je tiens <Alignment alignment="401" annotation_id="608">
+          <DiscourseConnective annotation_id="608" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="618">à</DiscourseConnective> déclarer notre solidarité avec le peuple espagnol <DiscourseConnective annotation_id="670">et</DiscourseConnective> avec ses autorités publiques, ses institutions démocratiques <DiscourseConnective annotation_id="734">et</DiscourseConnective> ses forces de l'ordre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="740" docOffset="6">
+      <en>We will now keep silence in memory of the murdered police officer.</en>
+      <fr>Nous allons <DiscourseConnective annotation_id="772">maintenant</DiscourseConnective> observer une minute de silence <DiscourseConnective annotation_id="814">en</DiscourseConnective> mémoire de l'officier de police assassiné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="807" docOffset="7">
+      <en>(The House rose for a minute's silence.)</en>
+      <fr>(L'assemblée se lève et observe une minute de silence).</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

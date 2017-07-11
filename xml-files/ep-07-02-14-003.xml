@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="077" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is voting time.</en>
+      <fr>L'ordre du jour appelle l'Heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+      <en>(For details of the outcome of the votes, see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes et autres détails les concernant, cf. procès-verbal)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="97" docOffset="3">
+      <en>
+        <Alignment alignment="142" annotation_id="97">
+          <DiscourseConnective annotation_id="97" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> starting the vote, I am going to give you some important information in this regard, particularly in relation to the vote on the Fava report.</en>
+      <fr>
+        <Alignment alignment="97" annotation_id="142">
+          <DiscourseConnective annotation_id="142" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> commencer les votes, je vais vous donner quelques éléments d'information importants les concernant, <DiscourseConnective annotation_id="251">notamment</DiscourseConnective> le vote sur le rapport Fava.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="246" docOffset="4">
+      <en>
+        <DiscourseConnective annotation_id="246" sense="Temporal.Synchrony">As</DiscourseConnective> you know, the Fava report, which we debated on Monday evening, is a report for which there are many amendments.</en>
+      <fr>Le rapport Fava, vous le savez, nous en avons discuté lundi soir, est un rapport <DiscourseConnective annotation_id="371">pour</DiscourseConnective> lequel il y a beaucoup d'amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="361" docOffset="5">
+      <en>I am used to chairing the vote, <DiscourseConnective annotation_id="393" sense="Comparison.Contrast">but</DiscourseConnective> I have never seen such a thick dossier for a single report. <DiscourseConnective annotation_id="457" sense="Comparison.Contrast">However</DiscourseConnective>, we might be able to speed things up.</en>
+      <fr>J'ai l'habitude de présider les votes, je n'avais jamais vu un dossier aussi épais <DiscourseConnective annotation_id="497">pour</DiscourseConnective> un seul et même rapport, mais nous pouvons éventuellement faire plus court.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="503" docOffset="6">
+      <en>This has nothing to do with any foreign power intervening; the Union for Europe of the Nations Group is simply proposing that some collective votes be held in order to enable us to save at least half an hour.</en>
+      <fr>Cela n'a rien <DiscourseConnective annotation_id="592">à</DiscourseConnective> voir avec l'intervention d'une quelconque puissance étrangère, c'est <DiscourseConnective annotation_id="663">simplement</DiscourseConnective> l'UEN qui propose certains votes en bloc qui nous permettront de gagner <DiscourseConnective annotation_id="746">au moins</DiscourseConnective> une demi-heure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="712" docOffset="7">
+      <en>The problem is that this proposal arrived very late in the day <Alignment alignment="838" annotation_id="775">
+          <DiscourseConnective annotation_id="775" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that your voting lists could not be adapted to incorporate it.</en>
+      <fr>Le problème est <DiscourseConnective annotation_id="787">que</DiscourseConnective> cette proposition est arrivée très tardivement <Alignment alignment="775" annotation_id="838">
+          <DiscourseConnective annotation_id="838" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="841">que</DiscourseConnective> vos listes de vote n'ont pas pu être adaptées <DiscourseConnective annotation_id="891">en</DiscourseConnective> fonction de cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="842" docOffset="8">
+      <en>
+        <Alignment alignment="925" annotation_id="842">
+          <DiscourseConnective annotation_id="842" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, <Alignment alignment="931" annotation_id="853">
+          <DiscourseConnective annotation_id="853" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you agree to some collective votes being held, you are going to have to pay very close attention to your voting lists.</en>
+      <fr>
+        <Alignment alignment="842" annotation_id="925">
+          <DiscourseConnective annotation_id="925" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, <Alignment alignment="853" annotation_id="931">
+          <DiscourseConnective annotation_id="931" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> vous acceptez que l'on fasse certains votes en bloc, il va falloir suivre très scrupuleusement sur vos listes de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="975" docOffset="9">
+      <en>The layout itself of the list has not changed, we will follow the same order, <Alignment alignment="1136" annotation_id="1053">
+          <DiscourseConnective annotation_id="1053" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we will go a little bit quicker.</en>
+      <fr>L'agencement lui-même de la liste n'a pas changé, nous respecterons le <DiscourseConnective annotation_id="1124">même</DiscourseConnective> ordre, <Alignment alignment="1053" annotation_id="1136">
+          <DiscourseConnective annotation_id="1136" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous irons un petit peu plus vite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1090" docOffset="10">
+      <en>I should like to know whether the House agrees with this proposal, which is going to save us some time.</en>
+      <fr>J'aimerais savoir <DiscourseConnective annotation_id="1194">si</DiscourseConnective> l'Assemblée est d'accord sur cette proposition qui va nous faire gagner du temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1194" docOffset="11">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1205" docOffset="12">
+      <en>Mr Pirilli, I believe that you are going to present this proposal, on behalf of the UEN Group.</en>
+      <fr>Monsieur Pirilli, je crois que c'est vous qui allez présenter cette proposition, au nom du groupe UEN.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1300" id="078" name="Umberto Pirilli">
+    <ParallelChunk annotation_id="1300" docOffset="13">
+      <en>on behalf of the UEN Group. - (IT) Mr President, ladies and gentlemen, I am making this proposal on behalf of my group and under Rule 155(6) of the Rules of Procedure: I propose a block vote on 122 amendments that are complementary to each other, in order to simplify procedure.</en>
+      <fr>au nom du groupe UEN. - (IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="1462">et</DiscourseConnective> Messieurs, je présente cette proposition au nom de mon groupe <DiscourseConnective annotation_id="1527">et</DiscourseConnective> sur la base de l'article 155, paragraphe 6, du règlement: je propose que nous votions un bloc de 122 amendements qui se complètent les uns les autres <DiscourseConnective annotation_id="1680">afin de</DiscourseConnective> simplifier la procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1579" docOffset="14">
+      <en>In any case, these amendments are workable in relation to those that I propose should be put to the vote individually.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1713">Du reste</DiscourseConnective>, ces amendements sont fonctionnels <DiscourseConnective annotation_id="1757">en</DiscourseConnective> relation <DiscourseConnective annotation_id="1769">à</DiscourseConnective> ceux <DiscourseConnective annotation_id="1776">que</DiscourseConnective> je propose de voter individuellement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1698" docOffset="15">
+      <en>Each of these <Alignment alignment="1839" annotation_id="1712">
+          <Alignment alignment="1839" annotation_id="1712">
+            <DiscourseConnective annotation_id="1712" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> makes its own main point: from violation of State secrecy, to the security of European citizens and States, to the faked kidnapping of Abu Omar, a CIA spy, who was picked up to save him from certain death and not deported to Guantánamo, but sent back to his own country, where he lives under suitable protection and gives interviews.</en>
+      <fr>Chacun d'entre eux a <Alignment alignment="1712" annotation_id="1839">
+          <Alignment alignment="1712" annotation_id="1839">
+            <DiscourseConnective annotation_id="1839" sense="Expansion.Conjunction">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> un objet qui lui est propre: de la violation du secret d'État <DiscourseConnective annotation_id="1909">à</DiscourseConnective> la sécurité des citoyens <DiscourseConnective annotation_id="1936">et</DiscourseConnective> des États européens, <DiscourseConnective annotation_id="1960">en</DiscourseConnective> passant par le faux enlèvement d'Abou Omar, un espion de la CIA que l'on a enlevé pour le soustraire à une mort certaine <DiscourseConnective annotation_id="2084">et</DiscourseConnective> qui n'a pas été déporté <DiscourseConnective annotation_id="2111">à</DiscourseConnective> Guantánamo, <DiscourseConnective annotation_id="2125">mais</DiscourseConnective> renvoyé dans son pays, où il vit sous étroite surveillance <DiscourseConnective annotation_id="2189">et</DiscourseConnective> donne des interviews.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2054" docOffset="16">
+      <en>The amendments to be put to the vote <DiscourseConnective annotation_id="2091" sense="Expansion.Conjunction">separately</DiscourseConnective> are <DiscourseConnective annotation_id="2106" sense="Contingency.Cause.Result">therefore</DiscourseConnective> the following: 71, 73, 113, 114, 115, 121, 122, 124, 210, 212, 213, 214 and 216.</en>
+      <fr>Les amendements qu'il convient de soumettre au vote individuellement sont les suivants: 71, 73, 113, 114, 115, 121, 122, 124, 210, 212, 213, 214 <DiscourseConnective annotation_id="2359">et</DiscourseConnective> 216.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2197" docOffset="17">
+      <en>I <Alignment alignment="2378" annotation_id="2199">
+          <DiscourseConnective annotation_id="2199" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> propose individual votes, amendment by amendment, from 38 to 69 and from 245 to 256.</en>
+      <fr>Je propose <Alignment alignment="2199" annotation_id="2378">
+          <DiscourseConnective annotation_id="2378" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> que nous votions individuellement, amendement par amendement, de 38 <DiscourseConnective annotation_id="2456">à</DiscourseConnective> 69 <DiscourseConnective annotation_id="2461">et</DiscourseConnective> de 245 <DiscourseConnective annotation_id="2471">à</DiscourseConnective> 256.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2289" docOffset="18">
+      <en>All the other 122 amendments can be put to the vote as a block.</en>
+      <fr>Les 122 autres amendements peuvent être votés <DiscourseConnective annotation_id="2524">en</DiscourseConnective> bloc.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2353" id="079" name="Ewa Klamt">
+    <ParallelChunk annotation_id="2353" docOffset="19">
+      <en>(DE) Mr President, much as I would like to make the vote a shorter business, I do have to point out that the Group of the European People's Party (Christian Democrats) and European Democrats has submitted to the Tabling Office a list of the votes that we want to split, <DiscourseConnective annotation_id="2623" sense="Expansion.Conjunction">and</DiscourseConnective> this list - which has <Alignment alignment="2824" annotation_id="2649">
+          <DiscourseConnective annotation_id="2649" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> been endorsed by the Union for Europe of the Nations Group - must be followed in the voting process.</en>
+      <fr>(DE) Monsieur le Président, ce n'est pas <DiscourseConnective annotation_id="2574">que</DiscourseConnective> je ne souhaite pas raccourcir le vote, mais je dois signaler <DiscourseConnective annotation_id="2639">que</DiscourseConnective> le groupe du parti populaire européen (démocrates-chrétiens) <DiscourseConnective annotation_id="2704">et</DiscourseConnective> des démocrates européens a soumis au Tabling Office une liste des votes <DiscourseConnective annotation_id="2779">que</DiscourseConnective> nous voulons séparer. Cette liste, qui a <Alignment alignment="2649" annotation_id="2824">
+          <DiscourseConnective annotation_id="2824" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> été approuvée par le groupe de l'Union <DiscourseConnective annotation_id="2873">pour</DiscourseConnective> l'Europe des Nations, doit être suivie tout au long du processus de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2755" docOffset="20">
+      <en>Everything else can be voted on en bloc.</en>
+      <fr>Tout le reste peut être voté en bloc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2796" docOffset="21">
+      <en>We can agree to things being handled in this way, <Alignment alignment="3056" annotation_id="2846">
+          <DiscourseConnective annotation_id="2846" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="3062" annotation_id="2851">
+          <DiscourseConnective annotation_id="2851" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they are not, we will have to take everything one thing at a time.</en>
+      <fr>Nous pouvons accepter que les choses se fassent de cette manière, <Alignment alignment="2846" annotation_id="3056">
+          <DiscourseConnective annotation_id="3056" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, <Alignment alignment="2851" annotation_id="3062">
+          <DiscourseConnective annotation_id="3062" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> elles ne le sont pas, nous devrons voter tous les amendements un <DiscourseConnective annotation_id="3130">à</DiscourseConnective> un.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2921" id="080" name="President">
+    <ParallelChunk annotation_id="2921" docOffset="22">
+      <en>I can confirm that the request by the Group of the European People's Party (Christian Democrats) and European Democrats has been passed on <Alignment alignment="3196" annotation_id="3060">
+          <DiscourseConnective annotation_id="3060" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that we will <Alignment alignment="3215" annotation_id="3077">
+          <Alignment alignment="3239" annotation_id="3077">
+            <DiscourseConnective annotation_id="3077" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> hold some collective votes, except for the separate votes that you have requested <Alignment alignment="3299" annotation_id="3167">
+          <DiscourseConnective annotation_id="3167" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that have been incorporated in the announcements that I just made.</en>
+      <fr>Je vous confirme <DiscourseConnective annotation_id="3153">que</DiscourseConnective> la demande du PPE a bien été transmise <Alignment alignment="3060" annotation_id="3196">
+          <DiscourseConnective annotation_id="3196" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3199">que</DiscourseConnective> nous ferons <Alignment alignment="1569" annotation_id="3215">
+          <DiscourseConnective annotation_id="3215" sense="Expansion.Conjunction">effectivement</DiscourseConnective>
+        </Alignment> des votes <Alignment alignment="3077" annotation_id="3239">
+          <DiscourseConnective annotation_id="3239" sense="Expansion.Conjunction">en</DiscourseConnective>
+        </Alignment> bloc, <DiscourseConnective annotation_id="3248">sauf pour</DiscourseConnective> les votes séparés <DiscourseConnective annotation_id="3276">que</DiscourseConnective> vous avez demandés <Alignment alignment="3167" annotation_id="3299">
+          <DiscourseConnective annotation_id="3299" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> dont il a été tenu compte dans les annonces <DiscourseConnective annotation_id="3346">que</DiscourseConnective> je vais vous faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3238" docOffset="23">
+      <en>Mr Guardans Cambó, you have the floor to speak on procedural issues only.</en>
+      <fr>Monsieur Guardans Cambó, je vous donne la parole sur la procédure uniquement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3312" id="081" name="Ignasi Guardans Cambó">
+    <ParallelChunk annotation_id="3312" docOffset="24">
+      <en>(FR) As regards the procedure, I cannot accept the principle of collective votes on certain amendments without having first received the list in writing and without having a break <Alignment alignment="3615" annotation_id="3492">
+          <DiscourseConnective annotation_id="3492" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> I can study it.</en>
+      <fr>Sur la procédure, je ne peux pas accepter le principe de votes en bloc de certains amendements <DiscourseConnective annotation_id="3543">sans</DiscourseConnective> en avoir reçu au préalable la liste par écrit <DiscourseConnective annotation_id="3594">et</DiscourseConnective> <DiscourseConnective annotation_id="3597">sans</DiscourseConnective> interruption <Alignment alignment="3492" annotation_id="3615">
+          <DiscourseConnective annotation_id="3615" sense="Contingency.Cause.Result">pour</DiscourseConnective>
+        </Alignment> pouvoir l'étudier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3516" docOffset="25">
+      <en>So, I am sorry, <DiscourseConnective annotation_id="3532" sense="Comparison.Contrast">but</DiscourseConnective> there are blocks in which we want to keep some things and reject others.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3639">Donc</DiscourseConnective>, je suis désolé, il y a des blocs à l'intérieur desquels nous voulons retenir certaines choses <DiscourseConnective annotation_id="3739">et</DiscourseConnective> en rejeter d'autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3609" docOffset="26">
+      <en>Every sentence in this report counts, Mr President.</en>
+      <fr>Chaque phrase de ce rapport compte, Monsieur le Président.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3661" docOffset="27">
+      <en>
+        <Alignment alignment="3822" annotation_id="3661">
+          <DiscourseConnective annotation_id="3661" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we had known about this proposal beforehand, we could have gone ahead with it.</en>
+      <fr>
+        <Alignment alignment="3661" annotation_id="3822">
+          <DiscourseConnective annotation_id="3822" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous avions eu connaissance de cette proposition <DiscourseConnective annotation_id="3874">avant</DiscourseConnective>, nous aurions pu le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3743" docOffset="28">
+      <en>
+        <Alignment alignment="3907" annotation_id="3743">
+          <DiscourseConnective annotation_id="3743" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we have a list of votes that is calibrated virtually to the last centimetre, <Alignment alignment="3979" annotation_id="3829">
+          <DiscourseConnective annotation_id="3829" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> our group is not going to risk an erroneous vote just for the sake of saving five or ten minutes.</en>
+      <fr>
+        <Alignment alignment="3743" annotation_id="3907">
+          <DiscourseConnective annotation_id="3907" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> nous avons une liste des votes qui est calibrée au centimètre près <Alignment alignment="3829" annotation_id="3979">
+          <DiscourseConnective annotation_id="3979" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on ne va pas risquer un vote erroné de la part de notre groupe dans le seul souci d'épargner cinq <DiscourseConnective annotation_id="4080">ou</DiscourseConnective> dix minutes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3931" docOffset="29">
+      <en>I am sorry.</en>
+      <fr>Désolé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3943" id="082" name="President">
+    <ParallelChunk annotation_id="3943" docOffset="30">
+      <en>The comment made by our fellow Member is entirely valid.</en>
+      <fr>La <DiscourseConnective annotation_id="4107">remarque</DiscourseConnective> de notre collègue est tout à fait recevable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4000" docOffset="31">
+      <en>That is why it is the House that is going to decide.</en>
+      <fr>Voilà pourquoi c'est l'Assemblée qui va trancher.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4053" docOffset="32">
+      <en>I am <Alignment alignment="4219" annotation_id="4058">
+          <DiscourseConnective annotation_id="4058" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> going to give you a first option to vote on: to accept the Union for Europe of the Nations Group's proposal, which would enable us to hold collective votes <Alignment alignment="4347" annotation_id="4224">
+          <DiscourseConnective annotation_id="4224" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> keeping the separate votes that were requested by certain groups.</en>
+      <fr>Je vais <Alignment alignment="4058" annotation_id="4219">
+          <DiscourseConnective annotation_id="4219" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> soumettre <DiscourseConnective annotation_id="4234">à</DiscourseConnective> votre vote une première possibilité: accepter la proposition de l'UEN, qui va nous permettre des votes en bloc <Alignment alignment="4224" annotation_id="4347">
+          <DiscourseConnective annotation_id="4347" sense="Temporal.Synchrony">tout en</DiscourseConnective>
+        </Alignment> conservant les votes séparés qui ont été demandés par certains groupes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4296" docOffset="33">
+      <en>(The House indicated its agreement to the proposal)</en>
+      <fr>(L'Assemblée marque son accord sur la proposition)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4348" docOffset="34">
+      <en>I would <Alignment alignment="4494" annotation_id="4356">
+          <DiscourseConnective annotation_id="4356" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> point out that we will be taking a break at around midday in order to welcome a prestigious guest, the President of the Italian Republic.</en>
+      <fr>Je vous signale <Alignment alignment="4356" annotation_id="4494">
+          <DiscourseConnective annotation_id="4494" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="4507">que</DiscourseConnective> nous aurons une interruption vers midi <DiscourseConnective annotation_id="4550">pour</DiscourseConnective> recevoir un invité prestigieux, le Président de la République italienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4499" docOffset="35">
+      <en>In view of the thickness of the dossier, we will probably break during the vote on the Fava report.</en>
+      <fr>Cette interruption interviendra probablement, vu l'épaisseur du dossier, au milieu du vote sur le rapport Fava.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4599" docOffset="36">
+      <en>I would ask you right now to kindly excuse the services, <Alignment alignment="4817" annotation_id="4656">
+          <DiscourseConnective annotation_id="4656" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we have no other option.</en>
+      <fr>Je vous prie d'ores et déjà de bien vouloir excuser le service de la séance, <Alignment alignment="4656" annotation_id="4817">
+          <DiscourseConnective annotation_id="4817" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous n'avons pas d'autre possibilité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4685" id="083" name="Cristiana Muscardini">
+    <ParallelChunk annotation_id="4685" docOffset="37">
+      <en>(IT) Mr President, <Alignment alignment="4888" annotation_id="4704">
+          <DiscourseConnective annotation_id="4704" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="4707" sense="Temporal.Synchrony">as</DiscourseConnective> not to interrupt the vote on the Fava report, which <Alignment alignment="4952" annotation_id="4762">
+          <DiscourseConnective annotation_id="4762" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we all know will be a complex vote, I should like to ask whether it might be possible, <Alignment alignment="5040" annotation_id="4852">
+          <DiscourseConnective annotation_id="4852" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the House agrees, to invert the order of business and <Alignment alignment="5103" annotation_id="4909">
+          <DiscourseConnective annotation_id="4909" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> vote first on the simpler and briefer reports and go on to vote on the Fava report after President Napolitano's speech.</en>
+      <fr>(IT) Monsieur le Président, <Alignment alignment="2550" annotation_id="4888">
+          <DiscourseConnective annotation_id="4888" sense="Contingency.Cause.Result">pour</DiscourseConnective>
+        </Alignment> ne pas devoir interrompre le vote sur le rapport Fava qui, <Alignment alignment="4270" annotation_id="4952">
+          <DiscourseConnective annotation_id="4952" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous le savons, sera un vote complexe, je voudrais demander <DiscourseConnective annotation_id="5018">s'</DiscourseConnective>il serait possible, <Alignment alignment="4852" annotation_id="5040">
+          <DiscourseConnective annotation_id="5040" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'Assemblée est d'accord, d'invertir l'ordre des travaux <DiscourseConnective annotation_id="5100">et</DiscourseConnective> <Alignment alignment="4909" annotation_id="5103">
+          <DiscourseConnective annotation_id="5103" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, de voter en premier lieu sur les rapports plus simples <DiscourseConnective annotation_id="5164">et</DiscourseConnective> plus courts <DiscourseConnective annotation_id="5179">et</DiscourseConnective> de procéder au vote sur le rapport Fava <DiscourseConnective annotation_id="5222">après</DiscourseConnective> l'intervention du Président Napolitano.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5034" id="084" name="President">
+    <ParallelChunk annotation_id="5034" docOffset="38">
+      <en>It is clear, Mrs Muscardini, that <Alignment alignment="13062" annotation_id="5068">
+          <DiscourseConnective annotation_id="5068" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we do not start with the Fava report, we will not conclude it today, which means having to interrupt the vote on the Fava report in order to conclude it the day after, which I believe would be even more disastrous.</en>
+      <fr>Il est évident, chère collègue, <Alignment alignment="5068" annotation_id="5300">
+          <DiscourseConnective annotation_id="5300" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> nous ne commençons pas par le rapport Fava, nous ne le terminerons pas aujourd'hui, ce qui veut dire qu'il faudrait interrompre le vote sur le rapport Fava <DiscourseConnective annotation_id="5463">pour</DiscourseConnective> le terminer le lendemain, ce qui serait, à mon avis, <DiscourseConnective annotation_id="5521">encore</DiscourseConnective> plus désastreux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5286" docOffset="39">
+      <en>You will understand why I cannot act on your request.</en>
+      <fr>Vous comprendrez pourquoi je ne peux pas faire suite <DiscourseConnective annotation_id="5598">à</DiscourseConnective> votre demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5340" docOffset="40">
+      <en>Let us try to proceed allegro vivace, ma non troppo.</en>
+      <fr>Essayons de procéder allegro vivace, ma non troppo.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

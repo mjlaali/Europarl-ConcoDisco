@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Agenda for next sitting: see Minutes</en>
+    <fr>Ordre du jour de la prochaine séance: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="37" id="444" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="37" docOffset="1">
+      <en>(CS) Mr Chairman, I would just like to ask whether today's special regime will be repeated <Alignment alignment="159" annotation_id="128">
+          <DiscourseConnective annotation_id="128" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> whether it was really only today's extravaganza.</en>
+      <fr>(CS) Monsieur le Président, j'aimerais demander <DiscourseConnective annotation_id="105">si</DiscourseConnective> le régime spécial appliqué aujourd'hui sera répété <Alignment alignment="128" annotation_id="159">
+          <DiscourseConnective annotation_id="159" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="162">s'</DiscourseConnective>il <DiscourseConnective annotation_id="167">s'</DiscourseConnective>agit d'une extravagance qui se limitera à aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="180" docOffset="2">
+      <en>Can you give me an answer, please?</en>
+      <fr>Pouvez-vous me répondre, s'il vous plaît?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="215" id="445" name="President">
+    <ParallelChunk annotation_id="215" docOffset="3">
+      <en>
+        <DiscourseConnective annotation_id="215" sense="Temporal.Synchrony">As</DiscourseConnective> I understand it, this was an exceptional situation <DiscourseConnective annotation_id="269" sense="Temporal.Synchrony">as</DiscourseConnective> regards the number of applications.</en>
+      <fr>Je pense qu'il <DiscourseConnective annotation_id="281">s'</DiscourseConnective>agit d'une situation exceptionnelle vu le nombre de demandes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="308" docOffset="4">
+      <en>I hope that this situation will not be repeated.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="354">que</DiscourseConnective> cette situation ne se répétera pas.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

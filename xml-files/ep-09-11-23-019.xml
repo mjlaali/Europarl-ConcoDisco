@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Use of information technology for customs purposes (debate)</en>
+    <fr>Emploi de l'informatique dans le domaine des douanes (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="60" id="135" name="President">
+    <ParallelChunk annotation_id="60" docOffset="1">
+      <en>The next item is the report by Alexander Alvaro, on behalf of the Committee on Civil Liberties, Justice and Home Affairs, on the initiative of the French Republic with a view to adopting a Council Decision on the use of information technology for customs purposes (17483/2008 - C6-0037/2009 -.</en>
+      <fr>L'ordre du jour appelle le rapport d'Alexander Alvaro, au nom de la commission des libertés civiles, de la justice <DiscourseConnective annotation_id="176">et</DiscourseConnective> des affaires intérieures, sur l'initiative de la République française <DiscourseConnective annotation_id="249">en vue de</DiscourseConnective> l'adoption de la décision du Conseil sur l'emploi de l'informatique dans le domaine des douanes (17483/2008 - C6-0037/2009 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="354" id="136" language="DE" name="Alexander Alvaro">
+    <ParallelChunk annotation_id="354" docOffset="2">
+      <en>Mr President, I would like to welcome Commissioner Kallas and my fellow Members.</en>
+      <fr>Monsieur le Président, permettez-moi <DiscourseConnective annotation_id="422">tout d'abord</DiscourseConnective> de souhaiter la bienvenue au commissaire Kallas <DiscourseConnective annotation_id="483">et</DiscourseConnective> à mes collègues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="435" docOffset="3">
+      <en>Fundamentally speaking, the issue we are about to discuss is not a controversial topic at all.</en>
+      <fr>Fondamentalement, le thème dont nous allons discuter n'est absolument pas un sujet controversé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="530" docOffset="4">
+      <en>The matter at hand is the adaptation of information technology in the field of customs and excise.</en>
+      <fr>Il concerne l'adaptation de la technologie informatique dans le domaine des douanes <DiscourseConnective annotation_id="683">et</DiscourseConnective> accises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="629" docOffset="5">
+      <en>For many people, this is a terribly technical topic.</en>
+      <fr>
+        <DiscourseConnective annotation_id="695">Pour</DiscourseConnective> de nombreuses personnes, c'est un sujet terriblement technique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="682" docOffset="6">
+      <en>
+        <Alignment alignment="17960" annotation_id="682">
+          <DiscourseConnective annotation_id="682" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, with respect to the fight against fraud and other crime, it is a very important aspect of cooperation in the field of customs and excise, and the exchange of information.</en>
+      <fr>
+        <Alignment alignment="682" annotation_id="764">
+          <DiscourseConnective annotation_id="764" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="775">en</DiscourseConnective> matière de lutte contre la fraude <DiscourseConnective annotation_id="812">et</DiscourseConnective> autres formes de criminalité, c'est un élément essentiel <DiscourseConnective annotation_id="872">pour</DiscourseConnective> la coopération dans le domaine des douanes <DiscourseConnective annotation_id="920">et</DiscourseConnective> accises <DiscourseConnective annotation_id="931">et</DiscourseConnective> l'échange d'informations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="862" docOffset="7">
+      <en>We have been able to work successfully together with the Swedish Council Presidency, <Alignment alignment="18201" annotation_id="947">
+          <DiscourseConnective annotation_id="947" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would <DiscourseConnective annotation_id="959" sense="Contingency.Cause.Result">therefore</DiscourseConnective> like to thank those who have supported and accompanied us throughout the process, <DiscourseConnective annotation_id="1051" sense="Temporal.Synchrony">as</DiscourseConnective> this dossier is not exactly a new one.</en>
+      <fr>Nous avons eu une bonne collaboration avec la Présidence suédoise du Conseil <Alignment alignment="6341" annotation_id="1037">
+          <DiscourseConnective annotation_id="1037" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je remercie tous ceux qui nous ont soutenus <DiscourseConnective annotation_id="1084">et</DiscourseConnective> accompagnés tout au long de la procédure, ce dossier n'étant <DiscourseConnective annotation_id="1148">effectivement</DiscourseConnective> pas récent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1093" docOffset="8">
+      <en>We have demonstrated our cooperation through the fact that Parliament has taken on and voted on in committee significant amendments, which the Council had already proposed in the course of its work.</en>
+      <fr>Le Parlement a démontré sa volonté de coopération <DiscourseConnective annotation_id="1224">en</DiscourseConnective> reprenant <DiscourseConnective annotation_id="1237">et</DiscourseConnective> en adoptant <DiscourseConnective annotation_id="1252">en</DiscourseConnective> commission d'importants amendements préalablement proposés par le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1292" docOffset="9">
+      <en>I <Alignment alignment="26200" annotation_id="1294">
+          <DiscourseConnective annotation_id="1294" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> <Alignment alignment="1421" annotation_id="1304">
+          <DiscourseConnective annotation_id="1304" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> assume that the vote on the matter this week will have a positive outcome.</en>
+      <fr>
+        <Alignment alignment="1294" annotation_id="1330">
+          <DiscourseConnective annotation_id="1330" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, je présume <DiscourseConnective annotation_id="1357">que</DiscourseConnective> le vote sur ce rapport, programmé cette semaine, débouchera <Alignment alignment="1304" annotation_id="1421">
+          <DiscourseConnective annotation_id="1421" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> sur un <DiscourseConnective annotation_id="1438">résultat</DiscourseConnective> positif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1384" docOffset="10">
+      <en>The only measure on which Parliament does not agree is the extension of Europol's powers in this field.</en>
+      <fr>La seule mesure <DiscourseConnective annotation_id="1472">que</DiscourseConnective> le Parlement n'accepte pas est l'élargissement des compétences d'Europol dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1488" docOffset="11">
+      <en>This view is certainly not reflected in all political groups in this House. <DiscourseConnective annotation_id="1564" sense="Comparison.Contrast">However</DiscourseConnective>, it is in the final result of the vote on the report on information technology in the field of customs and excise.</en>
+      <fr>Cette position ne reflète certainement pas celle de tous les groupes politiques de cette Assemblée, mais c'est celle qui apparaît dans le <DiscourseConnective annotation_id="1704">résultat</DiscourseConnective> final du vote sur le rapport sur l'emploi de l'informatique dans le domaine des douanes <DiscourseConnective annotation_id="1801">et</DiscourseConnective> accises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1687" docOffset="12">
+      <en>This is, to a certain extent, linked to the debate which was held here previously, <DiscourseConnective annotation_id="1770" sense="Temporal.Synchrony">when</DiscourseConnective> our intention was different, namely to send a signal that, having fairly recently defined a mandate for Europol, under which it was to be an agency, its powers in a number of small and specific areas are being extended or expanded.</en>
+      <fr>Cette opinion est, dans une certaine mesure, liée <DiscourseConnective annotation_id="1863">à</DiscourseConnective> un débat <DiscourseConnective annotation_id="1874">que</DiscourseConnective> nous avons eu précédemment, où notre intention était différente en ce sens que nous voulions attirer l'attention sur le fait <DiscourseConnective annotation_id="2003">qu'</DiscourseConnective>après avoir défini <DiscourseConnective annotation_id="2025">pour</DiscourseConnective> Europol - il n'y a pas si longtemps - un mandat en vertu duquel ce devait être une agence, ses compétences sont à présent élargies dans plusieurs petits domaines spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2007" docOffset="13">
+      <en>To a large extent, it is <Alignment alignment="2262" annotation_id="2032">
+          <DiscourseConnective annotation_id="2032" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> fitting, given the importance and role of Europol, that its remit be defined in a mandate such as the one we have decided.</en>
+      <fr>Compte tenu de l'importance <DiscourseConnective annotation_id="2233">et</DiscourseConnective> du rôle d'Europol, il est <Alignment alignment="2032" annotation_id="2262">
+          <DiscourseConnective annotation_id="2262" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+        </Alignment> tout à fait normal <DiscourseConnective annotation_id="2294">que</DiscourseConnective> ses attributions soient définies dans un mandat tel <DiscourseConnective annotation_id="2350">que</DiscourseConnective> celui que nous avons approuvé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2160" docOffset="14">
+      <en>It <Alignment alignment="2399" annotation_id="2163">
+          <DiscourseConnective annotation_id="2163" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> promotes transparency, <Alignment alignment="16141" annotation_id="2191">
+          <Alignment alignment="2426" annotation_id="2191">
+            <DiscourseConnective annotation_id="2191" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> not only we, <Alignment alignment="2449" annotation_id="2212">
+          <DiscourseConnective annotation_id="2212" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="17096" annotation_id="2216">
+          <DiscourseConnective annotation_id="2216" sense="Expansion.Restatement">in particular</DiscourseConnective>
+        </Alignment> the citizens, for whom we make policies, know what Europol is allowed or not allowed to do.</en>
+      <fr>Cela favorise <Alignment alignment="2163" annotation_id="2399">
+          <DiscourseConnective annotation_id="2399" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la transparence, <Alignment alignment="2191" annotation_id="2426">
+          <Alignment alignment="2191" annotation_id="2426">
+            <DiscourseConnective annotation_id="2426" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> le Parlement, <Alignment alignment="2212" annotation_id="2449">
+          <DiscourseConnective annotation_id="2449" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="1029" annotation_id="2454">
+          <DiscourseConnective annotation_id="2454" sense="Expansion.Restatement">surtout</DiscourseConnective>
+        </Alignment> les citoyens auxquels <DiscourseConnective annotation_id="2484">s'</DiscourseConnective>adressent nos politiques, sachent ce qu'Europol est autorisé <DiscourseConnective annotation_id="2547">ou</DiscourseConnective> non <DiscourseConnective annotation_id="2554">à</DiscourseConnective> faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2322" docOffset="15">
+      <en>Transparency is a fundamental part of any structure involving prosecuting and police forces in the Member States, <Alignment alignment="2699" annotation_id="2436">
+          <DiscourseConnective annotation_id="2436" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this must <DiscourseConnective annotation_id="2450" sense="Expansion.Conjunction">also</DiscourseConnective> apply at a European level.</en>
+      <fr>La transparence est un élément fondamental de toute structure impliquant des autorités judiciaires <DiscourseConnective annotation_id="2662">et</DiscourseConnective> policières dans les États membres <Alignment alignment="2436" annotation_id="2699">
+          <DiscourseConnective annotation_id="2699" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il doit en être de même <DiscourseConnective annotation_id="2726">à</DiscourseConnective> l'échelon européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2482" docOffset="16">
+      <en>Other than that, there is not a lot to say, <Alignment alignment="22491" annotation_id="2526">
+          <DiscourseConnective annotation_id="2526" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> even <Alignment alignment="22266" annotation_id="2535">
+          <DiscourseConnective annotation_id="2535" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> one tends to want to exceed one's speaking time, I can cut mine short in this case.</en>
+      <fr>Hormis cela, il n'y a pas beaucoup <DiscourseConnective annotation_id="2783">à</DiscourseConnective> dire <Alignment alignment="2526" annotation_id="2790">
+          <DiscourseConnective annotation_id="2790" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="2535" annotation_id="2794">
+          <DiscourseConnective annotation_id="2794" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment> l'on souhaite généralement dépasser son temps de parole, je peux écourter le mien <DiscourseConnective annotation_id="2886">dans ce cas</DiscourseConnective>-ci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2626" docOffset="17">
+      <en>I would like to thank the Council Presidency and my fellow Members for their excellent cooperation, <Alignment alignment="4709" annotation_id="2726">
+          <DiscourseConnective annotation_id="2726" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am sure that we will be able to successfully vote on the report this week.</en>
+      <fr>Je remercie la Présidence du Conseil <DiscourseConnective annotation_id="2939">et</DiscourseConnective> mes collègues <DiscourseConnective annotation_id="2956">pour</DiscourseConnective> leur excellente coopération <Alignment alignment="2726" annotation_id="2989">
+          <DiscourseConnective annotation_id="2989" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> suis certain <DiscourseConnective annotation_id="3005">que</DiscourseConnective> nous rendrons cette semaine un vote positif sur ce rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2807" id="137" name="Siim Kallas">
+    <ParallelChunk annotation_id="2807" docOffset="18">
+      <en>Vice-President of the Commission. - Mr President, the Commission supports in principle the text of the draft Council Decision, <Alignment alignment="6123" annotation_id="2934">
+          <DiscourseConnective annotation_id="2934" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is necessary to ensure that the provisions of mutual assistance and administrative cooperation evolve as far as possible in parallel, <Alignment alignment="3339" annotation_id="3079">
+          <DiscourseConnective annotation_id="3079" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is necessary to fix the provisions establishing that the general budget of the European Communities will bear the costs relating to the use of the Customs Information System by the Member States.</en>
+      <fr>Monsieur le Président, la Commission soutient, sur le principe, le texte de la proposition de décision du Conseil <Alignment alignment="2934" annotation_id="3183">
+          <DiscourseConnective annotation_id="3183" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il faut s'assurer <DiscourseConnective annotation_id="3210">que</DiscourseConnective> les dispositions concernant l'assistance mutuelle <DiscourseConnective annotation_id="3264">et</DiscourseConnective> la coopération administrative évoluent <DiscourseConnective annotation_id="3306">autant</DiscourseConnective> <DiscourseConnective annotation_id="3313">que</DiscourseConnective> possible <DiscourseConnective annotation_id="3326">en</DiscourseConnective> parallèle <Alignment alignment="3079" annotation_id="3339">
+          <DiscourseConnective annotation_id="3339" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> fixer les dispositions établissant <DiscourseConnective annotation_id="3377">que</DiscourseConnective> le budget général de l'Union européenne supportera les frais liés <DiscourseConnective annotation_id="3447">à</DiscourseConnective> l'utilisation du système d'information des douanes par les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3282" docOffset="19">
+      <en>This legal correction should not imply any increase in the budget, <Alignment alignment="3611" annotation_id="3349">
+          <DiscourseConnective annotation_id="3349" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is necessary to ensure greater complementarity with action in the context of cooperation with Europol and Eurojust by granting the same level of access for these agencies to the Customs Information System (CIS), including its customs files identification database (FIDE).</en>
+      <fr>Cette correction d'ordre juridique ne devrait entraîner aucune augmentation budgétaire, <Alignment alignment="3349" annotation_id="3611">
+          <DiscourseConnective annotation_id="3611" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il importe de garantir une plus grande complémentarité avec l'action menée dans le contexte de la coopération avec Europol <DiscourseConnective annotation_id="3737">et</DiscourseConnective> Eurojust <DiscourseConnective annotation_id="3749">en</DiscourseConnective> octroyant <DiscourseConnective annotation_id="3762">à</DiscourseConnective> ces agences le <DiscourseConnective annotation_id="3779">même</DiscourseConnective> niveau d'accès au système d'information des douanes (SID), y compris à son fichier d'identification des dossiers d'enquêtes douanières (FIDE).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3628" docOffset="20">
+      <en>That being so, the Commission cannot support Parliament's amendment aiming to grant a different level of access to CIS/FIDE for Europol and Eurojust.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3927">Par conséquent</DiscourseConnective>, la Commission ne peut soutenir l'amendement du Parlement visant <DiscourseConnective annotation_id="4007">à</DiscourseConnective> accorder <DiscourseConnective annotation_id="4018">à</DiscourseConnective> Europol <DiscourseConnective annotation_id="4028">et</DiscourseConnective> Eurojust un niveau d'accès différent au SID/FIDE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3778" docOffset="21">
+      <en>In general terms, the Commission welcomes most of the amendments tabled by Parliament.</en>
+      <fr>De manière générale, la Commission souscrit à la plupart des amendements déposés par le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3865" docOffset="22">
+      <en>In this context, I would like to make the following comments.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4180">À cet égard</DiscourseConnective>, je voudrais faire les commentaires suivants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3927" docOffset="23">
+      <en>The Commission shares the opinion of the rapporteur, Mr Alvaro, that it is regrettable that this proposal should be decided in such a hurried manner by the Member States prior to the entry into force of the Lisbon Treaty.</en>
+      <fr>La Commission partage l'avis du rapporteur, M. Alvaro, selon lequel il est regrettable <DiscourseConnective annotation_id="4325">que</DiscourseConnective> les États membres doivent se prononcer <DiscourseConnective annotation_id="4368">aussi</DiscourseConnective> hâtivement sur cette proposition, <DiscourseConnective annotation_id="4408">avant</DiscourseConnective> l'entrée <DiscourseConnective annotation_id="4423">en</DiscourseConnective> vigueur du traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4149" docOffset="24">
+      <en>
+        <Alignment alignment="4457" annotation_id="4149">
+          <Alignment alignment="20206" annotation_id="4149">
+            <DiscourseConnective annotation_id="4149" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the Lisbon Treaty provides a new legal basis whereby a new regulation could replace the present CIS Convention, a regulation which would have direct effect in Member States and not require transposition into national law <Alignment alignment="4721" annotation_id="4379">
+          <DiscourseConnective annotation_id="4379" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> becoming operational, as is currently the case for Regulation (EC) No 766/2008 on the administrative part of the CIS.</en>
+      <fr>
+        <Alignment alignment="1727" annotation_id="4457">
+          <Alignment alignment="1719" annotation_id="4457">
+            <DiscourseConnective annotation_id="4457" sense="Expansion.Conjunction">En fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, le traité de Lisbonne fournit une nouvelle base juridique qui permettrait de remplacer l'actuelle convention SID par un nouveau règlement qui produirait des effets directs dans les États membres <DiscourseConnective annotation_id="4661">et</DiscourseConnective> ne nécessiterait pas une transposition <DiscourseConnective annotation_id="4703">en</DiscourseConnective> droit national <Alignment alignment="4379" annotation_id="4721">
+          <DiscourseConnective annotation_id="4721" sense="Temporal.Asynchronous.Precedence">pour</DiscourseConnective>
+        </Alignment> devenir effective, <DiscourseConnective annotation_id="4745">comme</DiscourseConnective> c'est actuellement le cas avec le règlement (CE) n° 766/2008 <DiscourseConnective annotation_id="4812">pour</DiscourseConnective> ce qui concerne la partie administrative du SID.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4504" docOffset="25">
+      <en>The Commission <Alignment alignment="13169" annotation_id="4519">
+          <DiscourseConnective annotation_id="4519" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> shares the opinion of the European Parliament that, for the data protection supervision of the IT application, the solution aiming to replace the Joint Supervisory Authority (JSA) with the European Data Protection Supervisor (EDPS) is the most appropriate.</en>
+      <fr>La Commission se rallie <Alignment alignment="1527" annotation_id="4890">
+          <DiscourseConnective annotation_id="4890" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à l'avis du Parlement européen selon lequel, <DiscourseConnective annotation_id="4945">pour</DiscourseConnective> le contrôle de la protection des données contenues dans le système d'information, la solution de remplacer l'autorité de contrôle commune (ACC) par le contrôleur européen de la protection des données (CEPD) est la plus appropriée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4781" docOffset="26">
+      <en>Combined supervision by JSA and EDPS would present some risks of possible duplication and overlapping of work.</en>
+      <fr>Un contrôle combiné de l'ACC <DiscourseConnective annotation_id="5210">et</DiscourseConnective> du CEPD présenterait certains risques de duplication <DiscourseConnective annotation_id="5266">et</DiscourseConnective> de chevauchement du travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4892" docOffset="27">
+      <en>In any case, a coordination mechanism, including for issuing relevant recommendations, should be put in place.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5298">Quoi qu'il en soit</DiscourseConnective>, il convient de mettre <DiscourseConnective annotation_id="5340">en</DiscourseConnective> place un mécanisme de coordination, y compris <DiscourseConnective annotation_id="5389">pour</DiscourseConnective> la formulation de recommandations.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5003" id="139" name="Petru Constantin Luhan">
+    <ParallelChunk annotation_id="5003" docOffset="28">
+      <en>on behalf of the PPE Group. - Madam President, I congratulate and thank my colleague Alexander Alvaro for his work and for the good cooperation we had during the drafting of this report.</en>
+      <fr>Madame la Présidente, je félicite mon collègue Alexander Alvaro <DiscourseConnective annotation_id="5493">et</DiscourseConnective> le remercie <DiscourseConnective annotation_id="5508">pour</DiscourseConnective> son travail <DiscourseConnective annotation_id="5525">ainsi</DiscourseConnective> que <DiscourseConnective annotation_id="5535">pour</DiscourseConnective> la bonne coopération que nous avons eue lors de l'élaboration de ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5190" docOffset="29">
+      <en>It was a report where I agreed with the rapporteur on the main points, namely that access to the data entered into the customs information system is to be ensured only to specifically designated bodies and staff like the Member States, Europol and Eurojust.</en>
+      <fr>Je soutenais la position du rapporteur sur les principaux points de ce rapport et <DiscourseConnective annotation_id="5699">notamment</DiscourseConnective> sur l'exigence <DiscourseConnective annotation_id="5724">que</DiscourseConnective> l'accès aux données introduites dans le système d'information des douanes <DiscourseConnective annotation_id="5802">soit</DiscourseConnective> accordé uniquement <DiscourseConnective annotation_id="5826">à</DiscourseConnective> des organes <DiscourseConnective annotation_id="5840">et</DiscourseConnective> membres du personnel spécifiquement désignés, <DiscourseConnective annotation_id="5889">par exemple</DiscourseConnective> les États membres, Europol <DiscourseConnective annotation_id="5928">et</DiscourseConnective> Eurojust.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5448" docOffset="30">
+      <en>Another point which was raised in one of my amendments and supported by the rapporteur refers to the fact that Member States, Europol and Eurojust are not granted the possibility to communicate data to non-Member States and third countries because of the absence of sufficient data protection in those countries.</en>
+      <fr>J'ai été soutenu par le rapporteur sur un autre point soulevé dans l'un de mes amendements, à savoir, l'interdiction pour les États membres, Europol <DiscourseConnective annotation_id="6090">et</DiscourseConnective> Eurojust de communiquer des données à des pays tiers, en raison de la protection des données insuffisante dans ces pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5761" docOffset="31">
+      <en>In my opinion, the review of the customs information system <DiscourseConnective annotation_id="5821" sense="Temporal.Synchrony">as</DiscourseConnective> reflected by the report is necessary in order to adapt it better to the control services' requirements and to allow a limited number of users to carry out analyses of the information contained in the system.</en>
+      <fr>Selon moi, la révision du système d'information des douanes, telle que décrite dans le rapport, est nécessaire <DiscourseConnective annotation_id="6325">afin de</DiscourseConnective> <DiscourseConnective annotation_id="6333">mieux</DiscourseConnective> l'adapter aux exigences des services de contrôle <DiscourseConnective annotation_id="6388">et</DiscourseConnective> de permettre à un nombre limité d'utilisateurs d'analyser les informations contenues dans le système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6032" docOffset="32">
+      <en>The review will <Alignment alignment="942" annotation_id="6048">
+          <DiscourseConnective annotation_id="6048" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> increase the effectiveness of the cooperation and control procedures of the customs administrations due to the joint, automated information system which will assist in preventing, investigating and prosecuting serious contraventions of national laws.</en>
+      <fr>L'efficacité des procédures de coopération <DiscourseConnective annotation_id="6536">et</DiscourseConnective> de contrôle des administrations douanières s'en trouvera <Alignment alignment="6048" annotation_id="6596">
+          <DiscourseConnective annotation_id="6596" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> accrue, grâce au système d'information automatisé commun qui aidera <DiscourseConnective annotation_id="6674">à</DiscourseConnective> prévenir, rechercher <DiscourseConnective annotation_id="6697">et</DiscourseConnective> poursuivre les infractions graves aux lois nationales.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6304" id="140" language="FR" name="Marie-Christine Vergiat">
+    <ParallelChunk annotation_id="6304" docOffset="33">
+      <en>Madam President, I would first of all like to correct the information that is on the notice board.</en>
+      <fr>au nom du groupe GUE/NGL. - Madame la Présidente, <DiscourseConnective annotation_id="6805">d'abord</DiscourseConnective>, je voudrais rectifier l'information qui est au tableau d'affichage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6403" docOffset="34">
+      <en>I have not joined the Group of the European People's Party (Christian Democrats); I am still with the Confederal Group of the European United Left - Nordic Green Left.</en>
+      <fr>Je n'ai pas rejoint le PPE, je suis toujours <DiscourseConnective annotation_id="6927">à</DiscourseConnective> la GUE/NGL.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6571" docOffset="35">
+      <en>At the request of the French Government, we have been presented with a text making provision for customs administrations to cooperate with Europol and Eurojust.</en>
+      <fr>Nous sommes saisis, <DiscourseConnective annotation_id="6961">à</DiscourseConnective> la demande du gouvernement français, d'un texte visant à permettre la coopération des administrations douanières avec Europol <DiscourseConnective annotation_id="7089">et</DiscourseConnective> Eurojust.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6732" docOffset="36">
+      <en>Once again, this is an area that will most certainly be a matter for codecision after the entry into force of the Treaty of Lisbon.</en>
+      <fr>Là <DiscourseConnective annotation_id="7105">encore</DiscourseConnective>, nous sommes dans un domaine où il ne fait aucun doute qu'<DiscourseConnective annotation_id="7170">après</DiscourseConnective> l'entrée <DiscourseConnective annotation_id="7185">en</DiscourseConnective> vigueur du traité de Lisbonne, nous serons dans le champ de la codécision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6864" docOffset="37">
+      <en>We <Alignment alignment="9112" annotation_id="6867">
+          <DiscourseConnective annotation_id="6867" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> regret that, as with Europol, haste has overridden the desire to safeguard fundamental freedoms.</en>
+      <fr>Nous regrettons <Alignment alignment="4103" annotation_id="7279">
+          <DiscourseConnective annotation_id="7279" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="7285">comme</DiscourseConnective> sur Europol, que la précipitation prenne le pas sur la volonté de garantir les libertés fondamentales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6974" docOffset="38">
+      <en>In all these texts, we deplore the fact that the crucial balance between security and respect for fundamental rights comes increasingly under threat, to the detriment of freedoms, and for overall results that sometimes fail to convince our citizens.</en>
+      <fr>Dans tous ces textes, nous regrettons <DiscourseConnective annotation_id="7432">que</DiscourseConnective> l'équilibre indispensable entre sécurité <DiscourseConnective annotation_id="7477">et</DiscourseConnective> respect des droits fondamentaux <DiscourseConnective annotation_id="7512">soit</DiscourseConnective> sans cesse un peu plus remis <DiscourseConnective annotation_id="7546">en</DiscourseConnective> cause, au détriment des libertés, <DiscourseConnective annotation_id="7583">et</DiscourseConnective> ce <DiscourseConnective annotation_id="7589">pour</DiscourseConnective> des résultats globaux qui ne sont pas toujours probants <DiscourseConnective annotation_id="7650">pour</DiscourseConnective> nos concitoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7224" docOffset="39">
+      <en>We are <DiscourseConnective annotation_id="7231" sense="Expansion.Conjunction">also</DiscourseConnective> sorry that, <DiscourseConnective annotation_id="7248" sense="Temporal.Synchrony">as</DiscourseConnective> regards this text seeking to establish links between files held by customs, the police and Eurojust, the position that the European Parliament is proposing we adopt is more timorous than our position on Europol, for the dangers are the same <Alignment alignment="7934" annotation_id="7492">
+          <DiscourseConnective annotation_id="7492" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the safeguards laid out in the texts submitted to us are even more fragile.</en>
+      <fr>Nous regrettons <DiscourseConnective annotation_id="7688">que</DiscourseConnective>, sur ce texte qui cherche <DiscourseConnective annotation_id="7718">à</DiscourseConnective> établir des interconnexions entre les fichiers des douanes, de la police <DiscourseConnective annotation_id="7793">et</DiscourseConnective> d'Eurojust, la position <DiscourseConnective annotation_id="7820">que</DiscourseConnective> le Parlement européen nous propose d'adopter <DiscourseConnective annotation_id="7869">soit</DiscourseConnective> plus timorée <DiscourseConnective annotation_id="7887">que</DiscourseConnective> sur Europol <DiscourseConnective annotation_id="7903">car</DiscourseConnective> les dangers sont les mêmes <Alignment alignment="7492" annotation_id="7934">
+          <DiscourseConnective annotation_id="7934" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les protections énoncées sont <DiscourseConnective annotation_id="7967">encore</DiscourseConnective> plus fragiles dans les textes qui nous sont soumis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7572" docOffset="40">
+      <en>
+        <Alignment alignment="15614" annotation_id="7572">
+          <DiscourseConnective annotation_id="7572" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, it is outrageous that there is no clear limit on data retention periods.</en>
+      <fr>Ainsi, <Alignment alignment="7572" annotation_id="8033">
+          <DiscourseConnective annotation_id="8033" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, comment ne pas être scandalisé <DiscourseConnective annotation_id="8077">par le fait qu'</DiscourseConnective>il n'existe aucune limite claire <DiscourseConnective annotation_id="8125">quant à</DiscourseConnective> la durée de rétention des données.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7658" docOffset="41">
+      <en>At a time <Alignment alignment="2385" annotation_id="7668">
+          <DiscourseConnective annotation_id="7668" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment>, in all our countries, our fundamental freedoms are increasingly undermined by security policies, we regret that the European Parliament is not properly fulfilling its role of safeguarding fundamental rights and freedoms.</en>
+      <fr>
+        <Alignment alignment="7668" annotation_id="8168">
+          <DiscourseConnective annotation_id="8168" sense="Temporal.Synchrony">Au moment où</DiscourseConnective>
+        </Alignment>, dans chacun de nos pays, les politiques sécuritaires portent chaque jour des atteintes plus graves <DiscourseConnective annotation_id="8281">à</DiscourseConnective> nos libertés fondamentales, nous regrettons <DiscourseConnective annotation_id="8327">que</DiscourseConnective> le Parlement européen ne joue pas pleinement son rôle de garant des libertés <DiscourseConnective annotation_id="8408">et</DiscourseConnective> des droits fondamentaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7895" docOffset="42">
+      <en>Certain improvements I proposed have been adopted in this area, particularly concerning Europol.</en>
+      <fr>Certaines améliorations <DiscourseConnective annotation_id="8460">en ce sens</DiscourseConnective>, que j'ai proposées <DiscourseConnective annotation_id="8491">notamment</DiscourseConnective> sur Europol, ont été adoptées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7992" docOffset="43">
+      <en>I am very pleased about that <Alignment alignment="8549" annotation_id="8021">
+          <DiscourseConnective annotation_id="8021" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I thank my fellow Members, <Alignment alignment="2647" annotation_id="8052">
+          <DiscourseConnective annotation_id="8052" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> these are insufficient, especially in relation to the principles of proportionality and necessity, which must always prevail <Alignment alignment="8719" annotation_id="8181">
+          <DiscourseConnective annotation_id="8181" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> rights and freedoms are at stake.</en>
+      <fr>Je m'en félicite <Alignment alignment="8021" annotation_id="8549">
+          <DiscourseConnective annotation_id="8549" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'en remercie mes collègues, <Alignment alignment="2353" annotation_id="8581">
+          <DiscourseConnective annotation_id="8581" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> elles demeurent insuffisantes, <DiscourseConnective annotation_id="8617">notamment</DiscourseConnective> au regard des principes de proportionnalité <DiscourseConnective annotation_id="8671">et</DiscourseConnective> de nécessité, qui doivent toujours prévaloir <Alignment alignment="8181" annotation_id="8719">
+          <DiscourseConnective annotation_id="8719" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> on met <DiscourseConnective annotation_id="8732">en</DiscourseConnective> cause les droits <DiscourseConnective annotation_id="8752">et</DiscourseConnective> les libertés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8220" docOffset="44">
+      <en>For these reasons, <Alignment alignment="8785" annotation_id="8239">
+          <DiscourseConnective annotation_id="8239" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> other amendments giving greater protection to our citizens are not adopted, the GUE/NGL Group will abstain on this text.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8769">C'est pourquoi</DiscourseConnective>, <Alignment alignment="307" annotation_id="8785">
+          <DiscourseConnective annotation_id="8785" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> d'autres amendements plus protecteurs <DiscourseConnective annotation_id="8826">pour</DiscourseConnective> nos concitoyens ne sont pas adoptés, le groupe GUE/NGL s'abstiendra sur ce texte.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8363" id="141" name="Carlos Coelho">
+    <ParallelChunk annotation_id="8363" docOffset="45">
+      <en>(PT) Madam President, this initiative is aimed at establishing a shared, automated system for customs-related information for customs administrations in the Member States.</en>
+      <fr>(PT) Madame la Présidente, la présente initiative vise <DiscourseConnective annotation_id="8968">à</DiscourseConnective> établir <DiscourseConnective annotation_id="8978">pour</DiscourseConnective> les administrations douanières des États membres un système automatisé commun d'information dans le domaine des douanes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8535" docOffset="46">
+      <en>Such a system would aid the prevention, investigation and elimination of transgressions of both Community laws and national laws.</en>
+      <fr>Ce système devrait contribuer à prévenir, rechercher <DiscourseConnective annotation_id="9157">et</DiscourseConnective> mettre fin aux transgressions des législations communautaires <DiscourseConnective annotation_id="9222">et</DiscourseConnective> nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8665" docOffset="47">
+      <en>I welcome the desire to facilitate the exchange of information, to improve and to consolidate cooperation between customs authorities, and the establishment of procedures for joint actions.</en>
+      <fr>Je salue la volonté de faciliter l'échange d'informations, d'améliorer <DiscourseConnective annotation_id="9308">et</DiscourseConnective> de renforcer la coopération entre les autorités douanières <DiscourseConnective annotation_id="9370">ainsi</DiscourseConnective> que l'établissement de procédures <DiscourseConnective annotation_id="9410">pour</DiscourseConnective> les actions communes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8855" docOffset="48">
+      <en>I am certain that rapid and efficient exchange of information will lead to a service that is fundamental to combating illegal trade.</en>
+      <fr>Je suis convaincu <DiscourseConnective annotation_id="9455">que</DiscourseConnective> l'échange rapide <DiscourseConnective annotation_id="9476">et</DiscourseConnective> efficace d'informations conduira <DiscourseConnective annotation_id="9512">à</DiscourseConnective> un service qui est fondamental <DiscourseConnective annotation_id="9545">pour</DiscourseConnective> lutter contre les trafics illicites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8988" docOffset="49">
+      <en>
+        <DiscourseConnective annotation_id="8988" sense="Temporal.Synchrony">When</DiscourseConnective> we talk about information systems, <Alignment alignment="4267" annotation_id="9028">
+          <DiscourseConnective annotation_id="9028" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, we should not forget that these contain personal data, <Alignment alignment="29088" annotation_id="9092">
+          <DiscourseConnective annotation_id="9092" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that issues relating to the protection of such data and personal privacy are of paramount importance.</en>
+      <fr>
+        <Alignment alignment="8995" annotation_id="9587">
+          <DiscourseConnective annotation_id="9587" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, il ne faut pas oublier <DiscourseConnective annotation_id="9621">que</DiscourseConnective> de tels systèmes d'information contiennent des données à caractère personnel <Alignment alignment="11005" annotation_id="9702">
+          <DiscourseConnective annotation_id="9702" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9705">que</DiscourseConnective> la protection de ces données <DiscourseConnective annotation_id="9738">et</DiscourseConnective> de la vie privée est capitale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9198" docOffset="50">
+      <en>I agree with the rapporteur, Mr Alvaro, that we must remain alert <Alignment alignment="14597" annotation_id="9264">
+          <DiscourseConnective annotation_id="9264" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9267" sense="Temporal.Synchrony">as</DiscourseConnective> to avoid any possible violation of basic rights, especially the right to privacy, according to which information of a personal nature entered into the system must be limited to what is strictly necessary, without contravening personal privacy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9772">Comme</DiscourseConnective> le rapporteur, M. Alvaro, je pense <DiscourseConnective annotation_id="9813">que</DiscourseConnective> nous devons rester vigilants <Alignment alignment="1380" annotation_id="9846">
+          <DiscourseConnective annotation_id="9846" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>éviter toute violation des droits fondamentaux et <DiscourseConnective annotation_id="9903">notamment</DiscourseConnective> du droit <DiscourseConnective annotation_id="9922">à</DiscourseConnective> la vie privée, en vertu duquel les informations de nature personnelle introduites dans le système doivent se limiter <DiscourseConnective annotation_id="10041">à</DiscourseConnective> ce qui est strictement nécessaire et ne pas porter atteinte à la vie privée des personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9514" docOffset="51">
+      <en>We must guarantee that this data can only be used for ends that are clearly defined and circumscribed within the framework of the applicable legislation.</en>
+      <fr>Nous devons veiller à ce <DiscourseConnective annotation_id="10159">que</DiscourseConnective> ces données ne puissent être utilisées <DiscourseConnective annotation_id="10202">qu'</DiscourseConnective>à des fins clairement définies <DiscourseConnective annotation_id="10236">et</DiscourseConnective> circonscrites dans le cadre de la législation applicable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9668" docOffset="52">
+      <en>
+        <Alignment alignment="7529" annotation_id="9668">
+          <DiscourseConnective annotation_id="9668" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, this data should only be kept for as long as necessary to fulfil the purpose for which they were recorded.</en>
+      <fr>
+        <Alignment alignment="9668" annotation_id="10297">
+          <DiscourseConnective annotation_id="10297" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+        </Alignment>, ces données ne devraient être conservées <DiscourseConnective annotation_id="10352">que</DiscourseConnective> le temps nécessaire <DiscourseConnective annotation_id="10376">pour</DiscourseConnective> atteindre l'objectif <DiscourseConnective annotation_id="10402">pour</DiscourseConnective> lequel elles ont été introduites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9785" docOffset="53">
+      <en>It is equally important to ensure that access to this information system is transparent and in line with the regulations applicable to similar information systems, <DiscourseConnective annotation_id="9949" sense="Temporal.Synchrony">as</DiscourseConnective> is the case for the Schengen Information System II or the Visa Information System.</en>
+      <fr>Il importe <DiscourseConnective annotation_id="10452">également</DiscourseConnective> <DiscourseConnective annotation_id="10462">que</DiscourseConnective> l'accès <DiscourseConnective annotation_id="10474">à</DiscourseConnective> ce système d'information <DiscourseConnective annotation_id="10501">soit</DiscourseConnective> transparent <DiscourseConnective annotation_id="10518">et</DiscourseConnective> conforme aux dispositions applicables <DiscourseConnective annotation_id="10559">à</DiscourseConnective> des systèmes d'information similaires tels que le système d'information Schengen de deuxième génération <DiscourseConnective annotation_id="10665">ou</DiscourseConnective> le système d'information sur les visas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10035" docOffset="54">
+      <en>For this reason I do not support the amendments tabled by the Confederal Group of the European United Left - Nordic Green Left.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10708">C'est pourquoi</DiscourseConnective> je ne soutiens pas les amendements déposés par le groupe confédéral de la Gauche unitaire/Gauche verte nordique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10163" docOffset="55">
+      <en>As for the supervision of data protection, instead of trying to create ad hoc solutions, it would be preferable and advisable to retain and implement the same system of supervision <Alignment alignment="357" annotation_id="10344">
+          <DiscourseConnective annotation_id="10344" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> that chosen for other, similar systems, not only for the sake of consistency, but also to ensure that there are no discrepancies in the matter of data protection.</en>
+      <fr>S'agissant du contrôle de la protection des données, j'estime qu'<DiscourseConnective annotation_id="10901">au lieu d'</DiscourseConnective>essayer de créer des solutions ad hoc, il serait préférable <DiscourseConnective annotation_id="10971">et</DiscourseConnective> avisé de conserver <DiscourseConnective annotation_id="10993">et</DiscourseConnective> appliquer le <DiscourseConnective annotation_id="11009">même</DiscourseConnective> système de contrôle <Alignment alignment="10344" annotation_id="11034">
+          <DiscourseConnective annotation_id="11034" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> celui choisi <DiscourseConnective annotation_id="11051">pour</DiscourseConnective> d'autres systèmes similaires, <DiscourseConnective annotation_id="11086">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="11100">pour</DiscourseConnective> des motifs de cohérence <DiscourseConnective annotation_id="11129">mais aussi</DiscourseConnective> <DiscourseConnective annotation_id="11140">pour</DiscourseConnective> empêcher l'apparition de divergences <DiscourseConnective annotation_id="11182">en</DiscourseConnective> matière de protection des données.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10510" docOffset="56">
+      <en>Finally, Madam President, I share the views of Commissioner Kallas and the rapporteur, Mr Alvaro, regretting the hasty manner in which the Council has tried to close this dossier <Alignment alignment="11383" annotation_id="10689">
+          <DiscourseConnective annotation_id="10689" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> the Treaty of Lisbon enters into force.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11220">Enfin</DiscourseConnective>, Madame la Présidente, à l'instar du commissaire Kallas <DiscourseConnective annotation_id="11282">et</DiscourseConnective> du rapporteur, M. Alvaro, je déplore la hâte avec laquelle le Conseil a tenté de clore ce dossier <Alignment alignment="10689" annotation_id="11383">
+          <DiscourseConnective annotation_id="11383" sense="Temporal.Asynchronous.Precedence">avant</DiscourseConnective>
+        </Alignment> l'entrée <DiscourseConnective annotation_id="11398">en</DiscourseConnective> vigueur du traité de Lisbonne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10736" id="142" language="DE" name="Alexander Alvaro">
+    <ParallelChunk annotation_id="10736" docOffset="57">
+      <en>Madam President, <Alignment alignment="3040" annotation_id="10753">
+          <DiscourseConnective annotation_id="10753" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we can see from the fact that many people wish to take the floor, this is an exciting legislative dossier.</en>
+      <fr>Madame la Présidente, <Alignment alignment="10753" annotation_id="11454">
+          <DiscourseConnective annotation_id="11454" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous pouvons le voir au nombre important de personnes qui demandent la parole, il <DiscourseConnective annotation_id="11542">s'</DiscourseConnective>agit d'un dossier législatif passionnant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10863" docOffset="58">
+      <en>
+        <Alignment alignment="27052" annotation_id="10863">
+          <DiscourseConnective annotation_id="10863" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, I would like to briefly use this opportunity to respond to what Commissioner Kallas talked about, namely the Commission's rejection of the proposed amendments regarding Europol.</en>
+      <fr>Je voudrais <Alignment alignment="10863" annotation_id="11598">
+          <DiscourseConnective annotation_id="11598" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> réagir brièvement aux propos du commissaire Kallas sur le rejet par la Commission des amendements proposés concernant Europol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11055" docOffset="59">
+      <en>I understand the Commission's motives, as well as the desire to maintain consistency, very well <DiscourseConnective annotation_id="11151" sense="Expansion.Conjunction">indeed</DiscourseConnective>.</en>
+      <fr>Je comprends parfaitement les motifs de la Commission <DiscourseConnective annotation_id="11789">ainsi</DiscourseConnective> que le souhait de maintenir une cohérence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11159" docOffset="60">
+      <en>Just now, Mr Coelho referred to an issue, one that has <Alignment alignment="11886" annotation_id="11214">
+          <DiscourseConnective annotation_id="11214" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> been mentioned by others, including Mrs Vergiat, which has given us much food for thought.</en>
+      <fr>M. Coelho vient à l'instant d'aborder un point, <Alignment alignment="348" annotation_id="11886">
+          <DiscourseConnective annotation_id="11886" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> soulevé par d'autres orateurs - dont Mme Vergiat - qui nous a beaucoup donné matière <DiscourseConnective annotation_id="11981">à</DiscourseConnective> réflexion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11310" docOffset="61">
+      <en>
+        <Alignment alignment="3460" annotation_id="11310">
+          <DiscourseConnective annotation_id="11310" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> we are faced with the task of achieving the highest possible standards with respect to the data pertaining to our citizens, then it is not terribly helpful - and perhaps this is something that the Commission should consider in the future, in spite of their rejection of the proposals - for us to have provisions concerning Europol's remit, namely what data is processed, under whose authority this is done <Alignment alignment="3239" annotation_id="11721">
+          <DiscourseConnective annotation_id="11721" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> to whom it is transferred, which are divided between numerous legislative dossiers.</en>
+      <fr>
+        <Alignment alignment="10954" annotation_id="11994">
+          <DiscourseConnective annotation_id="11994" sense="Temporal.Synchrony">Si</DiscourseConnective>
+        </Alignment> l'objectif est d'appliquer les plus hautes normes possible aux données relatives <DiscourseConnective annotation_id="12078">à</DiscourseConnective> nos concitoyens, il n'est <DiscourseConnective annotation_id="12106">alors</DiscourseConnective> pas très pertinent - <DiscourseConnective annotation_id="12133">et</DiscourseConnective> la Commission devrait peut-être y réfléchir <DiscourseConnective annotation_id="12180">à</DiscourseConnective> l'avenir <DiscourseConnective annotation_id="12191">nonobstant</DiscourseConnective> son rejet des propositions - de répartir les dispositions relatives aux compétences d'Europol (les types de données traitées, sous quelle responsabilité <Alignment alignment="11721" annotation_id="12355">
+          <DiscourseConnective annotation_id="12355" sense="Expansion.Alternative">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="12358">pour</DiscourseConnective> quels destinataires) dans plusieurs actes législatifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11808" docOffset="62">
+      <en>There comes a point <DiscourseConnective annotation_id="11828" sense="Temporal.Synchrony">when</DiscourseConnective> it is no longer clear what data may be used by Europol <Alignment alignment="15278" annotation_id="11888">
+          <DiscourseConnective annotation_id="11888" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> how it may do so, <Alignment alignment="17828" annotation_id="11910">
+          <DiscourseConnective annotation_id="11910" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what data may not be used.</en>
+      <fr>Arrivera un moment où on ne saura plus clairement quelles sont les données pouvant <Alignment alignment="11910" annotation_id="12501">
+          <DiscourseConnective annotation_id="12501" sense="Expansion.Conjunction">ou</DiscourseConnective>
+        </Alignment> ne pouvant pas être utilisées par Europol <Alignment alignment="10758" annotation_id="12546">
+          <DiscourseConnective annotation_id="12546" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de quelle manière il peut les utiliser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11941" docOffset="63">
+      <en>With regard to the Europol mandate, it would make more sense <DiscourseConnective annotation_id="12002" sense="Contingency.Condition">if</DiscourseConnective> all this was established in general terms, instead of legislation always being drawn up on a case by case basis.</en>
+      <fr>Eu égard au mandat d'Europol, il serait plus logique de définir tout cela dans des termes généraux <DiscourseConnective annotation_id="12688">plutôt que d'</DiscourseConnective>adopter chaque fois une législation, au cas par cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12118" docOffset="64">
+      <en>It would make the legislation more transparent for the citizens and would surely <Alignment alignment="21349" annotation_id="12199">
+          <DiscourseConnective annotation_id="12199" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> benefit Europol's work.</en>
+      <fr>La législation serait ainsi plus transparente <DiscourseConnective annotation_id="12800">pour</DiscourseConnective> les citoyens européens <DiscourseConnective annotation_id="12828">et</DiscourseConnective> certainement <Alignment alignment="12199" annotation_id="12844">
+          <DiscourseConnective annotation_id="12844" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> bénéfique pour le travail d'Europol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12228" docOffset="65">
+      <en>Other than that, I have nothing more to add. Perhaps I may just add a brief comment regarding a point that was mentioned earlier, namely the different access rights granted to Eurojust and Europol.</en>
+      <fr>À part cela, je n'ai rien <DiscourseConnective annotation_id="12913">de plus</DiscourseConnective> <DiscourseConnective annotation_id="12921">à</DiscourseConnective> ajouter sinon, peut-être, un <DiscourseConnective annotation_id="12952">bref</DiscourseConnective> commentaire sur un point soulevé tout à l'heure, à savoir, les différents droits d'accès accordés <DiscourseConnective annotation_id="13055">à</DiscourseConnective> Eurojust <DiscourseConnective annotation_id="13066">et</DiscourseConnective> à Europol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12426" docOffset="66">
+      <en>In this case, of course, one must take into account the fact that a law enforcement body operates in a different way to a prosecuting body and should, <Alignment alignment="17553" annotation_id="12577">
+          <DiscourseConnective annotation_id="12577" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, have a different remit.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13080">En</DiscourseConnective> l'occurrence, il faut bien sûr tenir compte <DiscourseConnective annotation_id="13127">du fait qu'</DiscourseConnective>une autorité répressive <DiscourseConnective annotation_id="13162">et</DiscourseConnective> une autorité judiciaire opèrent différemment et que leurs compétences doivent <Alignment alignment="555" annotation_id="13243">
+          <DiscourseConnective annotation_id="13243" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> être différentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12612" docOffset="67">
+      <en>
+        <Alignment alignment="7527" annotation_id="12612">
+          <DiscourseConnective annotation_id="12612" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="12621" sense="Contingency.Condition">if</DiscourseConnective> we are to have a Justice Commissioner in the future, we may <Alignment alignment="13359" annotation_id="12684">
+          <DiscourseConnective annotation_id="12684" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be able to deal with this issue at European level.</en>
+      <fr>
+        <Alignment alignment="2366" annotation_id="13276">
+          <DiscourseConnective annotation_id="13276" sense="Comparison.Contrast">Si</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13279">un jour</DiscourseConnective> nous avons un commissaire chargé de la justice, nous pourrons peut-être <Alignment alignment="12684" annotation_id="13359">
+          <DiscourseConnective annotation_id="13359" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> traiter cette question <DiscourseConnective annotation_id="13388">à</DiscourseConnective> l'échelon européen.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12740" id="143" name="President">
+    <ParallelChunk annotation_id="12740" docOffset="68">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12762" docOffset="69">
+      <en>The vote will take place tomorrow at 12.00.</en>
+      <fr>Le vote aura lieu demain <DiscourseConnective annotation_id="13454">à</DiscourseConnective> 12 heures.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>20.</en>
+    <fr>20.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Lisbon Strategy (vote)</en>
+    <fr>Stratégie de Lisbonne (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="27" docOffset="2">
+    <en>Before the vote on Amendment 28 (concerns the vote on Amendment 27):</en>
+    <fr>- <DiscourseConnective annotation_id="35">Avant</DiscourseConnective> le vote sur l'amendement 28 (concerne le vote sur l'amendement 27)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="96" id="137" name="Pervenche Berès">
+    <ParallelChunk annotation_id="96" docOffset="3">
+      <en>(FR) Madam President, I may be mistaken <Alignment alignment="160" annotation_id="136">
+          <DiscourseConnective annotation_id="136" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I think that you have held a vote on Amendment 27 which, in reality, was a technical amendment that simply asked for paragraph 47 to be moved.</en>
+      <fr>Madame la Présidente, peut-être me suis-je trompée, <Alignment alignment="308" annotation_id="160">
+          <DiscourseConnective annotation_id="160" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il me semble <DiscourseConnective annotation_id="178">que</DiscourseConnective> vous avez fait voter l'amendement 27 qui, <DiscourseConnective annotation_id="224">en réalité</DiscourseConnective>, était un amendement technique, qui demandait <DiscourseConnective annotation_id="281">simplement</DiscourseConnective> <DiscourseConnective annotation_id="292">à</DiscourseConnective> déplacer le paragraphe 47.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="283" docOffset="4">
+      <en>
+        <Alignment alignment="634" annotation_id="283">
+          <DiscourseConnective annotation_id="283" sense="Comparison.Contrast">On the other hand</DiscourseConnective>
+        </Alignment>, there is a request for a separate roll-call vote on the original text.</en>
+      <fr>
+        <Alignment alignment="93" annotation_id="321">
+          <DiscourseConnective annotation_id="321" sense="Comparison.Contrast">En revanche</DiscourseConnective>
+        </Alignment>, sur le texte original, il y a une demande de vote séparé par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="373" docOffset="5">
+      <en>I <Alignment alignment="1589" annotation_id="375">
+          <DiscourseConnective annotation_id="375" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe that we have agreed to move paragraph 47, <Alignment alignment="478" annotation_id="435">
+          <DiscourseConnective annotation_id="435" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we now need a two-part roll-call vote on paragraph 47 itself.</en>
+      <fr>
+        <Alignment alignment="355" annotation_id="410">
+          <DiscourseConnective annotation_id="410" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, je pense <DiscourseConnective annotation_id="425">que</DiscourseConnective> nous avons accepté de déplacer le paragraphe 47, <Alignment alignment="435" annotation_id="478">
+          <DiscourseConnective annotation_id="478" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il faut <DiscourseConnective annotation_id="489">maintenant</DiscourseConnective> voter par appel nominal en deux parties sur le paragraphe 47 lui-même.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="501" id="138" name="President">
+    <ParallelChunk annotation_id="501" docOffset="6">
+      <en>Let us clarify matters: there was no objection to paragraph 47 being inserted after paragraph 49.</en>
+      <fr>Nous allons éclaircir les choses: il n'y avait pas d'objection sur le fait que le paragraphe 47 <DiscourseConnective annotation_id="667">soit</DiscourseConnective> inséré <DiscourseConnective annotation_id="679">après</DiscourseConnective> le paragraphe 49.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="599" docOffset="7">
+      <en>We <Alignment alignment="718" annotation_id="602">
+          <DiscourseConnective annotation_id="602" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> voted on Amendment 27, which has been adopted.</en>
+      <fr>Or, nous avons <Alignment alignment="126" annotation_id="718">
+          <DiscourseConnective annotation_id="718" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> voté sur l'amendement 27, qui a été approuvé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="654" docOffset="8">
+      <en>We could not <Alignment alignment="789" annotation_id="667">
+          <DiscourseConnective annotation_id="667" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> vote on paragraph 47, <Alignment alignment="303067" annotation_id="699">
+          <DiscourseConnective annotation_id="699" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we have voted on Amendment 27.</en>
+      <fr>Nous ne pouvions <Alignment alignment="104" annotation_id="789">
+          <DiscourseConnective annotation_id="789" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas voter sur le paragraphe 47 <Alignment alignment="699" annotation_id="825">
+          <DiscourseConnective annotation_id="825" sense="Temporal.Synchrony">puisque</DiscourseConnective>
+        </Alignment> nous avons voté sur l'amendement 27.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="733" docOffset="9">
+      <en>There is <Alignment alignment="879" annotation_id="742">
+          <DiscourseConnective annotation_id="742" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> no problem.</en>
+      <fr>Il n'y a <Alignment alignment="0" annotation_id="879">
+          <DiscourseConnective annotation_id="879" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas de problème.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

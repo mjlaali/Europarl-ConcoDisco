@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>24.</en>
+    <fr>24.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Community Strategy to reduce CO2 emissions from passenger cars and light-commercial vehicles (vote)</en>
+    <fr>Stratégie communautaire de réduction des émissions de CO2 des voitures <DiscourseConnective annotation_id="75">et</DiscourseConnective> véhicules commerciaux légers (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="104" docOffset="2">
+    <en>- Report: Davies</en>
+    <fr>- Rapport Chris Davies</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="121" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="139">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="140" id="151" name="Martin Schulz">
+    <ParallelChunk annotation_id="140" docOffset="4">
+      <en>(DE) Mr President, I have a request.</en>
+      <fr>(DE) Monsieur le Président, j'ai une requête à formuler.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="177" docOffset="5">
+      <en>I request that the order of voting on the amendments be amended under Rule 155(2).</en>
+      <fr>Je demande <DiscourseConnective annotation_id="222">que</DiscourseConnective> l'ordre des votes sur l'amendement <DiscourseConnective annotation_id="261">soit</DiscourseConnective> modifié en vertu de l'article 155, paragraphe 2.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="260" docOffset="6">
+      <en>It is clear from the voting list that Amendment 51 is more far-reaching than Amendments 42 and 52, <Alignment alignment="448" annotation_id="359">
+          <DiscourseConnective annotation_id="359" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I would ask that we vote on Amendment 51 first and then on Amendments 42 and 52.</en>
+      <fr>La liste des votes montre clairement <DiscourseConnective annotation_id="352">que</DiscourseConnective> l'amendement 51 est plus lourd de conséquences <DiscourseConnective annotation_id="403">que</DiscourseConnective> les amendements 42 <DiscourseConnective annotation_id="426">et</DiscourseConnective> 52, je demanderais <Alignment alignment="271" annotation_id="448">
+          <DiscourseConnective annotation_id="448" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="453">que</DiscourseConnective> nous votions <DiscourseConnective annotation_id="470">d'abord</DiscourseConnective> sur l'amendement 51 <DiscourseConnective annotation_id="498">et</DiscourseConnective> <DiscourseConnective annotation_id="501">ensuite</DiscourseConnective> sur les amendements 42 <DiscourseConnective annotation_id="532">et</DiscourseConnective> 52.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="443" id="152" name="President">
+    <ParallelChunk annotation_id="443" docOffset="7">
+      <en>The Sittings Service is not in agreement, <Alignment alignment="596" annotation_id="485">
+          <DiscourseConnective annotation_id="485" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I will ask Mr Davies to explain briefly.</en>
+      <fr>Le service de la séance me dit qu'il n'est pas d'accord, <Alignment alignment="485" annotation_id="596">
+          <DiscourseConnective annotation_id="596" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je demande à M. Davies de nous éclairer.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="530" id="153" name="Chris Davies ">
+    <ParallelChunk annotation_id="530" docOffset="8">
+      <en>rapporteur. - Mr President, very simply I agree with the voting list <DiscourseConnective annotation_id="599" sense="Temporal.Synchrony">as</DiscourseConnective> presented to the House.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, très <DiscourseConnective annotation_id="689">simplement</DiscourseConnective>, je suis d'accord avec la liste de vote telle que présentée <DiscourseConnective annotation_id="760">à</DiscourseConnective> l'Assemblée.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="626" id="154" name="President">
+    <ParallelChunk annotation_id="626" docOffset="9">
+      <en>That being the case, according to tradition we must following the advice of our rapporteur.</en>
+      <fr>
+        <DiscourseConnective annotation_id="775">Dans ce cas-là</DiscourseConnective>, la tradition veut <DiscourseConnective annotation_id="809">que</DiscourseConnective> l'on suive notre rapporteur.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

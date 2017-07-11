@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Order of business: see Minutes</en>
+    <fr>Ordre des travaux: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="31" id="022" name="Jean-Pierre Audy">
+    <ParallelChunk annotation_id="31" docOffset="1">
+      <en>(FR) Mr President, I would like to take the floor on the basis of Article 16 of the Treaty on European Union.</en>
+      <fr>Monsieur le Président, je voudrais intervenir sur la base de l'article 16 du traité de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="141" docOffset="2">
+      <en>This week, at the initiative of the French Head of State, Nicolas Sarkozy, who showed his great sense of community, a proposal was made for an extraordinary European Council meeting to be held this Friday.</en>
+      <fr>Nous avons cette semaine, sur l'initiative du chef de l'État auquel j'appartiens, Nicolas Sarkozy - qui démontre son grand sens communautaire -, la proposition qu'un Conseil européen exceptionnel se réunisse vendredi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="347" docOffset="3">
+      <en>Usually, under the Treaties, it is the General Affairs Council that prepares European Council meetings.</en>
+      <fr>Il est d'usage, <DiscourseConnective annotation_id="379">en</DiscourseConnective> application des traités, que ce <DiscourseConnective annotation_id="414">soit</DiscourseConnective> le Conseil "Affaires générales" qui prépare les réunions du Conseil européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="451" docOffset="4">
+      <en>
+        <Alignment alignment="144" annotation_id="451">
+          <DiscourseConnective annotation_id="451" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, on this week's agenda, I have not seen any General Affairs Council meeting to prepare this extraordinary European Council meeting. At a time <DiscourseConnective annotation_id="601" sense="Temporal.Synchrony">when</DiscourseConnective> major democratic changes are taking place, I believe that European citizens should be involved alongside their Heads of States in the decisions Europe takes in relation to these major issues.</en>
+      <fr>
+        <Alignment alignment="45" annotation_id="497">
+          <DiscourseConnective annotation_id="497" sense="Comparison.Contrast">Or</DiscourseConnective>
+        </Alignment>, je n'ai pas vu, dans l'ordre du jour de cette semaine, de réunion du Conseil "Affaires générales" <DiscourseConnective annotation_id="599">pour</DiscourseConnective> préparer cette réunion exceptionnelle du Conseil européen et, au moment des grands mouvements démocratiques, je crois <DiscourseConnective annotation_id="722">que</DiscourseConnective> les peuples européens doivent être associés aux chefs d'État sur les prises de position européennes par rapport <DiscourseConnective annotation_id="838">à</DiscourseConnective> ces grands sujets.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="798" id="023" name="President">
+    <ParallelChunk annotation_id="798" docOffset="5">
+      <en>Thank you for your remark.</en>
+      <fr>Merci de votre <DiscourseConnective annotation_id="874">remarque</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="825" docOffset="6">
+      <en>I will send you a written answer.</en>
+      <fr>Je vous enverrai une réponse écrite.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

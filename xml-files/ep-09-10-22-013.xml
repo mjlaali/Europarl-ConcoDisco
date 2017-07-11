@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="264" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>Thank you, Commissioner Orban.</en>
+      <fr>Merci, Monsieur le Commissaire Orban.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="43" docOffset="2">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="65" docOffset="3">
+      <en>The vote will take place after the debate.</en>
+      <fr>Le vote aura lieu à l'issue du débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="108" docOffset="4">
+      <en>I should like to take this opportunity to say something about a point which arose during the explanations of vote this afternoon and now too during the catch-the-eye procedure.</en>
+      <fr>Je voudrais profiter de cette occasion <DiscourseConnective annotation_id="150">pour</DiscourseConnective> préciser une chose <DiscourseConnective annotation_id="174">à propos</DiscourseConnective> d'un point soulevé lors des explications de vote cet après-midi, ainsi que durant cette procédure "catch the eye".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="285" docOffset="5">
+      <en>Under the rules of procedure, no further requests are accepted <Alignment alignment="370" annotation_id="348">
+          <DiscourseConnective annotation_id="348" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective>
+        </Alignment> explanations of vote or the catch-the-eye procedure have begun.</en>
+      <fr>Conformément au règlement, aucune demande supplémentaire n'est acceptée <Alignment alignment="305" annotation_id="370">
+          <DiscourseConnective annotation_id="370" sense="Temporal.Asynchronous.Succession">une fois que</DiscourseConnective>
+        </Alignment> les explications de vote <DiscourseConnective annotation_id="408">et</DiscourseConnective> la procédure "catch the eye" ont débuté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="417" docOffset="6">
+      <en>I had asked the services to perhaps make this generally known once again.</en>
+      <fr>J'ai suggéré aux services de rappeler cela à tout le monde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="491" docOffset="7">
+      <en>We dealt with this casually today, <Alignment alignment="567" annotation_id="526">
+          <DiscourseConnective annotation_id="526" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we need to take care in future, <DiscourseConnective annotation_id="562" sense="Contingency.Cause.Reason">because</DiscourseConnective> <DiscourseConnective annotation_id="570" sense="Expansion.Alternative">otherwise</DiscourseConnective> we shall go well over the time announced to Members.</en>
+      <fr>Aujourd'hui, nous avons manqué de rigueur <DiscourseConnective annotation_id="554">à cet égard</DiscourseConnective>, <Alignment alignment="526" annotation_id="567">
+          <DiscourseConnective annotation_id="567" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devrons y prêter attention <DiscourseConnective annotation_id="604">à</DiscourseConnective> l'avenir afin de ne pas dépasser largement le temps annoncé aux députés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="633" docOffset="8">
+      <en>The next item is the vote on six motions for resolutions on Guinea.</en>
+      <fr>L'ordre du jour appelle le vote sur les six propositions de résolution sur la Guinée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="701" docOffset="9">
+      <en>We shall look first at the joint motion for a resolution from six groups, which is intended to replace all the motions for resolutions on this issue.</en>
+      <fr>Nous allons <DiscourseConnective annotation_id="777">d'abord</DiscourseConnective> examiner la résolution commune des six groupes, qui est destinée <DiscourseConnective annotation_id="850">à</DiscourseConnective> remplacer l'ensemble des propositions de résolution sur ce sujet.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

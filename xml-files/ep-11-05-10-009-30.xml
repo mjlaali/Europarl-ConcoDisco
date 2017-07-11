@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>30.</en>
+    <fr>30.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Defence of the parliamentary immunity of Mr Bruno Gollnisch (</en>
+    <fr>Défense de l'immunité parlementaire de Bruno Gollnisch (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="66" id="117" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="66" docOffset="2">
+      <en>(FR) Madam President, I shall speak for just two minutes, <Alignment alignment="122" annotation_id="124">
+          <DiscourseConnective annotation_id="124" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> I may, <Alignment alignment="1057" annotation_id="134">
+          <DiscourseConnective annotation_id="134" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> there is no debate or oral explanation of vote, which I find rather astonishing in this kind of procedure.</en>
+      <fr>Madame la Présidente, je ne prendrai <DiscourseConnective annotation_id="98">que</DiscourseConnective> deux minutes <Alignment alignment="124" annotation_id="115">
+          <DiscourseConnective annotation_id="115" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> vous le permettez <Alignment alignment="134" annotation_id="136">
+          <DiscourseConnective annotation_id="136" sense="Contingency.Cause.Reason">puisqu'</DiscourseConnective>
+        </Alignment>il n'y a pas de débat, il n'y a pas d'explication de vote orale, ce <DiscourseConnective annotation_id="211">que</DiscourseConnective> je trouve assez étonnant dans ce genre de procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="247" docOffset="3">
+      <en>What are we talking about here?</en>
+      <fr>De quoi <DiscourseConnective annotation_id="276">s'</DiscourseConnective>agit-il?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="279" docOffset="4">
+      <en>We are talking about a political expression, in respect of which legal action is being taken by ...</en>
+      <fr>Il <DiscourseConnective annotation_id="290">s'</DiscourseConnective>agit d'une expression politique, qui est poursuivie par...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="379" docOffset="5">
+      <en>(The President cut off the speaker)</en>
+      <fr>(La Présidente interrompt l'orateur)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="415" id="118" name="President">
+    <ParallelChunk annotation_id="415" docOffset="6">
+      <en>I am sorry <Alignment alignment="405" annotation_id="426">
+          <DiscourseConnective annotation_id="426" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we must proceed to the vote.</en>
+      <fr>Je suis désolée, <Alignment alignment="495" annotation_id="405">
+          <DiscourseConnective annotation_id="405" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons passer au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="459" docOffset="7">
+      <en>You have already had the chance to state your views, Mr Gollnisch.</en>
+      <fr>Vous avez <DiscourseConnective annotation_id="448">déjà</DiscourseConnective> eu l'occasion d'exprimer votre point de vue, Monsieur Gollnisch.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="526" id="119" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="526" docOffset="8">
+      <en>(FR) Until now these two objective criteria ...</en>
+      <fr>Jusqu'à présent ces deux critères objectifs...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="574" docOffset="9">
+      <en>(The President cut off the speaker)</en>
+      <fr>(La Présidente retire la parole à l'orateur)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="610" id="120" name="President">
+    <ParallelChunk annotation_id="610" docOffset="10">
+      <en>Mr Gollnisch, you spoke only yesterday.</en>
+      <fr>Monsieur Gollnisch, vous vous êtes exprimé pas plus tard qu'hier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="650" docOffset="11">
+      <en>In any case, it is not permitted under the Rules of Procedure.</en>
+      <fr>
+        <DiscourseConnective annotation_id="676">Quoi qu'il en soit</DiscourseConnective>, le règlement ne le permet pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="713" docOffset="12">
+      <en>I am sorry, we are proceeding to the vote.</en>
+      <fr>Je suis désolée, mais nous passons au vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

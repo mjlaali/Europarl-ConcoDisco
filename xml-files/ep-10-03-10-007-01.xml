@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Annual accounts of certain types of companies as regards micro-entities (</en>
+    <fr>Comptes annuels de certaines formes de sociétés <DiscourseConnective annotation_id="51">en</DiscourseConnective> ce qui concerne les micro-entités (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="77" id="093" name="Charles Tannock">
+    <ParallelChunk annotation_id="77" docOffset="2">
+      <en>Mr President, I would just like the House to recognise the presence in the gallery of Noam Shalit, the father of Staff Sergeant Gilad Shalit, a dual Israeli-EU citizen cruelly held in detention for more than three years incommunicado by Hamas in Gaza.</en>
+      <fr>(EN) Monsieur le Président, je voudrais <DiscourseConnective annotation_id="130">simplement</DiscourseConnective> que le Parlement note la présence <DiscourseConnective annotation_id="175">à</DiscourseConnective> la tribune de Noam Shalit, père du sergent Gilad Shalit, citoyen à la fois d'Israël <DiscourseConnective annotation_id="261">et</DiscourseConnective> de l'Union européenne, maintenu en détention depuis maintenant trois ans par le Hamas <DiscourseConnective annotation_id="350">à</DiscourseConnective> Gaza sans possibilité de communiquer avec l'extérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="329" docOffset="3">
+      <en>We in this House all hope that Noam's campaign for his son will be successful <Alignment alignment="154434" annotation_id="407">
+          <DiscourseConnective annotation_id="407" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that he will be released shortly.</en>
+      <fr>Nous espérons, au sein de ce Parlement, <DiscourseConnective annotation_id="447">que</DiscourseConnective> la campagne de Noam en faveur de son fils portera ses fruits <Alignment alignment="196" annotation_id="512">
+          <DiscourseConnective annotation_id="512" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="515">que</DiscourseConnective> celui-ci sera <DiscourseConnective annotation_id="533">bientôt</DiscourseConnective> libéré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="445" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="456" id="094" name="President">
+    <ParallelChunk annotation_id="456" docOffset="5">
+      <en>Thank you, Mr Tannock.</en>
+      <fr>Merci, Monsieur Tannock.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

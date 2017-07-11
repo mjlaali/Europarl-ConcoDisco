@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Evaluation of the Australia-EU PNR agreement (</en>
+    <fr>Évaluation de l'accord PNR Australie/UE (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="50" docOffset="2">
+    <en>- Before the vote on paragraph 1(g):</en>
+    <fr>- <DiscourseConnective annotation_id="47">Avant</DiscourseConnective> le vote sur le paragraphe 1(g):</fr>
+  </ParallelChunk>
+<Speaker annotation_id="87" id="118" name="Sophia in 't Veld">
+    <ParallelChunk annotation_id="87" docOffset="3">
+      <en>rapporteur. - Mr President, in agreement with the shadows of the PPE-DE, PSE and Verts/ALE Groups, I would like to propose an oral amendment to paragraph 1(g).</en>
+      <fr>Monsieur le Président, avec l'accord des rapporteurs fictifs des groupes PPE-DE, PSE <DiscourseConnective annotation_id="170">et</DiscourseConnective> Verts/ALE, je voudrais proposer un amendement oral au paragraphe 1(g).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="247" docOffset="4">
+      <en>It consists of two small changes.</en>
+      <fr>Il se compose de deux petits changements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="281" docOffset="5">
+      <en>The first change is that we replace the words 'fails to meet' in the second sentence with 'may not conform to' <Alignment alignment="478542" annotation_id="392">
+          <DiscourseConnective annotation_id="392" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> the second sentence will read 'and that <DiscourseConnective annotation_id="440" sense="Contingency.Cause.Result">as a result</DiscourseConnective>, the agreement may not conform to EU and international data protection standards'.</en>
+      <fr>Le premier changement consiste à remplacer les mots "ne répond donc pas" par "peut ne pas être conforme". La deuxième phrase serait donc libellée comme suit: "l'accord peut donc ne pas être conforme aux normes établies <Alignment alignment="392" annotation_id="505">
+          <DiscourseConnective annotation_id="505" sense="Contingency.Cause.Result">aussi</DiscourseConnective>
+        </Alignment> bien par l'Union européenne <DiscourseConnective annotation_id="539">qu'</DiscourseConnective>au niveau international en ce qui concerne la protection des données".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="535" docOffset="6">
+      <en>The second small change is in the last sentence, where I would like to replace the word 'leaves' by 'might leave' <DiscourseConnective annotation_id="649" sense="Contingency.Cause.Result">so that</DiscourseConnective> it reads 'considers that this might leave the agreement open to legal challenge'.</en>
+      <fr>La deuxième modification concerne la dernière phrase, dans laquelle je voudrais remplacer le mot "est susceptible d'ouvrir" par "pourrait ouvrir". Cette phrase deviendrait donc: "considère <DiscourseConnective annotation_id="802">que</DiscourseConnective>, <DiscourseConnective annotation_id="807">de ce fait</DiscourseConnective>, l'accord pourrait ouvrir la voie <DiscourseConnective annotation_id="852">à</DiscourseConnective> la contestation juridique".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="739" id="119" name="President">
+    <ParallelChunk annotation_id="739" docOffset="7">
+      <en>Mrs in 't Veld, I have a question.</en>
+      <fr>Madame in 't Veld, j'ai une question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="774" docOffset="8">
+      <en>Am I right in thinking that, <Alignment alignment="943" annotation_id="803">
+          <DiscourseConnective annotation_id="803" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> your oral amendment is accepted, this will replace the split vote?</en>
+      <fr>Ai-je raison de penser <Alignment alignment="803" annotation_id="943">
+          <DiscourseConnective annotation_id="943" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> votre amendement oral est accepté, ceci remplacera le vote séparé?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="873" docOffset="9">
+      <en>
+        <Alignment alignment="3624" annotation_id="873">
+          <Alignment alignment="491916" annotation_id="873">
+            <Alignment alignment="1017" annotation_id="873">
+              <DiscourseConnective annotation_id="873" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, <Alignment alignment="492679" annotation_id="889">
+          <DiscourseConnective annotation_id="889" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> your oral amendment is accepted, we can vote on the paragraph as a whole. Is that right?</en>
+      <fr>
+        <Alignment alignment="873" annotation_id="1017">
+          <Alignment alignment="153" annotation_id="1017">
+            <Alignment alignment="873" annotation_id="1017">
+              <DiscourseConnective annotation_id="1017" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, <Alignment alignment="342" annotation_id="1037">
+          <DiscourseConnective annotation_id="1037" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> votre amendement oral est accepté, nous pourrons voter sur ce paragraphe dans son ensemble, est-ce correct?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="981" id="120" name="Sophia in 't Veld">
+    <ParallelChunk annotation_id="981" docOffset="10">
+      <en>rapporteur. - Mr President, yes, as far <DiscourseConnective annotation_id="1021" sense="Temporal.Synchrony">as</DiscourseConnective> I am concerned, <DiscourseConnective annotation_id="1040" sense="Contingency.Cause.Reason">because</DiscourseConnective> the request for a split vote was made by the PSE Group <Alignment alignment="1251" annotation_id="1103">
+          <DiscourseConnective annotation_id="1103" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it did not agree with the middle section.</en>
+      <fr>Oui, Monsieur le Président, du moins <DiscourseConnective annotation_id="1185">en</DiscourseConnective> ce qui me concerne. Le groupe PSE avait demandé un vote séparé <Alignment alignment="1103" annotation_id="1251">
+          <DiscourseConnective annotation_id="1251" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il n'était pas d'accord avec la partie centrale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1153" docOffset="11">
+      <en>
+        <Alignment alignment="1309" annotation_id="1153">
+          <DiscourseConnective annotation_id="1153" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> my oral amendment is adopted - and I am looking at the shadow of the PSE Group: yes, she agrees with me - then they agree with the paragraph as a whole, <Alignment alignment="1520" annotation_id="1309">
+          <DiscourseConnective annotation_id="1309" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> we could vote on the paragraph as a whole.</en>
+      <fr>
+        <Alignment alignment="887" annotation_id="1309">
+          <DiscourseConnective annotation_id="1309" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> mon amendement oral est adopté - <DiscourseConnective annotation_id="1345">et</DiscourseConnective> je me tourne vers la rapporteure fictive du groupe PSE, qui semble <DiscourseConnective annotation_id="1415">effectivement</DiscourseConnective> d'accord avec moi - <DiscourseConnective annotation_id="1449">alors</DiscourseConnective> le groupe PSE est d'accord avec ce paragraphe dans son ensemble, <Alignment alignment="1309" annotation_id="1520">
+          <DiscourseConnective annotation_id="1520" sense="Contingency.Cause.Result">et</DiscourseConnective>
+        </Alignment> nous pouvons donc voter sur ce paragraphe entier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1355" docOffset="12">
+      <en>(Parliament accepted the oral amendment)</en>
+      <fr>(Le Parlement accepte l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

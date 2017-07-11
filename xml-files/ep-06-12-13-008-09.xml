@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>9.</en>
+    <fr>9.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Establishing the European Globalisation adjustment Fund (vote)</en>
+    <fr>Création du Fonds européen d'ajustement à la mondialisation (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="66" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="70">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="85" id="125" name="Janusz Lewandowski">
+    <ParallelChunk annotation_id="85" docOffset="3">
+      <en>Mr President, I wish to inform you and the House that, owing to the agreement with the Council on the globalisation fund, all seven amendments tabled by the PPE-DE Group have been withdrawn, which will make the vote shorter.</en>
+      <fr>(EN) Monsieur le Président, je voudrais vous informer, <DiscourseConnective annotation_id="139">ainsi</DiscourseConnective> que l'Assemblée, <DiscourseConnective annotation_id="162">du fait que</DiscourseConnective>, <DiscourseConnective annotation_id="175">à</DiscourseConnective> la lumière de l'accord avec le Conseil sur le Fonds européen d'ajustement à la mondialisation, l'ensemble des sept amendements déposés par le groupe PPE-DE ont été retirés, ce qui permettra un vote plus rapide.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="310" id="126" name="Roselyne Bachelot-Narquin ">
+    <ParallelChunk annotation_id="310" docOffset="4">
+      <en>rapporteur. - (FR) Mr President, thank you for giving me the floor.</en>
+      <fr>rapporteur. - Monsieur le Président, merci de me donner la parole.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="378" docOffset="5">
+      <en>It goes without saying that I am grateful to Mr Lewandowski for having withdrawn the amendments tabled by the Committee on Budgets: that is going to make our task much easier.</en>
+      <fr>Il va de soi <DiscourseConnective annotation_id="468">que</DiscourseConnective> je remercie M. Lewandowski d'avoir retiré les amendements de la commission des budgets: cela va nous simplifier considérablement la tâche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="554" docOffset="6">
+      <en>We are on the eve of an agreement at first reading, <Alignment alignment="667" annotation_id="606">
+          <DiscourseConnective annotation_id="606" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this will be a triple victory: a victory for European workers, a victory for the proper functioning of our institutions and, I believe, a victory over ourselves, <Alignment alignment="831" annotation_id="772">
+          <DiscourseConnective annotation_id="772" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we will have been able to overcome our political and national divisions.</en>
+      <fr>Nous sommes <DiscourseConnective annotation_id="623">à</DiscourseConnective> la veille d'un accord <DiscourseConnective annotation_id="647">en</DiscourseConnective> première lecture <Alignment alignment="606" annotation_id="667">
+          <DiscourseConnective annotation_id="667" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce sera une triple victoire: une victoire des salariés européens, une victoire de la bonne marche de nos institutions <DiscourseConnective annotation_id="788">et</DiscourseConnective>, je crois, une victoire sur nous-mêmes, <Alignment alignment="772" annotation_id="831">
+          <DiscourseConnective annotation_id="831" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous aurons su surmonter nos clivages politiques <DiscourseConnective annotation_id="884">et</DiscourseConnective> nationaux.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

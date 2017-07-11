@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="485" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>
+        <Alignment alignment="837" annotation_id="8">
+          <DiscourseConnective annotation_id="8" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> I give you the floor, Commissioner, let me first extend a welcome on behalf of this House to the members of a delegation from the People's Consultative Assembly of the Republic of Indonesia, who have just taken their seats in the official gallery above.</en>
+      <fr>
+        <Alignment alignment="8" annotation_id="22">
+          <DiscourseConnective annotation_id="22" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> vous donner la parole, Monsieur le Commissaire, je me permets <DiscourseConnective annotation_id="93">d'abord</DiscourseConnective>, <DiscourseConnective annotation_id="102">en</DiscourseConnective> notre nom à tous, d'accueillir ici des membres d'une délégation de l'assemblée consultative de la République d'Indonésie, qui ont pris place dans la galerie officielle au-dessus de nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="269" docOffset="2">
+      <en>I would like to extend a very warm and special welcome to all of the delegation headed by His Excellency, Dr Lukman Hakim Saifuddin, the Vice-Chair of the People's Consultative Assembly.</en>
+      <fr>Je les accueille chaleureusement <DiscourseConnective annotation_id="325">et</DiscourseConnective>, <DiscourseConnective annotation_id="329">en particulier</DiscourseConnective>, cette délégation présidée par Son Excellence M. Lukman Hakim Saifuddin, qui est le vice-président de l'assemblée consultative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="456" docOffset="3">
+      <en>Indonesia is a key EU partner in South-East Asia.</en>
+      <fr>L'Indonésie est un partenaire très important de l'Union européenne <DiscourseConnective annotation_id="539">en</DiscourseConnective> Asie du Sud-Est.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="506" docOffset="4">
+      <en>
+        <Alignment alignment="1640" annotation_id="506">
+          <DiscourseConnective annotation_id="506" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, it is the leading country in the Association of South-East Asian Nations (ASEAN), with whom the European Union signed a Partnership and Cooperation Agreement in November 2009, and currently holds the chair of ASEAN.</en>
+      <fr>
+        <Alignment alignment="506" annotation_id="559">
+          <DiscourseConnective annotation_id="559" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, c'est le premier pays de l'ANASE avec lequel l'Union européenne a signé un accord de partenariat <DiscourseConnective annotation_id="666">et</DiscourseConnective> de coopération <DiscourseConnective annotation_id="684">en</DiscourseConnective> novembre 2009, <DiscourseConnective annotation_id="702">et</DiscourseConnective> c'est le pays qui préside l'ANASE cette année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="730" docOffset="5">
+      <en>Our two parliaments have an excellent relationship.</en>
+      <fr>Nos relations interparlementaires sont excellentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="782" docOffset="6">
+      <en>A delegation from Parliament visited Indonesia just a few months ago. It is <Alignment alignment="343655" annotation_id="858">
+          <DiscourseConnective annotation_id="858" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> a great pleasure to be able to welcome our friends and counterparts from the Indonesian Parliament today.</en>
+      <fr>Une délégation du Parlement s'est rendue en visite en Indonésie il y a quelques mois à peine et j'ai <Alignment alignment="678" annotation_id="905">
+          <DiscourseConnective annotation_id="905" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> le grand plaisir de souhaiter aujourd'hui la bienvenue à nos amis <DiscourseConnective annotation_id="976">et</DiscourseConnective> collègues du parlement d'Indonésie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="974" docOffset="7">
+      <en>We hope that your visit will be fruitful and beneficial.</en>
+      <fr>Nous espérons <DiscourseConnective annotation_id="1029">que</DiscourseConnective> votre visite sera fructueuse <DiscourseConnective annotation_id="1062">et</DiscourseConnective> profitable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1031" docOffset="8">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

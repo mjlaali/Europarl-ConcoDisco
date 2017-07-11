@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>9.</en>
+    <fr>9.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Nutrition and health claims made on foods (vote)</en>
+    <fr>Allégations nutritionnelles <DiscourseConnective annotation_id="31">et</DiscourseConnective> de santé portant sur les denrées alimentaires (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="52" docOffset="2">
+    <en>- Report: Adriana Poli Bortone</en>
+    <fr>- Rapport Adriana Poli Bortone</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="83" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- Avent le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="102" id="072" name="Margot Wallström">
+    <ParallelChunk annotation_id="102" docOffset="4">
+      <en>Vice-President of the Commission. - Madam President, the Commission makes the following declaration.</en>
+      <fr>vice-présidente de la Commission. - (EN) Madame la Présidente, la Commission fait la déclaration suivante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="203" docOffset="5">
+      <en>The Commission, sharing the views expressed by Parliament, acknowledges the urgent need to have a scientific evaluation of children's health claims already on the market.</en>
+      <fr>La Commission, qui partage l'opinion exprimée par le Parlement, reconnaît le besoin urgent de procéder à une évaluation scientifique des allégations relatives à la santé des enfants <DiscourseConnective annotation_id="424">déjà</DiscourseConnective> sur le marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="374" docOffset="6">
+      <en>
+        <Alignment alignment="457" annotation_id="374">
+          <DiscourseConnective annotation_id="374" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, it will give priority to the necessary procedure to allow for a rapid decision on claims referring to children's development and health and will <Alignment alignment="630" annotation_id="530">
+          <DiscourseConnective annotation_id="530" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> ask the European Food Safety Authority to give priority to processing the evaluation of such claims.</en>
+      <fr>Elle donnera <Alignment alignment="374" annotation_id="457">
+          <DiscourseConnective annotation_id="457" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> la priorité <DiscourseConnective annotation_id="474">à</DiscourseConnective> la procédure nécessaire <DiscourseConnective annotation_id="500">pour</DiscourseConnective> permettre une décision rapide sur les allégations qui font référence au développement <DiscourseConnective annotation_id="591">et</DiscourseConnective> à la santé de l'enfant <DiscourseConnective annotation_id="617">et</DiscourseConnective> demandera <Alignment alignment="530" annotation_id="630">
+          <DiscourseConnective annotation_id="630" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à l'Autorité européenne de sécurité des aliments de traiter <DiscourseConnective annotation_id="700">en</DiscourseConnective> priorité l'évaluation de telles allégations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="636" docOffset="7">
+      <en>
+        <Alignment alignment="748" annotation_id="636">
+          <DiscourseConnective annotation_id="636" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, the Commission confirms that, pending the establishment of nutrient profiles, the process of evaluating such claims can start without delay.</en>
+      <fr>
+        <Alignment alignment="636" annotation_id="748">
+          <DiscourseConnective annotation_id="748" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, la Commission confirme <DiscourseConnective annotation_id="780">qu'en</DiscourseConnective> attendant la mise en place de profils nutritionnels, le processus d'évaluation de telles allégations peut commencer <DiscourseConnective annotation_id="902">sans</DiscourseConnective> délai.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

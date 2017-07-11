@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>EU-Russia Summit (</en>
+    <fr>Sommet UE-Russie (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="22" docOffset="2">
+    <en>- During the vote:</en>
+    <fr>- Au cours du vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="41" id="146" name="Werner Langen">
+    <ParallelChunk annotation_id="41" docOffset="3">
+      <en>(DE) Mr President, I would like to ask why the Member who is sitting in seat number 56 has voted simultaneously for 56 and 57.</en>
+      <fr>(DE) Monsieur le Président, je voudrais savoir pourquoi le député qui occupe le siège numéro 56 a voté <DiscourseConnective annotation_id="145">simultanément</DiscourseConnective> <DiscourseConnective annotation_id="159">pour</DiscourseConnective> les sièges 56 <DiscourseConnective annotation_id="178">et</DiscourseConnective> 57.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="168" docOffset="4">
+      <en>Mr Bütikofer has voted on behalf of Mr Turmes.</en>
+      <fr>M. Bütikofer a voté au nom de M. Turmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="215" docOffset="5">
+      <en>Please reprimand the Member for this behaviour.</en>
+      <fr>Je vous prie de rappeler à l'ordre ce député <DiscourseConnective annotation_id="271">pour</DiscourseConnective> son comportement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="263" docOffset="6">
+      <en>(Uproar)</en>
+      <fr>(Tumulte)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="272" docOffset="7">
+      <en>In a previous parliamentary term, <Alignment alignment="318210" annotation_id="306">
+          <DiscourseConnective annotation_id="306" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> Mr Bütikofer was not yet a Member of Parliament, a penalty was imposed on the chair of a group <Alignment alignment="274" annotation_id="406">
+          <DiscourseConnective annotation_id="406" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> he voted on behalf of his neighbour.</en>
+      <fr>Lors d'une précédente législature, <Alignment alignment="318" annotation_id="339">
+          <DiscourseConnective annotation_id="339" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> M. Bütikofer n'était pas <DiscourseConnective annotation_id="374">encore</DiscourseConnective> député, le président d'un groupe a reçu une sanction <Alignment alignment="406" annotation_id="434">
+          <DiscourseConnective annotation_id="434" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il avait voté au nom de son voisin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="451" docOffset="8">
+      <en>Mr Cohn-Bendit may find this ridiculous <Alignment alignment="451" annotation_id="491">
+          <DiscourseConnective annotation_id="491" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> he may be able to do it within the Group of the Greens/European Free Alliance <DiscourseConnective annotation_id="573" sense="Comparison.Contrast">but</DiscourseConnective>, <Alignment alignment="587" annotation_id="578">
+          <DiscourseConnective annotation_id="578" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, the rules in Parliament are clear.</en>
+      <fr>M. Cohn-Bendit peut trouver cela ridicule <Alignment alignment="833" annotation_id="516">
+          <DiscourseConnective annotation_id="516" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> agir de la sorte au sein du groupe Verts/Alliance libre européenne, <Alignment alignment="389" annotation_id="587">
+          <DiscourseConnective annotation_id="587" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les règles du Parlement sont claires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="622" docOffset="9">
+      <en>No Member can vote on behalf of another Member from the other Member's seat.</en>
+      <fr>Aucun député ne peut voter au nom d'un autre député à partir du siège de ce dernier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="699" docOffset="10">
+      <en>That <Alignment alignment="738" annotation_id="704">
+          <DiscourseConnective annotation_id="704" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> applies to the Greens.</en>
+      <fr>Cette règle s'applique <Alignment alignment="831" annotation_id="738">
+          <DiscourseConnective annotation_id="738" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> aux Verts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="732" docOffset="11">
+      <en>(Loud applause)</en>
+      <fr>(Vifs applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="748" id="147" name="President">
+    <ParallelChunk annotation_id="748" docOffset="12">
+      <en>Let us move on.</en>
+      <fr>Poursuivons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="764" docOffset="13">
+      <en>It seems to me quite right that you cannot vote on behalf of another person.</en>
+      <fr>Il est exact <DiscourseConnective annotation_id="809">qu'</DiscourseConnective>il est interdit de voter au nom d'une autre personne.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

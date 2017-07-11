@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="058" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I should like to inform you, ladies and gentlemen, of the presence in the official gallery of a delegation from the Senate of the Federation of Malaysia, to whom I extend a warm welcome.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, je tiens <DiscourseConnective annotation_id="54">à</DiscourseConnective> vous informer de la présence, dans la tribune officielle, d'une délégation du Sénat de la Fédération de Malaisie, <DiscourseConnective annotation_id="170">à</DiscourseConnective> laquelle je souhaite la bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="195" docOffset="2">
+      <en>The delegation is led by His Excellency Datuk Wong Foon Meng, President of the Senate.</en>
+      <fr>Cette délégation est conduite par Son Excellence Datuk Wong Foon Meng, président du Sénat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="282" docOffset="3">
+      <en>I would like to point out that the European Parliament and the Malaysian Parliament enjoy regular and fruitful contact.</en>
+      <fr>Il me tient <DiscourseConnective annotation_id="310">à</DiscourseConnective> cœur de vous informer <DiscourseConnective annotation_id="334">que</DiscourseConnective> le Parlement européen <DiscourseConnective annotation_id="360">et</DiscourseConnective> le parlement malaisien ont des contacts réguliers <DiscourseConnective annotation_id="413">et</DiscourseConnective> fructueux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="402" docOffset="4">
+      <en>Malaysia has a vibrant society and a thriving economy, <DiscourseConnective annotation_id="457" sense="Expansion.Conjunction">and</DiscourseConnective> it plays an important role within the Association of South-East Asian Nations (ASEAN).</en>
+      <fr>La Malaisie a une société dynamique <DiscourseConnective annotation_id="463">et</DiscourseConnective> une économie florissante. Elle joue par ailleurs un rôle majeur au sein de l'Association des nations de l'Asie du Sud-Est (ANASE).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="548" docOffset="5">
+      <en>
+        <Alignment alignment="946" annotation_id="548">
+          <DiscourseConnective annotation_id="548" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, I and the entire House have the pleasure once again of welcoming our friends and colleagues from the Senate: we hope that your visit will be very productive.</en>
+      <fr>C'est <Alignment alignment="3" annotation_id="603">
+          <DiscourseConnective annotation_id="603" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> avec grand plaisir que cette Assemblée <DiscourseConnective annotation_id="647">et</DiscourseConnective> moi-même accueillons à nouveau nos amis <DiscourseConnective annotation_id="690">et</DiscourseConnective> collègues du Sénat: nous espérons <DiscourseConnective annotation_id="727">que</DiscourseConnective> votre visite sera très productive.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Announcement by the President</en>
+    <fr>Communication de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="30" id="090" name="President">
+    <ParallelChunk annotation_id="30" docOffset="1">
+      <en>First of all, I would like to tell you about the difficult situation in Poland.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31">Tout d'abord</DiscourseConnective>, je souhaiterais vous faire part de la situation difficile <DiscourseConnective annotation_id="103">en</DiscourseConnective> Pologne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="110" docOffset="2">
+      <en>In view of the dramatic flooding in Poland, where a significant amount of the country is flooded <Alignment alignment="197" annotation_id="207">
+          <DiscourseConnective annotation_id="207" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> people have lost all their possessions, I would like, on behalf of the European Parliament and all of us, to convey expressions of support and solidarity with the Poles and most sincere expressions of sympathy with those who are suffering, today.</en>
+      <fr>Au vu des graves inondations <DiscourseConnective annotation_id="144">en</DiscourseConnective> Pologne, où une grande partie du pays est inondée <Alignment alignment="238" annotation_id="197">
+          <DiscourseConnective annotation_id="197" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> où les gens ont perdu tous leurs biens, je souhaiterais, au nom du Parlement européen <DiscourseConnective annotation_id="286">et</DiscourseConnective> de nous tous, exprimer notre soutien <DiscourseConnective annotation_id="326">et</DiscourseConnective> notre solidarité avec les Polonais <DiscourseConnective annotation_id="364">et</DiscourseConnective> nos très sincères condoléances <DiscourseConnective annotation_id="398">à</DiscourseConnective> ceux qui souffrent, aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="458" docOffset="3">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="469" docOffset="4">
+      <en>There will be a debate on this at the next part-session of the European Parliament, on 16 June 2010.</en>
+      <fr>Un débat se tiendra sur cette question lors de la prochaine partie de session du Parlement européen, le 16 juin 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="570" docOffset="5">
+      <en>I am sure the European Union will show solidarity and respond positively to the request from the Polish authorities for financial support.</en>
+      <fr>Je suis sûr que l'Union européenne fera preuve de solidarité <DiscourseConnective annotation_id="631">et</DiscourseConnective> répondra positivement <DiscourseConnective annotation_id="656">à</DiscourseConnective> la demande des autorités polonaises d'un soutien financier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="709" docOffset="6">
+      <en>We have our own European Union Solidarity Fund, which is so important in this kind of natural disaster.</en>
+      <fr>Nous disposons de notre propre Fonds de solidarité de l'Union européenne, qui est <DiscourseConnective annotation_id="800">si</DiscourseConnective> important <DiscourseConnective annotation_id="813">quand</DiscourseConnective> survient une catastrophe naturelle de ce genre.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

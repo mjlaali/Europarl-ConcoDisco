@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Common Foreign and Security Policy 2005 (vote)</en>
+    <fr>Rapport annuel 2005 sur la PESC (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="51" docOffset="2">
+    <en>- Report: Brok</en>
+    <fr>- Rapport Brok</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="66" docOffset="3">
+    <en>- After the vote:</en>
+    <fr>Avant le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="84" id="451" name="Vittorio Agnoletto">
+    <ParallelChunk annotation_id="84" docOffset="4">
+      <en>(IT) Mr President, ladies and gentlemen, <Alignment alignment="123" annotation_id="125">
+          <DiscourseConnective annotation_id="125" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> paragraph 10 was voted on, the Italian translation stated paragraph 11, meaning that I voted differently than I would <DiscourseConnective annotation_id="248" sense="Expansion.Alternative">otherwise</DiscourseConnective> have done.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="109">et</DiscourseConnective> Messieurs, <Alignment alignment="125" annotation_id="123">
+          <DiscourseConnective annotation_id="123" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> le paragraphe 10 a été voté, la traduction italienne indiquait qu'il s'agissait du paragraphe 11. Je n'ai donc pas voté <DiscourseConnective annotation_id="251">comme</DiscourseConnective> je l'aurais fait s'il n'y avait pas eu ce problème.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

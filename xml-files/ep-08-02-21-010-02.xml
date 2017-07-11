@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Belarus (vote)</en>
+    <fr>Bélarus (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="18" docOffset="2">
+    <en>Before the vote on paragraph 3</en>
+    <fr>- <DiscourseConnective annotation_id="20">Avant</DiscourseConnective> le vote sur le paragraphe 3</fr>
+  </ParallelChunk>
+<Speaker annotation_id="49" id="249" name="José Ribeiro e Castro">
+    <ParallelChunk annotation_id="49" docOffset="3">
+      <en>author. - (FR) Mr President, this is just to correct the names of the organisations mentioned in paragraph 3.</en>
+      <fr>auteur. - Monsieur le Président, c'est justement <DiscourseConnective annotation_id="103">pour</DiscourseConnective> corriger le nom des organisations qui sont mentionnées au paragraphe 3.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="159" docOffset="4">
+      <en>You have the names on the voting lists, <DiscourseConnective annotation_id="199" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="251383" annotation_id="203">
+          <DiscourseConnective annotation_id="203" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> there is no need to repeat them.</en>
+      <fr>Vous avez, dans les listes de vote, les désignations correctes, <Alignment alignment="203" annotation_id="244">
+          <DiscourseConnective annotation_id="244" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas besoin des les répéter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="241" docOffset="5">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="290" docOffset="6">
+      <en>- Before paragraph 1</en>
+      <fr>- <DiscourseConnective annotation_id="310">Avant</DiscourseConnective> le paragraphe 1</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="311" id="251" name="Urszula Gacek">
+    <ParallelChunk annotation_id="311" docOffset="7">
+      <en>Mr President, I rise on behalf of my group with an oral amendment to the proposed amendment.</en>
+      <fr>Monsieur le Président, j'interviens au nom de mon groupe <DiscourseConnective annotation_id="389">pour</DiscourseConnective> un amendement oral sur l'amendement proposé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="404" docOffset="8">
+      <en>
+        <Alignment alignment="439" annotation_id="404">
+          <DiscourseConnective annotation_id="404" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> freedom of expression is laid down in the Commission's non-paper, the internet is sadly not particularly included or singled out.</en>
+      <fr>
+        <Alignment alignment="404" annotation_id="439">
+          <DiscourseConnective annotation_id="439" sense="Comparison.Contrast">Alors que</DiscourseConnective>
+        </Alignment> la liberté d'expression est contenue dans le document informel de la Commission, l'internet n'est <DiscourseConnective annotation_id="547">malheureusement</DiscourseConnective> pas réellement inclus ni désigné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="540" docOffset="9">
+      <en>
+        <Alignment alignment="597" annotation_id="540">
+          <DiscourseConnective annotation_id="540" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, to be factually correct and to include all freedoms of expression, not just on the internet, we ask that the phrase 'on the internet' be removed from the amendment.</en>
+      <fr>
+        <Alignment alignment="540" annotation_id="597">
+          <DiscourseConnective annotation_id="597" sense="Contingency.Cause.Result">Ainsi</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="604">pour</DiscourseConnective> être justes <DiscourseConnective annotation_id="621">et</DiscourseConnective> <DiscourseConnective annotation_id="624">pour</DiscourseConnective> comprendre toutes les libertés d'expression, et <DiscourseConnective annotation_id="677">non seulement</DiscourseConnective> la liberté d'expression sur l'internet, nous demandons <DiscourseConnective annotation_id="746">que</DiscourseConnective> l'expression "sur l'internet" <DiscourseConnective annotation_id="780">soit</DiscourseConnective> retirée de l'amendement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="716" docOffset="10">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(Le Parlement accepte l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

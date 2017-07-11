@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="280" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>
+        <Alignment alignment="811" annotation_id="8">
+          <DiscourseConnective annotation_id="8" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> moving on to the next speaker I would like to inform Members that Mr Bronislaw Komorowski, President of the Polish Parliament, is in the official gallery, accompanied by a delegation.</en>
+      <fr>
+        <Alignment alignment="70" annotation_id="22">
+          <DiscourseConnective annotation_id="22" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> passer <DiscourseConnective annotation_id="38">à</DiscourseConnective> l'orateur suivant, je voudrais annoncer aux membres <DiscourseConnective annotation_id="92">que</DiscourseConnective> M. Bronislaw Komorowski, président du parlement polonais, a pris place dans la tribune officielle, accompagné d'une délégation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="199" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="210" docOffset="3">
+      <en>Mr Komorowski has responded to an invitation from our President, Hans-Gert Pöttering, <DiscourseConnective annotation_id="296" sense="Expansion.Conjunction">and</DiscourseConnective> a moment ago they both opened the photographic exhibition with which we are recalling the career in pursuit of freedom of our dear, much admired friend and colleague, Bronislaw Geremek, who is no longer with us.</en>
+      <fr>M. Komorowski a répondu <DiscourseConnective annotation_id="267">à</DiscourseConnective> l'invitation de notre président, Hans-Gert Pöttering. Ils ont tous deux récemment procédé à l'inauguration de l'exposition photographique célébrant la quête de liberté de notre cher et estimé ami <DiscourseConnective annotation_id="465">et</DiscourseConnective> collègue, Bronislaw Geremek, qui nous a quittés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="512" docOffset="4">
+      <en>Mr Komorowski, we warmly welcome you to this your home, the European Parliament.</en>
+      <fr>Monsieur Komorowski, nous vous souhaitons la bienvenue chez vous, au Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

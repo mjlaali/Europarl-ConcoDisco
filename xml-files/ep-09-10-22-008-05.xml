@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Common organisation of agricultural markets and specific provisions for certain agricultural products (single CMO Regulation) (vote)</en>
+    <fr>Modification du Règlement (CE) N°1234/2007 «OCM unique» (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="136" docOffset="2">
+    <en>Before the vote on paragraph 79:</en>
+    <fr>
+      <DiscourseConnective annotation_id="66">Avant</DiscourseConnective> le vote sur l'amendement 79</fr>
+  </ParallelChunk>
+<Speaker annotation_id="169" id="101" name="Syed Kamall">
+    <ParallelChunk annotation_id="169" docOffset="3">
+      <en>Mr President, I would first of all like to apologise to colleagues for this intervention, <Alignment alignment="183" annotation_id="259">
+          <DiscourseConnective annotation_id="259" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I wonder <Alignment alignment="202" annotation_id="272">
+          <DiscourseConnective annotation_id="272" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> someone could explain what 'CMO' actually stands for.</en>
+      <fr>(EN) Monsieur le Président, je demande à mes collègues d'excuser mon intervention, <Alignment alignment="110" annotation_id="183">
+          <DiscourseConnective annotation_id="183" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je me demande <Alignment alignment="166" annotation_id="202">
+          <DiscourseConnective annotation_id="202" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> quelqu'un pourrait m'expliquer ce que "OCM" veut dire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="329" id="102" name="President">
+    <ParallelChunk annotation_id="329" docOffset="4">
+      <en>It stands for 'common market organisation', <Alignment alignment="432" annotation_id="373">
+          <DiscourseConnective annotation_id="373" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> it will be slightly different in different languages!</en>
+      <fr>Cela veut dire "organisation commune des marchés", <Alignment alignment="4" annotation_id="311">
+          <DiscourseConnective annotation_id="311" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce sera légèrement différent dans les autres langues!</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

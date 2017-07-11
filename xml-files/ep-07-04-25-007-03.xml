@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Common rules in the field of civil aviation security (vote)</en>
+    <fr>Instauration de règles communes dans le domaine de la sûreté de l'aviation civile (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="63" docOffset="2">
+    <en>- Costa recommendation</en>
+    <fr>- Recommandation Costa</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="86" docOffset="3">
+    <en>- Before the vote</en>
+    <fr>-Avant le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="104" id="107" name="Robert Goebbels">
+    <ParallelChunk annotation_id="104" docOffset="4">
+      <en>(FR) Mr President, yesterday, during the debate, Mr Barrot announced that he was in possession of a written version of the Commission position on the amendments tabled by Members, <Alignment alignment="331" annotation_id="284">
+          <DiscourseConnective annotation_id="284" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I note that this document has not been distributed.</en>
+      <fr>Monsieur le Président, hier, lors du débat, le vice-président Barrot a annoncé <DiscourseConnective annotation_id="209">qu'</DiscourseConnective>il déposerait une version écrite de la position de la Commission sur les amendements introduits par les parlementaires <Alignment alignment="284" annotation_id="331">
+          <DiscourseConnective annotation_id="331" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je constate <DiscourseConnective annotation_id="346">que</DiscourseConnective> ce document n'a pas été distribué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="340" docOffset="5">
+      <en>I call on you to ensure that the Commission positions are made available to Members, <Alignment alignment="177485" annotation_id="425">
+          <DiscourseConnective annotation_id="425" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> many Members are waiting to learn what these positions are.</en>
+      <fr>Je vous invite <DiscourseConnective annotation_id="400">à</DiscourseConnective> veiller à ce <DiscourseConnective annotation_id="415">que</DiscourseConnective> les positions de la Commission soient accessibles aux parlementaires, <Alignment alignment="425" annotation_id="489">
+          <DiscourseConnective annotation_id="489" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> nombre d'entre eux attendent de connaître les positions de la Commission.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="491" id="108" name="President">
+    <ParallelChunk annotation_id="491" docOffset="6">
+      <en>Very well, Mr Goebbels, we shall ensure that that happens.</en>
+      <fr>Très bien, Monsieur Goebbels, nous y veillerons.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

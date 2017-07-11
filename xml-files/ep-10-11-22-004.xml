@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Composition of Parliament</en>
+    <fr>Composition du Parlement</fr>
+  </ParallelChunk>
+<Speaker annotation_id="26" id="009" name="President">
+    <ParallelChunk annotation_id="26" docOffset="1">
+      <en>The competent Spanish authorities have informed me that Mr Ramón Jáuregui Atondo has been replaced by Mrs María Irigoyen Pérez with effect from 16 November 2010.</en>
+      <fr>Les autorités espagnoles compétentes m'ont signalé <DiscourseConnective annotation_id="76">que</DiscourseConnective> M. Ramón Jáuregui Atondo a été remplacé par Mme María Irigoyen Pérez avec effet au 16 novembre 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="188" docOffset="2">
+      <en>I would like to welcome our new fellow Member and issue a reminder that, on the basis of Rule 3(2) of the Rules of Procedure of the European Parliament, <DiscourseConnective annotation_id="341" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective> such time as her credentials have been verified <Alignment alignment="395" annotation_id="395">
+          <DiscourseConnective annotation_id="395" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> a ruling has been given on any dispute, Mrs Irigoyen Pérez shall take her seat in Parliament and on its bodies and shall enjoy all the rights pertaining thereto, provided that she has previously declared that she does not hold any office incompatible with that of Member of the European Parliament.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="190">à</DiscourseConnective> souhaiter la bienvenue à notre nouvelle collègue députée <DiscourseConnective annotation_id="249">et</DiscourseConnective> rappeler <DiscourseConnective annotation_id="261">qu'en</DiscourseConnective> vertu de l'article 3, paragraphe 2, du règlement du Parlement européen, <DiscourseConnective annotation_id="339">aussi longtemps que</DiscourseConnective> ses pouvoirs n'ont pas été vérifiés <Alignment alignment="763" annotation_id="395">
+          <DiscourseConnective annotation_id="395" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> qu'il n'a pas été statué sur une contestation éventuelle, Mme Irigoyen Pérez pourra siéger au Parlement <DiscourseConnective annotation_id="502">et</DiscourseConnective> dans ses organes en pleine jouissance de ses droits, à la condition <DiscourseConnective annotation_id="573">qu'</DiscourseConnective>elle ait effectué au préalable la déclaration <DiscourseConnective annotation_id="622">qu'</DiscourseConnective>elle n'exerce pas une fonction incompatible avec celle de député au Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

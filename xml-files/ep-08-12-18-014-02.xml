@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Nicaragua (vote)</en>
+    <fr>Nicaragua (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="20" docOffset="2">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="22">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="38" id="315" language="ES" name="Manuel Medina Ortega">
+    <ParallelChunk annotation_id="38" docOffset="3">
+      <en>Some requests have been submitted on behalf of the Socialist Group in the European Parliament for a split vote on paragraphs 1 and 4, as well as some proposals for oral amendments, namely on paragraph 2, recital A and recital F. I am sure the President is aware of this, <Alignment alignment="322853" annotation_id="309">
+          <DiscourseConnective annotation_id="309" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="367" annotation_id="313">
+          <DiscourseConnective annotation_id="313" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> not I could explain it to her.</en>
+      <fr>Certaines requêtes ont été soumises au nom du groupe socialiste au Parlement européen <DiscourseConnective annotation_id="122">pour</DiscourseConnective> la tenue d'un vote par division sur les paragraphes 1 <DiscourseConnective annotation_id="181">et</DiscourseConnective> 4, <DiscourseConnective annotation_id="187">ainsi</DiscourseConnective> que sur certaines propositions d'amendements oraux, à savoir le paragraphe 2, le considérant A <DiscourseConnective annotation_id="288">et</DiscourseConnective> le considérant F. Je suis certain que la présidente en a été informée, <Alignment alignment="309" annotation_id="362">
+          <DiscourseConnective annotation_id="362" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="582" annotation_id="367">
+          <DiscourseConnective annotation_id="367" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> ce n'est pas le cas, je peux lui donner une explication.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="347" id="317" language="ES" name="Manuel Medina Ortega">
+    <ParallelChunk annotation_id="347" docOffset="4">
+      <en>In paragraph 2 we would like to include an oral amendment specifying the municipalities in which the disturbances are happening, which are León and Managua: it would read 'municipalities (León and Managua)'.</en>
+      <fr>Au paragraphe 2, nous voudrions intégrer un amendement oral spécifiant les municipalités dans lesquelles se déroulent les incidents, à savoir León <DiscourseConnective annotation_id="574">et</DiscourseConnective> Managua: cela donnerait dans le texte "municipalités (León <DiscourseConnective annotation_id="636">et</DiscourseConnective> Managua)".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="555" docOffset="5">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="604" docOffset="6">
+      <en>- Before the vote on recital Α</en>
+      <fr>- <DiscourseConnective annotation_id="683">Avant</DiscourseConnective> le vote sur le considérant Α</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="635" id="319" language="ES" name="Manuel Medina Ortega">
+    <ParallelChunk annotation_id="635" docOffset="7">
+      <en>With regard to the text of recital A, the Socialist Group in the European Parliament was proposing an oral amendment to put 'allegation' in the singular, instead of the plural 'allegations'.</en>
+      <fr>Concernant le texte du considérant A, le groupe socialiste au Parlement européen proposait un amendement oral visant <DiscourseConnective annotation_id="835">à</DiscourseConnective> écrire "allégation" au singulier <DiscourseConnective annotation_id="870">au lieu</DiscourseConnective> du pluriel "allégations".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="826" docOffset="8">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="875" docOffset="9">
+      <en>- Before the vote on recital F</en>
+      <fr>- <DiscourseConnective annotation_id="937">Avant</DiscourseConnective> le vote sur le considérant F</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="906" id="321" language="ES" name="Manuel Medina Ortega">
+    <ParallelChunk annotation_id="906" docOffset="10">
+      <en>In recital F, instead of 'criminal investigations', we propose 'judicial investigations'; <Alignment alignment="1064" annotation_id="996">
+          <Alignment alignment="342479" annotation_id="996">
+            <Alignment alignment="1519" annotation_id="996">
+              <DiscourseConnective annotation_id="996" sense="Expansion.Restatement">in other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, we propose replacing 'criminal' with 'judicial'.</en>
+      <fr>Au considérant F, <DiscourseConnective annotation_id="990">au lieu de</DiscourseConnective> "enquêtes criminelles", nous proposons "enquêtes judiciaires"; <Alignment alignment="1113" annotation_id="1064">
+          <Alignment alignment="75" annotation_id="1064">
+            <Alignment alignment="307" annotation_id="1064">
+              <DiscourseConnective annotation_id="1064" sense="Expansion.Restatement">en d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, nous proposons de remplacer "criminelles" par "judiciaires".</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

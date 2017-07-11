@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>The performance and sustainability of the European aviation system (</en>
+    <fr>Performances <DiscourseConnective annotation_id="16">et</DiscourseConnective> viabilité du système aéronautique européen (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="72" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="66">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="91" id="091" name="Marian-Jean Marinescu">
+    <ParallelChunk annotation_id="91" docOffset="3">
+      <en>rapporteur. - (RO) Parliament reached an agreement with the Council <Alignment alignment="147" annotation_id="159">
+          <DiscourseConnective annotation_id="159" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this agreement is supported by five political groups.</en>
+      <fr>rapporteur. - (RO) Le Parlement a conclu un accord avec le Conseil <Alignment alignment="0" annotation_id="147">
+          <DiscourseConnective annotation_id="147" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cet accord est soutenu par les cinq groupes politiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="217" docOffset="4">
+      <en>I am referring to the two reports which follow.</en>
+      <fr>Je fais référence aux deux rapports qui suivent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="265" docOffset="5">
+      <en>Thanks to the amendments submitted by two of our fellow Members - incidentally, the content of these amendments has already been included in the compromise agreed with the Council -, we must vote today on a number of articles.</en>
+      <fr>Grâce aux amendements présentés par deux de nos camarades députés - le contenu de ces amendements avait en fait <DiscourseConnective annotation_id="367">déjà</DiscourseConnective> été inclus dans le compromis décidé de commun accord avec le Conseil - nous devons aujourd'hui voter sur un certain nombre d'articles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="492" docOffset="6">
+      <en>Rules which I regard as incorrect have meant that the order of vote includes in some articles the text from the Committee on Transport and Tourism first and <Alignment alignment="1691" annotation_id="649">
+          <DiscourseConnective annotation_id="649" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> the compromise text.</en>
+      <fr>En raison de certaines règles <DiscourseConnective annotation_id="537">que</DiscourseConnective> je considère incorrectes, l'ordre des votes comprend dans certains articles <DiscourseConnective annotation_id="617">tout d'abord</DiscourseConnective> le texte de la commission des transports <DiscourseConnective annotation_id="671">et</DiscourseConnective> du tourisme, <DiscourseConnective annotation_id="687">et</DiscourseConnective> <Alignment alignment="649" annotation_id="690">
+          <DiscourseConnective annotation_id="690" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> le texte du compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="675" docOffset="7">
+      <en>I would like to request for us to vote on the compromise text today <Alignment alignment="806" annotation_id="743">
+          <DiscourseConnective annotation_id="743" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it is actually supported by the five political groups, <Alignment alignment="871" annotation_id="801">
+          <Alignment alignment="871" annotation_id="801">
+            <DiscourseConnective annotation_id="801" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the two regulations come into force by the end of this legislature.</en>
+      <fr>Je voudrais demander <DiscourseConnective annotation_id="742">que</DiscourseConnective> nous puissions voter aujourd'hui sur le texte de compromis, <Alignment alignment="743" annotation_id="806">
+          <DiscourseConnective annotation_id="806" sense="Temporal.Synchrony">vu qu'</DiscourseConnective>
+        </Alignment>il est réellement soutenu par les cinq groupes politiques, <Alignment alignment="801" annotation_id="871">
+          <Alignment alignment="187" annotation_id="871">
+            <DiscourseConnective annotation_id="871" sense="Contingency.Cause.Result">de manière à ce que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les deux règlements puissent entrer en vigueur d'ici la fin de la législature.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="877" id="092" name="President">
+    <ParallelChunk annotation_id="877" docOffset="8">
+      <en>- Thank you for your comments.</en>
+      <fr>Merci <DiscourseConnective annotation_id="976">pour</DiscourseConnective> vos commentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="908" docOffset="9">
+      <en>We will <Alignment alignment="1014" annotation_id="916">
+          <Alignment alignment="1014" annotation_id="916">
+            <DiscourseConnective annotation_id="916" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> get to where you would like to be by following the voting list and voting on the amendments.</en>
+      <fr>Nous passerons <Alignment alignment="980" annotation_id="1014">
+          <Alignment alignment="455" annotation_id="1014">
+            <DiscourseConnective annotation_id="1014" sense="Expansion.Conjunction">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> <DiscourseConnective annotation_id="1022">à</DiscourseConnective> ce <DiscourseConnective annotation_id="1027">que</DiscourseConnective> vous souhaitez <DiscourseConnective annotation_id="1046">en</DiscourseConnective> suivant la liste de vote <DiscourseConnective annotation_id="1074">et</DiscourseConnective> en votant sur les amendements.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

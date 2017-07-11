@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>7.</en>
+    <fr>7.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Public access to European Parliament, Council and Commission documents (</en>
+    <fr>Accès du public aux documents du Parlement européen, du Conseil <DiscourseConnective annotation_id="67">et</DiscourseConnective> de la Commission (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="76" id="087" name="Michael Cashman">
+    <ParallelChunk annotation_id="76" docOffset="2">
+      <en>rapporteur. - Mr President, I was given a mandate by the House to enter into negotiations with the other institutions on this important dossier.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, j'ai reçu de cette Assemblée le mandat d'entamer des négociations avec les autres institutions sur ce dossier important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="221" docOffset="3">
+      <en>Sadly, I have to report that the negotiations have not been productive, <Alignment alignment="333" annotation_id="293">
+          <DiscourseConnective annotation_id="293" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="337" annotation_id="297">
+          <DiscourseConnective annotation_id="297" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> I am recommending to the House today that we do not vote <Alignment alignment="502016" annotation_id="364">
+          <DiscourseConnective annotation_id="364" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that we refer the decision on this important dossier to the next Parliament, <Alignment alignment="501" annotation_id="445">
+          <DiscourseConnective annotation_id="445" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I expect the Commission to produce a new proposal in the autumn of this year.</en>
+      <fr>
+        <DiscourseConnective annotation_id="252">Malheureusement</DiscourseConnective>, je dois signaler <DiscourseConnective annotation_id="286">que</DiscourseConnective> les négociations n'ont pas été fructueuses <Alignment alignment="293" annotation_id="333">
+          <DiscourseConnective annotation_id="333" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="88" annotation_id="337">
+          <DiscourseConnective annotation_id="337" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, je recommande aujourd'hui <DiscourseConnective annotation_id="379">à</DiscourseConnective> cette Assemblée de ne pas voter, <Alignment alignment="182" annotation_id="414">
+          <DiscourseConnective annotation_id="414" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de renvoyer <DiscourseConnective annotation_id="429">à</DiscourseConnective> la prochaine législature la décision concernant ce dossier important, <Alignment alignment="445" annotation_id="501">
+          <DiscourseConnective annotation_id="501" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment>, je pense, la Commission aura présenté une nouvelle proposition, c'est-à-dire <DiscourseConnective annotation_id="587">à</DiscourseConnective> l'automne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="528" id="088" name="Andris Piebalgs">
+    <ParallelChunk annotation_id="528" docOffset="4">
+      <en>Member of the Commission. - Mr President, the Commission takes note of the decision of Parliament to postpone the vote on the legislative resolution accompanying Mr Cashman's report until the next parliamentary term.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, la Commission prend note de la décision du Parlement de reporter à la prochaine législature le vote sur la résolution législative accompagnant le rapport de M. Cashman.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="745" docOffset="5">
+      <en>
+        <Alignment alignment="155" annotation_id="745">
+          <DiscourseConnective annotation_id="745" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> fully respecting Parliament's decision, the Commission is not convinced that the vote closing Parliament's first reading would tie the hands of the next Parliament.</en>
+      <fr>
+        <Alignment alignment="734" annotation_id="824">
+          <DiscourseConnective annotation_id="824" sense="Comparison.Contrast">Tout en</DiscourseConnective>
+        </Alignment> respectant pleinement la décision du Parlement, la Commission n'est pas convaincue <DiscourseConnective annotation_id="915">que</DiscourseConnective> le vote concluant la première lecture du Parlement lierait le prochain Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="916" docOffset="6">
+      <en>
+        <Alignment alignment="1001" annotation_id="916">
+          <DiscourseConnective annotation_id="916" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, the Commission will reconsider its proposal only <Alignment alignment="24" annotation_id="976">
+          <DiscourseConnective annotation_id="976" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> the two branches of legislative authority have adopted their positions, but intends to continue to pursue a constructive dialogue with both institutions in the mean time and confirms its willingness to seek a compromise with Parliament and the Council.</en>
+      <fr>
+        <Alignment alignment="24" annotation_id="1001">
+          <DiscourseConnective annotation_id="1001" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, la Commission réexaminera sa proposition <Alignment alignment="976" annotation_id="1058">
+          <DiscourseConnective annotation_id="1058" sense="Temporal.Asynchronous.Succession">une fois que</DiscourseConnective>
+        </Alignment> les deux branches du pouvoir législatif auront adopté leurs positions respectives, <DiscourseConnective annotation_id="1154">mais</DiscourseConnective> elle entend continuer, dans l'intervalle, de poursuivre un dialogue constructif avec les deux institutions, <DiscourseConnective annotation_id="1267">et</DiscourseConnective> réaffirme sa volonté de rechercher un compromis avec le Parlement <DiscourseConnective annotation_id="1336">et</DiscourseConnective> le Conseil.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1235" id="089" name="Michael Cashman">
+    <ParallelChunk annotation_id="1235" docOffset="7">
+      <en>rapporteur. - Mr President, I think that illustrates why it is extremely important that the next Parliament exercises every single prerogative that it has.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je pense que cela montre bien pourquoi il est extrêmement important <DiscourseConnective annotation_id="1461">que</DiscourseConnective> le prochain Parlement exerce toutes les prérogatives <DiscourseConnective annotation_id="1518">qu'</DiscourseConnective>il détient.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1391" docOffset="8">
+      <en>A dialogue means that each institution has to listen.</en>
+      <fr>Le dialogue implique <DiscourseConnective annotation_id="1554">que</DiscourseConnective> chaque institution doit être <DiscourseConnective annotation_id="1587">à</DiscourseConnective> l'écoute.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1445" docOffset="9">
+      <en>So far, neither of the institutions is listening to Parliament.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1599">Jusqu'à</DiscourseConnective> présent, aucune des deux institutions n'est à l'écoute du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1509" docOffset="10">
+      <en>For that reason, we should not take the vote <Alignment alignment="538552" annotation_id="1554">
+          <DiscourseConnective annotation_id="1554" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we should fully empower the next Parliament.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1676">Pour</DiscourseConnective> cette raison, nous ne devons pas procéder au vote <Alignment alignment="339" annotation_id="1731">
+          <DiscourseConnective annotation_id="1731" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous devons donner un mandat complet au prochain Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1603" docOffset="11">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1614" id="091" name="President">
+    <ParallelChunk annotation_id="1614" docOffset="12">
+      <en>I am not sure whether congratulations are in order for Mr Cashman.</en>
+      <fr>Je ne sais pas <DiscourseConnective annotation_id="1828">si</DiscourseConnective> des félicitations sont de mise <DiscourseConnective annotation_id="1862">pour</DiscourseConnective> M. Cashman?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1681" docOffset="13">
+      <en>Yes?</en>
+      <fr>Si?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1686" docOffset="14">
+      <en>Then we congratulate him.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1883">Alors</DiscourseConnective> nous le félicitons.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

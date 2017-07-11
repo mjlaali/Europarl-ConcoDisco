@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="006" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>Given the tragedy that has struck the region of Murcia and specifically, the town of Lorca, I should like to express, on behalf of the Presidency, our solidarity with that community and with all the victims, several of whom have been killed.</en>
+      <fr>Étant donné la tragédie qui a frappé la région de Murcie <DiscourseConnective annotation_id="86">et</DiscourseConnective>, <DiscourseConnective annotation_id="90">en particulier</DiscourseConnective>, la ville de Lorca, je tiens <DiscourseConnective annotation_id="134">à</DiscourseConnective> exprimer, au nom de la présidence, notre solidarité envers cette communauté <DiscourseConnective annotation_id="212">et</DiscourseConnective> avec toutes les victimes, dont plusieurs ont perdu la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="269" docOffset="2">
+      <en>The President will convey, on behalf of Parliament, a message of solidarity and condolence to the victims and to the community affected.</en>
+      <fr>Le président enverra, au nom du Parlement, un message de solidarité <DiscourseConnective annotation_id="342">et</DiscourseConnective> de condoléance aux victimes <DiscourseConnective annotation_id="373">et</DiscourseConnective> <DiscourseConnective annotation_id="376">à</DiscourseConnective> la communauté affectée.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

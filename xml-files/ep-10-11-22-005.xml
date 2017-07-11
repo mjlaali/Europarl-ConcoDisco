@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Composition of political groups</en>
+    <fr>Composition des groupes politiques</fr>
+  </ParallelChunk>
+<Speaker annotation_id="32" id="011" name="President">
+    <ParallelChunk annotation_id="32" docOffset="1">
+      <en>I would like to inform you that Mr Claudiu Ciprian Tănăsescu joined the Group of the Progressive Alliance of Socialists and Democrats in the European Parliament with effect from 15 November 2010.</en>
+      <fr>Je voudrais vous signaler <DiscourseConnective annotation_id="61">que</DiscourseConnective> M. Claudiu Ciprian Tănăsescu a rejoint le groupe de l'Alliance progressiste des Socialistes <DiscourseConnective annotation_id="157">et</DiscourseConnective> Démocrates au Parlement européen avec effet au 15 novembre 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="228" docOffset="2">
+      <en>I would <Alignment alignment="237" annotation_id="236">
+          <DiscourseConnective annotation_id="236" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to inform you that Mr Pino Arlacchi joined the Group of the Progressive Alliance of Socialists and Democrats in the European Parliament with effect from 18 November 2010.</en>
+      <fr>Je voudrais <Alignment alignment="60" annotation_id="237">
+          <DiscourseConnective annotation_id="237" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> vous signaler <DiscourseConnective annotation_id="261">que</DiscourseConnective> M. Pino Arlacchi a rejoint le groupe de l'Alliance progressiste des Socialistes <DiscourseConnective annotation_id="345">et</DiscourseConnective> Démocrates au Parlement européen avec effet au 18 novembre 2010.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

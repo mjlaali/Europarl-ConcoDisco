@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Request for the waiver of Mr Elmar Brok's parliamentary immunity (</en>
+    <fr>Demande de levée de l'immunité parlementaire de M. Elmar Brok (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="70" id="133" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="70" docOffset="2">
+      <en>(FR) Madam President, you know this <Alignment alignment="103" annotation_id="106">
+          <DiscourseConnective annotation_id="106" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> you yourself were disavowed by the European Court of Justice in an immunity case concerning me.</en>
+      <fr>Madame la Présidente, vous le savez <Alignment alignment="106" annotation_id="103">
+          <DiscourseConnective annotation_id="103" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> vous avez vous-même été désavouée par la Cour de justice européenne dans une affaire d'immunité qui me concerne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="208" docOffset="3">
+      <en>I am hopeful that the leniency we are showing towards Mr Brok for a financial affair will <Alignment alignment="470" annotation_id="298">
+          <DiscourseConnective annotation_id="298" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> apply to the freedom of expression of those Members of the House who belong to the minority.</en>
+      <fr>J'ose espérer <DiscourseConnective annotation_id="238">que</DiscourseConnective> la mansuétude dont on fait preuve envers M. Brook <DiscourseConnective annotation_id="292">pour</DiscourseConnective> une affaire financière vaudra <Alignment alignment="298" annotation_id="327">
+          <DiscourseConnective annotation_id="327" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> en ce qui concerne la liberté d'expression des membres de ce Parlement qui appartiennent <DiscourseConnective annotation_id="422">à</DiscourseConnective> la minorité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="396" docOffset="4">
+      <en>The equality that prevailed 20 years ago in this House was a credit to it and to its Committee on Legal Affairs.</en>
+      <fr>Cette égalité qui régnait il y a vingt ans dans ce Parlement l'honorait <DiscourseConnective annotation_id="509">et</DiscourseConnective> honorait sa commission juridique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="509" docOffset="5">
+      <en>Unfortunately, the immunity system has turned into a party political issue. I personally deplore this and hope that our institution will pull itself together.</en>
+      <fr>
+        <DiscourseConnective annotation_id="546">Malheureusement</DiscourseConnective>, le régime des immunités a évolué d'une façon partisane que personnellement je déplore <DiscourseConnective annotation_id="649">et</DiscourseConnective> j'espère <DiscourseConnective annotation_id="661">que</DiscourseConnective> notre institution va se ressaisir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="668" docOffset="6">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="679" id="134" name="Francesco Enrico Speroni">
+    <ParallelChunk annotation_id="679" docOffset="7">
+      <en>rapporteur. - (IT) Madam President, ladies and gentlemen, I only have to clarify one statistic.</en>
+      <fr>rapporteur. - (IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="769">et</DiscourseConnective> Messieurs, Je voudrais <DiscourseConnective annotation_id="795">simplement</DiscourseConnective> rectifier un chiffre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="775" docOffset="8">
+      <en>Due to a misunderstanding, the figure of EUR 2 900 was mentioned in the explanatory statements of the reports, <DiscourseConnective annotation_id="886" sense="Comparison.Contrast">whereas</DiscourseConnective> the correct figure is EUR 2 356.41.</en>
+      <fr>À la suite d'un malentendu, les explications du rapport donnent le chiffre de 2 900 euros, alors qu'il s'agit en réalité de 2 356,41 euros.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

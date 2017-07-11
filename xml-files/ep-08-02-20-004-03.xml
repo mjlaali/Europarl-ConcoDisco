@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Lisbon strategy (vote)</en>
+    <fr>Stratégie de Lisbonne (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="26" docOffset="2">
+    <en>- Before the vote on Amendment 12</en>
+    <fr>- Préalablement au vote sur l'amendement 12</fr>
+  </ParallelChunk>
+<Speaker annotation_id="60" id="104" name="Udo Bullmann">
+    <ParallelChunk annotation_id="60" docOffset="3">
+      <en>(DE) Mr President, I would like to suggest a change to Amendment 12 which, naturally, does not replace the amendment but inserts an additional formulation in the second sentence.</en>
+      <fr>(DE) Monsieur le Président, j'aimerais suggérer une modification de l'amendement 12, qui, bien entendu, ne remplace pas cet amendement <DiscourseConnective annotation_id="211">mais</DiscourseConnective> ajoute une formulation supplémentaire dans la seconde phrase.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="239" docOffset="4">
+      <en>This additional formulation is worded:</en>
+      <fr>Cette formulation supplémentaire est exprimée ainsi:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="278" docOffset="5">
+      <en>'or through collective agreements in accordance with national traditions'.</en>
+      <fr>"ou au travers d'accords collectifs conformément aux traditions nationales".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="353" docOffset="6">
+      <en>This comes <Alignment alignment="1060" annotation_id="364">
+          <DiscourseConnective annotation_id="364" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> 'generally binding arrangements', <Alignment alignment="465" annotation_id="404">
+          <DiscourseConnective annotation_id="404" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> before 'that enable full-time workers to make a decent living from their earnings.'</en>
+      <fr>Ce qui vient <Alignment alignment="352" annotation_id="421">
+          <DiscourseConnective annotation_id="421" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> "arrangements obligatoires généraux", <Alignment alignment="404" annotation_id="465">
+          <DiscourseConnective annotation_id="465" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="468">avant</DiscourseConnective> "qui permet aux travailleurs <DiscourseConnective annotation_id="503">à</DiscourseConnective> plein temps de vivre décemment de leurs revenus."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="492" docOffset="7">
+      <en>(DE) An amendment suggesting this supplementary formulation is designed to take into account conditions in Scandinavia and has been agreed with the co-rapporteurs and the groups who are <Alignment alignment="746" annotation_id="678">
+          <DiscourseConnective annotation_id="678" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> requesting it.</en>
+      <fr>(DE) Un amendement suggérant cette formulation supplémentaire est conçu <DiscourseConnective annotation_id="627">pour</DiscourseConnective> prendre en compte les conditions <DiscourseConnective annotation_id="665">en</DiscourseConnective> Scandinavie, <DiscourseConnective annotation_id="681">et</DiscourseConnective> a été approuvé avec les corapporteurs <DiscourseConnective annotation_id="722">et</DiscourseConnective> les groupes en ayant <Alignment alignment="148" annotation_id="746">
+          <DiscourseConnective annotation_id="746" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> fait la demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="698" docOffset="8">
+      <en>(The oral amendment was accepted.)</en>
+      <fr>(L'amendement oral est accepté.)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Sanctions against employers of illegally staying third-country nationals (</en>
+    <fr>Sanctions à l'encontre des employeurs de ressortissants de pays tiers en séjour irrégulier (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="78" docOffset="2">
+    <en>
+      <Alignment alignment="347697" annotation_id="78">
+        <DiscourseConnective annotation_id="78" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+      </Alignment> the vote:</en>
+    <fr>
+      <Alignment alignment="68" annotation_id="96">
+        <DiscourseConnective annotation_id="96" sense="Temporal.Asynchronous.Precedence">Avant</DiscourseConnective>
+      </Alignment> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="95" id="104" language="IT" name="Claudio Fava">
+    <ParallelChunk annotation_id="95" docOffset="3">
+      <en>Madam President, with your permission I would like to ask the Council, with support from the other groups, to annex the following formal declaration to the directive and <Alignment alignment="286" annotation_id="265">
+          <DiscourseConnective annotation_id="265" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> to postpone the vote on the legislative resolution.</en>
+      <fr>Madame la Présidente, <DiscourseConnective annotation_id="133">si</DiscourseConnective> vous le permettez, je voudrais demander au Conseil, avec le soutien des autres groupes, d'annexer la déclaration formelle suivante <DiscourseConnective annotation_id="267">à</DiscourseConnective> la directive <DiscourseConnective annotation_id="282">et</DiscourseConnective>, <Alignment alignment="360" annotation_id="286">
+          <DiscourseConnective annotation_id="286" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, de reporter le vote sur la résolution législative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="327" docOffset="4">
+      <en>I shall read the declaration that I hope will be annexed:</en>
+      <fr>Je lis la déclaration qui sera annexée je l'espère:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="385" docOffset="5">
+      <en>'The European Parliament and the Council state that the rules on subcontracting agreed upon in Article 9 of this Directive shall be without prejudice to other provisions on this issue to be adopted in future legislative instruments.'</en>
+      <fr>rapporteur.(EN) "Le Parlement européen <DiscourseConnective annotation_id="444">et</DiscourseConnective> le Conseil déclarent <DiscourseConnective annotation_id="468">que</DiscourseConnective> les règles sur la sous-traitance visées <DiscourseConnective annotation_id="512">à</DiscourseConnective> l'article 9 de l'accord sur la présente directive ne porteront pas préjudice <DiscourseConnective annotation_id="591">à</DiscourseConnective> d'autres dispositions relatives à cette question susceptibles d'être adoptées dans le cadre d'instruments législatifs à venir."</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="619" id="106" name="Martin Bursík">
+    <ParallelChunk annotation_id="619" docOffset="6">
+      <en>President-in-Office of the Council. - Madam President, the Presidency takes note of the proposed declaration.</en>
+      <fr>président <DiscourseConnective annotation_id="731">en</DiscourseConnective> exercice du Conseil. - (EN) Madame la Présidente, la présidence prend note de la déclaration proposée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="729" docOffset="7">
+      <en>
+        <Alignment alignment="2677" annotation_id="729">
+          <DiscourseConnective annotation_id="729" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it has to inform the Members of the European Parliament that it cannot make commitments on behalf of the Council without consulting it.</en>
+      <fr>
+        <Alignment alignment="729" annotation_id="837">
+          <DiscourseConnective annotation_id="837" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, elle doit informer les députés du Parlement européen <DiscourseConnective annotation_id="901">qu'</DiscourseConnective>elle ne peut prendre aucun engagement au nom du Conseil <DiscourseConnective annotation_id="960">sans</DiscourseConnective> le consulter.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="874" id="107" language="IT" name="Claudio Fava">
+    <ParallelChunk annotation_id="874" docOffset="8">
+      <en>Madam President, I understand that the Council must meet formally with the Permanent Representatives Committee.</en>
+      <fr>Madame la Présidente, je sais <DiscourseConnective annotation_id="1009">que</DiscourseConnective> le Conseil doit avoir une réunion formelle avec le comité des représentants permanents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="986" docOffset="9">
+      <en>I ask the Presidency to propose officially that this declaration be added <Alignment alignment="1183" annotation_id="1060">
+          <DiscourseConnective annotation_id="1060" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> for this reason I am requesting that the vote on the resolution be postponed until the next plenary session, in order to give the Council time to carry out its formal consultation.</en>
+      <fr>Je demande à la présidence de proposer officiellement d'ajouter cette déclaration <Alignment alignment="1060" annotation_id="1183">
+          <DiscourseConnective annotation_id="1183" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1186">c'est pourquoi</DiscourseConnective> je vous demande de reporter le vote sur la résolution <DiscourseConnective annotation_id="1255">jusqu'à</DiscourseConnective> la prochaine session plénière, <DiscourseConnective annotation_id="1294">afin de</DiscourseConnective> laisser le temps au Conseil de se livrer à sa consultation formelle.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>UN Convention on the Rights of Persons with Disabilities (</en>
+    <fr>Convention des Nations unies relative aux droits des personnes handicapées (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="62" docOffset="2">
+    <en>- After the vote</en>
+    <fr>- <DiscourseConnective annotation_id="82">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="79" id="113" name="Gay Mitchell">
+    <ParallelChunk annotation_id="79" docOffset="3">
+      <en>Madam President, a vote was defeated <DiscourseConnective annotation_id="116" sense="Contingency.Cause.Reason">because</DiscourseConnective> there was an equal number of votes just a couple of moments ago.</en>
+      <fr>(EN) Madame la Présidente, il y a quelques instants, un vote vient d'être rejeté en raison d'une égalité des voix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="189" docOffset="4">
+      <en>A Member has made a very serious allegation about voting in the Chamber.</en>
+      <fr>Un député a fait une allégation très grave concernant le vote au sein de ce Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="262" docOffset="5">
+      <en>I would ask you to halt proceedings <Alignment alignment="351" annotation_id="298">
+          <DiscourseConnective annotation_id="298" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> we find out whether there are Members voting who should not be voting, <Alignment alignment="467" annotation_id="375">
+          <DiscourseConnective annotation_id="375" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> whether this allegation is false.</en>
+      <fr>Je voudrais vous demander d'interrompre la procédure <Alignment alignment="89" annotation_id="351">
+          <DiscourseConnective annotation_id="351" sense="Temporal.Asynchronous.Precedence">jusqu'à ce que</DiscourseConnective>
+        </Alignment> nous ayons déterminé <DiscourseConnective annotation_id="387">s'</DiscourseConnective>il y a effectivement des députés qui votent alors qu'ils ne le devraient pas, <Alignment alignment="1095" annotation_id="467">
+          <DiscourseConnective annotation_id="467" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="470">s'</DiscourseConnective>il <DiscourseConnective annotation_id="475">s'</DiscourseConnective>agit d'une fausse allégation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="412" docOffset="6">
+      <en>It is a very serious allegation.</en>
+      <fr>Celle-ci est très grave.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="445" docOffset="7">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="456" id="114" name="President">
+    <ParallelChunk annotation_id="456" docOffset="8">
+      <en>I have just said that it will be verified.</en>
+      <fr>Je viens de <DiscourseConnective annotation_id="563">dire que</DiscourseConnective> ce serait vérifié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="499" docOffset="9">
+      <en>That means that it will be verified immediately.</en>
+      <fr>Cela veut <DiscourseConnective annotation_id="601">dire que</DiscourseConnective> ce sera vérifié immédiatement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="548" docOffset="10">
+      <en>We are dealing with it.</en>
+      <fr>Nous nous en occupons.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="572" id="115" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="572" docOffset="11">
+      <en>- (FR) Madam President, I will be very brief on this point.</en>
+      <fr>Madame la Présidente, je serai très <DiscourseConnective annotation_id="700">bref</DiscourseConnective> sur ce point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="632" docOffset="12">
+      <en>
+        <Alignment alignment="381987" annotation_id="632">
+          <DiscourseConnective annotation_id="632" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> one of our fellow Members has made an accusation, I will ask him to clarify his accusation.</en>
+      <fr>
+        <Alignment alignment="132" annotation_id="719">
+          <DiscourseConnective annotation_id="719" sense="Temporal.Synchrony">Puisque</DiscourseConnective>
+        </Alignment> l'un de nos collègues a porté une accusation, je lui demanderai de préciser son accusation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="727" docOffset="13">
+      <en>
+        <Alignment alignment="822" annotation_id="727">
+          <DiscourseConnective annotation_id="727" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you said, the verification needs to take place immediately, <Alignment alignment="2509" annotation_id="790">
+          <DiscourseConnective annotation_id="790" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="900" annotation_id="794">
+          <DiscourseConnective annotation_id="794" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment>, <Alignment alignment="904" annotation_id="798">
+          <DiscourseConnective annotation_id="798" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I believe, it turns out after verification that the accusation is false, I ask that all the conclusions be drawn from this.</en>
+      <fr>Et <Alignment alignment="535" annotation_id="822">
+          <DiscourseConnective annotation_id="822" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous l'avez dit, il faut que la vérification ait lieu immédiatement, <Alignment alignment="387" annotation_id="897">
+          <DiscourseConnective annotation_id="897" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="794" annotation_id="900">
+          <DiscourseConnective annotation_id="900" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment>, <Alignment alignment="395" annotation_id="904">
+          <DiscourseConnective annotation_id="904" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je le pense, il s'avère, <DiscourseConnective annotation_id="935">après</DiscourseConnective> la vérification, <DiscourseConnective annotation_id="958">que</DiscourseConnective> son accusation est calomnieuse, je demande <DiscourseConnective annotation_id="1005">que</DiscourseConnective> toutes les conséquences en soient tirées.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="925" id="116" name="President">
+    <ParallelChunk annotation_id="925" docOffset="14">
+      <en>I said that the verification would be done.</en>
+      <fr>J'ai dit <DiscourseConnective annotation_id="1060">que</DiscourseConnective> la vérification serait faite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="969" docOffset="15">
+      <en>It is going to be done immediately, <Alignment alignment="394807" annotation_id="1005">
+          <DiscourseConnective annotation_id="1005" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I will keep you informed in the next few minutes.</en>
+      <fr>Elle va être faite immédiatement, <Alignment alignment="1005" annotation_id="1128">
+          <DiscourseConnective annotation_id="1128" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> je vous en tiendrai informés dans les minutes qui viennent.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Radio Spectrum (debate)</en>
+    <fr>Pour une politique européenne en matière de spectre radioélectrique (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="24" id="306" name="President">
+    <ParallelChunk annotation_id="24" docOffset="1">
+      <en>The next item is the report by Mrs Hall, on behalf of the Committee on Industry, Research and Energy, entitled 'Towards a European policy on the radio spectrum'.</en>
+      <fr>L'ordre du jour appelle le rapport de Mme Hall, au nom de la commission de l'industrie, de la recherche <DiscourseConnective annotation_id="180">et</DiscourseConnective> de l'énergie, sur une politique européenne <DiscourseConnective annotation_id="226">en</DiscourseConnective> matière de spectre radioélectrique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="186" id="307" name="Fiona Hall ">
+    <ParallelChunk annotation_id="186" docOffset="2">
+      <en>rapporteur. - Madam President, firstly I would like to thank all the people who shared their knowledge and expertise with me <Alignment alignment="426" annotation_id="311">
+          <DiscourseConnective annotation_id="311" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I was preparing this report.</en>
+      <fr>rapporteur. - (EN) Madame la Présidente, je souhaite <DiscourseConnective annotation_id="318">tout d'abord</DiscourseConnective> remercier toutes les personnes qui ont partagé avec moi leurs connaissances <DiscourseConnective annotation_id="407">et</DiscourseConnective> leur expertise, <Alignment alignment="311" annotation_id="426">
+          <DiscourseConnective annotation_id="426" sense="Temporal.Synchrony">tandis que</DiscourseConnective>
+        </Alignment> je préparais ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="345" docOffset="3">
+      <en>I would particularly like to thank the Commission for its generous help, as well as my colleagues, the shadows from the other groups, for their very constructive and cooperative suggestions.</en>
+      <fr>Je souhaite remercier <DiscourseConnective annotation_id="484">en particulier</DiscourseConnective> la Commission <DiscourseConnective annotation_id="513">pour</DiscourseConnective> son aide généreuse, <DiscourseConnective annotation_id="538">de même que</DiscourseConnective> mes collègues, les rapporteurs fictifs des autres groupes, <DiscourseConnective annotation_id="609">pour</DiscourseConnective> leurs suggestions très constructives <DiscourseConnective annotation_id="651">et</DiscourseConnective> coopératives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="536" docOffset="4">
+      <en>The basic theme of the report is that the current method of managing radio spectrum is no longer adequate in the face of constantly emerging new technologies.</en>
+      <fr>Le sujet fondamental de ce rapport concerne l'inadéquation de la méthode actuelle de gestion du spectre radioélectrique face à l'émergence constante de nouvelles technologies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="695" docOffset="5">
+      <en>These new technologies need to make use of radio spectrum, <Alignment alignment="916" annotation_id="754">
+          <DiscourseConnective annotation_id="754" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the quantity of radio spectrum will always be limited simply by the laws of physics, <DiscourseConnective annotation_id="843" sense="Contingency.Cause.Result">so</DiscourseConnective> we have to find ways of making sure that this precious resource is used as efficiently as possible.</en>
+      <fr>Ces nouvelles technologies doivent utiliser le spectre radioélectrique, <Alignment alignment="754" annotation_id="916">
+          <DiscourseConnective annotation_id="916" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la quantité de fréquences disponibles sera toujours limitée en raison, tout <DiscourseConnective annotation_id="997">simplement</DiscourseConnective>, des lois de la physique, nous devons donc trouver des moyens <DiscourseConnective annotation_id="1070">pour</DiscourseConnective> assurer <DiscourseConnective annotation_id="1083">que</DiscourseConnective> cette précieuse ressource sera utilisée <DiscourseConnective annotation_id="1127">aussi</DiscourseConnective> efficacement <DiscourseConnective annotation_id="1146">que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="946" docOffset="6">
+      <en>Policy on radio spectrum may sound like an obscure matter of no interest to the citizen on the street, <Alignment alignment="1283" annotation_id="1049">
+          <DiscourseConnective annotation_id="1049" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the end result of that policy is of fundamental interest <Alignment alignment="1355" annotation_id="1110">
+          <DiscourseConnective annotation_id="1110" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is a question of jobs and economic growth.</en>
+      <fr>Les politiques sur le spectre radioélectrique peuvent sembler un sujet bien obscur n'intéressant pas le citoyen de la rue, <Alignment alignment="1049" annotation_id="1283">
+          <DiscourseConnective annotation_id="1283" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le <DiscourseConnective annotation_id="1291">résultat</DiscourseConnective> final de cette politique est d'un intérêt fondamental, <Alignment alignment="1110" annotation_id="1355">
+          <DiscourseConnective annotation_id="1355" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il est question d'emploi <DiscourseConnective annotation_id="1384">et</DiscourseConnective> de croissance économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1164" docOffset="7">
+      <en>
+        <Alignment alignment="1413" annotation_id="1164">
+          <DiscourseConnective annotation_id="1164" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we fail to reform our approach to radio spectrum, we are failing European industry, which is poised to become a global leader in communications technology.</en>
+      <fr>
+        <Alignment alignment="1164" annotation_id="1413">
+          <DiscourseConnective annotation_id="1413" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous ne parvenons pas <DiscourseConnective annotation_id="1438">à</DiscourseConnective> réformer notre approche du spectre radioélectrique, nous affaiblirons l'industrie européenne, qui est en passe de devenir un leader mondial dans les technologies de communication.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1323" docOffset="8">
+      <en>All the innovation that the industry is coming forward with will fail to develop properly <Alignment alignment="1720" annotation_id="1413">
+          <DiscourseConnective annotation_id="1413" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> no spectrum is available <Alignment alignment="1757" annotation_id="1441">
+          <DiscourseConnective annotation_id="1441" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="1760" annotation_id="1445">
+          <DiscourseConnective annotation_id="1445" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the industry is blocked from operating across the European market of 500 million people.</en>
+      <fr>Toutes les innovations <DiscourseConnective annotation_id="1643">que</DiscourseConnective> l'industrie produit ne pourront se développer de la manière souhaitable, <Alignment alignment="1413" annotation_id="1720">
+          <DiscourseConnective annotation_id="1720" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> aucune fréquence n'est disponible <Alignment alignment="1441" annotation_id="1757">
+          <DiscourseConnective annotation_id="1757" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="1445" annotation_id="1760">
+          <DiscourseConnective annotation_id="1760" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'industrie ne peut opérer à travers un marché européen de 500 millions de personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1537" docOffset="9">
+      <en>The Lisbon Agenda is the driving force behind the new approach to spectrum.</en>
+      <fr>L'agenda de Lisbonne est le moteur de cette nouvelle approche du spectre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1613" docOffset="10">
+      <en>
+        <Alignment alignment="1923" annotation_id="1613">
+          <DiscourseConnective annotation_id="1613" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> there is <Alignment alignment="1944" annotation_id="1626">
+          <DiscourseConnective annotation_id="1626" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> the need for Europe to be forward looking in the way it makes services of public and general interest available.</en>
+      <fr>
+        <Alignment alignment="1613" annotation_id="1923">
+          <DiscourseConnective annotation_id="1923" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment> nous avons <Alignment alignment="1626" annotation_id="1944">
+          <DiscourseConnective annotation_id="1944" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> besoin <DiscourseConnective annotation_id="1961">que</DiscourseConnective> l'Europe se montre visionnaire dans sa façon de libéraliser les services d'intérêt général <DiscourseConnective annotation_id="2056">et</DiscourseConnective> public.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1744" docOffset="11">
+      <en>I will come back to that in a minute.</en>
+      <fr>J'y reviendrai dans une minute.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1782" docOffset="12">
+      <en>First, I should like to say a few words about the changes proposed.</en>
+      <fr>Je souhaiterais <DiscourseConnective annotation_id="2115">d'abord</DiscourseConnective> dire quelques mots sur les changements proposés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1850" docOffset="13">
+      <en>At present, spectrum is managed on an administrative command and control model whereby certain frequencies are allocated to certain specific uses.</en>
+      <fr>Actuellement, le spectre est géré par un modèle de commandement administratif dans lequel certaines fréquences sont allouées <DiscourseConnective annotation_id="2297">pour</DiscourseConnective> certains usages spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1997" docOffset="14">
+      <en>The report argues that this administrative model needs to be supplemented now by a more flexible approach which would include more unlicensed use of spectrum and the tool of spectrum trading.</en>
+      <fr>Le rapport soutient <DiscourseConnective annotation_id="2351">que</DiscourseConnective> ce modèle administratif doit <DiscourseConnective annotation_id="2384">à</DiscourseConnective> présent complété par une approche plus flexible qui devrait inclure davantage d'utilisations non autorisées du spectre <DiscourseConnective annotation_id="2505">et</DiscourseConnective> un instrument de commercialisation du spectre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2189" docOffset="15">
+      <en>An essential element of this more flexible approach is that spectrum should be made available without conditions being attached as to the service to be provided or the technology to be used.</en>
+      <fr>L'élément essentiel de cette approche plus flexible est de rendre le spectre disponible <DiscourseConnective annotation_id="2643">sans</DiscourseConnective> condition relative au service fourni <DiscourseConnective annotation_id="2685">ou</DiscourseConnective> <DiscourseConnective annotation_id="2688">à</DiscourseConnective> la technologie utilisée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2380" docOffset="16">
+      <en>
+        <Alignment alignment="2715" annotation_id="2380">
+          <Alignment alignment="2715" annotation_id="2380">
+            <Alignment alignment="2715" annotation_id="2380">
+              <DiscourseConnective annotation_id="2380" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, the market-based element of spectrum management would be service- and technology-neutral.</en>
+      <fr>
+        <Alignment alignment="2380" annotation_id="2715">
+          <Alignment alignment="2380" annotation_id="2715">
+            <Alignment alignment="2380" annotation_id="2715">
+              <DiscourseConnective annotation_id="2715" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, l'élément fondé sur le marché de la gestion du spectre sera neutre sur le plan du service <DiscourseConnective annotation_id="2825">et</DiscourseConnective> de la technologie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2486" docOffset="17">
+      <en>This freeing-up of spectrum would clearly raise issues for existing users, such as the question of potential interference.</en>
+      <fr>Cette libération du spectre soulèvera clairement des problèmes <DiscourseConnective annotation_id="2910">pour</DiscourseConnective> les utilisateurs existants, <DiscourseConnective annotation_id="2943">comme</DiscourseConnective> la question de potentielles interférences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2609" docOffset="18">
+      <en>It is <Alignment alignment="25323" annotation_id="2615">
+          <DiscourseConnective annotation_id="2615" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> very important that the changes take place within a clear legal framework and with pre-established dispute resolution mechanisms.</en>
+      <fr>
+        <Alignment alignment="2615" annotation_id="2992">
+          <DiscourseConnective annotation_id="2992" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> il est très important <DiscourseConnective annotation_id="3029">que</DiscourseConnective> les changements se fassent dans un cadre juridique clair <DiscourseConnective annotation_id="3090">et</DiscourseConnective> avec des mécanismes de résolution de conflits préétablis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2755" docOffset="19">
+      <en>In several places, paragraphs 11, 13 and so on, the report emphasises the importance of maintaining services of public and general interest and supporting cultural and linguistic diversity.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3151">À</DiscourseConnective> différents endroits, paragraphes 11, 13 <DiscourseConnective annotation_id="3193">et</DiscourseConnective> suivants, le rapport souligne l'importance de maintenir des services d'intérêt général et public et de soutenir la diversité culturelle <DiscourseConnective annotation_id="3332">et</DiscourseConnective> linguistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2945" docOffset="20">
+      <en>It is important not to get this political commitment mixed up with the technical issue of how such services ought to be delivered.</en>
+      <fr>Il est important que cet engagement politique ne se confonde pas avec les problèmes techniques concernant la façon dont de tels services doivent être fournis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3076" docOffset="21">
+      <en>I believe it would be a big mistake to ring-fence the frequencies currently used by broadcasting services by insisting on their exclusion from any new approach to spectrum management.</en>
+      <fr>Je crois que ce serait une grave erreur de limiter les fréquences actuellement utilisées par des services de radiodiffusion, <DiscourseConnective annotation_id="3633">en</DiscourseConnective> insistant pour qu'ils soient exclus de toute nouvelle approche de la gestion du spectre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3260" docOffset="22">
+      <en>That is <DiscourseConnective annotation_id="3268" sense="Contingency.Cause.Reason">because</DiscourseConnective> we would actually be damaging our ability to support a broad range of socially useful services <Alignment alignment="3838" annotation_id="3371">
+          <DiscourseConnective annotation_id="3371" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we insisted that the delivery mechanism for providing those services remained exactly the same, frozen in time at the very period <DiscourseConnective annotation_id="3504" sense="Temporal.Synchrony">when</DiscourseConnective> all other uses of spectrum are evolving very rapidly.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3725">En fait</DiscourseConnective>, nous porterions atteinte à notre capacité de soutenir un large éventail de services socialement utiles, <Alignment alignment="3371" annotation_id="3838">
+          <DiscourseConnective annotation_id="3838" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous insistions <DiscourseConnective annotation_id="3857">pour que</DiscourseConnective> le mécanisme de distribution de ces services reste exactement le <DiscourseConnective annotation_id="3931">même</DiscourseConnective>, figé dans le temps, au moment <DiscourseConnective annotation_id="3967">même</DiscourseConnective> où toutes les autres utilisations du spectre évoluent très rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3563" docOffset="23">
+      <en>To take one example, we face the challenge in the EU of stopping a rift opening up between the internet haves and the internet have-nots.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4043">Pour</DiscourseConnective> prendre un exemple, nous sommes confrontés à un défi au sein de l'UE, celui de combler le fossé qui se creuse entre ceux qui ont l'internet <DiscourseConnective annotation_id="4188">et</DiscourseConnective> ceux qui ne l'ont pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3701" docOffset="24">
+      <en>One easy way to roll out internet access to the poorest regions of our poorest countries would be by way of wireless broadband, taking advantage of some of the broadcasting frequencies freed up by the switch from analogue to digital broadcasting, the digital dividend.</en>
+      <fr>L'un des moyens faciles d'étendre l'accès à l'internet aux régions les plus pauvres des pays les plus pauvres serait la bande large sans fil, en profitant de certaines fréquences de radiodiffusion libérées par le passage de la télévision analogue <DiscourseConnective annotation_id="4461">à</DiscourseConnective> la télévision numérique. C'est le dividende numérique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3970" docOffset="25">
+      <en>I use this as just one example of why we need to affirm our commitment to services of public and general interest, but also as an example of why we must not treat the frequencies currently used by broadcasting as somehow untouchable. We need to make the most of opportunities to provide services in new ways by new technologies and to more people than at present.</en>
+      <fr>J'utilise cet exemple dans le seul but d'illustrer les raisons qui expliquent notre besoin d'affirmer notre engagement <DiscourseConnective annotation_id="4637">en</DiscourseConnective> faveur des services d'intérêt général <DiscourseConnective annotation_id="4678">et</DiscourseConnective> public, et qui doivent nous pousser à ne pas considérer les fréquences actuellement utilisées <DiscourseConnective annotation_id="4775">pour</DiscourseConnective> la radiodiffusion <DiscourseConnective annotation_id="4798">comme</DiscourseConnective> intouchables, dans un sens Nous devons tirer le meilleur parti de l'occasion qui s'offre <DiscourseConnective annotation_id="4893">à</DiscourseConnective> nous de fournir de nouveaux services <DiscourseConnective annotation_id="4932">à</DiscourseConnective> plus de gens <DiscourseConnective annotation_id="4947">que</DiscourseConnective> ce n'est le cas aujourd'hui, grâce aux nouvelles technologies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4334" docOffset="26">
+      <en>
+        <DiscourseConnective annotation_id="4334" sense="Expansion.Conjunction">And</DiscourseConnective> it is vital to support the growth of a knowledge-based economy in Europe.</en>
+      <fr>Il est vital de soutenir la croissance d'une économie fondée sur la connaissance <DiscourseConnective annotation_id="5095">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4412" docOffset="27">
+      <en>So, it is important to open up the possibility of more flexible use across the whole of the radio spectrum without ruling out certain frequencies.</en>
+      <fr>Il est <DiscourseConnective annotation_id="5113">donc</DiscourseConnective> important d'élargir la possibilité d'utiliser tout le spectre radioélectrique de manière plus flexible <DiscourseConnective annotation_id="5221">sans</DiscourseConnective> exclure certaines fréquences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4559" docOffset="28">
+      <en>Finally, I welcome the amendment tabled by the PSE Group, which serves as a balanced summary of the key issues at stake.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5256">Pour finir</DiscourseConnective>, je me félicite de l'amendement présenté par le groupe PSE qui fait office de résumé équilibré de tous les problèmes cruciaux <DiscourseConnective annotation_id="5393">en</DiscourseConnective> jeu.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4680" id="308" name="Mariann Fischer Boel">
+    <ParallelChunk annotation_id="4680" docOffset="29">
+      <en>Member of the Commission. Madam President, I have to compliment the European Parliament, in particular the rapporteur, Mrs Hall, for realising the importance of the choices Europe is about to make with regard to radio spectrum policy.</en>
+      <fr>membre de la Commission. - (EN) Madame la Présidente, je dois féliciter le Parlement européen, <DiscourseConnective annotation_id="5496">en particulier</DiscourseConnective> le rapporteur, Mme Hall, de prendre conscience de l'importance des choix que l'Europe <DiscourseConnective annotation_id="5597">s'</DiscourseConnective>apprête <DiscourseConnective annotation_id="5607">à</DiscourseConnective> faire <DiscourseConnective annotation_id="5615">en</DiscourseConnective> matière de politique du spectre radioélectrique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4915" docOffset="30">
+      <en>This is an area where political decisions have a direct impact on the quality of jobs and growth in the European economy.</en>
+      <fr>C'est un domaine dans lequel les décisions politiques ont un impact direct sur la qualité des emplois <DiscourseConnective annotation_id="5769">et</DiscourseConnective> la croissance de l'économie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5037" docOffset="31">
+      <en>Services dependent on radio spectrum represent around 2 to 3% of Europe's GDP.</en>
+      <fr>Les services qui dépendent du spectre radioélectrique représentent environ 2 <DiscourseConnective annotation_id="5889">à</DiscourseConnective> 3 % du PIB de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5116" docOffset="32">
+      <en>There have been studies for the World Bank and for the OECD which clearly link the development of electronic communication services to economic growth.</en>
+      <fr>Des études réalisées <DiscourseConnective annotation_id="5936">pour</DiscourseConnective> la Banque mondiale <DiscourseConnective annotation_id="5960">et</DiscourseConnective> <DiscourseConnective annotation_id="5963">pour</DiscourseConnective> l'OCDE montrent clairement le lien entre le développement des services de communication électronique et la croissance économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5268" docOffset="33">
+      <en>An econometric study made for the Commission tentatively associated better spectrum break relation with 0.1% of extra GDP growth per year.</en>
+      <fr>Une étude économétrique réalisée <DiscourseConnective annotation_id="6131">pour</DiscourseConnective> la Commission a provisoirement associé une meilleure gestion du spectre <DiscourseConnective annotation_id="6208">à</DiscourseConnective> 0,1 % de croissance supplémentaire du PIB par an.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5407" docOffset="34">
+      <en>This would quickly cumulate to deliver real benefits.</en>
+      <fr>Cela pourrait se cumuler rapidement <DiscourseConnective annotation_id="6296">pour</DiscourseConnective> fournir de réels bénéfices.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5461" docOffset="35">
+      <en>The urgency of the matter can be summed up in the word 'convergence'.</en>
+      <fr>L'urgence de cette question peut se résumer dans le mot "convergence".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5531" docOffset="36">
+      <en>Practically all communications are quickly becoming digital <Alignment alignment="6472" annotation_id="5591">
+          <DiscourseConnective annotation_id="5591" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there is an increasing number of infrastructures competing to carry services.</en>
+      <fr>Pratiquement toutes les communications deviennent rapidement numériques <Alignment alignment="5591" annotation_id="6472">
+          <DiscourseConnective annotation_id="6472" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> un nombre croissant d'infrastructures sont en concurrence <DiscourseConnective annotation_id="6533">pour</DiscourseConnective> fournir ces services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5673" docOffset="37">
+      <en>The old categories are disappearing <Alignment alignment="13434" annotation_id="5709">
+          <DiscourseConnective annotation_id="5709" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we need to respond with a regulation that permits the spectrum users to choose the mix of services and technologies that they prefer <Alignment alignment="6762" annotation_id="5846">
+          <DiscourseConnective annotation_id="5846" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that in many cases permits them to buy and sell spectrum rights to each other.</en>
+      <fr>Les anciennes catégories disparaissent <Alignment alignment="5709" annotation_id="6599">
+          <DiscourseConnective annotation_id="6599" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous devons répondre par une réglementation qui permettra aux utilisateurs du spectre de choisir la combinaison de services <DiscourseConnective annotation_id="6726">et</DiscourseConnective> de technologies <DiscourseConnective annotation_id="6745">qu'</DiscourseConnective>ils préfèrent <Alignment alignment="5846" annotation_id="6762">
+          <DiscourseConnective annotation_id="6762" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui, dans de nombreux cas, leur permettra d'acheter <DiscourseConnective annotation_id="6817">et</DiscourseConnective> de vendre entre eux des droits d'émission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5929" docOffset="38">
+      <en>The reasons for regulation are still strong.</en>
+      <fr>Il existe d'importantes raisons <DiscourseConnective annotation_id="6895">pour</DiscourseConnective> réglementer dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5974" docOffset="39">
+      <en>We have to manage interference.</en>
+      <fr>Nous devons gérer les interférences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6006" docOffset="40">
+      <en>We need to ensure that the rights to use spectrum are clearly defined <Alignment alignment="7052" annotation_id="6076">
+          <DiscourseConnective annotation_id="6076" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we need to ensure a level playing field.</en>
+      <fr>Nous devons assurer <DiscourseConnective annotation_id="6986">que</DiscourseConnective> les droits d'utilisation du spectre soient clairement définis <Alignment alignment="6076" annotation_id="7052">
+          <DiscourseConnective annotation_id="7052" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous devons assurer une certaine égalité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6121" docOffset="41">
+      <en>The report that we are debating tonight is in most aspects in line with this policy vision <Alignment alignment="7207" annotation_id="6212">
+          <DiscourseConnective annotation_id="6212" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I want to thank the rapporteur for her efforts.</en>
+      <fr>Le rapport dont nous débattons ce soir est conforme, dans la plupart de ces aspects, à cette vision politique <Alignment alignment="6212" annotation_id="7207">
+          <DiscourseConnective annotation_id="7207" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je souhaite remercier le rapporteur <DiscourseConnective annotation_id="7246">pour</DiscourseConnective> ses efforts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6264" docOffset="42">
+      <en>One area of divergence concerns including spectrum for terrestrial broadcasting distribution in the planned reforms.</en>
+      <fr>L'un des domaines de divergence concerne l'inclusion de la distribution radiodiffusée terrestre dans les réformes prévues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6381" docOffset="43">
+      <en>We are not questioning the importance of the television companies' public service function, <DiscourseConnective annotation_id="6473" sense="Expansion.Conjunction">nor</DiscourseConnective> their contribution to cultural and linguistic diversity.</en>
+      <fr>Nous ne remettons pas en question l'importance de la fonction de service public des chaînes de télévision, ni leur contribution <DiscourseConnective annotation_id="7515">à</DiscourseConnective> la diversité culturelle <DiscourseConnective annotation_id="7541">et</DiscourseConnective> linguistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6534" docOffset="44">
+      <en>We should, <Alignment alignment="7558" annotation_id="6545">
+          <DiscourseConnective annotation_id="6545" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, think very carefully <Alignment alignment="24366" annotation_id="6575">
+          <DiscourseConnective annotation_id="6575" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we privilege one specific form of broadcasting distribution without regard to the costs to our society in terms of opportunity.</en>
+      <fr>
+        <Alignment alignment="6545" annotation_id="7558">
+          <DiscourseConnective annotation_id="7558" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment> nous devrions réfléchir avec attention <Alignment alignment="6575" annotation_id="7607">
+          <DiscourseConnective annotation_id="7607" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> privilégier une forme spécifique de distribution radiodiffusée, <DiscourseConnective annotation_id="7680">sans</DiscourseConnective> étudier le coût <DiscourseConnective annotation_id="7701">pour</DiscourseConnective> notre société <DiscourseConnective annotation_id="7720">en</DiscourseConnective> termes d'opportunités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6710" docOffset="45">
+      <en>A case in point: the report quite rightly highlights wireless broadband as a tool for rural development and for breaching the digital divide.</en>
+      <fr>En l'occurrence, le rapport souligne avec raison que la bande large sans fil est un outil de développement rural <DiscourseConnective annotation_id="7859">et</DiscourseConnective> de réduction de la fracture numérique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6852" docOffset="46">
+      <en>This requires tough choices about the balance between broadcasting and other services.</en>
+      <fr>Cela nécessite des choix solides concernant l'équilibre entre la radiodiffusion <DiscourseConnective annotation_id="7981">et</DiscourseConnective> d'autres services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6939" docOffset="47">
+      <en>There are necessary decisions to be made to safeguard the resources and functioning of public service broadcasting, <Alignment alignment="8142" annotation_id="7055">
+          <DiscourseConnective annotation_id="7055" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we should not use spectrum policy as a substitute for real debate.</en>
+      <fr>Des décisions doivent nécessairement être prises <DiscourseConnective annotation_id="8052">pour</DiscourseConnective> sauvegarder les ressources <DiscourseConnective annotation_id="8084">et</DiscourseConnective> le fonctionnement du service public de radiodiffusion, <Alignment alignment="7055" annotation_id="8142">
+          <DiscourseConnective annotation_id="8142" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous ne devons pas utiliser la politique du spectre <DiscourseConnective annotation_id="8199">comme</DiscourseConnective> substitut <DiscourseConnective annotation_id="8215">à</DiscourseConnective> un réel débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7126" docOffset="48">
+      <en>The amendment gives a more balanced approach by mentioning the need to secure stability and security for media services and the importance of a level playing field for new entrants and new technologies.</en>
+      <fr>L'amendement propose une approche plus équilibrée, <DiscourseConnective annotation_id="8283">en</DiscourseConnective> évoquant la nécessité d'assurer la stabilité <DiscourseConnective annotation_id="8331">et</DiscourseConnective> la sécurité des services de médias <DiscourseConnective annotation_id="8369">et</DiscourseConnective> l'importance d'une égalité entre les nouveaux entrants <DiscourseConnective annotation_id="8427">et</DiscourseConnective> les nouvelles technologies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7329" docOffset="49">
+      <en>I have one final point to make: on the basis of the full analysis, the choice of the national regulators is to award spectrum to broadcasters.</en>
+      <fr>Je souhaiterais évoquer un dernier point: sur base d'une analyse complète, le choix des régulateurs nationaux est d'attribuer le spectre aux organismes de radiodiffusion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7472" docOffset="50">
+      <en>These users must <Alignment alignment="8654" annotation_id="7489">
+          <DiscourseConnective annotation_id="7489" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> have the same obligation <Alignment alignment="2376" annotation_id="7519">
+          <DiscourseConnective annotation_id="7519" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> any other users to be good stewards of a public resource and use it as effectively as possible.</en>
+      <fr>Ces utilisateurs doivent <Alignment alignment="7489" annotation_id="8654">
+          <DiscourseConnective annotation_id="8654" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> avoir les mêmes obligations <Alignment alignment="7519" annotation_id="8688">
+          <DiscourseConnective annotation_id="8688" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> tout autre et être bon gestionnaire d'une ressource publique <DiscourseConnective annotation_id="8753">et</DiscourseConnective> en faire un usage <DiscourseConnective annotation_id="8774">aussi</DiscourseConnective> efficace <DiscourseConnective annotation_id="8789">que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7618" docOffset="51">
+      <en>We think that our reform proposal would help to implement this principle.</en>
+      <fr>Nous pensons <DiscourseConnective annotation_id="8816">que</DiscourseConnective> notre proposition de réforme aidera <DiscourseConnective annotation_id="8856">à</DiscourseConnective> mettre en œuvre ce principe.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7692" id="309" name="Etelka Barsi-Pataky">
+    <ParallelChunk annotation_id="7692" docOffset="52">
+      <en>on behalf of the PPE-DE Group. - (HU) Technological innovation opens up tangible new opportunities for Europe.</en>
+      <fr>au nom du groupe PPE-DE. - (HU) L'innovation technologique offre de nouvelles chances concrètes <DiscourseConnective annotation_id="8983">à</DiscourseConnective> l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7803" docOffset="53">
+      <en>Switching to digital technology leads to a surplus in what has <DiscourseConnective annotation_id="7866" sense="Temporal.Asynchronous.Precedence">till</DiscourseConnective> now been a scarcity in frequencies available.</en>
+      <fr>Le passage <DiscourseConnective annotation_id="9006">à</DiscourseConnective> la technologie numérique permet d'augmenter le nombre des fréquences disponibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7917" docOffset="54">
+      <en>It is therefore appropriate and necessary to make it possible for a part of that surplus to be used for new technologies, <DiscourseConnective annotation_id="8039" sense="Contingency.Cause.Result">thereby</DiscourseConnective> opening up a dynamic territory for the European information and communications industry.</en>
+      <fr>Il est <DiscourseConnective annotation_id="9097">donc</DiscourseConnective> approprié <DiscourseConnective annotation_id="9112">et</DiscourseConnective> nécessaire que ces nouvelles fréquences puissent être utilisées <DiscourseConnective annotation_id="9179">pour</DiscourseConnective> les nouvelles technologies, ouvrant ainsi un territoire dynamique <DiscourseConnective annotation_id="9250">à</DiscourseConnective> l'industrie européenne de l'information <DiscourseConnective annotation_id="9292">et</DiscourseConnective> des communications.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8136" docOffset="55">
+      <en>The regulation required for this purpose needs to be created in such a way that the traditional system, unlicensed use and frequency trading be part of an effective spectrum management.</en>
+      <fr>La réglementation indispensable <DiscourseConnective annotation_id="9347">pour</DiscourseConnective> aller dans ce sens doit être mise sur pied, <DiscourseConnective annotation_id="9396">en</DiscourseConnective> sorte <DiscourseConnective annotation_id="9405">que</DiscourseConnective> le système traditionnel, l'utilisation sans licence <DiscourseConnective annotation_id="9461">et</DiscourseConnective> la commercialisation des fréquences <DiscourseConnective annotation_id="9500">s'</DiscourseConnective>inscrivent dans une gestion efficace du spectre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8322" docOffset="56">
+      <en>Clear rules are needed, which indicate what <Alignment alignment="9625" annotation_id="8366">
+          <DiscourseConnective annotation_id="8366" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> how much we allow in the area of frequency trading.</en>
+      <fr>Des règles claires sont nécessaires pour indiquer ce que nous permettons, <Alignment alignment="13350" annotation_id="9625">
+          <DiscourseConnective annotation_id="9625" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> dans quelle mesure nous le permettons, dans le domaine de la commercialisation des fréquences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8422" docOffset="57">
+      <en>The opinion of the Group of the European People's Party (Christian Democrats) and European Democrats is that we need very soon to make spectrum trading itself, as well as its guiding conditions, perfectly clear.</en>
+      <fr>L'avis du groupe du parti populaire européen (démocrates-chrétiens) <DiscourseConnective annotation_id="9791">et</DiscourseConnective> des démocrates européens est <DiscourseConnective annotation_id="9823">que</DiscourseConnective> nous avons urgemment besoin de clarifier la question de la commercialisation des fréquences <DiscourseConnective annotation_id="9919">ainsi</DiscourseConnective> que les conditions qui régissent celles-ci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8634" docOffset="58">
+      <en>In this regard we must handle broadcast frequencies with particular care.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9969">À cet égard</DiscourseConnective>, nous devons traiter les fréquences de radiodiffusion avec un soin particulier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8708" docOffset="59">
+      <en>It must be ensured that frequencies cannot be accumulated, <Alignment alignment="10125" annotation_id="8767">
+          <DiscourseConnective annotation_id="8767" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that there be no monopolies.</en>
+      <fr>Il faut garantir <DiscourseConnective annotation_id="10078">que</DiscourseConnective> les fréquences ne puissent être accumulées <Alignment alignment="8767" annotation_id="10125">
+          <DiscourseConnective annotation_id="10125" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10128">qu'</DiscourseConnective>il n'y ait pas de monopole.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8800" docOffset="60">
+      <en>We have to promote the spread of new technologies to less developed regions and rural areas, but in such a way that they not be made to bear the costs of this.</en>
+      <fr>Nous devons promouvoir la diffusion des nouvelles technologies aux régions moins développées <DiscourseConnective annotation_id="10252">et</DiscourseConnective> aux zones rurales, <DiscourseConnective annotation_id="10274">mais</DiscourseConnective> <DiscourseConnective annotation_id="10279">sans que</DiscourseConnective> celles-ci ne doivent en assumer les coûts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8960" docOffset="61">
+      <en>It is the firm opinion of the Group of the European People's Party that in the process of regulating this area, we need to bear in mind social, cultural and political considerations, in order to advance the expression of cultural and linguistic diversity.</en>
+      <fr>Le groupe du parti populaire européen est fermement convaincu <DiscourseConnective annotation_id="10393">qu'en</DiscourseConnective> réglementant ce domaine, nous devons garder <DiscourseConnective annotation_id="10443">à</DiscourseConnective> l'esprit les considérations sociales, culturelles <DiscourseConnective annotation_id="10495">et</DiscourseConnective> politiques, <DiscourseConnective annotation_id="10510">de manière à</DiscourseConnective> faire progresser l'expression de la diversité culturelle <DiscourseConnective annotation_id="10580">et</DiscourseConnective> linguistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9216" docOffset="62">
+      <en>In the process of drafting the report, I mentioned time and again the various specialties of the new Member States, which will have to be taken into account <DiscourseConnective annotation_id="9373" sense="Temporal.Synchrony">when</DiscourseConnective> regulations are drawn up.</en>
+      <fr>Lors de la rédaction du rapport, j'ai mentionné à maintes reprises les diverses spécialités des nouveaux États membres, qui devront être prises en considération dans l'établissement des règlements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9404" docOffset="63">
+      <en>I was <Alignment alignment="10809" annotation_id="9410">
+          <DiscourseConnective annotation_id="9410" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> pleased with Mrs Trautmann's initiative in this matter, <Alignment alignment="10865" annotation_id="9476">
+          <DiscourseConnective annotation_id="9476" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I support it.</en>
+      <fr>Je me réjouis <Alignment alignment="9410" annotation_id="10809">
+          <DiscourseConnective annotation_id="10809" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> de l'initiative de Mme Trautmann dans ce contexte, <Alignment alignment="8861" annotation_id="10865">
+          <DiscourseConnective annotation_id="10865" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je la soutiens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9494" docOffset="64">
+      <en>Finally, Member States need to open up frequencies for the purpose of Europe-wide technological harmonisation, <Alignment alignment="11021" annotation_id="9605">
+          <DiscourseConnective annotation_id="9605" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this must be done on the basis of a consensual agreement.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10884">Pour terminer</DiscourseConnective>, les États membres doivent ouvrir les fréquences dans l'intérêt d'une harmonisation technologique à l'échelle de l'Europe, <Alignment alignment="9605" annotation_id="11021">
+          <DiscourseConnective annotation_id="11021" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cela doit se faire sur la base d'un accord consensuel.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9667" id="310" language="FR" name="Catherine Trautmann">
+    <ParallelChunk annotation_id="9667" docOffset="65">
+      <en>Madam President, Commissioner, Mrs Hall, ladies and gentlemen, we are being asked to express an opinion on the reallocation of radio frequencies.</en>
+      <fr>au nom du groupe PSE. - Madame la Présidente, Madame la Commissaire, Madame la rapporteur, chers collègues, nous sommes appelés <DiscourseConnective annotation_id="11207">à</DiscourseConnective> nous prononcer sur la réaffectation des radiofréquences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9813" docOffset="66">
+      <en>This is a very important dossier and the Commission's reasons for wanting a proposal that seeks to optimise or maximise the benefits of this resource of course stem from changing technologies, the existence of the digital dividend and the desire, clearly expressed in the Lisbon objectives, to give everyone access to new services, be it the Internet, mobile telephony or many others <Alignment alignment="11724" annotation_id="10197">
+          <DiscourseConnective annotation_id="10197" sense="Expansion.Conjunction">besides</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Ce dossier est tout à fait important <DiscourseConnective annotation_id="11303">et</DiscourseConnective> les raisons qui amènent la Commission <DiscourseConnective annotation_id="11344">à</DiscourseConnective> vouloir une proposition visant <DiscourseConnective annotation_id="11377">à</DiscourseConnective> optimiser, <DiscourseConnective annotation_id="11390">ou</DiscourseConnective> maximiser, les bénéfices de cette ressource tiennent bien entendu <DiscourseConnective annotation_id="11459">à</DiscourseConnective> l'évolution des technologies, à l'existence du dividende numérique <DiscourseConnective annotation_id="11528">et</DiscourseConnective> à la volonté clairement affirmée dans les objectifs de Lisbonne de pouvoir assurer l'accès de tous aux nouveaux services, qu'il s'agisse d'Internet, de la téléphonie mobile <DiscourseConnective annotation_id="11704">ou</DiscourseConnective> de bien d'autres <Alignment alignment="10197" annotation_id="11724">
+          <DiscourseConnective annotation_id="11724" sense="Expansion.Conjunction">encore</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10206" docOffset="67">
+      <en>We have just spoken of broadband in particular, which could help to reduce the digital divide from which the European Union suffers, especially in rural and thinly populated areas.</en>
+      <fr>On vient de parler, <DiscourseConnective annotation_id="11752">en particulier</DiscourseConnective>, de la large bande, qui pourrait permettre de réduire la fracture numérique dont souffre l'Union, tout spécialement dans les zones rurales <DiscourseConnective annotation_id="11906">et</DiscourseConnective> les zones peu peuplées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10387" docOffset="68">
+      <en>We must <Alignment alignment="11945" annotation_id="10395">
+          <DiscourseConnective annotation_id="10395" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> seek to ensure a rational use of frequencies that will guarantee universal coverage in the 27 countries of the Union with a view to sustainable development of all areas.</en>
+      <fr>Nous devons <Alignment alignment="10395" annotation_id="11945">
+          <DiscourseConnective annotation_id="11945" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> chercher <DiscourseConnective annotation_id="11959">à</DiscourseConnective> assurer un usage rationnel des fréquences propre <DiscourseConnective annotation_id="12010">à</DiscourseConnective> garantir une couverture universelle dans les vingt-sept pays de l'Union, dans une optique d'aménagement durable des territoires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10575" docOffset="69">
+      <en>Frequencies are <Alignment alignment="12169" annotation_id="10591">
+          <Alignment alignment="12169" annotation_id="10591">
+            <DiscourseConnective annotation_id="10591" sense="Comparison.Contrast">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> a resource, a public good, common to us all and strategic for the Union, <Alignment alignment="12243" annotation_id="10672">
+          <DiscourseConnective annotation_id="10672" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we must ensure that the spectrum is used efficiently in the long term.</en>
+      <fr>Les fréquences représentent <Alignment alignment="10591" annotation_id="12169">
+          <Alignment alignment="10591" annotation_id="12169">
+            <DiscourseConnective annotation_id="12169" sense="Comparison.Contrast">en effet</DiscourseConnective>
+          </Alignment>
+        </Alignment> une ressource, un bien public, commun, stratégique <DiscourseConnective annotation_id="12229">pour</DiscourseConnective> l'Union, <Alignment alignment="10672" annotation_id="12243">
+          <DiscourseConnective annotation_id="12243" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous devons parvenir <DiscourseConnective annotation_id="12267">à</DiscourseConnective> l'efficacité spectrale durable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10747" docOffset="70">
+      <en>Just <Alignment alignment="12301" annotation_id="10752">
+          <DiscourseConnective annotation_id="10752" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we speak of energy efficiency, I believe we can <Alignment alignment="12390" annotation_id="10803">
+          <DiscourseConnective annotation_id="10803" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> speak of radio spectrum efficiency.</en>
+      <fr>
+        <Alignment alignment="10752" annotation_id="12301">
+          <DiscourseConnective annotation_id="12301" sense="Temporal.Synchrony">De la même façon que</DiscourseConnective>
+        </Alignment> nous parlons de l'efficience énergétique, je crois que nous pouvons <Alignment alignment="10803" annotation_id="12390">
+          <DiscourseConnective annotation_id="12390" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> parler de l'efficience du spectre radioélectrique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10844" docOffset="71">
+      <en>I would like to welcome the Commission's attempts to give a new European dimension to the use of this digital dividend and avoid a repetition of the very real problem we had, <Alignment alignment="12661" annotation_id="11019">
+          <DiscourseConnective annotation_id="11019" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which the companies concerned saw as such, <Alignment alignment="12715" annotation_id="11066">
+          <DiscourseConnective annotation_id="11066" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the UMTS networks were put up for sale.</en>
+      <fr>Je voudrais saluer les efforts de la Commission qui a voulu donner une dimension européenne nouvelle <DiscourseConnective annotation_id="12548">à</DiscourseConnective> l'utilisation de ce dividende numérique <DiscourseConnective annotation_id="12590">et</DiscourseConnective> éviter que se reproduise le véritable problème que nous avons connu <Alignment alignment="11019" annotation_id="12661">
+          <DiscourseConnective annotation_id="12661" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui a été considéré <DiscourseConnective annotation_id="12684">comme</DiscourseConnective> tel par les entreprises, <Alignment alignment="11066" annotation_id="12715">
+          <DiscourseConnective annotation_id="12715" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> des réseaux UMTS ont été mis <DiscourseConnective annotation_id="12752">en</DiscourseConnective> vente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11111" docOffset="72">
+      <en>It proposes the creation of a market.</en>
+      <fr>Elle nous propose de créer un marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11149" docOffset="73">
+      <en>We have to be able to find a way of providing greater flexibility, avoiding speculation and monopolies and making frequencies accessible to new services and new entrants.</en>
+      <fr>Nous devons pouvoir trouver le moyen d'assurer une plus grande flexibilité, d'éviter la spéculation <DiscourseConnective annotation_id="12900">et</DiscourseConnective> les monopoles <DiscourseConnective annotation_id="12917">et</DiscourseConnective> de rendre les fréquences accessibles <DiscourseConnective annotation_id="12957">à</DiscourseConnective> de nouveaux services <DiscourseConnective annotation_id="12980">et</DiscourseConnective> à de nouveaux entrants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11320" docOffset="74">
+      <en>I believe it is right to want to do so.</en>
+      <fr>Je crois que cette volonté est juste.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11360" docOffset="75">
+      <en>We must find new opportunities for innovation there, <Alignment alignment="13107" annotation_id="11413">
+          <DiscourseConnective annotation_id="11413" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we must be careful how they are marketed, whether it be by licences, auctions or assignments, in particular of public or free-access services, even <DiscourseConnective annotation_id="11565" sense="Contingency.Condition">if</DiscourseConnective> on a temporary basis.</en>
+      <fr>Nous devons y trouver de nouvelles possibilités d'innovation, <Alignment alignment="11413" annotation_id="13107">
+          <DiscourseConnective annotation_id="13107" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons être prudents dans la manière d'établir cette nouvelle commercialisation, <DiscourseConnective annotation_id="13198">qu'</DiscourseConnective>il s'agisse de licences, d'enchères, de délégations, <DiscourseConnective annotation_id="13254">notamment</DiscourseConnective> de services publics <DiscourseConnective annotation_id="13284">ou</DiscourseConnective> d'accès libre, d'accès gratuit, fût-ce <DiscourseConnective annotation_id="13326">à</DiscourseConnective> titre temporaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11590" docOffset="76">
+      <en>These different approaches remain to be defined.</en>
+      <fr>Il reste encore <DiscourseConnective annotation_id="13362">à</DiscourseConnective> définir ces différentes modalités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11639" docOffset="77">
+      <en>In our committee we had a debate on the place of broadcasters <Alignment alignment="13492" annotation_id="11701">
+          <DiscourseConnective annotation_id="11701" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to say here most emphatically that for my part I have always defended the special nature of the information programmes, the cultural programmes provided by broadcasters, especially public broadcasters, who do not have the private capital necessary to pay for access to the market on the same terms as, let us say, ordinary companies.</en>
+      <fr>Nous avons eu un débat au sein de notre commission à propos de la place des radiodiffuseurs, <Alignment alignment="11701" annotation_id="13492">
+          <DiscourseConnective annotation_id="13492" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais dire, ici, très fortement, <DiscourseConnective annotation_id="13534">que</DiscourseConnective> j'ai toujours défendu, en ce qui me concerne, la particularité des émissions d'information, des émissions culturelles qu'assurent les radiodiffuseurs, et <DiscourseConnective annotation_id="13692">en particulier</DiscourseConnective> les radiodiffuseurs publics, qui n'ont pas les capitaux privés nécessaires pour pouvoir se payer un accès au marché dans les mêmes conditions <DiscourseConnective annotation_id="13849">que</DiscourseConnective> les entreprises, disons, ordinaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12052" docOffset="78">
+      <en>
+        <Alignment alignment="13890" annotation_id="12052">
+          <DiscourseConnective annotation_id="12052" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, <Alignment alignment="13905" annotation_id="12063">
+          <DiscourseConnective annotation_id="12063" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we are to take account of this situation <Alignment alignment="13952" annotation_id="12107">
+          <DiscourseConnective annotation_id="12107" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> being fair and impartial, that is why the Socialist Group has tabled an amendment seeking to take account of radio spectrum efficiency, the balance between respect for public broadcasts and respect for State broadcasts on safety, <Alignment alignment="14249" annotation_id="12343">
+          <DiscourseConnective annotation_id="12343" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> the role of regulators and the role of business.</en>
+      <fr>
+        <Alignment alignment="12052" annotation_id="13890">
+          <DiscourseConnective annotation_id="13890" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment> <Alignment alignment="12063" annotation_id="13905">
+          <DiscourseConnective annotation_id="13905" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous devons tenir compte de cette situation <Alignment alignment="12107" annotation_id="13952">
+          <DiscourseConnective annotation_id="13952" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> nous montrant justes <DiscourseConnective annotation_id="13976">et</DiscourseConnective> équitables; c'est la raison pour laquelle le groupe socialiste a déposé un amendement visant <DiscourseConnective annotation_id="14072">à</DiscourseConnective> prendre en compte l'efficience du spectre radioélectrique, l'équilibre entre le respect des émissions publiques <DiscourseConnective annotation_id="14186">et</DiscourseConnective> le respect des émissions des États sur la sécurité, le rôle <Alignment alignment="11553" annotation_id="14249">
+          <DiscourseConnective annotation_id="14249" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des régulateurs <DiscourseConnective annotation_id="14275">et</DiscourseConnective> le rôle des entreprises.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12397" id="311" language="DE" name="Rebecca Harms">
+    <ParallelChunk annotation_id="12397" docOffset="79">
+      <en>Madam President, I shall be brief.</en>
+      <fr>au nom du groupe des Verts/ALE. - (DE) Madame la Présidente, je serai brève.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12432" docOffset="80">
+      <en>From the point of view of my group, which welcomes the Commission's approach in principle, there are five important points.</en>
+      <fr>Selon mon groupe, qui <DiscourseConnective annotation_id="14402">en</DiscourseConnective> principe se réjouit de l'approche de la Commission, cinq points sont importants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12556" docOffset="81">
+      <en>We want to ensure that the new approach proposed by the Commission does not result in the formation of oligopolies.</en>
+      <fr>Nous voulons garantir <DiscourseConnective annotation_id="14508">que</DiscourseConnective> l'approche proposée par la Commission ne favorisera pas la formation d'oligopoles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12672" docOffset="82">
+      <en>Germany has had bad experiences with the auctioning of UMTS licences.</en>
+      <fr>L'Allemagne a eu une mauvaise expérience avec la mise aux enchères des licences UMTS.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12742" docOffset="83">
+      <en>Our group wants services ensuring diversity to take priority at all times.</en>
+      <fr>Notre groupe veut que la priorité <DiscourseConnective annotation_id="14715">soit</DiscourseConnective> accordée <DiscourseConnective annotation_id="14729">en</DiscourseConnective> permanence à des services garantissant la diversité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12817" docOffset="84">
+      <en>I agree with Mrs Trautmann that broadcasters should always enjoy particular respect for the job they do, for our societies and the public.</en>
+      <fr>Je suis d'accord avec Mme Trautmann, les radiodiffuseurs doivent faire l'objet d'un respect particulier s'agissant de leurs tâches, de nos sociétés <DiscourseConnective annotation_id="14933">et</DiscourseConnective> du public.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12956" docOffset="85">
+      <en>We want to see technical neutrality and interoperability.</en>
+      <fr>Nous souhaitons la neutralité technique <DiscourseConnective annotation_id="14987">et</DiscourseConnective> l'interopérabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13014" docOffset="86">
+      <en>We want to really see blanket coverage.</en>
+      <fr>Nous voulons véritablement que tous les risques soient couverts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13054" docOffset="87">
+      <en>This is important to the Commissioner, too, <Alignment alignment="15122" annotation_id="13098">
+          <DiscourseConnective annotation_id="13098" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> she bears co-responsibility for rural affairs.</en>
+      <fr>C'est <DiscourseConnective annotation_id="15081">également</DiscourseConnective> important <DiscourseConnective annotation_id="15101">pour</DiscourseConnective> la commissaire, <Alignment alignment="13098" annotation_id="15122">
+          <DiscourseConnective annotation_id="15122" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> celle-ci partage la responsabilité <DiscourseConnective annotation_id="15175">pour</DiscourseConnective> les affaires rurales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13151" docOffset="88">
+      <en>We in rural areas do not want to be disadvantaged any more, <Alignment alignment="15268" annotation_id="13211">
+          <DiscourseConnective annotation_id="13211" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we, too, want access to high-speed Internet connections.</en>
+      <fr>Dans les régions rurales, nous ne voulons plus être désavantagés, <Alignment alignment="13211" annotation_id="15268">
+          <DiscourseConnective annotation_id="15268" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous voulons avoir nous <DiscourseConnective annotation_id="15295">aussi</DiscourseConnective> accès <DiscourseConnective annotation_id="15307">à</DiscourseConnective> des connections internet ultrarapides.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13272" docOffset="89">
+      <en>
+        <Alignment alignment="15348" annotation_id="13272">
+          <Alignment alignment="893" annotation_id="13272">
+            <DiscourseConnective annotation_id="13272" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the procedures for auctions should be fully transparent and comprehensible in future.</en>
+      <fr>
+        <Alignment alignment="13272" annotation_id="15348">
+          <Alignment alignment="13272" annotation_id="15348">
+            <DiscourseConnective annotation_id="15348" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les procédures relatives aux enchères devront <DiscourseConnective annotation_id="15404">à</DiscourseConnective> l'avenir être totalement transparentes <DiscourseConnective annotation_id="15445">et</DiscourseConnective> compréhensibles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13371" id="312" name="Mariann Fischer Boel">
+    <ParallelChunk annotation_id="13371" docOffset="90">
+      <en>Member of the Commission. Madam President, I presume an answer would be expected from the Commission, <Alignment alignment="1723" annotation_id="13473">
+          <DiscourseConnective annotation_id="13473" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I promise I shall keep it short.</en>
+      <fr>membre de la Commission. - (EN) Madame la Présidente, je suppose que l'on attend une réponse de la Commission, <Alignment alignment="13473" annotation_id="15576">
+          <DiscourseConnective annotation_id="15576" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je promets qu'elle sera courte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13510" docOffset="91">
+      <en>I share the appreciation of Parliament regarding the vital role played by public service television and other media for democracy, diversity and for the encouragement for a public debate.</en>
+      <fr>Je partage l'appréciation du Parlement concernant le rôle vital joué par le service public de télévision <DiscourseConnective annotation_id="15718">et</DiscourseConnective> les autres médias <DiscourseConnective annotation_id="15739">pour</DiscourseConnective> la démocratie, la diversité <DiscourseConnective annotation_id="15772">et</DiscourseConnective> l'encouragement au débat public.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13698" docOffset="92">
+      <en>It is necessary that future regulations continue to ensure that this programming can be distributed to the citizens in accordance with the public service obligations assumed by those broadcasters.</en>
+      <fr>Il est nécessaire <DiscourseConnective annotation_id="15826">que</DiscourseConnective> les futures réglementations continuent <DiscourseConnective annotation_id="15869">à</DiscourseConnective> assurer <DiscourseConnective annotation_id="15879">que</DiscourseConnective> ces programmes pourront être distribués aux citoyens conformément aux obligations du service public assumées par ces organismes de radiodiffusion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13895" docOffset="93">
+      <en>
+        <Alignment alignment="1516" annotation_id="13895">
+          <DiscourseConnective annotation_id="13895" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, assuming that these goals can be satisfied and keeping in mind the reality of convergence, we should carefully assess the need for the spectrum required to offer a public broadcasting service and to ensure its efficient use.</en>
+      <fr>
+        <Alignment alignment="13895" annotation_id="16030">
+          <DiscourseConnective annotation_id="16030" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="16041">en supposant que</DiscourseConnective> ces objectifs puissent être satisfaits <DiscourseConnective annotation_id="16097">et</DiscourseConnective> en gardant <DiscourseConnective annotation_id="16111">à</DiscourseConnective> l'esprit la réalité de la convergence, nous devrions évaluer avec précaution le besoin d'ondes requis <DiscourseConnective annotation_id="16215">pour</DiscourseConnective> offrir un service public de radiodiffusion <DiscourseConnective annotation_id="16263">et</DiscourseConnective> <DiscourseConnective annotation_id="16266">pour</DiscourseConnective> s'assurer de son utilisation efficace.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14129" docOffset="94">
+      <en>In consequence, we need to provide broadcasters with the means and the flexibility to continue to develop their offer to the benefit of our society.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16310">En conséquence</DiscourseConnective>, nous devons fournir aux organismes de radiodiffusion les moyens <DiscourseConnective annotation_id="16390">et</DiscourseConnective> la flexibilité nécessaires <DiscourseConnective annotation_id="16420">pour qu'</DiscourseConnective>ils puissent continuer <DiscourseConnective annotation_id="16451">à</DiscourseConnective> développer leur offre au bénéfice de notre société.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14278" docOffset="95">
+      <en>We have listened carefully <Alignment alignment="11774" annotation_id="14305">
+          <DiscourseConnective annotation_id="14305" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> your comments will be taken into account during the revision of the telecommunication regulation, which will be proposed by the second half of 2007.</en>
+      <fr>Nous vous avons écoutés attentivement <Alignment alignment="14305" annotation_id="16543">
+          <DiscourseConnective annotation_id="16543" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vos remarques seront prises en considération lors de la révision de la réglementation sur les télécommunications qui sera proposée dans la seconde moitié de 2007.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14458" id="313" name="President">
+    <ParallelChunk annotation_id="14458" docOffset="96">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14480" docOffset="97">
+      <en>The vote will take place on Wednesday at 12 noon.</en>
+      <fr>Le vote aura lieu mercredi <DiscourseConnective annotation_id="16755">à</DiscourseConnective> midi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

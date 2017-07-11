@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>EU economic and trade relations with Mercosur (debate)</en>
+    <fr>Relations économiques <DiscourseConnective annotation_id="22">et</DiscourseConnective> commerciales entre l'UE <DiscourseConnective annotation_id="49">et</DiscourseConnective> le Mercosur dans la perspective de la conclusion d'un accord interrégional d'association (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="55" id="250" name="President">
+    <ParallelChunk annotation_id="55" docOffset="1">
+      <en>The next item is the debate on the report by Mr Varela Suanzes-Carpegna, on behalf of the Committee on International Trade, on economic and trade relations between the EU and Mercosur with a view to the conclusion of an Interregional Association Agreement.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Varela Suanzes-Carpegna, au nom de la commission du commerce international, sur les relations économiques <DiscourseConnective annotation_id="296">et</DiscourseConnective> commerciales entre l'UE <DiscourseConnective annotation_id="323">et</DiscourseConnective> le Mercosur <DiscourseConnective annotation_id="338">en vue de</DiscourseConnective> la conclusion d'un accord d'association interrégional.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="312" id="251" name="Daniel Varela Suanzes-Carpegna ">
+    <ParallelChunk annotation_id="312" docOffset="2">
+      <en>rapporteur. - (ES) Mr President, Commissioner, ladies and gentlemen, I would like to begin by informing you that Commissioner Mandelson has contacted me to explain why he is not attending this debate, <DiscourseConnective annotation_id="513" sense="Expansion.Conjunction">and</DiscourseConnective> I am grateful to him for that.</en>
+      <fr>rapporteur. - (ES) Monsieur le Président, Madame la Commissaire, Mesdames <DiscourseConnective annotation_id="477">et</DiscourseConnective> Messieurs, je souhaiterais commencer par vous informer <DiscourseConnective annotation_id="535">que</DiscourseConnective> M. le commissaire Mandelson m'a contacté afin de m'expliquer la raison de son absence à ce débat, ce dont je lui suis reconnaissant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="548" docOffset="3">
+      <en>The reason is the Summit on India in Finland; this led to an interesting conversation with the Commissioner on the agreement with Mercosur, in which I explained to him that, as well as India or China, Brazil and the Mercosur group are <Alignment alignment="983" annotation_id="783">
+          <DiscourseConnective annotation_id="783" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> emerging powers, a view that the Commissioner certainly, <DiscourseConnective annotation_id="845" sense="Expansion.Conjunction">and</DiscourseConnective> fortunately, shares.</en>
+      <fr>La raison en est le sommet sur l'Inde qui se tient <DiscourseConnective annotation_id="723">en</DiscourseConnective> Finlande; ceci m'a conduit <DiscourseConnective annotation_id="753">à</DiscourseConnective> avoir une conversation très intéressante avec le commissaire sur l'accord avec le Mercosur, au cours de laquelle je lui ai expliqué <DiscourseConnective annotation_id="887">qu'</DiscourseConnective>à l'instar de l'Inde <DiscourseConnective annotation_id="911">et</DiscourseConnective> de la Chine, le Brésil <DiscourseConnective annotation_id="937">et</DiscourseConnective> le groupe des pays du Mercosur constituent <Alignment alignment="783" annotation_id="983">
+          <DiscourseConnective annotation_id="983" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des puissances émergentes, une opinion <DiscourseConnective annotation_id="1032">que</DiscourseConnective> le commissaire partage, heureusement, sans l'ombre d'un doute.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="870" docOffset="4">
+      <en>Let us hope that, <Alignment alignment="1113" annotation_id="888">
+          <DiscourseConnective annotation_id="888" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the bleak scenes of the Doha Round have faded away, <Alignment alignment="1178" annotation_id="945">
+          <DiscourseConnective annotation_id="945" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the elections in Brazil have taken place <Alignment alignment="1227" annotation_id="991">
+          <DiscourseConnective annotation_id="991" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="1230" annotation_id="995">
+          <DiscourseConnective annotation_id="995" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the political, economic and commercial foundations for the European Union's relations with Mercosur have been laid, which is this Parliament's intention in the report we are presenting today, we will take the definitive steps to guide the final phase of the negotiation of an ambitious European Union-Mercosur Association Agreement.</en>
+      <fr>Espérons <DiscourseConnective annotation_id="1108">que</DiscourseConnective>, <Alignment alignment="888" annotation_id="1113">
+          <DiscourseConnective annotation_id="1113" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> les sombres images du cycle de Doha se seront dissipées, <Alignment alignment="945" annotation_id="1178">
+          <DiscourseConnective annotation_id="1178" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> les élections se seront tenues au Brésil <Alignment alignment="991" annotation_id="1227">
+          <DiscourseConnective annotation_id="1227" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="995" annotation_id="1230">
+          <DiscourseConnective annotation_id="1230" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> les bases politiques, économiques <DiscourseConnective annotation_id="1272">et</DiscourseConnective> commerciales auront été jetées <DiscourseConnective annotation_id="1306">pour</DiscourseConnective> renforcer les relations de l'Union européenne avec le Mercosur, ce à quoi aspire le Parlement dans le rapport présenté aujourd'hui, nous prendrons les mesures qui orienteront, finalement, la phase finale des négociations portant sur un accord d'association ambitieux entre l'Union européenne <DiscourseConnective annotation_id="1603">et</DiscourseConnective> le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1333" docOffset="5">
+      <en>That is the intention of our report: to restore a political, economic and commercial priority, to establish a collection of principles, rules and guidelines that give form to a strategic political priority, and to strengthen the framework for relations between two trading blocs.</en>
+      <fr>Telle est l'intention de notre rapport: relancer une priorité politique, économique <DiscourseConnective annotation_id="1703">et</DiscourseConnective> commerciale, établir un ensemble de principes, de règles <DiscourseConnective annotation_id="1763">et</DiscourseConnective> de lignes directrices formant la base d'une priorité politique stratégique <DiscourseConnective annotation_id="1841">et</DiscourseConnective> renforcer le cadre des relations entre les deux blocs commerciaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1613" docOffset="6">
+      <en>
+        <Alignment alignment="1911" annotation_id="1613">
+          <DiscourseConnective annotation_id="1613" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we can bring them together by means of an Association Agreement which, together with the political aspects of cooperation, involves an agreement on the creation of a free trade area, we will have taken the historic step of creating the world's largest such free trade area.</en>
+      <fr>
+        <Alignment alignment="1613" annotation_id="1911">
+          <DiscourseConnective annotation_id="1911" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous sommes capables de les réunir au moyen d'un accord d'association qui, conjointement aux aspects politiques de la coopération, implique un accord sur la création d'une zone de libre-échange, nous aurons franchi un cap historique en créant la zone de libre-échange la plus vaste au monde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1890" docOffset="7">
+      <en>At a time <DiscourseConnective annotation_id="1900" sense="Temporal.Synchrony">when</DiscourseConnective> new powers are emerging in the East, this would be a way to enhance the mutual interests of two blocs that are united by history and culture, with all the benefits that that would bring to our citizens on both continents.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2206">À</DiscourseConnective> une époque où de nouvelles puissances font surface <DiscourseConnective annotation_id="2259">à</DiscourseConnective> l'est, il s'agirait là d'une manière de consolider les intérêts mutuels de deux blocs unis par leur histoire <DiscourseConnective annotation_id="2370">et</DiscourseConnective> leur culture, avec tous les avantages <DiscourseConnective annotation_id="2411">que</DiscourseConnective> ceci apporterait aux citoyens des deux continents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2127" docOffset="8">
+      <en>We are talking about a combined population of more than 700 million inhabitants.</en>
+      <fr>Il est question d'une population combinée <DiscourseConnective annotation_id="2508">de plus</DiscourseConnective> de 700 millions de personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2208" docOffset="9">
+      <en>Our report <DiscourseConnective annotation_id="2219" sense="Contingency.Cause.Result">therefore</DiscourseConnective> calls for a full, ambitious and balanced agreement based on three pillars: a political and institutional chapter reinforcing democratic dialogue and political cooperation; a cooperation chapter promoting sustainable economic and social development; and a trade chapter establishing an advanced free-trade area with a broad agenda including, as well as reciprocal liberalisation of trade in goods and services, investment, public procurement, the protection of intellectual property rights, cooperation regarding competition and trade protection instruments, trade facilitation, and a binding dispute settlement mechanism.</en>
+      <fr>Par conséquent, notre rapport souligne la nécessité d'un accord complet, ambitieux et équilibré et fondé sur trois piliers: un chapitre politique et institutionnel renforçant le dialogue démocratique et la concertation politique, un chapitre coopération promouvant le développement économique et social durable et un chapitre commercial instaurant une zone de libre-échange de pointe couvrant un large éventail de secteurs allant de la libéralisation réciproque du commerce de biens et de services aux aspects touchant aux investissements, aux marchés publics, à la protection des droits de propriété intellectuelle, à la coopération en matière de concurrence ainsi qu'aux instruments de défense commerciale, à la facilité du commerce et à un mécanisme contraignant pour le règlement des différends.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2851" docOffset="10">
+      <en>Mexico and Chile are good examples of how our relations can be intensified by means of an association instrument.</en>
+      <fr>Les exemples du Mexique <DiscourseConnective annotation_id="3370">et</DiscourseConnective> du Chili montrent parfaitement la manière dont nos relations peuvent être intensifiées par le biais d'un instrument d'association.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2965" docOffset="11">
+      <en>With Mercosur representing 45% of the population of Latin America and the region's largest market, as well as 45% of its GDP, the great potential for growth on both sides is clear.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3504">Étant donné que</DiscourseConnective> le Mercosur représente 45% de la population d'Amérique latine <DiscourseConnective annotation_id="3582">et</DiscourseConnective> le principal marché de la région, <DiscourseConnective annotation_id="3619">ainsi</DiscourseConnective> que 45% de son PIB, les deux parties bénéficient clairement d'un important potentiel de croissance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3146" docOffset="12">
+      <en>
+        <Alignment alignment="3725" annotation_id="3146">
+          <DiscourseConnective annotation_id="3146" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, unlike what is happening in Latin America as a whole, where US imports are three times higher than those from the EU, in Mercosur the EU quota is about 25% compared with 20% from the United States.</en>
+      <fr>
+        <Alignment alignment="3146" annotation_id="3725">
+          <DiscourseConnective annotation_id="3725" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, contrairement à la situation prévalant dans l'ensemble de l'Amérique latine, où les importations en provenance des États-Unis sont trois fois supérieures à celles en provenance de l'UE, la part de l'UE dans le Mercosur se situe aux alentours de 25%, contre 20% <DiscourseConnective annotation_id="3995">pour</DiscourseConnective> les États-Unis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3357" docOffset="13">
+      <en>According to the Institute of Political Studies in Paris, the costs of not reaching an agreement are estimated to be some EUR 3.7 billion per annum in trade and goods, rising to over EUR 5 billion <Alignment alignment="4212" annotation_id="3554">
+          <DiscourseConnective annotation_id="3554" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> one includes investment and services.</en>
+      <fr>Selon l'Institut d'études politiques de Paris, les coûts liés à la non-signature d'un accord <DiscourseConnective annotation_id="4109">s'</DiscourseConnective>élèvent à environ 3,7 milliards d'euros par an <DiscourseConnective annotation_id="4158">en</DiscourseConnective> commerce de biens et <DiscourseConnective annotation_id="4182">à</DiscourseConnective> plus de 5 milliards d'euros <Alignment alignment="3554" annotation_id="4212">
+          <DiscourseConnective annotation_id="4212" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'on inclut les investissements <DiscourseConnective annotation_id="4247">et</DiscourseConnective> les services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3595" docOffset="14">
+      <en>The trade agreement must be wide-ranging and cover all sectors, <Alignment alignment="4330" annotation_id="3659">
+          <DiscourseConnective annotation_id="3659" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> the specific sensitivity of certain products must of course be taken into account, <Alignment alignment="4435" annotation_id="3749">
+          <DiscourseConnective annotation_id="3749" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the report indicates.</en>
+      <fr>L'accord commercial doit être large <DiscourseConnective annotation_id="4300">et</DiscourseConnective> couvrir tous les secteurs, <Alignment alignment="3659" annotation_id="4330">
+          <DiscourseConnective annotation_id="4330" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> la sensibilité spécifique de certains produits doit bien évidemment être prise en considération, <Alignment alignment="3749" annotation_id="4435">
+          <DiscourseConnective annotation_id="4435" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'indique le rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3774" docOffset="15">
+      <en>We did not wish to look into the details of the agreement's impact on the different sub-sectors, <Alignment alignment="4570" annotation_id="3871">
+          <DiscourseConnective annotation_id="3871" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="4584" annotation_id="3875">
+          <DiscourseConnective annotation_id="3875" sense="Expansion.Restatement">rather</DiscourseConnective>
+        </Alignment> we thought it appropriate to analyse the issue as a whole, to analyse the mutual interests at stake in the negotiation altogether.</en>
+      <fr>Nous n'avons pas souhaité entrer dans les détails de l'impact de l'accord sur les différents sous-secteurs <Alignment alignment="3871" annotation_id="4570">
+          <DiscourseConnective annotation_id="4570" sense="Comparison.Contrast">et</DiscourseConnective>
+        </Alignment> nous avons <Alignment alignment="3875" annotation_id="4584">
+          <DiscourseConnective annotation_id="4584" sense="Expansion.Restatement">plutôt</DiscourseConnective>
+        </Alignment> jugé bon d'analyser la problématique dans son ensemble, d'analyser les intérêts mutuels que les négociations mettent <DiscourseConnective annotation_id="4708">en</DiscourseConnective> jeu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4013" docOffset="16">
+      <en>Our report <DiscourseConnective annotation_id="4024" sense="Contingency.Cause.Result">therefore</DiscourseConnective> refers both to the EU's interests in Mercosur and to Mercosur's interests in the EU, <DiscourseConnective annotation_id="4119" sense="Expansion.Conjunction">and</DiscourseConnective> specific sections are dedicated to such important aspects as agriculture, with references to subsidies, geographical designations, bioethanol, etc.; NAMAs, where we include a special reference to fisheries and the sensitivity of certain processed products, such as canned tuna; services, where it is essential to achieve real improvements and clear and stable regulatory frameworks; investments, which are fundamental for sustainable economic development and generating employment and prosperity; public procurement and intellectual property, as well as the clear identification of possible barriers to trade and the approximation of rules on certification, accreditation, standardisation, etc., to promote fair trade and competition; and the establishment of an agreed dispute settlement instrument.</en>
+      <fr>Par conséquent, notre rapport fait référence tant aux intérêts de l'UE dans le Mercosur qu'aux intérêts du Mercosur dans l'UE. De plus, il comporte des chapitres spécifiques consacrés à des aspects aussi importants que l'agriculture, notamment les subventions, les indications géographiques, le bioéthanol, etc., l'AMNA, où nous faisons tout spécialement référence à la pêche et à la sensibilité de certains produits transformés, tels que les conserves de thon, les services, où il est essentiel de procéder à de réelles améliorations et de mettre en place des cadres réglementaires clairs et stables, les investissements, fondamentaux en vue d'un développement économique durable et constituant une source d'emploi et de prospérité, les marchés publics et la propriété intellectuelle, ainsi que l'identification claire des éventuels obstacles au commerce et le rapprochement des règles relatives à la certification, l'accréditation, la normalisation, etc., afin de promouvoir le commerce équitable et la concurrence, et la mise en place d'un instrument de règlement des différends convenu entre les parties.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4924" docOffset="17">
+      <en>As well as the strictly technical and commercial aspects, the report <Alignment alignment="5900" annotation_id="4993">
+          <DiscourseConnective annotation_id="4993" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> covers the mechanisms necessary for the industrial, employment and social cooperation of small and medium-sized businesses and aspects relating to technology, science, environmental measures, energy and communication, as well as European Union aid and solidarity mechanisms.</en>
+      <fr>Outre les aspects strictement techniques <DiscourseConnective annotation_id="5866">et</DiscourseConnective> commerciaux, le rapport couvre <Alignment alignment="4993" annotation_id="5900">
+          <DiscourseConnective annotation_id="5900" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> les mécanismes nécessaires <DiscourseConnective annotation_id="5937">à</DiscourseConnective> la coopération industrielle, professionnelle <DiscourseConnective annotation_id="5984">et</DiscourseConnective> sociale des petites <DiscourseConnective annotation_id="6007">et</DiscourseConnective> moyennes entreprises <DiscourseConnective annotation_id="6031">et</DiscourseConnective> les aspects liés <DiscourseConnective annotation_id="6051">à</DiscourseConnective> la technologie, à la science, aux mesures environnementales, à l'énergie <DiscourseConnective annotation_id="6126">et</DiscourseConnective> à la communication, <DiscourseConnective annotation_id="6149">ainsi</DiscourseConnective> que les mécanismes d'aide <DiscourseConnective annotation_id="6181">et</DiscourseConnective> de solidarité de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5273" docOffset="18">
+      <en>Finally, we include the necessary inter-parliamentary cooperation between the European Parliament and the Mercosur Parliament in order to make the agreement more democratically representative and bring the sometimes excessively technical aspects of the agreement more into line with the feelings of the citizens we represent, <Alignment alignment="6542" annotation_id="5599">
+          <DiscourseConnective annotation_id="5599" sense="Contingency.Cause.Result">thereby</DiscourseConnective>
+        </Alignment> giving the agreement a greater popular dimension.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6221">Enfin</DiscourseConnective>, nous reprenons la coopération interparlementaire nécessaire entre le Parlement européen <DiscourseConnective annotation_id="6316">et</DiscourseConnective> le Parlement du Mercosur <DiscourseConnective annotation_id="6344">afin de</DiscourseConnective> conférer à l'accord une plus grande représentativité démocratique <DiscourseConnective annotation_id="6418">et</DiscourseConnective> de rapprocher les aspects parfois trop techniques de l'accord de la réalité des citoyens que nous représentons, revêtant <Alignment alignment="5599" annotation_id="6542">
+          <DiscourseConnective annotation_id="6542" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> l'accord d'une dimension populaire accrue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5657" docOffset="19">
+      <en>We believe that, by means of this report, the European Parliament is making clear its support for a far-reaching and ambitious Association Agreement between the old continent and a large part of the new continent, which we want to be integrated, <DiscourseConnective annotation_id="5903" sense="Expansion.Conjunction">and</DiscourseConnective> we call upon the Commission to speed up the negotiations <Alignment alignment="6908" annotation_id="5964">
+          <Alignment alignment="6908" annotation_id="5964">
+            <DiscourseConnective annotation_id="5964" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the agreement can become a reality as soon as possible, for the benefit of the citizens of both continents.</en>
+      <fr>Nous estimons <DiscourseConnective annotation_id="6605">que</DiscourseConnective>, grâce <DiscourseConnective annotation_id="6616">à</DiscourseConnective> ce rapport, le Parlement européen affirme clairement son soutien <DiscourseConnective annotation_id="6683">à</DiscourseConnective> un accord d'association ambitieux <DiscourseConnective annotation_id="6719">et</DiscourseConnective> très ouvert entre le vieux continent <DiscourseConnective annotation_id="6759">et</DiscourseConnective> une grande partie du nouveau continent, <DiscourseConnective annotation_id="6802">que</DiscourseConnective> nous souhaitons voir intégrée. Par ailleurs, nous appelons la Commission <DiscourseConnective annotation_id="6879">à</DiscourseConnective> accélérer les négociations <Alignment alignment="5964" annotation_id="6908">
+          <Alignment alignment="5964" annotation_id="6908">
+            <DiscourseConnective annotation_id="6908" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> cet accord devienne réalité le plus rapidement possible, <DiscourseConnective annotation_id="6974">pour</DiscourseConnective> le bien des citoyens des deux continents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6080" docOffset="20">
+      <en>I would like to end, Mr President, by thanking all of the parliamentary groups for their invaluable understanding and support.</en>
+      <fr>Je souhaiterais conclure, Monsieur le Président, en remerciant l'ensemble des groupes parlementaires de leur compréhension <DiscourseConnective annotation_id="7144">et</DiscourseConnective> de leur soutien, réellement précieux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6207" docOffset="21">
+      <en>I have received much understanding and support <Alignment alignment="7241" annotation_id="6254">
+          <DiscourseConnective annotation_id="6254" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I needed as much of it as possible in order to achieve the broad consensus that we wanted.</en>
+      <fr>Cette compréhension <DiscourseConnective annotation_id="7205">et</DiscourseConnective> ce soutien ont été considérables <Alignment alignment="6254" annotation_id="7241">
+          <DiscourseConnective annotation_id="7241" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> hautement nécessaires afin de parvenir au large consensus espéré.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6349" id="252" name="Neelie Kroes">
+    <ParallelChunk annotation_id="6349" docOffset="22">
+      <en>Mr President, on behalf of my colleague Peter Mandelson, I would like to congratulate the rapporteur and the Committee on International Trade on the report on economic and trade relations between the EU and Mercosur with a view to the conclusion of an Interregional Association Agreement.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, au nom de mon collègue Peter Mandelson, je souhaiterais féliciter le rapporteur <DiscourseConnective annotation_id="7445">et</DiscourseConnective> la commission du commerce international <DiscourseConnective annotation_id="7488">pour</DiscourseConnective> le rapport sur les relations économiques <DiscourseConnective annotation_id="7534">et</DiscourseConnective> commerciales entre l'UE <DiscourseConnective annotation_id="7561">et</DiscourseConnective> le Mercosur <DiscourseConnective annotation_id="7576">en vue de</DiscourseConnective> la conclusion d'un accord d'association interrégional.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6638" docOffset="23">
+      <en>This report gives a very comprehensive picture of the current relations between the EU and Mercosur in the economic as well as the political field, and the European Commission shares most of the analysis presented in this report.</en>
+      <fr>Ce rapport brosse un portrait très détaillé des relations actuelles entre l'UE <DiscourseConnective annotation_id="7720">et</DiscourseConnective> le Mercosur dans le domaine économique <DiscourseConnective annotation_id="7762">et</DiscourseConnective> politique, <DiscourseConnective annotation_id="7776">et</DiscourseConnective> la Commission européenne est d'accord avec la plupart des points d'analyse présentés dans le rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6868" docOffset="24">
+      <en>The European Commission very much concurs with the Committee on International Trade in its view that a conclusion of an ambitious and balanced Association Agreement between the EU and Mercosur is a strategic objective.</en>
+      <fr>La Commission européenne partage tout à fait l'avis de la commission du commerce international <DiscourseConnective annotation_id="7976">en</DiscourseConnective> vertu duquel la conclusion d'un accord d'association ambitieux <DiscourseConnective annotation_id="8042">et</DiscourseConnective> équilibré entre l'UE <DiscourseConnective annotation_id="8066">et</DiscourseConnective> le Mercosur constitue un objectif stratégique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7087" docOffset="25">
+      <en>The Commission remains firmly committed to concluding the Agreement with Mercosur <Alignment alignment="8191" annotation_id="7169">
+          <Alignment alignment="8191" annotation_id="7169">
+            <DiscourseConnective annotation_id="7169" sense="Temporal.Synchrony">as soon as</DiscourseConnective>
+          </Alignment>
+        </Alignment> it is technically and politically feasible.</en>
+      <fr>La Commission réitère son engagement <DiscourseConnective annotation_id="8153">à</DiscourseConnective> conclure un accord avec le Mercosur <Alignment alignment="7169" annotation_id="8191">
+          <Alignment alignment="7169" annotation_id="8191">
+            <DiscourseConnective annotation_id="8191" sense="Temporal.Synchrony">dès que</DiscourseConnective>
+          </Alignment>
+        </Alignment> ceci sera possible d'un point de vue technique <DiscourseConnective annotation_id="8246">et</DiscourseConnective> politique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7224" docOffset="26">
+      <en>Such an agreement would be the platform for promoting the relationship between the two regions and for promoting the common values and objectives that unite us.</en>
+      <fr>Un tel accord constituerait une plate-forme de promotion des relations entre les deux régions <DiscourseConnective annotation_id="8354">ainsi</DiscourseConnective> <DiscourseConnective annotation_id="8360">que</DiscourseConnective> des valeurs <DiscourseConnective annotation_id="8376">et</DiscourseConnective> des objectifs communs qui nous unissent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7385" docOffset="27">
+      <en>An EU-Mercosur agreement would establish the first ever region-to-region association and the largest free-trade area in the world, covering almost 700 million people.</en>
+      <fr>Un accord UE-Mercosur viserait l'établissement de la première association interrégionale jamais réalisée <DiscourseConnective annotation_id="8525">et</DiscourseConnective> de la zone de libre-échange la plus vaste au monde, couvrant pratiquement 700 millions de personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7552" docOffset="28">
+      <en>
+        <Alignment alignment="8629" annotation_id="7552">
+          <DiscourseConnective annotation_id="7552" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> the INTA report points out, such an Association Agreement would enable both regions to respond more effectively to the challenges of globalisation.</en>
+      <fr>
+        <Alignment alignment="7552" annotation_id="8629">
+          <DiscourseConnective annotation_id="8629" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> l'indique le rapport de la commission du commerce international, un tel accord d'association permettrait aux deux régions de relever plus efficacement les défis de la mondialisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7703" docOffset="29">
+      <en>It would enhance the competitiveness of our economies, increase growth and <DiscourseConnective annotation_id="7778" sense="Contingency.Cause.Result">thereby</DiscourseConnective> contribute to economic and social cohesion.</en>
+      <fr>Il favoriserait la compétitivité de nos économies, augmenterait la croissance <DiscourseConnective annotation_id="8896">et</DiscourseConnective>, ce faisant, contribuerait <DiscourseConnective annotation_id="8926">à</DiscourseConnective> la cohésion économique <DiscourseConnective annotation_id="8951">et</DiscourseConnective> sociale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7830" docOffset="30">
+      <en>Creating the world's largest market place would give an enormous boost to job creation, economic reform and productivity levels.</en>
+      <fr>L'instauration du plus grand marché au monde encouragerait grandement la création d'emplois, la réforme économique <DiscourseConnective annotation_id="9078">et</DiscourseConnective> le niveau de productivité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7959" docOffset="31">
+      <en>A free-trade agreement with Mercosur is a very good example of how EU trade policy can contribute to the EU's wider approach to economic reform and competitiveness.</en>
+      <fr>Un accord de libre-échange avec le Mercosur illustre parfaitement la manière dont la politique commerciale de l'UE peut contribuer <DiscourseConnective annotation_id="9239">à</DiscourseConnective> l'approche globale de l'UE en matière de réforme économique <DiscourseConnective annotation_id="9301">et</DiscourseConnective> de compétitivité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8124" docOffset="32">
+      <en>A region-to-region agreement with Mercosur would <Alignment alignment="9370" annotation_id="8173">
+          <DiscourseConnective annotation_id="8173" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> serve as an instrument to support an integration effort within Mercosur and Latin America.</en>
+      <fr>Un accord interrégional avec le Mercosur serait <Alignment alignment="8173" annotation_id="9370">
+          <DiscourseConnective annotation_id="9370" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> un instrument permettant d'appuyer les efforts d'intégration au sein du Mercosur <DiscourseConnective annotation_id="9461">et</DiscourseConnective> de l'Amérique latine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8269" docOffset="33">
+      <en>The accession of Venezuela to Mercosur this year implies an enlargement of the region <Alignment alignment="9573" annotation_id="8355">
+          <DiscourseConnective annotation_id="8355" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the European Commission <Alignment alignment="9608" annotation_id="8383">
+          <DiscourseConnective annotation_id="8383" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> hopes that the process of broadening and deepening regional integration will continue.</en>
+      <fr>L'adhésion du Venezuela au Mercosur cette année implique un élargissement de la région <Alignment alignment="8355" annotation_id="9573">
+          <DiscourseConnective annotation_id="9573" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la Commission européenne espère <Alignment alignment="8383" annotation_id="9608">
+          <DiscourseConnective annotation_id="9608" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9618">que</DiscourseConnective> le processus d'élargissement <DiscourseConnective annotation_id="9651">et</DiscourseConnective> d'approfondissement de l'intégration régionale se poursuivra.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8475" docOffset="34">
+      <en>We know from our own European experience that the reforms and adjustments necessary for integration are not easy.</en>
+      <fr>Nous savons, de par l'expérience européenne, <DiscourseConnective annotation_id="9761">que</DiscourseConnective> les réformes <DiscourseConnective annotation_id="9778">et</DiscourseConnective> les ajustements nécessaires <DiscourseConnective annotation_id="9809">à</DiscourseConnective> l'intégration sont complexes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8589" docOffset="35">
+      <en>
+        <Alignment alignment="9841" annotation_id="8589">
+          <DiscourseConnective annotation_id="8589" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> we <Alignment alignment="9858" annotation_id="8596">
+          <DiscourseConnective annotation_id="8596" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> know that the rewards make the effort worthwhile.</en>
+      <fr>
+        <Alignment alignment="8589" annotation_id="9841">
+          <DiscourseConnective annotation_id="9841" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> nous savons <Alignment alignment="8596" annotation_id="9858">
+          <DiscourseConnective annotation_id="9858" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9868">que</DiscourseConnective> le jeu en vaut la chandelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8651" docOffset="36">
+      <en>An Agreement would <Alignment alignment="9920" annotation_id="8670">
+          <DiscourseConnective annotation_id="8670" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> create a more transparent and stable business environment for the EU and Mercosur companies.</en>
+      <fr>Un accord mettrait <Alignment alignment="8670" annotation_id="9920">
+          <DiscourseConnective annotation_id="9920" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> en place un environnement commercial plus transparent <DiscourseConnective annotation_id="9984">et</DiscourseConnective> plus stable <DiscourseConnective annotation_id="9999">pour</DiscourseConnective> les entreprises de l'UE <DiscourseConnective annotation_id="10028">et</DiscourseConnective> du Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8768" docOffset="37">
+      <en>This would contribute to attracting more investment flows.</en>
+      <fr>Ceci contribuerait <DiscourseConnective annotation_id="10063">à</DiscourseConnective> attirer un plus grand nombre de flux d'investissement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8827" docOffset="38">
+      <en>Investment - and future investment - could possibly have the biggest impact on the shape of our future economic partnership with Mercosur.</en>
+      <fr>Les investissements - <DiscourseConnective annotation_id="10142">et</DiscourseConnective> les investissements futurs - pourraient avoir le plus grand impact sur la forme que prendra notre futur partenariat économique avec le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8966" docOffset="39">
+      <en>
+        <Alignment alignment="10290" annotation_id="8966">
+          <DiscourseConnective annotation_id="8966" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> foreign direct investment to Mercosur increased in 2004 and 2005, the relative share of the region in relation to global EU investments has been sliding ever since the 1990s.</en>
+      <fr>
+        <Alignment alignment="8966" annotation_id="10290">
+          <DiscourseConnective annotation_id="10290" sense="Comparison.Concession">Même si</DiscourseConnective>
+        </Alignment> les investissements étrangers directs <DiscourseConnective annotation_id="10336">en</DiscourseConnective> direction du Mercosur ont augmenté <DiscourseConnective annotation_id="10374">en</DiscourseConnective> 2004 <DiscourseConnective annotation_id="10382">et</DiscourseConnective> 2005, la part relative de la région dans les investissements réalisés par l'UE <DiscourseConnective annotation_id="10464">à</DiscourseConnective> l'échelle mondiale enregistre un recul <DiscourseConnective annotation_id="10505">depuis</DiscourseConnective> les années 1990.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9150" docOffset="40">
+      <en>This is a source of concern, <Alignment alignment="10575" annotation_id="9179">
+          <DiscourseConnective annotation_id="9179" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> investment means transfer of know-how, of industrialisation and jobs.</en>
+      <fr>Cette baisse est une source de préoccupation, <Alignment alignment="9179" annotation_id="10575">
+          <DiscourseConnective annotation_id="10575" sense="Temporal.Synchrony">dans la mesure où</DiscourseConnective>
+        </Alignment> les investissements impliquent un transfert de savoir-faire, d'industrialisation <DiscourseConnective annotation_id="10674">et</DiscourseConnective> d'emplois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9252" docOffset="41">
+      <en>This relative downward trend of the Mercosur region in relation to the rest of the world, especially Asia, is one of the challenges of the future agreement and, possibly, its main potential economic benefit.</en>
+      <fr>Cette tendance relative à la baisse de la région Mercosur par rapport au reste du monde et <DiscourseConnective annotation_id="10779">surtout</DiscourseConnective> de l'Asie, est l'un des défis que devra relever le futur accord <DiscourseConnective annotation_id="10851">et</DiscourseConnective>, probablement, son principal avantage économique potentiel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9460" docOffset="42">
+      <en>Let me just say a few words on the timing.</en>
+      <fr>Permettez-moi de dire quelques mots sur les échéances à venir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9503" docOffset="43">
+      <en>In the report by the International Trade Committee, you request the establishment of a negotiating calendar which would allow us to conclude the EU-Mercosur negotiations as soon as possible.</en>
+      <fr>Le rapport de la commission du commerce international demande la mise en place d'un calendrier de négociation qui nous permettrait de finaliser les négociations UE-Mercosur le plus rapidement possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9694" docOffset="44">
+      <en>The European Commission is fully committed to concluding these negotiations <Alignment alignment="11252" annotation_id="9770">
+          <Alignment alignment="11252" annotation_id="9770">
+            <DiscourseConnective annotation_id="9770" sense="Temporal.Asynchronous.Succession">as soon as</DiscourseConnective>
+          </Alignment>
+        </Alignment> is technically and politically feasible, <Alignment alignment="11321" annotation_id="9822">
+          <DiscourseConnective annotation_id="9822" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we have always been of the opinion that substance prevails over timing.</en>
+      <fr>La Commission européenne <DiscourseConnective annotation_id="11204">s'</DiscourseConnective>engage pleinement <DiscourseConnective annotation_id="11224">à</DiscourseConnective> conclure ces négociations <Alignment alignment="9770" annotation_id="11252">
+          <Alignment alignment="9770" annotation_id="11252">
+            <DiscourseConnective annotation_id="11252" sense="Temporal.Asynchronous.Succession">dès que</DiscourseConnective>
+          </Alignment>
+        </Alignment> ceci sera faisable d'un point de vue technique <DiscourseConnective annotation_id="11307">et</DiscourseConnective> politique, <Alignment alignment="9822" annotation_id="11321">
+          <DiscourseConnective annotation_id="11321" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous avons toujours été d'avis <DiscourseConnective annotation_id="11357">que</DiscourseConnective> le fond l'emporte sur les questions de temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9898" docOffset="45">
+      <en>What we want to achieve is an ambitious, comprehensive and balanced agreement which goes beyond our WTO commitments.</en>
+      <fr>Nous souhaitons parvenir à un accord ambitieux, complet <DiscourseConnective annotation_id="11463">et</DiscourseConnective> équilibré, qui aille au-delà de nos engagements pris dans le cadre de l'OMC.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10015" docOffset="46">
+      <en>
+        <Alignment alignment="11543" annotation_id="10015">
+          <DiscourseConnective annotation_id="10015" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> the INTA report points out, there is a cost to not having an Agreement.</en>
+      <fr>
+        <Alignment alignment="10015" annotation_id="11543">
+          <DiscourseConnective annotation_id="11543" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> le souligne le rapport de la commission du commerce international, un non-accord a un coût.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10090" docOffset="47">
+      <en>
+        <Alignment alignment="11641" annotation_id="10090">
+          <DiscourseConnective annotation_id="10090" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> there is <Alignment alignment="11676" annotation_id="10103">
+          <DiscourseConnective annotation_id="10103" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a long-term cost in missed opportunities from having a bad agreement.</en>
+      <fr>
+        <Alignment alignment="10090" annotation_id="11641">
+          <DiscourseConnective annotation_id="11641" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> un accord de piètre qualité a <Alignment alignment="10103" annotation_id="11676">
+          <DiscourseConnective annotation_id="11676" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> un coût à long terme qui se traduit par un certain nombre d'occasions ratées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10178" docOffset="48">
+      <en>Related to the issue of timing is the link between these biregional negotiations, the progress of the WTO Doha Development Agenda and the sequence of the two negotiations.</en>
+      <fr>Les questions relatives au calendrier sont à mettre en rapport au lien existant entre ces négociations birégionales, l'état d'avancement de l'agenda de développement de Doha <DiscourseConnective annotation_id="11938">et</DiscourseConnective> la succession des deux négociations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10350" docOffset="49">
+      <en>In this respect, the European Commission fully agrees with the analysis of the report by INTA; both these processes can realise substantial synergies.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11978">À cet égard</DiscourseConnective>, la Commission européenne partage pleinement l'analyse donnée par le rapport de la commission du commerce international; ces deux processus peuvent donner lieu à des synergies considérables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10501" docOffset="50">
+      <en>They are not mutually exclusive; they are complementary.</en>
+      <fr>Ils ne s'excluent pas l'un l'autre; ils sont complémentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10558" docOffset="51">
+      <en>To conclude, let me convey to you the following message, which I am sure that you share with me: for strategic and political reasons, the European Commission remains committed to negotiating and concluding an ambitious and balanced agreement with Mercosur.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12243">Pour conclure</DiscourseConnective>, permettez-moi de vous transmettre le message suivant, dont je suis sûre <DiscourseConnective annotation_id="12330">qu'</DiscourseConnective>il est également le vôtre: <DiscourseConnective annotation_id="12360">pour</DiscourseConnective> des raisons stratégiques <DiscourseConnective annotation_id="12390">et</DiscourseConnective> politiques, la Commission européenne réitère son engagement <DiscourseConnective annotation_id="12453">à</DiscourseConnective> négocier <DiscourseConnective annotation_id="12464">et</DiscourseConnective> à conclure un accord ambitieux <DiscourseConnective annotation_id="12498">et</DiscourseConnective> équilibré avec le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10815" docOffset="52">
+      <en>Trade is an important element of this agreement but not the only one.</en>
+      <fr>Le commerce est un volet essentiel de cet accord, <DiscourseConnective annotation_id="12579">mais</DiscourseConnective> il n'est pas le seul.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10885" docOffset="53">
+      <en>Beyond the trade negotiations, we should not lose sight of the strategic, political and economic rationale of this agreement.</en>
+      <fr>Au-delà des négociations commerciales, nous ne devons pas perdre de vue la logique stratégique, politique <DiscourseConnective annotation_id="12712">et</DiscourseConnective> économique de cet accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11011" docOffset="54">
+      <en>Let us not forget the strategic dimension of a future Association Agreement, which is to promote a relationship between regional blocs which enhances peace, stability, prosperity, social progress and democracy.</en>
+      <fr>N'oublions pas la dimension stratégique d'un futur accord d'association, qui vise <DiscourseConnective annotation_id="12823">à</DiscourseConnective> promouvoir entre deux blocs régionaux une relation garante de paix, stabilité, prospérité, progrès social <DiscourseConnective annotation_id="12931">et</DiscourseConnective> démocratie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11222" id="253" language="PL" name="Filip Kaczmarek ">
+    <ParallelChunk annotation_id="11222" docOffset="55">
+      <en>Mr President, I would like to extend my heartfelt congratulations to the rapporteur, Mr Varela, for his extremely successful report on economic and trade relations between the European Union and Mercosur with a view to the conclusion of an interregional association agreement.</en>
+      <fr>rapporteur pour avis de la commission du développement. - (PL) Monsieur le Président, je souhaiterais adresser mes plus sincères félicitations au rapporteur, M. Varela, <DiscourseConnective annotation_id="13115">pour</DiscourseConnective> son très brillant rapport sur les relations économiques <DiscourseConnective annotation_id="13176">et</DiscourseConnective> commerciales entre l'Union européenne <DiscourseConnective annotation_id="13217">et</DiscourseConnective> le Mercosur <DiscourseConnective annotation_id="13232">en vue de</DiscourseConnective> la conclusion d'un accord d'association interrégional.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11499" docOffset="56">
+      <en>The report is an important one, <Alignment alignment="13322" annotation_id="11531">
+          <DiscourseConnective annotation_id="11531" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it has come out at an appropriate moment.</en>
+      <fr>Ce rapport est important <Alignment alignment="11531" annotation_id="13322">
+          <DiscourseConnective annotation_id="13322" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> intervient fort <DiscourseConnective annotation_id="13341">à propos</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11577" docOffset="57">
+      <en>
+        <Alignment alignment="13351" annotation_id="11577">
+          <DiscourseConnective annotation_id="11577" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> we know, negotiations regarding the EU-Mercosur Association Agreement have a long and rather troubled history.</en>
+      <fr>
+        <Alignment alignment="11577" annotation_id="13351">
+          <DiscourseConnective annotation_id="13351" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> nous le savons, les négociations relatives à l'accord d'association UE-Mercosur ont connu une évolution longue <DiscourseConnective annotation_id="13468">et</DiscourseConnective> relativement mouvementée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11691" docOffset="58">
+      <en>In the current situation - the failure of the Doha talks - we need to put out a strong and clear signal that an association agreement is necessary and favourable both to Mercosur members and to European Union members.</en>
+      <fr>Au vu de la situation actuelle - l'échec des pourparlers de Doha -, nous devons véhiculer un message clair <DiscourseConnective annotation_id="13604">et</DiscourseConnective> fort selon lequel un accord d'association est nécessaire <DiscourseConnective annotation_id="13664">et</DiscourseConnective> favorable tant aux membres du Mercosur qu'aux membres de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11909" docOffset="59">
+      <en>There is <Alignment alignment="13742" annotation_id="11918">
+          <DiscourseConnective annotation_id="11918" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a need for greater political involvement in and support for the final success of the EU-Mercosur negotiations.</en>
+      <fr>Il convient <Alignment alignment="11918" annotation_id="13742">
+          <DiscourseConnective annotation_id="13742" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de faire montre d'une participation politique <DiscourseConnective annotation_id="13798">et</DiscourseConnective> d'un soutien accrus afin d'assurer la réussite finale des négociations entre l'UE <DiscourseConnective annotation_id="13883">et</DiscourseConnective> le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12034" docOffset="60">
+      <en>I believe that the rapporteur has been very successful here.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="13908">que</DiscourseConnective> le travail du rapporteur est tout à fait réussi sur ce point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12095" docOffset="61">
+      <en>The report sends out a positive signal and can play an important and positive role in mapping out the next stages of the negotiations.</en>
+      <fr>Le rapport envoie un signal positif <DiscourseConnective annotation_id="14010">et</DiscourseConnective> peut jouer un rôle important <DiscourseConnective annotation_id="14042">et</DiscourseConnective> positif <DiscourseConnective annotation_id="14053">en vue de</DiscourseConnective> définir les prochaines étapes des négociations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12230" docOffset="62">
+      <en>I would <Alignment alignment="14127" annotation_id="12238">
+          <DiscourseConnective annotation_id="12238" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the rapporteur for taking into account many submissions and comments from the report of the Committee on Development, which I represented as a draftsman.</en>
+      <fr>Je souhaiterais <Alignment alignment="12238" annotation_id="14127">
+          <DiscourseConnective annotation_id="14127" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> remercier le rapporteur d'avoir pris en considération un grand nombre des propositions <DiscourseConnective annotation_id="14224">et</DiscourseConnective> observations émanant du rapport de la commission du développement, <DiscourseConnective annotation_id="14294">que</DiscourseConnective> j'ai représentée en <DiscourseConnective annotation_id="14318">tant que</DiscourseConnective> rapporteur pour avis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12411" docOffset="63">
+      <en>I would like to thank you for emphasising the importance of maintaining balance between trade and development in the final text of the agreement <Alignment alignment="14514" annotation_id="12556">
+          <Alignment alignment="14514" annotation_id="12556">
+            <DiscourseConnective annotation_id="12556" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the sections relating to trade do not conflict with the sections on development, and for underlining the need to establish guarantees that the provisions on cooperation are effective in combating poverty and are in accordance with the EU's negotiating policy.</en>
+      <fr>Je souhaiterais vous remercier d'avoir souligné l'importance qu'il y a <DiscourseConnective annotation_id="14420">à</DiscourseConnective> maintenir un bon équilibre entre commerce <DiscourseConnective annotation_id="14464">et</DiscourseConnective> développement dans le texte final de l'accord, <Alignment alignment="12556" annotation_id="14514">
+          <Alignment alignment="12556" annotation_id="14514">
+            <DiscourseConnective annotation_id="14514" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les chapitres relatifs au commerce n'aillent pas <DiscourseConnective annotation_id="14572">à</DiscourseConnective> l'encontre de ceux relatifs au développement, <DiscourseConnective annotation_id="14620">et</DiscourseConnective> d'avoir mis en évidence la nécessité d'établir des garanties <DiscourseConnective annotation_id="14684">afin que</DiscourseConnective> les dispositions portant sur la coopération luttent efficacement contre la pauvreté <DiscourseConnective annotation_id="14777">et</DiscourseConnective> soient conformes <DiscourseConnective annotation_id="14797">à</DiscourseConnective> la politique de négociation de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12824" docOffset="64">
+      <en>The Committee on Development drew attention to various aspects of development cooperation.</en>
+      <fr>La commission du développement a mis en exergue différents aspects de la coopération au développement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12915" docOffset="65">
+      <en>It is clear that better economic and trade conditions can contribute towards resolving some of the social problems that exist in the Mercosur countries.</en>
+      <fr>Il est clair <DiscourseConnective annotation_id="14952">que</DiscourseConnective> de meilleures conditions économiques <DiscourseConnective annotation_id="14993">et</DiscourseConnective> commerciales peuvent contribuer à résoudre certains des problèmes sociaux existant dans les pays du Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13068" docOffset="66">
+      <en>The Committee on Development underlines the need to increase support for social development, education, reducing social inequalities, more equal distribution of income, and reduction of poverty.</en>
+      <fr>La commission du développement souligne la nécessité d'accroître l'aide au développement social, à l'éducation, à la réduction des inégalités sociales, à la distribution plus équitable du revenu <DiscourseConnective annotation_id="15301">et</DiscourseConnective> à la baisse de la pauvreté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13263" docOffset="67">
+      <en>We <Alignment alignment="15346" annotation_id="13266">
+          <DiscourseConnective annotation_id="13266" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> believe that we should support small and medium-sized enterprises and balance farming, tourism and infrastructure investment with protection for the natural environment.</en>
+      <fr>Nous estimons <Alignment alignment="13266" annotation_id="15346">
+          <DiscourseConnective annotation_id="15346" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="15356">que</DiscourseConnective> nous devrions aider les petites <DiscourseConnective annotation_id="15392">et</DiscourseConnective> moyennes entreprises <DiscourseConnective annotation_id="15416">et</DiscourseConnective> assurer un juste équilibre entre, d'une part, l'agriculture, le tourisme <DiscourseConnective annotation_id="15492">et</DiscourseConnective> les investissements d'infrastructure et, d'autre part, la protection de l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13441" docOffset="68">
+      <en>An important advantage of this report is that it provides institutional reinforcement of Mercosur.</en>
+      <fr>Ce rapport présente un avantage essentiel, <DiscourseConnective annotation_id="15627">en ce sens qu'</DiscourseConnective>il prévoit le renforcement institutionnel du Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13540" docOffset="69">
+      <en>One of the ways it proposes to do this is by strengthening cooperation at parliamentary level, which would have a very positive effect.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15696">Pour ce faire</DiscourseConnective>, il propose, entre autres, un renforcement de la coopération au niveau parlementaire, ce qui aurait un impact réellement positif.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13676" id="254" name="José Ignacio Salafranca Sánchez-Neyra">
+    <ParallelChunk annotation_id="13676" docOffset="70">
+      <en>on behalf of the PPE-DE Group. - (ES) Mr President, Commissioner, ladies and gentlemen, I would like to begin by congratulating the rapporteur, Mr Varela Suanzes-Carpegna, on the excellent work that he has done on behalf of the Committee on International Trade.</en>
+      <fr>au nom du groupe PPE-DE. - (ES) Monsieur le Président, Madame la Commissaire, Mesdames <DiscourseConnective annotation_id="15927">et</DiscourseConnective> Messieurs, je souhaiterais commencer par féliciter le rapporteur, M. Varela Suanzes-Carpegna, <DiscourseConnective annotation_id="16024">pour</DiscourseConnective> l'excellent travail accompli au nom de la commission du commerce international.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13938" docOffset="71">
+      <en>I would <Alignment alignment="16125" annotation_id="13946">
+          <DiscourseConnective annotation_id="13946" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to express my regret at the absence of the Commissioner responsible, Mr Mandelson, <Alignment alignment="16210" annotation_id="14039">
+          <DiscourseConnective annotation_id="14039" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> at least he has had the courtesy to call the rapporteur to explain, which does not happen very often in these cases.</en>
+      <fr>Je souhaiterais <Alignment alignment="13946" annotation_id="16125">
+          <DiscourseConnective annotation_id="16125" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> déplorer l'absence du commissaire en charge de ces affaires, M. Mandelson, <Alignment alignment="14039" annotation_id="16210">
+          <DiscourseConnective annotation_id="16210" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> ce dernier a eu la courtoisie d'appeler le rapporteur <DiscourseConnective annotation_id="16272">pour</DiscourseConnective> s'expliquer, ce qui est assez peu fréquent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14165" docOffset="72">
+      <en>In my capacity as draftsman of the opinion of the Committee on Foreign Affairs, Mr President, I would like to say that I would have liked to have obtained a firmer commitment from the Commission with regard to the timetable called for by the rapporteur in his report <Alignment alignment="16592" annotation_id="14432">
+          <DiscourseConnective annotation_id="14432" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> ten years is a long time to be negotiating an agreement which, <Alignment alignment="16678" annotation_id="14503">
+          <DiscourseConnective annotation_id="14503" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the rapporteur and the Commissioner have pointed out, is an agreement on political association, economic coordination and cooperation.</en>
+      <fr>Monsieur le Président, <DiscourseConnective annotation_id="16344">en</DiscourseConnective> ma qualité de rapporteur pour avis de la commission des affaires étrangères, je souhaiterais <DiscourseConnective annotation_id="16440">dire que</DiscourseConnective> j'aurais voulu obtenir un engagement plus fort de la part de la Commission vis-à-vis du calendrier demandé par le rapporteur dans son rapport, <Alignment alignment="14432" annotation_id="16592">
+          <DiscourseConnective annotation_id="16592" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> dix ans me semblent être une longue période de temps <DiscourseConnective annotation_id="16649">pour</DiscourseConnective> négocier un accord qui, <Alignment alignment="14503" annotation_id="16678">
+          <DiscourseConnective annotation_id="16678" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le rapporteur <DiscourseConnective annotation_id="16698">et</DiscourseConnective> la commissaire l'ont signalé, vise l'association politique, la coordination économique <DiscourseConnective annotation_id="16788">et</DiscourseConnective> la coopération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14641" docOffset="73">
+      <en>It is clear that the European Union has not shown any lack of will; I believe that one of the Member States of Mercosur has shown clear and decisive support for the multilateral round, <Alignment alignment="16995" annotation_id="14826">
+          <DiscourseConnective annotation_id="14826" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Chilean and Mexican experiences - Mr Varela Suanzes-Carpegna reminded us of this - demonstrate clearly that it is possible to go much further than the expectations established by the multilateral round.</en>
+      <fr>Il est clair <DiscourseConnective annotation_id="16820">que</DiscourseConnective> l'Union européenne n'a fait preuve d'aucun manque de volonté; je pense <DiscourseConnective annotation_id="16895">que</DiscourseConnective> l'un des États membres du Mercosur a apporté un soutien clair <DiscourseConnective annotation_id="16961">et</DiscourseConnective> décisif au cycle multilatéral, <Alignment alignment="14826" annotation_id="16995">
+          <DiscourseConnective annotation_id="16995" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les expériences du Chili <DiscourseConnective annotation_id="17023">et</DiscourseConnective> du Mexique - M. Varela Suanzes-Carpegna nous l'a rappelé - montrent clairement <DiscourseConnective annotation_id="17105">qu'</DiscourseConnective>il est possible de dépasser largement les attentes issues du cycle multilatéral.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15037" docOffset="74">
+      <en>I <Alignment alignment="17189" annotation_id="15039">
+          <DiscourseConnective annotation_id="15039" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe, Mr President, that where there is a will there is a way.</en>
+      <fr>
+        <Alignment alignment="15039" annotation_id="17189">
+          <DiscourseConnective annotation_id="17189" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, Monsieur le Président, je pense <DiscourseConnective annotation_id="17237">que si</DiscourseConnective> l'on veut, on peut, conformément à l'adage bien connu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15115" docOffset="75">
+      <en>
+        <Alignment alignment="17299" annotation_id="15115">
+          <DiscourseConnective annotation_id="15115" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> this kind of agreement is characterised by commercial aspects, <Alignment alignment="17369" annotation_id="15187">
+          <DiscourseConnective annotation_id="15187" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to third-generation agreements, which have contained the democratic clause, it is clear that following the Vienna Summit, following the failure of the multilateral round, we must go the whole hog.</en>
+      <fr>
+        <Alignment alignment="15115" annotation_id="17299">
+          <DiscourseConnective annotation_id="17299" sense="Comparison.Concession">Même si</DiscourseConnective>
+        </Alignment> ce type d'accord est caractérisé par des aspects commerciaux, <Alignment alignment="15187" annotation_id="17369">
+          <DiscourseConnective annotation_id="17369" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="17379">s'</DiscourseConnective>agit d'accords de troisième génération comportant la clause démocratique, il est clair <DiscourseConnective annotation_id="17468">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="17471">après</DiscourseConnective> l'échec du sommet de Vienne et qu'<DiscourseConnective annotation_id="17511">après</DiscourseConnective> l'échec du cycle multilatéral, nous devons risquer le tout pour le tout.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15398" docOffset="76">
+      <en>I believe that the European Commission must give its clear and decisive support to these association agreements, <Alignment alignment="17700" annotation_id="15511">
+          <DiscourseConnective annotation_id="15511" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> Latin America does not need hand-outs, <Alignment alignment="17769" annotation_id="15556">
+          <DiscourseConnective annotation_id="15556" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> opportunities, and this European Union-Mercosur Association Agreement offers an excellent opportunity for all of us to pursue our shared objectives of greater democracy, greater integration and, of course, more fluid and efficient trade, which mean peace, progress and prosperity for everybody.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="17599">que</DiscourseConnective> la Commission européenne doit apporter son soutien clair <DiscourseConnective annotation_id="17660">et</DiscourseConnective> décisif <DiscourseConnective annotation_id="17671">à</DiscourseConnective> ces accords d'association, <Alignment alignment="15511" annotation_id="17700">
+          <DiscourseConnective annotation_id="17700" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> l'Amérique latine n'a pas besoin de dons généreux, <Alignment alignment="15556" annotation_id="17769">
+          <DiscourseConnective annotation_id="17769" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> d'occasions <DiscourseConnective annotation_id="17786">et</DiscourseConnective> cet accord d'association UE-Mercosur nous offre <DiscourseConnective annotation_id="17837">à</DiscourseConnective> tous une excellente occasion de poursuivre nos objectifs communs d'une démocratie plus forte, d'une intégration accrue <DiscourseConnective annotation_id="17958">et</DiscourseConnective>, bien évidemment, d'un commerce plus fluide <DiscourseConnective annotation_id="18005">et</DiscourseConnective> plus efficace, synonyme de paix, de progrès <DiscourseConnective annotation_id="18052">et</DiscourseConnective> de prospérité <DiscourseConnective annotation_id="18069">pour</DiscourseConnective> tous.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15855" id="255" name="Javier Moreno Sánchez">
+    <ParallelChunk annotation_id="15855" docOffset="77">
+      <en>on behalf of the PSE Group. - (ES) Mr President, ladies and gentlemen, Commissioner, I would like to begin by congratulating the rapporteur, Mr Varela Suanzes-Carpegna, on his excellent report and, as shadow rapporteur for the Socialist Group in the European Parliament, to thank him for cooperating so closely since the initial exchange of views in the Committee on International Trade.</en>
+      <fr>au nom du groupe PSE. - (ES) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="18141">et</DiscourseConnective> Messieurs, Madame la Commissaire, je souhaiterais commencer par féliciter le rapporteur, M. Varela Suanzes-Carpegna, <DiscourseConnective annotation_id="18261">pour</DiscourseConnective> son excellent rapport <DiscourseConnective annotation_id="18288">et</DiscourseConnective>, <DiscourseConnective annotation_id="18292">en</DiscourseConnective> ma qualité de rapporteur suppléant <DiscourseConnective annotation_id="18330">pour</DiscourseConnective> le groupe socialiste au Parlement européen, le remercier d'avoir coopéré <DiscourseConnective annotation_id="18408">si</DiscourseConnective> étroitement <DiscourseConnective annotation_id="18423">depuis</DiscourseConnective> le premier échange de vues au sein de la commission du commerce international.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16243" docOffset="78">
+      <en>That cooperation has helped to produce a balanced report containing the clear message that this House wants to address to the Commission: Commissioner, we want an association agreement to be reached between the European Union and Mercosur as soon as possible for several reasons.</en>
+      <fr>Cette coopération a contribué <DiscourseConnective annotation_id="18539">à</DiscourseConnective> produire un rapport équilibré contenant le message clair <DiscourseConnective annotation_id="18598">que</DiscourseConnective> cette Assemblée souhaite adresser <DiscourseConnective annotation_id="18636">à</DiscourseConnective> la Commission: Madame la Commissaire, nous souhaitons qu'un accord d'association <DiscourseConnective annotation_id="18719">soit</DiscourseConnective> conclu entre l'Union européenne <DiscourseConnective annotation_id="18756">et</DiscourseConnective> le Mercosur le plus rapidement possible <DiscourseConnective annotation_id="18799">pour</DiscourseConnective> diverses raisons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16523" docOffset="79">
+      <en>Firstly, this agreement will be much more than merely a trade instrument: it will be an instrument at the service of peace, multilateralism and dialogue that will enable both blocs to adopt policies that promote shared economic, social and geopolitical values and interests.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18822">Premièrement</DiscourseConnective>, cet accord sera beaucoup plus <DiscourseConnective annotation_id="18866">qu'</DiscourseConnective>un simple instrument commercial: il sera un instrument au service de la paix, du multilatéralisme <DiscourseConnective annotation_id="18967">et</DiscourseConnective> du dialogue qui permettront aux deux blocs d'adopter des politiques prônant des valeurs <DiscourseConnective annotation_id="19058">et</DiscourseConnective> des intérêts communs sur les plans économique, social <DiscourseConnective annotation_id="19115">et</DiscourseConnective> géopolitique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16798" docOffset="80">
+      <en>It will enshrine the first North-South intercontinental association, offering an alternative to other attempts at integration, such as the FTAA, which had more to do with a desire for trade domination.</en>
+      <fr>Il incarnera la première association intercontinentale Nord-Sud, offrant ainsi un alternative <DiscourseConnective annotation_id="19226">à</DiscourseConnective> d'autres tentatives d'intégration, <DiscourseConnective annotation_id="19263">comme</DiscourseConnective> la ZLEA, qui visaient davantage la domination commerciale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17000" docOffset="81">
+      <en>
+        <Alignment alignment="19328" annotation_id="17000">
+          <DiscourseConnective annotation_id="17000" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, the European Union-Mercosur association will lead to the largest region of shared prosperity in the world, benefiting more than 700 million citizens, <Alignment alignment="19509" annotation_id="17163">
+          <DiscourseConnective annotation_id="17163" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> previous speakers have said.</en>
+      <fr>
+        <Alignment alignment="17000" annotation_id="19328">
+          <DiscourseConnective annotation_id="19328" sense="Expansion.Conjunction">D'autre part</DiscourseConnective>
+        </Alignment>, l'association Union européenne-Mercosur donnera lieu <DiscourseConnective annotation_id="19395">à</DiscourseConnective> la plus vaste région de prospérité partagée au monde, servant les intérêts <DiscourseConnective annotation_id="19472">de plus</DiscourseConnective> de 700 millions de citoyens, <Alignment alignment="17163" annotation_id="19509">
+          <DiscourseConnective annotation_id="19509" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> les intervenants précédents l'ont indiqué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17195" docOffset="82">
+      <en>Strengthening cooperation will make it possible to implement policies aimed at economic and social cohesion with a view to promoting development, as well as the equality and prosperity of citizens in both regions.</en>
+      <fr>Le renforcement de la coopération favorisera la mise en œuvre de politiques de cohésion économique <DiscourseConnective annotation_id="19657">et</DiscourseConnective> sociale, <DiscourseConnective annotation_id="19669">dans le but de</DiscourseConnective> promouvoir le développement <DiscourseConnective annotation_id="19712">ainsi</DiscourseConnective> que l'égalité <DiscourseConnective annotation_id="19732">et</DiscourseConnective> la prospérité des citoyens des deux régions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17409" docOffset="83">
+      <en>For the final report, the Socialist Group in the European Parliament considers it necessary to involve social actors more in the process of integration and to have a genuine interparliamentary dimension between the European Union and Mercosur.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19780">Pour</DiscourseConnective> le rapport final, le groupe socialiste au Parlement européen juge nécessaire d'impliquer davantage les acteurs sociaux dans le processus d'intégration <DiscourseConnective annotation_id="19936">et</DiscourseConnective> de mettre en place une réelle dimension interparlementaire entre l'Union européenne <DiscourseConnective annotation_id="20023">et</DiscourseConnective> le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17653" docOffset="84">
+      <en>We hope that the other groups will support our amendments to this effect.</en>
+      <fr>Nous espérons <DiscourseConnective annotation_id="20053">que</DiscourseConnective> les autres groupes soutiendront nos amendements <DiscourseConnective annotation_id="20105">à</DiscourseConnective> cette fin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17727" docOffset="85">
+      <en>Commissioner, <Alignment alignment="20141" annotation_id="17741">
+          <DiscourseConnective annotation_id="17741" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> efforts that come to nothing may be dispiriting, the Commission must do everything it possibly can to enable the agreement to be concluded and to put an end to the sense of stagnation and pessimism recently surrounding the multilateral and bilateral trade negotiations.</en>
+      <fr>Madame la Commissaire, <Alignment alignment="17741" annotation_id="20141">
+          <DiscourseConnective annotation_id="20141" sense="Comparison.Contrast">même s'</DiscourseConnective>
+        </Alignment>il peut être décourageant de déployer des efforts <DiscourseConnective annotation_id="20198">en</DiscourseConnective> vain, la Commission doit faire tout son possible <DiscourseConnective annotation_id="20250">pour</DiscourseConnective> favoriser la conclusion de l'accord <DiscourseConnective annotation_id="20291">et</DiscourseConnective> mettre un terme au sentiment de stagnation <DiscourseConnective annotation_id="20337">et</DiscourseConnective> de pessimisme qui, dernièrement, entoure les négociations commerciales multilatérales <DiscourseConnective annotation_id="20426">et</DiscourseConnective> bilatérales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18020" docOffset="86">
+      <en>I shall end with a question, Commissioner: could you provide us with any information regarding Venezuela's process of accession to Mercosur and tell us what effect this process is having on the negotiations underway?</en>
+      <fr>Je conclurai par une question, Madame la Commissaire: pourriez-vous nous fournir des informations concernant le processus d'adhésion du Venezuela au Mercosur <DiscourseConnective annotation_id="20600">et</DiscourseConnective> nous dire quel est l'impact de ce processus sur les négociations en cours?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18237" id="256" name="Helmuth Markov">
+    <ParallelChunk annotation_id="18237" docOffset="87">
+      <en>on behalf of the GUE/NGL Group. - (DE) Mr President, Commissioner, I consider it right that the European Union is striving for beneficial and close relations with the most diverse regions of the globe and, of course, with Mercosur as well.</en>
+      <fr>au nom du groupe GUE/NGL. - (DE) Monsieur le Président, Madame la Commissaire, je considère qu'il est juste <DiscourseConnective annotation_id="20786">que</DiscourseConnective> l'Union européenne <DiscourseConnective annotation_id="20809">s'</DiscourseConnective>efforce d'instaurer des relations étroites <DiscourseConnective annotation_id="20854">et</DiscourseConnective> bénéfiques avec les régions les plus diverses au monde <DiscourseConnective annotation_id="20912">et</DiscourseConnective>, bien entendu, avec le Mercosur <DiscourseConnective annotation_id="20947">également</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18477" docOffset="88">
+      <en>
+        <Alignment alignment="20958" annotation_id="18477">
+          <DiscourseConnective annotation_id="18477" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is wrong in my view <Alignment alignment="21001" annotation_id="18509">
+          <DiscourseConnective annotation_id="18509" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the Commission, by means of such agreements, tries to implement through the back door that which was rejected by the majority of countries during the WTO negotiations, namely, the liberalisation of international trade between partner countries with very different economic and social conditions, without taking the different situations in these countries into account.</en>
+      <fr>
+        <Alignment alignment="18477" annotation_id="20958">
+          <DiscourseConnective annotation_id="20958" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, il est moins juste, <DiscourseConnective annotation_id="20989">à</DiscourseConnective> mon avis, <Alignment alignment="18509" annotation_id="21001">
+          <DiscourseConnective annotation_id="21001" sense="Contingency.Condition">que</DiscourseConnective>
+        </Alignment> la Commission, au moyen de tels accords, tente de mettre en œuvre, par des moyens détournés, ce qui a été rejeté par la majorité des pays au cours des négociations de l'OMC, à savoir la libéralisation des échanges internationaux entre des pays partenaires dont les conditions économiques <DiscourseConnective annotation_id="21293">et</DiscourseConnective> sociales sont très différentes, <DiscourseConnective annotation_id="21328">sans</DiscourseConnective> prendre en considération les différentes situations de ces pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18881" docOffset="89">
+      <en>The EU - Latin America summit which took place in Vienna, as well as the alternative 'Enlazando alternativas' summit of last May afforded the opportunity of being better able to understand the wishes of the new voices in Latin America and of shaping relations in the interests of the populations of both regions in a more balanced manner, and not just for the benefit of industry and commerce.</en>
+      <fr>Le sommet UE-Amérique latine qui <DiscourseConnective annotation_id="21431">s'</DiscourseConnective>est tenu <DiscourseConnective annotation_id="21442">à</DiscourseConnective> Vienne, <DiscourseConnective annotation_id="21452">ainsi</DiscourseConnective> que le sommet alternatif "Enlazando alternativas" du mois de mai dernier, nous ont permis de <DiscourseConnective annotation_id="21551">mieux</DiscourseConnective> comprendre les souhaits formulés par les nouvelles voix qui s'élèvent <DiscourseConnective annotation_id="21627">en</DiscourseConnective> Amérique latine <DiscourseConnective annotation_id="21646">et</DiscourseConnective> de définir des relations servant les intérêts des populations des deux régions de manière plus équilibrée <DiscourseConnective annotation_id="21755">et</DiscourseConnective> non pas uniquement de l'industrie <DiscourseConnective annotation_id="21792">et</DiscourseConnective> du commerce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19275" docOffset="90">
+      <en>A few days ago, the Commission published a communication on its trade policy strategy which focussed more strongly on economic liberalisation than had previously been the case.</en>
+      <fr>Il y a quelques jours, la Commission a publié une communication sur sa stratégie en matière de politique commerciale, laquelle accordait plus d'importance <DiscourseConnective annotation_id="21963">à</DiscourseConnective> la libéralisation économique <DiscourseConnective annotation_id="21994">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="21997">auparavant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19452" docOffset="91">
+      <en>In yesterday's debate, Commissioner Mandelson again emphasised that he shares the same fundamental position.</en>
+      <fr>Lors du débat d'hier, le commissaire Mandelson a une fois de plus souligné <DiscourseConnective annotation_id="22084">qu'</DiscourseConnective>il partageait la <DiscourseConnective annotation_id="22104">même</DiscourseConnective> position fondamentale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19561" docOffset="92">
+      <en>I would not like to advocate such a fundamental position.</en>
+      <fr>Je ne souhaiterais pas préconiser une telle position.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19619" docOffset="93">
+      <en>The report contains references which I deem to be extremely important, such as emphasising the principles of 'less than full reciprocity' and 'special and differential treatment depending on the levels of development'.</en>
+      <fr>Le rapport comporte des références <DiscourseConnective annotation_id="22221">que</DiscourseConnective> je juge extrêmement importantes, <DiscourseConnective annotation_id="22258">en ce sens qu'</DiscourseConnective>il met l'accent sur les principes de "réciprocité quasi totale" <DiscourseConnective annotation_id="22336">et</DiscourseConnective> de "traitement spécial <DiscourseConnective annotation_id="22362">et</DiscourseConnective> différencié en fonction des niveaux de développement". e de politique commerciale,par les nouvelles voix qui s'élèvent en Amérique latine e</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19838" docOffset="94">
+      <en>All in all, <Alignment alignment="22505" annotation_id="19850">
+          <DiscourseConnective annotation_id="19850" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, the report puts forward the known liberalisation demands and even goes beyond them by approving, <Alignment alignment="22650" annotation_id="19956">
+          <DiscourseConnective annotation_id="19956" sense="Expansion.Instantiation">for instance</DiscourseConnective>
+        </Alignment>, the area of investment as the subject of a chapter in the EU-Mercosur agreement.</en>
+      <fr>
+        <Alignment alignment="19850" annotation_id="22505">
+          <DiscourseConnective annotation_id="22505" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="22516">tout bien considéré</DiscourseConnective>, le rapport souligne les exigences connues en termes de libéralisation <DiscourseConnective annotation_id="22607">et</DiscourseConnective> va <DiscourseConnective annotation_id="22613">même</DiscourseConnective> encore plus loin <DiscourseConnective annotation_id="22635">en</DiscourseConnective> approuvant, <Alignment alignment="19956" annotation_id="22650">
+          <DiscourseConnective annotation_id="22650" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, la question des investissements en <DiscourseConnective annotation_id="22698">tant qu'</DiscourseConnective>objet d'un chapitre au sein de l'accord UE-Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20051" docOffset="95">
+      <en>As a result of international protests, <Alignment alignment="22759" annotation_id="20090">
+          <DiscourseConnective annotation_id="20090" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, this has been deleted in its entirety from the Doha development round negotiations.</en>
+      <fr>
+        <Alignment alignment="20090" annotation_id="22759">
+          <DiscourseConnective annotation_id="22759" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="22770">en</DiscourseConnective> raison des protestations internationales, cette question a été totalement supprimée des négociations du cycle de Doha pour le développement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20183" docOffset="96">
+      <en>My group supports a fair association agreement but not the route taken to a free trade area between the European Union and Mercosur.</en>
+      <fr>Mon groupe soutient un accord d'association équitable, <DiscourseConnective annotation_id="22969">mais</DiscourseConnective> rejette le mode opératoire visant la mise en place d'une zone de libre-échange entre l'Union européenne <DiscourseConnective annotation_id="23078">et</DiscourseConnective> le Mercosur.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20316" id="257" name="Kader Arif">
+    <ParallelChunk annotation_id="20316" docOffset="97">
+      <en>(FR) Mr President, ladies and gentlemen, Mr Varela's report quite rightly reminds us, <Alignment alignment="23187" annotation_id="20402">
+          <DiscourseConnective annotation_id="20402" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> he is to be congratulated for it, that Europe and Mercosur would be well advised to strengthen their cooperation.</en>
+      <fr>Monsieur le Président, chers collègues, le rapport de M. Varela nous rappelle, à juste titre <Alignment alignment="20402" annotation_id="23187">
+          <DiscourseConnective annotation_id="23187" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il faut l'en féliciter, <DiscourseConnective annotation_id="23214">que</DiscourseConnective> l'Europe <DiscourseConnective annotation_id="23227">et</DiscourseConnective> le Mercosur ont un intérêt <DiscourseConnective annotation_id="23257">à</DiscourseConnective> renforcer leur coopération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20520" docOffset="98">
+      <en>In recent months negotiations with Mercosur have rather come to a standstill, with most of the controversial questions waiting to be sorted out at the WTO.</en>
+      <fr>Ces derniers mois, les négociations avec le Mercosur ont <DiscourseConnective annotation_id="23344">pourtant</DiscourseConnective> souffert <DiscourseConnective annotation_id="23362">d'un coup</DiscourseConnective> d'arrêt, la plupart des questions controversées attendant leur règlement <DiscourseConnective annotation_id="23445">à</DiscourseConnective> l'OMC.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20676" docOffset="99">
+      <en>With the recent suspension of the Doha Round, we must henceforth show an unwavering political will to relaunch these discussions.</en>
+      <fr>Avec la récente suspension du cycle de Doha, il nous faut désormais faire preuve d'une volonté politique sans faille <DiscourseConnective annotation_id="23571">pour</DiscourseConnective> relancer les discussions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20806" docOffset="100">
+      <en>Bilateral negotiations between regions assume a high level of economic and political integration from the two partners.</en>
+      <fr>Des négociations bilatérales entre régions supposent un niveau élevé d'intégration économique <DiscourseConnective annotation_id="23696">et</DiscourseConnective> politique chez les deux partenaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20926" docOffset="101">
+      <en>Mercosur, <Alignment alignment="23736" annotation_id="20936">
+          <DiscourseConnective annotation_id="20936" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, seems weakened by the asymmetry of its members and by their sometimes divergent interests.</en>
+      <fr>
+        <Alignment alignment="20936" annotation_id="23736">
+          <DiscourseConnective annotation_id="23736" sense="Comparison.Contrast">Or</DiscourseConnective>
+        </Alignment>, le Mercosur semble fragilisé par l'asymétrie de ses membres <DiscourseConnective annotation_id="23800">et</DiscourseConnective> par leurs intérêts parfois divergents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21036" docOffset="102">
+      <en>Its institutions, <Alignment alignment="23867" annotation_id="21054">
+          <DiscourseConnective annotation_id="21054" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, need to be consolidated, in particular by setting up a regional parliament and a binding instrument for settling disputes.</en>
+      <fr>Ses institutions doivent <Alignment alignment="21054" annotation_id="23867">
+          <DiscourseConnective annotation_id="23867" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> être consolidées, <DiscourseConnective annotation_id="23890">notamment</DiscourseConnective> par la mise en place d'un parlement régional <DiscourseConnective annotation_id="23945">et</DiscourseConnective> d'un instrument contraignant de règlement des différents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21188" docOffset="103">
+      <en>
+        <Alignment alignment="26193" annotation_id="21188">
+          <DiscourseConnective annotation_id="21188" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, consideration needs to be given in view of Venezuela's membership which will give, without any doubt, a more political nature to the bloc and will alter the economic balance of power.</en>
+      <fr>
+        <Alignment alignment="21188" annotation_id="24006">
+          <DiscourseConnective annotation_id="24006" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, une réflexion doit être menée <DiscourseConnective annotation_id="24046">en vue de</DiscourseConnective> l'adhésion du Venezuela qui donnera, à n'en pas douter, un caractère plus politique <DiscourseConnective annotation_id="24140">à</DiscourseConnective> la zone <DiscourseConnective annotation_id="24150">et</DiscourseConnective> modifiera les rapports de force économiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21385" docOffset="104">
+      <en>
+        <Alignment alignment="24198" annotation_id="21385">
+          <DiscourseConnective annotation_id="21385" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> it is very much in the interest of the European Union to negotiate with a strong partner, it has to support politically and financially the emergence of Mercosur as an integrated regional bloc.</en>
+      <fr>
+        <Alignment alignment="21385" annotation_id="24198">
+          <DiscourseConnective annotation_id="24198" sense="Contingency.Cause.Reason">Parce que</DiscourseConnective>
+        </Alignment> l'Union a tout intérêt <DiscourseConnective annotation_id="24231">à</DiscourseConnective> négocier avec un partenaire fort, elle doit soutenir politiquement <DiscourseConnective annotation_id="24300">et</DiscourseConnective> financièrement l'émergence du Mercosur <DiscourseConnective annotation_id="24342">comme</DiscourseConnective> bloc régional intégré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21585" docOffset="105">
+      <en>This area has the authority to reinforce alongside us the multilateral structure and the economic and social model that we hope and pray for.</en>
+      <fr>Cet espace a vocation <DiscourseConnective annotation_id="24393">à</DiscourseConnective> renforcer à nos côtés l'édifice multilatéral <DiscourseConnective annotation_id="24440">et</DiscourseConnective> le modèle économique <DiscourseConnective annotation_id="24464">et</DiscourseConnective> social <DiscourseConnective annotation_id="24474">que</DiscourseConnective> nous appelons de nos vœux.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21727" id="258" name="Antolín Sánchez Presedo">
+    <ParallelChunk annotation_id="21727" docOffset="106">
+      <en>(ES) Commissioner, ladies and gentlemen, I would like to begin by congratulating my fellow countryman, Mr Varela Suanzes-Carpegna, on his report and on his open and positive approach, which I hope will lead to a significant consensus in this House.</en>
+      <fr>(ES) Madame la Commissaire, Mesdames <DiscourseConnective annotation_id="24542">et</DiscourseConnective> Messieurs, je souhaiterais commencer par féliciter mon concitoyen, M. Varela Suanzes-Carpegna, <DiscourseConnective annotation_id="24640">pour</DiscourseConnective> son rapport <DiscourseConnective annotation_id="24657">et</DiscourseConnective> son approche ouverte <DiscourseConnective annotation_id="24681">et</DiscourseConnective> positive qui, je l'espère, conduiront <DiscourseConnective annotation_id="24722">à</DiscourseConnective> un large consensus <DiscourseConnective annotation_id="24743">en</DiscourseConnective> cette Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21976" docOffset="107">
+      <en>Mercosur has more than 230 million inhabitants, it is one of the five largest economic areas in the world <Alignment alignment="5644" annotation_id="22082">
+          <DiscourseConnective annotation_id="22082" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is the largest in terms of food production.</en>
+      <fr>Le Mercosur compte plus de 230 millions d'habitants, est l'une des cinq plus grandes zones économiques du monde <Alignment alignment="22082" annotation_id="24875">
+          <DiscourseConnective annotation_id="24875" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> occupe la première place <DiscourseConnective annotation_id="24903">en</DiscourseConnective> termes de production alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22133" docOffset="108">
+      <en>Relations between the European Union and Mercosur have deep historical roots and shared cultural foundations.</en>
+      <fr>Les relations entre l'Union européenne <DiscourseConnective annotation_id="24979">et</DiscourseConnective> le Mercosur sont fortement enracinées dans l'histoire <DiscourseConnective annotation_id="25036">et</DiscourseConnective> reposent sur des bases culturelles communes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22243" docOffset="109">
+      <en>The association agreement is <Alignment alignment="25084" annotation_id="22272">
+          <DiscourseConnective annotation_id="22272" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> the best formula for extending our links and stimulating exchanges between us.</en>
+      <fr>
+        <Alignment alignment="22272" annotation_id="25084">
+          <DiscourseConnective annotation_id="25084" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, l'accord d'association représente la meilleure formule qui soit <DiscourseConnective annotation_id="25164">en vue de</DiscourseConnective> consolider nos liens <DiscourseConnective annotation_id="25195">et</DiscourseConnective> d'encourager les échanges entre nos deux régions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22361" docOffset="110">
+      <en>I am pleased that our amendments have been incorporated into the report, stressing the democratic component of our relations, based on shared values, the parliamentary dimension and the active participation of civil society, aspects in connection with which I still believe we should be making additional efforts, <Alignment alignment="25601" annotation_id="22675">
+          <DiscourseConnective annotation_id="22675" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr Moreno Sánchez has pointed out.</en>
+      <fr>Je suis ravi <DiscourseConnective annotation_id="25261">que</DiscourseConnective> nos amendements aient été intégrés au rapport, mettant l'accent sur la composante démocratique de nos relations, fondées sur des valeurs communes, la dimension parlementaire <DiscourseConnective annotation_id="25439">et</DiscourseConnective> la participation active de la société civile, autant d'aspects au sujet desquels je continue de penser que nous devrions déployer des efforts supplémentaires, <Alignment alignment="22675" annotation_id="25601">
+          <DiscourseConnective annotation_id="25601" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> M. Moreno Sánchez l'a souligné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22713" docOffset="111">
+      <en>I am <Alignment alignment="27618" annotation_id="22718">
+          <DiscourseConnective annotation_id="22718" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> pleased with the inclusion of our proposals on extending fisheries and tourism relations, creating appropriate regulatory frameworks, intensifying exchanges and increasing investments - with accounting and auditing standards duly harmonised - and dealing with the obstacles to rationalisation in the public sector.</en>
+      <fr>Je suis <Alignment alignment="22718" annotation_id="25647">
+          <DiscourseConnective annotation_id="25647" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> ravi de l'incorporation de nos propositions concernant le renforcement de nos relations en matière de pêche <DiscourseConnective annotation_id="25765">et</DiscourseConnective> de tourisme, la création de cadres réglementaires adéquats, l'intensification des échanges <DiscourseConnective annotation_id="25859">et</DiscourseConnective> la hausse des investissements - sur la base de normes de comptabilité <DiscourseConnective annotation_id="25932">et</DiscourseConnective> d'audit dûment harmonisées - <DiscourseConnective annotation_id="25964">et</DiscourseConnective> les efforts visant à surmonter les obstacles <DiscourseConnective annotation_id="26012">à</DiscourseConnective> la rationalisation dans le secteur public.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23038" docOffset="112">
+      <en>Finally, I would call upon the Commission to treat this Agreement as an objective of the highest political priority.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26057">Enfin</DiscourseConnective>, je demande <DiscourseConnective annotation_id="26075">à</DiscourseConnective> la Commission de considérer cet accord <DiscourseConnective annotation_id="26116">comme</DiscourseConnective> un objectif constituant une priorité politique majeure.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23155" id="259" name="Neelie Kroes">
+    <ParallelChunk annotation_id="23155" docOffset="113">
+      <en>Mr President, I should like to thank the House for its comments.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, je souhaiterais remercier les députés de cette Assemblée de leurs observations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23220" docOffset="114">
+      <en>I have taken careful note of them <Alignment alignment="26337" annotation_id="23254">
+          <DiscourseConnective annotation_id="23254" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I will convey them to my colleague, Commissioner Mandelson, for his consideration.</en>
+      <fr>J'en ai pris bonne note <Alignment alignment="23254" annotation_id="26337">
+          <DiscourseConnective annotation_id="26337" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je les transmettrai <DiscourseConnective annotation_id="26360">à</DiscourseConnective> mon collègue, M. le commissaire Mandelson, <DiscourseConnective annotation_id="26405">afin qu'</DiscourseConnective>il les examine de près.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23341" docOffset="115">
+      <en>For strategic and political reasons, the European Commission is totally committed to negotiating and concluding an ambitious and balanced agreement with Mercosur.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26437">Pour</DiscourseConnective> des raisons stratégiques <DiscourseConnective annotation_id="26467">et</DiscourseConnective> politiques, la Commission européenne <DiscourseConnective annotation_id="26507">s'</DiscourseConnective>engage pleinement <DiscourseConnective annotation_id="26527">à</DiscourseConnective> négocier <DiscourseConnective annotation_id="26538">et</DiscourseConnective> conclure un accord ambitieux <DiscourseConnective annotation_id="26570">et</DiscourseConnective> équilibré avec le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23504" docOffset="116">
+      <en>
+        <Alignment alignment="26601" annotation_id="23504">
+          <DiscourseConnective annotation_id="23504" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, such an agreement remains a priority.</en>
+      <fr>
+        <Alignment alignment="23504" annotation_id="26601">
+          <DiscourseConnective annotation_id="26601" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, un tel accord demeure une priorité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23553" docOffset="117">
+      <en>Engaging in negotiations with other partners does not mean, by the way, that we are giving less priority to an agreement with Mercosur.</en>
+      <fr>Les négociations menées avec d'autres partenaires ne signifient pas, <DiscourseConnective annotation_id="26722">ceci dit</DiscourseConnective>, <DiscourseConnective annotation_id="26732">que</DiscourseConnective> nous accordons une priorité moindre <DiscourseConnective annotation_id="26772">à</DiscourseConnective> un accord avec le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23689" docOffset="118">
+      <en>The Treaty on Venezuela's accession has been signed by the Mercosur members.</en>
+      <fr>Le traité sur l'adhésion du Venezuela a été signé par les membres du Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23766" docOffset="119">
+      <en>
+        <Alignment alignment="26881" annotation_id="23766">
+          <DiscourseConnective annotation_id="23766" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, in order for Venezuela to be a full member, that Treaty has to be ratified by the parliaments.</en>
+      <fr>
+        <Alignment alignment="23766" annotation_id="26881">
+          <DiscourseConnective annotation_id="26881" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="26892">afin que</DiscourseConnective> le Venezuela <DiscourseConnective annotation_id="26914">soit</DiscourseConnective> un membre à part entière, ce traité doit être ratifié par les parlements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23870" docOffset="120">
+      <en>We, the Commission, do not foresee any major obstacles to the negotiation process as a result of the accession of Venezuela.</en>
+      <fr>Au sein de la Commission, nous ne prévoyons aucun obstacle majeur au processus de négociation, dû <DiscourseConnective annotation_id="27091">à</DiscourseConnective> l'adhésion du Venezuela.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23995" docOffset="121">
+      <en>A lot has been said here about development.</en>
+      <fr>Il a beaucoup été question de développement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24039" docOffset="122">
+      <en>The EU is by far the biggest donor.</en>
+      <fr>L'UE est de loin le principal donateur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24075" docOffset="123">
+      <en>We plan to pay out about EUR 50 million for the period between 2007 and 2013.</en>
+      <fr>Nous prévoyons de débloquer environ 50 millions d'euros <DiscourseConnective annotation_id="27259">pour</DiscourseConnective> la période comprise entre 2007 <DiscourseConnective annotation_id="27295">et</DiscourseConnective> 2013.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24153" docOffset="124">
+      <en>I believe that, for economic, cultural and political reasons, both the European Parliament and the Commission share the same view in respect of concluding an ambitious and balanced association agreement between the EU and Mercosur.</en>
+      <fr>Je suis convaincue <DiscourseConnective annotation_id="27323">que</DiscourseConnective>, <DiscourseConnective annotation_id="27328">pour</DiscourseConnective> des raisons d'ordre économique, culturel <DiscourseConnective annotation_id="27374">et</DiscourseConnective> politique, tant le Parlement européen <DiscourseConnective annotation_id="27415">que</DiscourseConnective> la Commission partagent la <DiscourseConnective annotation_id="27446">même</DiscourseConnective> opinion concernant la conclusion d'un accord d'association ambitieux <DiscourseConnective annotation_id="27520">et</DiscourseConnective> équilibré entre l'UE <DiscourseConnective annotation_id="27544">et</DiscourseConnective> le Mercosur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24385" docOffset="125">
+      <en>It is a strategic objective.</en>
+      <fr>Il <DiscourseConnective annotation_id="27563">s'</DiscourseConnective>agit là d'un objectif stratégique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="24414" id="260" name="President">
+    <ParallelChunk annotation_id="24414" docOffset="126">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24436" docOffset="127">
+      <en>The vote will take place tomorrow at 11 a.m.</en>
+      <fr>Le vote aura lieu demain <DiscourseConnective annotation_id="27644">à</DiscourseConnective> 11 heures.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

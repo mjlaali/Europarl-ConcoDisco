@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>7.</en>
+    <fr>7.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Climate change (vote)</en>
+    <fr>Changement climatique (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="25" docOffset="2">
+    <en>- Before the vote on Amendment 21</en>
+    <fr>- <DiscourseConnective annotation_id="34">Avant</DiscourseConnective> le vote sur l'amendement 21</fr>
+  </ParallelChunk>
+<Speaker annotation_id="59" id="132" name="Dorette Corbey">
+    <ParallelChunk annotation_id="59" docOffset="3">
+      <en>(NL) Mr President, according to our voting lists, Amendment 9 will lapse <Alignment alignment="262823" annotation_id="132">
+          <DiscourseConnective annotation_id="132" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Amendment 21, tabled by the Group of the European People's Party (Christian Democrats), is adopted.</en>
+      <fr>(NL) Monsieur le Président, d'après notre liste de vote, l'amendement 9 deviendra caduc <Alignment alignment="132" annotation_id="156">
+          <DiscourseConnective annotation_id="156" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'amendement 21, proposé par le parti populaire européen (démocrates-chrétiens), est adopté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="235" docOffset="4">
+      <en>I should like to ask that Amendment 9 be voted on in addition to Amendment 21, which stipulates 20% as a basis for sustainable energy and in our amendment, that of the Socialist Group in the European Parliament, we advocate 25% by way of gradual increase.</en>
+      <fr>Je voudrais demander que cet amendement 9 <DiscourseConnective annotation_id="294">soit</DiscourseConnective> voté <DiscourseConnective annotation_id="304">en</DiscourseConnective> complément de l'amendement 21, qui fixe à 20% la part des énergies renouvelables. En effet, dans notre amendement, celui du groupe socialiste au Parlement européen, nous prônons de porter cette part à 25% par une augmentation progressive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="491" docOffset="5">
+      <en>This could <Alignment alignment="560" annotation_id="502">
+          <DiscourseConnective annotation_id="502" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be seen as an addition.</en>
+      <fr>Cela pourrait <Alignment alignment="502" annotation_id="560">
+          <DiscourseConnective annotation_id="560" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> être vu <DiscourseConnective annotation_id="573">comme</DiscourseConnective> un ajout.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="536" docOffset="6">
+      <en>
+        <Alignment alignment="272515" annotation_id="536">
+          <DiscourseConnective annotation_id="536" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> it is voted on <DiscourseConnective annotation_id="554" sense="Expansion.Conjunction">additionally</DiscourseConnective>, I should like to ask our group to vote in favour of Amendment 21.</en>
+      <fr>
+        <Alignment alignment="536" annotation_id="589">
+          <DiscourseConnective annotation_id="589" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> notre amendement est voté en complément, je demanderai <DiscourseConnective annotation_id="647">à</DiscourseConnective> notre groupe de voter <DiscourseConnective annotation_id="671">en</DiscourseConnective> faveur de l'amendement 21.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="634" id="133" name="President">
+    <ParallelChunk annotation_id="634" docOffset="7">
+      <en>
+        <DiscourseConnective annotation_id="634" sense="Temporal.Synchrony">As</DiscourseConnective> there does not appear to be any opposition on your part to Mrs Corbey's proposal, we are <Alignment alignment="786" annotation_id="726">
+          <DiscourseConnective annotation_id="726" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> going to vote on these two amendments.</en>
+      <fr>Ne voyant pas d'opposition de votre part <DiscourseConnective annotation_id="742">à</DiscourseConnective> la proposition de Mme Corbey, nous allons <Alignment alignment="726" annotation_id="786">
+          <DiscourseConnective annotation_id="786" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> mettre aux voix ces deux amendements.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

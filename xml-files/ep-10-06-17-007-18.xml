@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>18.</en>
+    <fr>18.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Judicial training (vote)</en>
+    <fr>Formation des magistrats (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="29" docOffset="2">
+    <en>- After the vote</en>
+    <fr>- Μετά από την ψηφοφορία</fr>
+  </ParallelChunk>
+<Speaker annotation_id="46" id="135" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="46" docOffset="3">
+      <en>(FR) Mr President, 15 seconds.</en>
+      <fr>Monsieur le Président, quinze secondes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="77" docOffset="4">
+      <en>In judicial training, the rights of parliamentarians must <Alignment alignment="174662" annotation_id="135">
+          <DiscourseConnective annotation_id="135" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be taken into account.</en>
+      <fr>Dans la formation des magistrats, il faut <Alignment alignment="135" annotation_id="143">
+          <DiscourseConnective annotation_id="143" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> prévoir les droits des parlementaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="163" docOffset="5">
+      <en>I have just been the subject of an arbitrary arrest attempt carried out with complete disregard for my right to parliamentary immunity, which I <Alignment alignment="335" annotation_id="307">
+          <DiscourseConnective annotation_id="307" sense="Comparison.Concession">nonetheless</DiscourseConnective>
+        </Alignment> cited in my defence to the Lyon magistrates.</en>
+      <fr>Je viens de faire l'objet d'une tentative arbitraire d'arrestation au mépris le plus élémentaire de mon droit <DiscourseConnective annotation_id="298">à</DiscourseConnective> l'immunité parlementaire, <DiscourseConnective annotation_id="326">que</DiscourseConnective> j'ai <Alignment alignment="481" annotation_id="335">
+          <DiscourseConnective annotation_id="335" sense="Comparison.Concession">pourtant</DiscourseConnective>
+        </Alignment> opposé aux magistrats lyonnais.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="364" docOffset="6">
+      <en>Would you please kindly take note of this and ask the President of Parliament to demand that the French authorities provide the explanation that this incident requires?</en>
+      <fr>Je vous remercie de bien vouloir en prendre note <DiscourseConnective annotation_id="425">et</DiscourseConnective> de demander au Président du Parlement d'exiger des autorités françaises les explications <DiscourseConnective annotation_id="517">que</DiscourseConnective> cela requiert.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

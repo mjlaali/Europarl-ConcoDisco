@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="007" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, I would like to inform you that we have a visit by a Delegation from the Japanese Parliament this afternoon <DiscourseConnective annotation_id="138" sense="Expansion.Conjunction">and</DiscourseConnective> that that Delegation is in the official gallery, headed by Mr Tsushima Tuji, a great friend of Europe.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, permettez-moi de vous annoncer <DiscourseConnective annotation_id="76">que</DiscourseConnective> nous avons la visite d'une délégation de la Diète du Japon cet après-midi. La délégation, conduite par M. Tsushima Tuji, un grand ami de l'Europe, a pris place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="245" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="256" docOffset="3">
+      <en>The Delegation of our Japanese colleagues is taking part in the 27th interparliamentary meeting between the European Parliament and Japan.</en>
+      <fr>La délégation de nos collègues japonais prend part <DiscourseConnective annotation_id="338">à</DiscourseConnective> la 27e réunion interparlementaire Parlement européen-Japon.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="395" docOffset="4">
+      <en>We have a long tradition of dialogue between the European Parliament and the Japanese Parliament.</en>
+      <fr>Il existe une longue tradition de dialogue entre le Parlement européen <DiscourseConnective annotation_id="471">et</DiscourseConnective> le Japon.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="493" docOffset="5">
+      <en>Initially it dealt with strictly commercial issues, <Alignment alignment="562" annotation_id="545">
+          <DiscourseConnective annotation_id="545" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> now it has branched out into many issues of concern to our respective people.</en>
+      <fr>Initialement, ce dialogue portait sur des questions strictement commerciales, <Alignment alignment="545" annotation_id="562">
+          <DiscourseConnective annotation_id="562" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> avec le temps, il s'est élargi à de nombreuses autres questions présentant un intérêt <DiscourseConnective annotation_id="653">pour</DiscourseConnective> nos peuples respectifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="627" docOffset="6">
+      <en>We are delighted that our dialogue with Japan is being enhanced, within a context in which it is increasingly necessary for us to work together towards international security and stability.</en>
+      <fr>Nous sommes ravis <DiscourseConnective annotation_id="700">que</DiscourseConnective> notre dialogue avec le Japon prenne de l'ampleur, <DiscourseConnective annotation_id="754">à</DiscourseConnective> une époque où il est de plus <DiscourseConnective annotation_id="785">en plus</DiscourseConnective> nécessaire de travailler ensemble <DiscourseConnective annotation_id="827">pour</DiscourseConnective> assurer la paix <DiscourseConnective annotation_id="848">et</DiscourseConnective> à sa sécurité internationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="817" docOffset="7">
+      <en>We welcome you, ladies and gentlemen.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="891">et</DiscourseConnective> Messieurs, soyez les bienvenus.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

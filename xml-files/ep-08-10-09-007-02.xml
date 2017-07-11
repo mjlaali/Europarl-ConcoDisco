@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Protocol to the EC-Switzerland Agreement on the free movement of persons (participation of Bulgaria and Romania) (</en>
+    <fr>Protocole <DiscourseConnective annotation_id="13">à</DiscourseConnective> l'accord CE/Suisse sur la libre circulation des personnes (participation de la Bulgarie <DiscourseConnective annotation_id="103">et</DiscourseConnective> de la Roumanie) (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="118" id="085" name="Bernd Posselt">
+    <ParallelChunk annotation_id="118" docOffset="2">
+      <en>(DE) Mr President, could you please send for a technician?</en>
+      <fr>(DE) Monsieur le Président, pourriez-vous s'il vous plaît faire venir un technicien?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="177" docOffset="3">
+      <en>This voting machine is broken.</en>
+      <fr>Cette machine de vote est cassée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="208" docOffset="4">
+      <en>It is completely destroyed.</en>
+      <fr>Elle est complètement détruite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="236" docOffset="5">
+      <en>I did indeed vote before, <Alignment alignment="554" annotation_id="262">
+          <DiscourseConnective annotation_id="262" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would ask you to take note of that.</en>
+      <fr>J'ai <DiscourseConnective annotation_id="280">déjà</DiscourseConnective> voté, <Alignment alignment="325" annotation_id="291">
+          <DiscourseConnective annotation_id="291" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je vous demande d'en prendre note.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>7.</en>
+    <fr>7.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Social economy (</en>
+    <fr>Économie sociale (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="20" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="24">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="39" id="063" name="Patrizia Toia">
+    <ParallelChunk annotation_id="39" docOffset="3">
+      <en>rapporteur. - (IT) Madam President, I propose that in paragraph 12 the words 'the components of the' be added before the words 'social economy', <Alignment alignment="203" annotation_id="184">
+          <DiscourseConnective annotation_id="184" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the words 'as a third sector' be deleted, <Alignment alignment="261" annotation_id="230">
+          <DiscourseConnective annotation_id="230" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> written in the list here.</en>
+      <fr>rapporteure. - (IT) Madame la Présidente, je propose <DiscourseConnective annotation_id="92">que</DiscourseConnective> dans le paragraphe 12, les termes "les composantes de" soient ajoutés <DiscourseConnective annotation_id="166">avant</DiscourseConnective> les termes "économie sociale", <Alignment alignment="184" annotation_id="203">
+          <DiscourseConnective annotation_id="203" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que les termes "<DiscourseConnective annotation_id="222">comme</DiscourseConnective> tiers secteur" soient supprimés, <Alignment alignment="230" annotation_id="261">
+          <DiscourseConnective annotation_id="261" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> écrit dans la présente liste.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Drugs prevention and information (vote)</en>
+    <fr>Prévenir la consommation de drogues <DiscourseConnective annotation_id="39">et</DiscourseConnective> informer le public (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="43" docOffset="2">
+    <en>Segelström report</en>
+    <fr>Rapport Segelström</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="61" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="89">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="80" id="059" name="Viviane Reding">
+    <ParallelChunk annotation_id="80" docOffset="4">
+      <en>Member of the Commission. - (FR) Mr President, I would like to made a statement on behalf of the Commission before the vote.</en>
+      <fr>membre de la Commission. - (FR) Monsieur le Président, je voudrais faire une déclaration de la Commission <DiscourseConnective annotation_id="210">avant</DiscourseConnective> le vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="205" docOffset="5">
+      <en>
+        <Alignment alignment="225" annotation_id="205">
+          <DiscourseConnective annotation_id="205" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> regards the measures for implementing the Parliament and Council Decision establishing for the period 2007-2013 the specific programme 'Drug prevention and information', the Commission agrees as an exceptional measure to transmit as swiftly as possible to the chairman of the competent committee the draft annual work programmes relating to this specific programme, in addition to sending them via the comitology register.</en>
+      <fr>
+        <Alignment alignment="205" annotation_id="225">
+          <DiscourseConnective annotation_id="225" sense="Temporal.Synchrony">En</DiscourseConnective>
+        </Alignment> ce qui concerne les mesures d'exécution de la décision du Parlement <DiscourseConnective annotation_id="296">et</DiscourseConnective> du Conseil établissant, <DiscourseConnective annotation_id="323">pour</DiscourseConnective> 2007-2013, le programme spécifique "Prévenir la consommation de drogues <DiscourseConnective annotation_id="400">et</DiscourseConnective> informer le public", la Commission s'engage, à titre exceptionnel, <DiscourseConnective annotation_id="470">à</DiscourseConnective> transmettre le plus rapidement possible, au président de la commission parlementaire compétente, les projets de programme de travail annuel relatifs <DiscourseConnective annotation_id="621">à</DiscourseConnective> ce programme spécifique susmentionné <DiscourseConnective annotation_id="660">ainsi</DiscourseConnective> que ses projets via le registre "comitologie".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="631" docOffset="6">
+      <en>The Commission will inform Parliament as soon as possible of any amendments made to the texts following the committee meetings.</en>
+      <fr>La Commission informera le Parlement le plus rapidement possible de toute modification ayant été apportée aux textes suite aux réunions des comités.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="759" id="060" name="President">
+    <ParallelChunk annotation_id="759" docOffset="7">
+      <en>Thank you, Commissioner Reding.</en>
+      <fr>(DE) Merci, Commissaire Reding.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="791" docOffset="8">
+      <en>
+        <DiscourseConnective annotation_id="791" sense="Temporal.Synchrony">As</DiscourseConnective> no motion to reject the common position has been tabled <Alignment alignment="967" annotation_id="850">
+          <DiscourseConnective annotation_id="850" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are no amendments, I declare the common position approved.</en>
+      <fr>Aucune motion n'ayant été déposée en vue du rejet de la position commune <Alignment alignment="87" annotation_id="967">
+          <DiscourseConnective annotation_id="967" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> en l'absence d'amendements, je déclare la position commune approuvée.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

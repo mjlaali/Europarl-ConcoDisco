@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="068" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the vote.</en>
+      <fr>(EN) L'ordre du jour appelle les votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+      <en>(For the results and other details on the vote: see minutes.)</en>
+      <fr>(<DiscourseConnective annotation_id="57">Pour</DiscourseConnective> les résultats <DiscourseConnective annotation_id="76">et</DiscourseConnective> les autres informations sur les votes: voir procès-verbal.)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="101" id="069" name="Véronique De Keyser">
+    <ParallelChunk annotation_id="101" docOffset="3">
+      <en>(FR) Madam President, I wanted to bring it to your attention that my card is not working, <Alignment alignment="228" annotation_id="191">
+          <DiscourseConnective annotation_id="191" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I have just put in a card I thought I had lost in the office <Alignment alignment="282312" annotation_id="260">
+          <DiscourseConnective annotation_id="260" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it shows <DiscourseConnective annotation_id="273" sense="Temporal.Synchrony">as</DiscourseConnective> not valid.</en>
+      <fr>(FR) Madame la Présidente, vous voulez bien prendre note <DiscourseConnective annotation_id="196">que</DiscourseConnective> ma carte ne fonctionne pas, <Alignment alignment="191" annotation_id="228">
+          <DiscourseConnective annotation_id="228" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> je viens de rendre une carte que je croyais avoir perdue au bureau <Alignment alignment="260" annotation_id="305">
+          <DiscourseConnective annotation_id="305" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que celle-ci est déclarée non valide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="287" docOffset="4">
+      <en>
+        <Alignment alignment="74" annotation_id="287">
+          <DiscourseConnective annotation_id="287" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> I am here, I want to vote, I have my card, <Alignment alignment="404" annotation_id="333">
+          <DiscourseConnective annotation_id="333" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is not working any more.</en>
+      <fr>
+        <Alignment alignment="287" annotation_id="346">
+          <DiscourseConnective annotation_id="346" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, je suis ici, je voudrais bien voter, j'ai ma carte, <Alignment alignment="333" annotation_id="404">
+          <DiscourseConnective annotation_id="404" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> elle ne fonctionne plus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="365" docOffset="5">
+      <en>I do not know what I should do, <Alignment alignment="59" annotation_id="397">
+          <DiscourseConnective annotation_id="397" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I should like that to be recorded in the minutes.</en>
+      <fr>Voilà. Alors, je ne sais pas ce que je dois faire, <Alignment alignment="397" annotation_id="485">
+          <DiscourseConnective annotation_id="485" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je voudrais <DiscourseConnective annotation_id="502">que</DiscourseConnective> ce <DiscourseConnective annotation_id="509">soit</DiscourseConnective> noté dans le procès-verbal.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="451" id="070" name="President">
+    <ParallelChunk annotation_id="451" docOffset="6">
+      <en>We will send a technician <Alignment alignment="586" annotation_id="477">
+          <Alignment alignment="974" annotation_id="477">
+            <DiscourseConnective annotation_id="477" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> you will be able to participate in the vote.</en>
+      <fr>(EN) Nous allons vous envoyer un technicien <Alignment alignment="477" annotation_id="586">
+          <Alignment alignment="477" annotation_id="586">
+            <DiscourseConnective annotation_id="586" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> vous puissiez participer au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="530" docOffset="7">
+      <en>I should just like to point out <Alignment alignment="661" annotation_id="562">
+          <DiscourseConnective annotation_id="562" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we start the vote that I shall not be reading out the numerical results of the roll-call votes: I shall just tell you whether they are adopted or rejected.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="641">simplement</DiscourseConnective> signaler <Alignment alignment="122" annotation_id="661">
+          <DiscourseConnective annotation_id="661" sense="Temporal.Asynchronous.Precedence">avant que</DiscourseConnective>
+        </Alignment> nous ne procédions au vote <DiscourseConnective annotation_id="698">que</DiscourseConnective> je ne donnerai pas lecture des résultats chiffrés des votes par appel nominal: je vous dirai <DiscourseConnective annotation_id="795">simplement</DiscourseConnective> <DiscourseConnective annotation_id="806">s'</DiscourseConnective>ils sont adoptés <DiscourseConnective annotation_id="825">ou</DiscourseConnective> rejetés.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Zimbabwe (vote)</en>
+    <fr>Zimbabwe (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="19" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="21">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="38" id="242" name="Manuel Medina Ortega">
+    <ParallelChunk annotation_id="38" docOffset="3">
+      <en>(ES) Mr President, <Alignment alignment="570" annotation_id="57">
+          <DiscourseConnective annotation_id="57" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> regards the vote on Zimbabwe, I am here for the vote but will not participate.</en>
+      <fr>(ES) Monsieur le Président, <Alignment alignment="0" annotation_id="64">
+          <DiscourseConnective annotation_id="64" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> ce qui concerne le vote sur le Zimbabwe, je suis présent <DiscourseConnective annotation_id="124">mais</DiscourseConnective> ne voterai pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="139" docOffset="4">
+      <en>I would like it to go on record that my reason for not taking part is <Alignment alignment="239" annotation_id="209">
+          <DiscourseConnective annotation_id="209" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, in the event, I have decided not to do so.</en>
+      <fr>J'aimerais acter au procès-verbal <DiscourseConnective annotation_id="179">que</DiscourseConnective> la raison <DiscourseConnective annotation_id="193">pour</DiscourseConnective> laquelle je ne participe pas au vote est <Alignment alignment="3" annotation_id="239">
+          <DiscourseConnective annotation_id="239" sense="Contingency.Cause.Reason">que</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="244">en fait</DiscourseConnective>, j'ai décidé de ne pas le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="261" docOffset="5">
+      <en>
+        <Alignment alignment="296" annotation_id="261">
+          <DiscourseConnective annotation_id="261" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment> I would like the record to show that I was here at the plenary.</en>
+      <fr>J'aimerais <Alignment alignment="261" annotation_id="296">
+          <DiscourseConnective annotation_id="296" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> qu'il ressorte du procès-verbal <DiscourseConnective annotation_id="338">que</DiscourseConnective> j'étais présent <DiscourseConnective annotation_id="358">à</DiscourseConnective> la plénière.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="333" id="243" name="President">
+    <ParallelChunk annotation_id="333" docOffset="6">
+      <en>Your presence has been noted.</en>
+      <fr>(FR) Votre présence est absolument notée.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

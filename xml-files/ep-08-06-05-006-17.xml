@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>17.</en>
+    <fr>17.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>The Barcelona Process: Union for the Mediterranean (vote)</en>
+    <fr>Processus de Barcelone: Union <DiscourseConnective annotation_id="34">pour</DiscourseConnective> la Méditerranée (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="62" docOffset="2">
+    <en>- Before the vote on paragraph 8:</en>
+    <fr>- <DiscourseConnective annotation_id="64">Avant</DiscourseConnective> le vote sur le paragraphe 8:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="96" id="117" name="Michael Gahler">
+    <ParallelChunk annotation_id="96" docOffset="3">
+      <en>(DE) Mr President, there is another amendment before that, namely Amendment 1.</en>
+      <fr>(DE) Monsieur le Président, il y a un autre amendement <DiscourseConnective annotation_id="154">avant</DiscourseConnective> cela, à savoir l'amendement 1.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="175" docOffset="4">
+      <en>The oral amendment is an addition.</en>
+      <fr>L'amendement oral est un ajout.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="210" docOffset="5">
+      <en>
+        <Alignment alignment="223" annotation_id="210">
+          <DiscourseConnective annotation_id="210" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> I may continue in English, the amendment states:</en>
+      <fr>
+        <Alignment alignment="210" annotation_id="223">
+          <DiscourseConnective annotation_id="223" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous me permettez de poursuivre <DiscourseConnective annotation_id="258">en</DiscourseConnective> anglais, l'amendement stipule ce qui suit:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="262" docOffset="6">
+      <en>'welcomes the Commission proposal that the EU Co-Presidency should be held by the competent EU institutions', <DiscourseConnective annotation_id="372" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="306460" annotation_id="376">
+          <DiscourseConnective annotation_id="376" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> the original text continues.</en>
+      <fr>(EN) "accueille favorablement la proposition de la Commission selon laquelle la coprésidence représentant l'Union serait assurée par les institutions compétentes de celle-ci"; le texte original se poursuit <Alignment alignment="376" annotation_id="510">
+          <DiscourseConnective annotation_id="510" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="410" docOffset="7">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est accepté)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="444" docOffset="8">
+      <en>- Before the vote on Amendment 2:</en>
+      <fr>- <DiscourseConnective annotation_id="553">Avant</DiscourseConnective> le vote sur l'amendement 2:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="478" id="120" name="Hélène Flautre">
+    <ParallelChunk annotation_id="478" docOffset="9">
+      <en>(FR) Mr President, pursuant to Rule 150(5), on behalf of the Green Group I would like to request a roll-call vote for Amendment 2.</en>
+      <fr>Monsieur le Président, en application de l'article 150, paragraphe 5, je souhaite, au nom du groupe des Verts, reprendre l'amendement 2 par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="609" docOffset="10">
+      <en>- Before the vote on paragraph 10:</en>
+      <fr>- <DiscourseConnective annotation_id="744">Avant</DiscourseConnective> le vote sur le paragraphe 10:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="644" id="122" name="Michael Gahler">
+    <ParallelChunk annotation_id="644" docOffset="11">
+      <en>The new text of paragraph 10 should read <Alignment alignment="837" annotation_id="685">
+          <DiscourseConnective annotation_id="685" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> follows: 'Considers that the new proposed secretariat should be integrated in the Commission services, could comprise officials seconded from ...'.</en>
+      <fr>(EN) Le nouveau texte du paragraphe 10 doit être formulé <Alignment alignment="18" annotation_id="837">
+          <DiscourseConnective annotation_id="837" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> suit: "Estime <DiscourseConnective annotation_id="857">que</DiscourseConnective> le nouveau secrétariat proposé devrait être intégré dans les services de la Commission et pourrait comprendre des fonctionnaires détachés par...".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="836" docOffset="12">
+      <en>
+        <Alignment alignment="1264" annotation_id="836">
+          <DiscourseConnective annotation_id="836" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>
+        </Alignment> the original text continues.</en>
+      <fr>Le texte original se poursuit <Alignment alignment="836" annotation_id="1038">
+          <DiscourseConnective annotation_id="1038" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="870" docOffset="13">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est accepté)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

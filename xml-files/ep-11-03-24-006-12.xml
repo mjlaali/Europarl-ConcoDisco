@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>12.</en>
+    <fr>12.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Single application procedure for residence and work (</en>
+    <fr>Procédure de demande unique de permis de résidence <DiscourseConnective annotation_id="55">et</DiscourseConnective> de travail (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="58" id="110" name="Pervenche Berès">
+    <ParallelChunk annotation_id="58" docOffset="2">
+      <en>(FR) Mr President, <DiscourseConnective annotation_id="77" sense="Expansion.Alternative">unless</DiscourseConnective> I have misunderstood, I believe that you should have put the original text of Article 12(2)(e) to the vote, <Alignment alignment="391" annotation_id="192">
+          <DiscourseConnective annotation_id="192" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we have not voted on this item.</en>
+      <fr>Monsieur le Président, j'espère ne pas me tromper, mais j'ai l'impression <DiscourseConnective annotation_id="145">que</DiscourseConnective> sur l'article 12, paragraphe 2, point e, vous auriez dû mettre aux voix le texte original, ce <Alignment alignment="60" annotation_id="243">
+          <DiscourseConnective annotation_id="243" sense="Comparison.Contrast">que</DiscourseConnective>
+        </Alignment> nous n'avons pas fait.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

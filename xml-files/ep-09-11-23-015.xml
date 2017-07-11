@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Agenda</en>
+    <fr>Ordre du jour</fr>
+  </ParallelChunk>
+<Speaker annotation_id="7" id="041" name="President">
+    <ParallelChunk annotation_id="7" docOffset="1">
+      <en>Mr David Martin's flight has been delayed. I would <DiscourseConnective annotation_id="58" sense="Contingency.Cause.Result">therefore</DiscourseConnective> ask the House to agree that his report on changes to the Rules of Procedure, which is very important for us, should be taken as the last item this evening.</en>
+      <fr>Le vol de M. David Martin étant en retard, je demande au Parlement d'accepter <DiscourseConnective annotation_id="92">que</DiscourseConnective> son rapport sur la modification du règlement, qui est <DiscourseConnective annotation_id="150">pour</DiscourseConnective> nous de toute première importance, <DiscourseConnective annotation_id="190">soit</DiscourseConnective> traité ce soir en dernier point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="224" docOffset="2">
+      <en>This is a change to the order of business rather than to the content of our session. It would be great <Alignment alignment="373" annotation_id="327">
+          <DiscourseConnective annotation_id="327" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we could agree to this change <Alignment alignment="400" annotation_id="360">
+          <DiscourseConnective annotation_id="360" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the rapporteur should be present during the debate.</en>
+      <fr>C'est une réorganisation de l'ordre du jour de la séance <DiscourseConnective annotation_id="285">plutôt qu'</DiscourseConnective>une modification de son contenu que je vous propose et je serais très heureux <Alignment alignment="77" annotation_id="373">
+          <DiscourseConnective annotation_id="373" sense="Contingency.Condition">que</DiscourseConnective>
+        </Alignment> l'Assemblée l'accepte, <Alignment alignment="22" annotation_id="400">
+          <DiscourseConnective annotation_id="400" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> cela permettrait au rapporteur de participer au débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="420" docOffset="3">
+      <en>
+        <DiscourseConnective annotation_id="420" sense="Temporal.Synchrony">As</DiscourseConnective> this is formally a change to the agenda, I am obliged to request the agreement of the House, <DiscourseConnective annotation_id="516" sense="Expansion.Conjunction">and</DiscourseConnective> I hope that this agreement will be forthcoming.</en>
+      <fr>Formellement, il s'agit d'une modification de l'ordre du jour, ce qui m'oblige <DiscourseConnective annotation_id="538">à</DiscourseConnective> demander l'accord de l'Assemblée qui, je l'espère, acceptera sans peine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="568" docOffset="4">
+      <en>(Parliament accepted the proposal)</en>
+      <fr>(L'Assemblée marque son accord)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Iran: the case of Roxana Saberi</en>
+    <fr>Iran: le cas de Roxana Saberi</fr>
+  </ParallelChunk>
+<Speaker annotation_id="35" id="294" name="Laima Liucija Andrikien">
+    <ParallelChunk annotation_id="35" docOffset="2">
+      <en>Madam President, my proposal is that the words 'Iranian authorities' at the beginning of paragraph 3 should be replaced by 'Appeals Court at its hearing of 12 May'.</en>
+      <fr>(EN) Madame la Présidente, ma proposition était <DiscourseConnective annotation_id="81">que</DiscourseConnective> les mots "autorités iraniennes" au début du paragraphe 3 soient remplacés par "Cour d'appel lors de l'audience du 12 mai".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="200" docOffset="3">
+      <en>Paragraph 3 would <Alignment alignment="240" annotation_id="218">
+          <DiscourseConnective annotation_id="218" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> read: 'Urges the Appeals Court at its hearing of 12 May to release Roxana Saberi...'.</en>
+      <fr>Le texte du paragraphe 3 serait <Alignment alignment="225" annotation_id="240">
+          <DiscourseConnective annotation_id="240" sense="Temporal.Asynchronous.Precedence">donc</DiscourseConnective>
+        </Alignment> le suivant: "demande instamment à la Cour d'appel, lors de l'audience du 12 mai 2009, de libérer Roxana Saberi...".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="309" id="296" name="Marios Matsakis">
+    <ParallelChunk annotation_id="309" docOffset="4">
+      <en>author. - Madam President, <Alignment alignment="383" annotation_id="336">
+          <DiscourseConnective annotation_id="336" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> this joint motion for a resolution was agreed and submitted, the news came of yet another disgracefully brutal case of stoning to death of a citizen in Iran.</en>
+      <fr>Madame la Présidente, <Alignment alignment="280" annotation_id="383">
+          <DiscourseConnective annotation_id="383" sense="Temporal.Asynchronous.Succession">après que</DiscourseConnective>
+        </Alignment> cette proposition de résolution commune a été convenue <DiscourseConnective annotation_id="448">et</DiscourseConnective> présentée, un autre cas lamentablement brutal de lapidation de citoyen <DiscourseConnective annotation_id="522">en</DiscourseConnective> Iran a été annoncé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="500" docOffset="5">
+      <en>
+        <Alignment alignment="556" annotation_id="500">
+          <DiscourseConnective annotation_id="500" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> we thought it was appropriate to add to paragraph 7 the following: 'in this context insists that the authorities of Islamic Republic of Iran urgently abolish the practice of stoning; condemns strongly the recent execution by stoning of Vali Azad, and expresses great concern over the pending execution of Mohammad Ali Navid Khamami and Ashraf Kalhori;'.</en>
+      <fr>Nous avons <Alignment alignment="500" annotation_id="556">
+          <DiscourseConnective annotation_id="556" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pensé qu'il était judicieux d'ajouter le texte suivant au paragraphe 7: "dans ce contexte, insiste <DiscourseConnective annotation_id="660">pour que</DiscourseConnective> les autorités de la République islamique d'Iran abolissent d'urgence la pratique de la lapidation; condamne fermement l'exécution récente par lapidation de Vali Azad <DiscourseConnective annotation_id="835">et</DiscourseConnective> exprime sa profonde inquiétude quant aux exécutions pendantes de Mohammad Ali Navid Khamami <DiscourseConnective annotation_id="930">et</DiscourseConnective> d'Ashraf Kalhori".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="864" docOffset="6">
+      <en>I understand that this meets with the approval of the other groups' representatives.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="961">que</DiscourseConnective> les représentants des autres groupes pourront accepter cet amendement.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="022" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I have some special information for you.</en>
+      <fr>J'ai une information spéciale <DiscourseConnective annotation_id="52">à</DiscourseConnective> vous communiquer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="49" docOffset="2">
+      <en>I would like to extend a warm welcome to the delegation from the Pan-African Parliament, led by its Vice-President, Mrs Mugyenyi.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="81">à</DiscourseConnective> souhaiter chaleureusement la bienvenue <DiscourseConnective annotation_id="122">à</DiscourseConnective> la délégation du Parlement panafricain, conduite par sa vice-présidente, Mme Mugyenyi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="179" docOffset="3">
+      <en>They are with us at our sitting. Please welcome them.</en>
+      <fr>Cette délégation assiste <DiscourseConnective annotation_id="236">à</DiscourseConnective> notre séance et je vous invite <DiscourseConnective annotation_id="269">à</DiscourseConnective> lui souhaiter la bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="233" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="244" docOffset="5">
+      <en>The second Vice-President of the Pan-African Parliament and Chair of the Delegation for relations with the European Parliament. Our Parliaments work closely together, <Alignment alignment="269002" annotation_id="411">
+          <DiscourseConnective annotation_id="411" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> your presence with us today gives us great pleasure.</en>
+      <fr>Madame la deuxième vice-présidente du Parlement panafricain <DiscourseConnective annotation_id="378">et</DiscourseConnective> présidente de la délégation <DiscourseConnective annotation_id="409">pour</DiscourseConnective> les relations avec le Parlement européen, nos parlements coopèrent étroitement <Alignment alignment="299" annotation_id="493">
+          <DiscourseConnective annotation_id="493" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> votre présence parmi nous aujourd'hui nous ravit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="468" docOffset="6">
+      <en>I would like to take the opportunity to thank you for the invitation for me to address the sitting of the Pan-African Parliament which will be held in three weeks' time.</en>
+      <fr>Je saisis cette occasion <DiscourseConnective annotation_id="571">pour</DiscourseConnective> vous remercier de l'invitation qui m'a été faite de prendre la parole lors de la prochaine session du Parlement panafricain, dans trois semaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="638" docOffset="7">
+      <en>Unfortunately, I will not be able to be there, <Alignment alignment="767" annotation_id="685">
+          <DiscourseConnective annotation_id="685" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I will send you a letter on that occasion.</en>
+      <fr>
+        <DiscourseConnective annotation_id="722">Malheureusement</DiscourseConnective>, je ne pourrai être présent, <Alignment alignment="394" annotation_id="767">
+          <DiscourseConnective annotation_id="767" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je vous enverrai un courrier <DiscourseConnective annotation_id="801">pour</DiscourseConnective> cette occasion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="732" docOffset="8">
+      <en>I am sure we will have the opportunity to meet again.</en>
+      <fr>Je suis certain que nous aurons l'occasion de nous revoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="786" docOffset="9">
+      <en>Once again, I warmly welcome you all.</en>
+      <fr>
+        <DiscourseConnective annotation_id="881">Encore</DiscourseConnective> une fois, bienvenue à tous.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

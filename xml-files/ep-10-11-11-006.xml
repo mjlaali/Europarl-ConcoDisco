@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="118" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>Ladies and gentlemen, <Alignment alignment="116" annotation_id="49">
+          <DiscourseConnective annotation_id="49" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, today is Armistice Day, <DiscourseConnective annotation_id="86" sense="Temporal.Synchrony">when</DiscourseConnective> we commemorate hostilities coming to an end in the First World War.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="38">et</DiscourseConnective> Messieurs, <Alignment alignment="3" annotation_id="52">
+          <DiscourseConnective annotation_id="52" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, nous commémorons aujourd'hui l'Armistice qui marque la fin des hostilités de la Première Guerre mondiale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="159" docOffset="2">
+      <en>
+        <DiscourseConnective annotation_id="159" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>, in order to commemorate the armistice that brought an end to the First World War, we are going to observe a minute's silence in memory of the millions of Europeans who lost their lives in that struggle.</en>
+      <fr>Nous allons pour cela observer une minute de silence à la mémoire des millions d'Européens qui ont perdu la vie dans cette guerre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="373" docOffset="3">
+      <en>(The House rose and observed a minute's silence)</en>
+      <fr>(L'Assemblée, debout, observe une minute de silence)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

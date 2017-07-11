@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>The exclusion of health services from the Services Directive (vote)</en>
+    <fr>Impact et conséquences de l'exclusion des services de santé de la directive relative aux services dans le marché intérieur (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="71" docOffset="2">
+    <en>- Report: Vergnaud</en>
+    <fr>- Rapport Vergnaud</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="90" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="152">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="109" id="450" name="Bernadette Vergnaud ">
+    <ParallelChunk annotation_id="109" docOffset="4">
+      <en>rapporteur. - (FR) Mr President, I am taking the floor simply to point out to the House that there has been an error.</en>
+      <fr>rapporteur. - Monsieur le Président, j'interviens <DiscourseConnective annotation_id="216">simplement</DiscourseConnective> <DiscourseConnective annotation_id="227">pour</DiscourseConnective> signaler <DiscourseConnective annotation_id="241">à</DiscourseConnective> l'Assemblée <DiscourseConnective annotation_id="255">qu'</DiscourseConnective>il y a eu un erratum.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="227" docOffset="5">
+      <en>
+        <Alignment alignment="280" annotation_id="227">
+          <DiscourseConnective annotation_id="227" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="235" sense="Temporal.Synchrony">as</DiscourseConnective> the same sentence appears in three different paragraphs, Parliament's services have rightly deleted paragraphs 47 and 53 from the report, <Alignment alignment="447" annotation_id="376">
+          <DiscourseConnective annotation_id="376" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> this sentence appears in its entirety in paragraph 51.</en>
+      <fr>
+        <Alignment alignment="227" annotation_id="280">
+          <DiscourseConnective annotation_id="280" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, la <DiscourseConnective annotation_id="293">même</DiscourseConnective> phrase apparaissant dans trois paragraphes différents, les services de l'Assemblée ont, à juste titre, supprimé les paragraphes 47 <DiscourseConnective annotation_id="429">et</DiscourseConnective> 53 du rapport, <Alignment alignment="376" annotation_id="447">
+          <DiscourseConnective annotation_id="447" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> cette phrase figure dans son intégralité au paragraphe 51.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="437" docOffset="6">
+      <en>I simply wished to inform my fellow Members of this matter.</en>
+      <fr>Je tenais <DiscourseConnective annotation_id="534">simplement</DiscourseConnective> <DiscourseConnective annotation_id="545">à en</DiscourseConnective> informer mes collègues.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

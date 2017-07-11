@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="064" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I would like to welcome to the official gallery a delegation from the Afghan Parliament led by the President of the National Assembly of Afghanistan, Mr Mohammad Yonus Qanoni.</en>
+      <fr>Je souhaite la bienvenue <DiscourseConnective annotation_id="47">à</DiscourseConnective> une délégation du parlement afghan, conduite par M. Mohammad Yonus Qanoni, le président de l'Assemblée nationale d'Afghanistan, qui a pris place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="184" docOffset="2">
+      <en>(Loud applause)</en>
+      <fr>(Vifs applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="200" docOffset="3">
+      <en>Mr Mohammad Yonus Qanoni is accompanied by four other Members of the Afghan Parliament.</en>
+      <fr>M. Mohammad Yonus Qanoni est accompagné de quatre autres députés du parlement afghan.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="288" docOffset="4">
+      <en>Tomorrow I will have the pleasure of meeting this delegation personally. It has already held an exchange of views with the Committee on Foreign Affairs and the Committee on Development.</en>
+      <fr>Demain, j'aurai le plaisir de rencontrer en personne cette délégation, laquelle <DiscourseConnective annotation_id="412">s'</DiscourseConnective>est <DiscourseConnective annotation_id="418">déjà</DiscourseConnective> entretenue avec la commission des affaires étrangères <DiscourseConnective annotation_id="477">et</DiscourseConnective> la commission du développement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="474" docOffset="5">
+      <en>We welcome you most warmly <Alignment alignment="546" annotation_id="501">
+          <DiscourseConnective annotation_id="501" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we would invite you to remain in the gallery for the award of the Sakharov Prize to Mr Milinkievitch and, later on, the important debate on the European Union's annual report on human rights.</en>
+      <fr>Nous vous souhaitons la bienvenue <Alignment alignment="501" annotation_id="546">
+          <DiscourseConnective annotation_id="546" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous invitons <DiscourseConnective annotation_id="563">à</DiscourseConnective> demeurer dans la tribune <DiscourseConnective annotation_id="590">pour</DiscourseConnective> la remise du prix Sakharov <DiscourseConnective annotation_id="622">à</DiscourseConnective> M. Milinkievitch <DiscourseConnective annotation_id="641">et</DiscourseConnective>, <DiscourseConnective annotation_id="645">ensuite</DiscourseConnective>, <DiscourseConnective annotation_id="654">pour</DiscourseConnective> le débat important sur le rapport de l'Union européenne relatif aux droits de l'homme.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

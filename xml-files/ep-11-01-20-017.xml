@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Forwarding of texts adopted during the sitting: see Minutes</en>
+    <fr>Transmission des textes adoptés au cours de la présente séance: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="60" id="413" name="Robert Sturdy">
+    <ParallelChunk annotation_id="60" docOffset="1">
+      <en>Mr President, we have just had two roll-call votes.</en>
+      <fr>(EN) Monsieur le Président, nous venons d'avoir deux votes par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="112" docOffset="2">
+      <en>This morning before lunch, we had only two roll-call votes.</en>
+      <fr>Ce matin <DiscourseConnective annotation_id="170">avant</DiscourseConnective> le déjeuner nous n'avons eu <DiscourseConnective annotation_id="204">que</DiscourseConnective> deux votes par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="172" docOffset="3">
+      <en>It is the ruling in this Parliament that you have to vote over 50% of the time, and 50% of the roll-call votes, to ensure that you get a full day's pay.</en>
+      <fr>
+        <DiscourseConnective annotation_id="238">Or</DiscourseConnective>, la règle au Parlement prévoit <DiscourseConnective annotation_id="272">qu'</DiscourseConnective>il faut être présent plus de 50 % du temps, <DiscourseConnective annotation_id="319">et</DiscourseConnective> participer à au moins la moitié des votes par appel nominal <DiscourseConnective annotation_id="382">pour</DiscourseConnective> être assuré de toucher une journée de paie complète.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="325" docOffset="4">
+      <en>Is this correct in this case, <Alignment alignment="466" annotation_id="355">
+          <DiscourseConnective annotation_id="355" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> what is the situation?</en>
+      <fr>Est-ce exact <DiscourseConnective annotation_id="453">dans ce cas</DiscourseConnective>, <Alignment alignment="355" annotation_id="466">
+          <DiscourseConnective annotation_id="466" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> quelle est la situation?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="381" id="414" name="President">
+    <ParallelChunk annotation_id="381" docOffset="5">
+      <en>It is correct.</en>
+      <fr>C'est correct.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="396" docOffset="6">
+      <en>You have to be present 50% of the time.</en>
+      <fr>Il faut être présent 50 % du temps.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Membership of Parliament</en>
+    <fr>Composition du Parlement</fr>
+  </ParallelChunk>
+<Speaker annotation_id="25" id="032" name="President">
+    <ParallelChunk annotation_id="25" docOffset="1">
+      <en>The French authorities have informed us that Mrs Marie-Line Reynaud, Mr Pierre Moscovici and Mr Jean-Claude Fruteau have been elected to the French National Assembly.</en>
+      <fr>Les autorités françaises nous ont informés <DiscourseConnective annotation_id="68">que</DiscourseConnective> Mme Marie-Line Reynaud, M. Pierre Moscovici <DiscourseConnective annotation_id="116">et</DiscourseConnective> M. Jean-Claude Fruteau avaient été élus <DiscourseConnective annotation_id="159">à</DiscourseConnective> l'Assemblée nationale française.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="192" docOffset="2">
+      <en>Under Article 7(2) of the Act of 20 September 1976 <DiscourseConnective annotation_id="243" sense="Temporal.Synchrony">as</DiscourseConnective> amended on 25 June and 23 September 2002 these Members have had incompatible mandates since 26 June 2007, the date of the constituent sitting of the French National Assembly.</en>
+      <fr>En vertu de l'article 7, paragraphe 2, de la loi du 20 septembre 1976, telle qu'amendée le 25 juin <DiscourseConnective annotation_id="293">et</DiscourseConnective> le 23 septembre 2002, ces députés sont en situation d'incompatibilité de mandat <DiscourseConnective annotation_id="376">depuis</DiscourseConnective> le 26 juin 2007, date de la session constitutive de l'Assemblée nationale française.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="421" docOffset="3">
+      <en>
+        <DiscourseConnective annotation_id="421" sense="Contingency.Cause.Reason">Since</DiscourseConnective> the election of Mrs Reynaud and Mr Moscovici has been disputed <Alignment alignment="876" annotation_id="490">
+          <DiscourseConnective annotation_id="490" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the deadline for disputing the election of Mr Fruteau is not until 28 June, <Alignment alignment="611" annotation_id="570">
+          <DiscourseConnective annotation_id="570" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="614" annotation_id="574">
+          <DiscourseConnective annotation_id="574" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the French Constitutional Court has to take decisions on the disputes as soon as possible, I suggest postponing the establishment of the vacancies concerned until the proceedings <DiscourseConnective annotation_id="759" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective> the Constitutional Court have come to an end.</en>
+      <fr>Eu égard au fait que l'élection de Mme Reynaud <DiscourseConnective annotation_id="515">et</DiscourseConnective> de M. Moscovici est contestée <Alignment alignment="490" annotation_id="548">
+          <DiscourseConnective annotation_id="548" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que celle de M. Fruteau peut <DiscourseConnective annotation_id="580">encore</DiscourseConnective> l'être <DiscourseConnective annotation_id="594">jusqu'au</DiscourseConnective> 28 juin <Alignment alignment="570" annotation_id="611">
+          <DiscourseConnective annotation_id="611" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="0" annotation_id="614">
+          <DiscourseConnective annotation_id="614" sense="Contingency.Cause.Reason">que</DiscourseConnective>
+        </Alignment> le Conseil constitutionnel de la République française doit statuer sur ces contestations dans les plus brefs délais, je propose de reporter la constatation de vacance de ces sièges <DiscourseConnective annotation_id="799">jusqu'à</DiscourseConnective> la clôture des procédures devant le Conseil constitutionnel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="812" docOffset="4">
+      <en>Given that their mandates have been incompatible since 26 June 2007, Mrs Reynaud, Mr Moscovici and Mr Fruteau may not at present take part in the business of the European Parliament and its bodies.</en>
+      <fr>Vu l'incompatibilité des mandats à compter du 26 juin 2007, Mme Reynaud, M. Moscovici <DiscourseConnective annotation_id="954">et</DiscourseConnective> M. Fruteau ne peuvent plus participer aux travaux du Parlement européen <DiscourseConnective annotation_id="1029">et</DiscourseConnective> de ses organes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1010" docOffset="5">
+      <en>
+        <Alignment alignment="1048" annotation_id="1010">
+          <Alignment alignment="1048" annotation_id="1010">
+            <DiscourseConnective annotation_id="1010" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I note that the office of Vice-President, hitherto held by Mr Pierre Moscovici, has, with his agreement, now fallen vacant.</en>
+      <fr>
+        <Alignment alignment="1010" annotation_id="1048">
+          <Alignment alignment="396" annotation_id="1048">
+            <DiscourseConnective annotation_id="1048" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je constate <DiscourseConnective annotation_id="1074">que</DiscourseConnective> la fonction de vice-président, occupée jusqu'ici par M. Moscovici, devient vacante, en accord avec l'intéressé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1147" docOffset="6">
+      <en>In view of the exceptional nature of the situation, I propose to refer the matter to the Committee on Legal Affairs.</en>
+      <fr>Compte tenu de la nature exceptionnelle de cette situation, je propose de saisir la commission des affaires juridiques.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

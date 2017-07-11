@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Industrial policy for the globalised era (</en>
+    <fr>Politique industrielle <DiscourseConnective annotation_id="26">à</DiscourseConnective> l'ère de la mondialisation (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="46" id="155" name="President">
+    <ParallelChunk annotation_id="46" docOffset="2">
+      <en>That concludes the vote.</en>
+      <fr>Le vote est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="71" docOffset="3">
+      <en>Colleagues, we have fifty explanations of vote.</en>
+      <fr>Chers collègues, il y a cinquante explications de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="119" docOffset="4">
+      <en>You know what this means.</en>
+      <fr>Vous savez ce que cela signifie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="145" docOffset="5">
+      <en>I will be going very fast, on the minute I will be stopping you, on the dot.</en>
+      <fr>Je serai très rapide, je vous interromprai à la seconde près.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="222" docOffset="6">
+      <en>I apologise for this <Alignment alignment="249" annotation_id="243">
+          <DiscourseConnective annotation_id="243" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we have to keep to the time.</en>
+      <fr>Veuillez m'en excuser, <Alignment alignment="249" annotation_id="249">
+          <DiscourseConnective annotation_id="249" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons respecter l'horaire.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

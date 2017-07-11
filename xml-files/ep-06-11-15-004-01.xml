@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>A new framework strategy for multilingualism (vote)</en>
+    <fr>Un nouveau cadre stratégique <DiscourseConnective annotation_id="32">pour</DiscourseConnective> le multilinguisme (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="55" docOffset="2">
+    <en>- Before the vote on paragraph 20:</en>
+    <fr>
+      <DiscourseConnective annotation_id="62">Avant</DiscourseConnective> le vote sur le paragraphe 20:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="90" id="084" name="Zbigniew Zaleski">
+    <ParallelChunk annotation_id="90" docOffset="3">
+      <en>(ES) Mr President, in the event of paragraph 20 not being rejected, I propose an oral amendment:</en>
+      <fr>(ES) Monsieur le Président, <DiscourseConnective annotation_id="126">au cas où</DiscourseConnective> le paragraphe 20 ne serait pas rejeté, je propose un amendement oral:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="187" docOffset="4">
+      <en>'Otherwise, lesser-used languages and less-recognised languages, particularly in Western Europe, of the new Member States, will be left behind with their linguistic social space taken over by the more widely spoken languages, especially English.'</en>
+      <fr>"Dans le cas contraire, les langues moins utilisées <DiscourseConnective annotation_id="258">et</DiscourseConnective> moins reconnues, <DiscourseConnective annotation_id="278">en</DiscourseConnective> Europe occidentale ou dans les nouveaux États membres en particulier, se trouveront désavantagées et leur espace sociolinguistique sera occupé par les langues plus répandues, par l'anglais <DiscourseConnective annotation_id="470">en particulier</DiscourseConnective>."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="434" docOffset="5">
+      <en>(Parliament rejected the oral amendment)</en>
+      <fr>(Le Parlement rejette l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

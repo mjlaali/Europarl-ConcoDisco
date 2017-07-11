@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Credit rating agencies (short presentation)</en>
+    <fr>Agences de notation de crédit: perspectives d'avenir (brève présentation)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="44" id="197" name="President">
+    <ParallelChunk annotation_id="44" docOffset="1">
+      <en>The next item is the report by Mr Klinz, on behalf of the Committee on Economic and Monetary Affairs, on credit rating agencies: future perspectives.</en>
+      <fr>L'ordre du jour appelle le rapport de Wolf Klinz, au nom de la commission des affaires économiques <DiscourseConnective annotation_id="173">et</DiscourseConnective> monétaires, sur les agences de notation de crédit: perspectives d'avenir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="194" id="198" language="DE" name="Wolf Klinz">
+    <ParallelChunk annotation_id="194" docOffset="2">
+      <en>Madam President, ladies and gentlemen, credit rating agencies certainly did not cause the global financial crisis, <Alignment alignment="11917" annotation_id="309">
+          <DiscourseConnective annotation_id="309" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, in my opinion, they were responsible to a significant extent for its severity.</en>
+      <fr>Madame la Présidente, chers collègues, les agences de notation de crédit ne sont certainement pas à l'origine de la crise financière mondiale <Alignment alignment="2051" annotation_id="392">
+          <DiscourseConnective annotation_id="392" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, selon moi, elles sont responsables dans une large mesure de sa gravité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="393" docOffset="3">
+      <en>
+        <Alignment alignment="11067" annotation_id="393">
+          <DiscourseConnective annotation_id="393" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> the so-called structured financial products were developed in America on the basis of the subprime mortgages, the credit rating agencies supported this process by rating dozens, <DiscourseConnective annotation_id="576" sense="Contingency.Condition">if</DiscourseConnective> not hundreds, of products each day in an almost conveyor-belt fashion.</en>
+      <fr>
+        <Alignment alignment="393" annotation_id="470">
+          <DiscourseConnective annotation_id="470" sense="Temporal.Synchrony">Quand</DiscourseConnective>
+        </Alignment> ce que l'on appelle les "instruments financiers structurés" ont été créés aux États-Unis sur la base des prêts hypothécaires à risque, les agences de notation de crédit ont encouragé ce processus en notant chaque jour, presque à la chaîne, des dizaines, voire des centaines, de produits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="650" docOffset="4">
+      <en>In so doing, they <Alignment alignment="19106" annotation_id="668">
+          <DiscourseConnective annotation_id="668" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> accepted conflicts of interests, in that they supported the issuers with advice and help in designing these products.</en>
+      <fr>Ce faisant, elles ont <Alignment alignment="668" annotation_id="786">
+          <DiscourseConnective annotation_id="786" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> accepté les conflits d'intérêts, <DiscourseConnective annotation_id="829">dans la mesure où</DiscourseConnective> elles fournissaient aux établissements émetteurs des conseils <DiscourseConnective annotation_id="909">et</DiscourseConnective> une aide <DiscourseConnective annotation_id="921">pour</DiscourseConnective> la conception de ces produits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="791" docOffset="5">
+      <en>They continued to claim that they were only expressing an opinion, <DiscourseConnective annotation_id="858" sense="Comparison.Contrast">although</DiscourseConnective> they knew very well that their ratings were, <Alignment alignment="3721" annotation_id="912">
+          <Alignment alignment="28999" annotation_id="912">
+            <DiscourseConnective annotation_id="912" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, being used as a seal of approval.</en>
+      <fr>Elles avaient beau répéter <DiscourseConnective annotation_id="984">qu'</DiscourseConnective>elles se contentaient d'exprimer un avis, elles savaient pertinemment <DiscourseConnective annotation_id="1057">que</DiscourseConnective> leur notation servaient <Alignment alignment="3956" annotation_id="1085">
+          <Alignment alignment="912" annotation_id="1085">
+            <DiscourseConnective annotation_id="1085" sense="Expansion.Restatement">en réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment> de sceau d'approbation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="955" docOffset="6">
+      <en>My report deals with numerous deficiencies and puts forward proposals in the hope that the Commission will perhaps be able to include some of them in its legislative proposal that it will be tabling in the autumn.</en>
+      <fr>Mon rapport expose de nombreuses lacunes <DiscourseConnective annotation_id="1161">et</DiscourseConnective> formule des propositions, <DiscourseConnective annotation_id="1190">dans l'espoir que</DiscourseConnective> la Commission en inclura peut-être certaines dans la proposition législative <DiscourseConnective annotation_id="1285">qu'</DiscourseConnective>elle déposera <DiscourseConnective annotation_id="1302">à</DiscourseConnective> l'automne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1169" docOffset="7">
+      <en>I put forward five proposals.</en>
+      <fr>J'avance cinq propositions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1199" docOffset="8">
+      <en>The first is that the reliance on ratings must be reduced.</en>
+      <fr>La première est la réduction de la dépendance aux notations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1258" docOffset="9">
+      <en>In practice, we have found that the regulatory environment has led to the use of ratings being absolutely essential, by banks, insurance companies, pension funds etc. which invest their money.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1404">En</DiscourseConnective> pratique, nous avons constaté <DiscourseConnective annotation_id="1437">que</DiscourseConnective> l'environnement réglementaire a rendu absolument essentiel le recours aux notations, notamment par les banques, les compagnies d'assurance ou les fonds de pension qui investissent leur argent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1451" docOffset="10">
+      <en>Basel II made this very clear <Alignment alignment="14252" annotation_id="1481">
+          <DiscourseConnective annotation_id="1481" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="16684" annotation_id="1486">
+          <Alignment alignment="4272" annotation_id="1486">
+            <DiscourseConnective annotation_id="1486" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the credit rating agencies have become regulatory certification bodies.</en>
+      <fr>L'accord de Bâle II a clairement exposé ce point <Alignment alignment="1481" annotation_id="1683">
+          <DiscourseConnective annotation_id="1683" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1486" annotation_id="1687">
+          <Alignment alignment="1486" annotation_id="1687">
+            <DiscourseConnective annotation_id="1687" sense="Expansion.Restatement">en réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les agences de notation de crédit sont devenues des organismes de certification réglementaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1567" docOffset="11">
+      <en>We need to make it possible once again for market operators, particularly institutional investors, which possess their own expertise to actually take responsibility themselves and not outsource the responsibility for investment decisions.</en>
+      <fr>Nous devons faire <DiscourseConnective annotation_id="1813">en</DiscourseConnective> sorte que les opérateurs de marché, <DiscourseConnective annotation_id="1852">en particulier</DiscourseConnective> les investisseurs institutionnels qui possèdent leur propre expertise, puissent à nouveau véritablement assumer eux-mêmes la responsabilité des décisions d'investissements <DiscourseConnective annotation_id="2039">et</DiscourseConnective> ne pas l'externaliser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1806" docOffset="12">
+      <en>It needs to be made clear that investors should only invest <Alignment alignment="2139" annotation_id="1866">
+          <DiscourseConnective annotation_id="1866" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they actually understand the product <Alignment alignment="6671" annotation_id="1906">
+          <DiscourseConnective annotation_id="1906" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> cannot use the excuse that they can, to a certain extent, automatically make a triple A product the goal of their investment strategy.</en>
+      <fr>Il importe d'établir clairement <DiscourseConnective annotation_id="2097">que</DiscourseConnective> les investisseurs ne doivent investir <Alignment alignment="1866" annotation_id="2139">
+          <DiscourseConnective annotation_id="2139" sense="Contingency.Condition">que s'</DiscourseConnective>
+        </Alignment>ils comprennent véritablement le produit <Alignment alignment="1906" annotation_id="2186">
+          <DiscourseConnective annotation_id="2186" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ne peuvent invoquer l'excuse <DiscourseConnective annotation_id="2218">que</DiscourseConnective>, dans une certaine mesure, un produit noté triple A peut automatiquement leur servir d'objectif <DiscourseConnective annotation_id="2318">pour</DiscourseConnective> leur stratégie d'investissement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2045" docOffset="13">
+      <en>Secondly, we must ensure that the information on which credit rating agencies base their decisions is made publicly available, that it is understood, <Alignment alignment="14164" annotation_id="2195">
+          <DiscourseConnective annotation_id="2195" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the models used are <Alignment alignment="13862" annotation_id="2224">
+          <DiscourseConnective annotation_id="2224" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> known. That will lead to transparency and will <DiscourseConnective annotation_id="2276" sense="Expansion.Conjunction">also</DiscourseConnective> make it easier for institutional investors seeking to invest to make their own decisions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2356">Deuxièmement</DiscourseConnective>, nous devons nous assurer <DiscourseConnective annotation_id="2395">que</DiscourseConnective> les informations utilisées par les agences de notation de crédit pour étayer leurs décisions soient publiées et comprises <Alignment alignment="2195" annotation_id="2521">
+          <DiscourseConnective annotation_id="2521" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="2524">que</DiscourseConnective> les modèles utilisés soient <Alignment alignment="6322" annotation_id="2556">
+          <DiscourseConnective annotation_id="2556" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> connus, ce qui instaurera une transparence <DiscourseConnective annotation_id="2609">et</DiscourseConnective> permettra aux investisseurs institutionnels souhaitant investir de prendre plus facilement leurs propres décisions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2371" docOffset="14">
+      <en>It will <Alignment alignment="8658" annotation_id="2379">
+          <DiscourseConnective annotation_id="2379" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> help to enable unsolicited ratings to be given.</en>
+      <fr>Cela permettra <Alignment alignment="3207" annotation_id="2743">
+          <DiscourseConnective annotation_id="2743" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de fournir des notations non sollicitées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2432" docOffset="15">
+      <en>In this connection, we should <Alignment alignment="2822" annotation_id="2462">
+          <DiscourseConnective annotation_id="2462" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> consider whether the proposal that the United States is considering is a sensible one, namely, that where only one credit rating agency is chosen by issuers, a second, independent body could be encouraged to give a rating <Alignment alignment="3044" annotation_id="2689">
+          <DiscourseConnective annotation_id="2689" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this second body could be allowed to work on the basis of the information that is publicly available.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2795">À cet égard</DiscourseConnective>, nous devrions <Alignment alignment="3639" annotation_id="2822">
+          <DiscourseConnective annotation_id="2822" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> nous interroger sur l'opportunité de la proposition envisagée par les États-Unis, à savoir <DiscourseConnective annotation_id="2923">que</DiscourseConnective> <DiscourseConnective annotation_id="2927">lorsque</DiscourseConnective> les émetteurs ne choisissent qu'une seule agence de notation de crédit, on pourrait encourager un deuxième organisme indépendant <DiscourseConnective annotation_id="3064">à</DiscourseConnective> donner une notation <Alignment alignment="3279" annotation_id="3086">
+          <DiscourseConnective annotation_id="3086" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que celui-ci pourrait travailler sur la base des informations publiées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2795" docOffset="16">
+      <en>Thirdly, we need more competition.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3161">Troisièmement</DiscourseConnective>, il nous faut davantage de concurrence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2830" docOffset="17">
+      <en>We have a de facto oligopoly.</en>
+      <fr>Nous sommes en présence d'un oligopole de fait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2860" docOffset="18">
+      <en>The three credit rating agencies that exist and operate worldwide control 95% of the global business.</en>
+      <fr>Les trois agences de notation de crédit qui existent <DiscourseConnective annotation_id="3316">et</DiscourseConnective> sont actives à l'échelle planétaire contrôlent 95 % du marché mondial.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2962" docOffset="19">
+      <en>They have a so-called monopoly income of 40% return on turnover, <DiscourseConnective annotation_id="3027" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="26258" annotation_id="3031">
+          <DiscourseConnective annotation_id="3031" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> I am proposing that we set up a European credit rating agency.</en>
+      <fr>Elles jouissent de ce que l'on appelle une rente de monopole équivalant <DiscourseConnective annotation_id="3462">à</DiscourseConnective> 40 % du rendement du chiffre d'affaires; je propose <Alignment alignment="6440" annotation_id="3516">
+          <DiscourseConnective annotation_id="3516" sense="Contingency.Cause.Result">dès lors que</DiscourseConnective>
+        </Alignment> nous mettions en place une agence de notation de crédit européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3104" docOffset="20">
+      <en>It should be based on a foundation model <Alignment alignment="28995" annotation_id="3145">
+          <DiscourseConnective annotation_id="3145" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the start-up financing should be provided by the finance sector by means of interest-bearing loans.</en>
+      <fr>Elle devrait <DiscourseConnective annotation_id="3610">s'</DiscourseConnective>appuyer sur un modèle de base <Alignment alignment="3145" annotation_id="3642">
+          <DiscourseConnective annotation_id="3642" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le secteur financier devrait fournir le financement de départ au moyen de prêts portant intérêts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3249" docOffset="21">
+      <en>After five years, we will know whether it is working <Alignment alignment="26995" annotation_id="3302">
+          <DiscourseConnective annotation_id="3302" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="9495" annotation_id="3306">
+          <DiscourseConnective annotation_id="3306" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> this credit rating foundation will <DiscourseConnective annotation_id="3346" sense="Expansion.Conjunction">also</DiscourseConnective> have to pay back the funds that it has received.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3743">Après</DiscourseConnective> cinq ans, nous saurons <DiscourseConnective annotation_id="3772">si</DiscourseConnective> cette agence fonctionne <Alignment alignment="3302" annotation_id="3799">
+          <DiscourseConnective annotation_id="3799" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle devra <Alignment alignment="3306" annotation_id="3813">
+          <DiscourseConnective annotation_id="3813" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> rembourser les fonds <DiscourseConnective annotation_id="3840">qu'</DiscourseConnective>elle a reçus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3400" docOffset="22">
+      <en>
+        <Alignment alignment="22072" annotation_id="3400">
+          <DiscourseConnective annotation_id="3400" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I am sure that there are <DiscourseConnective annotation_id="3434" sense="Expansion.Conjunction">also</DiscourseConnective> other options.</en>
+      <fr>
+        <Alignment alignment="3400" annotation_id="3857">
+          <DiscourseConnective annotation_id="3857" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, je suis convaincu <DiscourseConnective annotation_id="3886">qu'</DiscourseConnective>il existe d'autres possibilités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3454" docOffset="23">
+      <en>It would <Alignment alignment="17160" annotation_id="3463">
+          <DiscourseConnective annotation_id="3463" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> make sense to perhaps allow national and regional credit rating agencies to operate in the form of a European network.</en>
+      <fr>Il serait peut-être <Alignment alignment="5117" annotation_id="3942">
+          <DiscourseConnective annotation_id="3942" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> judicieux de permettre aux agences de notation de crédit nationales <DiscourseConnective annotation_id="4020">et</DiscourseConnective> régionales de travailler sous la forme d'un réseau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3587" docOffset="24">
+      <en>Fourthly, we still have an outstanding matter with regard to the payment model.</en>
+      <fr>Quatrièmement, il nous reste une question en suspens <DiscourseConnective annotation_id="4137">en</DiscourseConnective> ce qui concerne le modèle de rémunération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3667" docOffset="25">
+      <en>Currently, we have an issuer-pays model.</en>
+      <fr>Nous suivons actuellement le modèle de "l'émetteur-payeur".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3708" docOffset="26">
+      <en>That is the model that essentially works throughout the world.</en>
+      <fr>Il <DiscourseConnective annotation_id="4246">s'</DiscourseConnective>agit du modèle qui est essentiellement en place au niveau mondial.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3771" docOffset="27">
+      <en>
+        <Alignment alignment="4315" annotation_id="3771">
+          <DiscourseConnective annotation_id="3771" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, the issuer pays, <Alignment alignment="2731" annotation_id="3794">
+          <DiscourseConnective annotation_id="3794" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> clearly there is a conflict of interests here that we could reduce <Alignment alignment="4433" annotation_id="3865">
+          <DiscourseConnective annotation_id="3865" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> there was no more advising of issuers <Alignment alignment="4476" annotation_id="3906">
+          <DiscourseConnective annotation_id="3906" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="23106" annotation_id="3910">
+          <DiscourseConnective annotation_id="3910" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the staff of the supervisory bodies was genuinely independent.</en>
+      <fr>
+        <Alignment alignment="10823" annotation_id="4315">
+          <DiscourseConnective annotation_id="4315" sense="Contingency.Cause.Result">Ainsi</DiscourseConnective>
+        </Alignment>, c'est l'émetteur qui paie, <Alignment alignment="2493" annotation_id="4349">
+          <DiscourseConnective annotation_id="4349" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> dès lors il existe clairement un conflit d'intérêts, qui pourrait être atténué <Alignment alignment="3865" annotation_id="4433">
+          <DiscourseConnective annotation_id="4433" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les émetteurs n'étaient plus conseillés <Alignment alignment="3906" annotation_id="4476">
+          <DiscourseConnective annotation_id="4476" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="3910" annotation_id="4479">
+          <DiscourseConnective annotation_id="4479" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> le personnel des organismes de surveillance était véritablement indépendant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3976" docOffset="28">
+      <en>Other possible models include a subscriber-pays model.</en>
+      <fr>Le modèle du "souscripteur-payeur" fait partie des autres modèles possibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4031" docOffset="29">
+      <en>Here, there is obviously the risk of conflicts of interest as well as of this being an invitation to freeloaders.</en>
+      <fr>Ce modèle comporte clairement un risque de conflit d'intérêts <DiscourseConnective annotation_id="4698">et</DiscourseConnective>, constitue <DiscourseConnective annotation_id="4712">par ailleurs</DiscourseConnective> une invitation au parasitisme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4145" docOffset="30">
+      <en>
+        <Alignment alignment="4756" annotation_id="4145">
+          <DiscourseConnective annotation_id="4145" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, this needs consideration.</en>
+      <fr>
+        <Alignment alignment="4604" annotation_id="4756">
+          <DiscourseConnective annotation_id="4756" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, ce point doit être pris en considération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4182" docOffset="31">
+      <en>The third option would be a performance-based payment, <Alignment alignment="22134" annotation_id="4237">
+          <Alignment alignment="18662" annotation_id="4237">
+            <Alignment alignment="12838" annotation_id="4237">
+              <DiscourseConnective annotation_id="4237" sense="Expansion.Restatement">in other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, an up-front payment and <DiscourseConnective annotation_id="4277" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> the final payment only <DiscourseConnective annotation_id="4305" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective> it is clear how good the rating is.</en>
+      <fr>La troisième possibilité serait un modèle de paiement fondé sur la performance; <Alignment alignment="4237" annotation_id="4894">
+          <Alignment alignment="9684" annotation_id="4894">
+            <Alignment alignment="4237" annotation_id="4894">
+              <DiscourseConnective annotation_id="4894" sense="Expansion.Restatement">en d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, il <DiscourseConnective annotation_id="4917">s'</DiscourseConnective>agirait de ne payer que des frais initiaux, <DiscourseConnective annotation_id="4963">tandis que</DiscourseConnective> le solde ne serait versé <DiscourseConnective annotation_id="4999">qu'</DiscourseConnective>une fois connue la qualité de la notation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4346" docOffset="32">
+      <en>The last, but important, point is that we must introduce liability.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5045">Enfin</DiscourseConnective>, <DiscourseConnective annotation_id="5052">et</DiscourseConnective> c'est important, il faut <DiscourseConnective annotation_id="5080">que</DiscourseConnective> nous instaurions une responsabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4414" docOffset="33">
+      <en>Credit rating agencies must accept responsibility for what they actually do, <Alignment alignment="10021" annotation_id="4491">
+          <DiscourseConnective annotation_id="4491" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="5216" annotation_id="4495">
+          <DiscourseConnective annotation_id="4495" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> I believe that we should make them liable, obviously not for the rating as such, but for failures and negligence in their work.</en>
+      <fr>Les agences de notation de crédit doivent assumer la responsabilité de leurs actes <Alignment alignment="4491" annotation_id="5204">
+          <DiscourseConnective annotation_id="5204" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je crois <Alignment alignment="4495" annotation_id="5216">
+          <DiscourseConnective annotation_id="5216" sense="Contingency.Cause.Result">dès lors que</DiscourseConnective>
+        </Alignment> nous devons les rendre responsables, à l'évidence non <DiscourseConnective annotation_id="5283">pour</DiscourseConnective> la notation en <DiscourseConnective annotation_id="5303">tant que</DiscourseConnective> telle, <DiscourseConnective annotation_id="5319">mais</DiscourseConnective> <DiscourseConnective annotation_id="5324">pour</DiscourseConnective> toute défaillance <DiscourseConnective annotation_id="5347">ou</DiscourseConnective> négligence affectant leur travail.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4633" id="200" name="Elena Băsescu">
+    <ParallelChunk annotation_id="4633" docOffset="34">
+      <en>(RO) Mr President, the credit rating industry has numerous shortcomings, the most important of which are the lack of competition and transparency, as well as the oligopolistic structures.</en>
+      <fr>(RO) Monsieur le Président, le secteur de la notation de crédit présente de nombreuses lacunes, dont les plus importantes sont l'absence de concurrence <DiscourseConnective annotation_id="5537">et</DiscourseConnective> de transparence et la nature oligopolistique de leurs structures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4821" docOffset="35">
+      <en>Competition would be enhanced by creating a regulatory environment which will promote market entry. This would carry out an in-depth analysis of the current obstacles.</en>
+      <fr>La concurrence serait renforcée <DiscourseConnective annotation_id="5638">si</DiscourseConnective> l'on créait un environnement réglementaire favorisant l'entrée sur le marché, dans lequel les obstacles actuels seraient analysés en profondeur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4989" docOffset="36">
+      <en>I should emphasis how important it is to monitor the progress of the Basel III system and the process relating to Chapter 4 of the Capital Requirements Directive.</en>
+      <fr>Je souhaite souligner combien il importe de suivre l'état d'avancement de l'accord Bâle III <DiscourseConnective annotation_id="5878">et</DiscourseConnective> du processus se rapportant au chapitre 4 de la directive sur les fonds propres réglementaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5152" docOffset="37">
+      <en>There is a need to increase accountability and the powers for monitoring the internal models and imposing preventive measures.</en>
+      <fr>Il est nécessaire de renforcer la responsabilité <DiscourseConnective annotation_id="6025">et</DiscourseConnective> les pouvoirs <DiscourseConnective annotation_id="6041">en</DiscourseConnective> vue du contrôle des modèles internes <DiscourseConnective annotation_id="6081">et</DiscourseConnective> pour imposer des mesures prudentielles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5279" docOffset="38">
+      <en>All rating agencies must abide by the highest standards relating to the publication of information, transparency and management of conflicts of interest.</en>
+      <fr>Toutes les agences de notation doivent se conformer aux normes les plus élevées en matière de divulgation d'informations, de transparence <DiscourseConnective annotation_id="6262">et</DiscourseConnective> de gestion des conflits d'intérêts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5433" docOffset="39">
+      <en>At the moment, Romania's rating has a stable outlook. This could improve <Alignment alignment="5246" annotation_id="5506">
+          <DiscourseConnective annotation_id="5506" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the pace of structural reforms and the stability of the financial sector are maintained.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6301">Pour</DiscourseConnective> l'instant, la notation de la Roumanie est assortie d'une perspective stable, qui pourrait s'améliorer <Alignment alignment="5506" annotation_id="6408">
+          <DiscourseConnective annotation_id="6408" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> le rythme des réformes structurelles <DiscourseConnective annotation_id="6448">et</DiscourseConnective> la stabilité du secteur financier sont maintenus.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5598" id="201" name="Georgios Papanikolaou">
+    <ParallelChunk annotation_id="5598" docOffset="40">
+      <en>(EL) Mr President, the credit rating agencies lost their credibility a long time ago.</en>
+      <fr>(EL) Monsieur le Président, les agences de notation de crédit ont perdu leur crédibilité depuis longtemps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5684" docOffset="41">
+      <en>Our rapporteur is absolutely right on that point.</en>
+      <fr>Notre rapporteur a entièrement raison sur ce point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5734" docOffset="42">
+      <en>They upgrade and downgrade almost everything: countries, banks, municipalities, even public corporations, absolutely everything, <Alignment alignment="16313" annotation_id="5863">
+          <DiscourseConnective annotation_id="5863" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> their ratings are based, for the most part, on undisclosed, unpublished and, hence, non-transparent information.</en>
+      <fr>Elles augmentent <DiscourseConnective annotation_id="6677">ou</DiscourseConnective> abaissent la note de pratiquement tout: des pays, des banques, des villes, voire des entreprises publiques, absolument tout, <Alignment alignment="3911" annotation_id="6805">
+          <DiscourseConnective annotation_id="6805" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> leurs notations se basent, <DiscourseConnective annotation_id="6837">pour</DiscourseConnective> la plupart, sur des informations non divulguées, non publiées <DiscourseConnective annotation_id="6904">et</DiscourseConnective>, <DiscourseConnective annotation_id="6908">par conséquent</DiscourseConnective>, non transparentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5980" docOffset="43">
+      <en>The issue of the lack of transparency and, hence, of the credibility of the data used by credit rating agencies raises an important question: is it fair, is it logical, is it morally correct for ratings that affect the economy and upset the lives of millions of our fellow citizens overnight to be non-transparent and possibly unreliable?</en>
+      <fr>Le problème du manque de transparence <DiscourseConnective annotation_id="6981">et</DiscourseConnective>, partant, de la crédibilité des informations utilisées par les agences de notation de crédit soulève une question importante: est-il juste, logique et moralement acceptable <DiscourseConnective annotation_id="7157">que</DiscourseConnective> des notations qui influencent l'économie <DiscourseConnective annotation_id="7202">et</DiscourseConnective> bouleversent, du jour au lendemain, la vie de millions de citoyens ne soient ni transparentes ni fiables?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6319" docOffset="44">
+      <en>Obviously it is not.</en>
+      <fr>À l'évidence, non.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6340" id="202" name="Jaroslav Paška">
+    <ParallelChunk annotation_id="6340" docOffset="45">
+      <en>(SK) Mr President, in the wake of the financial meltdown, the credit rating agencies, which assess financial product safety, were criticised for their unprofessional and self-serving ratings of financial products.</en>
+      <fr>(SK) Monsieur le Président, <DiscourseConnective annotation_id="7358">à</DiscourseConnective> la suite de la crise financière, les agences de notation de crédit, qui évaluent la sécurité des produits financiers, ont été critiquées <DiscourseConnective annotation_id="7497">pour</DiscourseConnective> leur non-professionnalisme <DiscourseConnective annotation_id="7529">et</DiscourseConnective> leurs notations intéressées des produits financiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6554" docOffset="46">
+      <en>Doubts arose over the fairness and professionalism of their evaluations <Alignment alignment="11296" annotation_id="6626">
+          <DiscourseConnective annotation_id="6626" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> the transparency of their operating mechanisms was found to be wanting, <DiscourseConnective annotation_id="6704" sense="Expansion.Conjunction">and</DiscourseConnective> it is therefore time we looked for ways to improve the system for the constant assessment and rating of financial products.</en>
+      <fr>Des doutes sont apparus <DiscourseConnective annotation_id="7609">quant à</DiscourseConnective> l'équité <DiscourseConnective annotation_id="7626">et</DiscourseConnective> au professionnalisme de leurs évaluations <Alignment alignment="749" annotation_id="7671">
+          <DiscourseConnective annotation_id="7671" sense="Temporal.Asynchronous.Succession">après que</DiscourseConnective>
+        </Alignment> l'on a constaté que la transparence de leurs mécanismes de fonctionnement était insuffisante. Il est <DiscourseConnective annotation_id="7782">dès lors</DiscourseConnective> temps de chercher des solutions <DiscourseConnective annotation_id="7823">pour</DiscourseConnective> améliorer le système <DiscourseConnective annotation_id="7849">et</DiscourseConnective> fournir une évaluation <DiscourseConnective annotation_id="7875">et</DiscourseConnective> une notation constantes des produits financiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6832" docOffset="47">
+      <en>In this light, I consider the report submitted by the rapporteur to be very important, <Alignment alignment="8016" annotation_id="6919">
+          <DiscourseConnective annotation_id="6919" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think that the processes he has outlined will enable us to modify the apparatus used to assess financial products <Alignment alignment="19167" annotation_id="7039">
+          <Alignment alignment="20910" annotation_id="7039">
+            <DiscourseConnective annotation_id="7039" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the conclusions that are offered, either by rating agencies or by other mechanisms, will result in more objective ratings of financial products.</en>
+      <fr>Dans ce contexte, j'estime que le rapport présenté par le rapporteur est très important, <Alignment alignment="7969" annotation_id="8016">
+          <DiscourseConnective annotation_id="8016" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="8028">que</DiscourseConnective> les processus qu'il a exposés nous permettront de modifier le système utilisé <DiscourseConnective annotation_id="8110">pour</DiscourseConnective> évaluer les produits financiers, <Alignment alignment="60" annotation_id="8148">
+          <Alignment alignment="8433" annotation_id="8148">
+            <DiscourseConnective annotation_id="8148" sense="Contingency.Cause.Result">de sorte que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les avis rendus par des agences de notation <DiscourseConnective annotation_id="8205">ou</DiscourseConnective> par d'autres mécanismes se caractérisent par une plus grande objectivité de la notation des produits financiers.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7192" id="203" name="Ilda Figueiredo">
+    <ParallelChunk annotation_id="7192" docOffset="48">
+      <en>(PT) Mr President, experience has clearly shown that credit rating agencies are not credible <Alignment alignment="8440" annotation_id="7285">
+          <DiscourseConnective annotation_id="7285" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that their activities continue to be detrimental to certain countries, whether to their economies or to their sovereign debt.</en>
+      <fr>(PT) Monsieur le Président, l'expérience prouve clairement <DiscourseConnective annotation_id="8380">que</DiscourseConnective> les agences de notation de crédit ne sont pas crédibles <Alignment alignment="7285" annotation_id="8440">
+          <DiscourseConnective annotation_id="8440" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="8443">que</DiscourseConnective> leurs activités continuent de nuire <DiscourseConnective annotation_id="8483">à</DiscourseConnective> certains pays, que ce <DiscourseConnective annotation_id="8507">soit</DiscourseConnective> <DiscourseConnective annotation_id="8512">à</DiscourseConnective> leur économie <DiscourseConnective annotation_id="8528">ou</DiscourseConnective> <DiscourseConnective annotation_id="8531">à</DiscourseConnective> leur dette souveraine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7415" docOffset="49">
+      <en>Today, this is particularly affecting countries that have relatively weak economies.</en>
+      <fr>Aujourd'hui, ce phénomène touche particulièrement les pays dont l'économie est relativement faible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7500" docOffset="50">
+      <en>That is why the intervention of credit rating agencies, which continue to be extremely harmful despite having lost all of their credibility, must be properly controlled.</en>
+      <fr>C'est la raison pour laquelle l'intervention des agences de notation de crédit, qui continuent d'être extrêmement nuisibles <DiscourseConnective annotation_id="8780">bien qu'</DiscourseConnective>elles aient perdu toute crédibilité, doit faire l'objet d'une surveillance adéquate.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7670" docOffset="51">
+      <en>This control should not be limited to transparency rules, but should go further and exert complete control over the international financial system, <Alignment alignment="22345" annotation_id="7818">
+          <DiscourseConnective annotation_id="7818" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7824" sense="Expansion.Conjunction">also</DiscourseConnective> putting an end to tax havens, properly regulating the financial sector with taxes on the movement of speculative capital, and preventing financial capital from continuing to ...</en>
+      <fr>Cette surveillance ne devrait pas se limiter aux règles de transparence, <DiscourseConnective annotation_id="8946">mais</DiscourseConnective> elle devrait aller plus loin <DiscourseConnective annotation_id="8980">et</DiscourseConnective> consister en un contrôle intégral du système financier international <Alignment alignment="4839" annotation_id="9052">
+          <DiscourseConnective annotation_id="9052" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> mettant un terme aux paradis fiscaux, en réglementant correctement le secteur financier grâce à l'instauration de taxes sur les mouvements de capitaux spéculatifs <DiscourseConnective annotation_id="9223">et</DiscourseConnective> en empêchant les capitaux financiers de continuer <DiscourseConnective annotation_id="9276">à</DiscourseConnective> ...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8007" docOffset="52">
+      <en>(The President cut off the speaker)</en>
+      <fr>(Le Président retire la parole à l'oratrice)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8043" id="204" name="Nikolaos Salavrakos">
+    <ParallelChunk annotation_id="8043" docOffset="53">
+      <en>(EL) Mr President, I absolutely agree with the rapporteur on all five points of his proposals on so-called rating agencies and the exaggerated impact which they have on the global economy and on the European economy.</en>
+      <fr>(EL) Monsieur le Président, j'adhère tout à fait aux idées du rapporteur sur les cinq points de ses propositions concernant les agences de notation <DiscourseConnective annotation_id="9475">et</DiscourseConnective> l'influence exagérée <DiscourseConnective annotation_id="9499">qu'</DiscourseConnective>elles exercent sur l'économie mondiale <DiscourseConnective annotation_id="9541">et</DiscourseConnective> sur l'économie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8260" docOffset="54">
+      <en>These firms cannot, at the same time, engage in commercial activities which are similar or relate to their supervisory or rating role.</en>
+      <fr>Ces agences ne peuvent pas, <DiscourseConnective annotation_id="9599">en même temps</DiscourseConnective>, se livrer <DiscourseConnective annotation_id="9624">à</DiscourseConnective> des activités commerciales similaires <DiscourseConnective annotation_id="9664">ou</DiscourseConnective> liées <DiscourseConnective annotation_id="9673">à</DiscourseConnective> leur rôle de surveillance <DiscourseConnective annotation_id="9701">ou</DiscourseConnective> de notation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8395" docOffset="55">
+      <en>We are calling for controls on reports by these agencies, for certain basic principles to be adopted, and for liability for compensation to be introduced for losses caused to states which were poorly evaluated or misleadingly evaluated.</en>
+      <fr>Nous prônons des contrôles sur les rapports établis par ces agences, l'adoption de certains principes de base <DiscourseConnective annotation_id="9827">et</DiscourseConnective> l'instauration d'une responsabilité en matière d'indemnisation pour les pertes causées aux pays qui ont obtenu une évaluation de mauvaise qualité <DiscourseConnective annotation_id="9976">ou</DiscourseConnective> erronée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8632" docOffset="56">
+      <en>I <Alignment alignment="2922" annotation_id="8634">
+          <DiscourseConnective annotation_id="8634" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> propose that basic accounting principles be introduced and applied in all the Member States of the European Union, <DiscourseConnective annotation_id="8754" sense="Contingency.Cause.Result">so</DiscourseConnective> <DiscourseConnective annotation_id="8757" sense="Temporal.Synchrony">as</DiscourseConnective> to highlight the value, the official valuation of the property of these states, <Alignment alignment="9389" annotation_id="8840">
+          <Alignment alignment="20463" annotation_id="8840">
+            <DiscourseConnective annotation_id="8840" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we have assets and liabilities <Alignment alignment="10263" annotation_id="8879">
+          <DiscourseConnective annotation_id="8879" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> these states cannot be left prey to the whims of rating agencies and the parties they represent.</en>
+      <fr>Je propose <Alignment alignment="8634" annotation_id="9999">
+          <DiscourseConnective annotation_id="9999" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la mise en place <DiscourseConnective annotation_id="10026">et</DiscourseConnective> l'application dans tous les États membres de l'Union européenne de principes comptables de base visant <DiscourseConnective annotation_id="10132">à</DiscourseConnective> mettre en lumière la valeur, l'évaluation officielle des biens de ces pays, <Alignment alignment="8840" annotation_id="10210">
+          <Alignment alignment="4765" annotation_id="10210">
+            <DiscourseConnective annotation_id="10210" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous connaissions leur actif <DiscourseConnective annotation_id="10248">et</DiscourseConnective> leur passif <Alignment alignment="18" annotation_id="10263">
+          <DiscourseConnective annotation_id="10263" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'ils ne deviennent pas la proie des caprices des agences de notation <DiscourseConnective annotation_id="10337">et</DiscourseConnective> des parties qu'elles représentent.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8980" id="205" name="Viviane Reding">
+    <ParallelChunk annotation_id="8980" docOffset="57">
+      <en>Vice-President of the Commission. - Mr President, Commissioner Barnier is currently in the United States meeting with his counterparts <Alignment alignment="10491" annotation_id="9115">
+          <DiscourseConnective annotation_id="9115" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> he has asked me to convey to you the following statement in reply to Wolf Klinz's own-initiative report on rating agencies, which was adopted by the Committee on Economic and Monetary Affairs in March.</en>
+      <fr>Monsieur le Président, le commissaire Barnier assiste actuellement <DiscourseConnective annotation_id="10442">à</DiscourseConnective> une réunion avec ses homologues aux États-Unis <Alignment alignment="4410" annotation_id="10491">
+          <DiscourseConnective annotation_id="10491" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> m'a demandé de vous transmettre le message suivant <DiscourseConnective annotation_id="10545">en</DiscourseConnective> réponse au rapport d'initiative présenté par Wolf Klinz sur les agences de notation, qui a été adopté <DiscourseConnective annotation_id="10650">en</DiscourseConnective> mars par la commission des affaires économiques <DiscourseConnective annotation_id="10701">et</DiscourseConnective> monétaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9321" docOffset="58">
+      <en>The Commissioner agrees that shortcomings in the working methods of credit rating agencies are widely recognised today as having contributed to the financial crisis.</en>
+      <fr>Le commissaire convient <DiscourseConnective annotation_id="10740">qu'</DiscourseConnective>il est largement admis aujourd'hui <DiscourseConnective annotation_id="10778">que</DiscourseConnective> les lacunes relevées dans les méthodes de travail des agences de notation de crédit ont contribué <DiscourseConnective annotation_id="10880">à</DiscourseConnective> la crise financière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9487" docOffset="59">
+      <en>In order to address these concerns, and in accordance with G20 commitments, the EU reacted very quickly by adopting - already in 2009 - a regulation on credit rating agencies.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10903">Pour</DiscourseConnective> répondre à ces préoccupations <DiscourseConnective annotation_id="10938">et</DiscourseConnective> conformément aux engagements pris par le G20, l'UE a réagi très rapidement <DiscourseConnective annotation_id="11016">en</DiscourseConnective> adoptant, dès 2009, un règlement sur les agences de notation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9663" docOffset="60">
+      <en>This introduces strict requirements with which agencies must comply in order to eliminate potential conflicts of interest and to improve the quality of rating and methodologies as well as the transparency of the ratings.</en>
+      <fr>Celui-ci prévoit des exigences strictes auxquelles les agences doivent se conformer <DiscourseConnective annotation_id="11165">pour</DiscourseConnective> éliminer les éventuels conflits d'intérêt <DiscourseConnective annotation_id="11212">et</DiscourseConnective> améliorer la qualité de la notation <DiscourseConnective annotation_id="11251">et</DiscourseConnective> des méthodes, <DiscourseConnective annotation_id="11268">ainsi</DiscourseConnective> que la transparence des notations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9884" docOffset="61">
+      <en>As a second step, following the establishment of the three new European financial supervisory agencies, the regulation of credit rating agencies will be strengthened by the introduction of centralised supervision by the European Supervisory Markets Authority.</en>
+      <fr>La deuxième étape, à la suite de la création des trois agences de surveillance financière européennes, consiste à renforcer le règlement relatif aux agences de notation de crédit <DiscourseConnective annotation_id="11488">en</DiscourseConnective> instaurant une surveillance centralisée effectuée par l'Autorité européenne de surveillance des marchés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10144" docOffset="62">
+      <en>The amending regulation became effective on 1 June 2011. We will pay very close attention to the correct application of this legislation.</en>
+      <fr>La modification du règlement est entrée en vigueur le 1er juin 2011 et nous veillerons de très près <DiscourseConnective annotation_id="11696">à</DiscourseConnective> ce qu'il soit correctement appliqué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10282" docOffset="63">
+      <en>Nowadays, the European regulatory framework is a model for other jurisdictions.</en>
+      <fr>Le cadre réglementaire européen est actuellement un modèle <DiscourseConnective annotation_id="11794">pour</DiscourseConnective> d'autres juridictions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10362" docOffset="64">
+      <en>
+        <Alignment alignment="28560" annotation_id="10362">
+          <DiscourseConnective annotation_id="10362" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the developments in the European markets following the sovereign debt crisis in spring 2010 make it clear that further review and strengthening is required.</en>
+      <fr>
+        <Alignment alignment="10362" annotation_id="11822">
+          <DiscourseConnective annotation_id="11822" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, l'évolution sur les marchés européens à la suite de la crise de la dette souveraine du printemps 2010 a clairement indiqué <DiscourseConnective annotation_id="11956">qu'</DiscourseConnective>une révision <DiscourseConnective annotation_id="11972">et</DiscourseConnective> un renforcement supplémentaires de la législation <DiscourseConnective annotation_id="12025">s'</DiscourseConnective>imposent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10528" docOffset="65">
+      <en>For this reason, the Commission undertook in June 2010 to analyse the topics in depth.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12037">C'est pourquoi</DiscourseConnective> la Commission s'est engagée <DiscourseConnective annotation_id="12080">en</DiscourseConnective> juin 2010 <DiscourseConnective annotation_id="12093">à</DiscourseConnective> étudier le sujet <DiscourseConnective annotation_id="12112">en</DiscourseConnective> profondeur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10615" docOffset="66">
+      <en>A public consultation was carried out, the Commission services have evaluated the responses and are working on an impact assessment with a view to issuing legislative proposals in the course of this year.</en>
+      <fr>Une consultation publique a été réalisée, dont les réponses ont été examinées par les services de la Commission. Ceux-ci préparent une analyse d'impact <DiscourseConnective annotation_id="12279">dans le but de</DiscourseConnective> formuler des propositions législatives dans le courant de l'année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10820" docOffset="67">
+      <en>In this context, the Commission will examine measures to reduce excessive dependence on external ratings, improve transparency, promote competition, introduce the principle of liability and reduce the risk of potential conflicts of interest due to the issuer-pays payment model.</en>
+      <fr>Dans ce contexte, la Commission examinera des mesures destinées <DiscourseConnective annotation_id="12425">à</DiscourseConnective> réduire la dépendance excessive vis-à-vis des notations externes, à améliorer la transparence, à promouvoir la concurrence, à introduire le principe de responsabilité <DiscourseConnective annotation_id="12594">et</DiscourseConnective> à diminuer le risque d'éventuels conflits d'intérêts inhérent au modèle de "l'émetteur-payeur".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11099" docOffset="68">
+      <en>We know that these are very complex issues <Alignment alignment="12746" annotation_id="11142">
+          <DiscourseConnective annotation_id="11142" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we want to be sure that we address them correctly.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="12705">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="12711">s'</DiscourseConnective>agit de questions très complexes <Alignment alignment="2914" annotation_id="12746">
+          <DiscourseConnective annotation_id="12746" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous voulons être sûrs de les aborder correctement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11197" docOffset="69">
+      <en>In this context, we have looked with great interest at Mr Klinz's own-initiative report which covers the topics we are currently reviewing and makes a very big contribution to our legislative initiative.</en>
+      <fr>Dans ce contexte, nous avons examiné avec un grand intérêt le rapport d'initiative de M. Klinz, qui couvre les sujets sur lesquels nous nous penchons actuellement <DiscourseConnective annotation_id="12964">et</DiscourseConnective> a apporté une contribution très importante <DiscourseConnective annotation_id="13010">à</DiscourseConnective> notre initiative législative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11401" docOffset="70">
+      <en>Last but not least, at a global level, in October 2010, the Financial Stability Board issued a number of principles aimed at reducing the dependency of financial institutions on credit ratings.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13042">Enfin</DiscourseConnective>, <DiscourseConnective annotation_id="13049">et</DiscourseConnective> c'est loin d'être négligeable, au niveau mondial, le Conseil de stabilité financière a publié <DiscourseConnective annotation_id="13146">en</DiscourseConnective> octobre 2010 un certain nombre de principes visant <DiscourseConnective annotation_id="13200">à</DiscourseConnective> réduire la dépendance des institutions financières <DiscourseConnective annotation_id="13253">à</DiscourseConnective> l'égard des notations de crédit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11595" docOffset="71">
+      <en>In accordance with these principles we intend to introduce measures against excessive dependence on ratings in our forthcoming legislative proposal for the banking sector, the so-called CRD4.</en>
+      <fr>Conformément à ces principes, nous envisageons d'instaurer des mesures contre la dépendance excessive vis-à-vis des notations dans notre prochaine proposition législative <DiscourseConnective annotation_id="13459">pour</DiscourseConnective> le secteur bancaire, la "CRD4".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11787" id="206" name="President">
+    <ParallelChunk annotation_id="11787" docOffset="72">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11809" docOffset="73">
+      <en>The vote will take place on Tuesday, 7 June at 12:00.</en>
+      <fr>Le vote aura lieu mardi 7 juin, <DiscourseConnective annotation_id="13547">à</DiscourseConnective> 12 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11863" docOffset="74">
+      <en>Written statements (Rule 149)</en>
+      <fr>Déclaration écrite (article 149)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11893" id="207" language="RO" name="George Sabin Cutaş">
+    <ParallelChunk annotation_id="11893" docOffset="75">
+      <en>Prior to the Lehman Brothers investment bank going bankrupt, it was given the highest rating by the main credit rating agencies.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13593">Avant</DiscourseConnective> la faillite de la banque d'investissements Lehman Brothers, les principales agences de notation de crédit lui attribuaient la notation la plus élevée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12022" docOffset="76">
+      <en>They <Alignment alignment="13766" annotation_id="12027">
+          <DiscourseConnective annotation_id="12027" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> thought that Iceland's three biggest commercial banks were sound a few days <Alignment alignment="13866" annotation_id="12108">
+          <DiscourseConnective annotation_id="12108" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> they collapsed.</en>
+      <fr>Elles pensaient <Alignment alignment="12027" annotation_id="13766">
+          <DiscourseConnective annotation_id="13766" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13776">que</DiscourseConnective> les trois plus grandes banques commerciales islandaises étaient saines quelques jours <Alignment alignment="13702" annotation_id="13866">
+          <DiscourseConnective annotation_id="13866" sense="Temporal.Asynchronous.Precedence">avant</DiscourseConnective>
+        </Alignment> leur chute.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12131" docOffset="77">
+      <en>
+        <Alignment alignment="11314" annotation_id="12131">
+          <Alignment alignment="25948" annotation_id="12131">
+            <DiscourseConnective annotation_id="12131" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the downgrading of Greece's rating has not taken into account the launch of its economic recovery programme.</en>
+      <fr>
+        <Alignment alignment="12131" annotation_id="13884">
+          <Alignment alignment="12131" annotation_id="13884">
+            <DiscourseConnective annotation_id="13884" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la baisse de la notation de la Grèce n'a pas pris en considération le lancement du programme de reprise économique de ce pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12253" docOffset="78">
+      <en>The economic and financial crisis has highlighted credit rating agencies' oligopolistic structure, as well as their lack of competition, transparency and accountability.</en>
+      <fr>La crise économique <DiscourseConnective annotation_id="14045">et</DiscourseConnective> financière a mis en évidence la structure oligopolistique des agences de notation de crédit, <DiscourseConnective annotation_id="14141">ainsi</DiscourseConnective> que l'absence de concurrence, de transparence <DiscourseConnective annotation_id="14193">et</DiscourseConnective> de responsabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12423" docOffset="79">
+      <en>In a world dominated by three such institutions, greater diversity is needed, along with a new way of working.</en>
+      <fr>Dans un monde dominé par trois institutions de ce type, une plus grande diversité <DiscourseConnective annotation_id="14297">s'</DiscourseConnective>impose, <DiscourseConnective annotation_id="14307">ainsi</DiscourseConnective> qu'une nouvelle manière de travailler.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12534" docOffset="80">
+      <en>I <Alignment alignment="30637" annotation_id="12536">
+          <DiscourseConnective annotation_id="12536" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> support the notion of creating a public European credit rating agency as an alternative to the private institutions of this kind.</en>
+      <fr>Je soutiens <Alignment alignment="12536" annotation_id="14364">
+          <DiscourseConnective annotation_id="14364" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> l'idée de la création d'une agence de notation de crédit européenne publique <DiscourseConnective annotation_id="14450">comme</DiscourseConnective> solution de remplacement aux institutions privées de ce genre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12676" docOffset="81">
+      <en>It would become compulsory to obtain a rating from the European agency, which would supplement the ratings offered by the traditional agencies, <DiscourseConnective annotation_id="12820" sense="Contingency.Cause.Result">thereby</DiscourseConnective> boosting competition for the fairest rating.</en>
+      <fr>Il serait obligatoire d'obtenir une notation de l'agence européenne, qui complèterait les notations attribuées par les agences classiques, stimulant ainsi la concurrence <DiscourseConnective annotation_id="14689">pour</DiscourseConnective> la notation la plus juste.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

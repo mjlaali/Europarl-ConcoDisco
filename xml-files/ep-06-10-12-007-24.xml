@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>24.</en>
+    <fr>24.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Future action in the field of patents (vote)</en>
+    <fr>Actions futures dans le domaine des brevets (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="49" docOffset="2">
+    <en>- Following the vote on Amendment 7:</en>
+    <fr>- <DiscourseConnective annotation_id="57">Après</DiscourseConnective> le vote sur l'amendement 7:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="86" id="093" name="Eva Lichtenberger">
+    <ParallelChunk annotation_id="86" docOffset="3">
+      <en>(DE) Mr President, there are differences between the French and English translations of the original document of which we must take note.</en>
+      <fr>(DE) Monsieur le Président, il existe des différences entre les versions française <DiscourseConnective annotation_id="174">et</DiscourseConnective> anglaise du document original, nous devons en tenir compte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="224" docOffset="4">
+      <en>
+        <Alignment alignment="237" annotation_id="224">
+          <DiscourseConnective annotation_id="224" sense="Comparison.Contrast">Whereas</DiscourseConnective>
+        </Alignment> the English text makes explicit reference to accession to the Munich Convention, the French version talks in terms of discussion about accession to it, <DiscourseConnective annotation_id="384" sense="Expansion.Conjunction">and</DiscourseConnective> there is a considerable difference between the two.</en>
+      <fr>
+        <Alignment alignment="224" annotation_id="237">
+          <DiscourseConnective annotation_id="237" sense="Comparison.Contrast">Alors que</DiscourseConnective>
+        </Alignment> le texte anglais fait explicitement référence <DiscourseConnective annotation_id="293">à</DiscourseConnective> une adhésion <DiscourseConnective annotation_id="308">à</DiscourseConnective> la convention de Munich, la version française évoque des pourparlers relatifs à une adhésion <DiscourseConnective annotation_id="403">à</DiscourseConnective> cette convention. La différence entre les deux est considérable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="440" docOffset="5">
+      <en>We now, <Alignment alignment="470" annotation_id="448">
+          <DiscourseConnective annotation_id="448" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, do not know how the text is to be interpreted.</en>
+      <fr>
+        <Alignment alignment="448" annotation_id="470">
+          <DiscourseConnective annotation_id="470" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+        </Alignment>, nous ignorons actuellement de quelle manière il convient d'interpréter le texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="506" docOffset="6">
+      <en>
+        <Alignment alignment="265640" annotation_id="506">
+          <DiscourseConnective annotation_id="506" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the English version is normative, then the French MEPs need to be aware that they are agreeing to accession to the Munich Convention, even <Alignment alignment="699" annotation_id="648">
+          <DiscourseConnective annotation_id="648" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> the formulation in the French version is rather softer.</en>
+      <fr>
+        <Alignment alignment="506" annotation_id="561">
+          <DiscourseConnective annotation_id="561" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> la version anglaise fait foi, les députés français doivent savoir <DiscourseConnective annotation_id="630">qu'</DiscourseConnective>ils donnent leur accord <DiscourseConnective annotation_id="657">à</DiscourseConnective> une adhésion <DiscourseConnective annotation_id="672">à</DiscourseConnective> la convention de Munich, <Alignment alignment="648" annotation_id="699">
+          <DiscourseConnective annotation_id="699" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> la formulation de la version française est moins catégorique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="711" docOffset="7">
+      <en>The differences are in the detail.</en>
+      <fr>Les différences relèvent du détail.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="746" id="094" name="President">
+    <ParallelChunk annotation_id="746" docOffset="8">
+      <en>All right, then the English version is valid.</en>
+      <fr>C'est entendu, la version anglaise fait foi <DiscourseConnective annotation_id="849">dans ce cas</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

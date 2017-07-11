@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>18.</en>
+    <fr>18.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Europol's Staff Regulations (vote)</en>
+    <fr>Statut du personnel d'Europol (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+    <en>- Before the vote on the draft legislative resolution:</en>
+    <fr>- <DiscourseConnective annotation_id="43">Avant</DiscourseConnective> le vote sur la proposition de résolution législative:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="94" id="072" name="Claude Moraes ">
+    <ParallelChunk annotation_id="94" docOffset="3">
+      <en>rapporteur. - Mr President, the same statement as before.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je répète mes propos antérieurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="152" docOffset="4">
+      <en>
+        <Alignment alignment="178" annotation_id="152">
+          <DiscourseConnective annotation_id="152" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> I recommend voting for the legislative resolution.</en>
+      <fr>
+        <Alignment alignment="152" annotation_id="178">
+          <DiscourseConnective annotation_id="178" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, je recommande de voter en faveur de la résolution législative.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

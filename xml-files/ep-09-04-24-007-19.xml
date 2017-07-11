@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>19.</en>
+    <fr>19.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Facility providing mid-term financial assistance for Member States' balances of payments</en>
+    <fr>Mécanisme de soutien financier à moyen terme des balances des paiements des États membres</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="93" docOffset="2">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="96">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="111" id="142" name="Pervenche Berès">
+    <ParallelChunk annotation_id="111" docOffset="3">
+      <en>(FR) Madam President, I would like to speak at this point, <Alignment alignment="331013" annotation_id="170">
+          <DiscourseConnective annotation_id="170" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we in the Committee on Economic and Monetary Affairs had a significant debate on the issues surrounding the loan, <Alignment alignment="2363" annotation_id="292">
+          <DiscourseConnective annotation_id="292" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Group of the European People's Party (Christian Democrats) and European Democrats had tabled an amendment considering that there was no legal basis for a European loan.</en>
+      <fr>Madame la Présidente, c'est effectivement ici que je voudrais intervenir <Alignment alignment="170" annotation_id="183">
+          <DiscourseConnective annotation_id="183" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous avons eu, en commission économique <DiscourseConnective annotation_id="233">et</DiscourseConnective> monétaire, un débat important autour des enjeux de l'emprunt, <Alignment alignment="292" annotation_id="298">
+          <DiscourseConnective annotation_id="298" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le PPE avait déposé un amendement pour considérer <DiscourseConnective annotation_id="351">qu'</DiscourseConnective>il n'y avait pas de base légale <DiscourseConnective annotation_id="386">pour</DiscourseConnective> un emprunt européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="469" docOffset="4">
+      <en>We had agreed on an amendment that we drew up following an agreement with Mr Langen, who was the principal negotiator for the PPE Group, although not the shadow rapporteur for this matter, to add that there is no specific basis for the Community loan. It was under these circumstances that we tabled Amendment 2, <DiscourseConnective annotation_id="782" sense="Contingency.Cause.Result">so</DiscourseConnective> I am quite surprised that well-informed experts have told me that on the PPE list there was a minus against this amendment, <DiscourseConnective annotation_id="909" sense="Expansion.Conjunction">and</DiscourseConnective> I would like to give Mr Langen the opportunity to correct the PPE list.</en>
+      <fr>Nous étions convenus d'un amendement que nous avons ainsi rédigé après un accord avec Werner Langen, qui était le principal négociateur du PPE, même s'il n'était pas rapporteur fictif en titre dans cette affaire, pour rajouter qu'il n'y a pas de base légale spécifique pour l'emprunt communautaire; c'est dans ces conditions que nous avons déposé cet amendement 2, donc je suis assez étonnée que des experts avertis m'aient informée que sur la liste du PPE, il y avait un moins à cet amendement, et je voudrais donner l'occasion à M. Langen de corriger la liste du PPE.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="985" id="143" name="Werner Langen">
+    <ParallelChunk annotation_id="985" docOffset="5">
+      <en>(DE) Madam President, there is no reason for me to explain how my group's voting list is put together.</en>
+      <fr>(DE) Madame la Présidente, je ne vois pas pourquoi je devrais expliquer comment la liste de notre groupe est établie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1088" docOffset="6">
+      <en>We have discussed it <Alignment alignment="1122" annotation_id="1109">
+          <DiscourseConnective annotation_id="1109" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="340806" annotation_id="1114">
+          <DiscourseConnective annotation_id="1114" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> re-examining it, we are able to give our full support to this motion.</en>
+      <fr>Nous en avons discuté <Alignment alignment="769" annotation_id="1122">
+          <DiscourseConnective annotation_id="1122" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="187" annotation_id="1126">
+          <DiscourseConnective annotation_id="1126" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> réexamen, nous sommes en mesure de soutenir pleinement cette résolution.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="014" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>
+        <Alignment alignment="441" annotation_id="8">
+          <DiscourseConnective annotation_id="8" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> we move on down the list of speakers, I would just like to take the opportunity to bid welcome to a guest who is following our debate today, namely, Serbia's Deputy Prime Minister, Mr Božidar Đelić.</en>
+      <fr>
+        <Alignment alignment="39" annotation_id="22">
+          <DiscourseConnective annotation_id="22" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> passer <DiscourseConnective annotation_id="38">à</DiscourseConnective> la liste des orateurs, je voudrais souhaiter la bienvenue <DiscourseConnective annotation_id="98">à</DiscourseConnective> un invité qui suit notre débat aujourd'hui. Il <DiscourseConnective annotation_id="147">s'</DiscourseConnective>agit du vice-Premier ministre serbe, M. Božidar Đelić.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="214" docOffset="2">
+      <en>A very warm welcome to you, Mr Đelić.</en>
+      <fr>Monsieur Đelić, nous vous souhaitons la bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="252" docOffset="3">
+      <en>It is nice to have you with us.</en>
+      <fr>C'est un plaisir de vous avoir parmi nous.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

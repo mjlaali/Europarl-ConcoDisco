@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>8.</en>
+    <fr>8.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>European rail network for competitive freight (</en>
+    <fr>Réseau ferroviaire européen <DiscourseConnective annotation_id="31">pour</DiscourseConnective> un fret compétitif (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="51" docOffset="2">
+    <en>- After the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="59">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="69" id="169" name="Robert Atkins">
+    <ParallelChunk annotation_id="69" docOffset="3">
+      <en>Mr President, sorry to be a pain yet again <Alignment alignment="141" annotation_id="112">
+          <DiscourseConnective annotation_id="112" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> there is actually a fourth roll-call vote over the page.</en>
+      <fr>(EN) Monsieur le Président, désolé d'être une nouvelle fois pénible <Alignment alignment="112" annotation_id="141">
+          <DiscourseConnective annotation_id="141" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il y a un quatrième vote par appel nominal sur la page.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="173" id="170" name="President">
+    <ParallelChunk annotation_id="173" docOffset="4">
+      <en>I am told that a new version of the voting list was issued, <DiscourseConnective annotation_id="233" sense="Contingency.Cause.Result">so that</DiscourseConnective> presumably was ruled out of order.</en>
+      <fr>On m'a dit <DiscourseConnective annotation_id="213">qu'</DiscourseConnective>une nouvelle version de la liste de vote avait été publiée, ce vote a donc probablement été retiré de l'ordre du jour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="276" docOffset="5">
+      <en>We have <Alignment alignment="349" annotation_id="284">
+          <DiscourseConnective annotation_id="284" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> completed the vote on the Marinescu report.</en>
+      <fr>Nous en avons <Alignment alignment="284" annotation_id="349">
+          <DiscourseConnective annotation_id="349" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> terminé avec le vote sur le rapport Marinescu.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

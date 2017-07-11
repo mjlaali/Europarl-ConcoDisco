@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Financing the common agricultural policy (vote)</en>
+    <fr>Financement de la politique agricole commune (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="51" docOffset="2">
+    <en>- Report: Jorgo Chatzimarkakis</en>
+    <fr>- Rapport: Jorgo Chatzimarkakis</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="82" docOffset="3">
+    <en>- Before the final vote:</en>
+    <fr>- <DiscourseConnective annotation_id="89">Avant</DiscourseConnective> le vote final:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="107" id="061" name="Reinhard Rack">
+    <ParallelChunk annotation_id="107" docOffset="4">
+      <en>(DE) Madam President, in this House, neither the lift system nor the bell is working.</en>
+      <fr>(DE) Madame la Présidente, dans cette assemblée, ni le système d'ascenseurs, ni la sonnette ne fonctionne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="193" docOffset="5">
+      <en>That is the reason why many of us did not manage to get here on time, <DiscourseConnective annotation_id="263" sense="Contingency.Cause.Result">so</DiscourseConnective> perhaps we could ask the relevant services to get the bell to actually ring, please.</en>
+      <fr>
+        <DiscourseConnective annotation_id="217">C'est pourquoi</DiscourseConnective> beaucoup d'entre nous n'ont pas pu arriver <DiscourseConnective annotation_id="275">à</DiscourseConnective> temps. Pourrait-on s'il vous plaît demander aux services compétents de réparer la sonnette?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="351" id="062" name="President">
+    <ParallelChunk annotation_id="351" docOffset="6">
+      <en>The vote was scheduled for 11.00 <Alignment alignment="404" annotation_id="384">
+          <DiscourseConnective annotation_id="384" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have tried to start on time.</en>
+      <fr>Le vote était prévu <DiscourseConnective annotation_id="389">pour</DiscourseConnective> 11 heures <Alignment alignment="384" annotation_id="404">
+          <DiscourseConnective annotation_id="404" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous avons essayé de commencer <DiscourseConnective annotation_id="438">à</DiscourseConnective> l'heure.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

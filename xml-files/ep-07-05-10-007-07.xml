@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>7.</en>
+    <fr>7.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>EU-Russia summit (vote)</en>
+    <fr>Sommet UE/Russie (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="27" docOffset="2">
+    <en>- Motion for a resolution:</en>
+    <fr>- Proposition de résolution (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="54" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="59">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="73" id="086" name="President">
+    <ParallelChunk annotation_id="73" docOffset="4">
+      <en>I wish to inform you that the Group of the Alliance of Liberals and Democrats for Europe has withdrawn from the joint motion for a resolution.</en>
+      <fr>Je vous informe <DiscourseConnective annotation_id="89">que</DiscourseConnective> le groupe de l'Alliance des démocrates <DiscourseConnective annotation_id="132">et</DiscourseConnective> des libéraux <DiscourseConnective annotation_id="148">pour</DiscourseConnective> l'Europe s'est retiré de la proposition de résolution commune.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="216" docOffset="5">
+      <en>- Before the vote on paragraph 2:</en>
+      <fr>- <DiscourseConnective annotation_id="218">Avant</DiscourseConnective> le vote sur le paragraphe 2</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="250" id="088" name="Charles Tannock">
+    <ParallelChunk annotation_id="250" docOffset="6">
+      <en>Mr President, I would like to move the following oral amendment on behalf of the PPE-DE Group.</en>
+      <fr>(EN) Monsieur le Président, je voudrais proposer l'amendement oral suivant au nom du groupe PPE-DE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="345" docOffset="7">
+      <en>'Stresses the importance of strengthening unity and solidarity among the EU Member States in their relations with Russia. Welcomes, <Alignment alignment="562891" annotation_id="477">
+          <DiscourseConnective annotation_id="477" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, the common line taken by the EU in the negotiations with Moscow on the lifting of Russia's ban on Polish agricultural products;'.</en>
+      <fr>"Souligne l'importance de l'unité <DiscourseConnective annotation_id="386">et</DiscourseConnective> de la solidarité entre États membres de l'Union européenne dans leurs relations avec la Russie; se félicite <Alignment alignment="477" annotation_id="497">
+          <DiscourseConnective annotation_id="497" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> de l'approche commune adoptée par l'UE dans les négociations avec Moscou sur la levée de l'embargo russe frappant les exportations de viande polonaise".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="618" docOffset="8">
+      <en>(Parliament accepted the oral amendment)</en>
+      <fr>(Le Parlement adopte l'amendement oral)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="659" docOffset="9">
+      <en>- Before the vote on Amendment 11:</en>
+      <fr>- <DiscourseConnective annotation_id="697">Avant</DiscourseConnective> le vote sur l'amendement 11</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="694" id="090" name="Daniel Cohn-Bendit">
+    <ParallelChunk annotation_id="694" docOffset="10">
+      <en>(FR) Ladies and gentlemen, in view of the discussion that we had yesterday, we should like to replace in the text:</en>
+      <fr>Chers collègues, vu la discussion <DiscourseConnective annotation_id="765">que</DiscourseConnective> nous avons eue hier, nous voudrions remplacer dans le texte:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="809" docOffset="11">
+      <en>'Calls on the European Union to demonstrate solidarity with Estonia in the context of recent events in Tallinn;'</en>
+      <fr>(EN) "appelle l'Union européenne <DiscourseConnective annotation_id="863">à</DiscourseConnective> faire preuve de solidarité <DiscourseConnective annotation_id="892">à</DiscourseConnective> l'égard de l'Estonie dans le contexte des récents événements de Tallinn;"</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="922" docOffset="12">
+      <en>(FR) Where Tallinn appears in the text, we would like,</en>
+      <fr>Dans le texte, là où apparaît Tallinn, nous voudrions,</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="977" docOffset="13">
+      <en>'in the context of the recent events in Moscow.'</en>
+      <fr>(EN) "dans le contexte des récents événements de Moscou."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1026" docOffset="14">
+      <en>The main problem was the way events were handled in Moscow, rather than in Tallinn, <DiscourseConnective annotation_id="1110" sense="Expansion.Conjunction">and</DiscourseConnective> we would <Alignment alignment="1205" annotation_id="1123">
+          <DiscourseConnective annotation_id="1123" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> prefer the text to read 'the events in Moscow'.</en>
+      <fr>Le problème principal a été la manière dont les événements ont été traités <DiscourseConnective annotation_id="1156">à</DiscourseConnective> Moscou, <DiscourseConnective annotation_id="1166">plutôt qu'</DiscourseConnective>à Tallinn. Nous préférerions <Alignment alignment="1123" annotation_id="1205">
+          <DiscourseConnective annotation_id="1205" sense="Contingency.Cause.Result">dès lors que</DiscourseConnective>
+        </Alignment> le texte dise "les événements <DiscourseConnective annotation_id="1248">à</DiscourseConnective> Moscou".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1181" docOffset="15">
+      <en>That would seem more appropriate.</en>
+      <fr>Cela semblerait plus approprié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1215" docOffset="16">
+      <en>(Parliament rejected the oral amendment)</en>
+      <fr>(Le Parlement rejette l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1256" id="095" name="Bart Staes">
+    <ParallelChunk annotation_id="1256" docOffset="17">
+      <en>(NL) Mr President, ladies and gentlemen, on behalf of the Group of the Greens/European Free Alliance, I should like to attempt, by means of an oral amendment, a better and more correct wording to the second part of Paragraph 11, which would <DiscourseConnective annotation_id="1497" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> read <DiscourseConnective annotation_id="1507" sense="Temporal.Synchrony">as</DiscourseConnective> follows, <DiscourseConnective annotation_id="1519" sense="Expansion.Conjunction">and</DiscourseConnective> I will read it out in English: 'in particular by means of enhanced dialogue over Ukraine en Belarus and joint efforts to finally resolve the frozen conflicts in Moldova en the South Caucasus'.</en>
+      <fr>(NL) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="1369">et</DiscourseConnective> Messieurs, au nom du groupe des Verts/Alliance libre européenne, je voudrais tenter, <DiscourseConnective annotation_id="1457">à</DiscourseConnective> l'aide d'un amendement oral, d'aboutir à une formulation meilleure <DiscourseConnective annotation_id="1526">et</DiscourseConnective> plus correcte de la deuxième partie du paragraphe 11, qui donnerait ceci <DiscourseConnective annotation_id="1602">en</DiscourseConnective> anglais: "in particular by means of enhanced dialogue over Ukraine and Belarus and joint efforts to finally resolve the frozen conflicts in Moldova and the South Caucasus".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1716" docOffset="18">
+      <en>'Nagorno-Karabakh and Georgia' would <Alignment alignment="1823" annotation_id="1753">
+          <DiscourseConnective annotation_id="1753" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be deleted and replaced by 'in Moldova and the South Caucasus'.</en>
+      <fr>Le "Nagorny Karabakh <DiscourseConnective annotation_id="1799">et</DiscourseConnective> la Géorgie" seraient <Alignment alignment="1753" annotation_id="1823">
+          <DiscourseConnective annotation_id="1823" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> effacés <DiscourseConnective annotation_id="1836">et</DiscourseConnective> remplacés par "<DiscourseConnective annotation_id="1854">en</DiscourseConnective> Moldavie <DiscourseConnective annotation_id="1866">et</DiscourseConnective> dans le Caucase du Sud".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1827" docOffset="19">
+      <en>(Parliament rejected the oral amendment)</en>
+      <fr>(Le Parlement rejette l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

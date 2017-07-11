@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>European Union Agency for Fundamental Rights (vote)</en>
+    <fr>Création d'une Agence des droits fondamentaux de l'Union européenne (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="55" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="80">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="74" id="079" name="Kinga Gál ">
+    <ParallelChunk annotation_id="74" docOffset="3">
+      <en>rapporteur. - Mr President, on 12 October, <Alignment alignment="132" annotation_id="117">
+          <DiscourseConnective annotation_id="117" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> Parliament last voted on the report on the regulation establishing a European Union Agency for Fundamental Rights, we asked for it to be referred back to committee under Rule 53(2).</en>
+      <fr>Monsieur le Président, le 12 octobre, <Alignment alignment="117" annotation_id="132">
+          <DiscourseConnective annotation_id="132" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> le Parlement a voté pour la dernière fois sur le rapport relatif à la création de l'Agence des droits fondamentaux de l'Union européenne, nous avons demandé <DiscourseConnective annotation_id="297">à</DiscourseConnective> ce qu'il <DiscourseConnective annotation_id="308">soit</DiscourseConnective> renvoyé en commission, conformément à l'article 53, paragraphe 2.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="304" docOffset="4">
+      <en>Since then, the Council and the Commission have decided to add political declarations to complement the legal document.</en>
+      <fr>
+        <DiscourseConnective annotation_id="379">Depuis</DiscourseConnective> lors, le Conseil <DiscourseConnective annotation_id="403">et</DiscourseConnective> la Commission ont décidé d'ajouter des déclarations politiques <DiscourseConnective annotation_id="469">pour</DiscourseConnective> compléter le document juridique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="424" docOffset="5">
+      <en>This was accepted by Parliament in a round of trialogue discussions.</en>
+      <fr>Le Parlement l'a accepté dans le cadre de discussions trilatérales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="493" docOffset="6">
+      <en>I would <Alignment alignment="584" annotation_id="501">
+          <DiscourseConnective annotation_id="501" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask the House to vote in favour in the final vote on these issues and not block the process any more.</en>
+      <fr>J'invite <Alignment alignment="501" annotation_id="584">
+          <DiscourseConnective annotation_id="584" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> l'Assemblée <DiscourseConnective annotation_id="605">à</DiscourseConnective> voter favorablement lors du vote final concernant ces questions <DiscourseConnective annotation_id="671">et</DiscourseConnective> à ne pas bloquer ce processus plus longtemps.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

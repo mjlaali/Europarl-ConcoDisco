@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10. (</en>
+    <fr>10. (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="6" docOffset="1">
+    <en>- Before the vote on the motion for a resolution</en>
+    <fr>- <DiscourseConnective annotation_id="8">Avant</DiscourseConnective> le vote sur la proposition de résolution</fr>
+  </ParallelChunk>
+<Speaker annotation_id="55" id="106" name="Godfrey Bloom">
+    <ParallelChunk annotation_id="55" docOffset="2">
+      <en>Mr President, I rise under Rule 151(3) to ask whether we have legitimacy, <Alignment alignment="169" annotation_id="129">
+          <Alignment alignment="169" annotation_id="129">
+            <DiscourseConnective annotation_id="129" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, to vote on this.</en>
+      <fr>M. le Président, je m'exprime en vertu de l'article 151, paragraphe 3, <DiscourseConnective annotation_id="126">pour</DiscourseConnective> demander <DiscourseConnective annotation_id="140">si</DiscourseConnective> nous avons la légitimité, <Alignment alignment="129" annotation_id="169">
+          <Alignment alignment="129" annotation_id="169">
+            <DiscourseConnective annotation_id="169" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, de voter <DiscourseConnective annotation_id="187">en</DiscourseConnective> l'espèce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="155" docOffset="3">
+      <en>I had the pleasure of your company last evening at 5 o'clock, <Alignment alignment="272" annotation_id="217">
+          <DiscourseConnective annotation_id="217" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the temperature in your office was 80°F. This whole building is overheated.</en>
+      <fr>J'ai eu l'heur de votre compagnie pendant la soirée d'hier à 17 heures, <Alignment alignment="53" annotation_id="272">
+          <DiscourseConnective annotation_id="272" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la température dans votre bureau atteignait 26°C. Tout le bâtiment est surchauffé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="298" docOffset="4">
+      <en>The building in Strasbourg is overheated, <Alignment alignment="404" annotation_id="340">
+          <DiscourseConnective annotation_id="340" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would suggest that we put our own house in order <DiscourseConnective annotation_id="395" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective> we start voting on other things.</en>
+      <fr>Le bâtiment <DiscourseConnective annotation_id="375">à</DiscourseConnective> Strasbourg est surchauffé, <Alignment alignment="694" annotation_id="404">
+          <DiscourseConnective annotation_id="404" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je demanderais de balayer devant notre porte avant de voter d'autres choses.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="435" id="107" name="President">
+    <ParallelChunk annotation_id="435" docOffset="5">
+      <en>I have not felt this heat.</en>
+      <fr>Je n'ai pas ressenti la chaleur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="462" docOffset="6">
+      <en>Perhaps this had something to do with your inner reality.</en>
+      <fr>Cela a peut-être <DiscourseConnective annotation_id="534">à</DiscourseConnective> voir avec votre réalité intérieure.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="056" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>
+        <Alignment alignment="16" annotation_id="12">
+          <DiscourseConnective annotation_id="12" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> starting the votes, Mr Schulz has asked to speak on a point of order.</en>
+      <fr>
+        <Alignment alignment="12" annotation_id="16">
+          <DiscourseConnective annotation_id="16" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> commencer les votes, M. Schulz demande la parole <DiscourseConnective annotation_id="74">pour</DiscourseConnective> un rappel au règlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="89" id="058" name="President">
+    <ParallelChunk annotation_id="89" docOffset="2">
+      <en>Ladies and gentlemen, I have this stack of paper in front of me, which gives you an idea of the amount of work we still have to get through this morning.</en>
+      <fr>Chers collègues, j'ai devant moi cette pile de papiers qui vous donne une idée du travail que nous avons <DiscourseConnective annotation_id="208">encore</DiscourseConnective> <DiscourseConnective annotation_id="215">à</DiscourseConnective> faire ce matin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="243" docOffset="3">
+      <en>Some of my fellow Members have <Alignment alignment="256" annotation_id="274">
+          <DiscourseConnective annotation_id="274" sense="Comparison.Contrast">nevertheless</DiscourseConnective>
+        </Alignment> asked to speak.</en>
+      <fr>Certains collègues ont <Alignment alignment="274" annotation_id="256">
+          <DiscourseConnective annotation_id="256" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> demandé la parole.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="303" docOffset="4">
+      <en>I do not wish to start a lengthy debate.</en>
+      <fr>Je ne souhaite pas ouvrir un très long débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="344" docOffset="5">
+      <en>Mr Daul has asked to speak, as has Mrs Muscardini, <DiscourseConnective annotation_id="395" sense="Contingency.Cause.Result">so</DiscourseConnective> I will let them speak for one minute <Alignment alignment="380" annotation_id="435">
+          <DiscourseConnective annotation_id="435" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> no more.</en>
+      <fr>M. Daul a demandé la parole, Mme Muscardi aussi, <Alignment alignment="435" annotation_id="380">
+          <DiscourseConnective annotation_id="380" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je la leur donne <DiscourseConnective annotation_id="400">pour</DiscourseConnective> une minute pas plus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="448" docOffset="6">
+      <en>(Noise)</en>
+      <fr>(Brouhaha)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="456" id="059" name="Joseph Daul">
+    <ParallelChunk annotation_id="456" docOffset="7">
+      <en>on behalf of the PPE-DE Group. - (FR) Mr President, I will be very brief.</en>
+      <fr>au nom du groupe PPE-DE. - (FR) Monsieur le Président, je serai très <DiscourseConnective annotation_id="506">bref</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="530" docOffset="8">
+      <en>I was in the chamber at nine o'clock this morning awaiting an apology for the personal attack on the ushers.</en>
+      <fr>J'étais ce matin <DiscourseConnective annotation_id="529">à</DiscourseConnective> neuf heures dans l'hémicycle, attendant des excuses <DiscourseConnective annotation_id="583">pour</DiscourseConnective> l'agression personnelle subie par les huissiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="639" docOffset="9">
+      <en>
+        <Alignment alignment="642" annotation_id="639">
+          <DiscourseConnective annotation_id="639" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> one was not forthcoming I made my statement at nine o'clock this morning, <Alignment alignment="659" annotation_id="716">
+          <DiscourseConnective annotation_id="716" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am not going to make it again.</en>
+      <fr>Je n'<Alignment alignment="639" annotation_id="642">
+          <DiscourseConnective annotation_id="642" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> ai pas trouvé <Alignment alignment="716" annotation_id="659">
+          <DiscourseConnective annotation_id="659" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai fait ma déclaration ce matin <DiscourseConnective annotation_id="696">à</DiscourseConnective> neuf heures donc, je ne vais pas la refaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="753" id="060" name="Cristiana Muscardini">
+    <ParallelChunk annotation_id="753" docOffset="10">
+      <en>on behalf of the UEN Group. - (IT) Mr President, ladies and gentlemen, I have been sitting in this Parliament for more than 18 years, <Alignment alignment="876" annotation_id="887">
+          <DiscourseConnective annotation_id="887" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in this Parliament, with my fellow Members, I have always defended human and civil rights and my speeches in the Chamber <DiscourseConnective annotation_id="1012" sense="Expansion.Conjunction">and</DiscourseConnective> questions and motions for resolutions bear witness to this.</en>
+      <fr>au nom du groupe UEN. - (IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="804">et</DiscourseConnective> Messieurs, je siège dans cette assemblée <DiscourseConnective annotation_id="848">depuis</DiscourseConnective> plus de dix-huit ans <Alignment alignment="887" annotation_id="876">
+          <DiscourseConnective annotation_id="876" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'y ai toujours défendu les droits de l'homme <DiscourseConnective annotation_id="925">et</DiscourseConnective> les droits civils: mes interventions, mes questions <DiscourseConnective annotation_id="980">et</DiscourseConnective> mes propositions de résolution en témoignent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1076" docOffset="11">
+      <en>I will not take lessons from Mr Schulz <Alignment alignment="1074" annotation_id="1115">
+          <DiscourseConnective annotation_id="1115" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> Mr Schulz is not the repository of the truth, either in this Chamber or outside it.</en>
+      <fr>Je n'ai pas de leçon à recevoir de M. Schulz <Alignment alignment="1115" annotation_id="1074">
+          <DiscourseConnective annotation_id="1074" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il n'est pas le dépositaire de la vérité, ni au sein de notre assemblée, ni ailleurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1207" docOffset="12">
+      <en>Democracy, Mr President, is a value that must be defended, <DiscourseConnective annotation_id="1266" sense="Expansion.Conjunction">and</DiscourseConnective> this includes showing respect for individuals and groups.</en>
+      <fr>La démocratie, Monsieur le Président, est un idéal qui doit être défendu, entre autres, <DiscourseConnective annotation_id="1252">en</DiscourseConnective> faisant preuve de respect envers les individus <DiscourseConnective annotation_id="1302">et</DiscourseConnective> les groupes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1328" docOffset="13">
+      <en>I feel embarrassed for Mr Schulz <Alignment alignment="1353" annotation_id="1361">
+          <DiscourseConnective annotation_id="1361" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> he has said things he must feel ashamed of.</en>
+      <fr>Je suis embarrassée <DiscourseConnective annotation_id="1338">pour</DiscourseConnective> M. Schulz <Alignment alignment="1361" annotation_id="1353">
+          <DiscourseConnective annotation_id="1353" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il a dit des choses dont il doit se sentir honteux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1413" docOffset="14">
+      <en>The UEN Group is behind all Parliament's officials, and particularly the ushers, who on many occasions this year have tried to defend the right to speech and expression that has so often been denied by a few majority groups in Parliament.</en>
+      <fr>Le groupe UEN soutient tous les agents du Parlement, <DiscourseConnective annotation_id="1462">et</DiscourseConnective> <DiscourseConnective annotation_id="1465">en particulier</DiscourseConnective> les huissiers, qui <DiscourseConnective annotation_id="1499">à</DiscourseConnective> de nombreuses occasions cette année ont tenté de défendre leur droit d'expression, <DiscourseConnective annotation_id="1584">si</DiscourseConnective> souvent bafoué par quelques-uns des groupes de la majorité au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1652" docOffset="15">
+      <en>For this reason, Mr President, the UEN supports the ushers, the UEN believes in fundamental rights, <Alignment alignment="1759" annotation_id="1752">
+          <DiscourseConnective annotation_id="1752" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the UEN calls for respect for duties and respect for people.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1660">C'est pourquoi</DiscourseConnective>, Monsieur le Président, l'UEN soutient les huissiers, croit aux droits fondamentaux <Alignment alignment="1752" annotation_id="1759">
+          <DiscourseConnective annotation_id="1759" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1762">en</DiscourseConnective> appelle au respect des fonctions <DiscourseConnective annotation_id="1798">et</DiscourseConnective> des personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1817" docOffset="16">
+      <en>Mr Schulz, take your own signature off!</en>
+      <fr>Monsieur Schulz, enlevez votre signature vous-même!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1857" id="061" name="President">
+    <ParallelChunk annotation_id="1857" docOffset="17">
+      <en>Ladies and gentlemen, are there any other group chairmen or women here who would like to speak? I deliberately say 'group chairmen or women' <Alignment alignment="1983" annotation_id="1998">
+          <DiscourseConnective annotation_id="1998" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I am not going to let all 785 members speak on this matter.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="1877">et</DiscourseConnective> Messieurs, chers collègues, y a-t-il d'autres présidents de groupe, je dis bien "présidents de groupe" <Alignment alignment="1998" annotation_id="1983">
+          <DiscourseConnective annotation_id="1983" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> je ne vais pas donner la parole à chacun des 785 collègues sur ce sujet, qui souhaitent s'exprimer?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2066" docOffset="18">
+      <en>I cannot see any group chairmen or women, <Alignment alignment="2126" annotation_id="2108">
+          <DiscourseConnective annotation_id="2108" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> this item is closed.</en>
+      <fr>Je ne vois pas de président de groupe, <Alignment alignment="2108" annotation_id="2126">
+          <DiscourseConnective annotation_id="2126" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, ce point est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2132" docOffset="19">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2143" docOffset="20">
+      <en>I will simply add something that a poet once said, which is that the most beautiful hymns are sung <DiscourseConnective annotation_id="2242" sense="Temporal.Synchrony">when</DiscourseConnective> bombs are falling.</en>
+      <fr>Pour ma part, j'ajouterai <DiscourseConnective annotation_id="2196">simplement</DiscourseConnective> ce <DiscourseConnective annotation_id="2210">qu'</DiscourseConnective>a dit un poète, à savoir <DiscourseConnective annotation_id="2238">que</DiscourseConnective> les hymnes les plus beaux sont chantés sous les bombes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2266" docOffset="21">
+      <en>I think the one we heard here yesterday was wonderful, for that very reason!</en>
+      <fr>J'ai l'impression que celui que nous avons entendu, hier, ici, était, <DiscourseConnective annotation_id="2368">à</DiscourseConnective> ce titre, magnifique!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2343" docOffset="22">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2354" docOffset="23">
+      <en>Mr Salafranca wishes to speak on another matter.</en>
+      <fr>M. Salafranca souhaite intervenir sur un autre sujet.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2403" id="062" name="José Ignacio Salafranca Sánchez-Neyra">
+    <ParallelChunk annotation_id="2403" docOffset="24">
+      <en>(ES) Mr President, yesterday there was a brutal terrorist attack in the city of Beirut, in which the Lebanese general François el Hajj was killed.</en>
+      <fr>(ES) Monsieur le Président, un sanglant attentat terroriste a eu lieu hier à Beyrouth. Il a coûté la vie au général François el Hajj.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2550" docOffset="25">
+      <en>
+        <DiscourseConnective annotation_id="2550" sense="Temporal.Synchrony">As</DiscourseConnective> the House is aware, Mr President, Lebanon is linked to the European Union by an Association Agreement.</en>
+      <fr>L'Assemblée n'ignore pas que l'Union européenne est liée au Liban par un accord d'association.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2656" docOffset="26">
+      <en>At the mini-plenary session in Brussels, Parliament adopted an important report granting macro-financial aid to that country <DiscourseConnective annotation_id="2781" sense="Expansion.Conjunction">and</DiscourseConnective>, to take an obvious example, a delegation from the Committee on Foreign Affairs, made up of Mrs De Keyser, Mrs Gomes, Mr Belder and myself, visited the country last week, so that, like various ministers from the Member States, we could express our solidarity with the cause of peace, for understanding, harmony and reconciliation in the country.</en>
+      <fr>Lors de la mini plénière de Bruxelles, le Parlement a adopté un rapport important octroyant une aide macrofinancière <DiscourseConnective annotation_id="2811">à</DiscourseConnective> ce pays. Une délégation de la commission des affaires étrangères composée de Mme De Keyser, Mme Gomes, M. Belder <DiscourseConnective annotation_id="2926">et</DiscourseConnective> moi-même s'est rendue au Liban la semaine dernière <DiscourseConnective annotation_id="2980">afin d'</DiscourseConnective>exprimer, <DiscourseConnective annotation_id="2997">comme</DiscourseConnective> plusieurs ministres des États membres, notre solidarité <DiscourseConnective annotation_id="3059">à</DiscourseConnective> la cause de la paix, de l'entente, de l'harmonie <DiscourseConnective annotation_id="3110">et</DiscourseConnective> de la réconciliation dans ce pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3131" docOffset="27">
+      <en>I would ask the President to pass on our support to Prime Minister Siniora in response to this brutal terrorist attack and our unquestionable and irrevocable commitment to the cause of a sovereign, democratic, stable, viable and peaceful Lebanon.</en>
+      <fr>Je voudrais demander au Président qu'il transmette notre soutien au Premier ministre, M. Siniora, <DiscourseConnective annotation_id="3246">en</DiscourseConnective> réaction <DiscourseConnective annotation_id="3258">à</DiscourseConnective> cet attentant terroriste, <DiscourseConnective annotation_id="3286">ainsi</DiscourseConnective> que notre incontestable <DiscourseConnective annotation_id="3316">et</DiscourseConnective> irrévocable engagement <DiscourseConnective annotation_id="3342">pour</DiscourseConnective> la cause d'un Liban souverain, démocratique, stable, viable <DiscourseConnective annotation_id="3407">et</DiscourseConnective> pacifique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3378" docOffset="28">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3389" id="063" name="President">
+    <ParallelChunk annotation_id="3389" docOffset="29">
+      <en>Mr Salafranca, I think the applause from your fellow Members shows quite clearly that the assembly supports your declaration.</en>
+      <fr>Je pense, Monsieur Salafranca, que les applaudissements des collègues vous montrent, bien évidemment, <DiscourseConnective annotation_id="3542">que</DiscourseConnective> l'Assemblée soutient votre déclaration.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3515" docOffset="30">
+      <en>It will be passed on.</en>
+      <fr>Elle sera transmise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3537" docOffset="31">
+      <en>The last request to speak is from Mr Pirker, on a point of order, <Alignment alignment="3674" annotation_id="3603">
+          <DiscourseConnective annotation_id="3603" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="6973" annotation_id="3607">
+          <DiscourseConnective annotation_id="3607" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> we will proceed to the vote.</en>
+      <fr>Dernière demande de parole de M. Pirker, <DiscourseConnective annotation_id="3648">pour</DiscourseConnective> motion de procédure, <Alignment alignment="121" annotation_id="3674">
+          <DiscourseConnective annotation_id="3674" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous passerons <Alignment alignment="3607" annotation_id="3692">
+          <DiscourseConnective annotation_id="3692" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> au vote</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3641" id="064" name="Hubert Pirker">
+    <ParallelChunk annotation_id="3641" docOffset="32">
+      <en>(DE) Mr President, this does not really have anything to do with the debate, <DiscourseConnective annotation_id="3718" sense="Expansion.Conjunction">and</DiscourseConnective> I actually wanted to say this immediately after the last debate: it is simply unbearably cold in this House.</en>
+      <fr>(DE) Monsieur le Président, <DiscourseConnective annotation_id="3736">sans</DiscourseConnective> aucun rapport avec les sujets qui nous occupent, je voulais dire ceci immédiatement <DiscourseConnective annotation_id="3825">après</DiscourseConnective> le dernier débat: il règne un froid tout bonnement insupportable dans cette assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3831" docOffset="33">
+      <en>It may have been quite good yesterday <DiscourseConnective annotation_id="3869" sense="Contingency.Cause.Reason">because</DiscourseConnective> feelings were not running so high there <DiscourseConnective annotation_id="3917" sense="Temporal.Synchrony">as</DiscourseConnective> they would perhaps <DiscourseConnective annotation_id="3939" sense="Expansion.Alternative">otherwise</DiscourseConnective> have been.</en>
+      <fr>Ce qui n'était pas une mauvaise chose hier, la température ayant peut-être empêché les esprits de <DiscourseConnective annotation_id="4016">s'</DiscourseConnective>échauffer davantage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3960" docOffset="34">
+      <en>
+        <Alignment alignment="4039" annotation_id="3960">
+          <DiscourseConnective annotation_id="3960" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, in general it is simply too cold <Alignment alignment="4094" annotation_id="4002">
+          <DiscourseConnective annotation_id="4002" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wanted to suggest, in connection with the debate on the Free Trade Agreement with Korea, that we try to achieve a reasonable temperature perhaps once with a Korean air conditioning system, should we not manage to do so with our European one.</en>
+      <fr>
+        <Alignment alignment="3960" annotation_id="4039">
+          <DiscourseConnective annotation_id="4039" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> pour le reste, il fait tout <DiscourseConnective annotation_id="4072">simplement</DiscourseConnective> trop froid <Alignment alignment="4002" annotation_id="4094">
+          <DiscourseConnective annotation_id="4094" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voulais suggérer, <DiscourseConnective annotation_id="4118">en</DiscourseConnective> prolongement du débat sur l'accord de libre-échange avec la Corée, <DiscourseConnective annotation_id="4188">que</DiscourseConnective> nous nous tournions vers un système de conditionnement d'air coréen <DiscourseConnective annotation_id="4260">si</DiscourseConnective> notre installation européenne n'est pas <DiscourseConnective annotation_id="4303">à</DiscourseConnective> même de maintenir une température acceptable en ces lieux.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4250" id="065" name="President">
+    <ParallelChunk annotation_id="4250" docOffset="35">
+      <en>I think we have covered everything we wanted to cover <Alignment alignment="4437" annotation_id="4304">
+          <DiscourseConnective annotation_id="4304" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> launching into the vote.</en>
+      <fr>Je crois que nous avons abordé tous les points que nous voulions aborder <Alignment alignment="4304" annotation_id="4437">
+          <DiscourseConnective annotation_id="4437" sense="Temporal.Asynchronous.Precedence">avant d'</DiscourseConnective>
+        </Alignment>attaquer les votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4336" docOffset="36">
+      <en>The next item is <Alignment alignment="4489" annotation_id="4353">
+          <DiscourseConnective annotation_id="4353" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> Voting time.</en>
+      <fr>L'ordre du jour appelle <Alignment alignment="799" annotation_id="4489">
+          <DiscourseConnective annotation_id="4489" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> à présent l'Heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4376" docOffset="37">
+      <en>(For results and other details of the votes: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="4524">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="4553">et</DiscourseConnective> autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1. (</en>
+    <fr>1. (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="5" docOffset="1">
+    <en>- Before the vote on Amendment 2</en>
+    <fr>- <DiscourseConnective annotation_id="7">Avant</DiscourseConnective> le vote sur l'Amendement 2</fr>
+  </ParallelChunk>
+<Speaker annotation_id="38" id="073" name="Monica Frassoni">
+    <ParallelChunk annotation_id="38" docOffset="2">
+      <en>rapporteur. - (IT) Mr President, I wonder whether it might be advisable in this case, given that the amendments have been agreed between various groups, to take a block vote on these amendments, <Alignment alignment="265" annotation_id="233">
+          <DiscourseConnective annotation_id="233" sense="Expansion.Alternative">unless</DiscourseConnective>
+        </Alignment> there is any opposition from the House.</en>
+      <fr>rapporteur. - (IT) Monsieur le Président, je me demande <DiscourseConnective annotation_id="96">s'</DiscourseConnective>il ne serait pas souhaitable dans la situation présente, <DiscourseConnective annotation_id="155">puisque</DiscourseConnective> les amendements ont été concordés entre les différents groupes, de voter en bloc sur ces amendements, <Alignment alignment="126" annotation_id="265">
+          <DiscourseConnective annotation_id="265" sense="Expansion.Alternative">à moins que</DiscourseConnective>
+        </Alignment> quelqu'un dans cette assemblée ne s'y oppose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="280" docOffset="3">
+      <en>(Parliament gave its assent.)</en>
+      <fr>(Le Parlement donne son accord)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

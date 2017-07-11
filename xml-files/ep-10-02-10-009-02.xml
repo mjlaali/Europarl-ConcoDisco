@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Eligibility of housing interventions in favour of marginalised communities (</en>
+    <fr>FEDER: éligibilité des interventions dans le domaine du logement <DiscourseConnective annotation_id="68">en</DiscourseConnective> faveur des communautés marginalisées (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="80" docOffset="2">
+    <en>After the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="112">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="96" id="129" name="Jörg Leichtfried">
+    <ParallelChunk annotation_id="96" docOffset="3">
+      <en>(DE) Mr President, I have no problem with the machine.</en>
+      <fr>- (DE) Monsieur le Président, je n'ai aucun problème avec le poste de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="151" docOffset="4">
+      <en>I simply want to make a suggestion.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="214">simplement</DiscourseConnective> faire une suggestion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="187" docOffset="5">
+      <en>Some Members have the habit of not reading out the number for roll-call votes.</en>
+      <fr>Certains députés ont l'habitude de ne pas annoncer le numéro <DiscourseConnective annotation_id="308">à</DiscourseConnective> voix haute lors des votes par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="266" docOffset="6">
+      <en>
+        <Alignment alignment="865" annotation_id="266">
+          <DiscourseConnective annotation_id="266" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> we now have a large number of roll-call votes and also the wonderful screens, I would like to suggest that you perhaps take on this job.</en>
+      <fr>
+        <Alignment alignment="0" annotation_id="355">
+          <DiscourseConnective annotation_id="355" sense="Temporal.Synchrony">Étant donné que</DiscourseConnective>
+        </Alignment> nous avons à présent beaucoup de votes par appel nominal <DiscourseConnective annotation_id="428">et</DiscourseConnective> que nous disposons <DiscourseConnective annotation_id="450">également</DiscourseConnective> de magnifiques écrans, je vous suggère d'y penser.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="406" id="130" name="President">
+    <ParallelChunk annotation_id="406" docOffset="7">
+      <en>Very well, thank you for your courtesy.</en>
+      <fr>Très bien, merci <DiscourseConnective annotation_id="528">pour</DiscourseConnective> votre courtoisie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="446" docOffset="8">
+      <en>I was doing it to ensure you had all the information, <Alignment alignment="364" annotation_id="500">
+          <DiscourseConnective annotation_id="500" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> you can read it <DiscourseConnective annotation_id="520" sense="Contingency.Cause.Result">so</DiscourseConnective> I will not read it out.</en>
+      <fr>Je le faisais <DiscourseConnective annotation_id="565">pour</DiscourseConnective> être sûr que vous receviez tous les informations, <Alignment alignment="507" annotation_id="620">
+          <DiscourseConnective annotation_id="620" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> vous pouvez annoncer vous-mêmes le numéro. Je ne le ferai donc plus.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

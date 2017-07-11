@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Type-approval of motor vehicles and engines (debate)</en>
+    <fr>Réception des véhicules à moteur <DiscourseConnective annotation_id="33">et</DiscourseConnective> des moteurs (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="53" id="200" name="President">
+    <ParallelChunk annotation_id="53" docOffset="1">
+      <en>- The next item is the report by Mr Groote on behalf of the Committee on the Environment, Public Health and Food Safety, on the proposal for a Regulation of the European Parliament and of the Council on type-approval of motor vehicles and engines with respect to emissions from heavy-duty vehicles (Euro VI) and on access to vehicle repair and maintenance information - C6-0007/2008 -.</en>
+      <fr>- L'ordre du jour appelle le rapport de M. Groote au nom de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="171">et</DiscourseConnective> de la sécurité alimentaire, sur la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="256">et</DiscourseConnective> du Conseil relatif à la réception des véhicules à moteur <DiscourseConnective annotation_id="316">et</DiscourseConnective> des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) <DiscourseConnective annotation_id="398">et</DiscourseConnective> <DiscourseConnective annotation_id="401">à</DiscourseConnective> l'accès aux informations sur la réparation <DiscourseConnective annotation_id="446">et</DiscourseConnective> l'entretien des véhicules - C6-0007/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="439" id="201" name="Matthias Groote">
+    <ParallelChunk annotation_id="439" docOffset="2">
+      <en>rapporteur. - (DE) Mr President, Commissioner Verheugen, ladies and gentlemen, I would first of all like to thank the shadow rapporteurs for their excellent and constructive cooperation throughout the legislative process.</en>
+      <fr>rapporteur. - (DE) Monsieur le Président, Monsieur le Commissaire Verheugen, Mesdames <DiscourseConnective annotation_id="579">et</DiscourseConnective> Messieurs, je voudrais <DiscourseConnective annotation_id="605">tout d'abord</DiscourseConnective> remercier les rapporteurs fictifs <DiscourseConnective annotation_id="652">pour</DiscourseConnective> leur coopération excellente <DiscourseConnective annotation_id="685">et</DiscourseConnective> constructive tout au long du processus législatif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="661" docOffset="3">
+      <en>I would <Alignment alignment="48831" annotation_id="669">
+          <DiscourseConnective annotation_id="669" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the French Presidency for the fact that we have now been able to conclude this legislative process with a compromise, to which this Presidency made a major contribution.</en>
+      <fr>Je remercie <Alignment alignment="21989" annotation_id="751">
+          <DiscourseConnective annotation_id="751" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la Présidence française de nous avoir permis de conclure ce processus législatif sur un compromis, auquel elle a apporté une contribution majeure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="858" docOffset="4">
+      <en>Tomorrow, the European Parliament will vote on the compromise package on the Euro 6 emissions standards for heavy-duty vehicles.</en>
+      <fr>Demain, le Parlement européen votera sur le paquet de compromis sur les normes d'émissions Euro VI <DiscourseConnective annotation_id="1007">pour</DiscourseConnective> les véhicules utilitaires lourds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="987" docOffset="5">
+      <en>The new emissions standards for heavy-duty vehicles relate to a reduction in pollutants, not in greenhouse gases: the two are sometimes confused.</en>
+      <fr>Ces nouvelles normes d'émissions applicables aux véhicules utilitaires lourds concernent une réduction des polluants, et non des gaz à effet de serre: il y a parfois une confusion entre les deux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1133" docOffset="6">
+      <en>Euro 6 is an important instrument in improving air quality in Europe.</en>
+      <fr>Le règlement Euro VI est un important instrument d'amélioration de la qualité de l'air <DiscourseConnective annotation_id="1329">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1203" docOffset="7">
+      <en>
+        <Alignment alignment="58097" annotation_id="1203">
+          <Alignment alignment="37613" annotation_id="1203">
+            <DiscourseConnective annotation_id="1203" sense="Expansion.Restatement">In particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>, Euro 6 reduces fine particulates and nitrogen oxides: fine particulates alone are responsible for more than 348 000 premature deaths in Europe, which is why I would perhaps have hoped for a more ambitious limit here.</en>
+      <fr>
+        <Alignment alignment="1203" annotation_id="1340">
+          <Alignment alignment="1203" annotation_id="1340">
+            <DiscourseConnective annotation_id="1340" sense="Expansion.Restatement">En particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, Euro VI réduit les particules <DiscourseConnective annotation_id="1386">et</DiscourseConnective> les oxydes d'azote: à elles seules les particules sont responsables <DiscourseConnective annotation_id="1457">de plus</DiscourseConnective> de 348 000 décès prématurés <DiscourseConnective annotation_id="1493">en</DiscourseConnective> Europe, <DiscourseConnective annotation_id="1504">c'est pourquoi</DiscourseConnective> j'aurais espéré une limite plus ambitieuse pour les particules.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1435" docOffset="8">
+      <en>Technical studies have <Alignment alignment="1011" annotation_id="1458">
+          <DiscourseConnective annotation_id="1458" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> backed this up.</en>
+      <fr>Des études techniques viennent <Alignment alignment="1458" annotation_id="1614">
+          <DiscourseConnective annotation_id="1614" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à l'appui <DiscourseConnective annotation_id="1634">de ce fait</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1479" docOffset="9">
+      <en>
+        <Alignment alignment="7597" annotation_id="1479">
+          <DiscourseConnective annotation_id="1479" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, tomorrow's vote and the whole package is, <Alignment alignment="43549" annotation_id="1535">
+          <DiscourseConnective annotation_id="1535" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I have already said, a good compromise.</en>
+      <fr>
+        <Alignment alignment="1479" annotation_id="1646">
+          <DiscourseConnective annotation_id="1646" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, le vote de demain <DiscourseConnective annotation_id="1675">et</DiscourseConnective> l'ensemble du paquet sont, <Alignment alignment="11119" annotation_id="1705">
+          <DiscourseConnective annotation_id="1705" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je l'ai <DiscourseConnective annotation_id="1719">déjà</DiscourseConnective> dit, un bon compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1578" docOffset="10">
+      <en>In comparison with the current emissions standard 6, which has been applicable since 1 October 2008, we will achieve a 66% reduction for fine particulates alone, and of more than 80% for nitrogen oxides.</en>
+      <fr>Par rapport <DiscourseConnective annotation_id="1759">à</DiscourseConnective> la norme 6 d'émissions en vigueur actuellement et qui était applicable <DiscourseConnective annotation_id="1832">depuis</DiscourseConnective> le 1er octobre 2008, nous allons obtenir une réduction de 66 % des particules, <DiscourseConnective annotation_id="1918">et</DiscourseConnective> <DiscourseConnective annotation_id="1921">de plus</DiscourseConnective> de 80 % des oxydes d'azote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1782" docOffset="11">
+      <en>Nitrogen oxides are particularly dangerous to infants, children and older people, <Alignment alignment="24352" annotation_id="1864">
+          <DiscourseConnective annotation_id="1864" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they lead to the formation of ozone near the ground.</en>
+      <fr>Les oxydes d'azote sont particulièrement dangereux <DiscourseConnective annotation_id="2008">pour</DiscourseConnective> les nourrissons, les enfants <DiscourseConnective annotation_id="2042">et</DiscourseConnective> les personnes âgées, <Alignment alignment="1864" annotation_id="2066">
+          <DiscourseConnective annotation_id="2066" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>ils conduisent <DiscourseConnective annotation_id="2090">à</DiscourseConnective> la formation d'ozone au niveau du sol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1925" docOffset="12">
+      <en>I would <Alignment alignment="2143" annotation_id="1933">
+          <DiscourseConnective annotation_id="1933" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to take this opportunity to mention the introduction date.</en>
+      <fr>Je voudrais <Alignment alignment="1933" annotation_id="2143">
+          <DiscourseConnective annotation_id="2143" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> saisir cette occasion <DiscourseConnective annotation_id="2175">pour</DiscourseConnective> mentionner la date d'introduction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2002" docOffset="13">
+      <en>We have managed to bring the introduction date forward, <Alignment alignment="24977" annotation_id="2058">
+          <Alignment alignment="2273" annotation_id="2058">
+            <DiscourseConnective annotation_id="2058" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> Euro 6 will arrive earlier <Alignment alignment="1108" annotation_id="2093">
+          <DiscourseConnective annotation_id="2093" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="24942" annotation_id="2097">
+          <DiscourseConnective annotation_id="2097" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> air quality will improve.</en>
+      <fr>Nous sommes parvenus <DiscourseConnective annotation_id="2236">à</DiscourseConnective> rapprocher la date d'introduction, <Alignment alignment="18452" annotation_id="2273">
+          <Alignment alignment="4705" annotation_id="2273">
+            <DiscourseConnective annotation_id="2273" sense="Contingency.Cause.Result">de sorte qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>Euro VI sera introduit plus tôt <Alignment alignment="2093" annotation_id="2317">
+          <DiscourseConnective annotation_id="2317" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'<Alignment alignment="183" annotation_id="2323">
+          <DiscourseConnective annotation_id="2323" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> la qualité de l'air s'améliorera.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2128" docOffset="14">
+      <en>By and large, we have reached a satisfactory compromise; this instrument will undoubtedly improve both air quality and quality of life.</en>
+      <fr>Dans l'ensemble, nous sommes parvenus à un compromis satisfaisant; il ne fait aucun doute que cet instrument améliorera la qualité de l'air <DiscourseConnective annotation_id="2503">et</DiscourseConnective> la qualité de la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2264" docOffset="15">
+      <en>Two years ago almost to the day, we debated and adopted the Euro 5 and Euro 6 emissions limits for passenger cars here in this House.</en>
+      <fr>Il y a deux ans, presque jour <DiscourseConnective annotation_id="2558">pour</DiscourseConnective> jour, ici dans cette Assemblée, nous avons débattu <DiscourseConnective annotation_id="2614">et</DiscourseConnective> adopté les limites d'émissions Euro V <DiscourseConnective annotation_id="2655">et</DiscourseConnective> Euro VI <DiscourseConnective annotation_id="2666">pour</DiscourseConnective> les véhicules routiers légers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2398" docOffset="16">
+      <en>In the process of drafting the implementation measures, it has emerged that there have been delays in this connection.</en>
+      <fr>Lors du processus d'élaboration des mesures d'application, il est apparu <DiscourseConnective annotation_id="2775">qu'</DiscourseConnective>il y avait eu des retards <DiscourseConnective annotation_id="2804">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2517" docOffset="17">
+      <en>I must once again make a clear plea that the same must not happen in this legislative process - manufacturers need to have all the necessary information available to them in good time.</en>
+      <fr>Je dois à nouveau insister <DiscourseConnective annotation_id="2844">pour que</DiscourseConnective> cela ne se reproduise pas dans ce processus législatif - les fabricants doivent disposer de toutes les informations nécessaires <DiscourseConnective annotation_id="2981">en</DiscourseConnective> temps utile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2702" docOffset="18">
+      <en>I am therefore delighted that the Commission is now surely about to make a statement saying that we can count on having implementing measures by the end of March 2010 at the latest, that is to say on 1 April 2010.</en>
+      <fr>Je suis <DiscourseConnective annotation_id="3005">donc</DiscourseConnective> très heureux <DiscourseConnective annotation_id="3023">que</DiscourseConnective> la Commission <DiscourseConnective annotation_id="3041">soit</DiscourseConnective> <DiscourseConnective annotation_id="3046">maintenant</DiscourseConnective> certainement sur le point de faire une déclaration disant <DiscourseConnective annotation_id="3115">que</DiscourseConnective> nous pouvons compter sur des mesures d'application d'ici la fin mars 2010 au <DiscourseConnective annotation_id="3196">plus tard</DiscourseConnective>, c'est-à-dire le 1er avril 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2916" docOffset="19">
+      <en>At the last plenary session, we discussed the crisis in the car industry with Mr Verheugen.</en>
+      <fr>Lors de la dernière période de session plénière, nous avons discuté avec M. Verheugen de la crise dans le secteur de l'automobile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3008" docOffset="20">
+      <en>We noted <Alignment alignment="3389" annotation_id="3017">
+          <DiscourseConnective annotation_id="3017" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> that there had been a drastic reduction in the number of units sold in the commercial vehicles sector, <Alignment alignment="3506" annotation_id="3125">
+          <DiscourseConnective annotation_id="3125" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am therefore pleased that we have managed, with the legislation now before us, to create an instrument that will allow the Member States to grant tax incentives for the early introduction of the Euro 6 emissions standard.</en>
+      <fr>Nous avons observé <Alignment alignment="2009" annotation_id="3389">
+          <DiscourseConnective annotation_id="3389" sense="Temporal.Asynchronous.Precedence">alors qu'</DiscourseConnective>
+        </Alignment>il y avait eu une réduction drastique du nombre d'unités vendues dans le segment des véhicules utilitaires, <Alignment alignment="12840" annotation_id="3506">
+          <DiscourseConnective annotation_id="3506" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis <DiscourseConnective annotation_id="3517">donc</DiscourseConnective> heureux <DiscourseConnective annotation_id="3530">que</DiscourseConnective> nous ayons réussi, grâce à la législation que nous avons devant nous, <DiscourseConnective annotation_id="3604">à</DiscourseConnective> créer un instrument qui permettra aux États membres d'accorder des encouragements fiscaux en faveur de l'introduction rapide des normes d'émissions Euro VI.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3353" docOffset="21">
+      <en>This will undoubtedly invigorate the economy and <Alignment alignment="30009" annotation_id="3402">
+          <DiscourseConnective annotation_id="3402" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> help to improve air quality, quality of life and everybody's health.</en>
+      <fr>Il ne fait aucun doute que cela stimulera l'économie <DiscourseConnective annotation_id="3816">et</DiscourseConnective> contribuera <Alignment alignment="6404" annotation_id="3831">
+          <DiscourseConnective annotation_id="3831" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3841">à</DiscourseConnective> l'amélioration de la qualité de l'air, de la qualité de la vie <DiscourseConnective annotation_id="3906">et</DiscourseConnective> de la santé de tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3476" docOffset="22">
+      <en>I would once again like to thank all those involved, <DiscourseConnective annotation_id="3529" sense="Expansion.Conjunction">and</DiscourseConnective> I am looking forward to what is sure to be an interesting debate.</en>
+      <fr>Je voudrais une fois <DiscourseConnective annotation_id="3951">encore</DiscourseConnective> remercier toutes les personnes impliquées dans ce travail. Je me réjouis d'avance de participer <DiscourseConnective annotation_id="4054">à</DiscourseConnective> un débat qui ne manquera certainement pas d'être intéressant.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3599" id="202" name="Günter Verheugen">
+    <ParallelChunk annotation_id="3599" docOffset="23">
+      <en>Vice-President of the Commission. - (DE) Mr President, ladies and gentlemen, let me, first of all, offer my heartfelt thanks to the rapporteur, Mr Groote, for his dedicated collaboration in relation to this proposal.</en>
+      <fr>vice-président de la Commission. - (DE) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="4190">et</DiscourseConnective> Messieurs, permettez-moi <DiscourseConnective annotation_id="4218">tout d'abord</DiscourseConnective> de remercier sincèrement le rapporteur, M. Groote, <DiscourseConnective annotation_id="4282">pour</DiscourseConnective> le travail consciencieux qu'il a consacré <DiscourseConnective annotation_id="4329">à</DiscourseConnective> cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3816" docOffset="24">
+      <en>We are dealing with an important regulation that represents a decisive step in the introduction of globally harmonised stipulations for the emissions of pollutants from heavy-duty vehicles and buses.</en>
+      <fr>Nous discutons d'un règlement important qui représente une avancée décisive vers l'introduction de normes <DiscourseConnective annotation_id="4456">globalement</DiscourseConnective> harmonisées applicables aux émissions de polluants émis par les véhicules utilitaires lourds <DiscourseConnective annotation_id="4561">et</DiscourseConnective> les autobus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4016" docOffset="25">
+      <en>I would like to talk about something that Mr Groote made reference to, namely that we are doing this against the backdrop of an incredibly severe slump in the European Union's commercial vehicles market, <DiscourseConnective annotation_id="4220" sense="Temporal.Synchrony">as</DiscourseConnective> the market in commercial vehicles has been much worse hit than is the case for passenger vehicles.</en>
+      <fr>Je voudrais évoquer une chose à laquelle M. Groote a fait référence, à savoir <DiscourseConnective annotation_id="4655">que</DiscourseConnective> nous agissons dans le contexte d'un ralentissement incroyablement sévère du marché européen des véhicules utilitaires, ce marché ayant <DiscourseConnective annotation_id="4794">en effet</DiscourseConnective> été frappé beaucoup plus durement <DiscourseConnective annotation_id="4837">que</DiscourseConnective> celui des voitures particulières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4322" docOffset="26">
+      <en>This fact is less noticed by the public <Alignment alignment="4910" annotation_id="4362">
+          <DiscourseConnective annotation_id="4362" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> most people do not buy heavy-duty vehicles.</en>
+      <fr>Ce fait est moins connu du public, <Alignment alignment="4362" annotation_id="4910">
+          <DiscourseConnective annotation_id="4910" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> la plupart des consommateurs n'achètent pas de véhicules utilitaires lourds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4409" docOffset="27">
+      <en>
+        <Alignment alignment="2155" annotation_id="4409">
+          <DiscourseConnective annotation_id="4409" sense="Comparison.Concession">Nonetheless</DiscourseConnective>
+        </Alignment>, it does have enormous economic consequences <Alignment alignment="5049" annotation_id="4466">
+          <DiscourseConnective annotation_id="4466" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this situation is a great concern for the Commission.</en>
+      <fr>
+        <Alignment alignment="4409" annotation_id="4991">
+          <DiscourseConnective annotation_id="4991" sense="Comparison.Concession">Néanmoins</DiscourseConnective>
+        </Alignment>, ce déclin a d'énormes conséquences économiques <Alignment alignment="4466" annotation_id="5049">
+          <DiscourseConnective annotation_id="5049" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cette situation est un grave sujet de préoccupation <DiscourseConnective annotation_id="5104">pour</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4524" docOffset="28">
+      <en>In light of this too, it is important to provide manufacturers with legal certainty and a clear regulatory framework <Alignment alignment="5254" annotation_id="4641">
+          <Alignment alignment="21168" annotation_id="4641">
+            <DiscourseConnective annotation_id="4641" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> they know what is expected of them.</en>
+      <fr>Dans ce contexte <DiscourseConnective annotation_id="5141">également</DiscourseConnective>, il est important d'offrir aux constructeurs de la certitude juridique <DiscourseConnective annotation_id="5222">et</DiscourseConnective> un cadre réglementaire clair <Alignment alignment="4641" annotation_id="5254">
+          <Alignment alignment="4641" annotation_id="5254">
+            <DiscourseConnective annotation_id="5254" sense="Contingency.Cause.Result">afin qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>ils sachent ce que l'on attend d'eux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4685" docOffset="29">
+      <en>That is why this Euro VI standard is already being decided now, at a time <DiscourseConnective annotation_id="4759" sense="Temporal.Synchrony">when</DiscourseConnective> the Euro V standard has practically just entered into force.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5300">C'est pourquoi</DiscourseConnective> cette norme Euro VI est décidée dès à présent, <DiscourseConnective annotation_id="5362">alors que</DiscourseConnective> la norme Euro V vient à peine d'entrer en vigueur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4825" docOffset="30">
+      <en>This Euro VI proposal was drawn up in conjunction with the Clean Air For Europe, or CAFE, programme and the thematic strategy on air pollution.</en>
+      <fr>Cette proposition Euro VI a été élaborée dans le cadre du programme "Air pur pour l'Europe" (<DiscourseConnective annotation_id="5516">ou</DiscourseConnective> CAFE - Clean Air For Europe), <DiscourseConnective annotation_id="5549">et</DiscourseConnective> de la stratégie thématique sur la pollution de l'air.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4969" docOffset="31">
+      <en>In connection with this strategy, further reductions of pollutant emissions are required in the area of road traffic in general and in other areas in order for the EU to meet its targets on improving air quality.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5606">En</DiscourseConnective> relation avec cette stratégie, d'autres réductions d'émissions polluantes sont requises dans le domaine du trafic routier <DiscourseConnective annotation_id="5731">en</DiscourseConnective> général <DiscourseConnective annotation_id="5742">et</DiscourseConnective> dans d'autres domaines, <DiscourseConnective annotation_id="5769">afin que</DiscourseConnective> l'UE atteigne ses cibles en matière d'amélioration de la qualité de l'air.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5182" docOffset="32">
+      <en>We want to keep the harmful effects on people's health to a minimum and to protect the environment better in general.</en>
+      <fr>Nous voulons réduire au minimum les effets nocifs sur la santé humaine <DiscourseConnective annotation_id="5924">et</DiscourseConnective> <DiscourseConnective annotation_id="5927">mieux</DiscourseConnective> protéger l'environnement <DiscourseConnective annotation_id="5958">en</DiscourseConnective> général.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5300" docOffset="33">
+      <en>The limit values under the Euro VI standards, which form part of this overall strategy, are significantly reducing the emissions of soot particles and of nitrogen oxides once again in comparison with the Euro V phase, which entered into force on 1 October this year.</en>
+      <fr>Les valeurs limites en vertu des normes Euro VI, qui font partie de cette stratégie globale, réduisent à nouveau de manière significative les émissions de particules de suie <DiscourseConnective annotation_id="6144">et</DiscourseConnective> d'oxydes d'azote par rapport <DiscourseConnective annotation_id="6176">à</DiscourseConnective> la phase Euro V, qui est entrée <DiscourseConnective annotation_id="6210">en</DiscourseConnective> vigueur le 1er octobre de cette année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5567" docOffset="34">
+      <en>One absolute innovation is the introduction of a limit value for the quantity of particulates emitted, <DiscourseConnective annotation_id="5670" sense="Contingency.Cause.Result">thus</DiscourseConnective> monitoring the output of the ultrafines fraction emitted from the engine.</en>
+      <fr>Euro VI contient une innovation absolue, à savoir l'introduction d'une valeur limite <DiscourseConnective annotation_id="6337">pour</DiscourseConnective> la quantité de particules émises, ce qui permet de contrôler la fraction de particules ultrafines émises par le moteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5749" docOffset="35">
+      <en>
+        <Alignment alignment="41133" annotation_id="5749">
+          <Alignment alignment="42495" annotation_id="5749">
+            <DiscourseConnective annotation_id="5749" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, further stipulations on the monitoring of emissions from heavy commercial vehicles in real driving conditions and on access to repair and maintenance information are being introduced.</en>
+      <fr>
+        <Alignment alignment="5749" annotation_id="6462">
+          <Alignment alignment="5749" annotation_id="6462">
+            <DiscourseConnective annotation_id="6462" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, d'autres dispositions sur le contrôle des émissions des véhicules utilitaires lourds <DiscourseConnective annotation_id="6557">en</DiscourseConnective> situation réelle de conduite <DiscourseConnective annotation_id="6589">et</DiscourseConnective> sur l'accès aux informations sur la réparation <DiscourseConnective annotation_id="6639">et</DiscourseConnective> l'entretien des véhicules ont été introduites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5946" docOffset="36">
+      <en>This corresponds to the stipulations that we have already put in place in the regulations governing light commercial vehicles.</en>
+      <fr>Cela correspond aux dispositions <DiscourseConnective annotation_id="6722">que</DiscourseConnective> nous avons <DiscourseConnective annotation_id="6737">déjà</DiscourseConnective> mises <DiscourseConnective annotation_id="6748">en</DiscourseConnective> place dans les règlements régissant les véhicules utilitaires légers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6073" docOffset="37">
+      <en>The adoption of this proposal is <Alignment alignment="6857" annotation_id="6106">
+          <DiscourseConnective annotation_id="6106" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> important <Alignment alignment="30883" annotation_id="6121">
+          <DiscourseConnective annotation_id="6121" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it will realise several important recommendations from the Cars 21 process.</en>
+      <fr>L'adoption de cette proposition est <Alignment alignment="6106" annotation_id="6857">
+          <DiscourseConnective annotation_id="6857" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> importante <Alignment alignment="6121" annotation_id="6878">
+          <DiscourseConnective annotation_id="6878" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle mettra en application plusieurs recommandations cruciales du processus CARS 21.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6205" docOffset="38">
+      <en>First of all, there is 'better lawmaking': the proposal takes account of the positions of those affected, <DiscourseConnective annotation_id="6311" sense="Temporal.Synchrony">as</DiscourseConnective> ascertained through a public Internet consultation.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6972">Tout d'abord</DiscourseConnective>, le principe "<DiscourseConnective annotation_id="6999">mieux</DiscourseConnective> légiférer" est respecté: la proposition tient compte des positions des parties concernées, telles que constatées grâce à une consultation publique sur l'internet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6366" docOffset="39">
+      <en>
+        <Alignment alignment="41451" annotation_id="6366">
+          <Alignment alignment="7168" annotation_id="6366">
+            <DiscourseConnective annotation_id="6366" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the technical stipulations are based on a cost-benefit analysis on the basis of a duly performed impact assessment.</en>
+      <fr>
+        <Alignment alignment="9908" annotation_id="7168">
+          <Alignment alignment="3654" annotation_id="7168">
+            <DiscourseConnective annotation_id="7168" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les stipulations techniques <DiscourseConnective annotation_id="7206">s'</DiscourseConnective>appuient sur une analyse coût-bénéfice fondée sur une évaluation d'impact dûment effectuée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6495" docOffset="40">
+      <en>
+        <Alignment alignment="7300" annotation_id="6495">
+          <DiscourseConnective annotation_id="6495" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>
+        </Alignment> there is a considerable simplification of the applicable law.</en>
+      <fr>
+        <Alignment alignment="6495" annotation_id="7300">
+          <DiscourseConnective annotation_id="7300" sense="Temporal.Asynchronous.Precedence">Ensuite</DiscourseConnective>
+        </Alignment>, la législation applicable est considérablement simplifiée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6562" docOffset="41">
+      <en>
+        <Alignment alignment="41908" annotation_id="6562">
+          <DiscourseConnective annotation_id="6562" sense="Temporal.Asynchronous.Succession">Once</DiscourseConnective>
+        </Alignment> the proposal applies to all new vehicles, six previous legal acts will be rescinded.</en>
+      <fr>
+        <Alignment alignment="6562" annotation_id="7368">
+          <DiscourseConnective annotation_id="7368" sense="Temporal.Asynchronous.Succession">Puisque</DiscourseConnective>
+        </Alignment> la proposition s'applique <DiscourseConnective annotation_id="7402">à</DiscourseConnective> tous les nouveaux véhicules, six précédents actes juridiques seront abrogés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6652" docOffset="42">
+      <en>Thirdly, there is global harmonisation.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7481">Troisièmement</DiscourseConnective>, il y a une harmonisation globale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6692" docOffset="43">
+      <en>A new testing and measuring methodology is to be introduced which has been developed by the UNECE in Geneva, <Alignment alignment="28128" annotation_id="6801">
+          <DiscourseConnective annotation_id="6801" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> the limit values for particulates and nitrogen oxides will now be the same as those applying in the United States.</en>
+      <fr>Une nouvelle méthodologie <DiscourseConnective annotation_id="7556">pour</DiscourseConnective> les essais <DiscourseConnective annotation_id="7572">et</DiscourseConnective> les mesures, développée par la CEE-ONU <DiscourseConnective annotation_id="7614">à</DiscourseConnective> Genève, doit être introduite, <Alignment alignment="6801" annotation_id="7646">
+          <DiscourseConnective annotation_id="7646" sense="Comparison.Contrast">tandis que</DiscourseConnective>
+        </Alignment> les valeurs limites <DiscourseConnective annotation_id="7677">pour</DiscourseConnective> les particules <DiscourseConnective annotation_id="7697">et</DiscourseConnective> les oxydes d'azote seront désormais les mêmes <DiscourseConnective annotation_id="7746">que</DiscourseConnective> celles appliquées aux États-Unis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6922" docOffset="44">
+      <en>The close cooperation between Parliament, the Council and the Commission was a critical factor in the success of the negotiating process and worked outstandingly well.</en>
+      <fr>La coopération étroite entre le Parlement, le Conseil <DiscourseConnective annotation_id="7838">et</DiscourseConnective> la Commission a été un facteur crucial du succès du processus de négociation <DiscourseConnective annotation_id="7918">et</DiscourseConnective> elle a magnifiquement bien fonctionné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7090" docOffset="45">
+      <en>I am particularly grateful to the rapporteur in this regard.</en>
+      <fr>Je suis particulièrement reconnaissant au rapporteur <DiscourseConnective annotation_id="8013">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7151" docOffset="46">
+      <en>The Commission is happy to endorse all the compromise amendments tabled by the rapporteur.</en>
+      <fr>La Commission est heureuse d'avaliser tous les amendements de compromis déposés par le rapporteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7242" docOffset="47">
+      <en>I am <Alignment alignment="8133" annotation_id="7247">
+          <DiscourseConnective annotation_id="7247" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> happy to issue the declaration requested by the rapporteur, <Alignment alignment="31325" annotation_id="7312">
+          <DiscourseConnective annotation_id="7312" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="8206" annotation_id="7317">
+          <Alignment alignment="2063" annotation_id="7317">
+            <DiscourseConnective annotation_id="7317" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I will even make it a little bit better than he had asked for.</en>
+      <fr>Je suis <Alignment alignment="7247" annotation_id="8133">
+          <DiscourseConnective annotation_id="8133" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> heureux de faire la déclaration demandée par le rapporteur <Alignment alignment="10421" annotation_id="8202">
+          <DiscourseConnective annotation_id="8202" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="7317" annotation_id="8206">
+          <Alignment alignment="0" annotation_id="8206">
+            <DiscourseConnective annotation_id="8206" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je vais <DiscourseConnective annotation_id="8223">même</DiscourseConnective> faire un petit peu <DiscourseConnective annotation_id="8247">mieux</DiscourseConnective> <DiscourseConnective annotation_id="8253">que</DiscourseConnective> ce qu'il a demandé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7389" docOffset="48">
+      <en>'The Commission declares that the technical measures implementing the regulation of the European Parliament and of the Council on type-approval of motor vehicles and engines with respect to emissions from heavy-duty vehicles (Euro VI) and on access to vehicle repair and maintenance information will be transmitted to the European Parliament and the Council under the regulatory procedure with scrutiny before 31 December 2009.'</en>
+      <fr>(EN) "La Commission déclare <DiscourseConnective annotation_id="8305">que</DiscourseConnective> les mesures techniques de mise en œuvre du règlement du Parlement européen <DiscourseConnective annotation_id="8384">et</DiscourseConnective> du Conseil relatif à la réception des véhicules à moteur <DiscourseConnective annotation_id="8444">et</DiscourseConnective> des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) <DiscourseConnective annotation_id="8526">et</DiscourseConnective> <DiscourseConnective annotation_id="8529">à</DiscourseConnective> l'accès aux informations sur la réparation <DiscourseConnective annotation_id="8574">et</DiscourseConnective> l'entretien des véhicules seront transmises au Parlement européen <DiscourseConnective annotation_id="8643">et</DiscourseConnective> au Conseil conformément à la procédure de réglementation avec contrôle <DiscourseConnective annotation_id="8717">avant</DiscourseConnective> le 31 décembre 2009."</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7818" id="204" name="Anja Weisgerber">
+    <ParallelChunk annotation_id="7818" docOffset="49">
+      <en>draftsman of the opinion of the Committee on the Internal Market and Consumer Protection. - (DE) Mr President, Commissioner, ladies and gentlemen, I would like, first of all, to offer my heartfelt thanks to the rapporteur, Mr Groote, and the shadow rapporteurs for their constructive cooperation.</en>
+      <fr>rapporteure pour avis de la commission du marché intérieur <DiscourseConnective annotation_id="8804">et</DiscourseConnective> de la protection des consommateurs. - (DE) Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="8907">et</DiscourseConnective> Messieurs, je voudrais <DiscourseConnective annotation_id="8933">tout d'abord</DiscourseConnective> remercier chaleureusement le rapporteur, M. Groote, <DiscourseConnective annotation_id="8998">et</DiscourseConnective> les rapporteurs fictifs <DiscourseConnective annotation_id="9025">pour</DiscourseConnective> leur coopération constructive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8115" docOffset="50">
+      <en>Their help made it possible for an agreement to be reached about a very technical dossier as early as the first reading stage.</en>
+      <fr>Leur aide a permis la conclusion d'un accord sur un dossier très technique dès le stade de la première lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8242" docOffset="51">
+      <en>As shadow rapporteur for the Group of the European People's Party (Christian Democrats) and European Democrats, I still recall very well our vote on the revision of the fine particulates directive.</en>
+      <fr>En <DiscourseConnective annotation_id="9176">tant que</DiscourseConnective> rapporteure fictive <DiscourseConnective annotation_id="9205">pour</DiscourseConnective> le groupe du Parti populaire européen (Démocrates-chrétiens) <DiscourseConnective annotation_id="9271">et</DiscourseConnective> des Démocrates européens, je me souviens <DiscourseConnective annotation_id="9315">encore</DiscourseConnective> très bien de notre vote sur la révision de la directive sur les particules.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8440" docOffset="52">
+      <en>I was a shadow rapporteur <DiscourseConnective annotation_id="8466" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>, too.</en>
+      <fr>À l'époque, j'étais <DiscourseConnective annotation_id="9418">également</DiscourseConnective> rapporteure fictive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8477" docOffset="53">
+      <en>On that occasion, we managed to get the Commission to sign a declaration in which it undertook to put forward measures that combat fine particulate matter at the very point at which it occurs.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9449">À</DiscourseConnective> cette occasion, nous sommes parvenus <DiscourseConnective annotation_id="9488">à</DiscourseConnective> obtenir de la Commission qu'elle signe une déclaration par laquelle elle s'engageait <DiscourseConnective annotation_id="9575">à</DiscourseConnective> introduire des mesures <DiscourseConnective annotation_id="9600">pour</DiscourseConnective> lutter contre le problème des particules au point <DiscourseConnective annotation_id="9655">même</DiscourseConnective> où elles sont produites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8670" docOffset="54">
+      <en>The new Euro VI regulation for heavy-duty vehicles and buses is one of the measures we have been calling for.</en>
+      <fr>Le nouveau règlement Euro VI <DiscourseConnective annotation_id="9714">pour</DiscourseConnective> les véhicules utilitaires lourds <DiscourseConnective annotation_id="9752">et</DiscourseConnective> les autobus est l'une des mesures que nous réclamions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8780" docOffset="55">
+      <en>The regulation combats fine particulates right from their emission - at the source, <Alignment alignment="9878" annotation_id="8864">
+          <DiscourseConnective annotation_id="8864" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment>, which is where the particulates are actually produced.</en>
+      <fr>Ce règlement combat les particules dès leur émission - <DiscourseConnective annotation_id="9865">à</DiscourseConnective> la source, <Alignment alignment="70" annotation_id="9878">
+          <DiscourseConnective annotation_id="9878" sense="Expansion.Restatement">autrement dit</DiscourseConnective>
+        </Alignment>, là où les particules sont <DiscourseConnective annotation_id="9919">effectivement</DiscourseConnective> produites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8935" docOffset="56">
+      <en>The new Euro VI standard will <Alignment alignment="9978" annotation_id="8965">
+          <DiscourseConnective annotation_id="8965" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> reduce emissions of fine particulates from diesel heavy-duty vehicles and buses by 66% <DiscourseConnective annotation_id="9057" sense="Temporal.Synchrony">as</DiscourseConnective> compared with the Euro V standard, <Alignment alignment="10115" annotation_id="9095">
+          <DiscourseConnective annotation_id="9095" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> in petrol-driven vehicles nitrogen (NOx) emissions will be reduced by a further 80%.</en>
+      <fr>La nouvelle norme Euro VI réduira <Alignment alignment="8629" annotation_id="9978">
+          <DiscourseConnective annotation_id="9978" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> les émissions de particules des véhicules utilitaires lourds <DiscourseConnective annotation_id="10045">et</DiscourseConnective> des autobus à moteur diesel de 66 % par rapport <DiscourseConnective annotation_id="10096">à</DiscourseConnective> la norme Euro V, <Alignment alignment="9095" annotation_id="10115">
+          <DiscourseConnective annotation_id="10115" sense="Comparison.Contrast">tandis que</DiscourseConnective>
+        </Alignment> les émissions d'oxyde d'azote (NOx) des véhicules fonctionnant <DiscourseConnective annotation_id="10189">à</DiscourseConnective> l'essence subiront une réduction supplémentaire de 80 %.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9186" docOffset="57">
+      <en>In order for it to be possible to actually achieve these new, ambitious emissions standards, the implementing measures, which lay down the exact technical specifics in detail, must be made public at an early stage.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10248">Afin de</DiscourseConnective> permettre l'application effective de ces nouvelles normes ambitieuses, les mesures de mise en œuvre, qui définissent <DiscourseConnective annotation_id="10373">en</DiscourseConnective> détail les spécifications techniques exactes, doivent être rendues publiques le plus tôt possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9401" docOffset="58">
+      <en>For that reason I am <Alignment alignment="10523" annotation_id="9422">
+          <DiscourseConnective annotation_id="9422" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment>, of course, very pleased about the declaration that Commissioner Verheugen has just made, in which the Commission undertakes to put the implementing measures forward to Parliament and the Council very quickly - more quickly than was originally planned.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10475">C'est pourquoi</DiscourseConnective> je suis évidemment très heureuse <Alignment alignment="9422" annotation_id="10523">
+          <DiscourseConnective annotation_id="10523" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de la déclaration <DiscourseConnective annotation_id="10551">que</DiscourseConnective> vient de faire le commissaire Verheugen, par laquelle la Commission s'engage <DiscourseConnective annotation_id="10632">à</DiscourseConnective> présenter les mesures de mise en œuvre au Parlement <DiscourseConnective annotation_id="10686">et</DiscourseConnective> au Conseil très rapidement - plus rapidement <DiscourseConnective annotation_id="10734">qu'</DiscourseConnective>initialement prévu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9680" docOffset="59">
+      <en>The point about access to repair and maintenance information for independent market operators is <Alignment alignment="33665" annotation_id="9777">
+          <DiscourseConnective annotation_id="9777" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> something I find important.</en>
+      <fr>La question de l'accès des opérateurs indépendants aux informations sur la réparation <DiscourseConnective annotation_id="10843">et</DiscourseConnective> l'entretien est <Alignment alignment="398" annotation_id="10862">
+          <DiscourseConnective annotation_id="10862" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> un point que j'estime important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9810" docOffset="60">
+      <en>Independent market operators means independent workshops, motoring organisations and breakdown rescue services.</en>
+      <fr>Les opérateurs indépendants comprennent les ateliers indépendants, les organisations de tourisme automobile <DiscourseConnective annotation_id="11013">et</DiscourseConnective> les services de dépannage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9922" docOffset="61">
+      <en>
+        <Alignment alignment="45626" annotation_id="9922">
+          <DiscourseConnective annotation_id="9922" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we want to ensure functional competition in the field of repair work we must guarantee this access, <Alignment alignment="11173" annotation_id="10025">
+          <DiscourseConnective annotation_id="10025" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in this regulation we have managed to achieve that.</en>
+      <fr>
+        <Alignment alignment="4525" annotation_id="11043">
+          <DiscourseConnective annotation_id="11043" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous voulons garantir une concurrence fonctionnelle dans le domaine des travaux de réparation, nous devons garantir cet accès, <Alignment alignment="10025" annotation_id="11173">
+          <DiscourseConnective annotation_id="11173" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> dans ce règlement nous avons prévu cet aspect.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10081" docOffset="62">
+      <en>That is good for competition, for the price of repair work, for road safety and for consumers.</en>
+      <fr>C'est bon <DiscourseConnective annotation_id="11233">pour</DiscourseConnective> la concurrence, <DiscourseConnective annotation_id="11254">pour</DiscourseConnective> le prix des travaux de réparation, <DiscourseConnective annotation_id="11294">pour</DiscourseConnective> la sécurité routière <DiscourseConnective annotation_id="11320">et</DiscourseConnective> <DiscourseConnective annotation_id="11323">pour</DiscourseConnective> les consommateurs.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10176" id="205" name="Johannes Blokland">
+    <ParallelChunk annotation_id="10176" docOffset="63">
+      <en>draftsman of the opinion of the Committee on Transport and Tourism. - (NL) Mr President, earlier this year, I wrote an opinion on Euro 6 on behalf of the Committee on Transport and Tourism.</en>
+      <fr>rapporteur pour avis de la commission des transports <DiscourseConnective annotation_id="11400">et</DiscourseConnective> du tourisme. - (NL) Monsieur le Président, il y a trois ou quatre mois, j'ai rédigé un avis sur Euro VI au nom de la commission des transports <DiscourseConnective annotation_id="11546">et</DiscourseConnective> du tourisme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10366" docOffset="64">
+      <en>The transport of goods using heavy goods vehicles is a sector that has been forced to reduce its emissions of harmful substances, including nitrogen oxide and fine particulates, several times over recent years.</en>
+      <fr>Le secteur du transport de marchandises par véhicules utilitaires lourds a été contraint, à plusieurs reprises ces dernières années, de réduire ses émissions de substances nocives, y compris l'oxyde d'azote <DiscourseConnective annotation_id="11769">et</DiscourseConnective> les particules.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10577" docOffset="65">
+      <en>Euro 6 standardisation is right to impose additional requirements on engines.</en>
+      <fr>Il est bon que la norme Euro VI impose des exigences supplémentaires concernant les moteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10655" docOffset="66">
+      <en>As such, this regulation makes an important contribution towards better air quality, and hence to improving public health.</en>
+      <fr>Tel qu'il se présente, ce règlement apporte une importante contribution à l'amélioration de la qualité de l'air, d'où une amélioration de la santé publique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10778" docOffset="67">
+      <en>It is of huge importance for these new emission requirements to enter into effect very soon.</en>
+      <fr>Il est extrêmement important <DiscourseConnective annotation_id="12067">que</DiscourseConnective> ces nouvelles exigences en matière d'émissions entrent en vigueur très rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10871" docOffset="68">
+      <en>Needless to say, the industry will need time to adjust.</en>
+      <fr>Il va sans <DiscourseConnective annotation_id="12165">dire que</DiscourseConnective> le secteur aura besoin de temps <DiscourseConnective annotation_id="12206">pour</DiscourseConnective> s'adapter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10927" docOffset="69">
+      <en>It should be given the time it needs.</en>
+      <fr>Il devrait se voir accorder le temps dont il a besoin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10965" docOffset="70">
+      <en>During the parliamentary discussions on the dossier, I experienced something unique.</en>
+      <fr>Au cours des discussions parlementaires sur ce dossier, j'ai fait une expérience unique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11050" docOffset="71">
+      <en>The Committee on Transport and Tourism voted in a more environmental manner than the Committee on the Environment, Public Health and Food Safety, in, <Alignment alignment="32376" annotation_id="11200">
+          <DiscourseConnective annotation_id="11200" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, the area of data collection.</en>
+      <fr>La commission des transports <DiscourseConnective annotation_id="12395">et</DiscourseConnective> du tourisme a voté de manière plus favorable à l'environnement <DiscourseConnective annotation_id="12461">que</DiscourseConnective> la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="12520">et</DiscourseConnective> de la sécurité alimentaire, <Alignment alignment="19156" annotation_id="12551">
+          <DiscourseConnective annotation_id="12551" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> dans le domaine de la collecte de données.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11242" docOffset="72">
+      <en>Fortunately, the negotiations ultimately resulted in the legislation entering into force early.</en>
+      <fr>Heureusement, les négociations ont <DiscourseConnective annotation_id="12641">finalement</DiscourseConnective> abouti <DiscourseConnective annotation_id="12659">à</DiscourseConnective> une entente sur cette législation qui entrera en vigueur prochainement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11338" docOffset="73">
+      <en>I should like to thank Mr Groote for his efforts in reaching this outcome, and the Commissioner for his statement.</en>
+      <fr>Je remercie M. Groote <DiscourseConnective annotation_id="12755">pour</DiscourseConnective> les efforts qu'il a consacrés <DiscourseConnective annotation_id="12790">à</DiscourseConnective> l'obtention de ce <DiscourseConnective annotation_id="12810">résultat</DiscourseConnective>, <DiscourseConnective annotation_id="12820">et</DiscourseConnective> le commissaire <DiscourseConnective annotation_id="12838">pour</DiscourseConnective> sa déclaration.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11453" id="206" name="Richard Seeber">
+    <ParallelChunk annotation_id="11453" docOffset="74">
+      <en>on behalf of the PPE-DE Group. - (DE) Mr President, I, too, would like to congratulate my fellow Member Mr Groote on this report.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Monsieur le Président, je voudrais moi <DiscourseConnective annotation_id="12930">aussi</DiscourseConnective> féliciter mon collègue M. Groote <DiscourseConnective annotation_id="12969">pour</DiscourseConnective> son rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11583" docOffset="75">
+      <en>His approach to its production was a very collaborative one.</en>
+      <fr>Il a fait preuve d'un excellent esprit de collaboration tout au long de sa production.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11644" docOffset="76">
+      <en>All in all, environmental protection must not be sacrificed at the altar of the economic crisis <Alignment alignment="13187" annotation_id="11740">
+          <DiscourseConnective annotation_id="11740" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is a good thing that we have a report before us that very much points to the future and contains very ambitious targets - such as a 66% reduction in the case of PM10 and an 80% reduction in the case of NOx.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13074">Tout compte fait</DiscourseConnective>, la protection de l'environnement ne doit pas être sacrifiée sur l'autel de la crise économique <Alignment alignment="24274" annotation_id="13187">
+          <DiscourseConnective annotation_id="13187" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il est bon <DiscourseConnective annotation_id="13201">que</DiscourseConnective> nous ayons devant nous un rapport très largement tourné vers l'avenir <DiscourseConnective annotation_id="13275">et</DiscourseConnective> qui contient des cibles très ambitieuses - <DiscourseConnective annotation_id="13321">par exemple</DiscourseConnective> 66 % de réduction <DiscourseConnective annotation_id="13351">pour</DiscourseConnective> les PM10 <DiscourseConnective annotation_id="13365">et</DiscourseConnective> 80 % de réduction <DiscourseConnective annotation_id="13386">pour</DiscourseConnective> le NOx.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11954" docOffset="77">
+      <en>That said, I would remind the House that road traffic in general is increasingly becoming a problem in Europe.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13399">Ceci étant dit</DiscourseConnective>, je voudrais rappeler à l'Assemblée <DiscourseConnective annotation_id="13450">que</DiscourseConnective> le trafic routier <DiscourseConnective annotation_id="13472">en</DiscourseConnective> général devient un problème croissant <DiscourseConnective annotation_id="13513">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12065" docOffset="78">
+      <en>It is the sector that grows constantly and at the fastest rate.</en>
+      <fr>C'est un secteur <DiscourseConnective annotation_id="13541">en</DiscourseConnective> croissance constante <DiscourseConnective annotation_id="13565">et</DiscourseConnective> <DiscourseConnective annotation_id="13568">à</DiscourseConnective> un rythme accéléré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12129" docOffset="79">
+      <en>Just think about the problems of CO2.</en>
+      <fr>Il suffit de penser aux problèmes de CO2.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12167" docOffset="80">
+      <en>We have the opportunity tomorrow to debate this subject at greater length.</en>
+      <fr>Demain, nous aurons l'occasion de débattre de ce sujet plus longuement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12242" docOffset="81">
+      <en>We know that all types of traffic are increasing in volume <Alignment alignment="42425" annotation_id="12301">
+          <DiscourseConnective annotation_id="12301" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I believe that it really is now time for the Commission not only to set thoroughly ambitious targets in individual dossiers in this field but to address the general issue of traffic in this modern world.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="13716">que</DiscourseConnective> tous les types de trafic augmentent <DiscourseConnective annotation_id="13756">en</DiscourseConnective> volume <Alignment alignment="16394" annotation_id="13766">
+          <DiscourseConnective annotation_id="13766" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="13778">qu'</DiscourseConnective>il est vraiment temps <DiscourseConnective annotation_id="13803">que</DiscourseConnective> la Commission, <DiscourseConnective annotation_id="13822">non seulement</DiscourseConnective> définisse soigneusement des cibles ambitieuses <DiscourseConnective annotation_id="13883">pour</DiscourseConnective> les différents dossiers relevant de ce domaine, <DiscourseConnective annotation_id="13936">mais</DiscourseConnective> qu'elle traite la question générale du trafic dans le monde moderne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12509" docOffset="82">
+      <en>Even <Alignment alignment="41904" annotation_id="12514">
+          <DiscourseConnective annotation_id="12514" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we are now to have clean heavy-duty vehicles that are absolutely capable of emitting less than in the past, there are <Alignment alignment="44294" annotation_id="12635">
+          <DiscourseConnective annotation_id="12635" sense="Comparison.Contrast">still</DiscourseConnective>
+        </Alignment>, quite simply, inherent limits in the infrastructure.</en>
+      <fr>
+        <Alignment alignment="12514" annotation_id="14010">
+          <DiscourseConnective annotation_id="14010" sense="Contingency.Condition">Même si</DiscourseConnective>
+        </Alignment> nous allons avoir désormais des véhicules utilitaires lourds propres, parfaitement capables d'émettre moins de polluants <DiscourseConnective annotation_id="14139">que</DiscourseConnective> dans le passé, il reste <Alignment alignment="3289" annotation_id="14167">
+          <DiscourseConnective annotation_id="14167" sense="Comparison.Contrast">encore</DiscourseConnective>
+        </Alignment>, tout <DiscourseConnective annotation_id="14180">simplement</DiscourseConnective>, des limites inhérentes aux infrastructures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12695" docOffset="83">
+      <en>Look at our motorways!</en>
+      <fr>Considérez nos autoroutes!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12718" docOffset="84">
+      <en>In many Member States they are so overcrowded that, in future, even the cleanest Euro VI heavy-duty vehicles will no longer be able to get through, even without taking account of the large numbers of passenger cars in which the citizens sit in traffic jams.</en>
+      <fr>Dans de nombreux États membres, elles sont tellement encombrées <DiscourseConnective annotation_id="14327">qu'</DiscourseConnective>à l'avenir, <DiscourseConnective annotation_id="14342">même</DiscourseConnective> les véhicules utilitaires lourds Euro VI les plus propres ne seront plus en mesure de passer la barre, <DiscourseConnective annotation_id="14450">sans</DiscourseConnective> compter les innombrables passagers des voitures particulières bloqués dans les embouteillages.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12976" docOffset="85">
+      <en>For this reason what is needed is big-picture thinking, <Alignment alignment="21074" annotation_id="13032">
+          <DiscourseConnective annotation_id="13032" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I <Alignment alignment="14626" annotation_id="13038">
+          <DiscourseConnective annotation_id="13038" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> believe that transport in general is in need of a fundamental overhaul.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14550">C'est pourquoi</DiscourseConnective>, ce dont nous avons besoin, c'est de voir grand, <Alignment alignment="3486" annotation_id="14614">
+          <DiscourseConnective annotation_id="14614" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense <Alignment alignment="19082" annotation_id="14626">
+          <DiscourseConnective annotation_id="14626" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14636">que</DiscourseConnective> les transports <DiscourseConnective annotation_id="14655">en</DiscourseConnective> général devraient être repensés d'une manière totalement différente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13115" docOffset="86">
+      <en>What I find positive about the report is, first of all, its ambitious targets and, secondly, that realistic measurement methods are <DiscourseConnective annotation_id="13247" sense="Expansion.Conjunction">also</DiscourseConnective> to be brought in by the Commission.</en>
+      <fr>Ce que je trouve positif dans ce rapport c'est, <DiscourseConnective annotation_id="14775">tout d'abord</DiscourseConnective>, ses cibles ambitieuses <DiscourseConnective annotation_id="14812">et</DiscourseConnective>, <DiscourseConnective annotation_id="14816">deuxièmement</DiscourseConnective>, les méthodes de mesure réalistes introduites par la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13288" docOffset="87">
+      <en>We in the Tyrol have discovered that the existing measurement methods are actually a failure <Alignment alignment="1864" annotation_id="13381">
+          <DiscourseConnective annotation_id="13381" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that, in practice, the difference between a Euro 0 and a Euro III or Euro IV heavy-duty vehicle was really small.</en>
+      <fr>Nous, au Tyrol, nous avons découvert <DiscourseConnective annotation_id="14931">que</DiscourseConnective> les méthodes de mesure existantes sont <DiscourseConnective annotation_id="14974">en fait</DiscourseConnective> un échec <Alignment alignment="13381" annotation_id="14991">
+          <DiscourseConnective annotation_id="14991" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14994">qu'en</DiscourseConnective> pratique, la différence entre un véhicule utilitaire lourd Euro 0 <DiscourseConnective annotation_id="15066">et</DiscourseConnective> un véhicule utilitaire lourd Euro III <DiscourseConnective annotation_id="15107">ou</DiscourseConnective> Euro IV est minime.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13499" docOffset="88">
+      <en>I <Alignment alignment="15143" annotation_id="13501">
+          <DiscourseConnective annotation_id="13501" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> think it is positive that access to repair information is <Alignment alignment="11678" annotation_id="13564">
+          <DiscourseConnective annotation_id="13564" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> being generally guaranteed.</en>
+      <fr>Je considère <Alignment alignment="13501" annotation_id="15143">
+          <DiscourseConnective annotation_id="15143" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> qu'il est positif <DiscourseConnective annotation_id="15171">que</DiscourseConnective> l'accès aux informations sur la réparation <DiscourseConnective annotation_id="15218">soit</DiscourseConnective> <Alignment alignment="5129" annotation_id="15223">
+          <DiscourseConnective annotation_id="15223" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> généralement garanti.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13597" docOffset="89">
+      <en>I believe that, especially for the citizens, this is an important argument for agreeing this dossier <Alignment alignment="15350" annotation_id="13698">
+          <DiscourseConnective annotation_id="13698" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it will mean that all citizens will <Alignment alignment="15395" annotation_id="13737">
+          <DiscourseConnective annotation_id="13737" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> have the opportunity to choose their workshops freely.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="15260">qu'</DiscourseConnective>il s'agit, <DiscourseConnective annotation_id="15274">surtout</DiscourseConnective> <DiscourseConnective annotation_id="15282">pour</DiscourseConnective> les citoyens, d'un important argument <DiscourseConnective annotation_id="15325">en</DiscourseConnective> faveur de ce dossier, <Alignment alignment="4239" annotation_id="15350">
+          <DiscourseConnective annotation_id="15350" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> il signifie <DiscourseConnective annotation_id="15366">que</DiscourseConnective> tous les citoyens auront <Alignment alignment="13737" annotation_id="15395">
+          <DiscourseConnective annotation_id="15395" sense="Temporal.Asynchronous.Precedence">dès lors</DiscourseConnective>
+        </Alignment> la possibilité de choisir librement leurs ateliers de réparation.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13797" id="207" language="RO" name="Silvia-Adriana Ţicău">
+    <ParallelChunk annotation_id="13797" docOffset="90">
+      <en>I would like to congratulate the rapporteur, Mr Groote.</en>
+      <fr>Je voudrais féliciter le rapporteur, M. Groote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13853" docOffset="91">
+      <en>The Commission has proposed a 60% reduction in particulate emissions and an 80% reduction in nitrogen oxides for compression ignition engines.</en>
+      <fr>La Commission a proposé une réduction de 60 % des émissions de particules <DiscourseConnective annotation_id="15592">et</DiscourseConnective> une réduction de 80 % des oxydes d'azote <DiscourseConnective annotation_id="15636">pour</DiscourseConnective> les moteurs à combustion par compression.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13996" docOffset="92">
+      <en>To achieve this, we need, <Alignment alignment="15727" annotation_id="14022">
+          <DiscourseConnective annotation_id="14022" sense="Contingency.Cause.Result">accordingly</DiscourseConnective>
+        </Alignment>, to introduce diesel filters or recycle exhaust gases and introduce selective catalytic reduction devices.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15683">Pour</DiscourseConnective> atteindre ces objectifs, il nous faut, <Alignment alignment="14022" annotation_id="15727">
+          <DiscourseConnective annotation_id="15727" sense="Contingency.Cause.Result">en conséquence</DiscourseConnective>
+        </Alignment>, introduire des filtres à particules diesel <DiscourseConnective annotation_id="15786">ou</DiscourseConnective> recycler les gaz d'échappement, <DiscourseConnective annotation_id="15821">et</DiscourseConnective> introduire des systèmes de réduction catalytique sélective.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14141" docOffset="93">
+      <en>The Commission's proposal <Alignment alignment="15925" annotation_id="14167">
+          <DiscourseConnective annotation_id="14167" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> relates to positive-ignition engines and introduces requirements for introducing a common methodology for testing and measuring emissions and on-board diagnostic systems, harmonised at a global level.</en>
+      <fr>La proposition de la Commission concerne <Alignment alignment="4656" annotation_id="15925">
+          <DiscourseConnective annotation_id="15925" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> les moteurs à allumage commandé <DiscourseConnective annotation_id="15967">et</DiscourseConnective> introduit une méthodologie commune d'essai <DiscourseConnective annotation_id="16013">et</DiscourseConnective> des spécifications de performance basées sur l'utilisation de systèmes portables de mesure des émissions, harmonisée au niveau mondial.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14373" docOffset="94">
+      <en>These systems are important for controlling emissions <Alignment alignment="16212" annotation_id="14427">
+          <DiscourseConnective annotation_id="14427" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> vehicles are being used.</en>
+      <fr>Ces systèmes sont importants <DiscourseConnective annotation_id="16181">pour</DiscourseConnective> le contrôle des émissions <Alignment alignment="14427" annotation_id="16212">
+          <DiscourseConnective annotation_id="16212" sense="Comparison.Contrast">pendant que</DiscourseConnective>
+        </Alignment> les véhicules sont <DiscourseConnective annotation_id="16243">en</DiscourseConnective> service.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14458" docOffset="95">
+      <en>Being able to set nitrogen oxide emission limit values early offers car manufacturers the assurance of long-term planning at a European level.</en>
+      <fr>Être en mesure de fixer précocement des valeurs limites d'émission d'oxyde d'azote offre aux constructeurs de véhicules l'assurance d'une planification à long terme <DiscourseConnective annotation_id="16420">à</DiscourseConnective> l'échelle européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14601" docOffset="96">
+      <en>I welcome the opportunity for Member States to grant financial incentives for new vehicles launched on the market, which comply with the provisions of this regulation.</en>
+      <fr>Je me félicite de la possibilité donnée aux États membres d'accorder des incitants financiers <DiscourseConnective annotation_id="16538">pour</DiscourseConnective> les nouveaux véhicules lancés sur le marché et qui sont conformes aux dispositions du présent règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14769" docOffset="97">
+      <en>
+        <Alignment alignment="16648" annotation_id="14769">
+          <Alignment alignment="2261" annotation_id="14769">
+            <DiscourseConnective annotation_id="14769" sense="Expansion.Restatement">In particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>, against the backdrop of climate change and the economic crisis, granting these incentives will boost the production of more energy-efficient and greener cars.</en>
+      <fr>
+        <Alignment alignment="14769" annotation_id="16648">
+          <Alignment alignment="14769" annotation_id="16648">
+            <DiscourseConnective annotation_id="16648" sense="Expansion.Restatement">En particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, dans le contexte du changement climatique <DiscourseConnective annotation_id="16706">et</DiscourseConnective> de la crise économique, de tels incitants stimuleront la production de voitures plus économes en énergie <DiscourseConnective annotation_id="16814">et</DiscourseConnective> plus vertes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14943" docOffset="98">
+      <en>Thank you.</en>
+      <fr>Merci.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14954" id="208" name="Holger Krahmer">
+    <ParallelChunk annotation_id="14954" docOffset="99">
+      <en>on behalf of the ALDE Group. - (DE) Mr President, <Alignment alignment="16890" annotation_id="15004">
+          <DiscourseConnective annotation_id="15004" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we adopt Euro VI for heavy-duty vehicles tomorrow, we will be doing so in a very good tradition.</en>
+      <fr>au nom du groupe ALDE. - (DE) Monsieur le Président, <Alignment alignment="5425" annotation_id="16890">
+          <DiscourseConnective annotation_id="16890" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous adoptons demain l'Euro VI <DiscourseConnective annotation_id="16924">pour</DiscourseConnective> les véhicules utilitaires lourds, nous respecterons <DiscourseConnective annotation_id="16981">ainsi</DiscourseConnective> une excellente tradition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15104" docOffset="100">
+      <en>Not that long ago, in the course of this legislative period, we <Alignment alignment="3621" annotation_id="15168">
+          <DiscourseConnective annotation_id="15168" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> voted in Euro 5 and Euro 6 for passenger cars, <Alignment alignment="17166" annotation_id="15220">
+          <DiscourseConnective annotation_id="15220" sense="Contingency.Cause.Result">thereby</DiscourseConnective>
+        </Alignment> continuing the success story of exhaust gas standards for vehicles - in today's case heavy-duty vehicles - in Europe.</en>
+      <fr>Il n'y a pas <DiscourseConnective annotation_id="17026">si</DiscourseConnective> longtemps, au cours de la présente législature, nous avons <Alignment alignment="7379" annotation_id="17088">
+          <DiscourseConnective annotation_id="17088" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> voté Euro V <DiscourseConnective annotation_id="17110">et</DiscourseConnective> Euro VI <DiscourseConnective annotation_id="17121">pour</DiscourseConnective> les voitures particulières, poursuivant <Alignment alignment="9623" annotation_id="17166">
+          <DiscourseConnective annotation_id="17166" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> la success story des normes en matière de gaz d'échappement des véhicules - <DiscourseConnective annotation_id="17248">en</DiscourseConnective> l'occurrence aujourd'hui les véhicules utilitaires lourds - <DiscourseConnective annotation_id="17311">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15346" docOffset="101">
+      <en>I would like, at this point, to express my special thanks to the rapporteur, Mr Groote, with whom, once again, I experienced successful collaboration.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17322">À</DiscourseConnective> ce stade, je voudrais tout spécialement remercier le rapporteur, M. Groote, dont j'ai apprécié à nouveau l'excellente collaboration.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15497" docOffset="102">
+      <en>Once again we are successfully bringing legislation to the first reading together, ensuring certainty of planning for industry and, of course, sound protection of the environment.</en>
+      <fr>Une fois <DiscourseConnective annotation_id="17466">encore</DiscourseConnective>, nous avons réussi à porter ensemble avec succès une législation jusqu'en première lecture, garantissant ainsi au secteur la certitude de la planification <DiscourseConnective annotation_id="17628">et</DiscourseConnective>, bien sûr, une solide protection de l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15677" docOffset="103">
+      <en>The agreement with the Council and the Commission has produced a piece of viable legislation.</en>
+      <fr>L'accord avec le Conseil <DiscourseConnective annotation_id="17709">et</DiscourseConnective> la Commission a produit un texte législatif viable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15771" docOffset="104">
+      <en>The values for pollutants for heavy-duty vehicle exhaust gases are advanced in an ambitious way <Alignment alignment="17887" annotation_id="15867">
+          <DiscourseConnective annotation_id="15867" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the schedule is tightened up.</en>
+      <fr>Les valeurs limites de pollution des gaz d'échappement des véhicules utilitaires lourds sont portées <DiscourseConnective annotation_id="17865">à</DiscourseConnective> un niveau ambitieux <Alignment alignment="15867" annotation_id="17887">
+          <DiscourseConnective annotation_id="17887" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le calendrier a été resserré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15901" docOffset="105">
+      <en>The new limit values will enter into force earlier than the Commission originally proposed.</en>
+      <fr>Les nouvelles valeurs limites entreront en vigueur plus tôt <DiscourseConnective annotation_id="17980">que</DiscourseConnective> la date initialement proposée par la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15993" docOffset="106">
+      <en>In bringing this about, we are making a positive contribution to the protection of the environment and the health of the citizens of Europe, without unduly hitting the manufacturers.</en>
+      <fr>Ce faisant, nous apportons une contribution positive <DiscourseConnective annotation_id="18086">à</DiscourseConnective> la protection de l'environnement <DiscourseConnective annotation_id="18121">et</DiscourseConnective> de la santé des citoyens européens, <DiscourseConnective annotation_id="18160">sans</DiscourseConnective> affecter indûment les constructeurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16176" docOffset="107">
+      <en>The entry into force of this regulation has been brought forward by nearly a year in comparison with the Commission proposal <DiscourseConnective annotation_id="16301" sense="Expansion.Conjunction">and</DiscourseConnective> yet the manufacturer's product cycles and planning deadlines have still been taken into consideration.</en>
+      <fr>L'entrée <DiscourseConnective annotation_id="18211">en</DiscourseConnective> vigueur de ce règlement a été avancée de près d'un an par rapport <DiscourseConnective annotation_id="18280">à</DiscourseConnective> la proposition de la Commission, <DiscourseConnective annotation_id="18315">mais</DiscourseConnective> sans empêcher la prise en considération des cycles de production <DiscourseConnective annotation_id="18385">et</DiscourseConnective> des délais de planification des constructeurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16408" docOffset="108">
+      <en>I welcome the fact that the Commission has learned from the mistakes of the past and accepted a deadline for comitology and for the tabling of the implementing measures.</en>
+      <fr>Je salue le fait <DiscourseConnective annotation_id="18452">que</DiscourseConnective> la Commission ait tiré les leçons des erreurs du passé <DiscourseConnective annotation_id="18511">et</DiscourseConnective> qu'elle ait accepté une date limite <DiscourseConnective annotation_id="18550">pour</DiscourseConnective> la comitologie <DiscourseConnective annotation_id="18570">et</DiscourseConnective> <DiscourseConnective annotation_id="18573">pour</DiscourseConnective> le dépôt des mesures de mise en œuvre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16578" docOffset="109">
+      <en>In this way we will, hopefully, avoid a delay like the one that occurred in the introduction of Euro 5 for passenger cars.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18617">Ainsi</DiscourseConnective>, nous pourrons, j'espère, éviter un retard <DiscourseConnective annotation_id="18666">comme</DiscourseConnective> celui qui s'est produit lors de l'introduction de la norme Euro V <DiscourseConnective annotation_id="18738">pour</DiscourseConnective> les voitures particulières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16701" docOffset="110">
+      <en>The figures in the proposal for reducing emissions are impressive: 66% less soot, 80% less nitrogen oxides.</en>
+      <fr>Les cibles de réduction des émissions prévues dans la proposition sont impressionnantes: 66 % en moins pour les particules, 80 % en moins pour les oxydes d'azote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16809" docOffset="111">
+      <en>As far <DiscourseConnective annotation_id="16816" sense="Temporal.Synchrony">as</DiscourseConnective> the reduction of pollutant emissions is concerned, the manufacturers are operating at the very limit of what is technically achievable.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18934">En</DiscourseConnective> ce qui concerne la réduction des émissions de polluants, les constructeurs travaillent actuellement à l'extrême limite de ce qui est techniquement réalisable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16955" docOffset="112">
+      <en>
+        <Alignment alignment="47005" annotation_id="16955">
+          <DiscourseConnective annotation_id="16955" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> maximum feasible improvements can always be made - and I fully believe in the creativity and inventiveness of European manufacturers in this regard - the closer you get to zero level, the more expensive the technology becomes.</en>
+      <fr>
+        <Alignment alignment="2041" annotation_id="19096">
+          <DiscourseConnective annotation_id="19096" sense="Comparison.Contrast">Si</DiscourseConnective>
+        </Alignment> des améliorations maximales faisables peuvent toujours être apportées - <DiscourseConnective annotation_id="19171">et</DiscourseConnective> je crois pleinement <DiscourseConnective annotation_id="19194">à</DiscourseConnective> la créativité <DiscourseConnective annotation_id="19210">et</DiscourseConnective> à l' inventivité des constructeurs européens <DiscourseConnective annotation_id="19258">à cet égard</DiscourseConnective> - plus on <DiscourseConnective annotation_id="19280">s'</DiscourseConnective>approche du niveau zéro émission, plus la technologie devient onéreuse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17188" docOffset="113">
+      <en>In light of this, the renewal of the stock of cars on the road is of increasing importance.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19354">À</DiscourseConnective> la lumière de cette constatation, le renouvellement du stock de voitures <DiscourseConnective annotation_id="19429">en</DiscourseConnective> circulation revêt une importance croissante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17280" docOffset="114">
+      <en>Pollution-spewing old bangers that have not met the applicable standards for many a year must be taken off the roads.</en>
+      <fr>Les vieux tacots hyper-polluants qui ne satisfont plus aux normes applicables <DiscourseConnective annotation_id="19555">depuis</DiscourseConnective> de nombreuses années doivent être retirés de la circulation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17398" docOffset="115">
+      <en>This would improve the emissions balance sheet more rapidly and more easily than expensive engine-tuning.</en>
+      <fr>Cela améliorerait le bilan des émissions plus rapidement <DiscourseConnective annotation_id="19680">et</DiscourseConnective> plus facilement <DiscourseConnective annotation_id="19699">qu'</DiscourseConnective>un réglage onéreux des moteurs.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17504" id="209" language="PL" name="Leopold Józef Rutowicz">
+    <ParallelChunk annotation_id="17504" docOffset="116">
+      <en>Mr President, the report by Mr Groote on the proposal for a Regulation of the European Parliament and of the Council on type-approval of motor vehicles and engines aimed at reducing pollution by heavy-duty vehicles is very important in terms of both environmental protection and the citizens' health.</en>
+      <fr>Monsieur le Président, le rapport de M. Groote sur la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="19835">et</DiscourseConnective> du Conseil relatif à la réception des véhicules à moteur <DiscourseConnective annotation_id="19895">et</DiscourseConnective> des moteurs au regard des émissions des véhicules utilitaires lourds est très important <DiscourseConnective annotation_id="19986">à</DiscourseConnective> la fois pour la protection de l'environnement <DiscourseConnective annotation_id="20034">et</DiscourseConnective> la santé des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17805" docOffset="117">
+      <en>It contains a commitment to reducing emissions to a level close to Euro VI for vehicles and engines already in use.</en>
+      <fr>La proposition contient un engagement <DiscourseConnective annotation_id="20098">à</DiscourseConnective> réduire les émissions <DiscourseConnective annotation_id="20122">à</DiscourseConnective> un niveau proche de la norme Euro VI <DiscourseConnective annotation_id="20161">pour</DiscourseConnective> les véhicules <DiscourseConnective annotation_id="20180">et</DiscourseConnective> moteurs <DiscourseConnective annotation_id="20191">déjà</DiscourseConnective> <DiscourseConnective annotation_id="20196">en</DiscourseConnective> circulation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17921" docOffset="118">
+      <en>This means that service garages need access to technical information and regulations on fitting out engines.</en>
+      <fr>Cela signifie <DiscourseConnective annotation_id="20226">que</DiscourseConnective> les services de réparation ont besoin d'accéder aux informations techniques <DiscourseConnective annotation_id="20306">et</DiscourseConnective> aux règlements relatifs à l'adaptation des moteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18030" docOffset="119">
+      <en>The garages need to possess the equipment required to assess the functioning of an engine <Alignment alignment="20468" annotation_id="18120">
+          <DiscourseConnective annotation_id="18120" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> it is running.</en>
+      <fr>Les ateliers de réparation doivent posséder l'équipement requis <DiscourseConnective annotation_id="20425">pour</DiscourseConnective> évaluer le fonctionnement d'un moteur <Alignment alignment="18120" annotation_id="20468">
+          <DiscourseConnective annotation_id="20468" sense="Temporal.Synchrony">pendant qu'</DiscourseConnective>
+        </Alignment>il tourne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18141" docOffset="120">
+      <en>Implementation of the Directive calls for a system of independent control, to ensure that vehicles are adjusted to meet the requirements adopted.</en>
+      <fr>La mise en œuvre de la directive appelle <DiscourseConnective annotation_id="20531">à</DiscourseConnective> un système de contrôle indépendant, <DiscourseConnective annotation_id="20569">afin de</DiscourseConnective> garantir <DiscourseConnective annotation_id="20586">que</DiscourseConnective> les véhicules ont été adaptés <DiscourseConnective annotation_id="20620">de manière à</DiscourseConnective> satisfaire aux exigences adoptées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18287" docOffset="121">
+      <en>Setting up such a system takes time and calls for resources that will be difficult to obtain in the current crisis situation.</en>
+      <fr>Mettre en place un tel système exige du temps <DiscourseConnective annotation_id="20714">et</DiscourseConnective> nécessite des ressources <DiscourseConnective annotation_id="20742">qu'</DiscourseConnective>il sera difficile d'obtenir dans l'actuelle situation de crise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18413" docOffset="122">
+      <en>I am in favour of the amendments to the Commission's opinion that have been tabled.</en>
+      <fr>Je suis favorable aux amendements qui ont été déposés concernant l'avis de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18497" docOffset="123">
+      <en>I should like to thank the rapporteur for all the work he has put into the document.</en>
+      <fr>Je voudrais remercier le rapporteur <DiscourseConnective annotation_id="20935">pour</DiscourseConnective> tous les efforts qu'il a consacrés <DiscourseConnective annotation_id="20975">à</DiscourseConnective> l'élaboration de ce document.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18582" docOffset="124">
+      <en>We support the report.</en>
+      <fr>Nous soutenons le rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18605" id="210" language="PL" name="Urszula Krupa">
+    <ParallelChunk annotation_id="18605" docOffset="125">
+      <en>Mr President, the proposal for a Regulation on type-approval of motor vehicles and engines with respect to emissions from heavy-duty vehicles aims to establish a single set of principles for the construction of engines, <Alignment alignment="40248" annotation_id="18825">
+          <DiscourseConnective annotation_id="18825" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> ensuring a high level of protection for the natural environment.</en>
+      <fr>Monsieur le Président, la proposition de règlement relatif à la réception des véhicules à moteur <DiscourseConnective annotation_id="21131">et</DiscourseConnective> des moteurs au regard des émissions des véhicules utilitaires lourds vise <DiscourseConnective annotation_id="21208">à</DiscourseConnective> établir un ensemble unique de principes concernant la construction de moteurs, <Alignment alignment="6641" annotation_id="21289">
+          <DiscourseConnective annotation_id="21289" sense="Contingency.Cause.Result">afin de</DiscourseConnective>
+        </Alignment> garantir un niveau élevé de protection de l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18895" docOffset="126">
+      <en>
+        <Alignment alignment="21356" annotation_id="18895">
+          <Alignment alignment="21356" annotation_id="18895">
+            <DiscourseConnective annotation_id="18895" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the proposed Union standards will <Alignment alignment="34925" annotation_id="18938">
+          <DiscourseConnective annotation_id="18938" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> simply force small and medium-sized enterprises manufacturing engines out of the European market.</en>
+      <fr>
+        <Alignment alignment="18895" annotation_id="21356">
+          <Alignment alignment="169" annotation_id="21356">
+            <DiscourseConnective annotation_id="21356" sense="Expansion.Conjunction">En fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les petites <DiscourseConnective annotation_id="21377">et</DiscourseConnective> moyennes entreprises de construction de moteurs, localisées hors du marché européen, devront <Alignment alignment="4735" annotation_id="21473">
+          <DiscourseConnective annotation_id="21473" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> se plier aux normes communautaires proposées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19041" docOffset="127">
+      <en>
+        <Alignment alignment="21529" annotation_id="19041">
+          <Alignment alignment="21529" annotation_id="19041">
+            <DiscourseConnective annotation_id="19041" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the new engines are to run on alternative fuels, <Alignment alignment="43110" annotation_id="19103">
+          <DiscourseConnective annotation_id="19103" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> manufacturers will be obliged to adjust accordingly all vehicles sold, registered or placed on the market.</en>
+      <fr>
+        <Alignment alignment="19041" annotation_id="21529">
+          <Alignment alignment="4320" annotation_id="21529">
+            <DiscourseConnective annotation_id="21529" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les nouveaux moteurs pourront être alimentés par des carburants alternatifs, <Alignment alignment="3070" annotation_id="21616">
+          <DiscourseConnective annotation_id="21616" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les constructeurs seront tenus, <DiscourseConnective annotation_id="21651">en conséquence</DiscourseConnective>, d'adapter tous les véhicules vendus, enregistrés <DiscourseConnective annotation_id="21716">ou</DiscourseConnective> mis sur le marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19214" docOffset="128">
+      <en>All the equipment used to measure emission of pollutants will <Alignment alignment="21816" annotation_id="19276">
+          <DiscourseConnective annotation_id="19276" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> have to be adjusted.</en>
+      <fr>Tous les équipements utilisés <DiscourseConnective annotation_id="21768">pour</DiscourseConnective> mesurer les émissions de polluants devront <Alignment alignment="23475" annotation_id="21816">
+          <DiscourseConnective annotation_id="21816" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être adaptés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19302" docOffset="129">
+      <en>Only large transporters and corporations will be able to cope with research and organisational requirements of this magnitude.</en>
+      <fr>Seuls les grands transporteurs <DiscourseConnective annotation_id="21871">et</DiscourseConnective> les grandes entreprises seront en mesure d'assumer des exigences en matière de recherche <DiscourseConnective annotation_id="21963">et</DiscourseConnective> d'organisation de cette ampleur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19429" docOffset="130">
+      <en>As regards new vehicles failing to comply with the provisions of this Regulation, national bodies will no longer accept certificates of compliance from 1 October 2014.</en>
+      <fr>Quant aux nouveaux véhicules non conformes aux dispositions de ce règlement, les organismes nationaux n'accepteront plus les certificats de conformité à partir du 1er octobre 2014.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19597" docOffset="131">
+      <en>As far <DiscourseConnective annotation_id="19604" sense="Temporal.Synchrony">as</DiscourseConnective> Poland is concerned, it is highly likely that many transport undertakings and engine manufacturing firms such as Andoria will simply cease to exist.</en>
+      <fr>
+        <DiscourseConnective annotation_id="22180">En</DiscourseConnective> ce qui concerne la Pologne, il est très probable <DiscourseConnective annotation_id="22232">que</DiscourseConnective> de nombreuses entreprises de transport <DiscourseConnective annotation_id="22275">et</DiscourseConnective> de construction de moteurs, telles <DiscourseConnective annotation_id="22313">que</DiscourseConnective> Andoria cesseront tout <DiscourseConnective annotation_id="22340">simplement</DiscourseConnective> d'exister.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19756" docOffset="132">
+      <en>The notion of Union legislation having the same effect in all Member States and serving all their interests is proving to be a myth.</en>
+      <fr>La notion de législation communautaire ayant le <DiscourseConnective annotation_id="22410">même</DiscourseConnective> effet dans tous les États membres <DiscourseConnective annotation_id="22449">et</DiscourseConnective> servant tous leurs intérêts <DiscourseConnective annotation_id="22480">s'</DiscourseConnective>avère être un mythe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19889" docOffset="133">
+      <en>The elimination of weaker and poorer undertakings will obviously benefit large corporations, <DiscourseConnective annotation_id="19982" sense="Expansion.Conjunction">and</DiscourseConnective> these are mainly German.</en>
+      <fr>L'élimination des entreprises vulnérables <DiscourseConnective annotation_id="22545">et</DiscourseConnective> pauvres bénéficiera évidemment aux grandes sociétés, celles-ci étant en majorité allemandes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20011" docOffset="134">
+      <en>It is already apparent that most of the documents in the whole energy and climate change package may indeed ensure cohesion and economic development pursuant to the principles of sustainable development for large and wealthy countries and undertakings.</en>
+      <fr>It est <DiscourseConnective annotation_id="22648">déjà</DiscourseConnective> apparent <DiscourseConnective annotation_id="22662">que</DiscourseConnective> la plupart des documents de l'ensemble du paquet énergie-changement climatique peuvent <DiscourseConnective annotation_id="22753">effectivement</DiscourseConnective> assurer la cohésion <DiscourseConnective annotation_id="22787">et</DiscourseConnective> le développement économique conformément aux principes du développement durable des grands pays <DiscourseConnective annotation_id="22886">et</DiscourseConnective> des grandes entreprises riches.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20264" docOffset="135">
+      <en>Polish scientists estimate, <Alignment alignment="22958" annotation_id="20292">
+          <DiscourseConnective annotation_id="20292" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that the package will cost at least PLN 500 billion.</en>
+      <fr>Les scientifiques polonais estiment, <Alignment alignment="20292" annotation_id="22958">
+          <DiscourseConnective annotation_id="22958" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="22969">que</DiscourseConnective> le paquet coûtera <DiscourseConnective annotation_id="22991">au moins</DiscourseConnective> 500 milliards de zlotys.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20354" docOffset="136">
+      <en>This will lead to economic collapse and to a huge increase in costs and food prices because of the need to replace transport vehicles.</en>
+      <fr>À cause de l'obligation de remplacer les véhicules de transport, ce paquet va conduire <DiscourseConnective annotation_id="23112">à</DiscourseConnective> un effondrement économique <DiscourseConnective annotation_id="23141">et</DiscourseConnective> <DiscourseConnective annotation_id="23144">à</DiscourseConnective> une énorme augmentation des coûts <DiscourseConnective annotation_id="23180">et</DiscourseConnective> des prix des produits alimentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20489" docOffset="137">
+      <en>The population will be impoverished <Alignment alignment="23219" annotation_id="20525">
+          <Alignment alignment="17734" annotation_id="20525">
+            <DiscourseConnective annotation_id="20525" sense="Contingency.Cause.Result">as a result</DiscourseConnective>
+          </Alignment>
+        </Alignment>.</en>
+      <fr>
+        <Alignment alignment="12264" annotation_id="23219">
+          <Alignment alignment="2036" annotation_id="23219">
+            <DiscourseConnective annotation_id="23219" sense="Contingency.Cause.Result">En conséquence</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la population s'en trouvera appauvrie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20538" id="211" name="Bogusław Liberadzki">
+    <ParallelChunk annotation_id="20538" docOffset="138">
+      <en>- (PL) Mr President, in this Parliamentary term we are issuing a further regulation that essentially completes the cycle of regulations concerning transport and means of transport in terms of their environmental impact and the protection of air quality.</en>
+      <fr>- (PL) Monsieur le Président, nous voici, au cours de cette législature encore, en train d'introduire un autre règlement qui, pour l'essentiel, complète le cycle de règlements sur les transports <DiscourseConnective annotation_id="23469">et</DiscourseConnective> les moyens de transport eu égard <DiscourseConnective annotation_id="23505">à</DiscourseConnective> leur impact environnemental <DiscourseConnective annotation_id="23535">et</DiscourseConnective> à la protection de la qualité de l'air.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20792" docOffset="139">
+      <en>It has been a huge undertaking, which this document draws to a close.</en>
+      <fr>Ce fut une énorme entreprise qui, avec ce document, touche <DiscourseConnective annotation_id="23637">à</DiscourseConnective> sa fin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20862" docOffset="140">
+      <en>Let us call a spade a spade.</en>
+      <fr>Appelons un chat un chat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20891" docOffset="141">
+      <en>Europe takes protection of the natural world and of the environment seriously, <Alignment alignment="60616" annotation_id="20970">
+          <DiscourseConnective annotation_id="20970" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> Europe will have to pay a price for doing so.</en>
+      <fr>L'Europe prend au sérieux la protection du milieu naturel <DiscourseConnective annotation_id="23731">et</DiscourseConnective> de l'environnement, <Alignment alignment="20970" annotation_id="23754">
+          <DiscourseConnective annotation_id="23754" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> elle devra payer le prix de cette attitude.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21020" docOffset="142">
+      <en>A great economic effort is of course involved, though perhaps not as great as the previous speaker indicated.</en>
+      <fr>Un grand effort économique est évidemment nécessaire, peut-être pas <DiscourseConnective annotation_id="23871">aussi</DiscourseConnective> important, <DiscourseConnective annotation_id="23888">toutefois</DiscourseConnective>, que ce <DiscourseConnective annotation_id="23906">que</DiscourseConnective> le précédent orateur a indiqué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21130" docOffset="143">
+      <en>Vehicle owners are certainly being required to make a great economic effort at present, just <Alignment alignment="24051" annotation_id="21223">
+          <DiscourseConnective annotation_id="21223" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the transport sector is experiencing such a dramatic financial crisis.</en>
+      <fr>Il est certain que les propriétaires de véhicules se voient actuellement demander un gros effort économique, <Alignment alignment="21223" annotation_id="24051">
+          <DiscourseConnective annotation_id="24051" sense="Temporal.Synchrony">de même que</DiscourseConnective>
+        </Alignment> le secteur des transports subit une crise financière dramatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21297" docOffset="144">
+      <en>Buying fewer vehicles could be a solution, <Alignment alignment="38996" annotation_id="21340">
+          <DiscourseConnective annotation_id="21340" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> this might mean that manufacturers would suffer due to reduced demand.</en>
+      <fr>Acheter moins de véhicules pourrait être une solution, <Alignment alignment="17834" annotation_id="24183">
+          <DiscourseConnective annotation_id="24183" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cela signifierait <DiscourseConnective annotation_id="24206">que</DiscourseConnective> les constructeurs souffriraient de la diminution de la demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21415" docOffset="145">
+      <en>Financial inducements are needed <Alignment alignment="24274" annotation_id="21448">
+          <DiscourseConnective annotation_id="21448" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> our regulation is to attain its aim and serve a purpose, that is to say, for it to be possible to buy and sell new generation vehicles.</en>
+      <fr>
+        <Alignment alignment="21448" annotation_id="24274">
+          <DiscourseConnective annotation_id="24274" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous voulons que ce règlement atteigne son but <DiscourseConnective annotation_id="24324">et</DiscourseConnective> qu'il serve son objet, les incitations financières sont indispensables, <DiscourseConnective annotation_id="24399">c'est-à-dire qu'</DiscourseConnective>il doit être possible d'acheter <DiscourseConnective annotation_id="24447">et</DiscourseConnective> de vendre des véhicules de la nouvelle génération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21587" docOffset="146">
+      <en>I consider this issue to be a vital element of the document before us.</en>
+      <fr>Je considère que cette question représente un élément vital du document à l'examen.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21658" id="212" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="21658" docOffset="147">
+      <en>- (CS) It is clear that not only passenger vehicles <Alignment alignment="53444" annotation_id="21710">
+          <DiscourseConnective annotation_id="21710" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="1307" annotation_id="21714">
+          <DiscourseConnective annotation_id="21714" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> heavy goods vehicles must be fitted with modern systems ensuring an 80% reduction in emissions of carbon monoxide and nitrogen oxide as well as a reduction in particulate emissions of up to 60 %.</en>
+      <fr>- (CS) Il est clair <DiscourseConnective annotation_id="24605">que</DiscourseConnective> <DiscourseConnective annotation_id="24609">non seulement</DiscourseConnective> les véhicules de transport de personnes, <Alignment alignment="21710" annotation_id="24664">
+          <DiscourseConnective annotation_id="24664" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="2217" annotation_id="24669">
+          <DiscourseConnective annotation_id="24669" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> les poids lourds doivent être équipés de systèmes modernes garantissant une réduction de 80 % des émissions de monoxyde de carbone <DiscourseConnective annotation_id="24810">et</DiscourseConnective> d'oxyde d'azote, <DiscourseConnective annotation_id="24830">ainsi</DiscourseConnective> qu'une réduction de 60 %des émissions de particules.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21915" docOffset="148">
+      <en>In view of the fact that the replacement rate for such vehicles is around 10 years in Europe, I would like to call on the Commission to propose regulations which would <Alignment alignment="19224" annotation_id="22083">
+          <DiscourseConnective annotation_id="22083" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> make it possible to fit older vehicles with more modern emission control systems.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24889">Considérant que</DiscourseConnective> le taux de remplacement de tels véhicules est d'environ dix ans <DiscourseConnective annotation_id="24969">en</DiscourseConnective> Europe, je voudrais appeler la Commission <DiscourseConnective annotation_id="25014">à</DiscourseConnective> proposer des règlements qui permettraient <Alignment alignment="3855" annotation_id="25058">
+          <DiscourseConnective annotation_id="25058" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> d'équiper les véhicules anciens de systèmes plus modernes de contrôle des émissions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22170" docOffset="149">
+      <en>Failing this, Euro VI will not make a significant contribution to improvements in air quality.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25153">Faute de quoi</DiscourseConnective>, Euro VI sera dans l'incapacité d'apporter une contribution significative <DiscourseConnective annotation_id="25241">à</DiscourseConnective> l'amélioration de la qualité de l'air.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22265" docOffset="150">
+      <en>I fully support the requirement that the Commission should promote the development of international - that is, not just European - harmonisation of laws on motor vehicles, and not just goods vehicles.</en>
+      <fr>Je soutiens pleinement le principe selon lequel la Commission devrait promouvoir le développement de l'harmonisation au plan international - c'est-à-dire pas uniquement à l'échelle européenne - des lois sur les véhicules à moteur, <DiscourseConnective annotation_id="25513">et</DiscourseConnective> pas seulement celles relatives aux véhicules de transport de marchandises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22466" docOffset="151">
+      <en>It is a question that involves not only the quality of the air on our planet but also, of course, European competitiveness.</en>
+      <fr>C'est une question qui implique <DiscourseConnective annotation_id="25623">non seulement</DiscourseConnective> la qualité de l'air sur notre planète, <DiscourseConnective annotation_id="25676">mais</DiscourseConnective> <DiscourseConnective annotation_id="25681">également</DiscourseConnective>, bien sûr, la compétitivité européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22590" docOffset="152">
+      <en>
+        <DiscourseConnective annotation_id="22590" sense="Expansion.Conjunction">And</DiscourseConnective> for this reason I would <Alignment alignment="25758" annotation_id="22618">
+          <DiscourseConnective annotation_id="22618" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to point out the need not to modify the emissions standard for at least the next five years.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25731">C'est pourquoi</DiscourseConnective> je voudrais <Alignment alignment="1751" annotation_id="25758">
+          <DiscourseConnective annotation_id="25758" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souligner la nécessité de ne pas modifier les normes d'émissions pendant les cinq prochaines années <DiscourseConnective annotation_id="25868">au moins</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22721" id="213" name="Malcolm Harbour">
+    <ParallelChunk annotation_id="22721" docOffset="153">
+      <en>Mr President, I wish to thank Mr Groote, and more particularly my colleague Ms Weisgerber, who acted as rapporteur for the opinion of the Committee on the Internal Market and Consumer Protection.</en>
+      <fr>(EN) Monsieur le Président, je souhaite remercier M. Groote, <DiscourseConnective annotation_id="25939">et</DiscourseConnective> <DiscourseConnective annotation_id="25942">plus particulièrement</DiscourseConnective> ma collègue Mme Weisgerber, qui était la rapporteure <DiscourseConnective annotation_id="26017">pour</DiscourseConnective> avis de la commission du marché intérieur <DiscourseConnective annotation_id="26064">et</DiscourseConnective> de la protection des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22917" docOffset="154">
+      <en>One thing I have not heard mentioned this evening, <DiscourseConnective annotation_id="22968" sense="Expansion.Conjunction">and</DiscourseConnective> I want to place this firmly on the agenda, is the fact that European producers are dominant in the global heavy commercial vehicle market.</en>
+      <fr>Il y a une chose que je n'ai pas entendu mentionner ce soir et que je veux inscrire <DiscourseConnective annotation_id="26187">en</DiscourseConnective> bonne place sur l'agenda: c'est le fait <DiscourseConnective annotation_id="26230">que</DiscourseConnective> les constructeurs européens dominent le marché mondial des poids lourds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23111" docOffset="155">
+      <en>This proposal is absolutely crucial in that it paves the way for a global standard for heavy vehicle engine emissions.</en>
+      <fr>Cette proposition est absolument cruciale <DiscourseConnective annotation_id="26349">en ce sens qu'</DiscourseConnective>elle ouvre la voie <DiscourseConnective annotation_id="26382">à</DiscourseConnective> une normalisation mondiale des émissions des véhicules utilitaires lourds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23230" docOffset="156">
+      <en>That is important <Alignment alignment="26475" annotation_id="23248">
+          <DiscourseConnective annotation_id="23248" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, unlike cars, heavy commercial vehicles are produced in small volumes <Alignment alignment="27124" annotation_id="23326">
+          <DiscourseConnective annotation_id="23326" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they are very complex.</en>
+      <fr>C'est important <Alignment alignment="35" annotation_id="26475">
+          <DiscourseConnective annotation_id="26475" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, contrairement aux voitures, les poids lourds sont produits <DiscourseConnective annotation_id="26545">en</DiscourseConnective> petites quantités <Alignment alignment="10974" annotation_id="26566">
+          <DiscourseConnective annotation_id="26566" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ils sont très complexes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23353" docOffset="157">
+      <en>Producers for the global market are able to mobilise resources and harness developments to produce a global truck engine.</en>
+      <fr>Les constructeurs du marché mondial sont en mesure de mobiliser des ressources <DiscourseConnective annotation_id="26673">et</DiscourseConnective> d'exploiter les développements <DiscourseConnective annotation_id="26707">pour</DiscourseConnective> produire un moteur de camion mondial.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23475" docOffset="158">
+      <en>I went to see one such company recently, and can tell you that it is planning to invest EUR 1 billion in a global family of truck engines.</en>
+      <fr>J'ai récemment rendu visite <DiscourseConnective annotation_id="26778">à</DiscourseConnective> l'une de ces entreprises, <DiscourseConnective annotation_id="26806">et</DiscourseConnective> je peux vous <DiscourseConnective annotation_id="26822">dire qu'</DiscourseConnective>elle est en train de planifier un investissement d'un milliard d'euros dans une gamme mondiale de moteurs de camion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23614" docOffset="159">
+      <en>The regulatory climate we are proposing needs to encourage this, <Alignment alignment="37735" annotation_id="23679">
+          <DiscourseConnective annotation_id="23679" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we <Alignment alignment="44877" annotation_id="23686">
+          <DiscourseConnective annotation_id="23686" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want the Commission to ensure that this regulation becomes the global regulation as well, which is part of the package on the table today.</en>
+      <fr>Le règlement climatique que nous proposons doit encourager cette orientation, <Alignment alignment="5621" annotation_id="27025">
+          <DiscourseConnective annotation_id="27025" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous voulons <Alignment alignment="27073" annotation_id="27041">
+          <DiscourseConnective annotation_id="27041" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> que la Commission garantisse <DiscourseConnective annotation_id="27080">que</DiscourseConnective> ce règlement deviendra <DiscourseConnective annotation_id="27107">aussi</DiscourseConnective> un règlement mondial, ce <DiscourseConnective annotation_id="27138">que</DiscourseConnective> prévoit le paquet que nous avons devant nous aujourd'hui.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23830" id="214" name="Matthias Groote">
+    <ParallelChunk annotation_id="23830" docOffset="160">
+      <en>rapporteur. - (DE) Mr President, I would like to thank all my fellow Members for this engaged debate.</en>
+      <fr>rapporteur. - (DE) Monsieur le Président, je voudrais remercier tous mes collègues <DiscourseConnective annotation_id="27283">pour</DiscourseConnective> ce débat passionné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23932" docOffset="161">
+      <en>As a first point, I would like to thank the Commission, in the person of Commissioner Verheugen, for reading out the declaration on the implementing measures here in the House today.</en>
+      <fr>
+        <DiscourseConnective annotation_id="27308">Tout d'abord</DiscourseConnective>, je voudrais remercier la Commission, <DiscourseConnective annotation_id="27359">en</DiscourseConnective> la personne du commissaire Verheugen, d'avoir lu la déclaration sur les mesures de mise en œuvre ici dans cette Assemblée aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24115" docOffset="162">
+      <en>This matter had really given us some headaches and been a cause for concern.</en>
+      <fr>Cette question nous avait vraiment donné quelques maux de tête <DiscourseConnective annotation_id="27560">et</DiscourseConnective> elle a été un sujet de préoccupation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24192" docOffset="163">
+      <en>It was good for it to be played out in public here again.</en>
+      <fr>Il est bon <DiscourseConnective annotation_id="27612">qu'</DiscourseConnective>elle ait été réglée ici <DiscourseConnective annotation_id="27639">en</DiscourseConnective> public.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24250" docOffset="164">
+      <en>Many Members have spoken about how environmental standards could or definitely will increase sales <Alignment alignment="51767" annotation_id="24349">
+          <DiscourseConnective annotation_id="24349" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> this specific sector of industry currently finds itself in crisis.</en>
+      <fr>De nombreux collègues ont posé la question de savoir comment des normes environnementales pourraient augmenter, voire <DiscourseConnective annotation_id="27768">même</DiscourseConnective> allaient augmenter, les ventes <Alignment alignment="14048" annotation_id="27804">
+          <DiscourseConnective annotation_id="27804" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> ce secteur spécifique de l'industrie est actuellement <DiscourseConnective annotation_id="27868">en</DiscourseConnective> crise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24419" docOffset="165">
+      <en>Mrs Krupa told us how the climate and energy package, but also this legislation, will drive small manufacturers from the market <Alignment alignment="28007" annotation_id="24547">
+          <DiscourseConnective annotation_id="24547" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> how it will destroy them.</en>
+      <fr>Mme Krupa nous a dit comment le paquet énergie-climat, <DiscourseConnective annotation_id="27933">mais aussi</DiscourseConnective> cette législation, chassera du marché les petits constructeurs <Alignment alignment="24547" annotation_id="28007">
+          <DiscourseConnective annotation_id="28007" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> comment il les détruira.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24577" docOffset="166">
+      <en>I do not see it like that, <Alignment alignment="24038" annotation_id="24604">
+          <DiscourseConnective annotation_id="24604" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the Euro standard and the Euro exhaust gas standard have been a success story <Alignment alignment="15226" annotation_id="24685">
+          <DiscourseConnective annotation_id="24685" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> technical innovations have always fuelled the market and energised consumers to buy new vehicles.</en>
+      <fr>Je ne vois pas les choses <DiscourseConnective annotation_id="28061">comme</DiscourseConnective> cela, <Alignment alignment="11847" annotation_id="28073">
+          <DiscourseConnective annotation_id="28073" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> la norme Euro <DiscourseConnective annotation_id="28091">et</DiscourseConnective> la norme Euro sur les gaz d'échappement ont été une réussite <Alignment alignment="24685" annotation_id="28155">
+          <DiscourseConnective annotation_id="28155" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les innovations techniques ont toujours alimenté le marché <DiscourseConnective annotation_id="28217">et</DiscourseConnective> encouragé les consommateurs <DiscourseConnective annotation_id="28248">à</DiscourseConnective> acheter de nouveaux véhicules.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24787" docOffset="167">
+      <en>Mrs Roithová spoke about retrofitting.</en>
+      <fr>Mme Roithová a parlé du post-équipement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24826" docOffset="168">
+      <en>Retrofitting is a good thing, <Alignment alignment="48256" annotation_id="24856">
+          <DiscourseConnective annotation_id="24856" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it requires a harmonised process to be got underway, <Alignment alignment="30973" annotation_id="24913">
+          <DiscourseConnective annotation_id="24913" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would once again urge the Commission to do this.</en>
+      <fr>Le post-équipement est une bonne chose, <Alignment alignment="24856" annotation_id="28362">
+          <DiscourseConnective annotation_id="28362" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> sa mise en œuvre exige un processus harmonisé <Alignment alignment="24913" annotation_id="28413">
+          <DiscourseConnective annotation_id="28413" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais encore une fois presser la Commission d'en préparer un.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24968" docOffset="169">
+      <en>
+        <Alignment alignment="44126" annotation_id="24968">
+          <DiscourseConnective annotation_id="24968" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we fit vehicles with diesel particle filters, ultimately they produce more nitrogen oxide <Alignment alignment="28600" annotation_id="25061">
+          <DiscourseConnective annotation_id="25061" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, with that in mind, what we need is a reasonable combination of these two factors and a uniform regulation for retrofitting processes.</en>
+      <fr>
+        <Alignment alignment="24968" annotation_id="28484">
+          <DiscourseConnective annotation_id="28484" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous équipons les véhicules avec des filtres à particules diesel, <DiscourseConnective annotation_id="28553">finalement</DiscourseConnective> ils produiront plus d'oxyde d'azote <Alignment alignment="7171" annotation_id="28600">
+          <DiscourseConnective annotation_id="28600" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="28604">par conséquent</DiscourseConnective>, ce dont nous avons besoin c'est d'une combinaison raisonnable de ces deux facteurs <DiscourseConnective annotation_id="28703">et</DiscourseConnective> d'un règlement uniformisé <DiscourseConnective annotation_id="28732">pour</DiscourseConnective> les processus de post-équipement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25200" docOffset="170">
+      <en>In the coming years it is very important that something be got underway in this respect, that we obtain a uniform standard in this area too, that it is not only new vehicles that can be fitted with these particularly environmentally-friendly technologies <Alignment alignment="29081" annotation_id="25455">
+          <DiscourseConnective annotation_id="25455" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> for there to be a uniform, standardised procedure for used vehicles too.</en>
+      <fr>Dans les années à venir, il sera très important de faire avancer les choses <DiscourseConnective annotation_id="28847">à cet égard</DiscourseConnective>, <DiscourseConnective annotation_id="28860">que</DiscourseConnective> nous obtenions une norme uniformisée dans ce domaine <DiscourseConnective annotation_id="28917">aussi</DiscourseConnective>, <DiscourseConnective annotation_id="28924">pour que</DiscourseConnective> ce ne <DiscourseConnective annotation_id="28939">soit</DiscourseConnective> pas uniquement les nouveaux véhicules qui puissent être équipés avec ces technologies particulièrement respectueuses de l'environnement, <Alignment alignment="19166" annotation_id="29081">
+          <DiscourseConnective annotation_id="29081" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="29086">qu'</DiscourseConnective>il y ait une procédure uniformisée, standardisée, <DiscourseConnective annotation_id="29139">pour</DiscourseConnective> les véhicules anciens <DiscourseConnective annotation_id="29166">également</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25532" docOffset="171">
+      <en>My thanks once again to all those who were involved <Alignment alignment="11800" annotation_id="25584">
+          <DiscourseConnective annotation_id="25584" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> who joined in the discussions.</en>
+      <fr>Mes remerciements, une fois <DiscourseConnective annotation_id="29205">encore</DiscourseConnective>, <DiscourseConnective annotation_id="29213">à</DiscourseConnective> tous ceux qui ont été impliqués <Alignment alignment="2940" annotation_id="29247">
+          <DiscourseConnective annotation_id="29247" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui ont participé aux discussions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25619" docOffset="172">
+      <en>It is only with your help that it has been made possible for us to conclude this legislative process tomorrow, in all likelihood, at first reading and for the industry, but also the people of Europe, to be granted the certainty to plan and to know what is heading their way.</en>
+      <fr>Ce n'est <DiscourseConnective annotation_id="29294">qu'</DiscourseConnective>avec votre aide <DiscourseConnective annotation_id="29313">qu'</DiscourseConnective>il nous a été possible de conclure ce processus législatif qui s'achèvera demain, selon toute probabilité, <DiscourseConnective annotation_id="29423">en</DiscourseConnective> première lecture <DiscourseConnective annotation_id="29443">et</DiscourseConnective> d'offrir <DiscourseConnective annotation_id="29455">à</DiscourseConnective> l'industrie, <DiscourseConnective annotation_id="29470">mais</DiscourseConnective> <DiscourseConnective annotation_id="29475">également</DiscourseConnective> aux citoyens européens, la certitude de pouvoir planifier leur activité <DiscourseConnective annotation_id="29557">et</DiscourseConnective> de savoir comment aller de l'<DiscourseConnective annotation_id="29589">avant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25894" docOffset="173">
+      <en>For that, once again, my sincere thanks!</en>
+      <fr>
+        <DiscourseConnective annotation_id="29596">Pour</DiscourseConnective> cela, une fois <DiscourseConnective annotation_id="29616">encore</DiscourseConnective>, mes sincères remerciements!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25935" id="215" name="President">
+    <ParallelChunk annotation_id="25935" docOffset="174">
+      <en>- The debate is closed.</en>
+      <fr>- Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25959" docOffset="175">
+      <en>The vote will take place on Tuesday 16 December 2008.</en>
+      <fr>Le vote aura lieu mardi 16 décembre 2008.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

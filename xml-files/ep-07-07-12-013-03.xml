@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Human rights in Vietnam (vote)</en>
+    <fr>Droits de l'homme au Viêt Nam (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="34" docOffset="2">
+    <en>Joint resolution</en>
+    <fr>Résolution commune</fr>
+  </ParallelChunk>
+<Speaker annotation_id="51" id="277" name="President">
+    <ParallelChunk annotation_id="51" docOffset="3">
+      <en>The voting is over.</en>
+      <fr>Le vote est terminé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="71" id="278" name="Ryszard Czarnecki">
+    <ParallelChunk annotation_id="71" docOffset="4">
+      <en>(PL) Mr President, I would like to make an unequivocal statement concerning the report we voted on this morning.</en>
+      <fr>(PL) Monsieur le Président, j'aurais une déclaration claire <DiscourseConnective annotation_id="140">à</DiscourseConnective> faire concernant le rapport que nous avons voté ce matin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="184" docOffset="5">
+      <en>(The President cut off the speaker.)</en>
+      <fr>(Le président retire la parole à l'orateur)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="221" id="279" name="President">
+    <ParallelChunk annotation_id="221" docOffset="6">
+      <en>I am sorry <Alignment alignment="260" annotation_id="232">
+          <DiscourseConnective annotation_id="232" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> explanations of vote are not permitted at the moment.</en>
+      <fr>Je suis désolé, <Alignment alignment="232" annotation_id="260">
+          <DiscourseConnective annotation_id="260" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les explications de vote ne sont pas autorisées <DiscourseConnective annotation_id="313">pour</DiscourseConnective> le moment.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

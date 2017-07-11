@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Proposal for a decision (</en>
+    <fr>Proposition de décision (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="29" id="039" name="Eva Joly">
+    <ParallelChunk annotation_id="29" docOffset="2">
+      <en>(FR) Mr President, we wish the following phrase to be added to point A:</en>
+      <fr>Monsieur le Président, nous souhaitons que <DiscourseConnective annotation_id="72">soit</DiscourseConnective> ajouté au point A l'élément de phrase suivant:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="101" docOffset="3">
+      <en>'as well as on the developing countries', so that this reads 'to analyse and evaluate the extent of the social, economic and financial crisis, its impact on the Union and its Member States, as well as on the developing countries'.</en>
+      <fr>(EN) "<DiscourseConnective annotation_id="130">ainsi</DiscourseConnective> <DiscourseConnective annotation_id="136">que</DiscourseConnective> sur les pays en développement", <DiscourseConnective annotation_id="172">pour que</DiscourseConnective> la formulation soit la suivante: "analyser <DiscourseConnective annotation_id="224">et</DiscourseConnective> évaluer l'ampleur de la crise financière, économique <DiscourseConnective annotation_id="280">et</DiscourseConnective> sociale, son impact sur l'Union <DiscourseConnective annotation_id="315">et</DiscourseConnective> ses États membres, <DiscourseConnective annotation_id="337">ainsi</DiscourseConnective> que sur les pays en développement".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="332" id="042" name="Eva Joly">
+    <ParallelChunk annotation_id="332" docOffset="4">
+      <en>Mr President, we <Alignment alignment="482" annotation_id="349">
+          <DiscourseConnective annotation_id="349" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want to include a reference to 'development cooperation' so the sentence reads: 'To analyse and evaluate the current implementation of Community legislation in all the areas concerned, including development cooperation'.</en>
+      <fr>(EN) Monsieur le Président, nous voulons <Alignment alignment="349" annotation_id="420">
+          <DiscourseConnective annotation_id="420" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> inclure une référence <DiscourseConnective annotation_id="452">à</DiscourseConnective> la "coopération au développement" <DiscourseConnective annotation_id="488">pour que</DiscourseConnective> la phrase soit la suivante: "analyser <DiscourseConnective annotation_id="535">et</DiscourseConnective> évaluer la mise en œuvre à ce jour de la législation communautaire dans tous les domaines concernés, y compris la coopération au développement".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="575" docOffset="5">
+      <en>We thought that the developing countries' point of view was not reflected within the mandate.</en>
+      <fr>Nous pensions <DiscourseConnective annotation_id="697">que</DiscourseConnective> le point de vue des pays en développement n'était pas reflété dans le mandat.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

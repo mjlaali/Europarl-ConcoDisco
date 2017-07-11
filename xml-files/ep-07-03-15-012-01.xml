@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Guatemala (vote)</en>
+    <fr>Guatemala (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="20" docOffset="2">
+    <en>- Before the vote on recitals B and C</en>
+    <fr>- <DiscourseConnective annotation_id="22">Avant</DiscourseConnective> le vote sur les considérants B <DiscourseConnective annotation_id="59">et</DiscourseConnective> C</fr>
+  </ParallelChunk>
+<Speaker annotation_id="58" id="252" name="Marios Matsakis">
+    <ParallelChunk annotation_id="58" docOffset="3">
+      <en>Mr President, a couple of small but important wording errors have managed to creep into the resolution.</en>
+      <fr>(EN) Monsieur le Président, deux erreurs de formulation, petites <DiscourseConnective annotation_id="129">mais</DiscourseConnective> importantes, ont réussi <DiscourseConnective annotation_id="158">à</DiscourseConnective> se glisser dans la résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="162" docOffset="4">
+      <en>I propose to correct them <Alignment alignment="218" annotation_id="188">
+          <DiscourseConnective annotation_id="188" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> follows: in recital B, to replace the word 'authors' with the word 'perpetrators', and in recital C, to replace the words 'intellectual authors' with the word 'instigators'.</en>
+      <fr>Je propose de les corriger <Alignment alignment="188" annotation_id="218">
+          <DiscourseConnective annotation_id="218" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> suit: dans le considérant B, remplacer "authors" par le mot "perpetrators" (auteurs), <DiscourseConnective annotation_id="310">et</DiscourseConnective> dans le considérant C, remplacer les mots "intellectual authors" (auteurs intellectuels) par le mot "instigators" (instigateurs).</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="365" id="253" name="President">
+    <ParallelChunk annotation_id="365" docOffset="5">
+      <en>Are there any objections to the inclusion of these oral amendments?</en>
+      <fr>Y a-t-il des oppositions <DiscourseConnective annotation_id="468">à</DiscourseConnective> la prise en compte de ces amendements oraux?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="433" docOffset="6">
+      <en>(The oral amendments were accepted)</en>
+      <fr>(Les amendements oraux sont retenus)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>13.</en>
+    <fr>13.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>National restructuring programmes for the cotton sector (</en>
+    <fr>Programmes nationaux de restructuration du secteur du coton (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="62" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="68">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="81" id="098" name="Charlie McCreevy">
+    <ParallelChunk annotation_id="81" docOffset="3">
+      <en>Member of the Commission. - Mr President, since the adoption of the new cotton reform by Council in June 2008, much work has been invested in setting up restructuring programmes in the main cotton-producing Member States.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, <DiscourseConnective annotation_id="138">depuis</DiscourseConnective> l'adoption de la nouvelle réforme du coton par le Conseil <DiscourseConnective annotation_id="203">en</DiscourseConnective> juin 2008, beaucoup a été fait <DiscourseConnective annotation_id="237">pour</DiscourseConnective> mettre au point des programmes de restructuration dans les principaux États membres producteurs de coton.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="303" docOffset="4">
+      <en>This proposal is the Commission's response to the Council's invitation to propose adjustments to the framework for these restructuring programmes.</en>
+      <fr>Cette proposition est la réponse de la Commission <DiscourseConnective annotation_id="398">à</DiscourseConnective> l'invitation du Conseil, qui lui demandait de proposer des ajustements au cadre sous-tendant ces programmes de restructuration.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="450" docOffset="5">
+      <en>The main modification concerns the possibility of introducing an eight-year, instead of a four-year, programme, which would allow for more substantial restructuring operations.</en>
+      <fr>La principale modification porte sur la possibilité d'introduire un programme d'une durée de huit ans <DiscourseConnective annotation_id="630">au lieu de</DiscourseConnective> quatre, ce qui permettrait d'engager des opérations de restructuration plus conséquentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="627" docOffset="6">
+      <en>The Commission thanks the rapporteur for the support given to the Commission proposal.</en>
+      <fr>La Commission remercie la rapporteure <DiscourseConnective annotation_id="769">pour</DiscourseConnective> le soutien qu'elle a apporté <DiscourseConnective annotation_id="803">à</DiscourseConnective> sa proposition.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="714" id="099" name="President">
+    <ParallelChunk annotation_id="714" docOffset="7">
+      <en>We are pleased <Alignment alignment="839" annotation_id="729">
+          <DiscourseConnective annotation_id="729" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the Commission praises our work; this should always be the case.</en>
+      <fr>Nous sommes ravis <Alignment alignment="729" annotation_id="839">
+          <DiscourseConnective annotation_id="839" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la Commission fait l'éloge de notre travail; cela devrait toujours être le cas.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

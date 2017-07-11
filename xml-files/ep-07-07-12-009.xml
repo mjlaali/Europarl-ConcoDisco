@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Communication of Council common positions: see Minutes</en>
+    <fr>Communication de positions communes du Conseil: Cf. procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="55" id="213" name="Bogusław Rogalski">
+    <ParallelChunk annotation_id="55" docOffset="1">
+      <en>(PL) Madam President, excuse me, <Alignment alignment="176759" annotation_id="88">
+          <DiscourseConnective annotation_id="88" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I would just like to explain my voting on the report on Macedonia, <Alignment alignment="192" annotation_id="159">
+          <DiscourseConnective annotation_id="159" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> that is possible.</en>
+      <fr>(PL) Madame la Présidente, excusez-moi, <Alignment alignment="88" annotation_id="106">
+          <DiscourseConnective annotation_id="106" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je voudrais <DiscourseConnective annotation_id="123">simplement</DiscourseConnective> expliquer mon vote sur le rapport relatif à la Macédoine, <Alignment alignment="159" annotation_id="192">
+          <DiscourseConnective annotation_id="192" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> c'est possible.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="180" id="214" name="President">
+    <ParallelChunk annotation_id="180" docOffset="2">
+      <en>Mr Rogalski, you were not on the list, <Alignment alignment="246" annotation_id="219">
+          <DiscourseConnective annotation_id="219" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I have closed the explanations of vote.</en>
+      <fr>Monsieur, vous n'étiez pas inscrit <Alignment alignment="59" annotation_id="246">
+          <DiscourseConnective annotation_id="246" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai clos la séance des explications de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="263" docOffset="3">
+      <en>I am sorry.</en>
+      <fr>Je suis désolée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="275" docOffset="4">
+      <en>Next time, please let us know within the prescribed time.</en>
+      <fr>La prochaine fois, avertissez-nous dans les délais.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="333" docOffset="5">
+      <en>I would <DiscourseConnective annotation_id="341" sense="Expansion.Conjunction">also</DiscourseConnective> point out to you that you can explain your vote in writing.</en>
+      <fr>Cela dit, je vous signale <DiscourseConnective annotation_id="390">que</DiscourseConnective> vous pouvez faire votre explication de vote par écrit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="406" docOffset="6">
+      <en>(The sitting was suspended at 12.45 p.m. and resumed at 3 p.m.)</en>
+      <fr>(La séance, suspendue à 12 h 45, est reprise <DiscourseConnective annotation_id="494">à</DiscourseConnective> 15 heures)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

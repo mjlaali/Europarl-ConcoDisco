@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>20.</en>
+    <fr>20.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>European conscience and totalitarianism (vote)</en>
+    <fr>Conscience européenne <DiscourseConnective annotation_id="26">et</DiscourseConnective> totalitarisme (vote)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="51" id="116" name="President">
+    <ParallelChunk annotation_id="51" docOffset="2">
+      <en>I would like to bring to your attention the fact that Mr Nassauer and Mr Szájer have signed the joint motion for a resolution on behalf of the Group of the European People's Party (Christian Democrats) and European Democrats.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="59">à</DiscourseConnective> attirer votre attention sur le fait <DiscourseConnective annotation_id="97">que</DiscourseConnective> M. Nassauer <DiscourseConnective annotation_id="113">et</DiscourseConnective> M. Szájer ont signé la proposition de résolution commune au nom du groupe du Parti populaire européen (Démocrates-chrétiens) <DiscourseConnective annotation_id="241">et</DiscourseConnective> des Démocrates européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="277" docOffset="3">
+      <en>- <Alignment alignment="272" annotation_id="279">
+          <DiscourseConnective annotation_id="279" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> the vote on paragraph 3:</en>
+      <fr>- <Alignment alignment="1168" annotation_id="272">
+          <DiscourseConnective annotation_id="272" sense="Temporal.Asynchronous.Precedence">Avant</DiscourseConnective>
+        </Alignment> le vote sur le paragraphe 3:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="311" id="117" name="Vytautas Landsbergis">
+    <ParallelChunk annotation_id="311" docOffset="4">
+      <en>Mr President, let me recall our significant resolution of 2005 about the end of the Second World War in Europe, which stated that 'there cannot be reconciliation without truth and remembrance'.</en>
+      <fr>(EN) Monsieur le Président, permettez-moi de vous rappeler notre importante résolution de 2005 relative <DiscourseConnective annotation_id="411">à</DiscourseConnective> la fin de la Seconde Guerre mondiale <DiscourseConnective annotation_id="450">en</DiscourseConnective> Europe, qui mentionnait <DiscourseConnective annotation_id="477">qu'</DiscourseConnective>"il ne peut y avoir de réconciliation <DiscourseConnective annotation_id="518">sans</DiscourseConnective> vérité <DiscourseConnective annotation_id="530">et</DiscourseConnective> sans mémoire".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="505" docOffset="5">
+      <en>I would not like to delete the truth now.</en>
+      <fr>Je ne voudrais pas supprimer la vérité <DiscourseConnective annotation_id="587">maintenant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="547" docOffset="6">
+      <en>Please agree that 'truth' be inserted: reconciliation with truth and remembrance.</en>
+      <fr>Je vous demande d'accepter d'insérer la "vérité": réconciliation avec vérité <DiscourseConnective annotation_id="676">et</DiscourseConnective> mémoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="629" docOffset="7">
+      <en>Please vote for truth.</en>
+      <fr>Je vous demande de voter <DiscourseConnective annotation_id="713">pour</DiscourseConnective> la vérité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="652" id="119" name="Vytautas Landsbergis">
+    <ParallelChunk annotation_id="652" docOffset="8">
+      <en>Mr President, the text refers to crimes against humanity that were still happening 'as late as July 1995'.</en>
+      <fr>(EN) Monsieur le Président, le texte fait référence <DiscourseConnective annotation_id="781">à</DiscourseConnective> des crimes contre l'humanité qui "ne remontent qu'à juillet 1995".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="759" docOffset="9">
+      <en>It would be better to say 'were still taking place in July 1995', <Alignment alignment="3073" annotation_id="825">
+          <DiscourseConnective annotation_id="825" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> nobody can be sure that there were no more such crimes in 1996.</en>
+      <fr>Il serait préférable de dire "avaient <DiscourseConnective annotation_id="888">encore</DiscourseConnective> lieu <DiscourseConnective annotation_id="900">en</DiscourseConnective> juillet 1995", <Alignment alignment="812" annotation_id="918">
+          <DiscourseConnective annotation_id="918" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> personne ne peut affirmer avec certitude <DiscourseConnective annotation_id="963">que</DiscourseConnective> de tels crimes n'ont plus été commis <DiscourseConnective annotation_id="1004">en</DiscourseConnective> 1996.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="897" docOffset="10">
+      <en>(Interjection from the floor)</en>
+      <fr>(Interjections de l'auditoire)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="927" docOffset="11">
+      <en>Yes, indeed - that would be softer; 'took place as late <Alignment alignment="870" annotation_id="983">
+          <DiscourseConnective annotation_id="983" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment>' should be replaced with 'were still taking place in'.</en>
+      <fr>Oui, <DiscourseConnective annotation_id="1049">en effet</DiscourseConnective>, ce serait plus modéré; il faudrait remplacer "ne remontent <Alignment alignment="983" annotation_id="1118">
+          <DiscourseConnective annotation_id="1118" sense="Temporal.Synchrony">qu'</DiscourseConnective>
+        </Alignment>à" par "avaient <DiscourseConnective annotation_id="1137">encore</DiscourseConnective> lieu <DiscourseConnective annotation_id="1149">en</DiscourseConnective>".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1041" id="121" name="Tunne Kelam">
+    <ParallelChunk annotation_id="1041" docOffset="12">
+      <en>Mr President, this is a minor correction.</en>
+      <fr>(EN) Monsieur le Président, il <DiscourseConnective annotation_id="1185">s'</DiscourseConnective>agit d'une correction mineure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1083" docOffset="13">
+      <en>The text now reads 'whereas the Central European countries had the added experience of Communism'.</en>
+      <fr>Le texte est actuellement formulé comme suit: "<DiscourseConnective annotation_id="1265">alors que</DiscourseConnective> les pays d'Europe centrale ont fait <DiscourseConnective annotation_id="1311">en outre</DiscourseConnective> l'expérience du communisme".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1182" docOffset="14">
+      <en>I would like to change 'Central European countries' to 'Central and Eastern European countries', <Alignment alignment="615085" annotation_id="1279">
+          <DiscourseConnective annotation_id="1279" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> everywhere else the text reads this way, and to replace 'had the added experience of Communism' with 'have experienced both Communism and Nazism', because, to Eastern European nations, nothing was 'added' by Communism: most of them had Communism first, then Nazism, and <DiscourseConnective annotation_id="1557" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> Communism again.</en>
+      <fr>Je voudrais modifier "pays d'Europe centrale" en "pays d'Europe centrale <DiscourseConnective annotation_id="1422">et</DiscourseConnective> orientale", <Alignment alignment="454" annotation_id="1437">
+          <DiscourseConnective annotation_id="1437" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> c'est ainsi qu'il est formulé partout ailleurs dans le texte, <DiscourseConnective annotation_id="1503">et</DiscourseConnective> remplacer "ont fait <DiscourseConnective annotation_id="1526">en outre</DiscourseConnective> l'expérience du communisme" par "ont fait en outre l'expérience du communisme <DiscourseConnective annotation_id="1613">et</DiscourseConnective> du nazisme", <DiscourseConnective annotation_id="1629">car</DiscourseConnective>, concernant les nations d'Europe orientale, le communisme n'a rien "ajouté": la plupart d'entre elles ont <DiscourseConnective annotation_id="1739">d'abord</DiscourseConnective> connu le communisme, <DiscourseConnective annotation_id="1768">puis</DiscourseConnective> le nazisme, et à nouveau le communisme.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1579" id="123" name="Bogusław Sonik">
+    <ParallelChunk annotation_id="1579" docOffset="15">
+      <en>(PL) Mr President, I would just like to add that I <Alignment alignment="3794" annotation_id="1630">
+          <DiscourseConnective annotation_id="1630" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> signed the resolution.</en>
+      <fr>(PL) Monsieur le Président, je tiens juste <DiscourseConnective annotation_id="1856">à</DiscourseConnective> ajouter <DiscourseConnective annotation_id="1866">que</DiscourseConnective> j'ai <Alignment alignment="1630" annotation_id="1875">
+          <DiscourseConnective annotation_id="1875" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> signé la résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1658" docOffset="16">
+      <en>(FR) Mr President, I <Alignment alignment="1940" annotation_id="1679">
+          <DiscourseConnective annotation_id="1679" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> signed this resolution <Alignment alignment="1963" annotation_id="1707">
+          <DiscourseConnective annotation_id="1707" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I do not see my name on the motion for a resolution.</en>
+      <fr>Monsieur le Président, j'ai signé <Alignment alignment="837" annotation_id="1940">
+          <DiscourseConnective annotation_id="1940" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> cette résolution <Alignment alignment="1707" annotation_id="1963">
+          <DiscourseConnective annotation_id="1963" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je ne me trouve pas sur la motion de résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1764" docOffset="17">
+      <en>I would <Alignment alignment="2015" annotation_id="1772">
+          <DiscourseConnective annotation_id="1772" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask you to add my name.</en>
+      <fr>
+        <Alignment alignment="251" annotation_id="2015">
+          <DiscourseConnective annotation_id="2015" sense="Contingency.Cause.Result">Alors</DiscourseConnective>
+        </Alignment> je vous demande de mettre mon nom.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

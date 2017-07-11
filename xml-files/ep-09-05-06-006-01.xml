@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Electronic communications networks, personal data and the protection of privacy (</en>
+    <fr>Réseaux et services de communications électroniques, protection de la vie privée <DiscourseConnective annotation_id="84">et</DiscourseConnective> protection des consommateurs (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="85" docOffset="2">
+    <en>Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="118">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="102" id="152" name="Hanne Dahl">
+    <ParallelChunk annotation_id="102" docOffset="3">
+      <en>Madam President, I have one thing to say regarding the vote that we are about to hold.</en>
+      <fr>(EN) Madame la Présidente, j'aurai une <DiscourseConnective annotation_id="171">remarque</DiscourseConnective> <DiscourseConnective annotation_id="180">à</DiscourseConnective> formuler concernant le vote <DiscourseConnective annotation_id="210">à</DiscourseConnective> venir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="189" docOffset="4">
+      <en>It seems, from the voting list, that we are voting on the compromise text from the committee, instead of the amendments, first.</en>
+      <fr>Si l'on se fie <DiscourseConnective annotation_id="234">à</DiscourseConnective> la liste des votes, il semblerait <DiscourseConnective annotation_id="270">que</DiscourseConnective> nous allons voter sur le texte de compromis rédigé par la commission, et non sur les amendements en premier lieu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="317" docOffset="5">
+      <en>Normally I would have thought that we would vote on the most far-reaching amendments first, <Alignment alignment="497" annotation_id="409">
+          <DiscourseConnective annotation_id="409" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I would ask you to use the power that you have according to Rule 19 in the Rules of Procedure and change the order of the vote <Alignment alignment="128" annotation_id="539">
+          <Alignment alignment="599" annotation_id="539">
+            <DiscourseConnective annotation_id="539" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we vote on the amendments.</en>
+      <fr>Je pensais <DiscourseConnective annotation_id="399">que</DiscourseConnective> nous voterions <DiscourseConnective annotation_id="418">d'abord</DiscourseConnective> sur les amendements les plus globaux. Je vous demanderais <Alignment alignment="141" annotation_id="484">
+          <DiscourseConnective annotation_id="484" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> d'user du pouvoir qui vous est conféré en vertu de l'article 19 du règlement <DiscourseConnective annotation_id="566">et</DiscourseConnective> de modifier l'ordre des votes <Alignment alignment="0" annotation_id="599">
+          <Alignment alignment="539" annotation_id="599">
+            <DiscourseConnective annotation_id="599" sense="Contingency.Cause.Result">de manière à</DiscourseConnective>
+          </Alignment>
+        </Alignment> voter sur les amendements, ceux relatifs aux droits des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="574" docOffset="6">
+      <en>This concerns the citizens' rights amendments. This is very important for both the Harbour and the Trautmann reports.</en>
+      <fr>C'est très important, tant <DiscourseConnective annotation_id="705">pour</DiscourseConnective> le rapport Harbour que <DiscourseConnective annotation_id="733">pour</DiscourseConnective> le rapport Trautmann.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="692" id="153" name="President">
+    <ParallelChunk annotation_id="692" docOffset="7">
+      <en>Mrs Dahl, as far <Alignment alignment="773" annotation_id="709">
+          <DiscourseConnective annotation_id="709" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I am aware there is no problem.</en>
+      <fr>Madame Dahl, <Alignment alignment="709" annotation_id="773">
+          <DiscourseConnective annotation_id="773" sense="Temporal.Synchrony">pour autant que</DiscourseConnective>
+        </Alignment> je sache, il n'y a pas de problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="744" docOffset="8">
+      <en>I see no problem with the voting order on the Harbour report.</en>
+      <fr>Je ne vois pas <DiscourseConnective annotation_id="840">en</DiscourseConnective> quoi l'ordre des votes sur le rapport Harbour poserait problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="806" docOffset="9">
+      <en>We will proceed <DiscourseConnective annotation_id="822" sense="Temporal.Synchrony">as</DiscourseConnective> it is on the order paper.</en>
+      <fr>Nous suivrons donc l'ordre établi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

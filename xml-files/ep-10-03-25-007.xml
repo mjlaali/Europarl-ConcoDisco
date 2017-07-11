@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="119" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, it is my great pleasure to inform you that, as part of our series of interparliamentary meetings, we are being visited by a delegation from the Parliament of Tunisia headed by Mr Salah Tabarki, Chair of the Committee on Political Affairs, Human Rights and Foreign Affairs of the Tunisian House of Representatives.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, j'ai le grand plaisir de vous annoncer <DiscourseConnective annotation_id="84">que</DiscourseConnective>, dans le cadre de nos séries de réunions interparlementaires, nous recevons en ce moment la visite d'une délégation du parlement de Tunisie, conduite par M. Salah Tabarki, président de la commission des affaires politiques, des droits de l'homme <DiscourseConnective annotation_id="334">et</DiscourseConnective> des affaires étrangères de la chambre des députés tunisienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="344" docOffset="2">
+      <en>We warmly welcome Mr Tabarki and the members of his delegation.</en>
+      <fr>Nous souhaitons la bienvenue à M. Tabarki <DiscourseConnective annotation_id="441">et</DiscourseConnective> aux membres de cette délégation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="408" docOffset="3">
+      <en>I would like to underline the importance that we attach to this meeting, which is the first to take place for five years.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="486">à</DiscourseConnective> souligner l'importance <DiscourseConnective annotation_id="511">que</DiscourseConnective> nous attachons <DiscourseConnective annotation_id="530">à</DiscourseConnective> cette rencontre, la première <DiscourseConnective annotation_id="561">depuis</DiscourseConnective> cinq ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="530" docOffset="4">
+      <en>Parliament is following the development of the political and economic situation in Tunisia with great interest, <Alignment alignment="684" annotation_id="642">
+          <DiscourseConnective annotation_id="642" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we in the European Union are that country's most important trade partner.</en>
+      <fr>Le Parlement suit avec beaucoup d'intérêt l'évolution de la situation politique <DiscourseConnective annotation_id="658">et</DiscourseConnective> économique <DiscourseConnective annotation_id="672">en</DiscourseConnective> Tunisie, <Alignment alignment="185" annotation_id="684">
+          <DiscourseConnective annotation_id="684" sense="Temporal.Synchrony">étant donné que</DiscourseConnective>
+        </Alignment> l'Union européenne est le principal partenaire commercial de ce pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="719" docOffset="5">
+      <en>The relations that you will establish with the European Parliament Delegation for Relations with the Maghreb Countries will provide you with an adequate institutional framework for dialogue on matters of mutual interest regarding the development of democracy and the rule of law.</en>
+      <fr>Les relations <DiscourseConnective annotation_id="784">que</DiscourseConnective> vous allez établir avec la délégation du Parlement européen <DiscourseConnective annotation_id="848">pour</DiscourseConnective> les relations avec les pays du Maghreb vous fourniront un cadre institutionnel adéquat <DiscourseConnective annotation_id="940">pour</DiscourseConnective> un dialogue sur des questions d'intérêt mutuel concernant le développement de la démocratie <DiscourseConnective annotation_id="1037">et</DiscourseConnective> de l'état de droit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="999" docOffset="6">
+      <en>We <Alignment alignment="1081" annotation_id="1002">
+          <DiscourseConnective annotation_id="1002" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> wish you an enjoyable and fruitful visit.</en>
+      <fr>Nous vous souhaitons <Alignment alignment="1002" annotation_id="1081">
+          <DiscourseConnective annotation_id="1081" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> une visite agréable <DiscourseConnective annotation_id="1110">et</DiscourseConnective> fructueuse.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

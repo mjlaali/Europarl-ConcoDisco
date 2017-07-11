@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>2006 discharge: EU general budget, section I - European Parliament (</en>
+    <fr>Décharge 2006: Budget général UE, Parlement européen (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="73" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="59">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="92" id="102" name="Zbigniew Zaleski">
+    <ParallelChunk annotation_id="92" docOffset="3">
+      <en>(ES) Mr President, I have a small proposal for you and for all presidents who chair votes.</en>
+      <fr>(ES) M. le Président, j'ai une petite proposition <DiscourseConnective annotation_id="124">pour</DiscourseConnective> vous <DiscourseConnective annotation_id="134">et</DiscourseConnective> <DiscourseConnective annotation_id="137">pour</DiscourseConnective> tous les présidents qui président des séances de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="183" docOffset="4">
+      <en>We have many roll-call votes, <Alignment alignment="245" annotation_id="213">
+          <DiscourseConnective annotation_id="213" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I do not think that the Rules of Procedure require the President to read the figures.</en>
+      <fr>Nous avons beaucoup de votes par appel nominal, <Alignment alignment="213" annotation_id="245">
+          <DiscourseConnective annotation_id="245" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je ne pense pas <DiscourseConnective annotation_id="264">que</DiscourseConnective> le règlement exige que le président lise les données chiffrées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="303" docOffset="5">
+      <en>Everyone can read the screen.</en>
+      <fr>Nous savons tous les lire à l'écran.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="333" docOffset="6">
+      <en>It is sufficient for you to say 'adopted' or 'rejected'.</en>
+      <fr>Il suffit <DiscourseConnective annotation_id="379">que</DiscourseConnective> nous disions "adopté" <DiscourseConnective annotation_id="405">ou</DiscourseConnective> "rejeté".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="390" docOffset="7">
+      <en>
+        <Alignment alignment="418" annotation_id="390">
+          <DiscourseConnective annotation_id="390" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> you could agree to this, we would save time.</en>
+      <fr>
+        <Alignment alignment="390" annotation_id="418">
+          <DiscourseConnective annotation_id="418" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous pouviez marquer votre approbation, nous gagnerions du temps.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="438" id="103" name="President">
+    <ParallelChunk annotation_id="438" docOffset="8">
+      <en>
+        <Alignment alignment="487" annotation_id="438">
+          <DiscourseConnective annotation_id="438" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> everyone agrees, so does the President.</en>
+      <fr>
+        <Alignment alignment="438" annotation_id="487">
+          <DiscourseConnective annotation_id="487" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous êtes tous d'accord, je le suis aussi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="481" docOffset="9">
+      <en>- Before the vote on paragraph 65:</en>
+      <fr>
+        <DiscourseConnective annotation_id="533">Avant</DiscourseConnective> le vote sur le paragraphe 65:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="516" id="104" name="José Javier Pomés Ruiz">
+    <ParallelChunk annotation_id="516" docOffset="10">
+      <en>rapporteur. - (ES) Mr President, there has actually been an error with the numbers, <Alignment alignment="660" annotation_id="600">
+          <DiscourseConnective annotation_id="600" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what we are going to vote on first, by means of a separate vote, is paragraph 65, except for indent 4, <DiscourseConnective annotation_id="707" sense="Expansion.Conjunction">and</DiscourseConnective> we will <Alignment alignment="787" annotation_id="719">
+          <DiscourseConnective annotation_id="719" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> have a roll-call vote on indent 4.</en>
+      <fr>rapporteur. - (ES) M. le Président, il y a <DiscourseConnective annotation_id="612">en réalité</DiscourseConnective> eu une erreur au niveau des nombres, <Alignment alignment="600" annotation_id="660">
+          <DiscourseConnective annotation_id="660" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous allons <DiscourseConnective annotation_id="675">d'abord</DiscourseConnective> voter, par le biais d'un vote séparé, sur le paragraphe 65, à l'exception de l'alinéa 4. Nous tiendrons <Alignment alignment="719" annotation_id="787">
+          <DiscourseConnective annotation_id="787" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> un vote par appel nominal sur l'alinéa 4.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="759" docOffset="11">
+      <en>There has been a change of numbers, it is that simple.</en>
+      <fr>Il y a eu un changement dans les nombres, c'est <DiscourseConnective annotation_id="885">aussi</DiscourseConnective> simple que cela.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="814" id="105" name="President">
+    <ParallelChunk annotation_id="814" docOffset="12">
+      <en>That is right, Mr Pomés, <DiscourseConnective annotation_id="839" sense="Contingency.Cause.Result">therefore</DiscourseConnective> let us proceed with the vote on paragraph 65, except for indent 4.</en>
+      <fr>C'est exact, M. Pomés. Procédons ainsi au vote sur le paragraphe 65, à l'exception de l'alinéa 4.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="916" docOffset="13">
+      <en>- Before the vote on Amendment 9:</en>
+      <fr>
+        <DiscourseConnective annotation_id="1006">Avant</DiscourseConnective> le vote sur l'amendement 9:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="950" id="106" name="Jan Andersson">
+    <ParallelChunk annotation_id="950" docOffset="14">
+      <en>(SV) Mr President, under paragraph 65 we had no vote on indent 5.</en>
+      <fr>(SV) M. le Président, nous n'avons voté sur l'alinéa 5 du paragraphe 65.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1016" docOffset="15">
+      <en>We voted <DiscourseConnective annotation_id="1025" sense="Expansion.Conjunction">separately</DiscourseConnective> on number four, but not on number five.</en>
+      <fr>Nous avons voté séparément sur l'alinéa 4, <DiscourseConnective annotation_id="1156">mais</DiscourseConnective> pas sur le 5.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1076" id="107" name="President">
+    <ParallelChunk annotation_id="1076" docOffset="16">
+      <en>Mr Andersson, there are different language versions, <Alignment alignment="1232" annotation_id="1129">
+          <DiscourseConnective annotation_id="1129" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what we have voted on, what you are alluding to, was already included.</en>
+      <fr>M. Andersson, il y a différentes versions linguistiques, <Alignment alignment="2190" annotation_id="1232">
+          <DiscourseConnective annotation_id="1232" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce sur quoi nous avons voté, auquel vous faites allusion, a <DiscourseConnective annotation_id="1295">déjà</DiscourseConnective> été inclus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1204" docOffset="17">
+      <en>
+        <Alignment alignment="1312" annotation_id="1204">
+          <DiscourseConnective annotation_id="1204" sense="Contingency.Cause.Result">So that</DiscourseConnective>
+        </Alignment> there are no doubts, we are now going to vote solely on what Mr Andersson was saying, that is 'no relatives of Members be employed'.</en>
+      <fr>
+        <Alignment alignment="108" annotation_id="1312">
+          <DiscourseConnective annotation_id="1312" sense="Contingency.Cause.Result">Afin de</DiscourseConnective>
+        </Alignment> lever tout doute, nous allons à présent voter uniquement sur l'alinéa auquel M. Andersson faisait référence, <DiscourseConnective annotation_id="1429">à</DiscourseConnective> savoir "qu'aucun membre de la famille des députés ne <DiscourseConnective annotation_id="1484">soit</DiscourseConnective> employé".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1345" docOffset="18">
+      <en>- Before the vote on paragraph 72:</en>
+      <fr>
+        <DiscourseConnective annotation_id="1499">Avant</DiscourseConnective> le vote sur le paragraphe 72:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1380" id="108" name="Alexander Alvaro">
+    <ParallelChunk annotation_id="1380" docOffset="19">
+      <en>(DE) Mr President, even <Alignment alignment="1557" annotation_id="1404">
+          <DiscourseConnective annotation_id="1404" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is too late to say so, I think that the Member's objection may have been misunderstood.</en>
+      <fr>(DE) M. le Président, <Alignment alignment="1520" annotation_id="1557">
+          <DiscourseConnective annotation_id="1557" sense="Contingency.Condition">même s'</DiscourseConnective>
+        </Alignment>il est trop tard <DiscourseConnective annotation_id="1581">pour</DiscourseConnective> le dire, je pense <DiscourseConnective annotation_id="1604">que</DiscourseConnective> les objections des membres ont peut être été mal comprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1498" docOffset="20">
+      <en>He wanted a vote on Paragraph 65, fifth indent.</en>
+      <fr>Il voulait un vote sur le paragraphe 65, alinéa 5.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1546" docOffset="21">
+      <en>You had a vote on whether family members may be employed.</en>
+      <fr>Nous avons voté sur la possibilité d'employer des membres de la famille des députés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1604" docOffset="22">
+      <en>Paragraph 65, fifth indent does not regulate that, <Alignment alignment="1856" annotation_id="1655">
+          <DiscourseConnective annotation_id="1655" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> whether payments can be suspended in the event that there is suspicion of malpractice.</en>
+      <fr>Le paragraphe 65, alinéa 5, ne réglemente pas cela, <Alignment alignment="1655" annotation_id="1856">
+          <DiscourseConnective annotation_id="1856" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la question de savoir <DiscourseConnective annotation_id="1883">si</DiscourseConnective> les paiements peuvent être suspendus <DiscourseConnective annotation_id="1923">en</DiscourseConnective> cas de suspicion de mauvaises pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1746" docOffset="23">
+      <en>We did not vote on that, <Alignment alignment="1999" annotation_id="1771">
+          <DiscourseConnective annotation_id="1771" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> you announced something incorrectly.</en>
+      <fr>Nous n'avons pas voté sur cela, <Alignment alignment="594" annotation_id="1999">
+          <DiscourseConnective annotation_id="1999" sense="Expansion.Alternative">ou bien</DiscourseConnective>
+        </Alignment> vous avez commis une erreur dans votre annonce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1811" docOffset="24">
+      <en>Just <Alignment alignment="2070" annotation_id="1816">
+          <DiscourseConnective annotation_id="1816" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we clear that up, <Alignment alignment="2107" annotation_id="1842">
+          <Alignment alignment="8" annotation_id="1842">
+            <DiscourseConnective annotation_id="1842" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> everyone knows what is happening.</en>
+      <fr>Je tiens juste <Alignment alignment="3104" annotation_id="2070">
+          <DiscourseConnective annotation_id="2070" sense="Contingency.Cause.Result">à</DiscourseConnective>
+        </Alignment> lever le doute sur cette question, <Alignment alignment="1842" annotation_id="2107">
+          <Alignment alignment="1842" annotation_id="2107">
+            <DiscourseConnective annotation_id="2107" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous sachions tous ce qu'il en est.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1884" id="109" name="President">
+    <ParallelChunk annotation_id="1884" docOffset="25">
+      <en>Mr Alvaro, the problem is that, in the different language versions, this phrase was structured in a different way.</en>
+      <fr>M. Alvaro, le problème est le suivant: cette phrase est structurée différemment dans les différentes versions linguistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1999" docOffset="26">
+      <en>This is what has created problems.</en>
+      <fr>Telle est la source des problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2034" docOffset="27">
+      <en>We have <Alignment alignment="2312" annotation_id="2042">
+          <DiscourseConnective annotation_id="2042" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> voted saying exactly what we were voting for, <Alignment alignment="2379" annotation_id="2098">
+          <DiscourseConnective annotation_id="2098" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> there are no doubts.</en>
+      <fr>
+        <Alignment alignment="387" annotation_id="2312">
+          <DiscourseConnective annotation_id="2312" sense="Contingency.Cause.Result">Aussi</DiscourseConnective>
+        </Alignment> avons-nous voté en disant <DiscourseConnective annotation_id="2344">précisément</DiscourseConnective> sur quoi nous votions, <Alignment alignment="2098" annotation_id="2379">
+          <DiscourseConnective annotation_id="2379" sense="Contingency.Cause.Result">afin de</DiscourseConnective>
+        </Alignment> lever toute doute.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2127" docOffset="28">
+      <en>Do you understand, Mr Alvaro?</en>
+      <fr>Comprenez-vous, M. Alvaro?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2157" id="110" name="Ingeborg Gräßle">
+    <ParallelChunk annotation_id="2157" docOffset="29">
+      <en>(DE) Mr President, I would like to point out that those who prepared the voting lists were aware of the problem, so that the marks that you have in the voting list already take into account the different linguistic problems.</en>
+      <fr>(DE) M. le Président, je tiens <DiscourseConnective annotation_id="2464">à</DiscourseConnective> souligner <DiscourseConnective annotation_id="2476">que</DiscourseConnective> ceux qui ont préparé les listes de vote étaient au courant du problème. Les marques indiquées sur la liste de vote prennent ainsi <DiscourseConnective annotation_id="2610">déjà</DiscourseConnective> en compte les différentes versions linguistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2382" docOffset="30">
+      <en>That is to say, it was totally clear how the groups were voting.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2665">En d'autres termes</DiscourseConnective>, le choix de vote des groupes était totalement clair.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2447" docOffset="31">
+      <en>It is not the case that nobody knew what was being voted upon.</en>
+      <fr>Nous n'étions pas dans la situation où personne ne connaissait l'objet du vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2510" docOffset="32">
+      <en>We tried to correct this in the Tabling Office, <Alignment alignment="2887" annotation_id="2558">
+          <DiscourseConnective annotation_id="2558" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it was corrected.</en>
+      <fr>Nous avons essayé de corriger ce problème au sein du Tabling Office, <Alignment alignment="2558" annotation_id="2887">
+          <DiscourseConnective annotation_id="2887" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il a été corrigé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2580" id="111" name="President">
+    <ParallelChunk annotation_id="2580" docOffset="33">
+      <en>In any case the vote was clear, <Alignment alignment="2958" annotation_id="2612">
+          <DiscourseConnective annotation_id="2612" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> there is no problem at all.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2908">Quoi qu'il en soit</DiscourseConnective>, le vote était clair. Il n'y a <Alignment alignment="2612" annotation_id="2958">
+          <DiscourseConnective annotation_id="2958" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> pas de problème du tout.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

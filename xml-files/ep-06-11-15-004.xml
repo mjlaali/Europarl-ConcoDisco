@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="078" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>Mr Rack has the floor for a point of order.</en>
+      <fr>M. Rack a la parole <DiscourseConnective annotation_id="36">pour</DiscourseConnective> une motion de procédure.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="56" id="079" name="Reinhard Rack">
+    <ParallelChunk annotation_id="56" docOffset="2">
+      <en>(DE) Mr President, <Alignment alignment="94" annotation_id="75">
+          <DiscourseConnective annotation_id="75" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> I have understood correctly, the President should preside over the vote.</en>
+      <fr>(DE) Monsieur le Président, <Alignment alignment="75" annotation_id="94">
+          <DiscourseConnective annotation_id="94" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> j'ai bien compris, le président devrait présider le vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="151" docOffset="3">
+      <en>He has more than a dozen deputies.</en>
+      <fr>Il dispose <DiscourseConnective annotation_id="166">de plus</DiscourseConnective> d'une douzaine de députés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="186" docOffset="4">
+      <en>
+        <Alignment alignment="212745" annotation_id="186">
+          <DiscourseConnective annotation_id="186" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> he is really unable to attend, one of these deputies should at least be present.</en>
+      <fr>
+        <Alignment alignment="186" annotation_id="201">
+          <DiscourseConnective annotation_id="201" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il ne peut vraiment pas y assister, l'un de ces députés devrait être <DiscourseConnective annotation_id="272">au moins</DiscourseConnective> présent.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="270" id="080" name="President">
+    <ParallelChunk annotation_id="270" docOffset="5">
+      <en>No, Mr Rack.</en>
+      <fr>Non, Monsieur Rack.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="283" docOffset="6">
+      <en>It was I who was responsible for chairing Voting Time.</en>
+      <fr>C'était moi qui avais la responsabilité de présider le vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="338" docOffset="7">
+      <en>The reason I was slightly late was that I was at the airport receiving the Emir of Qatar, <Alignment alignment="454" annotation_id="428">
+          <DiscourseConnective annotation_id="428" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there was a slight delay on the journey there and back.</en>
+      <fr>J'étais légèrement en retard <DiscourseConnective annotation_id="400">parce que</DiscourseConnective> j'ai accueilli l'émir du Qatar <DiscourseConnective annotation_id="441">à</DiscourseConnective> l'aéroport <Alignment alignment="428" annotation_id="454">
+          <DiscourseConnective annotation_id="454" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il y a eu un léger retard en allant vers l'aéroport <DiscourseConnective annotation_id="509">et</DiscourseConnective> sur le chemin du retour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="488" docOffset="8">
+      <en>The next item is the vote.</en>
+      <fr>Nous passons maintenant au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="515" docOffset="9">
+      <en>(For results and other details of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="571">Pour</DiscourseConnective> le <DiscourseConnective annotation_id="579">résultat</DiscourseConnective> du vote: cf. procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>31.</en>
+    <fr>31.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Discharge 2005: Section I, European Parliament (vote)</en>
+    <fr>Décharge 2005: Section I, Parlement européen (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="58" docOffset="2">
+    <en>- Report: Staes</en>
+    <fr>Rapport Staes</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="74" docOffset="3">
+    <en>- Before the vote on Amendment 7:</en>
+    <fr>
+      <DiscourseConnective annotation_id="70">Avant</DiscourseConnective> le vote sur l'amendement 7</fr>
+  </ParallelChunk>
+<Speaker annotation_id="108" id="164" name="Edith Mastenbroek">
+    <ParallelChunk annotation_id="108" docOffset="4">
+      <en>Mr President, I have a point of order based on Rules 166 and 71 of the Rules of Procedure.</en>
+      <fr>(EN) Monsieur le Président, j'ai une motion de procédure basée sur les articles 166 <DiscourseConnective annotation_id="187">et</DiscourseConnective> 71 du règlement intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="199" docOffset="5">
+      <en>Besides the Fjellner amendment asking for the costs of maintaining Parliament's three places of work, I would like to advise the House that paragraph 83 of the original text <Alignment alignment="398198" annotation_id="373">
+          <DiscourseConnective annotation_id="373" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> called for specification of the environmental impact.</en>
+      <fr>Outre l'amendement Fjellner, qui pose la question du coût du maintien de trois lieux de travail <DiscourseConnective annotation_id="313">pour</DiscourseConnective> le Parlement, je tiens <DiscourseConnective annotation_id="341">à</DiscourseConnective> aviser cette Assemblée <DiscourseConnective annotation_id="366">que</DiscourseConnective> le paragraphe 83 du texte original appelait <Alignment alignment="434" annotation_id="414">
+          <DiscourseConnective annotation_id="414" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à une spécification de l'impact environnemental.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="432" docOffset="6">
+      <en>7D, the PPE-DE amendment, calls for a deletion.</en>
+      <fr>L'amendement 7D du groupe PPE-DE en demande la suppression.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="480" docOffset="7">
+      <en>- Before the vote on paragraph 77:</en>
+      <fr>
+        <DiscourseConnective annotation_id="533">Avant</DiscourseConnective> le vote sur le paragraphe 77</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="515" id="166" name="Daniel Caspary">
+    <ParallelChunk annotation_id="515" docOffset="8">
+      <en>(DE) Mr President, I am not quite certain of this, <Alignment alignment="404528" annotation_id="566">
+          <DiscourseConnective annotation_id="566" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I do fear that you have not had paragraph 75 voted on.</en>
+      <fr>(DE) Monsieur le Président, je n'en suis pas tout à fait certain, <Alignment alignment="566" annotation_id="634">
+          <DiscourseConnective annotation_id="634" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je crains <DiscourseConnective annotation_id="649">que</DiscourseConnective> vous n'ayez pas demandé le vote sur le paragraphe 75.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="625" docOffset="9">
+      <en>You said you would have us vote on paragraph 76, <Alignment alignment="770" annotation_id="674">
+          <DiscourseConnective annotation_id="674" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the display indicated paragraph 75.</en>
+      <fr>Vous avez dit que vous nous feriez voter sur le paragraphe 76, <Alignment alignment="674" annotation_id="770">
+          <DiscourseConnective annotation_id="770" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> l'écran a indiqué le paragraphe 75.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="714" docOffset="10">
+      <en>You <Alignment alignment="821" annotation_id="718">
+          <DiscourseConnective annotation_id="718" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> said you would have us vote on paragraph 77, <Alignment alignment="412316" annotation_id="768">
+          <DiscourseConnective annotation_id="768" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the display indicated paragraph 76.</en>
+      <fr>Vous avez <Alignment alignment="718" annotation_id="821">
+          <DiscourseConnective annotation_id="821" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> dit que vous nous demanderiez de voter sur le paragraphe 77, <Alignment alignment="768" annotation_id="890">
+          <DiscourseConnective annotation_id="890" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> l'écran a indiqué le paragraphe 76.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="808" docOffset="11">
+      <en>I would ask you to dispel this uncertainty.</en>
+      <fr>Puis-je vous demander de lever ce doute?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="852" id="167" name="President">
+    <ParallelChunk annotation_id="852" docOffset="12">
+      <en>I think that everything has been done correctly.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="981">que</DiscourseConnective> tout <DiscourseConnective annotation_id="990">s'</DiscourseConnective>est passé correctement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="901" docOffset="13">
+      <en>First we voted on paragraph 75, which was adopted.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="1027">d'abord</DiscourseConnective> voté sur le paragraphe 75, qui a été adopté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="952" docOffset="14">
+      <en>
+        <Alignment alignment="910" annotation_id="952">
+          <DiscourseConnective annotation_id="952" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>
+        </Alignment> we voted on paragraph 76, again by roll call, <Alignment alignment="421382" annotation_id="1003">
+          <DiscourseConnective annotation_id="1003" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it was adopted.</en>
+      <fr>
+        <Alignment alignment="952" annotation_id="1080">
+          <DiscourseConnective annotation_id="1080" sense="Temporal.Asynchronous.Precedence">Ensuite</DiscourseConnective>
+        </Alignment>, nous avons voté sur le paragraphe 76, toujours par appel nominal, <Alignment alignment="1003" annotation_id="1155">
+          <DiscourseConnective annotation_id="1155" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il a été adopté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1023" docOffset="15">
+      <en>I am just now announcing the vote on paragraph 77, on which we are voting by roll call, <Alignment alignment="1277" annotation_id="1111">
+          <DiscourseConnective annotation_id="1111" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I declare voting open.</en>
+      <fr>J'annonce seulement <DiscourseConnective annotation_id="1195">maintenant</DiscourseConnective> le vote sur le paragraphe 77, sur lequel nous votons par appel nominal <Alignment alignment="1111" annotation_id="1277">
+          <DiscourseConnective annotation_id="1277" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je déclare le vote ouvert.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

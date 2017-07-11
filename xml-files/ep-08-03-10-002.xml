@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="006" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>For the first time, the past week has seen the death of a soldier on an EU operation under the European security and defence policy.</en>
+      <fr>(DE) La semaine dernière, <DiscourseConnective annotation_id="55">pour</DiscourseConnective> la première fois, un soldat participant <DiscourseConnective annotation_id="100">à</DiscourseConnective> une opération militaire de l'Union européenne dans le cadre de la politique européenne de sécurité <DiscourseConnective annotation_id="201">et</DiscourseConnective> de défense a perdu la vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="160" docOffset="2">
+      <en>Sergeant Gilles Polin, a French member of the European Union Force (EUFOR), was killed on active duty <Alignment alignment="347" annotation_id="262">
+          <DiscourseConnective annotation_id="262" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> he had inadvertently crossed the border between Chad and Sudan in his all-terrain vehicle.</en>
+      <fr>Le sergent Gilles Polin, membre français de la force militaire de l'Union européenne, l'EUFOR, a été tué <DiscourseConnective annotation_id="336">en</DiscourseConnective> service <Alignment alignment="575" annotation_id="347">
+          <DiscourseConnective annotation_id="347" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> avoir franchi par inadvertance la frontière entre le Tchad <DiscourseConnective annotation_id="412">et</DiscourseConnective> le Soudan dans son véhicule tout-terrain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="359" docOffset="3">
+      <en>Another French soldier was wounded in the same incident.</en>
+      <fr>Un autre soldat français a été blessé lors de ce <DiscourseConnective annotation_id="506">même</DiscourseConnective> incident.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="416" docOffset="4">
+      <en>Together with the Sudanese authorities, EUFOR is now investigating how such a tragedy could have occurred.</en>
+      <fr>Avec les autorités soudanaises, l'EUFOR cherche à présent à déterminer comment une telle tragédie a pu se produire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="523" docOffset="5">
+      <en>I should like to express our deepest sympathy to the late sergeant's family and to all his relations.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="646">à</DiscourseConnective> témoigner notre plus profonde sympathie <DiscourseConnective annotation_id="688">à</DiscourseConnective> la famille du défunt <DiscourseConnective annotation_id="711">et</DiscourseConnective> <DiscourseConnective annotation_id="714">à</DiscourseConnective> tous ses proches.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="625" docOffset="6">
+      <en>May I remind the House that the purpose of the EU operation in Chad and the Central African Republic is to protect the refugee camps that have been established in the areas adjoining these countries' borders with Sudan as a consequence of the conflict in Darfur.</en>
+      <fr>
+        <DiscourseConnective annotation_id="734">Puis</DiscourseConnective>-je rappeler à l'Assemblée <DiscourseConnective annotation_id="765">que</DiscourseConnective> l'opération de l'Union européenne au Tchad <DiscourseConnective annotation_id="812">et</DiscourseConnective> <DiscourseConnective annotation_id="815">en</DiscourseConnective> République centrafricaine a <DiscourseConnective annotation_id="846">pour</DiscourseConnective> but de protéger les camps de réfugiés qui ont été créés dans les zones proches des frontières de ces pays avec le Soudan <DiscourseConnective annotation_id="972">à</DiscourseConnective> la suite du conflit au Darfour.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

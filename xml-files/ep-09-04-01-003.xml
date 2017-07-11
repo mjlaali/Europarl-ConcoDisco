@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="008" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, it is a great pleasure to be able to welcome the 2008 winner of the Nobel Prize for Medicine, Professor Luc Montagnier, who is seated in the gallery.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, c'est avec beaucoup de plaisir que j'accueille le lauréat du Prix Nobel de médecine 2008, le professeur Luc Montagnier, qui a pris place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="180" docOffset="2">
+      <en>I wish you a very warm welcome!</en>
+      <fr>J'aimerais lui réserver un accueil chaleureux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="212" docOffset="3">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="223" docOffset="4">
+      <en>I am <Alignment alignment="284" annotation_id="228">
+          <DiscourseConnective annotation_id="228" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> delighted, today, to welcome a delegation from the Economic Community of West African States (ECOWAS). This delegation comprises 15 members of its ad hoc committee on direct elections and additional powers.</en>
+      <fr>Je suis <Alignment alignment="228" annotation_id="284">
+          <DiscourseConnective annotation_id="284" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> ravi d'accueillir aujourd'hui une délégation du Parlement de la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO), composée de 15 membres de sa commission ad hoc chargée du suffrage direct <DiscourseConnective annotation_id="498">et</DiscourseConnective> des compétences supplémentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="440" docOffset="5">
+      <en>They are on an investigative trip to learn from the European Parliament's experience in this area.</en>
+      <fr>La délégation effectue actuellement un voyage d'étude qui devrait lui permettre de tirer profit de l'expérience du Parlement européen <DiscourseConnective annotation_id="668">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="539" docOffset="6">
+      <en>I hope you have an excellent stay here <Alignment alignment="561" annotation_id="578">
+          <DiscourseConnective annotation_id="578" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that our parliaments will work even more closely together in future.</en>
+      <fr>Je vous souhaite un excellent séjour, <Alignment alignment="578" annotation_id="721">
+          <DiscourseConnective annotation_id="721" sense="Expansion.Conjunction">en</DiscourseConnective>
+        </Alignment> espérant <DiscourseConnective annotation_id="733">qu'</DiscourseConnective>à l'avenir nos parlements pourront <DiscourseConnective annotation_id="771">encore</DiscourseConnective> renforcer leur collaboration.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="651" docOffset="7">
+      <en>I wish you a very warm welcome!</en>
+      <fr>Soyez les bienvenus!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="683" docOffset="8">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

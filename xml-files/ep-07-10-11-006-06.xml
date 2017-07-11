@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Composition of the European Parliament (vote)</en>
+    <fr>Composition du Parlement européen (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="49" docOffset="2">
+    <en>- Report: Alain Lamassoure, Adrian Severin</en>
+    <fr>- Rapport: Alain Lamassoure, Adrian Severin</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="92" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="90">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="111" id="067" name="Adrian Severin ">
+    <ParallelChunk annotation_id="111" docOffset="4">
+      <en>rapporteur. - Madam President, I would just like to make a clarification, <Alignment alignment="184" annotation_id="185">
+          <DiscourseConnective annotation_id="185" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> several different terms are used in the report and in the amendments, <Alignment alignment="271" annotation_id="263">
+          <DiscourseConnective annotation_id="263" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like everybody to know what we are going to vote on.</en>
+      <fr>rapporteur. - (EN) Madame la Présidente, je voudrais juste clarifier un point, <Alignment alignment="185" annotation_id="184">
+          <DiscourseConnective annotation_id="184" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> plusieurs termes différents sont utilisés dans le rapport <DiscourseConnective annotation_id="246">et</DiscourseConnective> dans les amendements, <Alignment alignment="263" annotation_id="271">
+          <DiscourseConnective annotation_id="271" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais que tout le monde sache sur quoi nous allons voter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="328" docOffset="5">
+      <en>There are a number of amendments by Mr Tajani and others which, <Alignment alignment="399" annotation_id="392">
+          <DiscourseConnective annotation_id="392" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> speaking about 'citizens', have in mind national citizens and not European citizens.</en>
+      <fr>Il y a une série d'amendements de M. Tajani <DiscourseConnective annotation_id="382">et</DiscourseConnective> d'autres qui, <Alignment alignment="392" annotation_id="399">
+          <DiscourseConnective annotation_id="399" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>ils parlent de "citoyens", font référence aux citoyens nationaux <DiscourseConnective annotation_id="471">et</DiscourseConnective> non aux citoyens européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="482" docOffset="6">
+      <en>
+        <Alignment alignment="502" annotation_id="482">
+          <DiscourseConnective annotation_id="482" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> voting one way or the other on those amendments, please bear in mind that they are not talking about European citizens, but national citizens.</en>
+      <fr>
+        <Alignment alignment="482" annotation_id="502">
+          <DiscourseConnective annotation_id="502" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> vous vous prononcerez d'une manière <DiscourseConnective annotation_id="546">ou</DiscourseConnective> d'une autre sur ces amendements, veuillez garder <DiscourseConnective annotation_id="598">à</DiscourseConnective> l'esprit <DiscourseConnective annotation_id="609">qu'</DiscourseConnective>ils ne parlent pas des citoyens européens, <DiscourseConnective annotation_id="655">mais</DiscourseConnective> bien des citoyens nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="630" docOffset="7">
+      <en>I am sure everybody understands that this is an important difference.</en>
+      <fr>Je suis sûr que tout le monde comprend <DiscourseConnective annotation_id="728">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="734">s'</DiscourseConnective>agit d'une différence importante.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="700" id="068" name="President">
+    <ParallelChunk annotation_id="700" docOffset="8">
+      <en>Thank you for your clarification.</en>
+      <fr>Je vous remercie <DiscourseConnective annotation_id="787">pour</DiscourseConnective> votre clarification.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="734" id="069" name="Antonio Tajani">
+    <ParallelChunk annotation_id="734" docOffset="9">
+      <en>(IT) Madam President, ladies and gentlemen, I should like some clarification from the rapporteurs and Parliamentary officials.</en>
+      <fr>(IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="849">et</DiscourseConnective> Messieurs, je voudrais obtenir une clarification de la part des rapporteurs <DiscourseConnective annotation_id="928">et</DiscourseConnective> des services du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="861" docOffset="10">
+      <en>I wish to know whether, <Alignment alignment="981" annotation_id="885">
+          <DiscourseConnective annotation_id="885" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Amendment 1, first signatory Mr Mayor Oreja, were to be adopted, Amendment 51 would fall.</en>
+      <fr>Je voudrais savoir <DiscourseConnective annotation_id="977">si</DiscourseConnective>, <Alignment alignment="393" annotation_id="981">
+          <DiscourseConnective annotation_id="981" sense="Contingency.Condition">dans l'hypothèse où</DiscourseConnective>
+        </Alignment> l'amendement 1, dont le premier signataire est M. Mayor Oreja, devait être adopté, l'amendement 51 serait caduc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="978" docOffset="11">
+      <en>I think this is a mistake, <Alignment alignment="1145" annotation_id="1005">
+          <DiscourseConnective annotation_id="1005" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that <Alignment alignment="1148" annotation_id="1014">
+          <DiscourseConnective annotation_id="1014" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Amendment 1 by Mr Mayor Oreja were to be adopted, Amendment 51 would not fall, <Alignment alignment="1234" annotation_id="1096">
+          <DiscourseConnective annotation_id="1096" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it would change the voting intention of the Italian delegation.</en>
+      <fr>Je pense que c'est une erreur, <Alignment alignment="1005" annotation_id="1145">
+          <DiscourseConnective annotation_id="1145" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="1887" annotation_id="1148">
+          <DiscourseConnective annotation_id="1148" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'amendement 1 de M. Mayor Oreja était adopté, l'amendement 51 ne serait pas caduc <Alignment alignment="1096" annotation_id="1234">
+          <DiscourseConnective annotation_id="1234" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il changerait l'orientation du vote de la délégation italienne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1164" id="070" name="President">
+    <ParallelChunk annotation_id="1164" docOffset="12">
+      <en>Mr Tajani, one of the co-rapporteurs will speak on that matter <Alignment alignment="1366" annotation_id="1227">
+          <DiscourseConnective annotation_id="1227" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we get to that point.</en>
+      <fr>Monsieur Tajani, un des corapporteurs s'exprimera sur ce sujet <Alignment alignment="1227" annotation_id="1366">
+          <DiscourseConnective annotation_id="1366" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous arriverons <DiscourseConnective annotation_id="1390">à</DiscourseConnective> ce point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1254" docOffset="13">
+      <en>I think you are right but, for the moment, let us proceed.</en>
+      <fr>Je pense que vous avez raison, <DiscourseConnective annotation_id="1433">mais</DiscourseConnective>, <DiscourseConnective annotation_id="1439">pour</DiscourseConnective> le moment, poursuivons.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1313" id="071" name="Mauro Zani">
+    <ParallelChunk annotation_id="1313" docOffset="14">
+      <en>(IT) Madam President, ladies and gentlemen, I wish to point out that, ever since Maastricht, European citizenship has coincided with national citizenship in all of the Treaties.</en>
+      <fr>(IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="1504">et</DiscourseConnective> Messieurs, je voudrais faire remarquer <DiscourseConnective annotation_id="1546">que</DiscourseConnective>, <DiscourseConnective annotation_id="1551">depuis</DiscourseConnective> Maastricht, la citoyenneté européenne coïncide avec la citoyenneté nationale dans tous les traités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1491" docOffset="15">
+      <en>They are the very same, identical thing.</en>
+      <fr>C'est exactement la <DiscourseConnective annotation_id="1678">même</DiscourseConnective> chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1532" docOffset="16">
+      <en>Is that fact clear to my colleague Mr Severin?</en>
+      <fr>Est-ce clair <DiscourseConnective annotation_id="1703">pour</DiscourseConnective> mon collègue, M. Severin?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1579" docOffset="17">
+      <en>(The vote was suspended for a few moments owing to technical problems)</en>
+      <fr>(Le vote est suspendu pendant quelques instants à cause de problèmes techniques)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1650" id="073" name="Thomas Wise">
+    <ParallelChunk annotation_id="1650" docOffset="18">
+      <en>Madam President, I kept the numbers of votes 'for' and 'against' for the last two recorded votes <Alignment alignment="1932" annotation_id="1747">
+          <DiscourseConnective annotation_id="1747" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they were identical.</en>
+      <fr>(EN) Madame la Présidente, j'ai compté le nombre de voix "pour" <DiscourseConnective annotation_id="1879">et</DiscourseConnective> "contre" lors des deux derniers votes enregistrés <Alignment alignment="1747" annotation_id="1932">
+          <DiscourseConnective annotation_id="1932" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ils étaient identiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1772" docOffset="19">
+      <en>That was <Alignment alignment="1965" annotation_id="1781">
+          <DiscourseConnective annotation_id="1781" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we had the first problem.</en>
+      <fr>C'est <Alignment alignment="1781" annotation_id="1965">
+          <DiscourseConnective annotation_id="1965" sense="Temporal.Synchrony">à ce moment-là</DiscourseConnective>
+        </Alignment> que nous avons eu le premier problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1812" docOffset="20">
+      <en>You may care to take the vote on amendment 21 by the IND/DEM Group again.</en>
+      <fr>Vous devriez peut-être prendre la peine de recommencer le vote sur l'amendement 21 du groupe IND/DEM.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1886" id="074" name="President">
+    <ParallelChunk annotation_id="1886" docOffset="21">
+      <en>I think you are absolutely right.</en>
+      <fr>Je pense que vous avez tout à fait raison.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1920" docOffset="22">
+      <en>I, too, was worried by what was happening at that stage.</en>
+      <fr>J'étais moi <DiscourseConnective annotation_id="2176">aussi</DiscourseConnective> inquiète de ce qui se passait <DiscourseConnective annotation_id="2212">à</DiscourseConnective> ce stade.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1977" docOffset="23">
+      <en>(The vote was suspended again for a few moments)</en>
+      <fr>(Le vote est à nouveau suspendu pendant quelques instants)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2026" id="075" name="Véronique De Keyser">
+    <ParallelChunk annotation_id="2026" docOffset="24">
+      <en>(FR) Madam President, we have no roll-call vote for the other reports.</en>
+      <fr>(FR) Madame la Présidente, nous n'avons pas de votes nominaux <DiscourseConnective annotation_id="2345">pour</DiscourseConnective> les autres rapports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2097" docOffset="25">
+      <en>Perhaps we could begin by voting on the reports that do not require a roll-call vote, <Alignment alignment="2463" annotation_id="2183">
+          <DiscourseConnective annotation_id="2183" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you do not mind, <Alignment alignment="2480" annotation_id="2203">
+          <DiscourseConnective annotation_id="2203" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can keep the sitting moving?</en>
+      <fr>Ne pourrait-on commencer par voter sur les rapports qui ne demandent pas de votes nominaux, <Alignment alignment="2183" annotation_id="2463">
+          <DiscourseConnective annotation_id="2463" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il-vous-plaît, <Alignment alignment="2203" annotation_id="2480">
+          <DiscourseConnective annotation_id="2480" sense="Contingency.Cause.Result">pour</DiscourseConnective>
+        </Alignment> avancer la session?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2243" id="076" name="President">
+    <ParallelChunk annotation_id="2243" docOffset="26">
+      <en>The problem is, we are in mid-report, <Alignment alignment="2554" annotation_id="2281">
+          <DiscourseConnective annotation_id="2281" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I am afraid we do have to conclude it <Alignment alignment="2605" annotation_id="2322">
+          <DiscourseConnective annotation_id="2322" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we can take something else.</en>
+      <fr>Le problème, c'est que nous sommes <DiscourseConnective annotation_id="2540">à</DiscourseConnective> mi-rapport, <Alignment alignment="2281" annotation_id="2554">
+          <DiscourseConnective annotation_id="2554" sense="Contingency.Cause.Result">et</DiscourseConnective>
+        </Alignment> je crains dès lors que nous ne devions conclure <Alignment alignment="2322" annotation_id="2605">
+          <DiscourseConnective annotation_id="2605" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> pouvoir passer à autre chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2357" docOffset="27">
+      <en>- Before the vote on Amendment 1:</en>
+      <fr>- <DiscourseConnective annotation_id="2646">Avant</DiscourseConnective> le vote sur l'amendement 1:</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2391" id="077" name="Alain Lamassoure ">
+    <ParallelChunk annotation_id="2391" docOffset="28">
+      <en>rapporteur. - (FR) Madam President, I do apologise to everyone for the question due to my inexperience: this is only my third term in the House.</en>
+      <fr>rapporteur. - (FR) Madame la Présidente, en vous priant de m'excuser, d'excuser les collègues, de ma question qui est due <DiscourseConnective annotation_id="2802">à</DiscourseConnective> mon inexpérience: je n'en suis <DiscourseConnective annotation_id="2835">qu'</DiscourseConnective>à mon troisième mandat au sein de ce Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2536" docOffset="29">
+      <en>
+        <Alignment alignment="2886" annotation_id="2536">
+          <DiscourseConnective annotation_id="2536" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> I have understood correctly, <DiscourseConnective annotation_id="2568" sense="Contingency.Condition">if</DiscourseConnective> Amendment 1 were adopted this would retain the text in the paragraph of the amendment and remove the figures corresponding to the number of seats in the report.</en>
+      <fr>
+        <Alignment alignment="2536" annotation_id="2886">
+          <DiscourseConnective annotation_id="2886" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> je comprends bien, l'amendement 1, s'il était adopté, aurait pour effet de retenir le texte du paragraphe de l'amendement <DiscourseConnective annotation_id="3011">et</DiscourseConnective> aussi de supprimer les chiffres correspondant au nombre de sièges qui sont dans le rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2732" docOffset="30">
+      <en>Is this how I should take it?</en>
+      <fr>C'est bien comme cela <DiscourseConnective annotation_id="3128">que</DiscourseConnective> je dois le comprendre?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2762" docOffset="31">
+      <en>I am asking the authors of the amendment: is that the way everyone understands it?</en>
+      <fr>Je me tourne vers les auteurs de l'amendement: tout le monde le comprend comme cela?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2845" docOffset="32">
+      <en>This means I have made a mistake, <Alignment alignment="3268" annotation_id="2879">
+          <DiscourseConnective annotation_id="2879" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="2883" sense="Contingency.Cause.Result">therefore</DiscourseConnective> I apologise to those involved.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3240">Donc</DiscourseConnective>, j'ai fait une erreur, <Alignment alignment="2879" annotation_id="3268">
+          <DiscourseConnective annotation_id="3268" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je prie les intéressés de m'en excuser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2924" docOffset="33">
+      <en>I recommended a positive vote <DiscourseConnective annotation_id="2954" sense="Temporal.Synchrony">when</DiscourseConnective> drawing up the PPE-DE voting list, <Alignment alignment="5063" annotation_id="2994">
+          <DiscourseConnective annotation_id="2994" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I thought that the amendment concerned only the text.</en>
+      <fr>En préparant la liste de vote du PPE, j'ai recommandé un vote positif, <Alignment alignment="1374" annotation_id="3382">
+          <DiscourseConnective annotation_id="3382" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> je pensais <DiscourseConnective annotation_id="3403">que</DiscourseConnective> l'amendement ne concernait <DiscourseConnective annotation_id="3434">que</DiscourseConnective> le texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3056" docOffset="34">
+      <en>
+        <Alignment alignment="3448" annotation_id="3056">
+          <DiscourseConnective annotation_id="3056" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, where figures are concerned, for the PPE-DE Group the instruction changes to a free vote, <Alignment alignment="3561" annotation_id="3155">
+          <DiscourseConnective annotation_id="3155" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> along with my co-rapporteur I invite all those who wish to support the proposals of the Committee on Constitutional Affairs and the rapporteurs to vote against Amendment 1.</en>
+      <fr>
+        <Alignment alignment="3990" annotation_id="3448">
+          <DiscourseConnective annotation_id="3448" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3453">à partir du moment où</DiscourseConnective> il concerne aussi les chiffres, <DiscourseConnective annotation_id="3507">pour</DiscourseConnective> le PPE, l'instruction devient de voter librement <Alignment alignment="3155" annotation_id="3561">
+          <DiscourseConnective annotation_id="3561" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'invite, avec mon corapporteur, tous ceux qui souhaitent soutenir les propositions de l'AFCO <DiscourseConnective annotation_id="3658">et</DiscourseConnective> des rapporteurs <DiscourseConnective annotation_id="3677">à</DiscourseConnective> voter contre l'amendement 1.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3332" docOffset="35">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3343" id="078" name="Antonio Tajani">
+    <ParallelChunk annotation_id="3343" docOffset="36">
+      <en>(IT) Madam President, ladies and gentlemen, it is still not clear whether Amendment 1 is compatible with Amendment 51.</en>
+      <fr>(IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="3763">et</DiscourseConnective> Messieurs, on ne comprend toujours pas <DiscourseConnective annotation_id="3805">si</DiscourseConnective> l'amendement 1 est compatible avec l'amendement 51.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3462" docOffset="37">
+      <en>
+        <Alignment alignment="3860" annotation_id="3462">
+          <DiscourseConnective annotation_id="3462" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> Amendment 1 is compatible with Amendment 51, <Alignment alignment="3882" annotation_id="3510">
+          <DiscourseConnective annotation_id="3510" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I believe it is, the Italian delegation will vote in favour of Amendment 1, <Alignment alignment="3948" annotation_id="3589">
+          <DiscourseConnective annotation_id="3589" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we do need this clarification.</en>
+      <fr>
+        <Alignment alignment="3462" annotation_id="3860">
+          <DiscourseConnective annotation_id="3860" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> tel est le cas, ce <Alignment alignment="3510" annotation_id="3882">
+          <DiscourseConnective annotation_id="3882" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> je crois, la délégation italienne votera pour l'amendement 1, <Alignment alignment="3589" annotation_id="3948">
+          <DiscourseConnective annotation_id="3948" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cette clarification est nécessaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3624" id="079" name="President">
+    <ParallelChunk annotation_id="3624" docOffset="38">
+      <en>This amendment will dispose of all the others.</en>
+      <fr>Cet amendement éliminera tous les autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3671" docOffset="39">
+      <en>Our congratulations to our co-rapporteurs, <Alignment alignment="4065" annotation_id="3714">
+          <DiscourseConnective annotation_id="3714" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> our thanks to our technicians.</en>
+      <fr>Félicitations <DiscourseConnective annotation_id="4045">à</DiscourseConnective> nos corapporteurs <Alignment alignment="3714" annotation_id="4065">
+          <DiscourseConnective annotation_id="4065" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> merci <DiscourseConnective annotation_id="4074">à</DiscourseConnective> nos techniciens.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

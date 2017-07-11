@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>The European private company statute (debate)</en>
+    <fr>Le statut de la société privée européenne (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="46" id="007" name="President">
+    <ParallelChunk annotation_id="46" docOffset="1">
+      <en>The first item is the report by Klaus-Heiner Lehne, on behalf of the Committee on Legal Affairs, with recommendations to the Commission on the European private company statute.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Lehne, au nom de la commission des affaires juridiques, contenant des recommandations <DiscourseConnective annotation_id="177">à</DiscourseConnective> la Commission sur le statut de la société privée européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="223" id="008" name="Klaus-Heiner Lehne ">
+    <ParallelChunk annotation_id="223" docOffset="2">
+      <en>rapporteur. - (DE) Madam President, Commissioner, ladies and gentlemen, I feel particularly honoured to be able to see this topic discussed today, <Alignment alignment="402" annotation_id="370">
+          <DiscourseConnective annotation_id="370" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> you, Madam President, are chairing a sitting of this House for the first time.</en>
+      <fr>Madame la Présidente, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="296">et</DiscourseConnective> Messieurs, c'est <DiscourseConnective annotation_id="316">pour</DiscourseConnective> moi un très grand honneur de voir ce sujet figurer aujourd'hui à l'ordre du jour <Alignment alignment="370" annotation_id="402">
+          <DiscourseConnective annotation_id="402" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> vous, Madame la Présidente, présidez une séance de cette Assemblée <DiscourseConnective annotation_id="479">pour</DiscourseConnective> la première fois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="454" docOffset="3">
+      <en>The action plan on company law already envisaged examination of which additional forms of company might be considered as subjects for legislation within the European Union.</en>
+      <fr>Le plan d'action relatif au droit des sociétés envisageait <DiscourseConnective annotation_id="561">déjà</DiscourseConnective> l'étude des nouvelles formes de sociétés pouvant être considérées <DiscourseConnective annotation_id="632">comme</DiscourseConnective> sujets de législation dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="627" docOffset="4">
+      <en>
+        <Alignment alignment="685" annotation_id="627">
+          <DiscourseConnective annotation_id="627" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+        </Alignment> of the studies carried out at that time, these questions were, in essence, left open.</en>
+      <fr>
+        <Alignment alignment="627" annotation_id="685">
+          <DiscourseConnective annotation_id="685" sense="Contingency.Cause.Result">À</DiscourseConnective>
+        </Alignment> la suite des études menées <DiscourseConnective annotation_id="714">à</DiscourseConnective> cette époque, ces questions sont, <DiscourseConnective annotation_id="750">pour</DiscourseConnective> la plupart, restées sans réponse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="725" docOffset="5">
+      <en>Now, the Commission, a number of years ago, invited discussion of the company law action plan and subjected it to a wholesale revision.</en>
+      <fr>
+        <DiscourseConnective annotation_id="789">Néanmoins</DiscourseConnective>, la Commission a convoqué, il y a de cela plusieurs années, un débat sur le plan d'action relatif au droit des sociétés <DiscourseConnective annotation_id="919">et</DiscourseConnective> a soumis ce dernier <DiscourseConnective annotation_id="942">à</DiscourseConnective> une révision globale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="861" docOffset="6">
+      <en>This House made a full contribution to this debate, and, following on from it, decided to produce and discuss an own-initiative report on the European private company.</en>
+      <fr>Cette Assemblée a pleinement contribué <DiscourseConnective annotation_id="1005">à</DiscourseConnective> la discussion <DiscourseConnective annotation_id="1021">et</DiscourseConnective> a, dans la foulée, décidé de produire <DiscourseConnective annotation_id="1062">et</DiscourseConnective> d'examiner un rapport d'initiative sur la société privée européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1029" docOffset="7">
+      <en>Such is the background to this item on today's agenda.</en>
+      <fr>Tel est le contexte de ce point à l'ordre du jour d'aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1084" docOffset="8">
+      <en>We have considered this question carefully and organised in this House a hearing on the subject, which drove home the fact that there is a real need for that sort of European private company and for the Commission to initiate legislation to create it.</en>
+      <fr>Nous avons minutieusement réfléchi à cette question <DiscourseConnective annotation_id="1251">et</DiscourseConnective> organisé dans cette Assemblée une audition sur le sujet, laquelle a mis en exergue l'utilité réelle de cette société privée européenne <DiscourseConnective annotation_id="1389">et</DiscourseConnective> la nécessité de voir la Commission mettre en chantier une législation visant <DiscourseConnective annotation_id="1469">à</DiscourseConnective> sa création.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1336" docOffset="9">
+      <en>Smaller industrial companies in particular - export-driven businesses that are at present obliged to set up subsidiaries and companies in other Member States and in accordance with those states' laws on companies - would welcome with great enthusiasm the creation of a European legal form whereby they could organise their subsidiaries throughout the European Union.</en>
+      <fr>Les petites sociétés industrielles <DiscourseConnective annotation_id="1519">en particulier</DiscourseConnective> - des entreprises exportatrices qui sont actuellement obligées de créer des filiales <DiscourseConnective annotation_id="1619">et</DiscourseConnective> des sociétés dans d'autres États membres, <DiscourseConnective annotation_id="1664">et</DiscourseConnective> ce conformément au droit sur les sociétés des pays concernés - salueraient avec un enthousiasme certain la création d'une forme juridique européenne leur permettant d'organiser leurs filiales dans toute l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1703" docOffset="10">
+      <en>At present, they are in serious need of advice, which may well be good for the lawyers, <Alignment alignment="2021" annotation_id="1791">
+          <DiscourseConnective annotation_id="1791" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it does cost a lot of money, <Alignment alignment="2043" annotation_id="1824">
+          <DiscourseConnective annotation_id="1824" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> there has to be, again and again, examination of individual cases to ascertain what rights and duties their directors and members of their supervisory boards actually have <DiscourseConnective annotation_id="2002" sense="Expansion.Conjunction">and</DiscourseConnective> what they have to do in order not to end up at odds with the law.</en>
+      <fr>Actuellement, elles connaissent des besoins criants en matière de conseils, ce qui est peut-être une bonne chose <DiscourseConnective annotation_id="2003">pour</DiscourseConnective> les avocats, <Alignment alignment="1791" annotation_id="2021">
+          <DiscourseConnective annotation_id="2021" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> coûte très cher, <Alignment alignment="1824" annotation_id="2043">
+          <DiscourseConnective annotation_id="2043" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> chaque cas doit être examiné afin d'évaluer les droits <DiscourseConnective annotation_id="2106">et</DiscourseConnective> devoirs dont disposent réellement leurs administrateurs <DiscourseConnective annotation_id="2165">et</DiscourseConnective> les membres de leurs conseils de surveillance, d'une part, et de connaître leurs obligations pour ne pas se trouver en porte-à-faux par rapport à la législation, d'autre part.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2072" docOffset="11">
+      <en>I think they will be able to avoid that <Alignment alignment="2383" annotation_id="2112">
+          <DiscourseConnective annotation_id="2112" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they can be offered a single European legal form that regulates a number of core matters, in particular directors' powers and questions of liability, in one way at the European level and <Alignment alignment="2635" annotation_id="2302">
+          <DiscourseConnective annotation_id="2302" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> offers something to businesses.</en>
+      <fr>Je pense qu'elles pourront s'en passer <Alignment alignment="2112" annotation_id="2383">
+          <DiscourseConnective annotation_id="2383" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous pouvons leur offrir une forme juridique européenne unique régissant, d'une seule manière au niveau européen, un certain nombre de sujets essentiels, <DiscourseConnective annotation_id="2540">en particulier</DiscourseConnective> les pouvoirs des administrateurs <DiscourseConnective annotation_id="2588">et</DiscourseConnective> les questions de responsabilité, <DiscourseConnective annotation_id="2624">et</DiscourseConnective> offrant <Alignment alignment="2302" annotation_id="2635">
+          <DiscourseConnective annotation_id="2635" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> quelque chose aux entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2339" docOffset="12">
+      <en>There is, then, absolutely no question of additional bureaucracy, for companies can decide for themselves whether they want this legal form <Alignment alignment="2833" annotation_id="2479">
+          <DiscourseConnective annotation_id="2479" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not; it is simply something of which they can avail themselves, something that plugs a real hole in the law left over <DiscourseConnective annotation_id="2600" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective> we created the European Limited Company for bigger firms.</en>
+      <fr>Par ailleurs, il n'est aucunement question d'un surcroît de bureaucratie, <DiscourseConnective annotation_id="2746">car</DiscourseConnective> les sociétés peuvent elles-mêmes décider <DiscourseConnective annotation_id="2791">si</DiscourseConnective> elles souhaitent cette forme juridique <Alignment alignment="2479" annotation_id="2833">
+          <DiscourseConnective annotation_id="2833" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non. Il <DiscourseConnective annotation_id="2844">s'</DiscourseConnective>agit <DiscourseConnective annotation_id="2851">simplement</DiscourseConnective> d'un instrument dont elles peuvent se servir, d'un instrument comblant un vide juridique réel laissé dans le sillage de la création de la société anonyme européenne <DiscourseConnective annotation_id="3027">pour</DiscourseConnective> les grandes entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2664" docOffset="13">
+      <en>Let me <Alignment alignment="3071" annotation_id="2671">
+          <DiscourseConnective annotation_id="2671" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> say, by way of an aside, that the insufficient progress made in the past in the development of European company law is one explanation for the European Court of Justice's rulings in such cases as Inspire Art, <DiscourseConnective annotation_id="2885" sense="Expansion.Conjunction">and</DiscourseConnective> this is where we can help to provide and create an exemplary structure in the European Union.</en>
+      <fr>Permettez-moi <Alignment alignment="6902" annotation_id="3071">
+          <DiscourseConnective annotation_id="3071" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de dire, <DiscourseConnective annotation_id="3090">en</DiscourseConnective> passant, <DiscourseConnective annotation_id="3102">que</DiscourseConnective> les progrès insuffisants accomplis autrefois dans le domaine du développement du droit des sociétés européennes contribuent à expliquer les arrêtés rendus par la Cour de justice des Communautés européennes dans des affaires telles <DiscourseConnective annotation_id="3337">que</DiscourseConnective> Inspire Art. C'est sur ce plan <DiscourseConnective annotation_id="3372">que</DiscourseConnective> nous pouvons contribuer <DiscourseConnective annotation_id="3400">à</DiscourseConnective> fournir <DiscourseConnective annotation_id="3410">et</DiscourseConnective> créer une structure exemplaire dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2983" docOffset="14">
+      <en>I believe that the Committee on Legal Affairs - which adopted this report by a large majority, or, indeed unanimously - has succeeded in finding a suitable compromise between the different approaches to the structure of such companies found in continental Europe on the one hand and in British legal thinking on the other, especially on the issue of equity, where we achieved a good compromise on the basis that equity ought, as a matter of principle, to exist, but without the obligation to make cash payments, which, as a means whereby registration may be made easier, is, in my view, a step in the right direction and <DiscourseConnective annotation_id="3604" sense="Expansion.Conjunction">also</DiscourseConnective> shows how it is possible for the Commission to submit a proposal with the Council then being able to find a rational compromise between the various legal traditions.</en>
+      <fr>Je pense que la commission des affaires juridiques - qui a adopté ce rapport à une large majorité, voire à l'unanimité - a réussi à trouver un compromis adéquat entre les différentes approches quant à la structure de ces sociétés existant en Europe continentale d'une part, et le raisonnement juridique britannique, d'autre part. Cette constatation concerne tout particulièrement la question des capitaux propres, sur laquelle nous sommes parvenus à un compromis de qualité en partant du principe que les capitaux propres doivent exister, mais sans obligation d'effectuer des versements en liquide, ce qui constitue, à mon sens, à titre d'outil facilitant l'immatriculation, un pas dans la bonne direction et démontre de quelle manière la Commission peut soumettre ses propositions, le Conseil trouvant par la suite un compromis raisonnable entre les diverses traditions juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3775" docOffset="15">
+      <en>What we in the Committee on Legal Affairs - and I think, after today's vote, this House too - expect of the Commission is that it should, in accordance with the provisions of the Treaty, with our Rules of Procedure, and with the interinstitutional agreement, stir itself into action and, within the foreseeable future, take definite steps to put a definite proposal for legislation before this House and the Council.</en>
+      <fr>Notre commission des affaires juridiques - <DiscourseConnective annotation_id="4395">ainsi</DiscourseConnective> que cette Assemblée, au terme de la mise aux voix d'aujourd'hui - attend de la Commission <DiscourseConnective annotation_id="4491">qu'</DiscourseConnective>elle agisse dans un avenir proche <DiscourseConnective annotation_id="4528">en</DiscourseConnective> vertu des dispositions du Traité, de notre règlement <DiscourseConnective annotation_id="4584">et</DiscourseConnective> de l'accord interinstitutionnel, qu'elle prenne des mesures déterminées afin de soumettre une proposition législative définitive à cette Assemblée <DiscourseConnective annotation_id="4734">et</DiscourseConnective> au Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4192" docOffset="16">
+      <en>
+        <Alignment alignment="4749" annotation_id="4192">
+          <DiscourseConnective annotation_id="4192" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I draw to a close, I would like to mention another consideration that has had some input into the amendments, that being the debate on workers' participation in decision-making.</en>
+      <fr>
+        <Alignment alignment="4192" annotation_id="4749">
+          <DiscourseConnective annotation_id="4749" sense="Temporal.Synchrony">Alors que</DiscourseConnective>
+        </Alignment> mon intervention touche <DiscourseConnective annotation_id="4783">à</DiscourseConnective> sa fin, je tiens <DiscourseConnective annotation_id="4802">à</DiscourseConnective> mentionner une autre considération ayant trouvé un certain écho dans les amendements, <DiscourseConnective annotation_id="4890">à</DiscourseConnective> savoir le débat sur la participation des travailleurs dans la prise de décisions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4373" docOffset="17">
+      <en>Let me make perfectly plain something that was not a bone of contention in our deliberations, namely that nobody is seeking to restrict workers' rights in any way whatever.</en>
+      <fr>Permettez-moi d'être parfaitement clair sur un point qui n'a donné lieu à aucune contestation lors de nos discussions: personne n'entend limiter les droits des travailleurs de quelque façon que ce soit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4546" docOffset="18">
+      <en>In so far <DiscourseConnective annotation_id="4556" sense="Temporal.Synchrony">as</DiscourseConnective> they are guaranteed at the national level, they are <Alignment alignment="5229" annotation_id="4611">
+          <DiscourseConnective annotation_id="4611" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> to be guaranteed and maintained <Alignment alignment="5266" annotation_id="4648">
+          <DiscourseConnective annotation_id="4648" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> this legislative project is put into effect.</en>
+      <fr>S'ils sont garantis au niveau national, ils devront <Alignment alignment="4611" annotation_id="5229">
+          <DiscourseConnective annotation_id="5229" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être garantis <DiscourseConnective annotation_id="5253">et</DiscourseConnective> maintenus <Alignment alignment="4648" annotation_id="5266">
+          <DiscourseConnective annotation_id="5266" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> ce projet législatif sera mis <DiscourseConnective annotation_id="5304">en</DiscourseConnective> œuvre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4698" docOffset="19">
+      <en>This is something on which there have been a number of amendments, which I do not regard <DiscourseConnective annotation_id="4787" sense="Temporal.Synchrony">as</DiscourseConnective> crucial, for they all have the same end in mind, that of protecting workers' rights.</en>
+      <fr>C'est un point sur lequel un certain nombre d'amendements ont été déposés. Ils ne me paraissent pas essentiels, <DiscourseConnective annotation_id="5426">car</DiscourseConnective> tous poursuivent un objectif identique, celui de protéger les droits des travailleurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4875" docOffset="20">
+      <en>One final comment - and yes, I do mean final, for I will <DiscourseConnective annotation_id="4932" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> have used up my five minutes: I note with pleasure that the German Presidency of the Council has declared the European Private Company to be one of its priorities, <Alignment alignment="5737" annotation_id="5101">
+          <DiscourseConnective annotation_id="5101" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5105" sense="Contingency.Cause.Result">so</DiscourseConnective> I assume that the Council, too, will be as supportive of this <DiscourseConnective annotation_id="5170" sense="Temporal.Synchrony">as</DiscourseConnective> - I hope - an overwhelming majority in this House is about to be.</en>
+      <fr>Permettez-moi un dernier commentaire - oui, dernier commentaire, <DiscourseConnective annotation_id="5582">car</DiscourseConnective> j'aurai épuisé mes cinq minutes: je note avec plaisir <DiscourseConnective annotation_id="5640">que</DiscourseConnective> la présidence allemande du Conseil a classé la société privée européenne parmi ses priorités <Alignment alignment="12760" annotation_id="5737">
+          <DiscourseConnective annotation_id="5737" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, partant, je suppose <DiscourseConnective annotation_id="5761">que</DiscourseConnective> le Conseil lui apportera sur ce plan un soutien <DiscourseConnective annotation_id="5813">aussi</DiscourseConnective> ferme que celui qu'une majorité écrasante de cette Assemblée - du moins je l'espère - <DiscourseConnective annotation_id="5905">s'</DiscourseConnective>apprête à lui donner.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5239" id="009" name="Charlie McCreevy">
+    <ParallelChunk annotation_id="5239" docOffset="21">
+      <en>Member of the Commission. Madam President, firstly I would like to thank the Committee on Legal Affairs, and <DiscourseConnective annotation_id="5348" sense="Expansion.Restatement">in particular</DiscourseConnective> the rapporteur, Mr Lehne, for the excellent work done in the preparation of the report on the European private company statute on which you will vote today.</en>
+      <fr>membre de la Commission. - (EN) Madame la Présidente, je voudrais <DiscourseConnective annotation_id="5995">tout d'abord</DiscourseConnective> remercier la commission des affaires juridiques, tout particulièrement le rapporteur, M. Lehne, <DiscourseConnective annotation_id="6104">pour</DiscourseConnective> l'excellent travail effectué dans le cadre de la préparation du rapport sur le statut de la société privée européenne <DiscourseConnective annotation_id="6227">que</DiscourseConnective> vous mettrez aux voix aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5519" docOffset="22">
+      <en>My departments are already studying in detail the suggestions and recommendations proposed in this report.</en>
+      <fr>Mes services étudient d'ores et <DiscourseConnective annotation_id="6298">déjà</DiscourseConnective> dans le détail les suggestions <DiscourseConnective annotation_id="6334">et</DiscourseConnective> recommandations proposées dans ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5626" docOffset="23">
+      <en>We need to make it easier and cheaper for small and medium-sized companies to conduct cross-border business.</en>
+      <fr>Nous devons permettre aux petites <DiscourseConnective annotation_id="6414">et</DiscourseConnective> moyennes entreprises de mener des activités transfrontières plus aisément <DiscourseConnective annotation_id="6491">et</DiscourseConnective> à moindre coût.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5735" docOffset="24">
+      <en>It is important to take action that will help small and medium firms to reap fully the benefits of the single market.</en>
+      <fr>Il importe d'agir afin d'aider les PME <DiscourseConnective annotation_id="6549">à</DiscourseConnective> bénéficier pleinement des avantages du marché unique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5853" docOffset="25">
+      <en>The growth of small businesses is crucial for the competitiveness of the European economy.</en>
+      <fr>La croissance des petites entreprises est cruciale <DiscourseConnective annotation_id="6656">pour</DiscourseConnective> la compétitivité de l'économie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5944" docOffset="26">
+      <en>One means of facilitating the expansion of small businesses is to simplify the current legal framework and reduce unnecessary administrative burdens.</en>
+      <fr>L'une des manières de faciliter l'expansion de ces petites entreprises consiste <DiscourseConnective annotation_id="6784">à</DiscourseConnective> simplifier le cadre juridique actuel <DiscourseConnective annotation_id="6823">et</DiscourseConnective> à réduire les charges administratives inutiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6094" docOffset="27">
+      <en>These burdens are particularly onerous for SMEs that do not have big legal departments at their disposal.</en>
+      <fr>Ces charges sont particulièrement onéreuses <DiscourseConnective annotation_id="6918">pour</DiscourseConnective> les PME ne disposant pas de services juridiques étoffés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6200" docOffset="28">
+      <en>That is why I have decided to present a communication on the simplification of EU company law in the spring of this year.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6980">C'est pourquoi</DiscourseConnective> j'ai décidé de présenter une communication sur la simplification du droit des sociétés communautaire au printemps de cette année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6322" docOffset="29">
+      <en>This fits in with the broader programme of the Commission on simplification of the acquis communautaire which provides for a 25% reduction in administrative burdens by 2012.</en>
+      <fr>Cette démarche s'inscrit dans le cadre du programme global de la Commission relatif à la simplification de l'acquis communautaire, qui prévoit une réduction de 25% des charges administratives d'ici 2012.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6496" docOffset="30">
+      <en>I am all for initiatives that will give European firms, and <Alignment alignment="7451" annotation_id="6556">
+          <Alignment alignment="7451" annotation_id="6556">
+            <DiscourseConnective annotation_id="6556" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment> small and medium companies, a flexible regulatory framework.</en>
+      <fr>Je suis entièrement favorable aux initiatives qui donneront aux sociétés européennes, aux petites <DiscourseConnective annotation_id="7427">et</DiscourseConnective> moyennes entreprises <Alignment alignment="6556" annotation_id="7451">
+          <Alignment alignment="6556" annotation_id="7451">
+            <DiscourseConnective annotation_id="7451" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, un cadre réglementaire flexible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6631" docOffset="31">
+      <en>The European private company statute could be a useful option for them in this respect.</en>
+      <fr>Le statut de la société privée européenne pourrait leur être utile sur ce plan.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6719" docOffset="32">
+      <en>The idea was supported by industry in the recent public consultation on future priorities for the action plan on company law and corporate governance.</en>
+      <fr>L'idée a bénéficié du soutien de l'industrie lors de la récente consultation publique relative aux futures priorités du plan d'action sur le droit des sociétés <DiscourseConnective annotation_id="7740">et</DiscourseConnective> la gouvernance d'entreprise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6870" docOffset="33">
+      <en>Many respondents stressed that such an option would create more choice for companies and reduce compliance costs for firms which wish to operate in several Member States.</en>
+      <fr>Nombre de participants ont souligné <DiscourseConnective annotation_id="7808">que</DiscourseConnective> cette option augmenterait le choix des sociétés <DiscourseConnective annotation_id="7860">et</DiscourseConnective> réduirait le coût de la mise en conformité <DiscourseConnective annotation_id="7906">pour</DiscourseConnective> les entreprises souhaitant opérer dans plusieurs États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7041" docOffset="34">
+      <en>
+        <Alignment alignment="7975" annotation_id="7041">
+          <DiscourseConnective annotation_id="7041" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, a number of our respondents <Alignment alignment="8011" annotation_id="7078">
+          <DiscourseConnective annotation_id="7078" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> questioned the usefulness of such a measure and, <Alignment alignment="8067" annotation_id="7132">
+          <DiscourseConnective annotation_id="7132" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, in accordance with better regulation principles the Commission must carry out an impact assessment <Alignment alignment="8211" annotation_id="7244">
+          <DiscourseConnective annotation_id="7244" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> any initiative is proposed.</en>
+      <fr>
+        <Alignment alignment="7041" annotation_id="7975">
+          <DiscourseConnective annotation_id="7975" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, certains d'entre eux ont <Alignment alignment="7078" annotation_id="8011">
+          <DiscourseConnective annotation_id="8011" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> mis en cause l'utilité d'une telle mesure <DiscourseConnective annotation_id="8063">et</DiscourseConnective>, <Alignment alignment="7132" annotation_id="8067">
+          <DiscourseConnective annotation_id="8067" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, <DiscourseConnective annotation_id="8088">en</DiscourseConnective> vertu des principes d'optimisation de la législation, la Commission est tenue d'effectuer une évaluation des incidences <Alignment alignment="7244" annotation_id="8211">
+          <DiscourseConnective annotation_id="8211" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> proposer une initiative, quelle qu'elle <DiscourseConnective annotation_id="8260">soit</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7279" docOffset="35">
+      <en>
+        <Alignment alignment="8266" annotation_id="7279">
+          <DiscourseConnective annotation_id="7279" sense="Contingency.Cause.Result">Accordingly</DiscourseConnective>
+        </Alignment>, my departments are now examining the costs and benefits of such a statute, as well as alternative measures to address the problems at stake.</en>
+      <fr>
+        <Alignment alignment="7279" annotation_id="8266">
+          <DiscourseConnective annotation_id="8266" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, mes services examinent actuellement le coût <DiscourseConnective annotation_id="8326">et</DiscourseConnective> les avantages de ce statut, <DiscourseConnective annotation_id="8357">de même que</DiscourseConnective> les mesures alternatives permettant de traiter les problèmes existants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7433" docOffset="36">
+      <en>I would only propose a European private company statute <Alignment alignment="8501" annotation_id="7489">
+          <DiscourseConnective annotation_id="7489" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the impact assessment clearly shows that this is the most appropriate instrument to tackle the problems SMEs face today <Alignment alignment="8672" annotation_id="7612">
+          <DiscourseConnective annotation_id="7612" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the European private company form would be useful to them in expanding their activities and developing their businesses across borders.</en>
+      <fr>Je ne proposerais un statut de la société privée européenne <Alignment alignment="7489" annotation_id="8501">
+          <DiscourseConnective annotation_id="8501" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> l'évaluation des incidences démontre clairement <DiscourseConnective annotation_id="8556">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="8562">s'</DiscourseConnective>agit de l'instrument le plus <DiscourseConnective annotation_id="8593">à</DiscourseConnective> même de résoudre les problèmes auxquels sont aujourd'hui confrontées les PME <Alignment alignment="7612" annotation_id="8672">
+          <DiscourseConnective annotation_id="8672" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="8675">que</DiscourseConnective> la forme de société privée européenne leur serait utile dans le cadre de l'expansion de leurs activités <DiscourseConnective annotation_id="8783">et</DiscourseConnective> du développement de leurs entreprises au-delà des frontières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7757" docOffset="37">
+      <en>Experience with the European company statute has shown that creating a new European corporate form can be a very long and complex process.</en>
+      <fr>L'expérience que nous avons acquise dans le sillage du statut de la société européenne a prouvé <DiscourseConnective annotation_id="8944">que</DiscourseConnective> la création d'une nouvelle forme d'entreprise européenne pouvait être un processus très long <DiscourseConnective annotation_id="9041">et</DiscourseConnective> très complexe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7896" docOffset="38">
+      <en>The end result may be legal instruments that are not always easy to use.</en>
+      <fr>Le <DiscourseConnective annotation_id="9062">résultat</DiscourseConnective> final peut engendrer des instruments juridiques qui ne sont pas toujours faciles <DiscourseConnective annotation_id="9152">à</DiscourseConnective> utiliser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7969" docOffset="39">
+      <en>
+        <Alignment alignment="9164" annotation_id="7969">
+          <DiscourseConnective annotation_id="7969" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> a European private company statute is to be worthwhile, then agreement would need to be found swiftly.</en>
+      <fr>
+        <Alignment alignment="7969" annotation_id="9164">
+          <DiscourseConnective annotation_id="9164" sense="Contingency.Condition">Pour que</DiscourseConnective>
+        </Alignment> le statut de société privée européenne <DiscourseConnective annotation_id="9212">soit</DiscourseConnective> utile, il convient de trouver rapidement un accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8075" docOffset="40">
+      <en>The end result would have to be simple for SMEs to use, <DiscourseConnective annotation_id="8131" sense="Contingency.Cause.Result">thereby</DiscourseConnective> bringing real added value.</en>
+      <fr>Le <DiscourseConnective annotation_id="9272">résultat</DiscourseConnective> final doit être facile <DiscourseConnective annotation_id="9304">à</DiscourseConnective> mettre en œuvre <DiscourseConnective annotation_id="9322">pour</DiscourseConnective> les PME, créant ainsi une réelle valeur ajoutée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8166" docOffset="41">
+      <en>I note that your report and associated resolution are based on Article 192 of the Treaty calling on the Commission to submit a legislative proposal.</en>
+      <fr>Je note <DiscourseConnective annotation_id="9384">que</DiscourseConnective> votre rapport <DiscourseConnective annotation_id="9402">et</DiscourseConnective> la résolution qui l'accompagne se fondent sur l'article 192 du Traité et invitent la Commission <DiscourseConnective annotation_id="9501">à</DiscourseConnective> soumettre une proposition législative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8315" docOffset="42">
+      <en>Under the framework agreement, the Commission undertook to take account of any such request made pursuant to Article 192 of the Treaty.</en>
+      <fr>Aux termes de l'accord-cadre, la Commission s'est engagée <DiscourseConnective annotation_id="9600">à</DiscourseConnective> tenir compte de toute requête de ce type, présentée conformément <DiscourseConnective annotation_id="9667">à</DiscourseConnective> cet article 192.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8451" docOffset="43">
+      <en>I intend to live up to these commitments.</en>
+      <fr>J'entends respecter ces engagements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8493" docOffset="44">
+      <en>We will assess the practical suggestions set out in the report in detail.</en>
+      <fr>Nous évaluerons minutieusement les propositions pratiques présentées dans le rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8567" docOffset="45">
+      <en>I want my departments to take the time necessary to consider carefully all possible options in order to provide the best balanced solution for SMEs.</en>
+      <fr>Je souhaite que mes services prennent le temps nécessaire <DiscourseConnective annotation_id="9867">pour</DiscourseConnective> examiner soigneusement toutes les options possibles, <DiscourseConnective annotation_id="9925">afin d'</DiscourseConnective>élaborer une solution équilibrée optimale <DiscourseConnective annotation_id="9974">pour</DiscourseConnective> les PME.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8716" docOffset="46">
+      <en>Upon conclusion of the impact assessment, I will report back to you on its results and the policy conclusions we draw from it.</en>
+      <fr>Une fois l'évaluation des incidences terminée, je vous présenterai les résultats de celle-ci <DiscourseConnective annotation_id="10081">et</DiscourseConnective> les conclusions politiques que nous en tirons.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8843" id="010" name="Andreas Schwab">
+    <ParallelChunk annotation_id="8843" docOffset="47">
+      <en>on behalf of the PPE-DE Group. - (DE) Madam President, I, too, as a former fellow-member of the Committee on the Internal Market and Consumer Protection, wish you every success in the exercise of your functions.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Madame la Présidente, je vous souhaite moi <DiscourseConnective annotation_id="10206">aussi</DiscourseConnective>, en <DiscourseConnective annotation_id="10216">tant qu'</DiscourseConnective>ancien confrère de la commission du marché intérieur <DiscourseConnective annotation_id="10277">et</DiscourseConnective> de la protection des consommateurs, bonne chance dans l'exercice de vos fonctions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9055" docOffset="48">
+      <en>
+        <Alignment alignment="10363" annotation_id="9055">
+          <DiscourseConnective annotation_id="9055" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> every President were to keep the Chamber as quiet <Alignment alignment="10437" annotation_id="9108">
+          <DiscourseConnective annotation_id="9108" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you have done this morning, our deliberations would indeed be much more constructive, <DiscourseConnective annotation_id="9197" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="10531" annotation_id="9201">
+          <DiscourseConnective annotation_id="9201" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I can only ask you to carry on the way you have begun.</en>
+      <fr>
+        <Alignment alignment="9055" annotation_id="10363">
+          <DiscourseConnective annotation_id="10363" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> chaque président réussissait <DiscourseConnective annotation_id="10395">à</DiscourseConnective> maintenir le calme dans cette Assemblée <Alignment alignment="9108" annotation_id="10437">
+          <DiscourseConnective annotation_id="10437" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous l'avez fait ce matin, nos débats seraient certainement beaucoup plus constructifs. <Alignment alignment="9201" annotation_id="10531">
+          <DiscourseConnective annotation_id="10531" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+        </Alignment>, je ne peux que vous encourager <DiscourseConnective annotation_id="10572">à</DiscourseConnective> poursuivre sur votre lancée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9259" docOffset="49">
+      <en>I can tell the Commissioner that small and medium-sized enterprises are the driving force behind the European internal market.</en>
+      <fr>Je <DiscourseConnective annotation_id="10606">puis</DiscourseConnective> affirmer au commissaire <DiscourseConnective annotation_id="10635">que</DiscourseConnective> les petites <DiscourseConnective annotation_id="10651">et</DiscourseConnective> moyennes entreprises sont le moteur du marché intérieur européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9386" docOffset="50">
+      <en>That may well be reiterated time and time again, <Alignment alignment="10770" annotation_id="9435">
+          <DiscourseConnective annotation_id="9435" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the progress towards the achievement of this goal is often too slow.</en>
+      <fr>Nous l'avons peut-être répété à maintes reprises, <Alignment alignment="9435" annotation_id="10770">
+          <DiscourseConnective annotation_id="10770" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les progrès réalisés au niveau de l'accomplissement de cet objectif sont souvent trop lents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9508" docOffset="51">
+      <en>I, too, <Alignment alignment="10868" annotation_id="9516">
+          <DiscourseConnective annotation_id="9516" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, am among those who believe that the creation of a European legal framework with the interests of the self-employed and smaller businesses particularly in mind is an extremely important matter, not least for the Committee on the Internal Market.</en>
+      <fr>
+        <Alignment alignment="2988" annotation_id="10868">
+          <DiscourseConnective annotation_id="10868" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, je suis moi <DiscourseConnective annotation_id="10896">aussi</DiscourseConnective> de ceux qui pensent <DiscourseConnective annotation_id="10922">que</DiscourseConnective> la création d'un cadre juridique européen, tenant compte des intérêts des indépendants <DiscourseConnective annotation_id="11013">et</DiscourseConnective> des petites entreprises <DiscourseConnective annotation_id="11040">en particulier</DiscourseConnective>, est capitale, <DiscourseConnective annotation_id="11070">surtout</DiscourseConnective> <DiscourseConnective annotation_id="11078">pour</DiscourseConnective> la commission du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9772" docOffset="52">
+      <en>Mr Lehne's own-initiative report is much to be welcomed, not least on the grounds that it sends an important signal to the Commission - and, let me add, to the Presidency of the Council too - <Alignment alignment="11302" annotation_id="9964">
+          <DiscourseConnective annotation_id="9964" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to thank him for the splendid work he has done in this regard.</en>
+      <fr>Le rapport d'initiative de M. Lehne est <DiscourseConnective annotation_id="11158">à</DiscourseConnective> saluer chaleureusement, <DiscourseConnective annotation_id="11184">d'autant plus qu'</DiscourseConnective>il envoie un signal important <DiscourseConnective annotation_id="11231">à</DiscourseConnective> la Commission - <DiscourseConnective annotation_id="11249">ainsi</DiscourseConnective> qu'à la présidence du Conseil, ajouterais-je - <Alignment alignment="9964" annotation_id="11302">
+          <DiscourseConnective annotation_id="11302" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je tiens <DiscourseConnective annotation_id="11314">à</DiscourseConnective> le remercier <DiscourseConnective annotation_id="11329">pour</DiscourseConnective> le travail splendide qu'il a effectué <DiscourseConnective annotation_id="11372">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10044" docOffset="53">
+      <en>It is cause for thanksgiving that many small and medium-sized businesses already work across borders, <DiscourseConnective annotation_id="10146" sense="Expansion.Conjunction">and</DiscourseConnective> you, Commissioner, were able to see that for yourself <Alignment alignment="11578" annotation_id="10204">
+          <DiscourseConnective annotation_id="10204" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> you visited Offenburg, my own electoral district.</en>
+      <fr>Réjouissons-nous de voir les petites <DiscourseConnective annotation_id="11422">et</DiscourseConnective> moyennes entreprises opérer en grand nombre au-delà de leurs frontières, ce dont vous avez pu vous rendre compte par vous-même, Monsieur le Commissaire, <Alignment alignment="10204" annotation_id="11578">
+          <DiscourseConnective annotation_id="11578" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> vous avez visité Offenburg, ma circonscription électorale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10259" docOffset="54">
+      <en>In many instances, <Alignment alignment="11645" annotation_id="10278">
+          <DiscourseConnective annotation_id="10278" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment>, their dedication and growth are hampered by bureaucratic restrictions and the lack of experience of the local legal situation, <DiscourseConnective annotation_id="10413" sense="Expansion.Conjunction">and</DiscourseConnective> small and medium-sized enterprises from the new Member States have hitherto been put at a considerable competitive disadvantage by this.</en>
+      <fr>
+        <Alignment alignment="10278" annotation_id="11645">
+          <DiscourseConnective annotation_id="11645" sense="Comparison.Contrast">Pourtant</DiscourseConnective>
+        </Alignment>, dans bien des cas, leur dévouement <DiscourseConnective annotation_id="11690">et</DiscourseConnective> leur croissance sont entravés par les restrictions bureaucratiques <DiscourseConnective annotation_id="11760">et</DiscourseConnective> par le manque de connaissance de la situation juridique locale. Les petites <DiscourseConnective annotation_id="11839">et</DiscourseConnective> moyennes entreprises des nouveaux États membres ont à ce jour souffert d'un handicap concurrentiel considérable sur ce plan.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10554" docOffset="55">
+      <en>Offering in future a European legal form in parallel with the legal forms of the nation states <DiscourseConnective annotation_id="10649" sense="Contingency.Cause.Result">therefore</DiscourseConnective> not only serves to further the completion of the European internal market, but <Alignment alignment="12136" annotation_id="10738">
+          <DiscourseConnective annotation_id="10738" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> makes it easier for small and medium-sized enterprises to set up subsidiaries in European countries other than their own, and hence to develop their activities beyond their own country's borders.</en>
+      <fr>Proposer <DiscourseConnective annotation_id="11976">à</DiscourseConnective> l'avenir une forme juridique européenne parallèle aux formes juridiques des États-nations permettra de favoriser la réalisation du marché intérieur européen, <Alignment alignment="29162" annotation_id="12136">
+          <DiscourseConnective annotation_id="12136" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+        </Alignment> de faciliter la création, par les petites <DiscourseConnective annotation_id="12189">et</DiscourseConnective> moyennes entreprises, de filiales dans des pays européens autres <DiscourseConnective annotation_id="12257">que</DiscourseConnective> le leur, <DiscourseConnective annotation_id="12270">et</DiscourseConnective> <DiscourseConnective annotation_id="12273">par conséquent</DiscourseConnective>, de développer leurs activités au-delà de leurs frontières nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10939" docOffset="56">
+      <en>What is of the essence in this is that the consultancy and administrative costs involved in setting up and running a company can be reduced to a considerable degree <Alignment alignment="12549" annotation_id="11104">
+          <DiscourseConnective annotation_id="11104" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that cross-border business activity no longer involves the laws of more than one Member State being applicable.</en>
+      <fr>L'essentiel de cette démarche est de réduire de manière drastique les frais de consultance <DiscourseConnective annotation_id="12450">et</DiscourseConnective> le coût administratif qu'engendrent la création <DiscourseConnective annotation_id="12501">et</DiscourseConnective> le fonctionnement d'une société, <DiscourseConnective annotation_id="12537">d'une part</DiscourseConnective>, <Alignment alignment="11104" annotation_id="12549">
+          <DiscourseConnective annotation_id="12549" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de faire en sorte <DiscourseConnective annotation_id="12570">qu'</DiscourseConnective>une activité économique transfrontalière ne se trouve plus régie par la législation de plusieurs États membres, d'autre part.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11220" docOffset="57">
+      <en>A survey conducted by the German International Chamber of Commerce - I can refer only to German businesses - showed that enterprises were very keen that there should be a European legal form that met the needs of small and medium-sized businesses, <DiscourseConnective annotation_id="11468" sense="Expansion.Conjunction">and</DiscourseConnective> the businesses that responded said that they saw this as being a 'little sister' to the European Limited Company and believed that it needed to be slimline, practicable and - above all else - European.</en>
+      <fr>Une étude menée par la Chambre internationale allemande du commerce - je ne peux me référer <DiscourseConnective annotation_id="12791">qu'</DiscourseConnective>aux entreprises allemandes - a démontré <DiscourseConnective annotation_id="12834">que</DiscourseConnective> les entreprises appelaient de leurs vœux une forme juridique européenne répondant aux besoins des petites <DiscourseConnective annotation_id="12944">et</DiscourseConnective> moyennes entreprises. Par ailleurs, les entreprises ayant répondu à l'enquête ont indiqué <DiscourseConnective annotation_id="13037">qu'</DiscourseConnective>elles voyaient <DiscourseConnective annotation_id="13055">en</DiscourseConnective> elle la "petite sœur" de la société anonyme européenne <DiscourseConnective annotation_id="13113">et</DiscourseConnective> ont estimé <DiscourseConnective annotation_id="13127">qu'</DiscourseConnective>elle devait être simplifiée, applicable <DiscourseConnective annotation_id="13170">et</DiscourseConnective>, <DiscourseConnective annotation_id="13174">avant</DiscourseConnective> toute chose, européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11674" docOffset="58">
+      <en>I can <Alignment alignment="13205" annotation_id="11680">
+          <DiscourseConnective annotation_id="11680" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> tell the Commissioner that what this House is saying by means of this report is that it wants to see the Commission presenting a legislative proposal on the basis of Article 308 <Alignment alignment="13407" annotation_id="11868">
+          <DiscourseConnective annotation_id="11868" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> this year is out.</en>
+      <fr>
+        <Alignment alignment="15770" annotation_id="13205">
+          <DiscourseConnective annotation_id="13205" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, je <DiscourseConnective annotation_id="13224">puis</DiscourseConnective> dire au commissaire <DiscourseConnective annotation_id="13249">que</DiscourseConnective> cette Assemblée, au travers de ce rapport, indique <DiscourseConnective annotation_id="13304">qu'</DiscourseConnective>elle souhaite voir la Commission présenter une proposition législative sur la base de l'article 308 <Alignment alignment="16803" annotation_id="13407">
+          <DiscourseConnective annotation_id="13407" sense="Temporal.Asynchronous.Precedence">avant</DiscourseConnective>
+        </Alignment> la fin de cette année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11893" docOffset="59">
+      <en>We are of course pleased to hear you advocating the impact assessment, <Alignment alignment="13532" annotation_id="11964">
+          <DiscourseConnective annotation_id="11964" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we have <Alignment alignment="13548" annotation_id="11976">
+          <DiscourseConnective annotation_id="11976" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> seen, from the example of other directives relating to the internal market and consumer protection, that, where the political will is present, an impact assessment can either be carried out briskly or limited to specific individual questions, <DiscourseConnective annotation_id="12224" sense="Expansion.Conjunction">and</DiscourseConnective> so I would ask you to move the impact assessment forward with some speed in order to arrive at a legislative proposal as soon as possible.</en>
+      <fr>Bien évidemment, nous nous réjouissons de vous entendre préconiser l'évaluation des incidences, <Alignment alignment="11964" annotation_id="13532">
+          <DiscourseConnective annotation_id="13532" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous avons <Alignment alignment="11976" annotation_id="13548">
+          <DiscourseConnective annotation_id="13548" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> constaté, dans le cadre d'autres directives concernant le marché intérieur <DiscourseConnective annotation_id="13633">et</DiscourseConnective> la protection des consommateurs, <DiscourseConnective annotation_id="13669">que</DiscourseConnective> <DiscourseConnective annotation_id="13673">lorsque</DiscourseConnective> la volonté politique est présente, l'évaluation des incidences peut être effectuée prestement <DiscourseConnective annotation_id="13775">ou</DiscourseConnective> limitée <DiscourseConnective annotation_id="13786">à</DiscourseConnective> certaines questions spécifiques. <DiscourseConnective annotation_id="13821">Aussi</DiscourseConnective> vous demanderais-je de mener l'évaluation des incidences avec célérité <DiscourseConnective annotation_id="13898">afin de</DiscourseConnective> parvenir <DiscourseConnective annotation_id="13915">à</DiscourseConnective> une proposition législative dans les plus brefs délais.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12367" docOffset="60">
+      <en>I would <Alignment alignment="13988" annotation_id="12375">
+          <DiscourseConnective annotation_id="12375" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> ask the German Presidency of the Council to process this dossier as soon as possible and with vigour.</en>
+      <fr>Je demanderais <Alignment alignment="12375" annotation_id="13988">
+          <DiscourseConnective annotation_id="13988" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à la présidence allemande du Conseil de traiter ce dossier <DiscourseConnective annotation_id="14057">aussitôt que</DiscourseConnective> possible <DiscourseConnective annotation_id="14079">et</DiscourseConnective> avec énergie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12482" id="011" name="Manuel Medina Ortega">
+    <ParallelChunk annotation_id="12482" docOffset="61">
+      <en>on behalf of the PSE Group. - (ES) Madam President, I believe that this is the first time that I have had the opportunity to speak <Alignment alignment="10941" annotation_id="12613">
+          <DiscourseConnective annotation_id="12613" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> you are presiding over the sitting <Alignment alignment="14221" annotation_id="12654">
+          <DiscourseConnective annotation_id="12654" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to congratulate you on your appointment.</en>
+      <fr>Madame la présidente, je crois <DiscourseConnective annotation_id="14127">que</DiscourseConnective> c'est la première fois <DiscourseConnective annotation_id="14154">que</DiscourseConnective> j'ai l'occasion d'intervenir <Alignment alignment="12613" annotation_id="14187">
+          <DiscourseConnective annotation_id="14187" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> vous présidez la séance <Alignment alignment="12654" annotation_id="14221">
+          <DiscourseConnective annotation_id="14221" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais vous féliciter <DiscourseConnective annotation_id="14251">pour</DiscourseConnective> votre désignation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12712" docOffset="62">
+      <en>I am sure that you will do your duties in your characteristically independent manner.</en>
+      <fr>Je suis certain <DiscourseConnective annotation_id="14291">que</DiscourseConnective> vous assumerez vos fonctions avec l'indépendance qui vous caractérise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12798" docOffset="63">
+      <en>Secondly, I would like to thank Mr Lehne for his report.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14366">Deuxièmement</DiscourseConnective>, je voudrais remercier M. Lehne <DiscourseConnective annotation_id="14411">pour</DiscourseConnective> son rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12855" docOffset="64">
+      <en>I believe that he has done a good job, <Alignment alignment="14477" annotation_id="12894">
+          <DiscourseConnective annotation_id="12894" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I would like to point out a couple of problems that we have.</en>
+      <fr>J'estime <DiscourseConnective annotation_id="14438">qu'</DiscourseConnective>il a réalisé un travail de qualité, <Alignment alignment="12894" annotation_id="14477">
+          <DiscourseConnective annotation_id="14477" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je tiens <DiscourseConnective annotation_id="14491">à</DiscourseConnective> souligner deux ou trois problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12959" docOffset="65">
+      <en>Firstly, I do not believe the Committee on Legal Affairs' current approach of presenting reports on an issue of legislative initiative with an annex which has not been sufficiently discussed to be the appropriate legislative technique.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14528">Premièrement</DiscourseConnective>, je ne pense pas que l'approche actuelle de la commission des affaires juridiques, qui consiste à présenter des rapports sur une question d'initiative législative avec une annexe étudiée de manière sommaire, constitue une technique législative appropriée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13195" docOffset="66">
+      <en>We are talking about an initial phase of legislative proposals.</en>
+      <fr>Nous examinons la phase initiale des propositions législatives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13259" docOffset="67">
+      <en>What we are doing is asking the Commission to look into the possibility of presenting a report, <Alignment alignment="14941" annotation_id="13355">
+          <DiscourseConnective annotation_id="13355" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I believe that at this stage we should restrict ourselves to the first part of the resolution.</en>
+      <fr>Nous demandons à la Commission d'étudier la possibilité de présenter un rapport <Alignment alignment="13355" annotation_id="14941">
+          <DiscourseConnective annotation_id="14941" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je crois <DiscourseConnective annotation_id="14953">qu'</DiscourseConnective>à ce stade, nous devrions nous limiter <DiscourseConnective annotation_id="14995">à</DiscourseConnective> la première partie de la résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13454" docOffset="68">
+      <en>I do not believe that the annex to the motion for a resolution has been sufficiently debated.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="15043">que</DiscourseConnective> l'annexe de la proposition de résolution n'a pas été suffisamment débattue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13548" docOffset="69">
+      <en>We cannot <Alignment alignment="15123" annotation_id="13558">
+          <DiscourseConnective annotation_id="13558" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> take the view that these conclusions of the annex genuinely reflect the will of the Committee on Legal Affairs.</en>
+      <fr>
+        <Alignment alignment="13558" annotation_id="15123">
+          <DiscourseConnective annotation_id="15123" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, nous ne pouvons pas considérer <DiscourseConnective annotation_id="15170">que</DiscourseConnective> les conclusions de l'annexe reflètent véritablement la volonté de la commission des affaires juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13680" docOffset="70">
+      <en>Secondly, I believe that Mr McCreevy was absolutely right to point out that we should not be legislating for the sake of legislating - our failure in relation to the European Company should give us cause for concern in this regard - <DiscourseConnective annotation_id="13913" sense="Expansion.Conjunction">and</DiscourseConnective> the impact study is <Alignment alignment="15509" annotation_id="13937">
+          <DiscourseConnective annotation_id="13937" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> clearly necessary.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15279">Deuxièmement</DiscourseConnective>, je crois <DiscourseConnective annotation_id="15302">que</DiscourseConnective> M. McCreevy a parfaitement raison de souligner <DiscourseConnective annotation_id="15353">que</DiscourseConnective> nous ne devons pas légiférer <DiscourseConnective annotation_id="15386">pour</DiscourseConnective> le plaisir - notre échec concernant la société européenne doit nous inciter <DiscourseConnective annotation_id="15467">à</DiscourseConnective> la prudence. L'étude des incidences est <Alignment alignment="13937" annotation_id="15509">
+          <DiscourseConnective annotation_id="15509" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> parfaitement nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13966" docOffset="71">
+      <en>
+        <DiscourseConnective annotation_id="13966" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>, it is clear that we in this House believe that it is necessary to draw up a statute to enable small businesses to operate <Alignment alignment="15688" annotation_id="14101">
+          <DiscourseConnective annotation_id="14101" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that we should work towards achieving that.</en>
+      <fr>De surcroît, il est clair <DiscourseConnective annotation_id="15565">que</DiscourseConnective> notre Assemblée estime indispensable de concevoir un statut garantissant le bon fonctionnement des petites entreprises <Alignment alignment="14101" annotation_id="15688">
+          <DiscourseConnective annotation_id="15688" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de <DiscourseConnective annotation_id="15694">s'</DiscourseConnective>atteler à la réalisation de cet objectif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14149" docOffset="72">
+      <en>In doing so, we are faced with certain difficulties: <Alignment alignment="15853" annotation_id="14202">
+          <DiscourseConnective annotation_id="14202" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, the problem of worker participation.</en>
+      <fr>Nous sommes confrontés <DiscourseConnective annotation_id="15761">à</DiscourseConnective> certaines difficultés dans cette tâche: le problème de la participation des travailleurs, <Alignment alignment="31860" annotation_id="15853">
+          <DiscourseConnective annotation_id="15853" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14252" docOffset="73">
+      <en>We have held discussions on the text of recital H. In my political group, there have been certain reservations about the way Mr Lehne had worded it.</en>
+      <fr>Nous avons débattu au sujet du texte du considérant H. Certaines réserves ont été exprimées sur la formulation choisie par M. Lehne au sein de mon groupe politique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14401" docOffset="74">
+      <en>I believe that the final formula proposed by Mr Lehne is satisfactory <Alignment alignment="16102" annotation_id="14471">
+          <DiscourseConnective annotation_id="14471" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that we in my group can approve it.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="16040">que</DiscourseConnective> la formule finale proposée par M. Lehne est satisfaisante <Alignment alignment="30397" annotation_id="16102">
+          <DiscourseConnective annotation_id="16102" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="16114">que</DiscourseConnective> notre groupe pourra l'approuver.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14518" docOffset="75">
+      <en>
+        <Alignment alignment="16151" annotation_id="14518">
+          <Alignment alignment="16151" annotation_id="14518">
+            <DiscourseConnective annotation_id="14518" sense="Expansion.Restatement">In short</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I believe that Mr Lehne's proposal is a good one.</en>
+      <fr>
+        <Alignment alignment="14518" annotation_id="16151">
+          <Alignment alignment="14518" annotation_id="16151">
+            <DiscourseConnective annotation_id="16151" sense="Expansion.Restatement">Pour résumer</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je pense <DiscourseConnective annotation_id="16174">que</DiscourseConnective> la proposition du rapporteur est de bonne facture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14578" docOffset="76">
+      <en>We are not demanding that the Commission accept it, <Alignment alignment="16278" annotation_id="14630">
+          <DiscourseConnective annotation_id="14630" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we are asking it to look into this possibility.</en>
+      <fr>Nous n'exigeons pas <DiscourseConnective annotation_id="16249">que</DiscourseConnective> la Commission l'accepte, <Alignment alignment="14630" annotation_id="16278">
+          <DiscourseConnective annotation_id="16278" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous lui demandons d'examiner cette possibilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14682" docOffset="77">
+      <en>I hope that Mr McCreevy will do everything he can to ensure that this Parliament's will in this regard is implemented.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="16341">que</DiscourseConnective> M. McCreevy fera tout ce qui est en son pouvoir <DiscourseConnective annotation_id="16393">afin de</DiscourseConnective> s'assurer <DiscourseConnective annotation_id="16411">que</DiscourseConnective> la volonté de ce Parlement <DiscourseConnective annotation_id="16442">soit</DiscourseConnective> exaucée sur ce point.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14801" id="012" name="Sharon Bowles">
+    <ParallelChunk annotation_id="14801" docOffset="78">
+      <en>on behalf of the ALDE Group. - Madam President, first let me <DiscourseConnective annotation_id="14862" sense="Expansion.Conjunction">also</DiscourseConnective> extend my congratulations to you on your appointment and the conduct of your first debate.</en>
+      <fr>au nom du groupe ALDE. - (EN) Madame la Présidente, permettez-moi <DiscourseConnective annotation_id="16535">tout d'abord</DiscourseConnective> de vous féliciter à mon tour pour votre désignation <DiscourseConnective annotation_id="16600">et</DiscourseConnective> pour la conduite de votre premier débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14958" docOffset="79">
+      <en>I must <Alignment alignment="16655" annotation_id="14965">
+          <DiscourseConnective annotation_id="14965" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> start with an apology to the rapporteur <Alignment alignment="16719" annotation_id="15010">
+          <DiscourseConnective annotation_id="15010" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, <Alignment alignment="16723" annotation_id="15019">
+          <DiscourseConnective annotation_id="15019" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> I attended the hearing on this subject, I was unable to participate in the debate in committee <DiscourseConnective annotation_id="15123" sense="Expansion.Conjunction">and</DiscourseConnective> I know it is a bit irritating <DiscourseConnective annotation_id="15157" sense="Temporal.Synchrony">when</DiscourseConnective> somebody <DiscourseConnective annotation_id="15171" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> pops up in Plenary.</en>
+      <fr>Je me dois <Alignment alignment="14965" annotation_id="16655">
+          <DiscourseConnective annotation_id="16655" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de commencer par présenter mes excuses au rapporteur, <Alignment alignment="15010" annotation_id="16719">
+          <DiscourseConnective annotation_id="16719" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> <Alignment alignment="15019" annotation_id="16723">
+          <DiscourseConnective annotation_id="16723" sense="Comparison.Contrast">bien qu'</DiscourseConnective>
+        </Alignment>ayant assisté à l'audition consacrée à ce sujet, je n'ai pu participer au débat <DiscourseConnective annotation_id="16811">en</DiscourseConnective> commission. Or, je sais qu'il est quelque peu irritant de voir quelqu'un faire subitement son entrée <DiscourseConnective annotation_id="16915">en</DiscourseConnective> plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15196" docOffset="80">
+      <en>I broadly welcome the underlying idea in the proposal, <Alignment alignment="16992" annotation_id="15251">
+          <DiscourseConnective annotation_id="15251" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I have some concerns that I hope the Commission will investigate further during future work on this matter.</en>
+      <fr>Je salue <DiscourseConnective annotation_id="16937">globalement</DiscourseConnective> le principe fondamental de la proposition. <Alignment alignment="15251" annotation_id="16992">
+          <DiscourseConnective annotation_id="16992" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, je nourris quelques craintes <DiscourseConnective annotation_id="17032">et</DiscourseConnective> j'espère que la Commission les examinera plus <DiscourseConnective annotation_id="17081">avant</DiscourseConnective> dans le cadre de ses futurs travaux sur la question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15363" docOffset="81">
+      <en>Mr Lehne, you have said in your explanatory note to the report - <DiscourseConnective annotation_id="15428" sense="Expansion.Conjunction">and</DiscourseConnective> indeed the Commissioner has <Alignment alignment="17233" annotation_id="15460">
+          <DiscourseConnective annotation_id="15460" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> said just now, <Alignment alignment="17258" annotation_id="15480">
+          <DiscourseConnective annotation_id="15480" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I agree - that the statute will need to focus on the needs of SMEs.</en>
+      <fr>M. Lehne, vous affirmez dans votre note explicative jointe au rapport - le commissaire vient <Alignment alignment="15460" annotation_id="17233">
+          <DiscourseConnective annotation_id="17233" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de le déclarer <Alignment alignment="15480" annotation_id="17258">
+          <DiscourseConnective annotation_id="17258" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je me range à son avis - <DiscourseConnective annotation_id="17286">que</DiscourseConnective> le statut devra se concentrer sur les besoins des PME.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15552" docOffset="82">
+      <en>But that of course covers just about all companies except multinationals.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17345">Or</DiscourseConnective>, dans les faits, cela concerne presque toutes les entreprises, à l'exception des multinationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15626" docOffset="83">
+      <en>To me it is clear that <Alignment alignment="17469" annotation_id="15649">
+          <DiscourseConnective annotation_id="15649" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we follow all of the recommendations in the annex, those that are likely to benefit or choose this option are towards the medium rather than the small end of the spectrum of companies.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17446">Pour</DiscourseConnective> moi, il est clair <Alignment alignment="15649" annotation_id="17469">
+          <DiscourseConnective annotation_id="17469" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> nous suivons toutes les recommandations formulées <DiscourseConnective annotation_id="17526">en</DiscourseConnective> annexe, les opérateurs susceptibles de bénéficier de cette option <DiscourseConnective annotation_id="17595">ou</DiscourseConnective> de la choisir se situeront sur le segment des moyennes entreprises <DiscourseConnective annotation_id="17665">plutôt que</DiscourseConnective> sur celui des petites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15837" docOffset="84">
+      <en>They certainly would not be start-up companies.</en>
+      <fr>Il ne s'agirait certainement pas de jeunes pousses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15885" docOffset="85">
+      <en>The suggested capital requirements ensure that is the case.</en>
+      <fr>Les critères proposés en matière de capital y veillent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15945" docOffset="86">
+      <en>I do not want people to say 'here you are standing there as a Brit not wanting any capital requirement'.</en>
+      <fr>Je ne tiens pas à ce que l'on dise "en <DiscourseConnective annotation_id="17846">tant que</DiscourseConnective> Britannique, vous ne voulez aucune règle en matière de capital".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16050" docOffset="87">
+      <en>I recognise that the capital does not necessarily have to be paid in <Alignment alignment="17986" annotation_id="16119">
+          <DiscourseConnective annotation_id="16119" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I welcome attempts to find a compromise on that, <Alignment alignment="18057" annotation_id="16172">
+          <DiscourseConnective annotation_id="16172" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it will still have an impact, especially on small businesses.</en>
+      <fr>Je reconnais <DiscourseConnective annotation_id="17933">que</DiscourseConnective> le capital ne doit pas nécessairement être versé <Alignment alignment="16119" annotation_id="17986">
+          <DiscourseConnective annotation_id="17986" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je salue les tentatives visant <DiscourseConnective annotation_id="18020">à</DiscourseConnective> trouver un compromis sur ce point. <Alignment alignment="16172" annotation_id="18057">
+          <DiscourseConnective annotation_id="18057" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, il aura <DiscourseConnective annotation_id="18076">quand même</DiscourseConnective> un impact, sur les petites entreprises <DiscourseConnective annotation_id="18126">en particulier</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16238" docOffset="88">
+      <en>Smaller businesses, whether at the start-up or whether trying to expand, have enough cost and difficulty trying to give belt-and-braces guarantees to banks without there being an added tier of financial expectation.</en>
+      <fr>Les petites entreprises, <DiscourseConnective annotation_id="18167">qu'</DiscourseConnective>elles se trouvent <DiscourseConnective annotation_id="18188">en</DiscourseConnective> phase de démarrage <DiscourseConnective annotation_id="18210">ou</DiscourseConnective> de développement, font face à suffisamment de charges <DiscourseConnective annotation_id="18267">et</DiscourseConnective> de difficultés lorsqu'elles doivent donner aux banques des garanties irréprochables. Il n'est pas nécessaire d'ajouter une contrainte supplémentaire relative aux attentes financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16454" docOffset="89">
+      <en>
+        <DiscourseConnective annotation_id="16454" sense="Expansion.Conjunction">And</DiscourseConnective>, make no mistake, the fact that shareholders could potentially lose EUR 10 000, even <Alignment alignment="18554" annotation_id="16543">
+          <DiscourseConnective annotation_id="16543" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> not paid in at the start, does add an extra tier of financial expectation.</en>
+      <fr>Ne vous y trompez pas: le fait <DiscourseConnective annotation_id="18485">que</DiscourseConnective> les actionnaires pourraient potentiellement perdre 10 000 euros, <Alignment alignment="16543" annotation_id="18554">
+          <DiscourseConnective annotation_id="18554" sense="Contingency.Condition">même s'</DiscourseConnective>
+        </Alignment>ils ne sont pas versés au début, ajoute une contrainte supplémentaire en matière d'attentes financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16621" docOffset="90">
+      <en>Now, that may not matter at all <Alignment alignment="21111" annotation_id="16653">
+          <DiscourseConnective annotation_id="16653" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> it is optional, <Alignment alignment="18764" annotation_id="16675">
+          <DiscourseConnective annotation_id="16675" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="18767" annotation_id="16679">
+          <DiscourseConnective annotation_id="16679" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you do not like the statute, you do not have to use it, <Alignment alignment="22757" annotation_id="16738">
+          <DiscourseConnective annotation_id="16738" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I would prefer that <Alignment alignment="18868" annotation_id="16762">
+          <DiscourseConnective annotation_id="16762" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you propose something, it would be liked and used and accessible to all companies.</en>
+      <fr>Cela étant dit, son importance peut être parfaitement nulle, <Alignment alignment="16653" annotation_id="18727">
+          <DiscourseConnective annotation_id="18727" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> cette mesure est facultative <Alignment alignment="3901" annotation_id="18764">
+          <DiscourseConnective annotation_id="18764" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="16679" annotation_id="18767">
+          <DiscourseConnective annotation_id="18767" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> le statut ne vous plaît pas, rien ne vous oblige <DiscourseConnective annotation_id="18823">à</DiscourseConnective> vous <DiscourseConnective annotation_id="18830">en</DiscourseConnective> servir. <Alignment alignment="16738" annotation_id="18841">
+          <DiscourseConnective annotation_id="18841" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, je préfèrerais, <Alignment alignment="16762" annotation_id="18868">
+          <DiscourseConnective annotation_id="18868" sense="Contingency.Condition">puisque</DiscourseConnective>
+        </Alignment> vous faites une proposition, que celle-ci <DiscourseConnective annotation_id="18918">soit</DiscourseConnective> appréciée <DiscourseConnective annotation_id="18933">et</DiscourseConnective> employée <DiscourseConnective annotation_id="18945">et</DiscourseConnective> qu'elle soit accessible <DiscourseConnective annotation_id="18972">à</DiscourseConnective> toutes les entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16848" docOffset="91">
+      <en>
+        <Alignment alignment="18998" annotation_id="16848">
+          <DiscourseConnective annotation_id="16848" sense="Comparison.Contrast">While</DiscourseConnective>
+        </Alignment> I have said that there may be little incentive in some quarters to choose this, that does not mean it is <Alignment alignment="25516" annotation_id="16959">
+          <DiscourseConnective annotation_id="16959" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> small companies do not conduct cross-border business or do not aspire to do so.</en>
+      <fr>
+        <Alignment alignment="16848" annotation_id="18998">
+          <DiscourseConnective annotation_id="18998" sense="Comparison.Contrast">Si</DiscourseConnective>
+        </Alignment> j'ai affirmé <DiscourseConnective annotation_id="19014">que</DiscourseConnective> les incitants <DiscourseConnective annotation_id="19032">à</DiscourseConnective> faire ce choix sont limités sous certains aspects, ce n'est pas <Alignment alignment="16959" annotation_id="19098">
+          <DiscourseConnective annotation_id="19098" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les petites entreprises ne réalisent pas de transactions transfrontalières <DiscourseConnective annotation_id="19183">ou</DiscourseConnective> n'aspirent pas <DiscourseConnective annotation_id="19201">à</DiscourseConnective> le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17047" docOffset="92">
+      <en>Many quite small companies do engage in significant cross-border business and European Court of Justice decisions make it clear that they can do so.</en>
+      <fr>Beaucoup de très petites entreprises participent à des échanges transfrontaliers importants <DiscourseConnective annotation_id="19305">et</DiscourseConnective> les décisions rendues par la Cour de justice des Communautés européennes indiquent <DiscourseConnective annotation_id="19391">qu'</DiscourseConnective>elles peuvent le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17196" docOffset="93">
+      <en>
+        <Alignment alignment="19418" annotation_id="17196">
+          <DiscourseConnective annotation_id="17196" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="17201" sense="Temporal.Synchrony">as</DiscourseConnective> it is optional, maybe that is no matter.</en>
+      <fr>
+        <Alignment alignment="17196" annotation_id="19418">
+          <DiscourseConnective annotation_id="19418" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, le dispositif étant facultatif, peut-être n'est-ce pas important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17245" docOffset="94">
+      <en>
+        <Alignment alignment="19495" annotation_id="17245">
+          <DiscourseConnective annotation_id="17245" sense="Expansion.Alternative">Or</DiscourseConnective>
+        </Alignment> is that really the case?</en>
+      <fr>
+        <Alignment alignment="17245" annotation_id="19495">
+          <DiscourseConnective annotation_id="19495" sense="Expansion.Alternative">Ou</DiscourseConnective>
+        </Alignment> peut-être <DiscourseConnective annotation_id="19508">que</DiscourseConnective> si?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17273" docOffset="95">
+      <en>I would not like to see the situation where the new statute introduced a factor of discrimination where consumers were concerned that <Alignment alignment="19647" annotation_id="17407">
+          <DiscourseConnective annotation_id="17407" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you were not big enough to consider it worth being a European private company, you are not big enough to do business in Europe.</en>
+      <fr>Je ne voudrais pas d'une situation où le nouveau statut introduirait un facteur de discrimination, avec des consommateurs estimant <Alignment alignment="17407" annotation_id="19647">
+          <DiscourseConnective annotation_id="19647" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> vous n'êtes pas suffisamment important <DiscourseConnective annotation_id="19693">pour</DiscourseConnective> envisager d'adopter le statut de société privée européenne, c'est que votre taille est insuffisante <DiscourseConnective annotation_id="19798">pour</DiscourseConnective> faire des affaires <DiscourseConnective annotation_id="19822">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17538" docOffset="96">
+      <en>That would run completely counter to the notion of a single market and the mutual importance of fostering and nurturing small businesses within that market.</en>
+      <fr>Ce serait totalement contraire <DiscourseConnective annotation_id="19864">à</DiscourseConnective> la notion de marché unique <DiscourseConnective annotation_id="19893">et</DiscourseConnective> à l'importance réciproque de stimuler <DiscourseConnective annotation_id="19934">et</DiscourseConnective> de consolider les petites entreprises sur ce marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17695" docOffset="97">
+      <en>In a single market, size must not matter.</en>
+      <fr>Sur un marché unique, la taille ne doit pas être importante.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17737" id="013" name="Marek Aleksander Czarnecki">
+    <ParallelChunk annotation_id="17737" docOffset="98">
+      <en>on behalf of the UEN Group. - (PL) Madam President, I fully support the view that the European Private Company Statute should be based on Community legislation and dispense with references to national law.</en>
+      <fr>au nom du groupe UEN. - (PL) Madame la Présidente, j'approuve pleinement le point de vue selon lequel le statut de la société privée européenne doit se baser sur la législation communautaire <DiscourseConnective annotation_id="20242">et</DiscourseConnective> se passer de références au droit national.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17943" docOffset="99">
+      <en>The aim is to create a new legal form for small and medium-sized enterprises, which are the driving force behind all European economies.</en>
+      <fr>L'objectif est de créer une nouvelle forme juridique <DiscourseConnective annotation_id="20341">pour</DiscourseConnective> les petites <DiscourseConnective annotation_id="20358">et</DiscourseConnective> moyennes entreprises, qui sont le moteur de toutes les économies européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18080" docOffset="100">
+      <en>A new legal form will help to foster cross-border activity too.</en>
+      <fr>Une nouvelle forme juridique contribuera <DiscourseConnective annotation_id="20480">également</DiscourseConnective> <DiscourseConnective annotation_id="20490">à</DiscourseConnective> stimuler l'activité transfrontalière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18144" docOffset="101">
+      <en>We must <Alignment alignment="54177" annotation_id="18152">
+          <DiscourseConnective annotation_id="18152" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> keep in mind joint activities <Alignment alignment="20598" annotation_id="18187">
+          <DiscourseConnective annotation_id="18187" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to promoting the development of the internal market, and <DiscourseConnective annotation_id="18258" sense="Contingency.Cause.Result">consequently</DiscourseConnective> economic growth.</en>
+      <fr>Nous devons <Alignment alignment="18152" annotation_id="20542">
+          <DiscourseConnective annotation_id="20542" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+        </Alignment> garder les activités conjointes <DiscourseConnective annotation_id="20587">à</DiscourseConnective> l'esprit <Alignment alignment="18187" annotation_id="20598">
+          <DiscourseConnective annotation_id="20598" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="20608">s'</DiscourseConnective>agit de favoriser le développement du marché intérieur <DiscourseConnective annotation_id="20665">et</DiscourseConnective>, partant, la croissance économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18288" docOffset="102">
+      <en>
+        <Alignment alignment="58061" annotation_id="18288">
+          <DiscourseConnective annotation_id="18288" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> a single European legal form is created, consultancy costs will be cut.</en>
+      <fr>
+        <Alignment alignment="18288" annotation_id="20704">
+          <DiscourseConnective annotation_id="20704" sense="Contingency.Condition">En</DiscourseConnective>
+        </Alignment> créant une forme juridique européenne unique, nous réduirons les frais de consultance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18363" docOffset="103">
+      <en>In the many countries involved, the law will no longer apply to cross-border activities.</en>
+      <fr>La législation ne s'appliquera plus aux activités transfrontalières dans les nombreux pays concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18452" docOffset="104">
+      <en>
+        <Alignment alignment="20896" annotation_id="18452">
+          <DiscourseConnective annotation_id="18452" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>
+        </Alignment>, we shall have a single, uniform statute.</en>
+      <fr>
+        <Alignment alignment="18452" annotation_id="20896">
+          <DiscourseConnective annotation_id="20896" sense="Expansion.Alternative.Chosen alternative">Au lieu de</DiscourseConnective>
+        </Alignment> cela, nous aurons un statut simple et uniforme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18502" docOffset="105">
+      <en>For this type of company to be competitive on the market, it must be flexible and able to adjust to market requirements.</en>
+      <fr>
+        <DiscourseConnective annotation_id="20955">Pour que</DiscourseConnective> les sociétés de ce type soient compétitives sur le marché, elles doivent être flexibles <DiscourseConnective annotation_id="21052">et</DiscourseConnective> savoir s'adapter aux besoins du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18623" docOffset="106">
+      <en>This could be achieved by endowing such a company with a wide range of possibilities for transforming itself.</en>
+      <fr>Nous pouvons y parvenir en dotant ces sociétés d'un large éventail de possibilités de transformation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18733" docOffset="107">
+      <en>In this context, the issue of legal harmonisation arises, <Alignment alignment="21265" annotation_id="18791">
+          <DiscourseConnective annotation_id="18791" sense="Expansion.Instantiation">for instance</DiscourseConnective>
+        </Alignment>, with regard to the cross-border transfer of registered offices.</en>
+      <fr>Dans ce contexte, la question de l'harmonisation juridique se pose, <Alignment alignment="18791" annotation_id="21265">
+          <DiscourseConnective annotation_id="21265" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, sur le plan du transfert transfrontalier des sièges centraux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18869" docOffset="108">
+      <en>For an undertaking of this nature to be able to operate with maximum efficiency on the market, <Alignment alignment="21340" annotation_id="18964">
+          <DiscourseConnective annotation_id="18964" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, it must focus primarily on the security of business transactions and on protecting the company's creditors.</en>
+      <fr>
+        <Alignment alignment="18964" annotation_id="21340">
+          <DiscourseConnective annotation_id="21340" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, pour pouvoir opérer avec une efficacité maximale sur le marché, une entreprise de ce type doit principalement se concentrer sur la sécurité des transactions <DiscourseConnective annotation_id="21508">et</DiscourseConnective> sur la protection de ses créanciers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19081" docOffset="109">
+      <en>We still need to give further consideration to these issues.</en>
+      <fr>Nous devons <DiscourseConnective annotation_id="21560">encore</DiscourseConnective> examiner ces questions.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19142" id="014" name="Godfrey Bloom">
+    <ParallelChunk annotation_id="19142" docOffset="110">
+      <en>on behalf of the IND/DEM Group. - Madam President, I find this absolutely fascinating!</en>
+      <fr>au nom du groupe IND/DEM. - (EN) Madame la Présidente, je trouve cela absolument fascinant!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19229" docOffset="111">
+      <en>Every time I come here I have to smile.</en>
+      <fr>Chaque fois que je viens ici, je suis obligé de sourire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19269" docOffset="112">
+      <en>What this place knows about running small businesses is absolutely unbelievable.</en>
+      <fr>Les connaissances de cette Assemblée au sujet de la gestion des petites entreprises sont absolument incroyables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19350" docOffset="113">
+      <en>
+        <Alignment alignment="21853" annotation_id="19350">
+          <DiscourseConnective annotation_id="19350" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> I look up the CVs of Members of this Parliament, I find that nobody has ever had any serious responsibility for a small company in their lives.</en>
+      <fr>
+        <Alignment alignment="19350" annotation_id="21853">
+          <DiscourseConnective annotation_id="21853" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> je consulte les CV des députés de ce Parlement, je constate <DiscourseConnective annotation_id="21921">que</DiscourseConnective> personne n'a jamais, au cours de sa vie, assumé la moindre responsabilité sérieuse au sein d'une petite entreprise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19499" docOffset="114">
+      <en>It is amazing what we all know about these things!</en>
+      <fr>Notre savoir en la matière est étonnant!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19550" docOffset="115">
+      <en>In 1992 I started a small business.</en>
+      <fr>J'ai lancé une petite entreprise <DiscourseConnective annotation_id="22115">en</DiscourseConnective> 1992.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19586" docOffset="116">
+      <en>I thought about it <Alignment alignment="22138" annotation_id="19605">
+          <DiscourseConnective annotation_id="19605" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I bought some old-fashioned, second-hand furniture.</en>
+      <fr>J'ai réfléchi <Alignment alignment="19605" annotation_id="22138">
+          <DiscourseConnective annotation_id="22138" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai acheté quelques meubles d'occasion démodés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19661" docOffset="117">
+      <en>I sucked my pencil and thought, 'My goodness me, what have I done?</en>
+      <fr>J'ai posé mon crayon entre mes lèvres <DiscourseConnective annotation_id="22228">et</DiscourseConnective> j'ai pensé "Mon Dieu, <DiscourseConnective annotation_id="22253">qu'</DiscourseConnective>ai-je fait?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19728" docOffset="118">
+      <en>I have left a big corporation, where do I go from here?'.</en>
+      <fr>J'ai quitté une grande entreprise, <DiscourseConnective annotation_id="22303">que</DiscourseConnective> faire maintenant?"</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19786" docOffset="119">
+      <en>That business now has branches in Hong Kong, Jersey, the Channel Islands and South Africa, as well as London and York, which is my constituency.</en>
+      <fr>Cette entreprise possède <DiscourseConnective annotation_id="22351">maintenant</DiscourseConnective> des succursales <DiscourseConnective annotation_id="22378">à</DiscourseConnective> Hong Kong, à Jersey City, dans les îles Anglo-Normandes <DiscourseConnective annotation_id="22436">et</DiscourseConnective> en Afrique du Sud, <DiscourseConnective annotation_id="22458">de même qu'</DiscourseConnective>à Londres <DiscourseConnective annotation_id="22479">et</DiscourseConnective> à York, ma circonscription.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19931" docOffset="120">
+      <en>I really do not think I could do that again.</en>
+      <fr>Je pense vraiment que je serais incapable de refaire la même chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19976" docOffset="121">
+      <en>There are so many regulations, it is unbelievable.</en>
+      <fr>Il existe tellement de règlements, c'est incroyable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20027" docOffset="122">
+      <en>
+        <Alignment alignment="22631" annotation_id="20027">
+          <DiscourseConnective annotation_id="20027" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> you really want to fire up small business in the European Union, and particularly the United Kingdom, I would suggest that these people here and the Commission get their blasted noses out of everybody else's business and stop trying to tell us how we should run our businesses!</en>
+      <fr>
+        <Alignment alignment="20027" annotation_id="22631">
+          <DiscourseConnective annotation_id="22631" sense="Contingency.Condition">Pour</DiscourseConnective>
+        </Alignment> donner un coup d'accélérateur réel <DiscourseConnective annotation_id="22671">à</DiscourseConnective> la petite entreprise dans l'Union européenne, au Royaume-Uni <DiscourseConnective annotation_id="22734">en particulier</DiscourseConnective>, je propose <DiscourseConnective annotation_id="22761">que</DiscourseConnective> les personnes ici présentes <DiscourseConnective annotation_id="22793">et</DiscourseConnective> la Commission cessent de se mêler des affaires de tout le monde <DiscourseConnective annotation_id="22860">et</DiscourseConnective> d'essayer de nous dire comment gérer nos entreprises!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20308" docOffset="123">
+      <en>Just let us get on with it, <DiscourseConnective annotation_id="20336" sense="Contingency.Cause.Reason">because</DiscourseConnective> <DiscourseConnective annotation_id="20344" sense="Contingency.Condition">if</DiscourseConnective> you do not, more and more businesses are going to go to Dubai, Bermuda and the Channel Islands - I am moving half my business to the Channel Islands <DiscourseConnective annotation_id="20496" sense="Temporal.Synchrony">as</DiscourseConnective> it is.</en>
+      <fr>Laissez-nous travailler, faute de quoi un nombre croissant d'entreprises iront <DiscourseConnective annotation_id="22996">à</DiscourseConnective> Dubaï, aux Bermudes <DiscourseConnective annotation_id="23018">et</DiscourseConnective> dans les îles Anglo-Normandes - c'est d'ailleurs vers ces dernières que je suis sur le point de délocaliser la moitié de mes affaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20506" docOffset="124">
+      <en>I would counsel you and the Commission to please keep your ill-informed noses out of small businesses!</en>
+      <fr>Je vous conseille, à vous <DiscourseConnective annotation_id="23182">et</DiscourseConnective> à la Commission, de garder vos nez mal renseignés loin des petites entreprises!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20609" id="015" name="Ashley Mote">
+    <ParallelChunk annotation_id="20609" docOffset="125">
+      <en>on behalf of the ITS Group. - Madam President, this report is a contradiction in terms.</en>
+      <fr>au nom du groupe ITS. - (EN) Madame la Présidente, ce rapport constitue une contradiction flagrante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20697" docOffset="126">
+      <en>Governments cannot micro-manage enterprise.</en>
+      <fr>Les gouvernements ne peuvent pas faire de la micro-gestion d'entreprise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20741" docOffset="127">
+      <en>
+        <DiscourseConnective annotation_id="20741" sense="Contingency.Cause.Reason">Since</DiscourseConnective> <Alignment alignment="23439" annotation_id="20747">
+          <DiscourseConnective annotation_id="20747" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> has the European Union initiated anything that improves trade, minimises costs, cuts red tape, generates new wealth, creates new jobs, frees up enterprise?</en>
+      <fr>
+        <Alignment alignment="20747" annotation_id="23439">
+          <DiscourseConnective annotation_id="23439" sense="Temporal.Synchrony">Quand</DiscourseConnective>
+        </Alignment> l'Union européenne a-t-elle pour la dernière fois lancé la moindre initiative qui améliore les échanges, réduise les coûts, diminue la bureaucratie, génère de la prospérité, crée de nouveaux emplois, libère l'entreprise?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20908" docOffset="128">
+      <en>When ever?</en>
+      <fr>Quand?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20919" docOffset="129">
+      <en>Most governments can hope to contribute to economic growth only by clearing the decks of obstacles and creating an enterprise-free environment.</en>
+      <fr>La plupart des gouvernements ne peuvent espérer contribuer <DiscourseConnective annotation_id="23732">à</DiscourseConnective> la croissance économique <DiscourseConnective annotation_id="23759">qu'en</DiscourseConnective> supprimant les entraves <DiscourseConnective annotation_id="23789">et</DiscourseConnective> en créant un environnement de libre entreprise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21063" docOffset="130">
+      <en>Government ought to be about enabling people and their initiative to thrive.</en>
+      <fr>Les gouvernements doivent avoir <DiscourseConnective annotation_id="23872">pour</DiscourseConnective> vocation de permettre aux personnes <DiscourseConnective annotation_id="23913">et</DiscourseConnective> à leurs initiatives de prospérer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21140" docOffset="131">
+      <en>After that it should stand well back.</en>
+      <fr>
+        <DiscourseConnective annotation_id="23950">Après quoi</DiscourseConnective> ils doivent se tenir bien à l'écart.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21178" docOffset="132">
+      <en>The UK has a huge, permanent and growing deficit with the EU.</en>
+      <fr>Le Royaume-Uni creuse un écart considérable, permanent <DiscourseConnective annotation_id="24053">et</DiscourseConnective> croissant avec l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21240" docOffset="133">
+      <en>Does anyone here seriously imagine that by seizing control over company law relating to SMEs, the European Union will change or improve that situation?</en>
+      <fr>Quelqu'un parmi nous imagine-t-il sérieusement <DiscourseConnective annotation_id="24138">qu'en</DiscourseConnective> prenant le contrôle du droit des sociétés relatif aux PME, l'Union européenne changera <DiscourseConnective annotation_id="24231">ou</DiscourseConnective> améliorera cette situation?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21392" docOffset="134">
+      <en>Do you really imagine that possible, especially <DiscourseConnective annotation_id="21440" sense="Temporal.Synchrony">as</DiscourseConnective> these proposals are based on German and French ideas of a social market?</en>
+      <fr>Pensez-vous vraiment que cela soit possible, <DiscourseConnective annotation_id="24307">d'autant plus que</DiscourseConnective> ces propositions se basent sur des principes de marché social allemands <DiscourseConnective annotation_id="24397">et</DiscourseConnective> français?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21516" docOffset="135">
+      <en>I endorse what Mr Bloom has just said.</en>
+      <fr>J'approuve les propos que vient de tenir M. Bloom.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21555" docOffset="136">
+      <en>How many of you here have ever started a new business at your own risk?</en>
+      <fr>Lequel d'entre vous a <DiscourseConnective annotation_id="24483">déjà</DiscourseConnective> lancé une affaire <DiscourseConnective annotation_id="24506">à</DiscourseConnective> ses propres risques?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21627" docOffset="137">
+      <en>Created jobs?</en>
+      <fr>Créé des emplois?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21641" docOffset="138">
+      <en>Funded it for yourselves and successfully run it for, let us say, 20 years?</en>
+      <fr>Financé <DiscourseConnective annotation_id="24555">pour</DiscourseConnective> son compte <DiscourseConnective annotation_id="24571">et</DiscourseConnective> géré avec succès cette affaire pendant, disons, 20 ans?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21717" docOffset="139">
+      <en>How many of you have done that?</en>
+      <fr>Combien êtes-vous à l'avoir fait?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21749" docOffset="140">
+      <en>How many people on that committee have done that?</en>
+      <fr>Combien sont-ils dans cette commission à l'avoir fait?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21799" docOffset="141">
+      <en>How many of you know what it takes to start a new business in the UK?</en>
+      <fr>Combien d'entre vous savent ce qu'il faut <DiscourseConnective annotation_id="24761">pour</DiscourseConnective> lancer une entreprise au Royaume-Uni?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21869" docOffset="142">
+      <en>Well, I will tell you.</en>
+      <fr>Je vais vous le dire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21892" docOffset="143">
+      <en>Less than a hundred pounds, ten minutes on the phone <Alignment alignment="24873" annotation_id="21945">
+          <DiscourseConnective annotation_id="21945" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you can do business anywhere.</en>
+      <fr>Moins de cent livres, dix minutes au téléphone <Alignment alignment="21945" annotation_id="24873">
+          <DiscourseConnective annotation_id="24873" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous pouvez faire des affaires n'importe où.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21979" docOffset="144">
+      <en>Compare that with these proposals.</en>
+      <fr>Faites la comparaison avec ces propositions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22014" docOffset="145">
+      <en>We have centuries of company law in the UK, thank you very much.</en>
+      <fr>Le Royaume-Uni compte plusieurs siècles de droit des sociétés <DiscourseConnective annotation_id="25028">à</DiscourseConnective> son actif, merci bien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22079" docOffset="146">
+      <en>
+        <Alignment alignment="25053" annotation_id="22079">
+          <DiscourseConnective annotation_id="22079" sense="Expansion.Conjunction">And</DiscourseConnective>
+        </Alignment> it works just fine.</en>
+      <fr>
+        <Alignment alignment="22079" annotation_id="25053">
+          <DiscourseConnective annotation_id="25053" sense="Expansion.Conjunction">Et</DiscourseConnective>
+        </Alignment> le système fonctionne parfaitement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22103" docOffset="147">
+      <en>We <Alignment alignment="25103" annotation_id="22106">
+          <DiscourseConnective annotation_id="22106" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> have SMEs trading all over the world <Alignment alignment="25158" annotation_id="22148">
+          <DiscourseConnective annotation_id="22148" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they do just fine.</en>
+      <fr>Nous avons <Alignment alignment="22106" annotation_id="25103">
+          <DiscourseConnective annotation_id="25103" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des PME qui commercent partout dans le monde <Alignment alignment="22148" annotation_id="25158">
+          <DiscourseConnective annotation_id="25158" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> se débrouillent très bien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22171" docOffset="148">
+      <en>Most of their nightmares come from past misguided attempts by the EU to 'help' with trade on the Continent.</en>
+      <fr>La plupart de leurs cauchemars viennent des tentatives mal avisées mises en place autrefois par l'Union afin "d'aider" le commerce sur le continent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22279" docOffset="149">
+      <en>Most of that 'help' merely interferes with their activities, and the idea of yet more 'help' will be greeted with horror.</en>
+      <fr>La majeure partie de cette "aide" interfère tout <DiscourseConnective annotation_id="25386">simplement</DiscourseConnective> avec leurs activités, <DiscourseConnective annotation_id="25419">et</DiscourseConnective> l'idée d'une "aide" accrue sera saluée avec effroi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22401" docOffset="150">
+      <en>Over the years we have seen masterpieces of unintended consequences from this place.</en>
+      <fr>Au fil des ans, nous avons vu cette Assemblée produire des chefs-d'œuvre d'humour involontaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22486" docOffset="151">
+      <en>There is the Working Time Directive, which finally proved to a business friend of mine that the EU was clinically insane.</en>
+      <fr>La directive sur le temps de travail a <DiscourseConnective annotation_id="25609">finalement</DiscourseConnective> prouvé <DiscourseConnective annotation_id="25627">à</DiscourseConnective> l'un de mes amis entrepreneurs <DiscourseConnective annotation_id="25660">que</DiscourseConnective> l'UE était médicalement aliénée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22608" docOffset="152">
+      <en>There is the drive for a level playing field, the very antithesis of wealth and job creation, which totally depends on finding differences.</en>
+      <fr>Citons encore la volonté de mettre en place des conditions identiques, antithèse même de la richesse <DiscourseConnective annotation_id="25798">et</DiscourseConnective> de la création d'emplois, qui dépend entièrement de la mise en valeur des différences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22748" docOffset="153">
+      <en>
+        <Alignment alignment="25888" annotation_id="22748">
+          <DiscourseConnective annotation_id="22748" sense="Expansion.Conjunction">And</DiscourseConnective>
+        </Alignment> now we have got the licensing of authorised economic operators, which hugely benefits those who qualify and undermines everyone else with extra costs and bureaucracy.</en>
+      <fr>
+        <Alignment alignment="16926" annotation_id="25888">
+          <DiscourseConnective annotation_id="25888" sense="Expansion.Conjunction">Et</DiscourseConnective>
+        </Alignment> voici maintenant l'octroi de licences aux opérateurs économiques agréés, une mesure qui s'avère particulièrement bénéfique aux responsables du système <DiscourseConnective annotation_id="26042">et</DiscourseConnective> empêtre les autres dans des surcoûts <DiscourseConnective annotation_id="26082">et</DiscourseConnective> de la bureaucratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22919" docOffset="154">
+      <en>Even the Socialist British Government has figured out that this proposal is expensive and dangerous nonsense <Alignment alignment="26230" annotation_id="23028">
+          <DiscourseConnective annotation_id="23028" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it belongs in the bin.</en>
+      <fr>Le gouvernement socialiste britannique lui-même a compris <DiscourseConnective annotation_id="26163">que</DiscourseConnective> cette proposition constituait un coûteux <DiscourseConnective annotation_id="26208">et</DiscourseConnective> dangereux non-sens <Alignment alignment="23028" annotation_id="26230">
+          <DiscourseConnective annotation_id="26230" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'il fallait s'en débarrasser.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23055" id="016" name="Małgorzata Handzlik">
+    <ParallelChunk annotation_id="23055" docOffset="155">
+      <en>(PL) Madam President, I should like to thank the rapporteur for a very sound and detailed report.</en>
+      <fr>(PL) Madame la Présidente, je voudrais remercier le rapporteur <DiscourseConnective annotation_id="26328">pour</DiscourseConnective> ce rapport très sérieux <DiscourseConnective annotation_id="26357">et</DiscourseConnective> très détaillé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23153" docOffset="156">
+      <en>In my view, it sends out an important message to small and medium-sized enterprises, indicating that their development and activity on the common European market will soon become much more straightforward.</en>
+      <fr>Selon moi, il envoie un message important aux petites <DiscourseConnective annotation_id="26429">et</DiscourseConnective> moyennes entreprises en leur faisant comprendre <DiscourseConnective annotation_id="26480">que</DiscourseConnective> leur développement <DiscourseConnective annotation_id="26503">et</DiscourseConnective> leur activité sur le marché commun européen deviendront <DiscourseConnective annotation_id="26562">bientôt</DiscourseConnective> beaucoup plus simples.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23359" docOffset="157">
+      <en>It <Alignment alignment="26603" annotation_id="23362">
+          <DiscourseConnective annotation_id="23362" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> sends out a further message to SMEs, namely that European legislators recognise the role of SMEs on the Union's market and are making an effort to improve their situation.</en>
+      <fr>Il envoie <Alignment alignment="23362" annotation_id="26603">
+          <DiscourseConnective annotation_id="26603" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> un autre message aux PME, à savoir <DiscourseConnective annotation_id="26648">que</DiscourseConnective> les législateurs européens reconnaissent le rôle des PME sur le marché de l'Union <DiscourseConnective annotation_id="26734">et</DiscourseConnective> <DiscourseConnective annotation_id="26737">s'</DiscourseConnective>efforcent d'améliorer leur situation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23539" docOffset="158">
+      <en>The main aim of our activities relating to the common market should be to create an optimum situation whereby European enterprises are not hindered by unnecessary red tape or commercial and technical obstacles <Alignment alignment="27029" annotation_id="23749">
+          <DiscourseConnective annotation_id="23749" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they move from one country to another, or set up branches in various Union countries.</en>
+      <fr>Les activités que nous menons au sujet du marché commun doivent avoir <DiscourseConnective annotation_id="26847">pour</DiscourseConnective> objectif de créer une situation optimale dans laquelle les entreprises européennes ne seraient pas gênées par des formalités <DiscourseConnective annotation_id="26977">ou</DiscourseConnective> des obstacles commerciaux <DiscourseConnective annotation_id="27006">et</DiscourseConnective> techniques inutiles <Alignment alignment="23749" annotation_id="27029">
+          <DiscourseConnective annotation_id="27029" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>elles se déplacent d'un pays <DiscourseConnective annotation_id="27065">à</DiscourseConnective> l'autre <DiscourseConnective annotation_id="27075">ou encore</DiscourseConnective> lorsqu'elles créent des succursales dans plusieurs pays de l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23840" docOffset="159">
+      <en>It should be just as easy <Alignment alignment="27194" annotation_id="23866">
+          <Alignment alignment="27194" annotation_id="23866">
+            <DiscourseConnective annotation_id="23866" sense="Expansion.Conjunction">as if</DiscourseConnective>
+          </Alignment>
+        </Alignment> they were moving from one part of their own country to another.</en>
+      <fr>Ces activités doivent être <DiscourseConnective annotation_id="27180">aussi</DiscourseConnective> faciles <Alignment alignment="23866" annotation_id="27194">
+          <Alignment alignment="23866" annotation_id="27194">
+            <DiscourseConnective annotation_id="27194" sense="Expansion.Conjunction">que si</DiscourseConnective>
+          </Alignment>
+        </Alignment> les entreprises passaient d'une région de leur pays <DiscourseConnective annotation_id="27253">à</DiscourseConnective> une autre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23936" docOffset="160">
+      <en>All companies should be able to operate on the same principles across the length and breadth of the Union.</en>
+      <fr>Toutes les sociétés doivent pouvoir opérer selon des principes identiques partout dans l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24043" docOffset="161">
+      <en>Only <DiscourseConnective annotation_id="24048" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> will it really be possible to speak of a common European market with benefits for all.</en>
+      <fr>Ce n'est que dans ces conditions que nous pourrons réellement parler d'un marché commun européen, porteur de bienfaits <DiscourseConnective annotation_id="27481">pour</DiscourseConnective> chacun.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24140" docOffset="162">
+      <en>Mr Lehne's report is a further step in developing legislation designed to enhance the efficiency of the SME sector's activities on the common market.</en>
+      <fr>Le rapport de M. Lehne constitue une étape supplémentaire dans l'élaboration d'une législation conçue <DiscourseConnective annotation_id="27596">pour</DiscourseConnective> augmenter l'efficacité des activités du secteur des PME sur le marché commun.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24290" docOffset="163">
+      <en>Its implications will certainly significantly contribute to increasing the economic activity of European companies, and consequently to improving all our lives and meeting one of the aims of the Lisbon Agenda.</en>
+      <fr>Ses implications contribueront sans aucun doute de manière significative au renforcement de l'activité économique des sociétés européennes <DiscourseConnective annotation_id="27818">et</DiscourseConnective>, <DiscourseConnective annotation_id="27822">par conséquent</DiscourseConnective>, <DiscourseConnective annotation_id="27838">à</DiscourseConnective> l'amélioration de nos vies <DiscourseConnective annotation_id="27867">ainsi</DiscourseConnective> qu'à la réalisation de l'un des objectifs de l'agenda de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24500" docOffset="164">
+      <en>I was actually a businesswoman myself in the past.</en>
+      <fr>J'ai moi-même été femme d'affaires autrefois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24551" docOffset="165">
+      <en>I ran my own business for 15 years, and employed some 100 people.</en>
+      <fr>J'ai géré mon entreprise pendant 15 années <DiscourseConnective annotation_id="28029">et</DiscourseConnective> employé environ 100 personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24617" docOffset="166">
+      <en>I am well aware of the problems entrepreneurs face and am convinced that the proposal to develop a European Private Company Statute represents an excellent and much-needed solution for undertakings conducting cross-border business.</en>
+      <fr>Je suis très consciente des problèmes que rencontrent les entrepreneurs <DiscourseConnective annotation_id="28135">et</DiscourseConnective> je suis convaincue <DiscourseConnective annotation_id="28157">que</DiscourseConnective> la proposition de création d'un statut de société privée européenne constitue une excellente solution, particulièrement utile aux entreprises menant des activités transfrontalières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24849" docOffset="167">
+      <en>It is important, <Alignment alignment="28354" annotation_id="24866">
+          <DiscourseConnective annotation_id="24866" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, to proceed with caution and learn from the mistakes made <DiscourseConnective annotation_id="24932" sense="Temporal.Synchrony">when</DiscourseConnective> developing the European Company Statute.</en>
+      <fr>Il importe <Alignment alignment="24866" annotation_id="28354">
+          <DiscourseConnective annotation_id="28354" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> de progresser avec prudence <DiscourseConnective annotation_id="28392">et</DiscourseConnective> de tirer les enseignements des erreurs commises lors de la création du statut de la société européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24978" docOffset="168">
+      <en>Companies of that type do not fully fulfil their role as European Companies because of the large number of references to national law.</en>
+      <fr>Les entreprises de ce type ne jouent pas entièrement leur rôle de sociétés européennes en raison du nombre élevé de références au droit national.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25113" docOffset="169">
+      <en>That is why the European Private Company Statute must be based mainly on Community law, with minimum reference to national law.</en>
+      <fr>
+        <DiscourseConnective annotation_id="28645">C'est pourquoi</DiscourseConnective> le statut de société privée européenne doit essentiellement se fonder sur le droit communautaire, avec un minimum de références au droit national.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25241" docOffset="170">
+      <en>Such an approach will result in a more uniform text and legal provisions.</en>
+      <fr>Cette approche améliorera l'uniformité du texte <DiscourseConnective annotation_id="28855">et</DiscourseConnective> des dispositions juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25315" docOffset="171">
+      <en>
+        <Alignment alignment="28904" annotation_id="25315">
+          <Alignment alignment="28904" annotation_id="25315">
+            <DiscourseConnective annotation_id="25315" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, it will provide legal certainty, which is crucial to entrepreneurs.</en>
+      <fr>Elle constituera <Alignment alignment="7887" annotation_id="28904">
+          <Alignment alignment="25315" annotation_id="28904">
+            <DiscourseConnective annotation_id="28904" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment> un gage de sécurité juridique, élément crucial <DiscourseConnective annotation_id="28964">pour</DiscourseConnective> les entrepreneurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25396" docOffset="172">
+      <en>We must make every effort to ensure that the Statute is as uniform as possible, <Alignment alignment="29085" annotation_id="25476">
+          <DiscourseConnective annotation_id="25476" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it makes minimal reference to individual legal systems whilst referring to Community law as much as possible.</en>
+      <fr>Nous devons faire tout ce qui est en notre pouvoir <DiscourseConnective annotation_id="29039">pour</DiscourseConnective> garantir l'uniformité maximale du statut <Alignment alignment="25476" annotation_id="29085">
+          <DiscourseConnective annotation_id="29085" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> réduire les références aux différents systèmes juridiques nationaux à leur plus simple expression, en renvoyant <DiscourseConnective annotation_id="29200">à</DiscourseConnective> la législation communautaire <DiscourseConnective annotation_id="29231">aussi</DiscourseConnective> fréquemment <DiscourseConnective annotation_id="29249">que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25595" id="017" name="Andrzej Jan Szejna">
+    <ParallelChunk annotation_id="25595" docOffset="173">
+      <en>(PL) Madam President, I should like to begin by thanking Mr Lehne, the rapporteur, for all the work he has undertaken on a matter which is of such vital importance to the future of European integration and the development of economic cooperation within the framework of the internal market.</en>
+      <fr>(PL) Madame la Présidente, je voudrais <DiscourseConnective annotation_id="29302">tout d'abord</DiscourseConnective> remercier le rapporteur, M. Lehne, <DiscourseConnective annotation_id="29350">pour</DiscourseConnective> l'ensemble de son travail dans ce dossier vital <DiscourseConnective annotation_id="29403">pour</DiscourseConnective> l'avenir de l'intégration européenne <DiscourseConnective annotation_id="29445">et</DiscourseConnective> le développement de la coopération économique dans le cadre du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25886" docOffset="174">
+      <en>The current situation regarding the internal market is that we already have a European Company.</en>
+      <fr>Si nous regardons la situation actuelle sur le marché intérieur, nous constatons que nous disposons <DiscourseConnective annotation_id="29629">déjà</DiscourseConnective> d'une société européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25982" docOffset="175">
+      <en>It is intended for large capital-based companies.</en>
+      <fr>Celle-ci est destinée aux grandes entreprises en capital.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26032" docOffset="176">
+      <en>A legal form which will <Alignment alignment="29749" annotation_id="26056">
+          <DiscourseConnective annotation_id="26056" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> make it easier for small and medium-sized enterprises to conduct cross-border business is therefore essential.</en>
+      <fr>Une forme juridique permettant <Alignment alignment="12173" annotation_id="29749">
+          <DiscourseConnective annotation_id="29749" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> aux petites <DiscourseConnective annotation_id="29771">et</DiscourseConnective> moyennes entreprises d'effectuer des transactions transfrontalières est <DiscourseConnective annotation_id="29846">par conséquent</DiscourseConnective> essentielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26172" docOffset="177">
+      <en>It is important to bear in mind that SMEs are the main driving force behind the European economy and the main source of employment for Union citizens.</en>
+      <fr>Il convient de se rappeler <DiscourseConnective annotation_id="29901">que</DiscourseConnective> les PME constituent le principal moteur de l'économie européenne <DiscourseConnective annotation_id="29970">ainsi</DiscourseConnective> que la principale source d'emplois <DiscourseConnective annotation_id="30011">pour</DiscourseConnective> les citoyens de l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26323" docOffset="178">
+      <en>That is why further efforts should be made to enhance the economic activities undertaken by these companies.</en>
+      <fr>D'où la nécessité de fournir des efforts supplémentaires <DiscourseConnective annotation_id="30098">afin d'</DiscourseConnective>appuyer les activités économiques de ces sociétés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26432" docOffset="179">
+      <en>
+        <Alignment alignment="30156" annotation_id="26432">
+          <DiscourseConnective annotation_id="26432" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the new legal solutions we are proposing to our entrepreneurs do call for detailed consideration.</en>
+      <fr>
+        <Alignment alignment="26432" annotation_id="30156">
+          <DiscourseConnective annotation_id="30156" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, les nouvelles solutions juridiques que nous proposons <DiscourseConnective annotation_id="30221">à</DiscourseConnective> nos entrepreneurs nécessitent mûre réflexion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26539" docOffset="180">
+      <en>We should learn from the experience gained <Alignment alignment="30344" annotation_id="26582">
+          <DiscourseConnective annotation_id="26582" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> introducing the legal form for the European Company on to the common market.</en>
+      <fr>Nous devons tirer les enseignements de l'expérience que nous avons acquise <Alignment alignment="16059" annotation_id="30344">
+          <DiscourseConnective annotation_id="30344" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous avons introduit la forme juridique de la société européenne sur le marché commun.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26664" docOffset="181">
+      <en>That statute took a long time to draw up and was the result of a compromise.</en>
+      <fr>L'élaboration de ce statut, longue <DiscourseConnective annotation_id="30474">à</DiscourseConnective> se dessiner, résultait d'un compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26741" docOffset="182">
+      <en>
+        <Alignment alignment="30515" annotation_id="26741">
+          <Alignment alignment="30515" annotation_id="26741">
+            <DiscourseConnective annotation_id="26741" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the final compromise has not proved entirely satisfactory.</en>
+      <fr>
+        <Alignment alignment="26741" annotation_id="30515">
+          <Alignment alignment="26741" annotation_id="30515">
+            <DiscourseConnective annotation_id="30515" sense="Expansion.Conjunction">En réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment>, le compromis final ne s'est pas révélé entièrement satisfaisant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26809" docOffset="183">
+      <en>We should <Alignment alignment="30604" annotation_id="26819">
+          <DiscourseConnective annotation_id="26819" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> learn from our mistakes, <Alignment alignment="30645" annotation_id="26854">
+          <DiscourseConnective annotation_id="26854" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mrs Handzlik suggested earlier.</en>
+      <fr>Nous devons <Alignment alignment="26819" annotation_id="30604">
+          <DiscourseConnective annotation_id="30604" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> apprendre de nos erreurs, <Alignment alignment="14550" annotation_id="30645">
+          <DiscourseConnective annotation_id="30645" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a proposé Mme Handzlik.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26889" docOffset="184">
+      <en>As far <DiscourseConnective annotation_id="26896" sense="Temporal.Synchrony">as</DiscourseConnective> is possible, the European Private Company Statute should be a uniform European legal form.</en>
+      <fr>Le statut de la société privée européenne doit, dans la mesure du possible, être une forme juridique européenne uniforme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26990" docOffset="185">
+      <en>It must provide for the simplification of the principles of establishment and organisation.</en>
+      <fr>Il doit simplifier les principes d'établissement <DiscourseConnective annotation_id="30848">et</DiscourseConnective> d'organisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27082" docOffset="186">
+      <en>It will be important to retain a balance between protecting creditors, a flexible company structure, and ensuring the security of business transactions.</en>
+      <fr>Il importera de maintenir un équilibre entre la protection des créanciers, la flexibilité de la structure sociale <DiscourseConnective annotation_id="30981">et</DiscourseConnective> la sécurité des transactions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27235" docOffset="187">
+      <en>In the interests of protecting the flexibility of such undertakings, provision must be made for ensuring ease of transformations such as mergers or changing the registered office.</en>
+      <fr>Il faudra, <DiscourseConnective annotation_id="31025">afin de</DiscourseConnective> protéger la flexibilité de ces entreprises, garantir la facilité de transformations telles <DiscourseConnective annotation_id="31124">que</DiscourseConnective> les fusions <DiscourseConnective annotation_id="31140">ou</DiscourseConnective> les changements de siège central.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27415" docOffset="188">
+      <en>
+        <Alignment alignment="31177" annotation_id="27415">
+          <DiscourseConnective annotation_id="27415" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, there is every justification for the European Parliament's initiative containing recommendations to the Commission on the European Private Company Statute.</en>
+      <fr>
+        <Alignment alignment="27415" annotation_id="31177">
+          <DiscourseConnective annotation_id="31177" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, il est tout à fait indiqué <DiscourseConnective annotation_id="31220">que</DiscourseConnective> l'initiative du Parlement européen contienne des recommandations adressées <DiscourseConnective annotation_id="31299">à</DiscourseConnective> la Commission au sujet du statut de la société privée européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="27582" id="018" name="Zbigniew Krzysztof Kuźmiuk">
+    <ParallelChunk annotation_id="27582" docOffset="189">
+      <en>(PL) Madam President, there are several reasons why the development of a European Private Company Statute is such a crucial project for accelerating the economic growth of the European Union.</en>
+      <fr>(PL) Madame la Présidente, plusieurs raisons expliquent l'importance cruciale que revêt le développement d'un statut de société privée européenne afin d'accélérer la croissance économique de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27774" docOffset="190">
+      <en>Firstly, measured in terms of GDP growth, the rate of economic growth of the United States is more than twice that of the European Union.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31578">Premièrement</DiscourseConnective>, <DiscourseConnective annotation_id="31592">en</DiscourseConnective> termes de PIB, le taux de croissance économique des États-Unis est deux fois plus élevé que celui de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27912" docOffset="191">
+      <en>This has been the case for many years.</en>
+      <fr>C'est le cas <DiscourseConnective annotation_id="31729">depuis</DiscourseConnective> de nombreuses années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27951" docOffset="192">
+      <en>
+        <Alignment alignment="31758" annotation_id="27951">
+          <Alignment alignment="31758" annotation_id="27951">
+            <DiscourseConnective annotation_id="27951" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the rate of economic growth of the countries of South-East Asia is several times higher than that of the Union.</en>
+      <fr>
+        <Alignment alignment="27951" annotation_id="31758">
+          <Alignment alignment="3672" annotation_id="31758">
+            <DiscourseConnective annotation_id="31758" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, le taux de croissance économique des pays du sud-est de l'Asie est plusieurs fois supérieur à celui de l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28076" docOffset="193">
+      <en>Secondly, many internal barriers still persist within the common market created by the free movement of capital, goods and services.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31880">Deuxièmement</DiscourseConnective>, nombre de barrières internes demeurent sur le marché commun créé par la libre circulation des capitaux, des biens <DiscourseConnective annotation_id="32008">et</DiscourseConnective> des services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28209" docOffset="194">
+      <en>Thirdly, the draft European Private Company Statute is aimed at small and medium-sized enterprises, which are the cornerstone of the economies of all the Member States of the European Union.</en>
+      <fr>
+        <DiscourseConnective annotation_id="32025">Troisièmement</DiscourseConnective>, le projet de statut de société privée européenne est destiné aux petites <DiscourseConnective annotation_id="32113">et</DiscourseConnective> moyennes entreprises, pierre angulaire des économies de tous les États membres de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28400" docOffset="195">
+      <en>Fourthly, a European Private Company would be a very useful instrument for the implementation of the Lisbon Strategy, which places great emphasis on eliminating obstacles to the development of European entrepreneurship.</en>
+      <fr>Quatrièmement, la société privée européenne constituerait un instrument précieux dans le cadre de la mise en place de la stratégie de Lisbonne, laquelle met l'accent sur l'élimination des entraves au développement de l'entreprise européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28620" docOffset="196">
+      <en>These reasons alone justify supporting the development of a European Private Company Statute.</en>
+      <fr>Ces seules raisons justifient de soutenir l'instauration d'un statut de société privée européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28714" docOffset="197">
+      <en>It is important, <Alignment alignment="32570" annotation_id="28731">
+          <DiscourseConnective annotation_id="28731" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, not to repeat the mistakes made <DiscourseConnective annotation_id="28772" sense="Temporal.Synchrony">when</DiscourseConnective> drawing up the European Company Statute.</en>
+      <fr>Il importe <Alignment alignment="28731" annotation_id="32570">
+          <DiscourseConnective annotation_id="32570" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> de ne pas réitérer les erreurs commises lors de la mise au point du statut de la société européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28818" docOffset="198">
+      <en>The market has refused to accept the European Company as a company form, despite the long and difficult process involved in developing this statute.</en>
+      <fr>Le marché a refusé de reconnaître la société européenne en <DiscourseConnective annotation_id="32740">tant que</DiscourseConnective> forme de société, en dépit du processus long <DiscourseConnective annotation_id="32794">et</DiscourseConnective> difficile nécessaire <DiscourseConnective annotation_id="32818">à</DiscourseConnective> l'élaboration de ce statut.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28967" docOffset="199">
+      <en>An effort must <DiscourseConnective annotation_id="28982" sense="Contingency.Cause.Result">therefore</DiscourseConnective> be made to ensure that the European Private Company Statute contains the minimum number of references to the national legislation of individual Member States, <DiscourseConnective annotation_id="29151" sense="Contingency.Cause.Result">so that</DiscourseConnective> it is relatively flexible in nature and provides security for both owners and contractors.</en>
+      <fr>Par conséquent, un effort s'avère indispensable <DiscourseConnective annotation_id="32896">pour que</DiscourseConnective> le statut de la société privée européenne contienne aussi peu de références <DiscourseConnective annotation_id="32981">à</DiscourseConnective> la législation nationale des États membres que possible, <DiscourseConnective annotation_id="33040">pour</DiscourseConnective> garantir sa relative flexibilité <DiscourseConnective annotation_id="33078">en</DiscourseConnective> nature <DiscourseConnective annotation_id="33088">et</DiscourseConnective> faire en sorte qu'elle apporte la sécurité aux propriétaires <DiscourseConnective annotation_id="33152">et</DiscourseConnective> aux entrepreneurs.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29250" id="019" name="Achille Occhetto">
+    <ParallelChunk annotation_id="29250" docOffset="200">
+      <en>(IT) Madam President, ladies and gentlemen, this legislative proposal on the European private company statute is very important.</en>
+      <fr>(IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="33210">et</DiscourseConnective> Messieurs, cette proposition législative concernant le statut de la société privée européenne est très importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29379" docOffset="201">
+      <en>It is, <Alignment alignment="33328" annotation_id="29386">
+          <Alignment alignment="33328" annotation_id="29386">
+            <DiscourseConnective annotation_id="29386" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, crucial not only to remove barriers to trade but also to develop the factor of production at Community level.</en>
+      <fr>
+        <Alignment alignment="29386" annotation_id="33328">
+          <Alignment alignment="29386" annotation_id="33328">
+            <DiscourseConnective annotation_id="33328" sense="Expansion.Restatement">En réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment>, il est crucial de supprimer les entraves aux échanges, <DiscourseConnective annotation_id="33395">mais aussi</DiscourseConnective> de développer le facteur de production au niveau communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29505" docOffset="202">
+      <en>To that end, there is undoubtedly a need to create unitary legal entities in order to overcome the current legal uncertainty.</en>
+      <fr>
+        <DiscourseConnective annotation_id="33470">Pour</DiscourseConnective> y parvenir, il existe assurément un besoin de créer des personnes morales uniques <DiscourseConnective annotation_id="33557">afin de</DiscourseConnective> surmonter l'incertitude juridique actuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29631" docOffset="203">
+      <en>It should not be forgotten, <Alignment alignment="33620" annotation_id="29659">
+          <DiscourseConnective annotation_id="29659" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that, as well as trying to make markets transparent and to protect savers, the company law reform will <Alignment alignment="33759" annotation_id="29771">
+          <DiscourseConnective annotation_id="29771" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> directly affect the future of the European social model.</en>
+      <fr>N'oublions <Alignment alignment="14642" annotation_id="33620">
+          <DiscourseConnective annotation_id="33620" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> pas <DiscourseConnective annotation_id="33634">qu'en</DiscourseConnective> plus d'essayer de rendre les marchés transparents <DiscourseConnective annotation_id="33690">et</DiscourseConnective> de protéger les épargnants, la réforme du droit des sociétés aura <Alignment alignment="29771" annotation_id="33759">
+          <DiscourseConnective annotation_id="33759" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> un effet direct sur l'avenir du modèle social européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29833" docOffset="204">
+      <en>
+        <Alignment alignment="33825" annotation_id="29833">
+          <DiscourseConnective annotation_id="29833" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, <Alignment alignment="33841" annotation_id="29844">
+          <DiscourseConnective annotation_id="29844" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> allowing companies to move wherever they like in order to take advantage of the single market is a legitimate aim, it must be fulfilled by giving our workers the same transnational rights.</en>
+      <fr>
+        <Alignment alignment="29833" annotation_id="33825">
+          <DiscourseConnective annotation_id="33825" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, <Alignment alignment="5283" annotation_id="33841">
+          <DiscourseConnective annotation_id="33841" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il est légitime de vouloir permettre aux sociétés d'aller là où elles le souhaitent <DiscourseConnective annotation_id="33927">pour</DiscourseConnective> tirer parti du marché unique, cet objectif doit être réalisé <DiscourseConnective annotation_id="33993">en</DiscourseConnective> donnant des droits transnationaux identiques à nos travailleurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30036" docOffset="205">
+      <en>That was the thinking behind some of my amendments, certain of which were accepted, which were aimed at safeguarding the rights to codetermination, information and consultation that exist at the time of a company's turning into a European private company.</en>
+      <fr>Tel était le raisonnement suivi par quelques-uns de mes amendements, dont certains visant à la protection des droits de codécision, d'information <DiscourseConnective annotation_id="34207">et</DiscourseConnective> de consultation existants lorsqu'une entreprise se transforme en société privée européenne ont été adoptés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30292" docOffset="206">
+      <en>We are talking here about an important adjustment that will mean more careful attention being paid to aspects relating to the strengthening of social Europe, one of the fundamental elements of which must be worker participation.</en>
+      <fr>Il est question en l'espèce d'un ajustement majeur qui nécessitera de porter une attention accrue aux aspects touchant au renforcement de l'Europe sociale, dont l'un des éléments fondamentaux doit être la participation des travailleurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30521" docOffset="207">
+      <en>We <Alignment alignment="34571" annotation_id="30524">
+          <DiscourseConnective annotation_id="30524" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> endorse this important proposal <Alignment alignment="34609" annotation_id="30566">
+          <DiscourseConnective annotation_id="30566" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we thank Mr Lehne for his work.</en>
+      <fr>Nous approuvons <Alignment alignment="30524" annotation_id="34571">
+          <DiscourseConnective annotation_id="34571" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> cette proposition importante <Alignment alignment="30566" annotation_id="34609">
+          <DiscourseConnective annotation_id="34609" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> remercions M. Lehne <DiscourseConnective annotation_id="34632">pour</DiscourseConnective> son travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30602" docOffset="208">
+      <en>We would point out to the Commission that, <Alignment alignment="34694" annotation_id="30645">
+          <DiscourseConnective annotation_id="30645" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> allowing companies to move wherever they like in order to take advantage of the single market is a legitimate aim, it must be fulfilled without the demands of the market prejudicing those of social equality.</en>
+      <fr>Nous tenons à préciser <DiscourseConnective annotation_id="34673">à</DiscourseConnective> la Commission <DiscourseConnective annotation_id="34689">que</DiscourseConnective>, <Alignment alignment="30645" annotation_id="34694">
+          <DiscourseConnective annotation_id="34694" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il est légitime de vouloir permettre aux sociétés d'aller là où elles le souhaitent <DiscourseConnective annotation_id="34780">pour</DiscourseConnective> tirer parti du marché unique, cet objectif doit être réalisé <DiscourseConnective annotation_id="34846">sans que</DiscourseConnective> les exigences du marché ne compromettent celles de l'égalité sociale.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="30856" id="020" name="Charlie McCreevy">
+    <ParallelChunk annotation_id="30856" docOffset="209">
+      <en>Madam President, I should like to thank the Members very much for their comments on this important topic.</en>
+      <fr>membre de la Commission. - (EN) Madame la Présidente, je tiens <DiscourseConnective annotation_id="34988">à</DiscourseConnective> remercier chaleureusement les députés <DiscourseConnective annotation_id="35028">pour</DiscourseConnective> leurs commentaires sur cet important dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30962" docOffset="210">
+      <en>The growth of small and medium-sized enterprises is crucial for the competitiveness of the European economy.</en>
+      <fr>La croissance des petites <DiscourseConnective annotation_id="35105">et</DiscourseConnective> moyennes entreprises est cruciale <DiscourseConnective annotation_id="35142">pour</DiscourseConnective> la compétitivité de l'économie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31071" docOffset="211">
+      <en>It is, <Alignment alignment="35197" annotation_id="31078">
+          <DiscourseConnective annotation_id="31078" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, necessary to facilitate the expansion of these small businesses.</en>
+      <fr>Il est <Alignment alignment="3604" annotation_id="35197">
+          <DiscourseConnective annotation_id="35197" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> nécessaire de faciliter l'expansion de ces petites entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31154" docOffset="212">
+      <en>Looking at the legal form of companies that operate across borders can make an important contribution to this.</en>
+      <fr>L'examen de la forme juridique des sociétés opérant au-delà des frontières peut contribuer de manière significative <DiscourseConnective annotation_id="35382">à</DiscourseConnective> cet objectif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31265" docOffset="213">
+      <en>I will take Mr Lehne's report into account.</en>
+      <fr>Je tiendrai compte du rapport de M. Lehne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31309" docOffset="214">
+      <en>
+        <Alignment alignment="35441" annotation_id="31309">
+          <DiscourseConnective annotation_id="31309" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> it is under Article 192 of the Treaty, we are bound to do it in a prompt manner.</en>
+      <fr>
+        <Alignment alignment="31309" annotation_id="35441">
+          <DiscourseConnective annotation_id="35441" sense="Temporal.Synchrony">Puisqu'</DiscourseConnective>
+        </Alignment>il relève de l'article 192 du Traité, nous sommes contraints de l'examiner rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31393" docOffset="215">
+      <en>
+        <Alignment alignment="35535" annotation_id="31393">
+          <DiscourseConnective annotation_id="31393" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> even <Alignment alignment="35546" annotation_id="31402">
+          <DiscourseConnective annotation_id="31402" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it was not under that article, I will still deal with it in as prompt a manner as possible.</en>
+      <fr>
+        <Alignment alignment="31393" annotation_id="35535">
+          <DiscourseConnective annotation_id="35535" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, <Alignment alignment="31402" annotation_id="35546">
+          <DiscourseConnective annotation_id="35546" sense="Contingency.Condition">même s'</DiscourseConnective>
+        </Alignment>il n'était pas couvert par cet article, je le traiterais <DiscourseConnective annotation_id="35610">tout de même</DiscourseConnective> aussi promptement <DiscourseConnective annotation_id="35641">que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31497" docOffset="216">
+      <en>I give you that commitment.</en>
+      <fr>Je m'y engage.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="31525" id="021" name="President">
+    <ParallelChunk annotation_id="31525" docOffset="217">
+      <en>Commissioner, I should like to thank you for your participation in the debate.</en>
+      <fr>Monsieur le Commissaire, je vous remercie <DiscourseConnective annotation_id="35712">pour</DiscourseConnective> votre participation <DiscourseConnective annotation_id="35737">à</DiscourseConnective> ce débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31604" docOffset="218">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31626" docOffset="219">
+      <en>The vote will take place at 11.30 today.</en>
+      <fr>Le vote aura lieu aujourd'hui à 11h30.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31667" docOffset="220">
+      <en>Written statements (Rule 142)</en>
+      <fr>Déclarations écrites (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="31697" id="022" name="Dominique Vlasto">
+    <ParallelChunk annotation_id="31697" docOffset="221">
+      <en>(FR) The creation of the European private company statute has the support of both the Member States and industry, <Alignment alignment="35971" annotation_id="31811">
+          <DiscourseConnective annotation_id="31811" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I congratulate the rapporteur on his excellent report and his pragmatic recommendations.</en>
+      <fr>La création du statut de la société privée européenne est plébiscitée tant par les États membres que par les acteurs économiques <Alignment alignment="31811" annotation_id="35971">
+          <DiscourseConnective annotation_id="35971" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je félicite le rapporteur <DiscourseConnective annotation_id="36000">pour</DiscourseConnective> son excellent rapport <DiscourseConnective annotation_id="36027">et</DiscourseConnective> ses recommandations pragmatiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31904" docOffset="222">
+      <en>I am very much in favour of the creation of this statute for at least two reasons.</en>
+      <fr>Je suis très favorable <DiscourseConnective annotation_id="36087">à</DiscourseConnective> la création de ce statut <DiscourseConnective annotation_id="36114">pour</DiscourseConnective> <DiscourseConnective annotation_id="36119">au moins</DiscourseConnective> deux raisons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31987" docOffset="223">
+      <en>Firstly, <Alignment alignment="36151" annotation_id="31996">
+          <DiscourseConnective annotation_id="31996" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the adoption of this statute will help remove one of the obstacles to SMEs' mobility.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36142">D'abord</DiscourseConnective>, <Alignment alignment="7850" annotation_id="36151">
+          <DiscourseConnective annotation_id="36151" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> l'adoption de ce statut contribuerait à supprimer un des obstacles <DiscourseConnective annotation_id="36228">à</DiscourseConnective> la mobilité des PME.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32090" docOffset="224">
+      <en>All too often, company founders are reluctant to do business <Alignment alignment="36316" annotation_id="32151">
+          <DiscourseConnective annotation_id="32151" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they do not understand the legal environment very well, particularly <Alignment alignment="36380" annotation_id="32228">
+          <DiscourseConnective annotation_id="32228" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they establish themselves in another Member State.</en>
+      <fr>Trop souvent les créateurs d'entreprises hésitent <DiscourseConnective annotation_id="36301">à</DiscourseConnective> entreprendre <Alignment alignment="32151" annotation_id="36316">
+          <DiscourseConnective annotation_id="36316" sense="Contingency.Cause.Reason">faute de</DiscourseConnective>
+        </Alignment> bien appréhender l'environnement juridique, a fortiori <Alignment alignment="32228" annotation_id="36380">
+          <DiscourseConnective annotation_id="36380" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>ils s'implantent dans un autre État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32284" docOffset="225">
+      <en>Next, this statute will enable us significantly to enhance legal transparency and <Alignment alignment="36520" annotation_id="32366">
+          <DiscourseConnective annotation_id="32366" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> to build confidence among the various economic players.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36431">Ensuite</DiscourseConnective> ce statut permettrait de renforcer considérablement la transparence juridique <DiscourseConnective annotation_id="36517">et</DiscourseConnective> <Alignment alignment="8359" annotation_id="36520">
+          <DiscourseConnective annotation_id="36520" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> d'accroître la confiance entre les différents acteurs économiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32427" docOffset="226">
+      <en>The fact is that confidence is crucial in trade relations and forms the basis for a prosperous economy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36593">Or</DiscourseConnective> la confiance est primordiale dans les relations commerciales <DiscourseConnective annotation_id="36657">et</DiscourseConnective> constitue la base d'une économie florissante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32531" docOffset="227">
+      <en>I am <Alignment alignment="36718" annotation_id="32536">
+          <DiscourseConnective annotation_id="32536" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> in favour of Mr Lehne's report, with one exception: its recommendation 7.</en>
+      <fr>J'accueille <Alignment alignment="32536" annotation_id="36718">
+          <DiscourseConnective annotation_id="36718" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> favorablement le rapport de M. Lehne, <DiscourseConnective annotation_id="36761">à</DiscourseConnective> une exception près: sa recommandation n°7.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32620" docOffset="228">
+      <en>Including legally reprehensible behaviour in the private company statute would mean amending Title VI of the Treaty and unnecessarily complicating the link between the statute and our national laws.</en>
+      <fr>La prise en compte de comportements pénalement répréhensibles dans les statuts de la société privée impliquerait de modifier le Titre VI du Traité <DiscourseConnective annotation_id="36953">et</DiscourseConnective> compliquerait inutilement l'articulation dudit statut avec nos droits nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32819" docOffset="229">
+      <en>I <Alignment alignment="37065" annotation_id="32821">
+          <DiscourseConnective annotation_id="32821" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> feel that this provision runs counter to the objectives of the European private company statute: to produce better legislation and to make European entrepreneurs' lives easier.</en>
+      <fr>Cette disposition me paraît <Alignment alignment="32821" annotation_id="37065">
+          <DiscourseConnective annotation_id="37065" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> aller à l'encontre des objectifs du statut de la société privée européenne: <DiscourseConnective annotation_id="37146">mieux</DiscourseConnective> légiférer <DiscourseConnective annotation_id="37162">et</DiscourseConnective> simplifier la vie des entrepreneurs européens.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

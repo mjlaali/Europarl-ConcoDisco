@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Corrigendum to a text adopted: see Minutes</en>
+    <fr>Rectificatif <DiscourseConnective annotation_id="13">à</DiscourseConnective> un texte adopté: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="43" id="126" name="Philip Bradbourn">
+    <ParallelChunk annotation_id="43" docOffset="1">
+      <en>Madam President, I hope I can make myself heard above the din.</en>
+      <fr>(EN) Madame la Présidente, j'espère que j'arriverai à me faire entendre malgré ce vacarme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="106" docOffset="2">
+      <en>I wonder <DiscourseConnective annotation_id="115" sense="Contingency.Condition">if</DiscourseConnective> you could advise me <Alignment alignment="1429" annotation_id="138">
+          <DiscourseConnective annotation_id="138" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> action is going to be taken in this House to prevent Members constantly having to run the gauntlet between the lifts from their offices and this Chamber and being accosted by people - whether they are lobbyists, assistants or whatever - trying to thrust myriad pieces of paper into our hands <Alignment alignment="478" annotation_id="435">
+          <DiscourseConnective annotation_id="435" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we approach this Chamber to vote.</en>
+      <fr>Pouvez-vous me dire <Alignment alignment="583" annotation_id="162">
+          <DiscourseConnective annotation_id="162" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> des mesures vont être prises <DiscourseConnective annotation_id="197">pour</DiscourseConnective> éviter que les députés soient constamment obligés de courir entre les ascenseurs reliant leur bureau à cette Assemblée <DiscourseConnective annotation_id="321">et</DiscourseConnective> soient harcelés de toutes parts, <DiscourseConnective annotation_id="357">que</DiscourseConnective> ce soit par des lobbyistes, des assistants <DiscourseConnective annotation_id="404">ou</DiscourseConnective> autres, qui tentent de nous mettre des tonnes de papier dans les mains <Alignment alignment="220" annotation_id="478">
+          <DiscourseConnective annotation_id="478" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous allons voter?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="472" docOffset="3">
+      <en>This place is getting to look more like a university students' union than a Parliament, Madam President, <Alignment alignment="305244" annotation_id="577">
+          <DiscourseConnective annotation_id="577" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope you will take action to stop it.</en>
+      <fr>Cet endroit est sur le point de ressembler davantage à une association d'étudiants universitaires <DiscourseConnective annotation_id="603">qu'</DiscourseConnective>à un parlement, Madame la Présidente, <Alignment alignment="412" annotation_id="644">
+          <DiscourseConnective annotation_id="644" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère que vous allez prendre des mesures <DiscourseConnective annotation_id="691">pour</DiscourseConnective> empêcher cela.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="621" id="127" name="President">
+    <ParallelChunk annotation_id="621" docOffset="4">
+      <en>Thank you for the suggestion, Mr Bradbourn.</en>
+      <fr>Je vous remercie de votre suggestion, Monsieur Bradbourn.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="665" docOffset="5">
+      <en>We will pass your observations to the Quaestors <Alignment alignment="819" annotation_id="713">
+          <Alignment alignment="819" annotation_id="713">
+            <DiscourseConnective annotation_id="713" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> they may take the necessary measures.</en>
+      <fr>Nous transmettrons vos observations aux questeurs <Alignment alignment="713" annotation_id="819">
+          <Alignment alignment="713" annotation_id="819">
+            <DiscourseConnective annotation_id="819" sense="Contingency.Cause.Result">afin qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>ils puissent adopter les mesures nécessaires.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

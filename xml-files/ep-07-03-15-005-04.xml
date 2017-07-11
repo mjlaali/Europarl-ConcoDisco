@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Euro-mediterranean relations (vote)</en>
+    <fr>Relations euroméditerranéennes (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+    <en>- Before the vote on paragraph 21:</en>
+    <fr>- <DiscourseConnective annotation_id="43">Avant</DiscourseConnective> le vote sur le paragraphe 21</fr>
+  </ParallelChunk>
+<Speaker annotation_id="74" id="077" name="Pasqualina Napoletano">
+    <ParallelChunk annotation_id="74" docOffset="3">
+      <en>(IT) Mr President, I believe that Mr Tannock has withdrawn his amendment in favour of an oral amendment which - I refer to paragraph 21 of the French text - would read <DiscourseConnective annotation_id="242" sense="Temporal.Synchrony">as</DiscourseConnective> follows: after the phrase 'aucun cas refouler une personne', add 'demandeur d'asile vers un état où elle risque ...'.</en>
+      <fr>(IT) Monsieur le Président, je crois <DiscourseConnective annotation_id="115">que</DiscourseConnective> M. Tannock a retiré son amendement <DiscourseConnective annotation_id="154">en</DiscourseConnective> faveur d'un amendement oral qui - je me réfère au paragraphe 21 du texte français - serait le suivant: <DiscourseConnective annotation_id="260">après</DiscourseConnective> l'expression "aucun cas refouler une personne", ajouter "demandeur d'asile vers un état où elle risque [...]".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="363" docOffset="4">
+      <en>Mr President, I would like to take the opportunity to call on my group to vote in favour of the final text <Alignment alignment="1237" annotation_id="470">
+          <DiscourseConnective annotation_id="470" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there was an error on the voting list.</en>
+      <fr>Monsieur le Président, je voudrais profiter de l'occasion <DiscourseConnective annotation_id="435">pour</DiscourseConnective> demander <DiscourseConnective annotation_id="449">à</DiscourseConnective> mon groupe de voter <DiscourseConnective annotation_id="471">pour</DiscourseConnective> le texte final, <Alignment alignment="470" annotation_id="492">
+          <DiscourseConnective annotation_id="492" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> une erreur s'est glissée sur la liste de vote.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="517" id="078" name="Charles Tannock">
+    <ParallelChunk annotation_id="517" docOffset="5">
+      <en>Mr President, I have not withdrawn the amendment that I submitted, <Alignment alignment="622" annotation_id="584">
+          <DiscourseConnective annotation_id="584" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I would be prepared to do so in exchange for a change to that oral amendment adding words along the lines of 'for the duration within which the asylum seekers are having their cases considered by the authorities', <DiscourseConnective annotation_id="802" sense="Contingency.Cause.Reason">because</DiscourseConnective> <DiscourseConnective annotation_id="810" sense="Expansion.Alternative">otherwise</DiscourseConnective> they could stay in our countries indefinitely.</en>
+      <fr>(EN) Monsieur le Président, je n'ai pas retiré l'amendement <DiscourseConnective annotation_id="603">que</DiscourseConnective> j'ai présenté, <Alignment alignment="584" annotation_id="622">
+          <DiscourseConnective annotation_id="622" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je serais prêt <DiscourseConnective annotation_id="642">à</DiscourseConnective> le faire <DiscourseConnective annotation_id="653">en</DiscourseConnective> échange d'une modification <DiscourseConnective annotation_id="683">à</DiscourseConnective> cet amendement oral ajoutant quelques mots du style "pendant toute la durée de l'examen des dossiers des demandeurs d'asile par les autorités", sans quoi, ils pourraient rester dans nos pays indéfiniment.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="867" docOffset="6">
+      <en>(Parliament rejected the oral amendments)</en>
+      <fr>(Le Parlement rejette les amendements oraux)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>The implementation of the European Security Strategy in the context of the ESDP (vote)</en>
+    <fr>Mise en œuvre de la stratégie européenne de sécurité dans le cadre de la PESD (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="90" docOffset="2">
+    <en>- before the vote on Amendment 21:</en>
+    <fr>
+      <DiscourseConnective annotation_id="88">Avant</DiscourseConnective> le vote sur l'amendement 21</fr>
+  </ParallelChunk>
+<Speaker annotation_id="125" id="077" language="DE" name="Karl von Wogau ">
+    <ParallelChunk annotation_id="125" docOffset="3">
+      <en>Mr President, <DiscourseConnective annotation_id="139" sense="Contingency.Cause.Reason">since</DiscourseConnective> an editorial problem has come to light here, I suggest that we deviate from the voting list I proposed and <Alignment alignment="299" annotation_id="252">
+          <DiscourseConnective annotation_id="252" sense="Expansion.Alternative.Chosen alternative">instead</DiscourseConnective>
+        </Alignment> vote against Amendment 21.</en>
+      <fr>Monsieur le Président, un problème d'ordre rédactionnel ayant été mis <DiscourseConnective annotation_id="192">en</DiscourseConnective> lumière sur ce point, je propose <DiscourseConnective annotation_id="228">que</DiscourseConnective> nous dérogions à la liste de vote soumise par mes soins <DiscourseConnective annotation_id="288">et</DiscourseConnective> votions <Alignment alignment="252" annotation_id="299">
+          <DiscourseConnective annotation_id="299" sense="Expansion.Alternative.Chosen alternative">plutôt</DiscourseConnective>
+        </Alignment> contre l'amendement 21.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="287" docOffset="4">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(Le Parlement marque son accord <DiscourseConnective annotation_id="362">pour</DiscourseConnective> l'adoption de l'amendement oral)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="336" docOffset="5">
+      <en>- before the vote on Amendment 7:</en>
+      <fr>
+        <DiscourseConnective annotation_id="400">Avant</DiscourseConnective> le vote sur l'amendement 7</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="370" id="079" name="Helmut Kuhne">
+    <ParallelChunk annotation_id="370" docOffset="6">
+      <en>(DE) Mr President, the Group of the Alliance of Liberals and Democrats for Europe has asked me <Alignment alignment="542" annotation_id="465">
+          <DiscourseConnective annotation_id="465" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> I might make a small amendment, <Alignment alignment="321634" annotation_id="500">
+          <DiscourseConnective annotation_id="500" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I shall be happy to do so, <Alignment alignment="619" annotation_id="531">
+          <DiscourseConnective annotation_id="531" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> it would not in any way alter the political thrust.</en>
+      <fr>(DE) Monsieur le Président, le groupe de l'Alliance des démocrates <DiscourseConnective annotation_id="500">et</DiscourseConnective> des libéraux <DiscourseConnective annotation_id="516">pour</DiscourseConnective> l'Europe m'a demandé <Alignment alignment="465" annotation_id="542">
+          <DiscourseConnective annotation_id="542" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> je pouvais apporter une légère modification, ce <Alignment alignment="500" annotation_id="593">
+          <DiscourseConnective annotation_id="593" sense="Expansion.Conjunction">que</DiscourseConnective>
+        </Alignment> je fais avec plaisir, <Alignment alignment="531" annotation_id="619">
+          <DiscourseConnective annotation_id="619" sense="Contingency.Cause.Reason">étant donné qu'</DiscourseConnective>
+        </Alignment>elle n'affectera <DiscourseConnective annotation_id="651">en</DiscourseConnective> aucune manière l'idée politique fondamentale du texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="589" docOffset="7">
+      <en>The last line would <Alignment alignment="721" annotation_id="609">
+          <DiscourseConnective annotation_id="609" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> read:</en>
+      <fr>On pourrait <Alignment alignment="609" annotation_id="721">
+          <DiscourseConnective annotation_id="721" sense="Temporal.Asynchronous.Precedence">donc</DiscourseConnective>
+        </Alignment> lire à la dernière ligne:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="620" docOffset="8">
+      <en>'would welcome the willingness of the United States to join in such negotiations with Iran'.</en>
+      <fr>accueillerait favorablement la volonté des États-Unis de participer <DiscourseConnective annotation_id="820">à</DiscourseConnective> de telles négociations avec l'Iran".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="713" docOffset="9">
+      <en>(DE) I am therefore happy to do <Alignment alignment="919" annotation_id="745">
+          <DiscourseConnective annotation_id="745" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the Liberals have suggested <Alignment alignment="945" annotation_id="776">
+          <DiscourseConnective annotation_id="776" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> amend the text <Alignment alignment="1910" annotation_id="795">
+          <DiscourseConnective annotation_id="795" sense="Contingency.Cause.Result">accordingly</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>(DE) C'est la raison pour laquelle je suis ravi de répondre <Alignment alignment="745" annotation_id="919">
+          <DiscourseConnective annotation_id="919" sense="Temporal.Synchrony">à</DiscourseConnective>
+        </Alignment> la demande des libéraux <Alignment alignment="776" annotation_id="945">
+          <DiscourseConnective annotation_id="945" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de modifier le texte <Alignment alignment="596" annotation_id="969">
+          <DiscourseConnective annotation_id="969" sense="Contingency.Cause.Result">en conséquence</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="808" docOffset="10">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(Le Parlement marque son accord <DiscourseConnective annotation_id="1017">pour</DiscourseConnective> l'adoption de l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

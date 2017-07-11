@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>European insurance and occupational pensions committee (implementing powers conferred on the Commission) (vote)</en>
+    <fr>Comité européen des assurances <DiscourseConnective annotation_id="34">et</DiscourseConnective> des pensions professionnelles (compétences d'exécution de la Commission) (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="115" docOffset="2">
+    <en>- Report: Pervenche Berès</en>
+    <fr>- Rapport de Mme Pervenche Berès</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="141" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="152">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="160" id="091" name="Pervenche Berès ">
+    <ParallelChunk annotation_id="160" docOffset="4">
+      <en>rapporteur. - (FR) Mr President, we are about to vote on nine reports.</en>
+      <fr>rapporteur. - (FR) Monsieur le Président, nous allons voter neuf rapports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="231" docOffset="5">
+      <en>
+        <Alignment alignment="242" annotation_id="231">
+          <Alignment alignment="185808" annotation_id="231">
+            <DiscourseConnective annotation_id="231" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the six that follow will be in the same vein.</en>
+      <fr>
+        <Alignment alignment="231" annotation_id="242">
+          <Alignment alignment="231" annotation_id="242">
+            <DiscourseConnective annotation_id="242" sense="Expansion.Conjunction">En réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les six suivants seront aussi de la <DiscourseConnective annotation_id="290">même</DiscourseConnective> veine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="286" docOffset="6">
+      <en>This is all about implementing the agreement on comitology procedure that was so impressively concluded among the three institutions.</en>
+      <fr>Il <DiscourseConnective annotation_id="305">s'</DiscourseConnective>agit de la mise en œuvre de l'accord de comitologie brillamment conclu entre les trois institutions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="420" docOffset="7">
+      <en>What we are engaged in here is the necessary practical follow-through <DiscourseConnective annotation_id="490" sense="Expansion.Conjunction">and</DiscourseConnective> we need the support of this House, following the long and fruitful negotiations between the Council and the Commission.</en>
+      <fr>Nous sommes là dans les travaux pratiques pour lesquels nous avons besoin du soutien de la plénière, <DiscourseConnective annotation_id="509">à</DiscourseConnective> la suite des négociations longues <DiscourseConnective annotation_id="545">et</DiscourseConnective> fructueuses entre le Conseil <DiscourseConnective annotation_id="577">et</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

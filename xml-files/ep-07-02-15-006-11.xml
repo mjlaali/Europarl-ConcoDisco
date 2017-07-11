@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>11.</en>
+    <fr>11.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Situation in Darfur (vote)</en>
+    <fr>Situation au Darfour (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="31" docOffset="2">
+    <en>- Before the vote on paragraph 6, Amendment 1:</en>
+    <fr>- <DiscourseConnective annotation_id="34">Avant</DiscourseConnective> le vote sur le paragraphe 6, amendement 1:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="78" id="089" name="Ana Maria Gomes">
+    <ParallelChunk annotation_id="78" docOffset="3">
+      <en>(PT) Mr President, this is just to inform you that we are proposing an oral amendment to our Amendment 1.</en>
+      <fr>(PT) Monsieur le Président, ceci <DiscourseConnective annotation_id="116">simplement</DiscourseConnective> <DiscourseConnective annotation_id="127">pour</DiscourseConnective> vous informer <DiscourseConnective annotation_id="146">que</DiscourseConnective> nous proposons un amendement oral <DiscourseConnective annotation_id="184">à</DiscourseConnective> notre amendement 1.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="184" docOffset="4">
+      <en>We wish to insert just three words: 'the threat of'.</en>
+      <fr>Nous souhaitons <DiscourseConnective annotation_id="222">simplement</DiscourseConnective> insérer trois mots: "the threat of" (la menace d'un).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="237" docOffset="5">
+      <en>As such, the final sentence will read:</en>
+      <fr>De la sorte, la dernière phrase sera:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="276" docOffset="6">
+      <en>'Underlines that sanctions on Sudan should <Alignment alignment="140624" annotation_id="319">
+          <DiscourseConnective annotation_id="319" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> include the threat of an oil embargo;'</en>
+      <fr>(EN) "Souligne <DiscourseConnective annotation_id="340">que</DiscourseConnective> les sanctions <DiscourseConnective annotation_id="358">à</DiscourseConnective> l'encontre du Soudan devraient <Alignment alignment="319" annotation_id="391">
+          <DiscourseConnective annotation_id="391" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> inclure la menace d'un embargo pétrolier;"</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="363" docOffset="7">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est approuvé.)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

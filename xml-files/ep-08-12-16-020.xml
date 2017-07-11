@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Securities settlement systems and financial collateral arrangements (debate)</en>
+    <fr>Systèmes de paiement et de règlement des opérations sur titres <DiscourseConnective annotation_id="63">et</DiscourseConnective> contrats de garantie financière (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="77" id="507" name="President">
+    <ParallelChunk annotation_id="77" docOffset="1">
+      <en>The next item is the report by Mrs Kauppi, on behalf of the Committee on Economic and Monetary Affairs, on the proposal for a directive of the European Parliament and of the Council amending Directive 98/26/EC on settlement finality in payment and securities settlement systems and Directive 2002/47/EC on financial collateral arrangements as regards linked systems and credit claims - C6-0181/2008 -.</en>
+      <fr>L'ordre du jour appelle le rapport de Mme Kauppi, au nom de la commission des affaires économiques <DiscourseConnective annotation_id="205">et</DiscourseConnective> monétaires, sur la proposition de directive du Parlement européen <DiscourseConnective annotation_id="274">et</DiscourseConnective> du Conseil modifiant la directive 98/26/CE concernant le caractère définitif du règlement dans les systèmes de paiement <DiscourseConnective annotation_id="397">et</DiscourseConnective> de règlement des opérations sur titres <DiscourseConnective annotation_id="439">et</DiscourseConnective> la directive 2002/47/CE concernant les contrats de garantie financière, <DiscourseConnective annotation_id="514">en</DiscourseConnective> ce qui concerne les systèmes liés <DiscourseConnective annotation_id="551">et</DiscourseConnective> les créances privées - C6-0181/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="479" id="508" name="Piia-Noora Kauppi">
+    <ParallelChunk annotation_id="479" docOffset="2">
+      <en>rapporteur. - Mr President, I have had the pleasure of being the rapporteur on this topic of settlement finality in payment and securities settlement systems and the directive on financial collateral arrangements.</en>
+      <fr>rapporteure. - (EN) Monsieur le Président, j'ai eu le plaisir d'être la rapporteure sur ce sujet du caractère définitif du règlement dans les systèmes de paiement <DiscourseConnective annotation_id="756">et</DiscourseConnective> de règlement des opérations sur titres de la directive concernant les contrats de garantie financière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="693" docOffset="3">
+      <en>I am leaving Parliament tomorrow - this will be my last legislative report for the European Parliament - <Alignment alignment="43958" annotation_id="798">
+          <DiscourseConnective annotation_id="798" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> please accept my sincere apologies <Alignment alignment="1014" annotation_id="836">
+          <DiscourseConnective annotation_id="836" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> I am a little bit emotional tonight.</en>
+      <fr>Je quitte le Parlement demain, ceci sera donc mon dernier rapport législatif <DiscourseConnective annotation_id="939">pour</DiscourseConnective> le Parlement européen, <Alignment alignment="4161" annotation_id="967">
+          <DiscourseConnective annotation_id="967" sense="Contingency.Cause.Result">et</DiscourseConnective>
+        </Alignment> je vous prie donc de bien vouloir m'excuser <Alignment alignment="836" annotation_id="1014">
+          <DiscourseConnective annotation_id="1014" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> je montre un peu d'émotion ce soir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="876" docOffset="4">
+      <en>This is not the most political of items.</en>
+      <fr>Ce dossier ne compte pas parmi les sujets les plus politiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="917" docOffset="5">
+      <en>Sometimes what we do in the European Parliament is quite technical, <Alignment alignment="11576" annotation_id="985">
+          <DiscourseConnective annotation_id="985" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I am absolutely sure that this directive, this legislation, will <Alignment alignment="12939" annotation_id="1054">
+          <DiscourseConnective annotation_id="1054" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> help Europe to go forward.</en>
+      <fr>Notre travail au Parlement européen est parfois très technique, <Alignment alignment="14315" annotation_id="1180">
+          <DiscourseConnective annotation_id="1180" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je suis absolument convaincue <DiscourseConnective annotation_id="1215">que</DiscourseConnective> cette directive, cette législation, aidera <Alignment alignment="1054" annotation_id="1262">
+          <DiscourseConnective annotation_id="1262" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> l'Europe <DiscourseConnective annotation_id="1277">à</DiscourseConnective> avancer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1086" docOffset="6">
+      <en>The aim of this legislation is to update the directives in line with the latest market and regulatory developments.</en>
+      <fr>L'objectif de cette législation est de mettre à jour les directives conformément aux dernières évolutions du marché <DiscourseConnective annotation_id="1404">et</DiscourseConnective> de la réglementation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1202" docOffset="7">
+      <en>The main change brought about by the settlement finality directive is to extend the protection of the directive to cover night-time settlement and settlement between linked systems; this is very important, <DiscourseConnective annotation_id="1408" sense="Contingency.Cause.Reason">since</DiscourseConnective> the number of links and the need for interoperability have lately increased immensely.</en>
+      <fr>Le principal changement introduit par la directive sur le caractère définitif des règlements consiste <DiscourseConnective annotation_id="1531">à</DiscourseConnective> élargir le champ d'application de cette directive <DiscourseConnective annotation_id="1583">pour</DiscourseConnective> protéger également les règlements nocturnes entre systèmes liés. Cette évolution est d'autant plus importante que le nombre de liens <DiscourseConnective annotation_id="1721">et</DiscourseConnective> le besoin d'interopérabilité ont considérablement augmenté ces dernières années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1501" docOffset="8">
+      <en>The MIFID directive, on which I <Alignment alignment="1851" annotation_id="1533">
+          <DiscourseConnective annotation_id="1533" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> had the honour to be rapporteur in this House, and the European code of conduct on clearing and settlement systems are expected to become increasingly operable, <DiscourseConnective annotation_id="1699" sense="Expansion.Conjunction">and</DiscourseConnective> that means that we have more need to coordinate our settlement and financial collateral arrangements.</en>
+      <fr>La directive MiFID, au sujet de laquelle j'ai <Alignment alignment="10610" annotation_id="1851">
+          <DiscourseConnective annotation_id="1851" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> eu l'honneur d'être la rapporteure <DiscourseConnective annotation_id="1896">pour</DiscourseConnective> ce Parlement, <DiscourseConnective annotation_id="1915">et</DiscourseConnective> le code de conduite européen relatif aux systèmes de règlement <DiscourseConnective annotation_id="1981">et</DiscourseConnective> de compensation, devraient tous être appliqués <DiscourseConnective annotation_id="2031">de plus</DiscourseConnective> en plus. Cela signifie <DiscourseConnective annotation_id="2062">que</DiscourseConnective> nous devons coordonner davantage nos contrats en matière de règlement <DiscourseConnective annotation_id="2136">et</DiscourseConnective> de garantie financière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1805" docOffset="9">
+      <en>Regarding the Financial Collateral Directive (FCD), it is very important to accept credit claims as financial collateral.</en>
+      <fr>En ce qui concerne la directive relative aux contrats de garantie financière (DCGF), il était très important d'accepter les créances privées <DiscourseConnective annotation_id="2304">comme</DiscourseConnective> garanties financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1927" docOffset="10">
+      <en>The European Parliament <Alignment alignment="19624" annotation_id="1951">
+          <DiscourseConnective annotation_id="1951" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> wanted to extend the scope of what is accepted as collateral to interbank credit claims.</en>
+      <fr>Le Parlement européen souhaitait <Alignment alignment="1951" annotation_id="2366">
+          <DiscourseConnective annotation_id="2366" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> inclure les prêts interbancaires dans les garanties admissibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2045" docOffset="11">
+      <en>For me it was acceptable for credit for micro-enterprises and small enterprises to be excluded, like consumer credits.</en>
+      <fr>Il me semblait acceptable <DiscourseConnective annotation_id="2467">pour</DiscourseConnective> ma part d'exclure les prêts aux micro- <DiscourseConnective annotation_id="2511">et</DiscourseConnective> petites entreprises, de même que les crédits aux consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2164" docOffset="12">
+      <en>The establishment of a harmonised legal framework for the use of credit claims as collateral in cross-border transactions helps enhance market liquidity and ensures the proper functioning of settlement systems in rapidly evolving markets.</en>
+      <fr>La création d'un cadre juridique harmonisé <DiscourseConnective annotation_id="2621">pour</DiscourseConnective> l'utilisation des créances privées <DiscourseConnective annotation_id="2661">comme</DiscourseConnective> garanties dans les transactions transfrontalières contribue à améliorer la liquidité du marché <DiscourseConnective annotation_id="2762">et</DiscourseConnective> garantit le fonctionnement correct des systèmes de règlement dans des marchés en constante évolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2403" docOffset="13">
+      <en>The new directives <Alignment alignment="21388" annotation_id="2422">
+          <DiscourseConnective annotation_id="2422" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> introduce several simplifications and clarifications and definitions.</en>
+      <fr>Les nouvelles directives introduisent <Alignment alignment="2422" annotation_id="2905">
+          <DiscourseConnective annotation_id="2905" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> plusieurs simplifications, clarifications <DiscourseConnective annotation_id="2957">et</DiscourseConnective> définitions nouvelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2497" docOffset="14">
+      <en>These solutions will make an important contribution to strengthening the tools for managing instability in financial markets.</en>
+      <fr>Ces solutions contribueront de façon significative au renforcement des outils nécessaires <DiscourseConnective annotation_id="3073">pour</DiscourseConnective> gérer l'instabilité des marchés financiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2623" docOffset="15">
+      <en>My aim was to reach a compromise at first reading, <Alignment alignment="3186" annotation_id="2674">
+          <DiscourseConnective annotation_id="2674" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> we were negotiating with the Council and Commission the whole time.</en>
+      <fr>Mon objectif était de parvenir à un accord <DiscourseConnective annotation_id="3165">en</DiscourseConnective> première lecture, <Alignment alignment="7886" annotation_id="3186">
+          <DiscourseConnective annotation_id="3186" sense="Contingency.Cause.Result">et</DiscourseConnective>
+        </Alignment> nous avons donc négocié en permanence avec le Conseil <DiscourseConnective annotation_id="3243">et</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2745" docOffset="16">
+      <en>I have <Alignment alignment="24097" annotation_id="2752">
+          <DiscourseConnective annotation_id="2752" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> negotiated with other political groups, with Ms Berès and Ms Starkevičiūtespecially, in order to achieve a compromise that could satisfy everyone in the Parliament.</en>
+      <fr>J'ai <Alignment alignment="2752" annotation_id="3266">
+          <DiscourseConnective annotation_id="3266" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> négocié avec d'autres groupes politiques, avec Mme Berès <DiscourseConnective annotation_id="3333">et</DiscourseConnective> Mme Starkevičiūtnotamment, <DiscourseConnective annotation_id="3363">afin de</DiscourseConnective> trouver un compromis susceptible de satisfaire l'ensemble du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2922" docOffset="17">
+      <en>I am very happy that the report was unanimously accepted by the Committee on Economic and Monetary Affairs.</en>
+      <fr>Je me réjouis <DiscourseConnective annotation_id="3457">que</DiscourseConnective> la commission des affaires économiques <DiscourseConnective annotation_id="3500">et</DiscourseConnective> monétaires ait adopté ce rapport à l'unanimité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3030" docOffset="18">
+      <en>In the end I am <Alignment alignment="3577" annotation_id="3046">
+          <DiscourseConnective annotation_id="3046" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> quite content with the compromise that will be voted during this week's part-session.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3551">En fin de compte</DiscourseConnective>, je suis <Alignment alignment="12717" annotation_id="3577">
+          <DiscourseConnective annotation_id="3577" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> fort satisfaite du compromis sur lequel nous allons voter cette semaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3137" docOffset="19">
+      <en>On most of the issues the negotiations went well <Alignment alignment="3724" annotation_id="3186">
+          <DiscourseConnective annotation_id="3186" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we agreed on the basic lines of this legislation.</en>
+      <fr>Les négociations ont été fructueuses sur la plupart des points, <Alignment alignment="6060" annotation_id="3724">
+          <DiscourseConnective annotation_id="3724" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous sommes tombés d'accord sur les grands axes de cette législation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3240" docOffset="20">
+      <en>
+        <Alignment alignment="11987" annotation_id="3240">
+          <DiscourseConnective annotation_id="3240" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, there were a few controversial issues as well <Alignment alignment="3855" annotation_id="3295">
+          <DiscourseConnective annotation_id="3295" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I did not get all the goals through.</en>
+      <fr>
+        <Alignment alignment="7235" annotation_id="3797">
+          <DiscourseConnective annotation_id="3797" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il y eut <DiscourseConnective annotation_id="3811">également</DiscourseConnective> quelques questions controversées, <Alignment alignment="3295" annotation_id="3855">
+          <DiscourseConnective annotation_id="3855" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je n'ai pas atteint tous les objectifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3336" docOffset="21">
+      <en>During the negotiations I was not able to get the support for the ECON proposal to amend the definition of the system which would have made it possible to grant the protection of the directive to systems based on the ECB legal act, and would have allowed the European Central Bank to designate such systems itself.</en>
+      <fr>Durant ces négociations, je ne suis pas parvenue <DiscourseConnective annotation_id="3947">à</DiscourseConnective> obtenir le soutien du Parlement en faveur de la proposition de la commission ECON de modifier la définition du système. Cette modification aurait permis d'accorder la protection de cette directive aux systèmes basés sur l'instrument juridique de la BCE, <DiscourseConnective annotation_id="4203">et</DiscourseConnective> aurait permis à la Banque centrale européenne de désigner elle-même ces systèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3651" docOffset="22">
+      <en>I am happy that the European Commission stated during the negotiations that it is in principle in favour of such an amendment and will probably table a proposal to this effect in the near future.</en>
+      <fr>La Commission européenne a déclaré au cours de nos négociations <DiscourseConnective annotation_id="4352">qu'</DiscourseConnective>elle était <DiscourseConnective annotation_id="4366">en</DiscourseConnective> principe favorable <DiscourseConnective annotation_id="4388">à</DiscourseConnective> un tel amendement <DiscourseConnective annotation_id="4408">et</DiscourseConnective> qu'elle soumettrait probablement une proposition <DiscourseConnective annotation_id="4460">à</DiscourseConnective> cet effet dans un avenir proche. Je m'en réjouis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3847" docOffset="23">
+      <en>Regarding the financial collateral directive and the notifications, I could have wished that all the Member States had already abolished the notification requirements, which in my view only add bureaucracy and do not advance any particular objective; <Alignment alignment="34674" annotation_id="4098">
+          <DiscourseConnective annotation_id="4098" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="4107" sense="Temporal.Synchrony">as</DiscourseConnective> I learned that this issue was extremely sensitive to some Member States I am quite satisfied that we got a review clause written in.</en>
+      <fr>En ce qui concerne la directive sur les garanties financières <DiscourseConnective annotation_id="4574">et</DiscourseConnective> les notifications, j'aurais voulu <DiscourseConnective annotation_id="4611">que</DiscourseConnective> tous les États membres aient <DiscourseConnective annotation_id="4644">déjà</DiscourseConnective> renoncé aux exigences de notification, qui ne font <DiscourseConnective annotation_id="4700">qu'</DiscourseConnective>ajouter de la bureaucratie <DiscourseConnective annotation_id="4730">et</DiscourseConnective> qui ne contribuent à aucun objectif particulier. <Alignment alignment="4098" annotation_id="4782">
+          <DiscourseConnective annotation_id="4782" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> j'ai compris <DiscourseConnective annotation_id="4800">qu'</DiscourseConnective>il s'agissait là d'une question extrêmement sensible <DiscourseConnective annotation_id="4856">pour</DiscourseConnective> certains États membres, et je me réjouis donc <DiscourseConnective annotation_id="4907">que</DiscourseConnective> nous ayons obtenu l'inclusion d'une clause de réexamen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4243" docOffset="24">
+      <en>I think that after five years the few Member States that still want to request these ex-ante notifications can be persuaded to end this unnecessary practice.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="4976">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="4979">après</DiscourseConnective> cinq ans, il doit être possible de convaincre les nouveaux États membres qui souhaitent <DiscourseConnective annotation_id="5073">encore</DiscourseConnective> exiger ces notifications préalables de renoncer à cette pratique inutile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4401" docOffset="25">
+      <en>
+        <Alignment alignment="18808" annotation_id="4401">
+          <DiscourseConnective annotation_id="4401" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I mentioned already, I am happy that we were able to find a compromise that we could all agree on.</en>
+      <fr>
+        <Alignment alignment="4401" annotation_id="5154">
+          <DiscourseConnective annotation_id="5154" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> je l'ai <DiscourseConnective annotation_id="5168">déjà</DiscourseConnective> dit, je suis heureuse <DiscourseConnective annotation_id="5195">que</DiscourseConnective> nous ayons pu trouver un compromis sur lequel nous sommes tous d'accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4503" docOffset="26">
+      <en>I hope that you, my fellow colleagues, will vote on this legislation on Thursday.</en>
+      <fr>J'espère, chers collègues, <DiscourseConnective annotation_id="5299">que</DiscourseConnective> vous voterez cette législation jeudi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4585" docOffset="27">
+      <en>Finally, I would like to say that it has been a pleasure to work with all of you during these years.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5341">Enfin</DiscourseConnective>, je voudrais <DiscourseConnective annotation_id="5360">dire que</DiscourseConnective> ce fut un plaisir de travailler avec vous tout au long de ces années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4686" docOffset="28">
+      <en>It is my 20th legislative report <Alignment alignment="26348" annotation_id="4719">
+          <DiscourseConnective annotation_id="4719" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it will be the last.</en>
+      <fr>C'est mon vingtième rapport législatif, <Alignment alignment="4719" annotation_id="5479">
+          <DiscourseConnective annotation_id="5479" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il sera aussi le dernier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4744" docOffset="29">
+      <en>I shall miss this Parliament, this House, and all of you.</en>
+      <fr>Ce Parlement me manquera, <DiscourseConnective annotation_id="5534">et</DiscourseConnective> vous me manquerez tous.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4802" id="509" name="President">
+    <ParallelChunk annotation_id="4802" docOffset="30">
+      <en>Ms Kauppi, once again we thank you for your work <Alignment alignment="33655" annotation_id="4851">
+          <DiscourseConnective annotation_id="4851" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we wish you all the best for your future.</en>
+      <fr>Madame Kauppi, nous vous remercions une fois de plus de votre travail <Alignment alignment="4851" annotation_id="5631">
+          <DiscourseConnective annotation_id="5631" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> tous nos vœux vous accompagnent pour l'avenir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4897" id="510" name="Charlie McCreevy">
+    <ParallelChunk annotation_id="4897" docOffset="31">
+      <en>Member of the Commission. - Mr President, I would like to thank the rapporteurs, Ms Kauppi and Mr Sakalas, of the Committee on Economic and Monetary Affairs and the Committee on Legal Affairs respectively, for their fast and very efficient work on this file.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, je voudrais remercier les rapporteurs, Mme Kauppi <DiscourseConnective annotation_id="5786">et</DiscourseConnective> M. Sakalas, de la commission des affaires économiques <DiscourseConnective annotation_id="5843">et</DiscourseConnective> monétaires <DiscourseConnective annotation_id="5857">et</DiscourseConnective> de la commission des affaires juridiques respectivement, <DiscourseConnective annotation_id="5917">pour</DiscourseConnective> le travail rapide <DiscourseConnective annotation_id="5940">et</DiscourseConnective> efficace qu'ils ont réalisé sur ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5156" docOffset="32">
+      <en>The directives on settlement finality and financial collateral are working well and enjoy wide support in the market.</en>
+      <fr>Les directives sur le caractère définitif des règlements <DiscourseConnective annotation_id="6044">et</DiscourseConnective> sur les garanties financières fonctionnent bien <DiscourseConnective annotation_id="6095">et</DiscourseConnective> sont appréciées du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5274" docOffset="33">
+      <en>
+        <Alignment alignment="36266" annotation_id="5274">
+          <DiscourseConnective annotation_id="5274" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, I am glad that we have been able to agree, in less than eight months, on the necessary adaptations to bring them fully into line with the latest regulatory and market developments.</en>
+      <fr>
+        <Alignment alignment="5274" annotation_id="6125">
+          <DiscourseConnective annotation_id="6125" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, je me réjouis <DiscourseConnective annotation_id="6150">que</DiscourseConnective> nous soyons parvenus, <DiscourseConnective annotation_id="6176">en</DiscourseConnective> moins de huit mois, à décider les modifications nécessaires pour les aligner sur les dernières évolutions du cadre réglementaire <DiscourseConnective annotation_id="6308">et</DiscourseConnective> des marchés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5469" docOffset="34">
+      <en>This is important for financial stability and <Alignment alignment="46715" annotation_id="5515">
+          <Alignment alignment="1292" annotation_id="5515">
+            <DiscourseConnective annotation_id="5515" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment> for the continued proper functioning of settlement systems, which become increasingly interlinked, <Alignment alignment="6485" annotation_id="5628">
+          <DiscourseConnective annotation_id="5628" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> keeping their own identity.</en>
+      <fr>C'est important <DiscourseConnective annotation_id="6340">pour</DiscourseConnective> la stabilité financière <DiscourseConnective annotation_id="6369">et</DiscourseConnective> <Alignment alignment="5515" annotation_id="6372">
+          <Alignment alignment="5515" annotation_id="6372">
+            <DiscourseConnective annotation_id="6372" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment> <DiscourseConnective annotation_id="6387">pour</DiscourseConnective> le fonctionnement correct des systèmes de règlement, qui sont de plus <DiscourseConnective annotation_id="6462">en plus</DiscourseConnective> interconnectés <Alignment alignment="5628" annotation_id="6485">
+          <DiscourseConnective annotation_id="6485" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> gardant leur identité propre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5662" docOffset="35">
+      <en>There was no need to create super-systems, <Alignment alignment="6578" annotation_id="5705">
+          <DiscourseConnective annotation_id="5705" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this is clearly spelled out in the amendments.</en>
+      <fr>Il n'était pas nécessaire de créer des super-systèmes, <Alignment alignment="5705" annotation_id="6578">
+          <DiscourseConnective annotation_id="6578" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les amendements l'indiquent clairement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5756" docOffset="36">
+      <en>My services started preparing the Commission proposal in early 2007, before the onset of the ongoing financial turmoil.</en>
+      <fr>Mes services ont commencé à préparer la proposition de la Commission début 2007, <DiscourseConnective annotation_id="6702">avant</DiscourseConnective> les premiers signes de la crise financière actuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5876" docOffset="37">
+      <en>
+        <Alignment alignment="34565" annotation_id="5876">
+          <DiscourseConnective annotation_id="5876" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> I believe the changes we have proposed are vindicated by the challenges which the turmoil has raised.</en>
+      <fr>Je pense <Alignment alignment="5876" annotation_id="6770">
+          <DiscourseConnective annotation_id="6770" sense="Comparison.Contrast">cependant que</DiscourseConnective>
+        </Alignment> les défis lancés par cette crise ne font que confirmer la validité des changements proposés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5982" docOffset="38">
+      <en>The establishment of a harmonised legal framework for the use of credit claims as collateral in cross-border transactions will further enhance market liquidity, so badly needed in the present environment.</en>
+      <fr>La création d'un cadre juridique harmonisé <DiscourseConnective annotation_id="6920">pour</DiscourseConnective> l'utilisation des créances privées <DiscourseConnective annotation_id="6960">comme</DiscourseConnective> garanties dans les transactions transfrontalières renforcera la liquidité du marché, <DiscourseConnective annotation_id="7051">si</DiscourseConnective> nécessaire par les temps qui courent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6187" docOffset="39">
+      <en>We expect that, with easier rules, credit claims will be used more frequently in the future.</en>
+      <fr>Nous espérons <DiscourseConnective annotation_id="7106">que</DiscourseConnective> l'instauration de règles plus simples permettra une utilisation plus fréquente des créances privées <DiscourseConnective annotation_id="7210">à</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6280" docOffset="40">
+      <en>Of course, this depends on the demand in the market for other forms of collateral.</en>
+      <fr>Bien sûr, cela dépend de la demande d'autres formes de garanties sur le marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6363" docOffset="41">
+      <en>
+        <Alignment alignment="7302" annotation_id="6363">
+          <DiscourseConnective annotation_id="6363" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we have seen during the first months of the financial crisis that the demand for credit claims was growing, for instance <DiscourseConnective annotation_id="6493" sense="Temporal.Synchrony">as</DiscourseConnective> compared to the notorious asset-backed securities.</en>
+      <fr>
+        <Alignment alignment="13519" annotation_id="7302">
+          <DiscourseConnective annotation_id="7302" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> les premiers mois de la crise financière ont montré une croissance de la demande en créances privées, par contraste, notamment, avec les tristement célèbres titres adossés à des actifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6547" docOffset="42">
+      <en>The explanation is simple: <Alignment alignment="17375" annotation_id="6574">
+          <Alignment alignment="7519" annotation_id="6574">
+            <DiscourseConnective annotation_id="6574" sense="Contingency.Condition">as long as</DiscourseConnective>
+          </Alignment>
+        </Alignment> credit claims are not bundled together, which is the case with securitisation, the collateral taker is able to assess their creditworthiness on an individual basis <Alignment alignment="17504" annotation_id="6749">
+          <DiscourseConnective annotation_id="6749" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> deciding whether <Alignment alignment="7715" annotation_id="6773">
+          <DiscourseConnective annotation_id="6773" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not to accept them.</en>
+      <fr>L'explication est simple: <Alignment alignment="3822" annotation_id="7519">
+          <Alignment alignment="4436" annotation_id="7519">
+            <DiscourseConnective annotation_id="7519" sense="Contingency.Condition">tant que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les créances privées ne sont pas regroupées, <DiscourseConnective annotation_id="7573">comme</DiscourseConnective> dans le cas d'une titrisation, le preneur de garantie est en mesure d'évaluer leur solidité séparément <Alignment alignment="4480" annotation_id="7682">
+          <DiscourseConnective annotation_id="7682" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> décider de les accepter <Alignment alignment="5735" annotation_id="7715">
+          <DiscourseConnective annotation_id="7715" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6796" docOffset="43">
+      <en>What you are asked to agree on by the voting on the report by Ms Kauppi is to facilitate the use of credit claims by abolishing some formal requirements.</en>
+      <fr>Nous vous demandons, en votant sur le rapport de Mme Kauppi, de faciliter l'utilisation des créances privées <DiscourseConnective annotation_id="7832">en</DiscourseConnective> abrogeant certaines exigences formelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6950" docOffset="44">
+      <en>The Commission undertakes that in five years' time it will report back to you on these changes.</en>
+      <fr>La Commission s'engage à vous rendre compte de l'effet de ces changements dans un délai de cinq ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7046" docOffset="45">
+      <en>
+        <Alignment alignment="14997" annotation_id="7046">
+          <Alignment alignment="16059" annotation_id="7046">
+            <DiscourseConnective annotation_id="7046" sense="Expansion.Restatement">In particular</DiscourseConnective>
+          </Alignment>
+        </Alignment> we will look at how the abolition of the obligation to register or notify the debtor on the provision of credit claims as financial collateral is working, especially in those Member States that, for the time being, are hesitant and want to opt out from Article 3(1) of the Financial Collateral Directive.</en>
+      <fr>Nous examinerons <Alignment alignment="7046" annotation_id="7994">
+          <Alignment alignment="14613" annotation_id="7994">
+            <DiscourseConnective annotation_id="7994" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment> l'effet de l'abolition de l'obligation d'enregistrer <DiscourseConnective annotation_id="8062">ou</DiscourseConnective> de notifier le débiteur de l'utilisation de créances privées <DiscourseConnective annotation_id="8126">comme</DiscourseConnective> garantie financière, <DiscourseConnective annotation_id="8153">notamment</DiscourseConnective> dans les États membres qui, <DiscourseConnective annotation_id="8191">à</DiscourseConnective> l'heure actuelle, hésitent encore <DiscourseConnective annotation_id="8227">et</DiscourseConnective> souhaitent obtenir une dérogation <DiscourseConnective annotation_id="8264">à</DiscourseConnective> l'article 3, 1er alinéa de la directive sur les garanties financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7365" docOffset="46">
+      <en>Let me take this opportunity of wishing Piia-Noora Kauppi well for the future.</en>
+      <fr>Permettez-moi de profiter de cette occasion pour présenter tous mes vœux de réussite à Piia-Noora Kauppi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7444" docOffset="47">
+      <en>I know she is going back to a very interesting position in Finland.</en>
+      <fr>Je sais qu'elle va reprendre un poste très intéressant <DiscourseConnective annotation_id="8498">en</DiscourseConnective> Finlande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7512" docOffset="48">
+      <en>During my time as Commissioner she has been exceptionally cooperative and helpful and always gave the utmost in any task that was assigned to her by Parliament.</en>
+      <fr>Tout au long de mon mandat de commissaire, elle s'est montrée exceptionnellement coopérative <DiscourseConnective annotation_id="8604">et</DiscourseConnective> serviable <DiscourseConnective annotation_id="8617">et</DiscourseConnective> elle s'est toujours impliquée à fond dans tous les dossiers qui lui avaient été confiés par le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7673" docOffset="49">
+      <en>I know she will make a great success of her future career, <Alignment alignment="21245" annotation_id="7732">
+          <DiscourseConnective annotation_id="7732" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wish her and her family well.</en>
+      <fr>Je sais qu'elle réussira dans sa future carrière, <Alignment alignment="7732" annotation_id="8776">
+          <DiscourseConnective annotation_id="8776" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je lui souhaite beaucoup de bonheur <DiscourseConnective annotation_id="8815">ainsi</DiscourseConnective> qu'à sa famille.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7768" id="511" name="Aloyzas Sakalas">
+    <ParallelChunk annotation_id="7768" docOffset="50">
+      <en>rapporteur for the opinion of the Committee on Legal Affairs. - Mr President, I was appointed by the Committee on Legal Affairs to draft the opinion for the main report by Ms Kauppi in the Committee on Economic and Monetary Affairs.</en>
+      <fr>rapporteur <DiscourseConnective annotation_id="8849">pour</DiscourseConnective> avis de la commission des affaires juridiques. - (EN) Monsieur le Président, j'ai été nommé par la commission des affaires juridiques <DiscourseConnective annotation_id="8988">pour</DiscourseConnective> rédiger l'avis relatif au rapport principal de Mme Kauppi, de la commission des affaires économiques <DiscourseConnective annotation_id="9094">et</DiscourseConnective> monétaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8001" docOffset="51">
+      <en>I submitted two amendments.</en>
+      <fr>J'ai déposé deux amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8029" docOffset="52">
+      <en>The Committee on Legal Affairs approved the draft opinion and is in favour of my submitted amendments that the European Central Bank should be able to designate and notify their own systems directly without interference from the German Bundesbank or other national authorities.</en>
+      <fr>La commission des affaires étrangères a approuvé le projet d'avis <DiscourseConnective annotation_id="9205">et</DiscourseConnective> soutient mes propositions d'amendements, qui visent à permettre <DiscourseConnective annotation_id="9272">à</DiscourseConnective> la Banque centrale européenne de désigner <DiscourseConnective annotation_id="9316">et</DiscourseConnective> de notifier ses propres systèmes directement <DiscourseConnective annotation_id="9364">sans</DiscourseConnective> interférence de la part de la banque centrale allemande <DiscourseConnective annotation_id="9425">ou</DiscourseConnective> d'autres autorités nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8307" docOffset="53">
+      <en>We had a trialogue with experts from the Central Bank, Council and the European Commission.</en>
+      <fr>Nous avons organisé un trilogue avec les experts de la Banque centrale, du Conseil <DiscourseConnective annotation_id="9542">et</DiscourseConnective> de la Commission européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8399" docOffset="54">
+      <en>The experts from the Central Bank gave a statement and expressed their strong support for the amendments tabled by the Committee on Legal Affairs.</en>
+      <fr>Les experts de la Banque centrale ont fait une déclaration <DiscourseConnective annotation_id="9633">et</DiscourseConnective> exprimé leur soutient fervent en faveur des amendements déposés par la commission des affaires juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8546" docOffset="55">
+      <en>
+        <Alignment alignment="23857" annotation_id="8546">
+          <DiscourseConnective annotation_id="8546" sense="Comparison.Contrast">Conversely</DiscourseConnective>
+        </Alignment>, the Council had difficulties in the working groups to find a compromise agreement on one of the tabled amendments <Alignment alignment="27561" annotation_id="8672">
+          <DiscourseConnective annotation_id="8672" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> Member States are not in favour of giving the ECB the right to designate and notify their own systems directly.</en>
+      <fr>Le Conseil, <Alignment alignment="8546" annotation_id="9755">
+          <DiscourseConnective annotation_id="9755" sense="Comparison.Contrast">par contre</DiscourseConnective>
+        </Alignment>, a éprouvé des difficultés <DiscourseConnective annotation_id="9793">à</DiscourseConnective> parvenir à un accord de compromis sur l'un de ces amendements dans les groupes de travail, <Alignment alignment="5271" annotation_id="9886">
+          <DiscourseConnective annotation_id="9886" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les États membres ne souhaitent pas donner à la BCE le droit de désigner <DiscourseConnective annotation_id="9969">et</DiscourseConnective> de notifier directement ses propres systèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8792" docOffset="56">
+      <en>I regret that this tabled amendment was not approved by the Council, <Alignment alignment="27515" annotation_id="8861">
+          <DiscourseConnective annotation_id="8861" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I believe that there is a great opportunity to raise this topic in the near future.</en>
+      <fr>Je regrette que le Conseil n'ait pas approuvé cet amendement, <Alignment alignment="8861" annotation_id="10080">
+          <DiscourseConnective annotation_id="10080" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="10094">que</DiscourseConnective> nous aurons de nouvelles occasions d'évoquer de nouveau ce point dans un avenir proche.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8949" id="513" language="DE" name="Othmar Karas">
+    <ParallelChunk annotation_id="8949" docOffset="57">
+      <en>Mr President, Commissioner, Mrs Kauppi, ladies and gentlemen, allow me - <DiscourseConnective annotation_id="9022" sense="Temporal.Synchrony">as</DiscourseConnective> I can now speak for the group - to start by saying that I thank Piia-Noora Kauppi on behalf of my group, not just for her immense commitment, but above all for her expertise and for her devotion to the work of Parliament and, hence <Alignment alignment="40050" annotation_id="9257">
+          <DiscourseConnective annotation_id="9257" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment>, for her willingness to compromise.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Monsieur le Président, Monsieur le Président, chère Madame Kauppi, Mesdames <DiscourseConnective annotation_id="10294">et</DiscourseConnective> Messieurs, permettez-moi <DiscourseConnective annotation_id="10322">tout d'abord</DiscourseConnective>, au nom de mon groupe, de féliciter Piia-Noora Kauppi <DiscourseConnective annotation_id="10389">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="10403">pour</DiscourseConnective> son engagement considérable, <DiscourseConnective annotation_id="10437">mais aussi</DiscourseConnective> <DiscourseConnective annotation_id="10448">pour</DiscourseConnective> son expertise <DiscourseConnective annotation_id="10467">et</DiscourseConnective> son dévouement envers le travail du Parlement <DiscourseConnective annotation_id="10516">et</DiscourseConnective> <DiscourseConnective annotation_id="10519">donc</DiscourseConnective> <Alignment alignment="14182" annotation_id="10524">
+          <DiscourseConnective annotation_id="10524" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> sa volonté de compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9298" docOffset="58">
+      <en>With her, you always know what she stands for <Alignment alignment="10601" annotation_id="9344">
+          <DiscourseConnective annotation_id="9344" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you <Alignment alignment="33490" annotation_id="9352">
+          <DiscourseConnective annotation_id="9352" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> know that she approaches others.</en>
+      <fr>Avec elle, on sait toujours ce qu'elle défend <Alignment alignment="9344" annotation_id="10601">
+          <DiscourseConnective annotation_id="10601" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on sait <Alignment alignment="6773" annotation_id="10612">
+          <DiscourseConnective annotation_id="10612" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10618">qu'</DiscourseConnective>elle parle avec d'autres personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9390" docOffset="59">
+      <en>She returns to an exciting position <Alignment alignment="10722" annotation_id="9426">
+          <DiscourseConnective annotation_id="9426" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, more importantly, she will have more time as a mother.</en>
+      <fr>Elle retourne en Finlande <DiscourseConnective annotation_id="10683">pour</DiscourseConnective> y retrouver un poste intéressant, <Alignment alignment="9426" annotation_id="10722">
+          <DiscourseConnective annotation_id="10722" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10725">surtout</DiscourseConnective> pour consacrer plus de temps <DiscourseConnective annotation_id="10762">à</DiscourseConnective> son rôle de mère.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9486" docOffset="60">
+      <en>I thank you for the good cooperation and wish you all the best.</en>
+      <fr>Je vous remercie de cette bonne collaboration <DiscourseConnective annotation_id="10828">et</DiscourseConnective> vous présente tous mes vœux de réussite et de bonheur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9550" docOffset="61">
+      <en>In this review, the European Union is again giving the right answer to the crisis on the financial markets.</en>
+      <fr>Dans ce réexamen, l'Union européenne apporte une fois de plus les bonnes réponses <DiscourseConnective annotation_id="10968">à</DiscourseConnective> la crise des marchés financiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9658" docOffset="62">
+      <en>There are still far too many differences in the individual Member States <Alignment alignment="10599" annotation_id="9731">
+          <DiscourseConnective annotation_id="9731" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the harmonisation undertaken is a step in the right direction.</en>
+      <fr>Il reste trop de différences entre les États membres, <Alignment alignment="9629" annotation_id="11057">
+          <DiscourseConnective annotation_id="11057" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'harmonisation entreprise est un pas dans la bonne direction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9798" docOffset="63">
+      <en>The crisis on the financial markets, <Alignment alignment="43029" annotation_id="9835">
+          <DiscourseConnective annotation_id="9835" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> can be seen from this example, is <Alignment alignment="11194" annotation_id="9872">
+          <DiscourseConnective annotation_id="9872" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> an opportunity for communication on the part of the European Union and for permanent improvement to our European financial market system.</en>
+      <fr>
+        <Alignment alignment="13631" annotation_id="11123">
+          <DiscourseConnective annotation_id="11123" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> le montre cet exemple, la crise des marchés financiers constitue <Alignment alignment="9872" annotation_id="11194">
+          <DiscourseConnective annotation_id="11194" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> une occasion de communiquer <DiscourseConnective annotation_id="11232">pour</DiscourseConnective> l'Union européenne <DiscourseConnective annotation_id="11256">ainsi</DiscourseConnective> qu'une occasion d'améliorer notre système européen des marchés financiers de façon permanente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10015" docOffset="64">
+      <en>I say quite clearly that guaranteeing a settlement system that functions properly, especially on fast-moving markets, is essential to the stability of the financial markets and, in times such as these, is even more important.</en>
+      <fr>Je le dis clairement: garantir le fonctionnement correct du système de règlement est essentiel <DiscourseConnective annotation_id="11452">pour</DiscourseConnective> la stabilité des marchés financiers, <DiscourseConnective annotation_id="11494">surtout</DiscourseConnective> des marchés en évolution rapide <DiscourseConnective annotation_id="11534">et</DiscourseConnective> dans les moments tels <DiscourseConnective annotation_id="11559">que</DiscourseConnective> ceux que nous connaissons actuellement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10241" docOffset="65">
+      <en>For me, there are three important points.</en>
+      <fr>Je retiens trois points importants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10283" docOffset="66">
+      <en>Firstly, the coherent approach taken in these reports.</en>
+      <fr>Il y a <DiscourseConnective annotation_id="11646">tout d'abord</DiscourseConnective> l'approche cohérente adoptée par ces rapports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10338" docOffset="67">
+      <en>Secondly, I support the simplification and easing in the application of both directives.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11706">Deuxièmement</DiscourseConnective>, je soutiens l'application plus simple <DiscourseConnective annotation_id="11758">et</DiscourseConnective> plus aisée de ces deux directives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10427" docOffset="68">
+      <en>Thirdly, I shall take account of the results of this report and this directive in my own report on the Capital Requirements Directive, <Alignment alignment="10985" annotation_id="10562">
+          <Alignment alignment="11966" annotation_id="10562">
+            <DiscourseConnective annotation_id="10562" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> they contribute towards a comprehensive report and allow a coherent approach.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11796">Troisièmement</DiscourseConnective>, je vais tenir compte des résultats de ce rapport <DiscourseConnective annotation_id="11860">et</DiscourseConnective> de cette directive dans mon propre rapport consacré à la directive sur les exigences de fonds propres, <Alignment alignment="10562" annotation_id="11966">
+          <Alignment alignment="10562" annotation_id="11966">
+            <DiscourseConnective annotation_id="11966" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> ces différents éléments contribuent à un rapport complet <DiscourseConnective annotation_id="12032">et</DiscourseConnective> permettent une approche cohérente.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10648" id="514" language="FR" name="Pervenche Berès">
+    <ParallelChunk annotation_id="10648" docOffset="69">
+      <en>Mr President, Commissioner, Mrs Kauppi, please allow me, on behalf of the Socialist Group in the European Parliament, to add to the positive comments that have already been made.</en>
+      <fr>au nom du groupe PSE. - Monsieur le Président, bonsoir Monsieur le Commissaire, Madame la Rapporteure, permettez-moi, au nom du groupe socialiste, de m'associer aux paroles aimables qui vous ont <DiscourseConnective annotation_id="12265">déjà</DiscourseConnective> été adressées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10827" docOffset="70">
+      <en>It is true that, <Alignment alignment="3047" annotation_id="10844">
+          <DiscourseConnective annotation_id="10844" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> negotiating with you, we always know where we are.</en>
+      <fr>Il est vrai <DiscourseConnective annotation_id="12297">que</DiscourseConnective> <Alignment alignment="10844" annotation_id="12301">
+          <DiscourseConnective annotation_id="12301" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>on négocie avec vous, on sait où on va.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10900" docOffset="71">
+      <en>You have your opinions <Alignment alignment="13439" annotation_id="10923">
+          <DiscourseConnective annotation_id="10923" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> at least, <DiscourseConnective annotation_id="10937" sense="Temporal.Synchrony">when</DiscourseConnective> negotiating with you, everything is very black and white.</en>
+      <fr>Vous aviez vos positions <Alignment alignment="8458" annotation_id="12373">
+          <DiscourseConnective annotation_id="12373" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> avec vous, dans la négociation, noir c'est noir <DiscourseConnective annotation_id="12426">et</DiscourseConnective> blanc c'est blanc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11000" docOffset="72">
+      <en>In the end, we knew exactly where we were and could <DiscourseConnective annotation_id="11052" sense="Contingency.Cause.Result">therefore</DiscourseConnective> make progress.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12448">À</DiscourseConnective> la fin, nous savions exactement où nous en étions <DiscourseConnective annotation_id="12500">et</DiscourseConnective> nous pouvions progresser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11077" docOffset="73">
+      <en>You again demonstrated your capacity to work with everyone.</en>
+      <fr>Vous avez à nouveau fait preuve de cette capacité d'élaboration collective.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11137" docOffset="74">
+      <en>In my opinion, this is a particular feature of this Parliament's intelligence.</en>
+      <fr>C'est, je crois, le propre de l'intelligence de ce Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11216" docOffset="75">
+      <en>In this specific report, this is what allowed you, <Alignment alignment="11912" annotation_id="11267">
+          <DiscourseConnective annotation_id="11267" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we all wanted from the start, to arrive at an agreement at first reading.</en>
+      <fr>Dans ce dossier, c'est ce qui vous a permis, <Alignment alignment="2424" annotation_id="12712">
+          <DiscourseConnective annotation_id="12712" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous l'avions tous souhaité au départ, d'aboutir <DiscourseConnective annotation_id="12767">à</DiscourseConnective> un accord <DiscourseConnective annotation_id="12779">en</DiscourseConnective> première lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11344" docOffset="76">
+      <en>At heart this report concerns an issue on which the Commission is sadly lacking.</en>
+      <fr>Sur le fond, ce dossier concerne un sujet où, <DiscourseConnective annotation_id="12846">malheureusement</DiscourseConnective>, la Commission est en carence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11425" docOffset="77">
+      <en>This is the post-market issue on which, following adoption of the Markets in Financial Instruments Directive, we would have liked the Commission to come forward with weightier proposals for organising, structuring, supervising and regulating the market, known as the post-market.</en>
+      <fr>C'est tout le dossier du post-marché où, à la suite de l'adoption du texte de la directive MIF, nous aurions souhaité que la Commission vienne avec des propositions plus fortes <DiscourseConnective annotation_id="13070">pour</DiscourseConnective> organiser, structurer, superviser, réguler le marché, ce que l'on appelle le post-marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11705" docOffset="78">
+      <en>This report is a very small, very legal and very technical building block, which is useful, <Alignment alignment="26473" annotation_id="11797">
+          <DiscourseConnective annotation_id="11797" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it cannot hide the enormous task before us, on which we are still awaiting proposals from the Commission.</en>
+      <fr>Ici, il <DiscourseConnective annotation_id="13173">s'</DiscourseConnective>agit d'une toute petite pierre, très juridique, très technique, qui est utile, <Alignment alignment="3925" annotation_id="13254">
+          <DiscourseConnective annotation_id="13254" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cette petite pierre ne doit pas cacher l'immense chantier qui est devant nous et sur lequel nous attendons toujours des propositions de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11907" docOffset="79">
+      <en>The results of what the Commission wanted to start with the code of conduct are very limited.</en>
+      <fr>Les résultats de ce que la Commission a voulu initier avec le code de conduite sont très faibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12001" docOffset="80">
+      <en>We are now awaiting the assessment of this <Alignment alignment="13547" annotation_id="12044">
+          <DiscourseConnective annotation_id="12044" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we are quite disappointed, just like a number of stakeholders in the market who can clearly see that self-regulation is not enough in this area.</en>
+      <fr>Nous en attendons aujourd'hui le bilan <Alignment alignment="11911" annotation_id="13547">
+          <DiscourseConnective annotation_id="13547" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous en sommes relativement déçus, <DiscourseConnective annotation_id="13585">de même qu'</DiscourseConnective>un certain nombre d'acteurs du marché qui voient <DiscourseConnective annotation_id="13645">bien que</DiscourseConnective>, dans ce domaine, l'autorégulation n'est pas suffisante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12193" docOffset="81">
+      <en>Two main difficulties emerged in the specific and very precise text that we have before us today.</en>
+      <fr>Dans le texte concret <DiscourseConnective annotation_id="13733">et</DiscourseConnective> très précis dont nous sommes aujourd'hui saisis, deux difficultés principales sont apparues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12291" docOffset="82">
+      <en>The first was to decide whether the European Central Bank should be given specific powers in this measure.</en>
+      <fr>La première était de savoir <DiscourseConnective annotation_id="13857">si</DiscourseConnective> la Banque centrale européenne devait, dans ce dispositif, être dotée de pouvoirs spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12398" docOffset="83">
+      <en>I believe that useful suggestions were made.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="13963">que</DiscourseConnective> des ponts ont été dessinés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12443" docOffset="84">
+      <en>
+        <Alignment alignment="13995" annotation_id="12443">
+          <DiscourseConnective annotation_id="12443" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the Council did not want to go beyond the current situation <Alignment alignment="20365" annotation_id="12512">
+          <DiscourseConnective annotation_id="12512" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, due to our wisdom and sense of responsibility, we accepted this compromise.</en>
+      <fr>
+        <Alignment alignment="12443" annotation_id="13995">
+          <DiscourseConnective annotation_id="13995" sense="Comparison.Contrast">Pour autant</DiscourseConnective>
+        </Alignment>, le Conseil ne souhaitait pas aller au-delà de la situation actuelle <Alignment alignment="12512" annotation_id="14076">
+          <DiscourseConnective annotation_id="14076" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, avec notre sagesse, avec notre sens des responsabilités, nous avons accepté ce compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12593" docOffset="85">
+      <en>This <DiscourseConnective annotation_id="12598" sense="Contingency.Cause.Result">therefore</DiscourseConnective> led to the balanced proposal that is now on the table <Alignment alignment="16206" annotation_id="12662">
+          <DiscourseConnective annotation_id="12662" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that we must acknowledge.</en>
+      <fr>Cela correspond <DiscourseConnective annotation_id="14186">au point d'</DiscourseConnective>équilibre qui est aujourd'hui sur la table <Alignment alignment="12662" annotation_id="14240">
+          <DiscourseConnective annotation_id="14240" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14243">que</DiscourseConnective> nous devions reconnaître.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12692" docOffset="86">
+      <en>The second important element was to ensure that the way in which the systems linked together did not in itself create autonomous systems. Once again, the position adopted by Parliament is a reasonable position which allows this link to be ensured without, <Alignment alignment="14553" annotation_id="12948">
+          <DiscourseConnective annotation_id="12948" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, giving it an autonomy that we did not want to create through this text.</en>
+      <fr>Le deuxième élément important, c'était de vérifier <DiscourseConnective annotation_id="14324">que</DiscourseConnective> la façon dont les systèmes s'interconnectaient ne créait pas <DiscourseConnective annotation_id="14389">en</DiscourseConnective> soi des systèmes autonomes et, là <DiscourseConnective annotation_id="14426">encore</DiscourseConnective>, la position <DiscourseConnective annotation_id="14446">que</DiscourseConnective> le Parlement a soutenue est une position raisonnable qui permet de sécuriser cette interconnexion <DiscourseConnective annotation_id="14548">sans</DiscourseConnective> <Alignment alignment="12948" annotation_id="14553">
+          <DiscourseConnective annotation_id="14553" sense="Comparison.Contrast">pour autant</DiscourseConnective>
+        </Alignment> lui donner une autonomie <DiscourseConnective annotation_id="14590">que</DiscourseConnective> nous ne souhaitions pas, <DiscourseConnective annotation_id="14619">à</DiscourseConnective> l'occasion de ce texte, mettre en place.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13029" docOffset="87">
+      <en>There are obviously still many issues to be tackled <Alignment alignment="47504" annotation_id="13081">
+          <DiscourseConnective annotation_id="13081" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that the Commission, through its monopoly on initiative in this area, will shoulder its responsibilities.</en>
+      <fr>Il reste évidemment beaucoup de sujets <DiscourseConnective annotation_id="14701">à</DiscourseConnective> traiter <Alignment alignment="13081" annotation_id="14711">
+          <DiscourseConnective annotation_id="14711" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="14723">que</DiscourseConnective> la Commission, grâce au monopole d'initiative qui est le sien dans ce domaine, exercera ses responsabilités.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13198" id="515" language="LT" name="Margarita Starkevičiūtė">
+    <ParallelChunk annotation_id="13198" docOffset="88">
+      <en>The document presented only appears technical.</en>
+      <fr>Le document qui nous est présenté n'est pas seulement technique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13245" docOffset="89">
+      <en>In truth it ensures the functioning of a safe securities settlement system, which is important for many people who are members of pension funds, insurance schemes or investment schemes.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14901">En réalité</DiscourseConnective>, il permettra le fonctionnement d'un système sûr de règlement des opérations sur titre - un élément important <DiscourseConnective annotation_id="15022">pour</DiscourseConnective> de nombreuses personnes qui souscrivent à des fonds de pension, des régimes d'assurance <DiscourseConnective annotation_id="15115">ou</DiscourseConnective> des fonds d'investissement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13431" docOffset="90">
+      <en>The rapporteur's document is excellently prepared, <Alignment alignment="15211" annotation_id="13482">
+          <DiscourseConnective annotation_id="13482" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> are all of her documents.</en>
+      <fr>Le document de la rapporteure a été élaboré de façon excellente, <Alignment alignment="13482" annotation_id="15211">
+          <DiscourseConnective annotation_id="15211" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> tous ses documents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13511" docOffset="91">
+      <en>I am very pleased that I had the honour of working with her in the preparation of many financial documents <Alignment alignment="14098" annotation_id="13618">
+          <DiscourseConnective annotation_id="13618" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am very sorry that today is her last day in the European Parliament.</en>
+      <fr>Je me réjouis d'avoir eu l'honneur de travailler avec elle dans la préparation de nombreux instruments financiers, <Alignment alignment="13618" annotation_id="15352">
+          <DiscourseConnective annotation_id="15352" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je regrette <DiscourseConnective annotation_id="15367">que</DiscourseConnective> ceci <DiscourseConnective annotation_id="15376">soit</DiscourseConnective> son dernier jour au sein du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13693" docOffset="92">
+      <en>We - the Group of the Alliance of Liberals and Democrats for Europe - can agree with this document, <DiscourseConnective annotation_id="13793" sense="Temporal.Synchrony">as</DiscourseConnective> our position is reflected in it.</en>
+      <fr>Le groupe de l'Alliance des Libéraux <DiscourseConnective annotation_id="15466">et</DiscourseConnective> des Démocrates <DiscourseConnective annotation_id="15484">pour</DiscourseConnective> l'Europe soutient ce document, qui reflète notre position.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13829" docOffset="93">
+      <en>What is that position?</en>
+      <fr>Quelle est cette position?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13852" docOffset="94">
+      <en>Firstly, we believe that the European Union's common market of securities settlement must be expanded, <DiscourseConnective annotation_id="13955" sense="Temporal.Synchrony">as</DiscourseConnective> it is very fragmented.</en>
+      <fr>Nous pensons <DiscourseConnective annotation_id="15588">tout d'abord</DiscourseConnective> <DiscourseConnective annotation_id="15601">qu'</DiscourseConnective>il faut élargir le marché commun de règlement des opérations sur titre de l'Union européenne, qui est actuellement très fragmenté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13981" docOffset="95">
+      <en>We do not, <Alignment alignment="15754" annotation_id="13992">
+          <DiscourseConnective annotation_id="13992" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, want to see the establishment of a monopoly; <Alignment alignment="15795" annotation_id="14046">
+          <DiscourseConnective annotation_id="14046" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> we believe that in the report presented, conditions have been created to flexibly form a cooperation agreement for various systems and to introduce new links.</en>
+      <fr>Nous ne souhaitons <Alignment alignment="13992" annotation_id="15754">
+          <DiscourseConnective annotation_id="15754" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> pas la création d'un monopole. <Alignment alignment="3676" annotation_id="15795">
+          <DiscourseConnective annotation_id="15795" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> nous pensons <DiscourseConnective annotation_id="15823">que</DiscourseConnective> le rapport présenté crée les conditions nécessaires <DiscourseConnective annotation_id="15879">pour</DiscourseConnective> instaurer un accord de coopération souple entre différents systèmes <DiscourseConnective annotation_id="15952">et</DiscourseConnective> <DiscourseConnective annotation_id="15955">pour</DiscourseConnective> établir de nouveaux liens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14215" docOffset="96">
+      <en>On financial collateral arrangements, we thought it very important that procedures be simplified and made clearer and that, in insolvency and various critical cases, it should be easier to resolve disagreements over property <DiscourseConnective annotation_id="14440" sense="Expansion.Conjunction">and</DiscourseConnective> that all conditions should be clearer.</en>
+      <fr>En ce qui concerne les contrats de garantie financière, il nous a semblé important de simplifier <DiscourseConnective annotation_id="16084">et</DiscourseConnective> de clarifier les procédures, de faciliter la résolution des désaccords relatifs à la propriété dans différentes situations critiques telles que l'insolvabilité <DiscourseConnective annotation_id="16247">et</DiscourseConnective> de clarifier toutes les conditions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14483" docOffset="97">
+      <en>It seems that this goal has <Alignment alignment="16321" annotation_id="14511">
+          <DiscourseConnective annotation_id="14511" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> been achieved.</en>
+      <fr>Il semble <DiscourseConnective annotation_id="16296">que</DiscourseConnective> cet objectif ait lui <Alignment alignment="6158" annotation_id="16321">
+          <DiscourseConnective annotation_id="16321" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> été atteint.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14531" docOffset="98">
+      <en>Like the other rapporteurs, I am sorry that it has not been possible to solve the problem with the settlement systems established by the European Central Bank.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16340">Tout comme</DiscourseConnective> les autres rapporteurs, je regrette <DiscourseConnective annotation_id="16387">qu'</DiscourseConnective>il n'ait pas été possible de résoudre le problème relatif aux systèmes de règlement mis en place par la Banque centrale européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14691" docOffset="99">
+      <en>I would very much like to urge the Commission to prepare a compromise proposal on this matter as quickly as possible, <Alignment alignment="45829" annotation_id="14809">
+          <DiscourseConnective annotation_id="14809" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the European Central Bank will have to devote more and more attention to the functioning of such systems <DiscourseConnective annotation_id="14922" sense="Expansion.Conjunction">and</DiscourseConnective> the question of their maintenance should be resolved, which is perhaps what is stopping the expansion of these regulations to existing systems under the influence of the European Central Bank.</en>
+      <fr>Je voudrais demander à la Commission de préparer une proposition de compromis sur cette question le plus rapidement possible, <Alignment alignment="14973" annotation_id="16648">
+          <DiscourseConnective annotation_id="16648" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> la Banque centrale européenne va devoir consacrer une attention toujours plus importante au fonctionnement de ces systèmes. La question de leur maintenance doit être résolue, et c'est peut-être ce qui bloque l'élargissement de ces règlementations aux systèmes existants sous le contrôle de la Banque centrale européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15119" id="516" name="Dragoş Florin David">
+    <ParallelChunk annotation_id="15119" docOffset="100">
+      <en>(RO) I would like to congratulate the rapporteur, Piia-Noora Kauppi, for her report concerning the directive on financial collateral arrangements, which contains three major amendments to the current directive.</en>
+      <fr>Je voudrais remercier la rapporteure Piia-Noora Kauppi <DiscourseConnective annotation_id="17034">pour</DiscourseConnective> son rapport concernant la directive sur les contrats de garantie financière, qui contient trois modifications majeures de la directive actuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15330" docOffset="101">
+      <en>These are the exclusion from the directive's scope of application of credit agreements for consumers and small businesses; the introduction of a sunset clause of five years with regard to the right of Member States to require notification or registration, <Alignment alignment="26210" annotation_id="15586">
+          <DiscourseConnective annotation_id="15586" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> last but not least, the widening of the directive's scope of application by proposing its extension to include inter-bank loans as eligible collateral, instead of just central bank loans <DiscourseConnective annotation_id="15777" sense="Temporal.Synchrony">as</DiscourseConnective> the original proposal suggested.</en>
+      <fr>Ces trois amendements sont les suivants: l'exclusion du champ d'application de la directive des contrats de crédit destinés aux petites entreprises <DiscourseConnective annotation_id="17332">et</DiscourseConnective> aux consommateurs, l'adoption d'une clause d'extinction de cinq ans <DiscourseConnective annotation_id="17403">en</DiscourseConnective> ce qui concerne le droit des États membres d'exiger la notification <DiscourseConnective annotation_id="17474">ou</DiscourseConnective> l'enregistrement, <Alignment alignment="15586" annotation_id="17495">
+          <DiscourseConnective annotation_id="17495" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, dernier point <DiscourseConnective annotation_id="17513">mais</DiscourseConnective> non des moindres, l'élargissement du champ d'application de la directive par la proposition d'inclure les prêts interbancaires dans les garanties admissibles, <DiscourseConnective annotation_id="17677">au lieu</DiscourseConnective> des seuls prêts accordés par les banques centrales comme le suggérait la proposition originale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15813" docOffset="102">
+      <en>I believe that the amendments tabled comply with the European provisions in this area, which is one reason why I support the adoption of this report.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="17790">que</DiscourseConnective> les amendements déposés respectent les dispositions européennes dans ce domaine, et c'est <DiscourseConnective annotation_id="17884">notamment</DiscourseConnective> pour cette raison que je soutiens l'adoption de ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15963" docOffset="103">
+      <en>I would like to conclude by thanking Mrs Kauppi for all her hard work in the European Parliament <Alignment alignment="18083" annotation_id="16060">
+          <DiscourseConnective annotation_id="16060" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wish her every success in her new venture.</en>
+      <fr>Je voudrais, <DiscourseConnective annotation_id="17967">pour conclure</DiscourseConnective>, remercier Mme Kauppi <DiscourseConnective annotation_id="18003">pour</DiscourseConnective> tout le travail difficile qu'elle a accompli au sein du Parlement européen <Alignment alignment="16060" annotation_id="18083">
+          <DiscourseConnective annotation_id="18083" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> lui souhaiter un maximum de réussite dans ses nouvelles activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16109" docOffset="104">
+      <en>Thank you.</en>
+      <fr>Merci.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16120" id="517" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="16120" docOffset="105">
+      <en>(CS) I would like to thank you, Mrs Kauppi, for your work, professionalism and dedication in negotiating a compromise over the proposed directive, which will undoubtedly help to stabilise the financial markets.</en>
+      <fr>(CS) Madame Kauppi, je voudrais vous remercier de votre travail, votre professionnalisme <DiscourseConnective annotation_id="18249">et</DiscourseConnective> votre dévouement <DiscourseConnective annotation_id="18269">à</DiscourseConnective> négocier un compromis concernant cette proposition de directive, qui contribuera sans aucun doute <DiscourseConnective annotation_id="18369">à</DiscourseConnective> stabiliser les marchés financiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16331" docOffset="106">
+      <en>I congratulate Mrs Kauppi for achieving an agreement at first reading.</en>
+      <fr>Je félicite Mme Kauppi d'être parvenue à un accord <DiscourseConnective annotation_id="18457">en</DiscourseConnective> première lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16402" docOffset="107">
+      <en>I would <Alignment alignment="45706" annotation_id="16410">
+          <DiscourseConnective annotation_id="16410" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank her today for all of her work in the European Parliament, not just for the 20 <DiscourseConnective annotation_id="16507" sense="Expansion.Alternative">or</DiscourseConnective> so reports, which have included topics such as cultivating good practice in the banking sector, <Alignment alignment="18755" annotation_id="16606">
+          <DiscourseConnective annotation_id="16606" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> the codex mentioned earlier.</en>
+      <fr>Je voudrais <Alignment alignment="16410" annotation_id="18490">
+          <DiscourseConnective annotation_id="18490" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la remercier aujourd'hui de tout le travail qu'elle a accompli au sein du Parlement européen, et pas seulement <DiscourseConnective annotation_id="18611">pour</DiscourseConnective> la vingtaine de rapports qu'elle a rédigés et qui couvrent des sujets tels <DiscourseConnective annotation_id="18691">que</DiscourseConnective> la promotion des bonnes pratiques dans le secteur bancaire, <Alignment alignment="16606" annotation_id="18755">
+          <DiscourseConnective annotation_id="18755" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> le code mentionné précédemment.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16647" docOffset="108">
+      <en>
+        <Alignment alignment="16794" annotation_id="16647">
+          <DiscourseConnective annotation_id="16647" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, Piia Kauppi has <Alignment alignment="14284" annotation_id="16672">
+          <DiscourseConnective annotation_id="16672" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> shown her professionalism in discussions over many other reports.</en>
+      <fr>
+        <Alignment alignment="16647" annotation_id="18799">
+          <DiscourseConnective annotation_id="18799" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> Piia Kauppi a <Alignment alignment="16672" annotation_id="18818">
+          <DiscourseConnective annotation_id="18818" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> montré son professionnalisme dans les discussions consacrées à de nombreux autres rapports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16743" docOffset="109">
+      <en>I appreciate very much the stance she is taking in our joint struggle against software patenting at a time <DiscourseConnective annotation_id="16850" sense="Temporal.Synchrony">when</DiscourseConnective> the European Union has no European patent.</en>
+      <fr>J'apprécie grandement la position qu'elle a adoptée dans notre combat commun contre le brevetage de logiciels, <DiscourseConnective annotation_id="19031">à</DiscourseConnective> un moment où l'Union européenne n'a pas encore institué le brevet européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16898" docOffset="110">
+      <en>We will feel her absence <Alignment alignment="34384" annotation_id="16923">
+          <DiscourseConnective annotation_id="16923" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> we perhaps negotiate this patent some time in the future.</en>
+      <fr>Nous ressentirons son absence <Alignment alignment="7022" annotation_id="19139">
+          <DiscourseConnective annotation_id="19139" sense="Temporal.Asynchronous.Precedence">jusqu'au moment où</DiscourseConnective>
+        </Alignment> nous parviendrons, peut-être, à négocier ce brevet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16987" docOffset="111">
+      <en>Thank you for your cooperation.</en>
+      <fr>Merci de votre coopération.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17019" id="518" name="Charlie McCreevy">
+    <ParallelChunk annotation_id="17019" docOffset="112">
+      <en>Member of the Commission. - Mr President, I would like to thank everybody for contributing to the debate <Alignment alignment="15057" annotation_id="17124">
+          <DiscourseConnective annotation_id="17124" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="19484" annotation_id="17129">
+          <DiscourseConnective annotation_id="17129" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I said in my earlier statement, I wholeheartedly welcome Parliament's report.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, je voudrais remercier tous ceux qui ont participé <DiscourseConnective annotation_id="19343">à</DiscourseConnective> ce débat <Alignment alignment="8078" annotation_id="19354">
+          <DiscourseConnective annotation_id="19354" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="17129" annotation_id="19358">
+          <DiscourseConnective annotation_id="19358" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je l'ai dit précédemment dans ma déclaration, je salue de tout cœur le rapport du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17210" docOffset="113">
+      <en>The directives on settlement finality and financial collateral are the two cornerstones of the post-trading environment, <Alignment alignment="45649" annotation_id="17331">
+          <DiscourseConnective annotation_id="17331" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there is no doubt that the current amendments represent very substantial progress.</en>
+      <fr>Les directives sur le caractère définitif des règlements <DiscourseConnective annotation_id="19523">et</DiscourseConnective> sur les garanties financières sont les deux pierres angulaires de l'environnement post-marché, <Alignment alignment="9350" annotation_id="19621">
+          <DiscourseConnective annotation_id="19621" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il est certain <DiscourseConnective annotation_id="19639">que</DiscourseConnective> les amendements proposés représentent un progrès considérable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17418" docOffset="114">
+      <en>The Commission supported the ECB's request to designate systems directly to the Commission, <Alignment alignment="26412" annotation_id="17510">
+          <DiscourseConnective annotation_id="17510" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> there is insufficient support at present in the Council.</en>
+      <fr>La Commission a soutenu la demande de la BCE de pouvoir désigner des systèmes directement <DiscourseConnective annotation_id="19796">à</DiscourseConnective> la Commission, <Alignment alignment="12689" annotation_id="19813">
+          <DiscourseConnective annotation_id="19813" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cette proposition ne bénéficie actuellement pas d'un soutien suffisant au sein du Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17571" docOffset="115">
+      <en>
+        <Alignment alignment="23461" annotation_id="17571">
+          <DiscourseConnective annotation_id="17571" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is something that we will come back to and look at again in the near future.</en>
+      <fr>
+        <Alignment alignment="6962" annotation_id="19909">
+          <DiscourseConnective annotation_id="19909" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> c'est une question sur laquelle nous reviendrons dans un avenir proche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17660" docOffset="116">
+      <en>Again, I express my best wishes to Ms Kauppi.</en>
+      <fr>Je remercie une fois <DiscourseConnective annotation_id="20007">de plus</DiscourseConnective> Mme Kauppi.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17706" id="519" name="Piia-Noora Kauppi">
+    <ParallelChunk annotation_id="17706" docOffset="117">
+      <en>rapporteur. - Mr President, I would like to thank my colleagues for their kind words and <DiscourseConnective annotation_id="17795" sense="Expansion.Conjunction">also</DiscourseConnective> the Commissioner for his cooperation over the years.</en>
+      <fr>rapporteure. - (EN) Monsieur le Président, je tiens <DiscourseConnective annotation_id="20079">à</DiscourseConnective> remercier mes collègues de leurs paroles aimables <DiscourseConnective annotation_id="20131">ainsi</DiscourseConnective> que M. le commissaire <DiscourseConnective annotation_id="20159">pour</DiscourseConnective> sa collaboration au fil des années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17853" docOffset="118">
+      <en>I would like to make a couple of political points, firstly about the code of conduct for clearing and settlement.</en>
+      <fr>Je voudrais faire quelques remarques d'ordre politique, en commençant par le code de conduite en matière de compensation <DiscourseConnective annotation_id="20321">et</DiscourseConnective> de règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17967" docOffset="119">
+      <en>I do not think the time is right to make the final judgement on the delivery of the code.</en>
+      <fr>Je ne pense pas que le moment <DiscourseConnective annotation_id="20368">soit</DiscourseConnective> bien choisi <DiscourseConnective annotation_id="20385">pour</DiscourseConnective> rendre un verdict définitif sur la mise en place de ce code.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18057" docOffset="120">
+      <en>This has been one of the reasons why some of the market participants have been against the development of links and interoperability.</en>
+      <fr>C'est l'une des raisons pour lesquelles certains opérateurs du marché se sont opposés au développement de liens <DiscourseConnective annotation_id="20563">et</DiscourseConnective> à l'interopérabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18191" docOffset="121">
+      <en>They say that there are problems in settlement finality and also with the coordination of different rules.</en>
+      <fr>Ils disent <DiscourseConnective annotation_id="20599">qu'</DiscourseConnective>il reste des problèmes concernant le caractère définitif des règlements <DiscourseConnective annotation_id="20674">et</DiscourseConnective> la coordination des différentes règles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18298" docOffset="122">
+      <en>I think that <Alignment alignment="20730" annotation_id="18311">
+          <DiscourseConnective annotation_id="18311" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we now accept this directive it will make it easier for market participants to accept links and interoperability with their systems.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="20726">que</DiscourseConnective> <Alignment alignment="18311" annotation_id="20730">
+          <DiscourseConnective annotation_id="20730" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous aurons adopté cette directive, les opérateurs du marché accepteront plus facilement les liens <DiscourseConnective annotation_id="20837">et</DiscourseConnective> l'interopérabilité avec leurs systèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18449" docOffset="123">
+      <en>The second issue concerns the ECB.</en>
+      <fr>Le deuxième point concerne la BCE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18484" docOffset="124">
+      <en>I think that we can cooperate more with the Commission, especially in creating a Community approach to different topics.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="20924">que</DiscourseConnective> nous pouvons coopérer davantage avec la Commission, <DiscourseConnective annotation_id="20980">notamment</DiscourseConnective> <DiscourseConnective annotation_id="20990">pour</DiscourseConnective> créer une approche communautaire de différents sujets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18605" docOffset="125">
+      <en>We already have a practical development which leads to Community systems, <Alignment alignment="21129" annotation_id="18679">
+          <DiscourseConnective annotation_id="18679" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the ECB has been creating network-based systems which do not operate under any particular Member State law.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="21061">déjà</DiscourseConnective> une évolution pratique qui mène <DiscourseConnective annotation_id="21098">à</DiscourseConnective> des systèmes communautaires, <Alignment alignment="18679" annotation_id="21129">
+          <DiscourseConnective annotation_id="21129" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la BCE a commencé à créer des systèmes en réseau qui ne sont régis par les lois d'aucun État membre <DiscourseConnective annotation_id="21232">en particulier</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18791" docOffset="126">
+      <en>It would be stupid not to take this everyday practical development on board <Alignment alignment="21330" annotation_id="18867">
+          <DiscourseConnective annotation_id="18867" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we are trying to update European laws.</en>
+      <fr>Il serait stupide de ne pas tenir compte de cette évolution pratique quotidienne, <Alignment alignment="18867" annotation_id="21330">
+          <DiscourseConnective annotation_id="21330" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> nous tentons de mettre à jour la législation européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18911" docOffset="127">
+      <en>
+        <Alignment alignment="21411" annotation_id="18911">
+          <DiscourseConnective annotation_id="18911" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> I am very happy that the Commission will be taking a look at this issue.</en>
+      <fr>Je me réjouis <Alignment alignment="16466" annotation_id="21411">
+          <DiscourseConnective annotation_id="21411" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="21416">que</DiscourseConnective> la Commission ait l'intention de se pencher sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18987" docOffset="128">
+      <en>Perhaps the time will be right during the next parliamentary term to make these ECB-established systems part of the Settlement Finality Directive.</en>
+      <fr>Peut-être qu'au cours de la prochaine législature, l'heure viendra d'intégrer ces systèmes créés par la BCE à la directive sur le caractère définitif des règlements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19134" docOffset="129">
+      <en>Finally, concerning the Hague Convention, we have seen how difficult it is to agree on details <DiscourseConnective annotation_id="19229" sense="Temporal.Synchrony">when</DiscourseConnective> this has to be done through European Community directives.</en>
+      <fr>
+        <DiscourseConnective annotation_id="21650">Enfin</DiscourseConnective>, en ce qui concerne la Convention de La Haye, nous avons vu à quel point il était difficile de nous mettre d'accord sur les détails dans le cadre de directives européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19293" docOffset="130">
+      <en>It is very important to go forward with the Hague Convention and with the negotiations on different private law issues.</en>
+      <fr>Il est très important de faire avancer la Convention de La Haye <DiscourseConnective annotation_id="21893">et</DiscourseConnective> les négociations relatives aux différentes questions de droit privé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19413" docOffset="131">
+      <en>It was particularly difficult to try to find a compromise on moments of entry and moments of revocation.</en>
+      <fr>Il a été particulièrement difficile de parvenir <DiscourseConnective annotation_id="22013">à</DiscourseConnective> un compromis sur les moments d'introduction <DiscourseConnective annotation_id="22059">et</DiscourseConnective> de révocation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19518" docOffset="132">
+      <en>These are very small items, <Alignment alignment="22107" annotation_id="19546">
+          <DiscourseConnective annotation_id="19546" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I think that the Commission is <Alignment alignment="22146" annotation_id="19581">
+          <DiscourseConnective annotation_id="19581" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> moving ahead on those important topics, maybe during the next term.</en>
+      <fr>Il <DiscourseConnective annotation_id="22080">s'</DiscourseConnective>agit d'éléments mineurs, <Alignment alignment="4984" annotation_id="22107">
+          <DiscourseConnective annotation_id="22107" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="22121">que</DiscourseConnective> la Commission avance <Alignment alignment="9989" annotation_id="22146">
+          <DiscourseConnective annotation_id="22146" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> sur ces sujets importants, peut-être <DiscourseConnective annotation_id="22189">pour</DiscourseConnective> la prochaine législature.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19654" id="520" name="President">
+    <ParallelChunk annotation_id="19654" docOffset="133">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19676" docOffset="134">
+      <en>The vote will take place on Thursday.</en>
+      <fr>Le vote aura lieu jeudi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

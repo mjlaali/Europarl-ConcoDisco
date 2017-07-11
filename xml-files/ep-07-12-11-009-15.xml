@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>15.</en>
+    <fr>15.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Green Paper: Diplomatic and consular protection of Union citizens (vote)</en>
+    <fr>Livre vert: la protection diplomatique <DiscourseConnective annotation_id="43">et</DiscourseConnective> consulaire du citoyen de l'Union dans les pays tiers (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="77" docOffset="2">
+    <en>- Report: Ioannis Varvitsiotis</en>
+    <fr>- Rapport: Ioannis Varvitsiotis</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="108" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="140">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="127" id="117" name="Ioannis Varvitsiotis">
+    <ParallelChunk annotation_id="127" docOffset="4">
+      <en>rapporteur. - (EL) Madam President, I feel I must thank the three shadow rapporteurs, Mrs Kaufmann, Mr Moreno Sánchez and Mr Guardans Cambó, for the close and extensive cooperation we have had, and all the Members of the Commission for accepting my arguments.</en>
+      <fr>rapporteur. - (EL) Madame la Présidente, je me dois de remercier les trois rapporteurs fictifs, Mme Kaufmann, M. Moreno Sánchez <DiscourseConnective annotation_id="283">et</DiscourseConnective> M. Guardans Cambó, <DiscourseConnective annotation_id="305">pour</DiscourseConnective> la coopération étroite <DiscourseConnective annotation_id="333">et</DiscourseConnective> étendue que nous avons menée, <DiscourseConnective annotation_id="366">ainsi</DiscourseConnective> que tous les membres de la commission <DiscourseConnective annotation_id="410">pour</DiscourseConnective> avoir accepté mes arguments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="387" docOffset="5">
+      <en>The large majority by which the Commission accepted my report shows that the Member States must lay aside their petty objections and take action soon, <Alignment alignment="122" annotation_id="538">
+          <Alignment alignment="611" annotation_id="538">
+            <DiscourseConnective annotation_id="538" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> this Green Paper can become a reality, a legislative instrument which will help all the citizens of the Union.</en>
+      <fr>La large majorité par laquelle la Commission a accepté mon rapport montre <DiscourseConnective annotation_id="518">que</DiscourseConnective> les États membres doivent mettre de côté leurs objections mineures <DiscourseConnective annotation_id="589">et</DiscourseConnective> agir au plus vite, <Alignment alignment="538" annotation_id="611">
+          <Alignment alignment="538" annotation_id="611">
+            <DiscourseConnective annotation_id="611" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> ce Livre vert puisse devenir une réalité, un instrument législatif apte à aider tous les citoyens de l'Union.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

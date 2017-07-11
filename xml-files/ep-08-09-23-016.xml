@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Proceedings before the Court of Justice (Amendment of Rule 121) (debate)</en>
+    <fr>Modification de l'article 121 du règlement du Parlement européen (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="73" id="436" name="President">
+    <ParallelChunk annotation_id="73" docOffset="1">
+      <en>The next item is the report by Costas Botopoulos, on behalf of the Committee on Constitutional Affairs, on amendment of Rule 121 of Parliament's Rules of Procedure.</en>
+      <fr>L'ordre du jour appelle le rapport de Costas Botopoulos, au nom de la commission des affaires constitutionnelles, sur la modification de l'article 121 du règlement du Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="238" id="437" language="EL" name="Costas Botopoulos">
+    <ParallelChunk annotation_id="238" docOffset="2">
+      <en>Mr President, the draft report we are discussing today concerns the amendment to Rule 121 of the Rules of Procedure of the European Parliament regarding proceedings before the European Court of Justice.</en>
+      <fr>Monsieur le Président, le projet de rapport que nous débattons aujourd'hui concerne la modification de l'article 121 du règlement du Parlement européen concernant les recours devant la Cour de justice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="441" docOffset="3">
+      <en>
+        <DiscourseConnective annotation_id="441" sense="Temporal.Synchrony">As</DiscourseConnective> the Rule stands, it regulates such proceedings only in cases where the European Parliament brings an action before the Court.</en>
+      <fr>Dans sa forme actuelle, l'article ne s'applique que <DiscourseConnective annotation_id="514">lorsque</DiscourseConnective> le Parlement engage une action judiciaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="570" docOffset="4">
+      <en>
+        <Alignment alignment="565" annotation_id="570">
+          <DiscourseConnective annotation_id="570" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the text does not tell us what happens <Alignment alignment="16527" annotation_id="618">
+          <DiscourseConnective annotation_id="618" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> Parliament decides to state its views through its representative, the President, by submitting observations or intervening in prejudicial proceedings.</en>
+      <fr>
+        <Alignment alignment="570" annotation_id="565">
+          <DiscourseConnective annotation_id="565" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, le texte ne nous dit pas ce qui se passe <Alignment alignment="618" annotation_id="617">
+          <DiscourseConnective annotation_id="617" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> le Parlement décide d'exposer ses positions via son représentant, le président, qui dépose des observations <DiscourseConnective annotation_id="733">ou</DiscourseConnective> intervient dans le cadre des procédures préjudicielles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="774" docOffset="5">
+      <en>These proceedings serve to contest the validity of a legislative act that the European Parliament itself has approved within the framework of the co-decision procedure.</en>
+      <fr>Ces procédures servent <DiscourseConnective annotation_id="815">à</DiscourseConnective> contester la validité d'un acte législatif <DiscourseConnective annotation_id="860">que</DiscourseConnective> le Parlement européen lui-même a approuvé au titre de la procédure de codécision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="943" docOffset="6">
+      <en>A question has <Alignment alignment="961" annotation_id="958">
+          <DiscourseConnective annotation_id="958" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> been put by the Chairman of the Committee on Legal Affairs, Mr Gargani, whom I would like to take this opportunity to thank for his help in preparing this report.</en>
+      <fr>Une question a <Alignment alignment="3824" annotation_id="961">
+          <DiscourseConnective annotation_id="961" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> été présentée par le président de la commission des affaires juridiques, M. Gargani - <DiscourseConnective annotation_id="1056">et</DiscourseConnective> je voudrais profiter de cette occasion <DiscourseConnective annotation_id="1098">pour</DiscourseConnective> le remercier de l'aide qu'il a apportée <DiscourseConnective annotation_id="1143">à</DiscourseConnective> la préparation de ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1131" docOffset="7">
+      <en>He asks whether this procedure of intervention and submission of comments is covered by Rule 121, <Alignment alignment="1282" annotation_id="1229">
+          <DiscourseConnective annotation_id="1229" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> if not, what we should do.</en>
+      <fr>Il a demandé <DiscourseConnective annotation_id="1188">si</DiscourseConnective> la procédure d'intervention <DiscourseConnective annotation_id="1219">et</DiscourseConnective> de dépôt des observations était couverte par l'article 121, <Alignment alignment="1229" annotation_id="1282">
+          <DiscourseConnective annotation_id="1282" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1285">si</DiscourseConnective> ce n'était pas le cas, ce que nous devrions faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1260" docOffset="8">
+      <en>The first answer I give in my report is that one procedure cannot be considered to be included in the other; that the word 'action', used in Rule 121, cannot be considered to include the qualitatively different case of submission of comments or intervention in Court.</en>
+      <fr>La première réponse que je donne dans mon rapport est <DiscourseConnective annotation_id="1393">qu'</DiscourseConnective>une procédure ne peut être considérée comme incluse dans l'autre; <DiscourseConnective annotation_id="1462">que</DiscourseConnective> le mot anglais "action", utilisé dans l'article 121, ne peut être considéré comme englobant le concept qualitativement différent de dépôt des commentaires <DiscourseConnective annotation_id="1621">ou</DiscourseConnective> d'intervention devant la Cour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1528" docOffset="9">
+      <en>On this basis, the first answer is that we cannot proceed merely on the basis of interpretation.</en>
+      <fr>Sur cette base, la première réponse est <DiscourseConnective annotation_id="1695">que</DiscourseConnective> nous ne pouvons pas continuer sur la simple base de l'interprétation de l'article.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1625" docOffset="10">
+      <en>Can we stick to the Parliamentary practice whereby the decision in such cases lies with the President of Parliament, as our head and representative in court cases?</en>
+      <fr>Pouvons-nous maintenir la pratique parlementaire où la décision dans ces cas incombe au président du Parlement, en qualité de chef <DiscourseConnective annotation_id="1913">et</DiscourseConnective> représentant du Parlement dans des recours devant la Cour?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1789" docOffset="11">
+      <en>Once again, I think the answer is no.</en>
+      <fr>Une fois <DiscourseConnective annotation_id="1984">encore</DiscourseConnective>, je pense que la réponse est non.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1827" docOffset="12">
+      <en>A more reliable course of action is to work out a new procedure in detail.</en>
+      <fr>Une marche <DiscourseConnective annotation_id="2036">à</DiscourseConnective> suivre plus sûre consiste <DiscourseConnective annotation_id="2064">à</DiscourseConnective> rédiger <DiscourseConnective annotation_id="2074">en</DiscourseConnective> détail une nouvelle procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1902" docOffset="13">
+      <en>Why, <DiscourseConnective annotation_id="1907" sense="Comparison.Contrast">though</DiscourseConnective>, is this really so?</en>
+      <fr>Pourquoi, réellement?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1934" docOffset="14">
+      <en>
+        <DiscourseConnective annotation_id="1934" sense="Contingency.Cause.Reason">Because</DiscourseConnective> there have in practice been occasions <DiscourseConnective annotation_id="1980" sense="Temporal.Synchrony">when</DiscourseConnective> the President of Parliament has decided not to follow the recommendation of the Committee on Legal Affairs.</en>
+      <fr>Il y a eu, dans la pratique, des cas où le président du Parlement a décidé de ne pas suivre la recommandation de la commission des affaires juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2093" docOffset="15">
+      <en>This is <Alignment alignment="2292" annotation_id="2101">
+          <DiscourseConnective annotation_id="2101" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it is a matter of defending the validity of a prior decision of Parliament before the Court.</en>
+      <fr>Il s'agit <Alignment alignment="2101" annotation_id="2292">
+          <DiscourseConnective annotation_id="2292" sense="Temporal.Synchrony">alors</DiscourseConnective>
+        </Alignment> d'une question de défense de la validité d'une décision antérieure du Parlement devant la Cour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2199" docOffset="16">
+      <en>This has happened twice in Parliament's recent history.</en>
+      <fr>Cela s'est produit deux fois dans l'histoire récente du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2255" docOffset="17">
+      <en>We have grounds for saying that we should work out the procedure from scratch.</en>
+      <fr>Nous avons des motifs de croire <DiscourseConnective annotation_id="2493">que</DiscourseConnective> nous devrions revoir complètement la procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2334" docOffset="18">
+      <en>What solution is proposed?</en>
+      <fr>Quelle est la solution proposée?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2361" docOffset="19">
+      <en>Following a recommendation by the Committee on Legal Affairs, the President, <Alignment alignment="14958" annotation_id="2438">
+          <DiscourseConnective annotation_id="2438" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> he agrees, submits his comments.</en>
+      <fr>Suite à une recommandation de la commission des affaires juridiques, le président, <Alignment alignment="2438" annotation_id="2661">
+          <DiscourseConnective annotation_id="2661" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il décide de la suivre, dépose ses observations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2474" docOffset="20">
+      <en>
+        <Alignment alignment="14792" annotation_id="2474">
+          <DiscourseConnective annotation_id="2474" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> he does not agree, he settles the matter after discussion in the Conference of Presidents.</en>
+      <fr>
+        <Alignment alignment="2474" annotation_id="2712">
+          <DiscourseConnective annotation_id="2712" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il décide de ne pas la suivre, il règle la question <DiscourseConnective annotation_id="2766">après</DiscourseConnective> discussion <DiscourseConnective annotation_id="2783">en</DiscourseConnective> Conférence des présidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2568" docOffset="21">
+      <en>Why the Conference of Presidents?</en>
+      <fr>Pourquoi la Conférence des présidents?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2602" docOffset="22">
+      <en>
+        <Alignment alignment="2852" annotation_id="2602">
+          <DiscourseConnective annotation_id="2602" sense="Contingency.Cause.Reason">Because</DiscourseConnective>
+        </Alignment> it is a collective body that can reach decisions with due regard to the pros and cons in each case.</en>
+      <fr>
+        <Alignment alignment="2602" annotation_id="2852">
+          <DiscourseConnective annotation_id="2852" sense="Contingency.Cause.Reason">Parce qu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="2864">s'</DiscourseConnective>agit d'un organe collectif qui est à même de se prononcer sur chaque cas après avoir pris connaissance des différents points de vue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2710" docOffset="23">
+      <en>Only in cases where the Conference of Presidents decides that, for exceptional reasons (revision of the Treaties, <Alignment alignment="3115" annotation_id="2824">
+          <DiscourseConnective annotation_id="2824" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>), Parliament should not protect its previous position, only in such cases is the matter referred to Plenary, <Alignment alignment="3276" annotation_id="2945">
+          <DiscourseConnective annotation_id="2945" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> Plenary alone is in a position to amend a previous decision it has reached.</en>
+      <fr>Ce n'est <DiscourseConnective annotation_id="3008">que si</DiscourseConnective> la Conférence des présidents décide <DiscourseConnective annotation_id="3051">que</DiscourseConnective>, <DiscourseConnective annotation_id="3056">pour</DiscourseConnective> des raisons exceptionnelles (la révision des traités, <Alignment alignment="6300" annotation_id="3115">
+          <DiscourseConnective annotation_id="3115" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>), il n'y a pas lieu que le Parlement défende sa position précédente, et dans ces cas uniquement, que la question est soumise <DiscourseConnective annotation_id="3252">à</DiscourseConnective> l'assemblée plénière, <Alignment alignment="2945" annotation_id="3276">
+          <DiscourseConnective annotation_id="3276" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> elle est la seule à <DiscourseConnective annotation_id="3300">même</DiscourseConnective> de modifier une décision qu'elle a prise antérieurement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3029" id="438" language="EL" name="Georgios Papastamkos">
+    <ParallelChunk annotation_id="3029" docOffset="24">
+      <en>Mr President, as rapporteur - of the Group of the European People's Party (Christian Democrats) and European Democrats, that is - I wish to say that tonight we are discussing an issue that concerns the organisational autonomy and sovereignty of the European Parliament.</en>
+      <fr>Monsieur le Président, en qualité de rapporteur - du groupe du Parti populaire européen (démocrates-chrétiens) <DiscourseConnective annotation_id="3473">et</DiscourseConnective> des démocrates européens -, je voudrais <DiscourseConnective annotation_id="3516">dire que</DiscourseConnective> nous débattons ce soir une question qui concerne l'autonomie <DiscourseConnective annotation_id="3586">et</DiscourseConnective> la souveraineté organisationnelles du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3299" docOffset="25">
+      <en>The Rules of Procedure of the European Parliament form a regulatory nexus based on the long-term validity of individual provisions. By this, I do not mean provisions that are applicable pending an amendment, but those with regulatory durability and robustness.</en>
+      <fr>Le règlement du Parlement européen constitue un lien réglementaire fondé sur la validité à long terme de dispositions individuelles, et je parle ici de celles qui ont une durabilité <DiscourseConnective annotation_id="3829">et</DiscourseConnective> une solidité réglementaires, pas de celles qui sont applicables dans l'attente d'un amendement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3560" docOffset="26">
+      <en>I shall not mention the more specific aspects of the dispute settlement procedure described in the text of the amendment - Mr Botopoulos has in any case covered this aspect accurately and thoroughly.</en>
+      <fr>Je ne mentionnerai pas les aspects plus spécifiques de la procédure de règlement des litiges décrits dans le texte de l'amendement - M. Botopoulos a couvert cet aspect de manière précise <DiscourseConnective annotation_id="4115">et</DiscourseConnective> exhaustive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3760" docOffset="27">
+      <en>The text of the amendment proposed by the rapporteur is the outcome of conciliation between the PPE-DE Group and the Socialist Group in the European Parliament.</en>
+      <fr>Le texte de l'amendement proposé par le rapporteur est le <DiscourseConnective annotation_id="4188">résultat</DiscourseConnective> de la conciliation entre le groupe PPE-DE <DiscourseConnective annotation_id="4239">et</DiscourseConnective> le groupe socialiste au Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3921" docOffset="28">
+      <en>The paragraph added to the existing text of Rule 121 of the Rules of Procedure of the European Parliament deals with a potential difference of opinion between the President of Parliament and the Committee on Legal Affairs on a decision concerning submitting comments and interventions by Parliament during proceedings before the Court of Justice.</en>
+      <fr>Le paragraphe ajouté au texte existant de l'article 121 du règlement du Parlement européen concerne une éventuelle divergence de vues entre le président du Parlement <DiscourseConnective annotation_id="4452">et</DiscourseConnective> la commission des affaires juridiques sur une décision concernant le dépôt d'observations par le Parlement dans le cadre de recours devant la Cour de justice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4268" docOffset="29">
+      <en>Until now, there has not been a clear, explicit provision on such cases in the Rules of Procedure, and the amendment we are discussing serves to close this legal loophole and this regulatory gap in the internal workings of Parliament.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4614">Jusqu'à</DiscourseConnective> présent, le règlement ne contenait pas de disposition claire et explicite sur ces cas, <DiscourseConnective annotation_id="4709">et</DiscourseConnective> l'amendement que nous débattons sert <DiscourseConnective annotation_id="4749">à</DiscourseConnective> combler cette faille juridique <DiscourseConnective annotation_id="4782">et</DiscourseConnective> cette lacune réglementaire dans les travaux internes du Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4503" id="439" name="Maria da Assunção Esteves">
+    <ParallelChunk annotation_id="4503" docOffset="30">
+      <en>(PT) Mr President, the European Parliament is represented before the Court by its President and, in controversial cases, the President first consults the plenary.</en>
+      <fr>(PT) Monsieur le Président, le Parlement européen est représenté devant de la Cour par son président <DiscourseConnective annotation_id="4953">et</DiscourseConnective>, dans des cas controversés, le président consulte au préalable l'assemblée plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4666" docOffset="31">
+      <en>This is what happens with proceedings.</en>
+      <fr>Telle est la procédure <DiscourseConnective annotation_id="5064">pour</DiscourseConnective> les recours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4705" docOffset="32">
+      <en>The new report extends this system to other procedural acts where the President represents Parliament and, in controversial situations, consults the plenary.</en>
+      <fr>Le nouveau rapport étend ce système <DiscourseConnective annotation_id="5118">à</DiscourseConnective> d'autres actes procéduraux où le président représente le Parlement <DiscourseConnective annotation_id="5187">et</DiscourseConnective>, dans des situations controversées, où il consulte l'assemblée plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4863" docOffset="33">
+      <en>Yet there is something new in the report in the way it brings in the Conference of Presidents as an intermediary decision-making body between the President and the plenary.</en>
+      <fr>Il y a <DiscourseConnective annotation_id="5270">pourtant</DiscourseConnective> quelque chose de nouveau dans le rapport dans la manière dont il introduit la Conférence des présidents <DiscourseConnective annotation_id="5383">comme</DiscourseConnective> organe décisionnel intermédiaire entre le président <DiscourseConnective annotation_id="5441">et</DiscourseConnective> l'assemblée plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5036" docOffset="34">
+      <en>This solution is not problematic in itself, yet it would be good to take this opportunity to stress that the European Parliament must never lose sight of the traditional parliamentary principle of concentrating all final decision-making power in the plenary.</en>
+      <fr>La solution ne pose pas un problème <DiscourseConnective annotation_id="5502">en</DiscourseConnective> soi, <DiscourseConnective annotation_id="5510">mais</DiscourseConnective> il serait toutefois bon de profiter de cette occasion <DiscourseConnective annotation_id="5569">pour</DiscourseConnective> souligner <DiscourseConnective annotation_id="5584">que</DiscourseConnective> le Parlement européen ne doit jamais oublier le principe parlementaire traditionnel de concentration de tous les pouvoirs de décision finale dans l'assemblée plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5295" docOffset="35">
+      <en>The plenary is sovereign in all things, <Alignment alignment="22327" annotation_id="5335">
+          <DiscourseConnective annotation_id="5335" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it embodies the legitimacy arising from the ethics of representation.</en>
+      <fr>L'assemblée plénière est souveraine <DiscourseConnective annotation_id="5792">en</DiscourseConnective> toute chose, <Alignment alignment="5335" annotation_id="5808">
+          <DiscourseConnective annotation_id="5808" sense="Temporal.Synchrony">étant donné qu'</DiscourseConnective>
+        </Alignment>elle personnifie la légitimité découlant de l'éthique de la représentation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5408" docOffset="36">
+      <en>It is true that institutions that govern complex and broad areas, <Alignment alignment="15492" annotation_id="5474">
+          <DiscourseConnective annotation_id="5474" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the European Parliament does, often cannot avoid the temptation to surround their own democratic power with red tape.</en>
+      <fr>Il est vrai <DiscourseConnective annotation_id="5911">que</DiscourseConnective> les institutions qui administrent des questions vastes <DiscourseConnective annotation_id="5970">et</DiscourseConnective> complexes, <Alignment alignment="5474" annotation_id="5984">
+          <DiscourseConnective annotation_id="5984" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> c'est le cas du Parlement européen, sont souvent incapables de ne pas succomber à la tentation d'entourer leur propre pouvoir démocratique de bureaucratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5595" docOffset="37">
+      <en>This temptation is often impossible to avoid, <Alignment alignment="19906" annotation_id="5641">
+          <DiscourseConnective annotation_id="5641" sense="Comparison.Contrast">yet</DiscourseConnective>
+        </Alignment> the fact remains that we have to steer clear of wrapping democracy in too much red tape, <Alignment alignment="6303" annotation_id="5734">
+          <DiscourseConnective annotation_id="5734" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the efficacy of good governance must never mean losing the space for politics, still less abdicating space for politics to quasi-administrative forms such as committees and, sometimes, conferences.</en>
+      <fr>Il est souvent impossible de ne pas succomber à cette tentation, <Alignment alignment="5641" annotation_id="6211">
+          <DiscourseConnective annotation_id="6211" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="6216">le fait est que</DiscourseConnective> nous devons éviter d'emballer la démocratie dans trop de bureaucratie, <Alignment alignment="5734" annotation_id="6303">
+          <DiscourseConnective annotation_id="6303" sense="Temporal.Synchrony">étant donné que</DiscourseConnective>
+        </Alignment> l'efficacité de la bonne gouvernance ne doit jamais impliquer la perte d'espace <DiscourseConnective annotation_id="6399">pour</DiscourseConnective> les politiques, <DiscourseConnective annotation_id="6420">et encore</DiscourseConnective> moins l'abdication d'espace <DiscourseConnective annotation_id="6458">pour</DiscourseConnective> des politiques au profit de formes quasi administratives, telles <DiscourseConnective annotation_id="6528">que</DiscourseConnective> les commissions <DiscourseConnective annotation_id="6548">et</DiscourseConnective>, parfois, les conférences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5935" docOffset="38">
+      <en>This is <Alignment alignment="18254" annotation_id="5943">
+          <DiscourseConnective annotation_id="5943" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, to borrow Mirabeau's expression, these are not a real 'cross-section of the population'.</en>
+      <fr>La raison est <Alignment alignment="5943" annotation_id="6592">
+          <DiscourseConnective annotation_id="6592" sense="Contingency.Cause.Reason">que</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="6597">pour</DiscourseConnective> reprendre l'expression de Mirabeau, elles ne constituent pas un véritable "échantillon représentatif de la population".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6041" id="440" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="6041" docOffset="39">
+      <en>(CS) The amendment of the Rules of Procedure may appear to be just a technical matter, <Alignment alignment="21027" annotation_id="6128">
+          <DiscourseConnective annotation_id="6128" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> in reality it involves strengthening or weakening their democratic legitimacy.</en>
+      <fr>(CS) L'amendement au règlement peut sembler être une simple question technique <Alignment alignment="6128" annotation_id="6801">
+          <DiscourseConnective annotation_id="6801" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il implique <DiscourseConnective annotation_id="6818">en réalité</DiscourseConnective> le renforcement <DiscourseConnective annotation_id="6845">ou</DiscourseConnective> l'affaiblissement de sa légitimité démocratique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6211" docOffset="40">
+      <en>The two precedents, in which the Presidents did not have to follow the recommendations of Parliament's Committee on Legal Affairs, have revealed a gap in our Rules.</en>
+      <fr>Deux précédents, où les présidents n'ont pas suivi la recommandation de la commission des affaires juridiques du Parlement, ont démontré une lacune dans notre règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6376" docOffset="41">
+      <en>I will support the amended version of Rule 121, which will ensure that in such cases the President shall submit the matter to the Conference of Presidents and then to plenary.</en>
+      <fr>Je soutiens la version modifiée de l'article 121, qui garantira <DiscourseConnective annotation_id="7131">que</DiscourseConnective> dans ce genre de situations, le président saisira la Conférence des présidents <DiscourseConnective annotation_id="7214">et</DiscourseConnective> l'assemblée plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6552" docOffset="42">
+      <en>
+        <Alignment alignment="7239" annotation_id="6552">
+          <DiscourseConnective annotation_id="6552" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I believe that the President should present and defend his position before the Committee on Legal Affairs rather than before the chairmen of the other committees.</en>
+      <fr>
+        <Alignment alignment="10981" annotation_id="7239">
+          <DiscourseConnective annotation_id="7239" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, je pense <DiscourseConnective annotation_id="7259">que</DiscourseConnective> le président devrait présenter <DiscourseConnective annotation_id="7294">et</DiscourseConnective> défendre sa position devant la commission des affaires juridiques <DiscourseConnective annotation_id="7363">plutôt que</DiscourseConnective> devant les présidents des autres commissions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6724" docOffset="43">
+      <en>It is a pity that there is no mention in the amendment of the possibility of a group of Members suggesting a third alternative to plenary, <DiscourseConnective annotation_id="6863" sense="Expansion.Alternative">or</DiscourseConnective> whether plenary only has the choice of accepting or rejecting the alternative submission by the President or the Conference of Presidents.</en>
+      <fr>Il est regrettable <DiscourseConnective annotation_id="7439">que</DiscourseConnective> l'amendement ne mentionne pas la possibilité qu'un groupe de députés suggère une troisième alternative <DiscourseConnective annotation_id="7546">à</DiscourseConnective> l'assemblée plénière, ni <DiscourseConnective annotation_id="7573">si</DiscourseConnective> l'assemblée plénière n'a d'autre choix que d'accepter <DiscourseConnective annotation_id="7630">ou</DiscourseConnective> de refuser le dépôt alternatif par le président <DiscourseConnective annotation_id="7681">ou</DiscourseConnective> la Conférence des présidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7005" docOffset="44">
+      <en>We are dealing here with a new precedent, which will only be tested in the future.</en>
+      <fr>Nous parlons ici d'un nouveau précédent, qui ne sera testé qu'à l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7088" docOffset="45">
+      <en>I do not think that this is about bureaucracy, but about democracy.</en>
+      <fr>Je ne pense pas <DiscourseConnective annotation_id="7804">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="7810">s'</DiscourseConnective>agisse de bureaucratie, <DiscourseConnective annotation_id="7836">mais</DiscourseConnective> de démocratie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7156" id="441" name="Íñigo Méndez de Vigo">
+    <ParallelChunk annotation_id="7156" docOffset="46">
+      <en>(ES) Normally, <Alignment alignment="17937" annotation_id="7171">
+          <DiscourseConnective annotation_id="7171" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the opposing parliamentary group comes to the aid of the rapporteur, who is from another group, the rapporteur should be concerned.</en>
+      <fr>(ES) Normalement, <Alignment alignment="7171" annotation_id="7874">
+          <DiscourseConnective annotation_id="7874" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> les groupes parlementaires de l'opposition viennent en aide au rapporteur, qui est membre d'un autre groupe, le rapporteur devrait être inquiet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7308" docOffset="47">
+      <en>This is the night of the Group of the European People's Party (Christian Democrats) and European Democrats. Four members of the PPE-DE Group speaking in the debate on the Botopoulos report!</en>
+      <fr>C'est la soirée du groupe du Parti populaire européen (démocrates-chrétiens) <DiscourseConnective annotation_id="8104">et</DiscourseConnective> des démocrates européens: quatre députés du groupe PPE-DE qui prennent la parole lors du débat sur le rapport Botopoulos!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7498" docOffset="48">
+      <en>What is most surprising, Mr President, is that we are here to applaud the proposal made by Mr Botopoulos, <Alignment alignment="14463" annotation_id="7604">
+          <DiscourseConnective annotation_id="7604" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we think that it is a good proposal, a consensus proposal, a proposal which, I can announce, will have the approval and political support of my Group.</en>
+      <fr>Ce qui est le plus surprenant, Monsieur le Président, c'est <DiscourseConnective annotation_id="8289">que</DiscourseConnective> nous sommes ici <DiscourseConnective annotation_id="8309">pour</DiscourseConnective> saluer la proposition de M. Botopoulos, <Alignment alignment="5573" annotation_id="8354">
+          <DiscourseConnective annotation_id="8354" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous pensons <DiscourseConnective annotation_id="8371">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="8377">s'</DiscourseConnective>agit d'une bonne proposition, d'une proposition de consensus, d'une proposition qui, je peux le dire, bénéficiera de l'approbation <DiscourseConnective annotation_id="8510">et</DiscourseConnective> du soutien politique de mon groupe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7763" docOffset="49">
+      <en>Parliamentary life is an expression of life in general, it is a life that changes, a life that we need to react to.</en>
+      <fr>La vie parlementaire est une expression de la vie <DiscourseConnective annotation_id="8599">en</DiscourseConnective> général, c'est une vie qui change, une vie à laquelle nous devons réagir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7879" docOffset="50">
+      <en>
+        <Alignment alignment="8676" annotation_id="7879">
+          <DiscourseConnective annotation_id="7879" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, in response to an interpretation of the Rules of Procedure as to whether a specific article included the possibility of Parliament making observations in proceedings, Mr Botopoulos has clarified the issue by making a positive proposal, which is what life requires.</en>
+      <fr>
+        <Alignment alignment="7879" annotation_id="8676">
+          <DiscourseConnective annotation_id="8676" sense="Contingency.Cause.Result">En conséquence</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="8692">en</DiscourseConnective> réponse <DiscourseConnective annotation_id="8703">à</DiscourseConnective> une interprétation du règlement concernant le fait <DiscourseConnective annotation_id="8756">qu'</DiscourseConnective>un article spécifique englobe la possibilité que le Parlement dépose des observations dans le cadre de recours, M. Botopoulos a clarifié la question <DiscourseConnective annotation_id="8908">en</DiscourseConnective> faisant une proposition positive, qui est ce dont la vie a besoin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8155" docOffset="51">
+      <en>
+        <Alignment alignment="4142" annotation_id="8155">
+          <DiscourseConnective annotation_id="8155" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, Mr President, my congratulations to this young MEP, for whom I predict great success in Parliament, and the support of my group, Mr President, for this reform.</en>
+      <fr>
+        <Alignment alignment="8155" annotation_id="8978">
+          <DiscourseConnective annotation_id="8978" sense="Contingency.Cause.Result">En conséquence</DiscourseConnective>
+        </Alignment>, Monsieur le Président, je félicite ce jeune député, auquel je prédis un grand succès au Parlement, <DiscourseConnective annotation_id="9093">et</DiscourseConnective> j'annonce le soutien de mon groupe <DiscourseConnective annotation_id="9131">à</DiscourseConnective> cette réforme.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8326" id="443" language="EL" name="Costas Botopoulos">
+    <ParallelChunk annotation_id="8326" docOffset="52">
+      <en>Mr President, may I first of all thank the speakers, and please allow me <Alignment alignment="9234" annotation_id="8399">
+          <DiscourseConnective annotation_id="8399" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> to thank my fellow Members who helped me a great deal in this, my first report, which, <Alignment alignment="9363" annotation_id="8491">
+          <DiscourseConnective annotation_id="8491" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr Méndez de Vigo said, will hopefully not be the last.</en>
+      <fr>Monsieur le Président, je voudrais <DiscourseConnective annotation_id="9183">tout d'abord</DiscourseConnective> remercier les orateurs. Permettez-moi <Alignment alignment="8399" annotation_id="9234">
+          <DiscourseConnective annotation_id="9234" sense="Expansion.Conjunction">ensuite</DiscourseConnective>
+        </Alignment> de remercier mes collègues qui m'ont énormément aidé <DiscourseConnective annotation_id="9295">pour</DiscourseConnective> mon rapport, le premier dont je suis l'auteur et, espérons-le, <Alignment alignment="8491" annotation_id="9363">
+          <DiscourseConnective annotation_id="9363" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a dit M. Méndez de Vigo, pas le dernier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8550" docOffset="53">
+      <en>I have some very brief comments on what has been said.</en>
+      <fr>J'ai quelques brèves remarques sur ce qui a été dit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8605" docOffset="54">
+      <en>Mr Papastamkos is right to say that the report is the outcome of conciliation, <Alignment alignment="17619" annotation_id="8684">
+          <DiscourseConnective annotation_id="8684" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> that is what actually happened.</en>
+      <fr>M. Papastamkos a raison de <DiscourseConnective annotation_id="9492">dire que</DiscourseConnective> le rapport résulte d'une conciliation, <Alignment alignment="8684" annotation_id="9540">
+          <DiscourseConnective annotation_id="9540" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> c'est ce qui s'est réellement produit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8724" docOffset="55">
+      <en>
+        <Alignment alignment="9583" annotation_id="8724">
+          <DiscourseConnective annotation_id="8724" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is the outcome of conciliation between political groups in the best sense of the term.</en>
+      <fr>
+        <Alignment alignment="4635" annotation_id="9583">
+          <DiscourseConnective annotation_id="9583" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, il résulte de la conciliation entre les groupes politiques dans le meilleur sens du terme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8823" docOffset="56">
+      <en>
+        <Alignment alignment="25015" annotation_id="8823">
+          <Alignment alignment="3249" annotation_id="8823">
+            <Alignment alignment="9685" annotation_id="8823">
+              <DiscourseConnective annotation_id="8823" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, it is not the lowest common denominator, but represents the common ground we have been able to agree on and what I think are more reasonable and democratic solutions.</en>
+      <fr>
+        <Alignment alignment="141" annotation_id="9685">
+          <Alignment alignment="7009" annotation_id="9685">
+            <Alignment alignment="8823" annotation_id="9685">
+              <DiscourseConnective annotation_id="9685" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, il ne <DiscourseConnective annotation_id="9711">s'</DiscourseConnective>agit pas du plus petit dénominateur commun, <DiscourseConnective annotation_id="9757">mais</DiscourseConnective> il représente la raison commune sur laquelle nous avons pu nous mettre d'accord et les solutions qui sont, selon moi, les plus raisonnables <DiscourseConnective annotation_id="9902">et</DiscourseConnective> démocratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9006" docOffset="57">
+      <en>I believe this resolution is democratic precisely <Alignment alignment="19279" annotation_id="9056">
+          <DiscourseConnective annotation_id="9056" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it allows proceedings to develop in the most appropriate way.</en>
+      <fr>Je pense que cette résolution est démocratique <DiscourseConnective annotation_id="9967">précisément</DiscourseConnective> <Alignment alignment="9056" annotation_id="9979">
+          <DiscourseConnective annotation_id="9979" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle permet aux recours de se développer de la manière la plus appropriée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9126" docOffset="58">
+      <en>Mrs Esteves has quite rightly said that we should not make excessive use of plenary sittings.</en>
+      <fr>Mme Esteves a déclaré, à juste titre, <DiscourseConnective annotation_id="10101">que</DiscourseConnective> nous ne devrions pas utiliser à l'excès les assemblées plénières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9220" docOffset="59">
+      <en>How true!</en>
+      <fr>Il a tout à fait raison!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9230" docOffset="60">
+      <en>For this reason the logic here is that we should go to plenary only <Alignment alignment="24403" annotation_id="9298">
+          <DiscourseConnective annotation_id="9298" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> absolutely necessary; <Alignment alignment="3688" annotation_id="9325">
+          <Alignment alignment="10323" annotation_id="9325">
+            <Alignment alignment="10323" annotation_id="9325">
+              <DiscourseConnective annotation_id="9325" sense="Expansion.Restatement">in other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, only <Alignment alignment="10353" annotation_id="9346">
+          <DiscourseConnective annotation_id="9346" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it is necessary to amend a decision already taken by Parliament.</en>
+      <fr>C'est <DiscourseConnective annotation_id="10202">pour</DiscourseConnective> cela qu'il serait logique ici <DiscourseConnective annotation_id="10237">que</DiscourseConnective> nous ne saisissions l'assemblée plénière <DiscourseConnective annotation_id="10282">que</DiscourseConnective> <Alignment alignment="9298" annotation_id="10286">
+          <DiscourseConnective annotation_id="10286" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> c'est absolument nécessaire; <Alignment alignment="9325" annotation_id="10323">
+          <Alignment alignment="9325" annotation_id="10323">
+            <Alignment alignment="9325" annotation_id="10323">
+              <DiscourseConnective annotation_id="10323" sense="Expansion.Restatement">en d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, seulement <Alignment alignment="9346" annotation_id="10353">
+          <DiscourseConnective annotation_id="10353" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il est nécessaire de modifier une décision <DiscourseConnective annotation_id="10403">déjà</DiscourseConnective> adoptée par le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9416" docOffset="61">
+      <en>Mrs Roithová <Alignment alignment="16488" annotation_id="9429">
+          <DiscourseConnective annotation_id="9429" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> quite rightly pointed out that the role of the Committee on Legal Affairs is important; it is exercised in accordance with the way the regulation is formulated.</en>
+      <fr>Mme Roithová a <Alignment alignment="9429" annotation_id="10449">
+          <DiscourseConnective annotation_id="10449" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souligné à juste titre <DiscourseConnective annotation_id="10482">que</DiscourseConnective> le rôle de la commission des affaires juridiques est important; il est exercé conformément à la manière dont la réglementation est formulée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9595" docOffset="62">
+      <en>
+        <Alignment alignment="10627" annotation_id="9595">
+          <Alignment alignment="10627" annotation_id="9595">
+            <Alignment alignment="5101" annotation_id="9595">
+              <DiscourseConnective annotation_id="9595" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, the Committee on Legal Affairs is heard at the beginning, in the middle and at the end of proceedings.</en>
+      <fr>
+        <Alignment alignment="9595" annotation_id="10627">
+          <Alignment alignment="9595" annotation_id="10627">
+            <Alignment alignment="9595" annotation_id="10627">
+              <DiscourseConnective annotation_id="10627" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, la commission des affaires juridiques est entendue au début, au milieu <DiscourseConnective annotation_id="10718">et</DiscourseConnective> <DiscourseConnective annotation_id="10721">à</DiscourseConnective> la fin du recours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9714" docOffset="63">
+      <en>Let me say here, <Alignment alignment="6712" annotation_id="9731">
+          <DiscourseConnective annotation_id="9731" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I did not do so the first time, that <DiscourseConnective annotation_id="9772" sense="Temporal.Synchrony">when</DiscourseConnective> in exceptional cases the Committee on Legal Affairs does not have time to give an opinion, the President alone may reach a decision.</en>
+      <fr>Permettez-moi de dire ici, <Alignment alignment="9731" annotation_id="10769">
+          <DiscourseConnective annotation_id="10769" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je ne l'ai pas fait la première fois, <DiscourseConnective annotation_id="10810">que</DiscourseConnective> dans les cas exceptionnels où la commission des affaires juridiques n'est pas en mesure de formuler sa recommandation dans les délais, le président peut prendre seul une décision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9910" docOffset="64">
+      <en>
+        <Alignment alignment="10994" annotation_id="9910">
+          <DiscourseConnective annotation_id="9910" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, in this case too, it is expressly stated, with an explanation, that the Committee on Legal Affairs should be allowed to submit its decision in whatever way it thinks fit.</en>
+      <fr>
+        <Alignment alignment="9910" annotation_id="10994">
+          <DiscourseConnective annotation_id="10994" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="11005">dans ce cas</DiscourseConnective> <DiscourseConnective annotation_id="11017">également</DiscourseConnective>, il est expressément précisé, avec une explication, <DiscourseConnective annotation_id="11079">que</DiscourseConnective> la commission des affaires juridiques devrait pouvoir présenter sa décision par tout moyen qu'elle juge approprié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10090" docOffset="65">
+      <en>Thank you all very much.</en>
+      <fr>Merci beaucoup!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10115" id="444" name="President">
+    <ParallelChunk annotation_id="10115" docOffset="66">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10137" docOffset="67">
+      <en>The vote will take place tomorrow.</en>
+      <fr>Le vote aura lieu demain mercredi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

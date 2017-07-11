@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Community action on the provision of cross-border health care (debate)</en>
+    <fr>Action de la Communauté concernant la prestation de soins de santé transfrontaliers (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="71" id="175" name="President">
+    <ParallelChunk annotation_id="71" docOffset="1">
+      <en>The next item is the debate on the oral question to the Commission on Community action on the provision of cross-border health care, by Karl-Heinz Florenz, on behalf of the Committee on the Environment, Public Health and Food Safety B6-0013/2007).</en>
+      <fr>L'ordre du jour appelle le débat sur la question orale posée par M. Florenz, au nom de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="234">et</DiscourseConnective> de la sécurité alimentaire, <DiscourseConnective annotation_id="265">à</DiscourseConnective> la Commission sur l'action de la Communauté concernant la prestation de soins de santé transfrontaliers (B6-0013/2007).</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="319" id="179" name="Markos Kyprianou">
+    <ParallelChunk annotation_id="319" docOffset="2">
+      <en>Member of the Commission. Mr President, I am not sure whether I can say that we have come a long way <Alignment alignment="512" annotation_id="420">
+          <DiscourseConnective annotation_id="420" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> we first discussed this issue, <Alignment alignment="580" annotation_id="457">
+          <DiscourseConnective annotation_id="457" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I can certainly say that we are on the right track.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, je ne suis pas certain de pouvoir affirmer <DiscourseConnective annotation_id="485">que</DiscourseConnective> nous avons bien avancé <Alignment alignment="420" annotation_id="512">
+          <DiscourseConnective annotation_id="512" sense="Contingency.Cause.Reason">depuis que</DiscourseConnective>
+        </Alignment> nous avons discuté pour la première fois cette question, <Alignment alignment="457" annotation_id="580">
+          <DiscourseConnective annotation_id="580" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je peux certainement <DiscourseConnective annotation_id="606">dire que</DiscourseConnective> nous sommes sur la bonne voie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="513" docOffset="3">
+      <en>You will remember that our first discussion on this issue was even before the final outcome of the Services Directive.</en>
+      <fr>Rappelez-vous <DiscourseConnective annotation_id="660">que</DiscourseConnective> notre première discussion sur cette question a eu lieu <DiscourseConnective annotation_id="719">avant même de</DiscourseConnective> connaître le <DiscourseConnective annotation_id="746">résultat</DiscourseConnective> définitif de la directive relative aux services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="632" docOffset="4">
+      <en>Parliament requested that a proposal on healthcare and health services should be brought forward <Alignment alignment="905" annotation_id="729">
+          <DiscourseConnective annotation_id="729" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I promised that, <Alignment alignment="12798" annotation_id="750">
+          <Alignment alignment="932" annotation_id="750">
+            <DiscourseConnective annotation_id="750" sense="Temporal.Asynchronous.Succession">as soon as</DiscourseConnective>
+          </Alignment>
+        </Alignment> the Services Directive was sorted out, I would do so.</en>
+      <fr>Le Parlement a demandé <DiscourseConnective annotation_id="827">que</DiscourseConnective> l'on présente une proposition en matière de soins <DiscourseConnective annotation_id="881">et</DiscourseConnective> de services de santé <Alignment alignment="729" annotation_id="905">
+          <DiscourseConnective annotation_id="905" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai promis de le faire <Alignment alignment="750" annotation_id="932">
+          <Alignment alignment="750" annotation_id="932">
+            <DiscourseConnective annotation_id="932" sense="Temporal.Asynchronous.Succession">dès que</DiscourseConnective>
+          </Alignment>
+        </Alignment> la directive sur les services serait au point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="815" docOffset="5">
+      <en>That is what I did last September in bringing forward this proposal.</en>
+      <fr>C'est ce que j'ai fait en septembre dernier, <DiscourseConnective annotation_id="1032">en</DiscourseConnective> soumettant la présente proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="884" docOffset="6">
+      <en>Many issues have been described already <Alignment alignment="1118" annotation_id="924">
+          <DiscourseConnective annotation_id="924" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I will try not to repeat them.</en>
+      <fr>De nombreuses questions ont <DiscourseConnective annotation_id="1099">déjà</DiscourseConnective> été discutées <Alignment alignment="924" annotation_id="1118">
+          <DiscourseConnective annotation_id="1118" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'essayerai de ne pas être exagérément répétitif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="959" docOffset="7">
+      <en>
+        <Alignment alignment="1171" annotation_id="959">
+          <DiscourseConnective annotation_id="959" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we tried to maintain, firstly, the special character of health, healthcare and health services in the European Union and to meet the challenge not only of achieving the social objectives, but also of benefiting from the internal market.</en>
+      <fr>
+        <Alignment alignment="959" annotation_id="1171">
+          <DiscourseConnective annotation_id="1171" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, nous avons essayé de conserver, <DiscourseConnective annotation_id="1214">tout d'abord</DiscourseConnective>, le caractère particulier de la santé, des soins <DiscourseConnective annotation_id="1276">et</DiscourseConnective> de la sécurité sociale de l'Union européenne <DiscourseConnective annotation_id="1324">et</DiscourseConnective> de relever le défi <DiscourseConnective annotation_id="1346">non seulement</DiscourseConnective> d'atteindre les objectifs sociaux, <DiscourseConnective annotation_id="1395">mais</DiscourseConnective> à <DiscourseConnective annotation_id="1402">également</DiscourseConnective> de tirer profit du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1205" docOffset="8">
+      <en>It is true that the Court set out the parameters and the rights in its judgment, <DiscourseConnective annotation_id="1286" sense="Comparison.Contrast">but</DiscourseConnective> I believe that those rights should be seen not as a problem, but as an opportunity <Alignment alignment="1638" annotation_id="1373">
+          <DiscourseConnective annotation_id="1373" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I tend to agree with that part of the motion for a resolution.</en>
+      <fr>Il est vrai <DiscourseConnective annotation_id="1461">que</DiscourseConnective> la Cour a déterminé les paramètres <DiscourseConnective annotation_id="1500">et</DiscourseConnective> les droits dans son arrêt. Je crois <DiscourseConnective annotation_id="1539">cependant qu'</DiscourseConnective>il ne faut pas considérer ces droits <DiscourseConnective annotation_id="1589">comme</DiscourseConnective> un problème, <DiscourseConnective annotation_id="1608">mais</DiscourseConnective> plutôt <DiscourseConnective annotation_id="1620">comme</DiscourseConnective> une chance, <Alignment alignment="1373" annotation_id="1638">
+          <DiscourseConnective annotation_id="1638" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'aurais tendance <DiscourseConnective annotation_id="1659">à</DiscourseConnective> approuver cette partie de la proposition de résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1440" docOffset="9">
+      <en>We have the realities before us, <DiscourseConnective annotation_id="1473" sense="Temporal.Synchrony">as</DiscourseConnective> described by the European Court of Justice.</en>
+      <fr>Nous sommes face aux réalités, telles qu'elles ont été décrites par la Cour de justice européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1520" docOffset="10">
+      <en>The point now is how to make them work for the benefit of patients, the Member States, national health systems and providers.</en>
+      <fr>La question est à présent de savoir comment les faire fonctionner dans l'intérêt des patients, des États membres et des systèmes <DiscourseConnective annotation_id="1945">et</DiscourseConnective> prestataires de soins de santé nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1646" docOffset="11">
+      <en>We can do this not only for patient mobility, but also for all other aspects of cross-border healthcare.</en>
+      <fr>Nous pouvons y arriver <DiscourseConnective annotation_id="2013">non seulement</DiscourseConnective> en ce qui concerne la mobilité des patients, <DiscourseConnective annotation_id="2072">mais</DiscourseConnective> <DiscourseConnective annotation_id="2077">également</DiscourseConnective> concernant tous les autres aspects des soins de santé transfrontaliers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1751" docOffset="12">
+      <en>I agree that the ultimate target must be that a European citizen should be able to receive the best healthcare where he or she lives.</en>
+      <fr>Je suis d'accord sur l'objectif final: un(e) citoyen(ne) européen(ne) doit pouvoir recevoir les meilleurs soins de santé là où il <DiscourseConnective annotation_id="2289">ou</DiscourseConnective> elle vit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1885" docOffset="13">
+      <en>We should meet our aim of ensuring equality of health in the European Union.</en>
+      <fr>Nous devons atteindre notre objectif visant <DiscourseConnective annotation_id="2346">à</DiscourseConnective> assurer l'égalité en matière de soins de santé dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1962" docOffset="14">
+      <en>
+        <Alignment alignment="2420" annotation_id="1962">
+          <DiscourseConnective annotation_id="1962" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we know that this is a long-term objective <Alignment alignment="2483" annotation_id="2014">
+          <DiscourseConnective annotation_id="2014" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="2018" sense="Expansion.Conjunction">also</DiscourseConnective> that, under certain circumstances, it may not be possible, feasible or even desirable, depending on the financial, as well as - most importantly - the scientific aspects.</en>
+      <fr>
+        <Alignment alignment="20420" annotation_id="2420">
+          <DiscourseConnective annotation_id="2420" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, nous savons <DiscourseConnective annotation_id="2443">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="2449">s'</DiscourseConnective>agit d'un objectif à long terme <Alignment alignment="2014" annotation_id="2483">
+          <DiscourseConnective annotation_id="2483" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="2486">que</DiscourseConnective>, dans certaines circonstances, celui-ci n'est ni possible, ni faisable, ni <DiscourseConnective annotation_id="2565">même</DiscourseConnective> souhaitable, en fonction de certaines considérations financières <DiscourseConnective annotation_id="2635">et</DiscourseConnective>, <DiscourseConnective annotation_id="2639">surtout</DiscourseConnective>, scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2194" docOffset="15">
+      <en>Sometimes, we will still need to make use of the cross-border possibilities of healthcare.</en>
+      <fr>Nous devrons <DiscourseConnective annotation_id="2676">encore</DiscourseConnective> recourir dans certains cas aux solutions transfrontalières dans le domaine des soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2285" docOffset="16">
+      <en>
+        <Alignment alignment="2778" annotation_id="2285">
+          <DiscourseConnective annotation_id="2285" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I have said, we launched the initiative in September 2006. The idea was to have a broad consultation, which ended on 31 January 2007.</en>
+      <fr>
+        <Alignment alignment="2285" annotation_id="2778">
+          <DiscourseConnective annotation_id="2778" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> je l'ai dit, nous avons lancé <DiscourseConnective annotation_id="2814">en</DiscourseConnective> septembre 2006 cette initiative, dont le but en était d'organiser une vaste consultation <DiscourseConnective annotation_id="2906">jusqu'au</DiscourseConnective> 31 janvier 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2422" docOffset="17">
+      <en>In the communication we described and analysed all the problems and issues, which are complicated.</en>
+      <fr>Dans la communication, nous avons décrit <DiscourseConnective annotation_id="2973">et</DiscourseConnective> analysé toutes ces questions <DiscourseConnective annotation_id="3005">et</DiscourseConnective> problèmes compliqués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2521" docOffset="18">
+      <en>We have to follow a step-by-step approach.</en>
+      <fr>Nous devons adopter une approche progressive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2564" docOffset="19">
+      <en>We will need a package to sort out and deal with all the aspects of cross-border healthcare, <Alignment alignment="3195" annotation_id="2657">
+          <DiscourseConnective annotation_id="2657" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that does not mean that we have to wait <DiscourseConnective annotation_id="2701" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective> they are all resolved <Alignment alignment="3273" annotation_id="2729">
+          <DiscourseConnective annotation_id="2729" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we present a proposal: we can do that in phases.</en>
+      <fr>Nous aurons besoin d'un paquet de mesures <DiscourseConnective annotation_id="3118">pour</DiscourseConnective> régler <DiscourseConnective annotation_id="3130">et</DiscourseConnective> traiter tous les aspects des soins de santé transfrontaliers, <Alignment alignment="9248" annotation_id="3195">
+          <DiscourseConnective annotation_id="3195" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cela ne signifie pas <DiscourseConnective annotation_id="3221">que</DiscourseConnective> nous devons attendre qu'ils soient tous résolus <Alignment alignment="2729" annotation_id="3273">
+          <DiscourseConnective annotation_id="3273" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> présenter une proposition: nous pouvons le faire par phases.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2785" docOffset="20">
+      <en>We are now in the process of analysing the contributions.</en>
+      <fr>Le processus d'analyse des contributions est en cours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2843" docOffset="21">
+      <en>We have had more than 270 from the Member States, from regional and local authorities, and from European national and regional organisations, representing patients, healthcare providers, health professionals, social security institutions, health insurance, universities, and hospitals, and even from individual citizens.</en>
+      <fr>Nous en avons reçu plus de 270 de la part des États membres, d'autorités régionales <DiscourseConnective annotation_id="3482">et</DiscourseConnective> locales, d'organisations nationales <DiscourseConnective annotation_id="3521">et</DiscourseConnective> régionales européennes représentant les patients, les prestataires de soins de santé, les professionnels de la santé, les institutions de sécurité sociale, l'assurance maladie, les universités <DiscourseConnective annotation_id="3717">et</DiscourseConnective> les hôpitaux, <DiscourseConnective annotation_id="3734">et même</DiscourseConnective> de la part de citoyens individuels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3164" docOffset="22">
+      <en>
+        <Alignment alignment="3778" annotation_id="3164">
+          <DiscourseConnective annotation_id="3164" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> I do not want to prejudice the results of the in-depth analysis, it must be said that the first assessment confirms the need for Community action to address the range of issues set out in the consultation paper, <Alignment alignment="4051" annotation_id="3385">
+          <DiscourseConnective annotation_id="3385" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, legal certainty and support for cooperation between health systems.</en>
+      <fr>
+        <Alignment alignment="3164" annotation_id="3778">
+          <DiscourseConnective annotation_id="3778" sense="Comparison.Concession">Même s'</DiscourseConnective>
+        </Alignment>il n'entre pas dans mes intentions d'anticiper sur les résultats de l'analyse approfondie, il faut savoir <DiscourseConnective annotation_id="3891">que</DiscourseConnective> la première évaluation confirme la nécessité d'une action communautaire <DiscourseConnective annotation_id="3967">en vue d'</DiscourseConnective>aborder l'ensemble de questions exposées dans le document de consultation, <Alignment alignment="3385" annotation_id="4051">
+          <DiscourseConnective annotation_id="4051" sense="Expansion.Instantiation">comme</DiscourseConnective>
+        </Alignment> la sécurité juridique <DiscourseConnective annotation_id="4079">et</DiscourseConnective> l'aide <DiscourseConnective annotation_id="4089">à</DiscourseConnective> la coopération entre les systèmes de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3466" docOffset="23">
+      <en>
+        <Alignment alignment="4144" annotation_id="3466">
+          <Alignment alignment="4144" annotation_id="3466">
+            <DiscourseConnective annotation_id="3466" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, even <Alignment alignment="4154" annotation_id="3484">
+          <DiscourseConnective annotation_id="3484" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> there are many different views on the details of specific aspects, the overall picture is clear: there seems to be potential added value for patients, professionals and health systems overall from some form of Community action on health services.</en>
+      <fr>
+        <Alignment alignment="3466" annotation_id="4144">
+          <Alignment alignment="3466" annotation_id="4144">
+            <DiscourseConnective annotation_id="4144" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, <Alignment alignment="3484" annotation_id="4154">
+          <DiscourseConnective annotation_id="4154" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> les avis divergent sensiblement sur les détails de certains aspects, le tableau général est clair: il semble qu'un certain type d'action communautaire en matière de services de santé apporte une valeur ajoutée potentielle <DiscourseConnective annotation_id="4384">pour</DiscourseConnective> les patients, les professionnels <DiscourseConnective annotation_id="4422">et</DiscourseConnective> les systèmes de soins de santé dans leur ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3738" docOffset="24">
+      <en>The Commission is in the process of analysing a summary of the report on all the contributions already published on our website.</en>
+      <fr>La Commission analyse <DiscourseConnective annotation_id="4498">en</DiscourseConnective> ce moment un résumé du rapport sur toutes les contributions <DiscourseConnective annotation_id="4561">déjà</DiscourseConnective> publiées sur notre site internet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3867" docOffset="25">
+      <en>A summary report of the contributions will be drafted to provide an idea of the views and ideas sent in and should be available this spring.</en>
+      <fr>Un rapport de synthèse des contributions sera rédigé <DiscourseConnective annotation_id="4653">pour</DiscourseConnective> donner un aperçu des avis <DiscourseConnective annotation_id="4684">et</DiscourseConnective> des idées échangés <DiscourseConnective annotation_id="4706">et</DiscourseConnective> devrait être disponible au printemps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4008" docOffset="26">
+      <en>
+        <Alignment alignment="4747" annotation_id="4008">
+          <DiscourseConnective annotation_id="4008" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the views and the input of the European Parliament are extremely important to us and will be a determining factor.</en>
+      <fr>
+        <Alignment alignment="4008" annotation_id="4747">
+          <DiscourseConnective annotation_id="4747" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, les points de vue <DiscourseConnective annotation_id="4776">et</DiscourseConnective> les idées du Parlement européen sont extrêmement importants <DiscourseConnective annotation_id="4839">pour</DiscourseConnective> nous <DiscourseConnective annotation_id="4849">et</DiscourseConnective> constitueront un facteur déterminant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4132" docOffset="27">
+      <en>We will ensure that any future proposals on health services under this initiative are consistent with ongoing work on services of general interest and, of course, on the ongoing modernisation of the regulations on the coordination of social security systems.</en>
+      <fr>Nous veillerons à ce <DiscourseConnective annotation_id="4911">que</DiscourseConnective> les futures propositions sur les services de santé émises dans le cadre de la présente initiative soient cohérentes avec le travail actuellement réalisé dans le domaine des services d'intérêt général <DiscourseConnective annotation_id="5115">et</DiscourseConnective>, bien sûr, avec la modernisation en cours des réglementations relatives à la coordination des systèmes de sécurité sociale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4391" docOffset="28">
+      <en>There has to be coherence and coordination among all these initiatives.</en>
+      <fr>Nous devons assurer la cohérence <DiscourseConnective annotation_id="5275">et</DiscourseConnective> la coordination entre toutes ces initiatives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4463" docOffset="29">
+      <en>On the basis of the consultation and its outcome, the Commission plans to bring forward practical proposals later in 2007.</en>
+      <fr>Sur la base de la consultation <DiscourseConnective annotation_id="5355">et</DiscourseConnective> de ce <DiscourseConnective annotation_id="5364">résultat</DiscourseConnective>, la Commission a l'intention de présenter des propositions concrètes plus <DiscourseConnective annotation_id="5447">avant</DiscourseConnective> <DiscourseConnective annotation_id="5453">en</DiscourseConnective> 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4586" docOffset="30">
+      <en>Our aim is to find a solution which provides real added value without creating more red tape <Alignment alignment="5571" annotation_id="4679">
+          <DiscourseConnective annotation_id="4679" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which respects the principle of subsidiarity.</en>
+      <fr>Notre but est de trouver une solution qui apporte une réelle valeur ajoutée <DiscourseConnective annotation_id="5538">sans</DiscourseConnective> paperasserie supplémentaire <Alignment alignment="4679" annotation_id="5571">
+          <DiscourseConnective annotation_id="5571" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> respecte le principe de la subsidiarité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4729" id="180" language="FR" name="Françoise Grossetête">
+    <ParallelChunk annotation_id="4729" docOffset="31">
+      <en>Mr President, Commissioner, we remember all of the debates that we had in our Parliament, during the debate on the Services Directive, to exclude health services.</en>
+      <fr>au nom du groupe PPE-DE. - Monsieur le Président, Monsieur le Commissaire, nous nous souvenons tous des débats <DiscourseConnective annotation_id="5726">que</DiscourseConnective> nous avons eus dans notre Parlement, lors de la discussion sur la directive sur les services, <DiscourseConnective annotation_id="5824">pour</DiscourseConnective> exclure les services de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4892" docOffset="32">
+      <en>We felt that health was not a service like any other <Alignment alignment="5933" annotation_id="4945">
+          <DiscourseConnective annotation_id="4945" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it was absolutely crucial to talk about it in a different way <Alignment alignment="5995" annotation_id="5016">
+          <DiscourseConnective annotation_id="5016" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, above all, not to regard health services merely as being an internal market.</en>
+      <fr>Nous estimions en effet <DiscourseConnective annotation_id="5884">que</DiscourseConnective> la santé n'est pas un service <DiscourseConnective annotation_id="5918">comme</DiscourseConnective> un autre <Alignment alignment="3822" annotation_id="5933">
+          <DiscourseConnective annotation_id="5933" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5936">qu'</DiscourseConnective>il était absolument indispensable d'en parler <DiscourseConnective annotation_id="5985">autrement</DiscourseConnective> <Alignment alignment="5016" annotation_id="5995">
+          <DiscourseConnective annotation_id="5995" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5998">surtout</DiscourseConnective> de ne pas penser les services de santé uniquement <DiscourseConnective annotation_id="6056">comme</DiscourseConnective> un marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5098" docOffset="33">
+      <en>Through its policies, the European Union is encouraging people to move around, <Alignment alignment="6159" annotation_id="5177">
+          <DiscourseConnective annotation_id="5177" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that inevitably has consequences for healthcare.</en>
+      <fr>L'Union européenne, par ses politiques, encourage la mobilité des personnes <Alignment alignment="5177" annotation_id="6159">
+          <DiscourseConnective annotation_id="6159" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cela a forcément des conséquences en ce qui concerne des soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5230" docOffset="34">
+      <en>It obviously has consequences for health professionals, who have demands in relation to legal certainty, and, of course, for patients, who are anxious to receive quality care.</en>
+      <fr>Cela a des conséquences bien sûr pour les professionnels de la santé, qui ont des exigences au niveau de la sécurité juridique, <DiscourseConnective annotation_id="6363">et</DiscourseConnective> bien sûr pour les patients, qui sont désireux de recevoir des soins de qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5406" docOffset="35">
+      <en>Hence there are a number of problems, <Alignment alignment="6483" annotation_id="5444">
+          <DiscourseConnective annotation_id="5444" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> my colleague, Mr Bowis, has pointed out: language problems, the problem of monitoring care, the problem of the accountability of health professionals and of the quality of care.</en>
+      <fr>D'où un certain nombre de problèmes, <Alignment alignment="5444" annotation_id="6483">
+          <DiscourseConnective annotation_id="6483" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a relevé mon collègue M. Bowis: des problèmes de langue, le problème de suivi des soins, le problème de la responsabilité des professionnels de santé, de la qualité des soins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5625" docOffset="36">
+      <en>I think it important to say that patient mobility must not under any circumstances lead to the dumping of health systems, or make health care less secure.</en>
+      <fr>J'estime qu'il est important de <DiscourseConnective annotation_id="6699">dire que</DiscourseConnective> la mobilité des patients ne doit aucunement entraîner de dumping des systèmes de santé, ni dégrader la sécurité des soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5780" docOffset="37">
+      <en>That is absolutely crucial.</en>
+      <fr>C'est absolument fondamental.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5808" docOffset="38">
+      <en>
+        <DiscourseConnective annotation_id="5808" sense="Expansion.Conjunction">Nor</DiscourseConnective> must the mobility of patients and health professionals create two categories of patient: those who can access other types of health care on the other side of the border and those who cannot.</en>
+      <fr>La mobilité des patients <DiscourseConnective annotation_id="6895">et</DiscourseConnective> des professionnels de la santé ne doit pas non plus créer deux catégories de patients: ceux qui pourraient accéder à d'autres types de soins de santé <DiscourseConnective annotation_id="7048">de l'autre côté</DiscourseConnective> des frontières <DiscourseConnective annotation_id="7079">et</DiscourseConnective> ceux qui ne pourraient pas le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6003" docOffset="39">
+      <en>It would <Alignment alignment="7129" annotation_id="6012">
+          <DiscourseConnective annotation_id="6012" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be interesting to further develop harmonised health indicators at European level.</en>
+      <fr>Il serait <Alignment alignment="6012" annotation_id="7129">
+          <DiscourseConnective annotation_id="7129" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> intéressant de développer davantage des indicateurs harmonisés de santé au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6104" docOffset="40">
+      <en>The same goes for the completion of more exhaustive studies, which would enable us to better understand local needs and to do more to target those members of the public who are likely to seek treatment in another Member State, <Alignment alignment="7421" annotation_id="6331">
+          <DiscourseConnective annotation_id="6331" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can provide the most suitable legislative solution.</en>
+      <fr>Il en va <DiscourseConnective annotation_id="7235">de même</DiscourseConnective> de la réalisation d'études plus exhaustives <DiscourseConnective annotation_id="7287">pour</DiscourseConnective> <DiscourseConnective annotation_id="7292">mieux</DiscourseConnective> appréhender les besoins locaux <DiscourseConnective annotation_id="7329">et</DiscourseConnective> davantage cibler les publics susceptibles de se faire soigner dans un autre État membre, <Alignment alignment="6331" annotation_id="7421">
+          <DiscourseConnective annotation_id="7421" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>apporter la solution législative la plus adaptée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6394" docOffset="41">
+      <en>To do that, we need a mechanism for gathering data and for exchanging information among national authorities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7478">Pour</DiscourseConnective> cela, il faut un mécanisme de collecte des données <DiscourseConnective annotation_id="7534">et</DiscourseConnective> d'échange d'informations entre autorités nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6504" docOffset="42">
+      <en>Finally, we need to keep a close eye on the current excesses with regard to self-diagnosis and self-medication via the Internet, which knows no bounds.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7590">In fine</DiscourseConnective>, il convient d'être très vigilant quant aux dérives actuelles concernant l'autodiagnostic, l'automédication via Internet qui ne connaît pas de frontières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6656" docOffset="43">
+      <en>It is vital that we concern ourselves with patient information and have a genuine European label <Alignment alignment="7857" annotation_id="6753">
+          <DiscourseConnective annotation_id="6753" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> patients using the Internet can be provided with a viable form of security and information.</en>
+      <fr>Il devient urgent de se préoccuper de l'information des patients <DiscourseConnective annotation_id="7818">et</DiscourseConnective> d'avoir un véritable label européen <Alignment alignment="6753" annotation_id="7857">
+          <DiscourseConnective annotation_id="7857" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>assurer aux cyberpatients une sécurité <DiscourseConnective annotation_id="7903">et</DiscourseConnective> une information viables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6853" docOffset="44">
+      <en>Commissioner, rest assured that you will have our full support and trust for the proposal that you will submit to us shortly.</en>
+      <fr>Monsieur le Commissaire, sachez <DiscourseConnective annotation_id="7963">que</DiscourseConnective> vous aurez tout notre soutien <DiscourseConnective annotation_id="7997">et</DiscourseConnective> notre confiance <DiscourseConnective annotation_id="8016">pour</DiscourseConnective> la proposition <DiscourseConnective annotation_id="8036">que</DiscourseConnective> vous nous ferez prochainement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6979" id="181" name="Linda McAvan">
+    <ParallelChunk annotation_id="6979" docOffset="45">
+      <en>on behalf of the PSE Group. - Mr President, Commissioner, you know from our discussion in committee that this issue is extremely important for myself and for the PSE Group.</en>
+      <fr>au nom du groupe PSE. - (EN) Monsieur le Président, Monsieur le Commissaire, lors de notre discussion au sein de la commission, vous avez constaté <DiscourseConnective annotation_id="8218">que</DiscourseConnective> cette question est absolument fondamentale <DiscourseConnective annotation_id="8265">pour</DiscourseConnective> moi-même <DiscourseConnective annotation_id="8279">et</DiscourseConnective> <DiscourseConnective annotation_id="8282">pour</DiscourseConnective> le groupe PSE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7152" docOffset="46">
+      <en>We see health services as one of the pillars of the European social model, <DiscourseConnective annotation_id="7227" sense="Expansion.Conjunction">and</DiscourseConnective> the underlying values of that model - universality, access to good quality care, equity and solidarity, to ensure that services are provided on the basis of need and not the ability to pay - are fundamental to us and to that model.</en>
+      <fr>Nous considérons les services de santé <DiscourseConnective annotation_id="8341">comme</DiscourseConnective> l'un des piliers du modèle social européen. Les valeurs qui sous-tendent ce modèle, l'universalité, l'accès <DiscourseConnective annotation_id="8455">à</DiscourseConnective> des soins de qualité, l'égalité <DiscourseConnective annotation_id="8489">et</DiscourseConnective> la solidarité, seules garanties <DiscourseConnective annotation_id="8524">que</DiscourseConnective> les services seront fournis <DiscourseConnective annotation_id="8556">en</DiscourseConnective> fonction non d'une capacité de paiement <DiscourseConnective annotation_id="8599">mais</DiscourseConnective> des besoins de tous les citoyens - sont essentielles <DiscourseConnective annotation_id="8657">pour</DiscourseConnective> nous <DiscourseConnective annotation_id="8667">et</DiscourseConnective> <DiscourseConnective annotation_id="8670">pour</DiscourseConnective> ce modèle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7463" docOffset="47">
+      <en>We feel that any initiative you take on cross-border healthcare should be built on these principles.</en>
+      <fr>Nous estimons <DiscourseConnective annotation_id="8700">que</DiscourseConnective> toute initiative que vous prendrez dans le domaine des soins de santé transfrontaliers devra se fonder sur ces principes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7564" docOffset="48">
+      <en>It should be about healthcare for all and not about market opportunity for some providers.</en>
+      <fr>Ces soins doivent être accessibles <DiscourseConnective annotation_id="8861">à</DiscourseConnective> tous <DiscourseConnective annotation_id="8868">et</DiscourseConnective> ne doivent pas constituer un débouché commercial <DiscourseConnective annotation_id="8920">pour</DiscourseConnective> certains prestataires de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7655" docOffset="49">
+      <en>I think many other colleagues from different groups have already said this.</en>
+      <fr>Je pense qu'un certain nombre d'autres collègues de différents groupes l'ont <DiscourseConnective annotation_id="9043">déjà</DiscourseConnective> précisé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7731" docOffset="50">
+      <en>Mr Bowis talked about the legal certainty that is needed in a range of areas.</en>
+      <fr>M. Bowis a parlé de la sécurité juridique nécessaire dans certains domaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7809" docOffset="51">
+      <en>These are the questions that people write and ask me about.</en>
+      <fr>Ce sont les questions <DiscourseConnective annotation_id="9156">que</DiscourseConnective> les citoyens écrivent <DiscourseConnective annotation_id="9182">et</DiscourseConnective> me posent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7869" docOffset="52">
+      <en>They have heard about their rights, they are not sure how they can exercise them, so yes, we want a clear legal framework for patient mobility and for the movement of professionals, not just to give them rights, <Alignment alignment="9483" annotation_id="8081">
+          <DiscourseConnective annotation_id="8081" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="9488" annotation_id="8085">
+          <Alignment alignment="9488" annotation_id="8085">
+            <DiscourseConnective annotation_id="8085" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> citizens know that those healthcare professionals are properly qualified, are fit to practise <Alignment alignment="9609" annotation_id="8187">
+          <DiscourseConnective annotation_id="8187" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that information is shared between Member States.</en>
+      <fr>Ils ont entendu parler de leurs droits et ne savent pas très bien comment les exercer. Et <DiscourseConnective annotation_id="9286">donc</DiscourseConnective> oui, nous voulons l'inscription effective de la mobilité des patients <DiscourseConnective annotation_id="9361">et</DiscourseConnective> de la circulation des professionnels dans un cadre juridique clair, pas seulement <DiscourseConnective annotation_id="9446">pour</DiscourseConnective> donner des droits aux citoyens, <Alignment alignment="9723" annotation_id="9483">
+          <DiscourseConnective annotation_id="9483" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="8085" annotation_id="9488">
+          <Alignment alignment="8085" annotation_id="9488">
+            <DiscourseConnective annotation_id="9488" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> chacun puisse savoir <DiscourseConnective annotation_id="9518">que</DiscourseConnective> ces professionnels de la santé possèdent les diplômes adéquats, qu'ils peuvent exercer <Alignment alignment="8187" annotation_id="9609">
+          <DiscourseConnective annotation_id="9609" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9612">que</DiscourseConnective> les informations sont partagées entre les États membres!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8241" docOffset="53">
+      <en>Finally, Commissioner, you said that you recognised that healthcare has a special character.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9673">Enfin</DiscourseConnective>, Monsieur le Commissaire, vous avez reconnu aux soins de santé présentent un statut particulier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8334" docOffset="54">
+      <en>The health ministers agreed a set of values and principles in June last year, <Alignment alignment="9880" annotation_id="8412">
+          <DiscourseConnective annotation_id="8412" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wonder whether you will be taking that on board <Alignment alignment="9925" annotation_id="8466">
+          <DiscourseConnective annotation_id="8466" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> you draw up your proposals later this year?</en>
+      <fr>Les ministres de la santé ont approuvé une série de valeurs <DiscourseConnective annotation_id="9836">et</DiscourseConnective> de principes <DiscourseConnective annotation_id="9852">en</DiscourseConnective> juin de l'année dernière <Alignment alignment="8412" annotation_id="9880">
+          <DiscourseConnective annotation_id="9880" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je me demande <DiscourseConnective annotation_id="9897">si</DiscourseConnective> vous en tiendrez compte, <Alignment alignment="8466" annotation_id="9925">
+          <DiscourseConnective annotation_id="9925" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> vous rédigerez vos propositions <DiscourseConnective annotation_id="9965">plus tard</DiscourseConnective> cette année.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8515" id="182" name="Antonyia Parvanova">
+    <ParallelChunk annotation_id="8515" docOffset="55">
+      <en>on behalf of the ALDE Group. - Mr President, we strongly support the Commission's consultation efforts and the European Parliament resolution outlining the main priorities for public health in the future Community framework.</en>
+      <fr>au nom du groupe ALDE. - (EN) Monsieur le Président, nous soutenons résolument les efforts que la Commission déploie pour organiser une consultation <DiscourseConnective annotation_id="10137">ainsi</DiscourseConnective> que la résolution du Parlement européen où sont exposées les grandes lignes des priorités essentielles en matière de santé publique dans le futur cadre communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8740" docOffset="56">
+      <en>
+        <Alignment alignment="10310" annotation_id="8740">
+          <DiscourseConnective annotation_id="8740" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> we should think and plan more broadly: the final goal of future legislation should be better health for European citizens, not only <Alignment alignment="10484" annotation_id="8876">
+          <DiscourseConnective annotation_id="8876" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they cross the border, <Alignment alignment="10522" annotation_id="8904">
+          <DiscourseConnective annotation_id="8904" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> <Alignment alignment="10526" annotation_id="8912">
+          <Alignment alignment="10526" annotation_id="8912">
+            <DiscourseConnective annotation_id="8912" sense="Temporal.Asynchronous.Precedence">by then</DiscourseConnective>
+          </Alignment>
+        </Alignment> it might be too late.</en>
+      <fr>
+        <Alignment alignment="8740" annotation_id="10310">
+          <DiscourseConnective annotation_id="10310" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> nous devrions penser <DiscourseConnective annotation_id="10336">et</DiscourseConnective> planifier plus large: le but ultime de la future législation n'est-il pas d'assurer une meilleure santé aux citoyens européens, et pas seulement <Alignment alignment="8876" annotation_id="10484">
+          <DiscourseConnective annotation_id="10484" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>ils franchissent la frontière, <Alignment alignment="8904" annotation_id="10522">
+          <DiscourseConnective annotation_id="10522" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> <Alignment alignment="8912" annotation_id="10526">
+          <Alignment alignment="8912" annotation_id="10526">
+            <DiscourseConnective annotation_id="10526" sense="Temporal.Asynchronous.Precedence">à ce moment-là</DiscourseConnective>
+          </Alignment>
+        </Alignment>, il est peut-être déjà trop tard!</fr>
+    </ParallelChunk>
+
+<ParallelChunk annotation_id="8943" docOffset="58">
+      <en>In addition to the resolution, I would like to call for your support on the following: basic standards for healthcare should be agreed in order to guarantee patients' safety and the quality of healthcare; the introduction of a common classification of health services, without interfering with Member States' competences on organisation, will create transparency for both patients and the financial institutions; <DiscourseConnective annotation_id="9356" sense="Expansion.Conjunction">and</DiscourseConnective> the 'one-stop shop' approach to be introduced in the Member States' health administrations will facilitate patients' choice and the right to complain.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10788">Ensuite</DiscourseConnective>, l'introduction d'une classification commune des services de santé, <DiscourseConnective annotation_id="10864">sans</DiscourseConnective> empiéter sur les compétences des États membres en matière d'organisation, apportera de la transparence, tant pour les patients que pour les institutions financières. Quant au système de "guichet unique" qui sera introduit dans les administrations chargées des questions de santé au sein des États membres, il rendra plus aisé le choix des patients <DiscourseConnective annotation_id="11217">et</DiscourseConnective> plus facile l'introduction d'une plainte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9511" docOffset="59">
+      <en>The last issue I wish to emphasise is crucial for the full functioning of any new legislative framework on patients' rights: a common charter on patients' rights should be included in the future Community framework.</en>
+      <fr>Le dernier point sur lequel je souhaite insister est indispensable au bon fonctionnement de tout nouveau cadre législatif qui serait donné aux droits des patients: une charte commune des droits des patients doit être associée au futur cadre communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9727" docOffset="60">
+      <en>Patients should be able to exercise their rights in the European Union regardless of the ownership of medical facilities, national social security schemes, organisational management of the national health systems or whether medical treatment is provided in the home country or in another Member State.</en>
+      <fr>Les patients doivent pouvoir exercer leurs droits dans l'Union européenne, indépendamment de la question de la propriété des équipements médicaux, des systèmes nationaux de sécurité sociale et du mode de gestion des systèmes nationaux de soins de santé. <DiscourseConnective annotation_id="11772">Et</DiscourseConnective> peu importe <DiscourseConnective annotation_id="11787">si</DiscourseConnective> le traitement médical est fourni dans le pays d'origine <DiscourseConnective annotation_id="11846">ou</DiscourseConnective> dans un autre État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10029" docOffset="61">
+      <en>All this is needed for a new European regulatory healthcare framework that would contribute to improving access to the best quality healthcare and to ensuring the safety and rights of all public and private patients in Europe, with particular consideration given to ethnic minorities - <Alignment alignment="12251" annotation_id="10315">
+          <DiscourseConnective annotation_id="10315" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> the Roma population - as well as refugees, migrants and the homeless.</en>
+      <fr>Tout cela est indispensable <DiscourseConnective annotation_id="11904">à</DiscourseConnective> un nouveau cadre européen de réglementation des soins de santé qui devrait permettre d'améliorer l'accès <DiscourseConnective annotation_id="12011">à</DiscourseConnective> des soins de santé de la meilleure qualité possible <DiscourseConnective annotation_id="12065">et</DiscourseConnective> de garantir la sécurité <DiscourseConnective annotation_id="12092">et</DiscourseConnective> les droits de tous les patients faisant appel à des services publics <DiscourseConnective annotation_id="12164">ou</DiscourseConnective> privés <DiscourseConnective annotation_id="12174">en</DiscourseConnective> Europe, en accordant une attention particulière aux minorités ethniques - <Alignment alignment="10315" annotation_id="12251">
+          <DiscourseConnective annotation_id="12251" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, les Roms - <DiscourseConnective annotation_id="12275">ainsi</DiscourseConnective> qu'aux réfugiés, immigrés <DiscourseConnective annotation_id="12307">et</DiscourseConnective> sans-abri.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10397" id="183" name="Kartika Tamara Liotard">
+    <ParallelChunk annotation_id="10397" docOffset="62">
+      <en>on behalf of the GUE/NGL Group. - (NL) Commissioner, the fact that thought is being given to cross-border patient mobility is, in itself, a good thing, <Alignment alignment="12471" annotation_id="10549">
+          <DiscourseConnective annotation_id="10549" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> patient mobility, <DiscourseConnective annotation_id="10571" sense="Comparison.Contrast">however</DiscourseConnective>, is entirely different from the mobility of commercial health services.</en>
+      <fr>au nom du groupe GUE/NGL. - (NL) Monsieur le Commissaire, c'est une bonne chose, <DiscourseConnective annotation_id="12402">en</DiscourseConnective> soi, de s'intéresser à la mobilité transfrontalière des patients, <Alignment alignment="10549" annotation_id="12471">
+          <DiscourseConnective annotation_id="12471" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la mobilité des patients n'a absolument rien à voir avec la mobilité des soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10651" docOffset="63">
+      <en>These terms are too often mixed up.</en>
+      <fr>Il y a trop souvent confusion entre ces deux notions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10687" docOffset="64">
+      <en>Discussion of patient mobility should not in any event lead to the national healthcare systems being undermined or to Member States passing the buck in an attempt to make their own health care systems reliable, whether in terms of quality or quantity.</en>
+      <fr>Le débat sur la mobilité des patients ne devrait <DiscourseConnective annotation_id="12668">en</DiscourseConnective> aucun cas aboutir <DiscourseConnective annotation_id="12689">à</DiscourseConnective> l'affaiblissement des systèmes de santé nationaux ni inciter les États membres à déléguer leurs responsabilités <DiscourseConnective annotation_id="12803">dans le but de</DiscourseConnective> garantir la fiabilité de leur système, tant d'un point de vue qualitatif <DiscourseConnective annotation_id="12891">que</DiscourseConnective> quantitatif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10939" docOffset="65">
+      <en>
+        <DiscourseConnective annotation_id="10939" sense="Expansion.Conjunction">Nor</DiscourseConnective> should it lead to the liberalisation of the healthcare market or force patients out of their own countries to seek care.</en>
+      <fr>Il ne devrait pas non plus entraîner la libéralisation du marché des soins de santé ni obliger les patients <DiscourseConnective annotation_id="13016">à</DiscourseConnective> aller se faire soigner <DiscourseConnective annotation_id="13041">à</DiscourseConnective> l'étranger.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11064" docOffset="66">
+      <en>Patient mobility is a patient right and should certainly not become the excuse for applying the Services Directive to healthcare services.</en>
+      <fr>La mobilité des patients est un droit réservé à ces derniers. Elle ne devrait certainement pas servir de prétexte <DiscourseConnective annotation_id="13169">à</DiscourseConnective> l'application de la directive "Services" <DiscourseConnective annotation_id="13212">à</DiscourseConnective> la prestation des soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11203" docOffset="67">
+      <en>This House has taken a clear stand against this and would be robbed of its credibility <Alignment alignment="13334" annotation_id="11290">
+          <DiscourseConnective annotation_id="11290" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it were now to take a different line.</en>
+      <fr>Ce Parlement <DiscourseConnective annotation_id="13261">s'</DiscourseConnective>est fermement opposé à cette possibilité <DiscourseConnective annotation_id="13304">et</DiscourseConnective> perdrait toute crédibilité <Alignment alignment="11290" annotation_id="13334">
+          <DiscourseConnective annotation_id="13334" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il adoptait à présent une ligne de conduite différente.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11331" id="184" name="Urszula Krupa">
+    <ParallelChunk annotation_id="11331" docOffset="68">
+      <en>on behalf of the IND/DEM Group. - (PL) Mr President, <Alignment alignment="13448" annotation_id="11384">
+          <DiscourseConnective annotation_id="11384" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I have only been allocated one minute's speaking time on the subject of cross-border healthcare, I shall be brief.</en>
+      <fr>au nom du groupe IND/DEM. - (PL) Monsieur le Président, <Alignment alignment="11384" annotation_id="13448">
+          <DiscourseConnective annotation_id="13448" sense="Temporal.Synchrony">étant donné que</DiscourseConnective>
+        </Alignment> je ne dispose que d'une minute pour m'exprimer au sujet des soins de santé transfrontaliers, je serai brève.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11502" docOffset="69">
+      <en>I simply wanted to point out that, <DiscourseConnective annotation_id="11537" sense="Comparison.Contrast">although</DiscourseConnective> this brings real benefits to a specific group of patients who are in a position to choose treatment in different Union countries, there are <DiscourseConnective annotation_id="11686" sense="Expansion.Conjunction">also</DiscourseConnective> unfortunately very negative consequences for certain healthcare systems, as well as for many patients from the poorer Member States. These patients' access to health services is restricted because of doctors' migration or for financial reasons.</en>
+      <fr>Je souhaitais <DiscourseConnective annotation_id="13587">simplement</DiscourseConnective> attirer votre attention sur le fait que cette disposition offre de réels avantages <DiscourseConnective annotation_id="13681">à</DiscourseConnective> un groupe spécifique de patients - ceux qui peuvent choisir le pays de l'Union dans lequel ils seront soignés - mais qu'elle a <DiscourseConnective annotation_id="13810">malheureusement</DiscourseConnective> des effets très néfastes sur certains systèmes de santé nationaux <DiscourseConnective annotation_id="13892">ainsi</DiscourseConnective> que <DiscourseConnective annotation_id="13902">pour</DiscourseConnective> un grand nombre de patients issus des États membres plus pauvres, ces personnes dont l'accès aux soins de santé est restreint en raison de la migration des médecins <DiscourseConnective annotation_id="14072">ou</DiscourseConnective> <DiscourseConnective annotation_id="14075">pour</DiscourseConnective> des raisons financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11936" docOffset="70">
+      <en>For the wealthy old Member States of the Union, the priority is to improve the development, competitiveness and security of their own healthcare systems, which are described as European.</en>
+      <fr>Les anciens et riches États membres de l'Union ont pour priorité de renforcer le développement, la compétitivité <DiscourseConnective annotation_id="14218">et</DiscourseConnective> la sécurité de leurs propres systèmes de santé, <DiscourseConnective annotation_id="14269">qu'</DiscourseConnective>ils qualifient d'européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12123" docOffset="71">
+      <en>The aforementioned countries take no account of the resulting costs to be borne by other far poorer countries.</en>
+      <fr>Ils se moquent des coûts connexes que doivent ainsi supporter d'autres pays beaucoup plus pauvres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12234" docOffset="72">
+      <en>One cannot fail to notice <Alignment alignment="14423" annotation_id="12260">
+          <Alignment alignment="46625" annotation_id="12260">
+            <DiscourseConnective annotation_id="12260" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment> that the rich are becoming richer and safer, whilst the poor are becoming ever poorer.</en>
+      <fr>Force est de constater, <Alignment alignment="12260" annotation_id="14423">
+          <Alignment alignment="12260" annotation_id="14423">
+            <DiscourseConnective annotation_id="14423" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, <DiscourseConnective annotation_id="14439">que</DiscourseConnective> les riches deviennent de plus en plus riches <DiscourseConnective annotation_id="14488">et</DiscourseConnective> jouissent d'un niveau de sécurité sans cesse accru, <DiscourseConnective annotation_id="14543">tandis que</DiscourseConnective> les pauvres sont de plus en plus pauvres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12361" docOffset="73">
+      <en>
+        <Alignment alignment="14596" annotation_id="12361">
+          <Alignment alignment="48707" annotation_id="12361">
+            <DiscourseConnective annotation_id="12361" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, all this is being described in terms of sustainable development, equal rights and opportunities or as part of the principle of subsidiarity.</en>
+      <fr>
+        <Alignment alignment="12361" annotation_id="14596">
+          <Alignment alignment="12361" annotation_id="14596">
+            <DiscourseConnective annotation_id="14596" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, tout ceci est décrit <DiscourseConnective annotation_id="14627">en</DiscourseConnective> termes de développement durable, d'égalité des droits <DiscourseConnective annotation_id="14684">et</DiscourseConnective> des chances <DiscourseConnective annotation_id="14699">ou</DiscourseConnective> d'exercice du principe de subsidiarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12515" docOffset="74">
+      <en>The latter has had a regrettable consequence for European citizens, namely that the lot of the rich and strong is improving at the expense of the poor <Alignment alignment="10712" annotation_id="12666">
+          <DiscourseConnective annotation_id="12666" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> weak.</en>
+      <fr>Ce dernier a des conséquences regrettables <DiscourseConnective annotation_id="14785">pour</DiscourseConnective> les citoyens européens, à savoir <DiscourseConnective annotation_id="14823">que</DiscourseConnective> le sort des riches <DiscourseConnective annotation_id="14846">et</DiscourseConnective> des puissants <DiscourseConnective annotation_id="14863">s'</DiscourseConnective>améliore au détriment des pauvres <Alignment alignment="12666" annotation_id="14899">
+          <DiscourseConnective annotation_id="14899" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des faibles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12676" id="185" name="Irena Belohorská">
+    <ParallelChunk annotation_id="12676" docOffset="75">
+      <en>(SK) I regret to say that I regard the Commission's communication on healthcare services as unsatisfactory.</en>
+      <fr>(SK) J'ai le regret de vous signaler <DiscourseConnective annotation_id="14952">que</DiscourseConnective> la communication de la Commission sur les soins de santé est insatisfaisante à mes yeux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12784" docOffset="76">
+      <en>The Commission has failed to come up with adequate and specific proposals for coordinating healthcare provision, <Alignment alignment="15178" annotation_id="12897">
+          <DiscourseConnective annotation_id="12897" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> such service provision falls under the purview of national authorities.</en>
+      <fr>La Commission ne nous a présenté aucune proposition adéquate <DiscourseConnective annotation_id="15106">et</DiscourseConnective> spécifique <DiscourseConnective annotation_id="15120">pour</DiscourseConnective> la coordination de la prestation des soins de santé, <Alignment alignment="12897" annotation_id="15178">
+          <DiscourseConnective annotation_id="15178" sense="Contingency.Cause.Reason">vu que</DiscourseConnective>
+        </Alignment> ce domaine relève de la compétence des autorités nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12975" docOffset="77">
+      <en>
+        <Alignment alignment="15246" annotation_id="12975">
+          <DiscourseConnective annotation_id="12975" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, the communication unequivocally defends the notion that healthcare services should be regulated by the principle of free movement of goods.</en>
+      <fr>
+        <Alignment alignment="5655" annotation_id="15246">
+          <DiscourseConnective annotation_id="15246" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, ladite communication défend très clairement l'idée de la réglementation des soins de santé <DiscourseConnective annotation_id="15347">en</DiscourseConnective> vertu du principe de la libre circulation des biens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13128" docOffset="78">
+      <en>In this regard I would like to emphasise that patients are not goods and healthcare professionals are not the same as other service providers.</en>
+      <fr>Sous ce rapport, permettez-moi de vous rappeler <DiscourseConnective annotation_id="15451">que</DiscourseConnective> les patients ne sont pas des biens <DiscourseConnective annotation_id="15490">et</DiscourseConnective> que les professionnels de la santé ne sont pas des prestataires de services <DiscourseConnective annotation_id="15569">comme</DiscourseConnective> les autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13271" docOffset="79">
+      <en>The European Parliament subscribed to that principle some time ago, as it excluded healthcare provision from the Services Directive.</en>
+      <fr>Le Parlement européen a souscrit <DiscourseConnective annotation_id="15620">à</DiscourseConnective> ce principe il y a quelque temps, <DiscourseConnective annotation_id="15656">lorsqu'</DiscourseConnective>il a exclu la prestation des soins de santé de la directive sur les services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13404" docOffset="80">
+      <en>Despite the fact that cross-border health services only account for about 1% of healthcare provision, the Commission's communication focuses on patient mobility, cost refunds, etc. One should realise, <Alignment alignment="16001" annotation_id="13605">
+          <DiscourseConnective annotation_id="13605" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that patients are not small-time traders <Alignment alignment="16095" annotation_id="13655">
+          <DiscourseConnective annotation_id="13655" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that patients do not seek healthcare abroad in order to generate savings <Alignment alignment="16173" annotation_id="13732">
+          <DiscourseConnective annotation_id="13732" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="16178" annotation_id="13736">
+          <DiscourseConnective annotation_id="13736" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> such care is not available at home.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15741">Bien que</DiscourseConnective> les soins de santé transfrontaliers ne représentent qu'environ un pour cent de la totalité des soins de santé dispensés, la communication de la Commission se concentre sur la mobilité des patients, sur les remboursements des frais, etc. Nous devrions <Alignment alignment="13605" annotation_id="16001">
+          <DiscourseConnective annotation_id="16001" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> prendre conscience <DiscourseConnective annotation_id="16030">que</DiscourseConnective> les patients ne sont pas des commerçants à la petite semaine <Alignment alignment="4455" annotation_id="16095">
+          <DiscourseConnective annotation_id="16095" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="16098">qu'</DiscourseConnective>ils ne vont pas se faire soigner à l'étranger <DiscourseConnective annotation_id="16147">pour</DiscourseConnective> faire des économies, <Alignment alignment="13732" annotation_id="16173">
+          <DiscourseConnective annotation_id="16173" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="13736" annotation_id="16178">
+          <DiscourseConnective annotation_id="16178" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> le traitement recherché n'est pas disponible dans leur pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13780" docOffset="81">
+      <en>It is therefore, quite unacceptable that Article 95, which regulates the free movement of goods, should be the sole legal basis of the future directive.</en>
+      <fr>Il est <DiscourseConnective annotation_id="16256">donc</DiscourseConnective> totalement inacceptable <DiscourseConnective annotation_id="16285">que</DiscourseConnective> nous adoptions l'article 95, qui réglemente la libre circulation des biens, <DiscourseConnective annotation_id="16365">comme</DiscourseConnective> seule base juridique de la future directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13933" docOffset="82">
+      <en>The Commission should focus on other pressing problems in the European Union. <Alignment alignment="16531" annotation_id="14011">
+          <DiscourseConnective annotation_id="14011" sense="Expansion.Instantiation">For instance</DiscourseConnective>
+        </Alignment>, on why the mortality rate due to colon cancer is 40% higher in Slovakia than in Sweden or on how the EU could contribute to improving healthcare quality, <Alignment alignment="16759" annotation_id="14179">
+          <DiscourseConnective annotation_id="14179" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> through the use of structural fund allocations more efficiently for healthcare purposes.</en>
+      <fr>La Commission devrait accorder la priorité <DiscourseConnective annotation_id="16459">à</DiscourseConnective> d'autres problèmes urgents dans l'Union européenne, en se concentrant <Alignment alignment="14011" annotation_id="16531">
+          <DiscourseConnective annotation_id="16531" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> sur les raisons pour lesquelles le taux de mortalité dû au cancer du colon est 40% plus élevé <DiscourseConnective annotation_id="16637">en</DiscourseConnective> Slovaquie <DiscourseConnective annotation_id="16650">qu'en</DiscourseConnective> Suède <DiscourseConnective annotation_id="16662">ou</DiscourseConnective> sur la façon dont l'UE pourrait contribuer <DiscourseConnective annotation_id="16708">à</DiscourseConnective> l'amélioration de la qualité des soins de santé, <Alignment alignment="14179" annotation_id="16759">
+          <DiscourseConnective annotation_id="16759" sense="Expansion.Instantiation">notamment</DiscourseConnective>
+        </Alignment> par une meilleure utilisation des ressources des fonds structurels affectées <DiscourseConnective annotation_id="16846">à</DiscourseConnective> la prestation de ces soins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14280" docOffset="83">
+      <en>I only wish patients could join forces with health professionals to bring about change as effectively <Alignment alignment="17024" annotation_id="14382">
+          <DiscourseConnective annotation_id="14382" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> farmers can.</en>
+      <fr>Je voudrais tellement <DiscourseConnective annotation_id="16898">que</DiscourseConnective> les patients <DiscourseConnective annotation_id="16915">et</DiscourseConnective> les professionnels de la santé puissent unir leurs forces <DiscourseConnective annotation_id="16976">pour</DiscourseConnective> faire bouger les choses <DiscourseConnective annotation_id="17005">aussi</DiscourseConnective> efficacement <Alignment alignment="14382" annotation_id="17024">
+          <DiscourseConnective annotation_id="17024" sense="Temporal.Synchrony">qu'en</DiscourseConnective>
+        </Alignment> sont capables les agriculteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14398" docOffset="84">
+      <en>Perhaps <DiscourseConnective annotation_id="14406" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> we would see benefits going not only to farmers and cattle but also to human beings - <DiscourseConnective annotation_id="14497" sense="Expansion.Restatement">in other words</DiscourseConnective> patients.</en>
+      <fr>De la sorte, les changements ne profiteraient pas uniquement aux agriculteurs <DiscourseConnective annotation_id="17140">et</DiscourseConnective> au bétail, <DiscourseConnective annotation_id="17154">mais</DiscourseConnective> <DiscourseConnective annotation_id="17159">également</DiscourseConnective> <DiscourseConnective annotation_id="17169">à</DiscourseConnective> des être humains - c'est-à-dire les patients.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14522" docOffset="85">
+      <en>The Commission <Alignment alignment="17238" annotation_id="14537">
+          <DiscourseConnective annotation_id="14537" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> draws our attention to recipient countries.</en>
+      <fr>La Commission attire <Alignment alignment="18" annotation_id="17238">
+          <DiscourseConnective annotation_id="17238" sense="Expansion.Conjunction">en outre</DiscourseConnective>
+        </Alignment> notre attention sur les pays d'accueil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14586" docOffset="86">
+      <en>In this respect I would like to highlight the countries of departure.</en>
+      <fr>Je souhaiterais <DiscourseConnective annotation_id="17303">à cet égard</DiscourseConnective> mettre l'accent sur les pays de départ.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14656" docOffset="87">
+      <en>In Eastern Europe we are beginning to see so-called white holes, or areas where there is a shortage of healthcare professionals.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17355">En</DiscourseConnective> Europe de l'Est, nous assistons <DiscourseConnective annotation_id="17390">ainsi</DiscourseConnective> à l'apparition de "trous blancs", de régions confrontées à une pénurie de professionnels de la santé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14785" id="186" name="Charlotte Cederschiöld">
+    <ParallelChunk annotation_id="14785" docOffset="88">
+      <en>(SV) Mr President, I want firstly to thank the Committee on the Environment, Public Health and Food Safety for having put this excellent question to the Commission and providing the opportunity to hear the Commission's reaction to important questions put to it.</en>
+      <fr>(SV) Monsieur le Président, je voudrais en premier lieu remercier la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="17619">et</DiscourseConnective> de la sécurité alimentaire d'avoir posé cette excellente question <DiscourseConnective annotation_id="17688">à</DiscourseConnective> la Commission <DiscourseConnective annotation_id="17704">et</DiscourseConnective> de nous avoir ainsi donné l'occasion d'entendre la réaction de celle-ci face <DiscourseConnective annotation_id="17784">à</DiscourseConnective> des questions importantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15047" docOffset="89">
+      <en>It <Alignment alignment="17820" annotation_id="15050">
+          <DiscourseConnective annotation_id="15050" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> gives those of us in the Committee on Internal Market and Consumer Protection the chance to put forward what we think is important.</en>
+      <fr>Cela a <Alignment alignment="15050" annotation_id="17820">
+          <DiscourseConnective annotation_id="17820" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> permis à ceux d'entre nous qui font partie de la commission du marché intérieur <DiscourseConnective annotation_id="17910">et</DiscourseConnective> de la protection des consommateurs d'exposer les points qui nous tiennent à cœur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15187" docOffset="90">
+      <en>Health is an area in which the Member States have competence <DiscourseConnective annotation_id="15248" sense="Expansion.Conjunction">and</DiscourseConnective> in which the principle of subsidiarity applies.</en>
+      <fr>La santé est un domaine de compétence des États membres <DiscourseConnective annotation_id="18051">pour</DiscourseConnective> lequel s'applique le principe de subsidiarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15300" docOffset="91">
+      <en>That does not, <DiscourseConnective annotation_id="15315" sense="Comparison.Contrast">however</DiscourseConnective>, mean that people should not be entitled to health care and medical treatment in other Member States.</en>
+      <fr>Cela ne signifie pas <DiscourseConnective annotation_id="18124">pour autant que</DiscourseConnective> les personnes ne devraient pas avoir le droit d'être soignées <DiscourseConnective annotation_id="18202">et</DiscourseConnective> de suivre un traitement médical dans d'autres États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15425" docOffset="92">
+      <en>We cannot maintain that we defend the patient's right to safe, high-quality care <Alignment alignment="18363" annotation_id="15506">
+          <DiscourseConnective annotation_id="15506" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we do not allow those who need, for one reason or another, to seek health care in another Member State actually to do so.</en>
+      <fr>Nous ne pouvons prétendre défendre le droit des patients <DiscourseConnective annotation_id="18323">à</DiscourseConnective> des soins de santé sûrs et de qualité <Alignment alignment="15506" annotation_id="18363">
+          <DiscourseConnective annotation_id="18363" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous ne permettons pas concrètement <DiscourseConnective annotation_id="18402">à</DiscourseConnective> ceux qui en ont besoin <DiscourseConnective annotation_id="18427">pour</DiscourseConnective> l'une <DiscourseConnective annotation_id="18438">ou</DiscourseConnective> l'autre raison de se faire soigner dans un autre pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15631" docOffset="93">
+      <en>We must do our utmost to preserve these rights, in spite of the various problems of which all Members are so well aware - problems, yes, but also positive aspects, especially on the information side.</en>
+      <fr>Nous devons faire tout notre possible <DiscourseConnective annotation_id="18534">pour</DiscourseConnective> préserver ces droits, malgré les divers problèmes dont ont parfaitement conscience tous les États membres - des problèmes, oui, <DiscourseConnective annotation_id="18667">mais</DiscourseConnective> <DiscourseConnective annotation_id="18672">également</DiscourseConnective> des aspects positifs, <DiscourseConnective annotation_id="18704">en particulier</DiscourseConnective> <DiscourseConnective annotation_id="18719">pour</DiscourseConnective> ce qui est de l'information.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15831" docOffset="94">
+      <en>It is <Alignment alignment="18760" annotation_id="15837">
+          <DiscourseConnective annotation_id="15837" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> obvious - or, in any case, it should be - that the jurisdiction of the European Court of Justice cannot be weakened by secondary legislation.</en>
+      <fr>Il est <Alignment alignment="5438" annotation_id="18760">
+          <DiscourseConnective annotation_id="18760" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> évident - <DiscourseConnective annotation_id="18780">ou</DiscourseConnective> <DiscourseConnective annotation_id="18783">du moins</DiscourseConnective> il devrait l'être - <DiscourseConnective annotation_id="18812">que</DiscourseConnective> les pouvoirs de la Cour de justice européenne ne peuvent être affaiblis par le droit dérivé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15984" docOffset="95">
+      <en>There is such a thing as established practice, <Alignment alignment="28559" annotation_id="16031">
+          <DiscourseConnective annotation_id="16031" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Treaty gives everyone who wants to do so the right to make services available in another Member State, in full accordance, mind you, with the laws of that Member State.</en>
+      <fr>Il existe ce <DiscourseConnective annotation_id="18922">que</DiscourseConnective> l'on appelle la jurisprudence, <Alignment alignment="6714" annotation_id="18957">
+          <DiscourseConnective annotation_id="18957" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le Traité accorde à quiconque le souhaite le droit de proposer des services dans un autre État membre, mais dans le respect <DiscourseConnective annotation_id="19084">total</DiscourseConnective> des lois de ce pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16208" docOffset="96">
+      <en>
+        <Alignment alignment="28802" annotation_id="16208">
+          <DiscourseConnective annotation_id="16208" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I see it, the Commission should withdraw all legislation in which the Member States and the governments try to limit existing primary law for patients or service providers.</en>
+      <fr>
+        <Alignment alignment="16208" annotation_id="19111">
+          <DiscourseConnective annotation_id="19111" sense="Temporal.Synchrony">À</DiscourseConnective>
+        </Alignment> mes yeux, la Commission devrait retirer toute législation utilisée par les États membres <DiscourseConnective annotation_id="19202">et</DiscourseConnective> les gouvernements pour tenter de limiter la portée du droit primaire favorisant les patients <DiscourseConnective annotation_id="19298">ou</DiscourseConnective> les prestataires de services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16384" docOffset="97">
+      <en>It is important that the proposal produced by the Commission should be a step forward, rather than backward, <Alignment alignment="19415" annotation_id="16493">
+          <DiscourseConnective annotation_id="16493" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have high hopes of Commissioner Kyprianou in this regard.</en>
+      <fr>La proposition de la Commission doit constituer un pas en <DiscourseConnective annotation_id="19389">avant</DiscourseConnective>, et non en arrière, <Alignment alignment="16493" annotation_id="19415">
+          <DiscourseConnective annotation_id="19415" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous attendons beaucoup du commissaire Kyprianou <DiscourseConnective annotation_id="19467">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16558" id="187" name="Bernadette Vergnaud">
+    <ParallelChunk annotation_id="16558" docOffset="98">
+      <en>(FR) Mr President, Commissioner, ladies and gentlemen, health services, which have been excluded from the Services Directive, constitute a crucial pillar of the European social model.</en>
+      <fr>Monsieur le Président, Monsieur le Commissaire, mes chers collègues, les services de santé, exclus de la directive sur les services, constituent un pilier essentiel du modèle social européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16742" docOffset="99">
+      <en>They contribute to social, territorial and economic cohesion, are a mission of general interest, and are <DiscourseConnective annotation_id="16847" sense="Expansion.Conjunction">also</DiscourseConnective> consistent with the Lisbon Strategy.</en>
+      <fr>Ils participent <DiscourseConnective annotation_id="19688">à</DiscourseConnective> la cohésion sociale, territoriale, économique, relèvent d'une mission d'intérêt général, <DiscourseConnective annotation_id="19779">tout en</DiscourseConnective> <DiscourseConnective annotation_id="19787">s'</DiscourseConnective>intégrant dans la stratégie de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16889" docOffset="100">
+      <en>The Commission consultation must not be reduced to the free movement of health services, or aim at simply implementing an internal market in these services, <DiscourseConnective annotation_id="17046" sense="Temporal.Synchrony">as</DiscourseConnective> this would lead to a two-speed system, from which only the well-off and best informed patients would benefit.</en>
+      <fr>La consultation de la Commission ne saurait se réduire <DiscourseConnective annotation_id="19885">à</DiscourseConnective> la libre circulation des services de santé, ni viser <DiscourseConnective annotation_id="19940">à</DiscourseConnective> la simple mise en place d'un marché intérieur de ces services, qui conduirait <DiscourseConnective annotation_id="20020">à</DiscourseConnective> un système à deux vitesses, dont seuls les patients aisés <DiscourseConnective annotation_id="20080">et</DiscourseConnective> les <DiscourseConnective annotation_id="20087">mieux</DiscourseConnective> informés tireraient bénéfice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17159" docOffset="101">
+      <en>The consultation must provide an opportunity to clearly define the role and added value of the Union, in order to guarantee a high level of health protection <DiscourseConnective annotation_id="17317" sense="Temporal.Synchrony">while</DiscourseConnective> respecting the national characteristics and powers of the Member States.</en>
+      <fr>Elle doit être l'occasion de définir clairement le rôle <DiscourseConnective annotation_id="20179">et</DiscourseConnective> la valeur ajoutée de l'Union, <DiscourseConnective annotation_id="20212">pour</DiscourseConnective> assurer un niveau élevé de protection de la santé dans le respect des spécificités nationales <DiscourseConnective annotation_id="20311">et</DiscourseConnective> des compétences des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17396" docOffset="102">
+      <en>The mobility of patients and professionals must be guaranteed, with respect shown for the following fundamental values and principles: universality, solidarity, quality, security and durability.</en>
+      <fr>La mobilité des patients <DiscourseConnective annotation_id="20374">et</DiscourseConnective> des professionnels doit être assurée dans le respect des valeurs <DiscourseConnective annotation_id="20442">et</DiscourseConnective> des principes fondamentaux suivants: universalité, solidarité, qualité, sécurité, durabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17591" docOffset="103">
+      <en>It is imperative that a European legislative framework and, more specifically, a directive on health services, be adopted in order to increase the legal protection of patients, health professionals and health insurance systems and <Alignment alignment="20786" annotation_id="17822">
+          <DiscourseConnective annotation_id="17822" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> to restore the confidence of all Europeans in all Member States.</en>
+      <fr>L'adoption d'un cadre législatif européen, <DiscourseConnective annotation_id="20582">notamment</DiscourseConnective> une directive sur les services de santé, est de la plus haute importance pour renforcer la protection juridique des patients, des professionnels de la santé, des systèmes d'assurance maladie <DiscourseConnective annotation_id="20783">et</DiscourseConnective> <Alignment alignment="17822" annotation_id="20786">
+          <DiscourseConnective annotation_id="20786" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> redonner confiance <DiscourseConnective annotation_id="20811">à</DiscourseConnective> l'ensemble des citoyens européens de tous les États membres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17892" id="188" name="Thomas Ulmer">
+    <ParallelChunk annotation_id="17892" docOffset="104">
+      <en>(DE) Mr President, Commissioner, ladies and gentlemen, health knows no frontiers, or at least, one hopes that that is the case.</en>
+      <fr>(DE) Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="20936">et</DiscourseConnective> Messieurs, la santé n'a pas de frontières - <DiscourseConnective annotation_id="20983">ou</DiscourseConnective>, <DiscourseConnective annotation_id="20987">du moins</DiscourseConnective>, c'est ce que nous espérons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18020" docOffset="105">
+      <en>In exactly the same way health services should not stop at borders either, <Alignment alignment="21125" annotation_id="18095">
+          <Alignment alignment="21125" annotation_id="18095">
+            <Alignment alignment="45827" annotation_id="18095">
+              <DiscourseConnective annotation_id="18095" sense="Expansion.Restatement">in other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, they should be of high quality and available to every citizen of the EU wherever he or she may be.</en>
+      <fr>Il <DiscourseConnective annotation_id="21028">en</DiscourseConnective> va exactement <DiscourseConnective annotation_id="21045">de même</DiscourseConnective> pour les soins de santé: ils ne devraient pas s'arrêter aux frontières, <Alignment alignment="18095" annotation_id="21125">
+          <Alignment alignment="18095" annotation_id="21125">
+            <Alignment alignment="18095" annotation_id="21125">
+              <DiscourseConnective annotation_id="21125" sense="Expansion.Restatement">en d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment> ils devraient être de qualité équivalente <DiscourseConnective annotation_id="21186">et</DiscourseConnective> accessibles <DiscourseConnective annotation_id="21201">à</DiscourseConnective> tous les citoyens de l'UE où que ceux-ci se trouvent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18210" docOffset="106">
+      <en>We are now at the beginning of a debate rather than the end of one, <Alignment alignment="21375" annotation_id="18278">
+          <DiscourseConnective annotation_id="18278" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> a vigorous debate is desirable and will get us where we want to go; health is not a commodity, <Alignment alignment="21461" annotation_id="18376">
+          <DiscourseConnective annotation_id="18376" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the internal market is, after all, no more than the space within which these services are provided.</en>
+      <fr>Nous sommes à présent au début, et non à la fin, d'un débat; il est donc souhaitable que nous le menions avec énergie <Alignment alignment="18278" annotation_id="21375">
+          <DiscourseConnective annotation_id="21375" sense="Contingency.Cause.Result">afin qu'</DiscourseConnective>
+        </Alignment>il nous conduise là où nous voulons aller. La santé n'est pas une marchandise <Alignment alignment="18376" annotation_id="21461">
+          <DiscourseConnective annotation_id="21461" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le marché intérieur n'est <DiscourseConnective annotation_id="21490">en fin de compte</DiscourseConnective> <DiscourseConnective annotation_id="21507">qu'</DiscourseConnective>un espace dans lequel ces services sont fournis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18480" docOffset="107">
+      <en>These services need to be subject to special rules, with questions relating to the guarantee of quality provided, patients' safety, the safety of medicines and of medical products, to redress in the event of faulty or failed procedures, and to centres of excellence being examined in depth.</en>
+      <fr>Nous devons prévoir des règles spécifiques pour ces services et procéder à un examen approfondi des questions relatives <DiscourseConnective annotation_id="21679">à</DiscourseConnective> la garantie de qualité, à la sécurité des patients, à la sécurité en matière de médicaments <DiscourseConnective annotation_id="21773">et</DiscourseConnective> de produits médicaux, aux recours en réparation <DiscourseConnective annotation_id="21824">en</DiscourseConnective> cas de vices <DiscourseConnective annotation_id="21840">ou</DiscourseConnective> d'échecs de procédure, <DiscourseConnective annotation_id="21866">ainsi</DiscourseConnective> qu'aux centres d'excellence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18771" docOffset="108">
+      <en>The patient, who is to be protected, is the subject of particular concern, being, in cases of doubt, the weaker party, and often, indeed, the one who is at the mercy of others.</en>
+      <fr>Le patient, dont il faut garantir la protection, fait l'objet d'une attention particulière, car il est le plus faible <DiscourseConnective annotation_id="22019">en</DiscourseConnective> cas de doute et, il faut le reconnaître, bien souvent <DiscourseConnective annotation_id="22076">à</DiscourseConnective> la merci des autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18948" docOffset="109">
+      <en>We are, as matter of principle, in favour of patient mobility and of the mobility of service providers, <Alignment alignment="22194" annotation_id="19052">
+          <DiscourseConnective annotation_id="19052" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> reimbursement, which is a quite essential element in the cross-border trade in medical services, is subsidiary, <Alignment alignment="22319" annotation_id="19168">
+          <DiscourseConnective annotation_id="19168" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this has to be made plain right now, even <Alignment alignment="22373" annotation_id="19214">
+          <DiscourseConnective annotation_id="19214" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> things are only at an early stage.</en>
+      <fr>Nous sommes <DiscourseConnective annotation_id="22111">en</DiscourseConnective> principe favorables <DiscourseConnective annotation_id="22134">à</DiscourseConnective> la mobilité des patients <DiscourseConnective annotation_id="22161">et</DiscourseConnective> des prestataires de services. <Alignment alignment="19052" annotation_id="22194">
+          <DiscourseConnective annotation_id="22194" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, le remboursement, un élément absolument essentiel du commerce transfrontalier de soins médicaux, est subsidiaire, <Alignment alignment="19168" annotation_id="22319">
+          <DiscourseConnective annotation_id="22319" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous devons insister sur ce point dès aujourd'hui, <Alignment alignment="19214" annotation_id="22373">
+          <DiscourseConnective annotation_id="22373" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> les choses n'en sont <DiscourseConnective annotation_id="22402">encore qu'</DiscourseConnective>à leurs débuts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19256" docOffset="110">
+      <en>I do not, at present, see any chance of a European health insurance fund, and do not <Alignment alignment="22743" annotation_id="19341">
+          <DiscourseConnective annotation_id="19341" sense="Expansion.Conjunction">indeed</DiscourseConnective>
+        </Alignment> think one is germane to our purpose, on the grounds that all the 27 national systems have their own problems, <DiscourseConnective annotation_id="19458" sense="Expansion.Conjunction">and</DiscourseConnective>, here too, where reimbursement is concerned, we are talking not about an open market, but rather about state-run and dirigiste systems.</en>
+      <fr>Je ne pense pas qu'il existe actuellement une quelconque possibilité <DiscourseConnective annotation_id="22497">pour que</DiscourseConnective> soit créé un fonds d'assurance maladie européen, <DiscourseConnective annotation_id="22555">et</DiscourseConnective> je ne pense pas non plus que l'établissement d'un tel fonds servirait notre objectif, <DiscourseConnective annotation_id="22644">du fait que</DiscourseConnective> chacun des vingt-sept systèmes nationaux rencontre des problèmes qui lui sont propres. <Alignment alignment="8681" annotation_id="22743">
+          <DiscourseConnective annotation_id="22743" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+        </Alignment>, dans ce cas-ci <DiscourseConnective annotation_id="22772">également</DiscourseConnective>, s'agissant de remboursement, il n'est pas question d'un marché ouvert, <DiscourseConnective annotation_id="22854">mais</DiscourseConnective> <DiscourseConnective annotation_id="22859">plutôt</DiscourseConnective> de systèmes gérés par l'État selon une approche dirigiste.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19598" docOffset="111">
+      <en>In my own country, which has an extraordinarily complex system of payment to beneficiaries, such an opening-up would raise at once the discrimination against the country's own nationals, <Alignment alignment="23132" annotation_id="19785">
+          <DiscourseConnective annotation_id="19785" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the benefits paid are capped rather than open-ended.</en>
+      <fr>Dans mon pays, qui possède un système de paiement aux bénéficiaires extraordinairement complexe, pareille ouverture entraînerait sur-le-champ une situation de discrimination au détriment de mes concitoyens, <Alignment alignment="18673" annotation_id="23132">
+          <DiscourseConnective annotation_id="23132" sense="Contingency.Cause.Reason">étant donné que</DiscourseConnective>
+        </Alignment> les prestations versées sont limitées et non ouvertes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19844" docOffset="112">
+      <en>It think it still appropriate that primary responsibility for this dossier should remain with the Committee on the Environment, Public Health and Food Safety rather than with the Committee on the Internal Market and Consumer Protection.</en>
+      <fr>Je reste d'avis <DiscourseConnective annotation_id="23219">que</DiscourseConnective> la responsabilité <DiscourseConnective annotation_id="23241">pour</DiscourseConnective> ce dossier incombe prioritairement <DiscourseConnective annotation_id="23281">à</DiscourseConnective> la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="23338">et</DiscourseConnective> de la sécurité alimentaire, et non <DiscourseConnective annotation_id="23376">à</DiscourseConnective> celle du marché intérieur <DiscourseConnective annotation_id="23404">et</DiscourseConnective> de la protection des consommateurs.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20081" id="189" name="Markos Kyprianou">
+    <ParallelChunk annotation_id="20081" docOffset="113">
+      <en>Member of the Commission. Mr President, I would like to thank Members for a very interesting debate, which will be very useful and will provide guidance for us in the next steps of drafting a proposal, along with the outcome of contributions from the other stakeholders, from consultations and from the Member States.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, je voudrais remercier les députés <DiscourseConnective annotation_id="23532">pour</DiscourseConnective> ce débat très intéressant, qui se révélera très utile <DiscourseConnective annotation_id="23591">et</DiscourseConnective> qui nous servira de référence lors des prochaines étapes de l'élaboration d'une proposition, <DiscourseConnective annotation_id="23687">au même titre que</DiscourseConnective> le <DiscourseConnective annotation_id="23708">résultat</DiscourseConnective> des contributions venant des autres parties prenantes, des consultations <DiscourseConnective annotation_id="23790">et</DiscourseConnective> des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20399" docOffset="114">
+      <en>Just to cover a few issues: first of all, we will certainly be taking into account the health objectives and social values adopted by the health ministers last June, <DiscourseConnective annotation_id="20565" sense="Expansion.Conjunction">and</DiscourseConnective> this will be one of the considerations in our proposal.</en>
+      <fr>Ce qui suit juste <DiscourseConnective annotation_id="23830">pour</DiscourseConnective> faire le tour de quelques questions. <DiscourseConnective annotation_id="23872">Tout d'abord</DiscourseConnective>, nous prendrons certainement en considération les objectifs en matière de santé <DiscourseConnective annotation_id="23965">et</DiscourseConnective> les valeurs sociales adoptées par les ministres de la santé en juin dernier; c'est une des choses dont nous tiendrons compte dans notre proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20625" docOffset="115">
+      <en>At the same time, we will <Alignment alignment="1815" annotation_id="20651">
+          <DiscourseConnective annotation_id="20651" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be looking at the important issue of patients' rights, which is part of our consultation on Community action.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24117">En même temps</DiscourseConnective>, nous examinerons <Alignment alignment="20651" annotation_id="24149">
+          <DiscourseConnective annotation_id="24149" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la question essentielle des droits des patients, qui <DiscourseConnective annotation_id="24212">s'</DiscourseConnective>inscrit dans le cadre de la consultation que nous menons sur l'action communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20766" docOffset="116">
+      <en>It is clear that we will look at these issues; what tools will be used will, of course, be decided after proper analysis of the consultation and based on the responses provided.</en>
+      <fr>Il est évident <DiscourseConnective annotation_id="24314">que</DiscourseConnective> nous nous pencherons sur ces questions; le choix des instruments à utiliser sera, bien sûr, décidé à l'issue d'une analyse adéquate de la consultation <DiscourseConnective annotation_id="24469">et</DiscourseConnective> en fonction des réponses apportées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20944" docOffset="117">
+      <en>I would like to confirm that what we plan to do is to take a step forward <Alignment alignment="24571" annotation_id="21018">
+          <DiscourseConnective annotation_id="21018" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> not to reduce or undermine patients' rights <DiscourseConnective annotation_id="21066" sense="Temporal.Synchrony">as</DiscourseConnective> recognised by the Court, but to improve them and make them work, make them more concrete, and to make it possible to apply them equally among all European citizens.</en>
+      <fr>Je voudrais confirmer <DiscourseConnective annotation_id="24530">que</DiscourseConnective> nous avons l'intention de progresser <Alignment alignment="21018" annotation_id="24571">
+          <DiscourseConnective annotation_id="24571" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de ne pas limiter <DiscourseConnective annotation_id="24592">ou</DiscourseConnective> réduire les droits reconnus aux patients par la Cour. Au contraire, nous voulons les améliorer, assurer leur bon fonctionnement, les rendre plus concrets <DiscourseConnective annotation_id="24749">et</DiscourseConnective> permettre qu'ils soient appliqués de manière équitable <DiscourseConnective annotation_id="24807">à</DiscourseConnective> tous les citoyens européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21234" docOffset="118">
+      <en>Information is an important factor in this respect.</en>
+      <fr>L'information est un facteur fondamental <DiscourseConnective annotation_id="24879">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21286" docOffset="119">
+      <en>
+        <Alignment alignment="16596" annotation_id="21286">
+          <DiscourseConnective annotation_id="21286" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> we have already stated, we will take subsidiarity into account.</en>
+      <fr>
+        <Alignment alignment="21286" annotation_id="24892">
+          <DiscourseConnective annotation_id="24892" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> nous l'avons <DiscourseConnective annotation_id="24911">déjà</DiscourseConnective> déclaré, nous allons tenir compte de la subsidiarité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21353" docOffset="120">
+      <en>
+        <DiscourseConnective annotation_id="21353" sense="Comparison.Contrast">However</DiscourseConnective>, I have to remind you first of all that we do not propose harmonisation of national health assistance - this is not the intention.</en>
+      <fr>Je dois <DiscourseConnective annotation_id="24978">tout d'abord</DiscourseConnective> vous rappeler <DiscourseConnective annotation_id="25005">que</DiscourseConnective> nous ne proposons pas l'harmonisation des services nationaux de santé; nous n'en avons pas l'intention.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21492" docOffset="121">
+      <en>
+        <DiscourseConnective annotation_id="21492" sense="Comparison.Contrast">But</DiscourseConnective>, at the same time, I have to remind you of the European Court of Justice judgment on the Watts case, which provided that there are situations where Member States, based on other Treaty provisions, will have to apply to amend and adjust their national healthcare systems.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25113">En même temps</DiscourseConnective>, je dois vous rappeler l'arrêt de la Cour de justice européenne dans l'affaire Watts, qui précisait <DiscourseConnective annotation_id="25227">qu'</DiscourseConnective>il existe des situations dans lesquelles les États membres, sur la base d'autres dispositions du Traité, devront introduire une demande s'ils veulent amender <DiscourseConnective annotation_id="25388">et</DiscourseConnective> adapter leurs systèmes nationaux de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21767" docOffset="122">
+      <en>Finally, I think there is a misunderstanding here.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25443">Enfin</DiscourseConnective>, je pense qu'il existe ici un malentendu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21818" docOffset="123">
+      <en>First of all, there are no proposals in the communication <Alignment alignment="34491" annotation_id="21876">
+          <DiscourseConnective annotation_id="21876" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is precisely a consultation document.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25491">Premièrement</DiscourseConnective>, la communication ne contient pas de propositions, <Alignment alignment="21876" annotation_id="25555">
+          <DiscourseConnective annotation_id="25555" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il <DiscourseConnective annotation_id="25562">s'</DiscourseConnective>agit <DiscourseConnective annotation_id="25569">précisément</DiscourseConnective> d'un document réservé à la consultation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21925" docOffset="124">
+      <en>We did not want to pre-empt the positions of Parliament, the Member States and the stakeholders, <DiscourseConnective annotation_id="22022" sense="Contingency.Cause.Result">so</DiscourseConnective> it is intentional that there is no proposal at this stage.</en>
+      <fr>Comme nous n'avons pas voulu anticiper les positions du Parlement, des États membres <DiscourseConnective annotation_id="25707">et</DiscourseConnective> des parties prenantes, c'est intentionnellement <DiscourseConnective annotation_id="25758">que</DiscourseConnective> nous n'avons pas soumis de proposition <DiscourseConnective annotation_id="25801">à</DiscourseConnective> ce stade.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22084" docOffset="125">
+      <en>It is just a description of the problems.</en>
+      <fr>Il <DiscourseConnective annotation_id="25816">s'</DiscourseConnective>agit <DiscourseConnective annotation_id="25823">simplement</DiscourseConnective> d'une description des problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22126" docOffset="126">
+      <en>Freedom of movement and patient mobility is not something which is being introduced by the European Commission - I think we discussed that in the past as well - it is something which has been recognised, whether we like it <Alignment alignment="26078" annotation_id="22349">
+          <DiscourseConnective annotation_id="22349" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not - <Alignment alignment="46610" annotation_id="22358">
+          <DiscourseConnective annotation_id="22358" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope we like it! - by the European Court of Justice, which has established that the internal market rules apply <Alignment alignment="26219" annotation_id="22476">
+          <DiscourseConnective annotation_id="22476" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> to health, even <Alignment alignment="9136" annotation_id="22497">
+          <DiscourseConnective annotation_id="22497" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> this is publicly funded.</en>
+      <fr>La libre circulation <DiscourseConnective annotation_id="25888">et</DiscourseConnective> la mobilité des patients ne sont pas introduites par la Commission européenne. Je pense que nous en avons également discuté dans le passé, elles ont été reconnues, <DiscourseConnective annotation_id="26055">que</DiscourseConnective> nous l'appréciions <Alignment alignment="22349" annotation_id="26078">
+          <DiscourseConnective annotation_id="26078" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non - <Alignment alignment="22358" annotation_id="26087">
+          <DiscourseConnective annotation_id="26087" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère que nous l'apprécions - par la Cour de justice européenne, qui a établi <DiscourseConnective annotation_id="26171">que</DiscourseConnective> les règles du marché intérieur s'appliquent <Alignment alignment="22476" annotation_id="26219">
+          <DiscourseConnective annotation_id="26219" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="26225">à</DiscourseConnective> la santé, <Alignment alignment="22497" annotation_id="26237">
+          <DiscourseConnective annotation_id="26237" sense="Contingency.Condition">même si</DiscourseConnective>
+        </Alignment> celle-ci est financée par l'État.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22525" docOffset="127">
+      <en>
+        <Alignment alignment="26292" annotation_id="22525">
+          <DiscourseConnective annotation_id="22525" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> this is not a question of a Commission initiative introducing a new concept but how we in the Commission, together with Parliament and the Member States, can make this concept, this reality, work for the benefit of patients without being to the detriment of the national healthcare systems, their viability and their operation.</en>
+      <fr>Il ne <DiscourseConnective annotation_id="26285">s'</DiscourseConnective>agit <Alignment alignment="13402" annotation_id="26292">
+          <DiscourseConnective annotation_id="26292" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas d'une initiative de la Commission qui introduirait un nouveau concept, <DiscourseConnective annotation_id="26372">mais</DiscourseConnective> bien de la manière dont nous, <DiscourseConnective annotation_id="26407">à</DiscourseConnective> la Commission, avec le Parlement <DiscourseConnective annotation_id="26442">et</DiscourseConnective> les États membres, pouvons faire fonctionner ce concept, cette réalité, dans l'intérêt des patients, <DiscourseConnective annotation_id="26546">sans</DiscourseConnective> porter préjudice aux systèmes nationaux de soins de santé, à leur viabilité <DiscourseConnective annotation_id="26627">et</DiscourseConnective> à leur exploitation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22856" docOffset="128">
+      <en>This is a big challenge for us <Alignment alignment="26682" annotation_id="22887">
+          <DiscourseConnective annotation_id="22887" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I think it is a big opportunity as well, <Alignment alignment="26730" annotation_id="22932">
+          <DiscourseConnective annotation_id="22932" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we can make it work for the benefit of citizens.</en>
+      <fr>C'est un grand défi <DiscourseConnective annotation_id="26671">pour</DiscourseConnective> nous, <Alignment alignment="22887" annotation_id="26682">
+          <DiscourseConnective annotation_id="26682" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je pense que c'est aussi une réelle chance <Alignment alignment="22932" annotation_id="26730">
+          <DiscourseConnective annotation_id="26730" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous pouvons en assurer la réussite dans l'intérêt des citoyens.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22985" id="190" name="President">
+    <ParallelChunk annotation_id="22985" docOffset="129">
+      <en>To conclude the debate, I have received one motion for a resolution pursuant to Rule 108(5) of the Rules of Procedure.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26798">En</DiscourseConnective> conclusion de ce débat, j'ai reçu une proposition de résolution, déposée sur la base de l'article 108, paragraphe 5, du règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23104" docOffset="130">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23126" docOffset="131">
+      <en>The vote will take place on Thursday at 12 noon.</en>
+      <fr>Le vote aura lieu jeudi <DiscourseConnective annotation_id="26975">à</DiscourseConnective> midi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

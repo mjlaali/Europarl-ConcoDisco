@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Implementation of the Single Euro Payments Area (SEPA) (debate)</en>
+    <fr>Mise en œuvre de l'espace unique de paiements en euros (SEPA) (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="64" id="172" name="President">
+    <ParallelChunk annotation_id="64" docOffset="1">
+      <en>The next item is the oral question to the Commission by Sharon Bowles on the Single European Payment Area (SEPA).</en>
+      <fr>L'ordre du jour appelle le débat sur la question orale <DiscourseConnective annotation_id="125">à</DiscourseConnective> la Commission sur l'espace unique de paiements en euros (SEPA) de Sharon Bowles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="178" id="173" name="Sharon Bowles">
+    <ParallelChunk annotation_id="178" docOffset="2">
+      <en>author. - Mr President, my predecessor as Chair of the Economic and Monetary Affairs Committee brought a resolution on SEPA to this Chamber on 12 March 2009.</en>
+      <fr>auteure. - (EN) Monsieur le Président, la collègue qui m'a précédée <DiscourseConnective annotation_id="276">à</DiscourseConnective> la présidence de la commission des affaires économiques <DiscourseConnective annotation_id="334">et</DiscourseConnective> monétaires a, le 12 mars 2009, présenté <DiscourseConnective annotation_id="377">à</DiscourseConnective> cette Assemblée une résolution concernant le SEPA. Depuis lors, peu de choses ont changé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="336" docOffset="3">
+      <en>Not much has changed <Alignment alignment="41448" annotation_id="357">
+          <DiscourseConnective annotation_id="357" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> now I bring mine here in March 2010.</en>
+      <fr>En mars 2010, c'est <Alignment alignment="1310" annotation_id="489">
+          <DiscourseConnective annotation_id="489" sense="Expansion.Conjunction">à</DiscourseConnective>
+        </Alignment> présent à mon tour de présenter une proposition de résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="398" docOffset="4">
+      <en>Can I say that we really do expect progress before the Ides of March 2011.</en>
+      <fr>Inutile de préciser <DiscourseConnective annotation_id="574">que</DiscourseConnective> nous attendons vraiment des progrès <DiscourseConnective annotation_id="614">avant</DiscourseConnective> les ides de mars 2011.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="473" docOffset="5">
+      <en>The Commission has made an effort in its SEPA roadmap of September 2009.</en>
+      <fr>La Commission a fait un effort avec sa feuille de route de septembre 2009 concernant le SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="546" docOffset="6">
+      <en>We agree with the actions in the six priority areas, <Alignment alignment="49156" annotation_id="599">
+          <DiscourseConnective annotation_id="599" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> a large majority of the respondents of the Commission's own consultation said that it was necessary to fix an end date in order to incentivise the reluctant.</en>
+      <fr>Les actions relevant des six domaines prioritaires recueillent notre adhésion, <Alignment alignment="12522" annotation_id="816">
+          <DiscourseConnective annotation_id="816" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> une grande majorité de ceux qui ont répondu à la consultation lancée par la Commission ont évoqué la nécessité de déterminer une date butoir, <DiscourseConnective annotation_id="963">de manière à</DiscourseConnective> motiver ceux qui trainent les pieds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="761" docOffset="7">
+      <en>Those are the Commission's own words.</en>
+      <fr>Ce sont les termes employés par la Commission elle-même.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="799" docOffset="8">
+      <en>Now, you cannot put it any straighter than that, <DiscourseConnective annotation_id="848" sense="Expansion.Conjunction">and</DiscourseConnective> we suggest that the binding end date be fixed for no later than 31 December 2012.</en>
+      <fr>On ne peut être plus direct. Nous proposons de fixer une date butoir contraignante <DiscourseConnective annotation_id="1153">pour</DiscourseConnective> le 31 décembre 2012 au <DiscourseConnective annotation_id="1181">plus tard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="934" docOffset="9">
+      <en>We live in times <DiscourseConnective annotation_id="951" sense="Temporal.Synchrony">when</DiscourseConnective> there are increasing numbers of cross-border purchases and contracts.</en>
+      <fr>Notre époque se caractérise par une croissance des achats <DiscourseConnective annotation_id="1250">et</DiscourseConnective> des contrats transnationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1026" docOffset="10">
+      <en>Having common standards for these cross-border payments, credit transfers and direct debits is an important part of the health and growth of the single market.</en>
+      <fr>La santé <DiscourseConnective annotation_id="1291">et</DiscourseConnective> la croissance du marché unique dépendent <DiscourseConnective annotation_id="1335">en</DiscourseConnective> grande partie de l'application de normes communes <DiscourseConnective annotation_id="1388">pour</DiscourseConnective> ces paiements, virements <DiscourseConnective annotation_id="1418">et</DiscourseConnective> prélèvements transfrontaliers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1186" docOffset="11">
+      <en>It is much better for consumers <DiscourseConnective annotation_id="1218" sense="Temporal.Synchrony">when</DiscourseConnective> they do not have to check whether there are different arrangements from country to country or get caught out <Alignment alignment="17018" annotation_id="1332">
+          <DiscourseConnective annotation_id="1332" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there are.</en>
+      <fr>Il est nettement préférable <DiscourseConnective annotation_id="1480">pour</DiscourseConnective> les consommateurs de ne pas avoir <DiscourseConnective annotation_id="1519">à</DiscourseConnective> s'enquérir de l'existence de différentes mécanismes dans tel ou tel pays ni de courir le risque d'être pris en défaut <Alignment alignment="16530" annotation_id="1639">
+          <DiscourseConnective annotation_id="1639" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>ils en ignoraient l'existence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1351" docOffset="12">
+      <en>
+        <Alignment alignment="1705" annotation_id="1351">
+          <DiscourseConnective annotation_id="1351" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> consumers are not unfavourable to this project, <Alignment alignment="1735" annotation_id="1402">
+          <DiscourseConnective annotation_id="1402" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they do have to have security, <DiscourseConnective annotation_id="1437" sense="Expansion.Conjunction">and</DiscourseConnective> it is a worry <DiscourseConnective annotation_id="1455" sense="Contingency.Condition">if</DiscourseConnective> there are not sufficient safeguards for the management and checking of the mandate of direct debits.</en>
+      <fr>Les consommateurs ne sont <Alignment alignment="1351" annotation_id="1705">
+          <DiscourseConnective annotation_id="1705" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas opposés <DiscourseConnective annotation_id="1722">à</DiscourseConnective> ce projet, <Alignment alignment="10885" annotation_id="1735">
+          <DiscourseConnective annotation_id="1735" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ils ont besoin de sécurité. Or, d'aucuns sont préoccupés par l'absence de garanties suffisantes <DiscourseConnective annotation_id="1836">pour</DiscourseConnective> la gestion des prélèvements <DiscourseConnective annotation_id="1869">et</DiscourseConnective> le contrôle des mandats s'y rapportant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1559" docOffset="13">
+      <en>Payment systems take up one third of the operating costs of banks <Alignment alignment="36748" annotation_id="1625">
+          <DiscourseConnective annotation_id="1625" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> there is a lot in it for banks to get SEPA right, <DiscourseConnective annotation_id="1678" sense="Comparison.Contrast">but</DiscourseConnective> they cannot have it all their own way.</en>
+      <fr>Les systèmes de paiement représentent un tiers des coûts d'exploitation des banques. Les banques ont <Alignment alignment="1625" annotation_id="2013">
+          <DiscourseConnective annotation_id="2013" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> un grand intérêt <DiscourseConnective annotation_id="2035">à</DiscourseConnective> assurer une bonne migration vers le SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1721" docOffset="14">
+      <en>The European Payments Council must recognise that consumers are worried about frauds and confidence tricks, <Alignment alignment="43255" annotation_id="1829">
+          <DiscourseConnective annotation_id="1829" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> who is looking out for them.</en>
+      <fr>On ne peut cependant pas leur donner toute latitude. Le Conseil européen des paiements ne peut ignorer les préoccupations des consommateurs au sujet des fraudes <DiscourseConnective annotation_id="2240">et</DiscourseConnective> abus de confiance, <Alignment alignment="4288" annotation_id="2262">
+          <DiscourseConnective annotation_id="2262" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de ceux qui les relèvent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1862" docOffset="15">
+      <en>Some busy people may not notice a new transaction, especially <Alignment alignment="7997" annotation_id="1924">
+          <DiscourseConnective annotation_id="1924" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the amount is a common one.</en>
+      <fr>Auprès de certaines personnes occupées, il se peut qu'une nouvelle opération passe inaperçue, <Alignment alignment="11907" annotation_id="2385">
+          <DiscourseConnective annotation_id="2385" sense="Contingency.Condition">a fortiori si</DiscourseConnective>
+        </Alignment> le montant est habituel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1955" docOffset="16">
+      <en>
+        <Alignment alignment="33939" annotation_id="1955">
+          <DiscourseConnective annotation_id="1955" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, there must be possibilities for the consumer to have extra safeguards around the setting up of direct debits.</en>
+      <fr>Le consommateur doit <Alignment alignment="6325" annotation_id="2445">
+          <DiscourseConnective annotation_id="2445" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pouvoir disposer de garanties supplémentaires concernant la mise en place de prélèvements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2076" docOffset="17">
+      <en>It is no good to say that banks will pick up all the frauds.</en>
+      <fr>On ne peut pas se contenter de <DiscourseConnective annotation_id="2572">dire que</DiscourseConnective> les banques détecteront toutes les fraudes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2137" docOffset="18">
+      <en>Banks have not picked up fraudulent cheque practices.</en>
+      <fr>Certaines fraudes aux chèques sont ainsi passées inaperçues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2191" docOffset="19">
+      <en>
+        <Alignment alignment="11936" annotation_id="2191">
+          <DiscourseConnective annotation_id="2191" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, in France, there have been problems with back-of-cheque endorsement frauds on cheques made out to a bank being paid into a third-party account. This has happened four years <Alignment alignment="41088" annotation_id="2377">
+          <DiscourseConnective annotation_id="2377" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> the UK Financial Services Authority closed that loophole.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2686">En</DiscourseConnective> France, <Alignment alignment="393" annotation_id="2697">
+          <DiscourseConnective annotation_id="2697" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, on a constaté des problèmes de fraude à l'endossement de chèques libellés <DiscourseConnective annotation_id="2784">à</DiscourseConnective> l'ordre d'une banque au profit d'un compte tiers, quatre ans <Alignment alignment="15373" annotation_id="2847">
+          <DiscourseConnective annotation_id="2847" sense="Temporal.Asynchronous.Succession">après que</DiscourseConnective>
+        </Alignment> l'autorité britannique des services financiers ait remédié à cette faille.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2441" docOffset="20">
+      <en>It is not satisfactory to solve these problems with add-ons or additional offers of services which do not protect everyone.</en>
+      <fr>On ne peut se contenter de résoudre ces problèmes par des extensions de garantie <DiscourseConnective annotation_id="3013">et</DiscourseConnective> des offres de services supplémentaires auxquelles tous n'ont pas accès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2565" docOffset="21">
+      <en>That is the fraudster's charter.</en>
+      <fr>C'est inciter à la fraude.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2598" docOffset="22">
+      <en>It is not satisfactory to be done country by country. That is the cross-border fraudster's charter.</en>
+      <fr>Une action nationale n'est pas non plus suffisante, car c'est là inciter <DiscourseConnective annotation_id="3188">à</DiscourseConnective> la fraude internationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2698" docOffset="23">
+      <en>So, Commissioner, we look to you to be firm, fix these problems and come forward with solutions for SEPA direct debits by 30 September 2010.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3216">Dès lors</DiscourseConnective>, Monsieur le Commissaire, nous attendons de vous de la fermeté, que vous résolviez ces problèmes <DiscourseConnective annotation_id="3322">et</DiscourseConnective> que vous apportiez des solutions <DiscourseConnective annotation_id="3358">pour</DiscourseConnective> les prélèvements SEPA pour le 30 septembre 2010 au plus tard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2839" docOffset="24">
+      <en>This year should see a significant increase in the use of SEPA by public authorities, <DiscourseConnective annotation_id="2925" sense="Contingency.Cause.Result">so</DiscourseConnective> the moment is right to press forward, especially asking Member States that have not made plans to participate in the surveys.</en>
+      <fr>Cette année, l'utilisation du SEPA par les pouvoirs publics devrait croître sensiblement. Le moment est donc venu de faire avancer les choses, <DiscourseConnective annotation_id="3568">notamment en</DiscourseConnective> demandant aux États membres qui n'ont pas encore élaboré de plans de prendre part aux enquêtes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3054" docOffset="25">
+      <en>We <Alignment alignment="3692" annotation_id="3057">
+          <DiscourseConnective annotation_id="3057" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> ask that those - or maybe it is that - Member State that has not solved the problem of continuing legal validity of existing direct debit mandates to get on with it and solve the problem.</en>
+      <fr>Nous demandons <Alignment alignment="3057" annotation_id="3692">
+          <DiscourseConnective annotation_id="3692" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> aux États membres, <DiscourseConnective annotation_id="3721">mais</DiscourseConnective> peut-être n'y en a-t-il plus qu'un seul, qui n'ont pas encore résolu le problème de la durée de la validité légale des mandats de débit direct, de s'atteler <DiscourseConnective annotation_id="3883">à</DiscourseConnective> cette tâche <DiscourseConnective annotation_id="3897">et</DiscourseConnective> de résoudre le problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3250" docOffset="26">
+      <en>Perhaps the other main stumbling block is the multilateral interchange fee for card payments <DiscourseConnective annotation_id="3343" sense="Expansion.Conjunction">and</DiscourseConnective>, again, this needs resolving in a way that is <Alignment alignment="13081" annotation_id="3393">
+          <DiscourseConnective annotation_id="3393" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> in accord with competition policy.</en>
+      <fr>L'autre grosse pierre d'achoppement est peut-être la commission interbancaire multilatérale prélevée sur les paiements par carte. Encore une fois, il s'agit de trouver une solution qui <DiscourseConnective annotation_id="4110">soit</DiscourseConnective> <Alignment alignment="22245" annotation_id="4115">
+          <DiscourseConnective annotation_id="4115" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="4125">en</DiscourseConnective> accord avec la politique de concurrence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3433" docOffset="27">
+      <en>These are important issues <DiscourseConnective annotation_id="3460" sense="Expansion.Conjunction">and</DiscourseConnective>, Commissioner, we say that the moment has come to be firm and set an end date <Alignment alignment="4325" annotation_id="3542">
+          <Alignment alignment="9788" annotation_id="3542">
+            <DiscourseConnective annotation_id="3542" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we can successfully migrate to SEPA and make this project - which is very important for the single market - truly take off.</en>
+      <fr>Ce sont des questions importantes. Monsieur le Commissaire, nous considérons <DiscourseConnective annotation_id="4246">que</DiscourseConnective> le moment est venu de faire preuve de fermeté <DiscourseConnective annotation_id="4296">et</DiscourseConnective> de fixer une date butoir, <Alignment alignment="8281" annotation_id="4325">
+          <Alignment alignment="3542" annotation_id="4325">
+            <DiscourseConnective annotation_id="4325" sense="Contingency.Cause.Result">de manière à</DiscourseConnective>
+          </Alignment>
+        </Alignment> permettre une migration réussie vers le SEPA, <DiscourseConnective annotation_id="4384">et</DiscourseConnective> à faire véritablement décoller ce projet très important <DiscourseConnective annotation_id="4443">pour</DiscourseConnective> le marché unique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3674" id="174" language="FR" name="Michel Barnier">
+    <ParallelChunk annotation_id="3674" docOffset="28">
+      <en>Mr President, ladies and gentlemen, I am pleased to see you again <Alignment alignment="52815" annotation_id="3740">
+          <DiscourseConnective annotation_id="3740" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to start by expressing my agreement with what Mrs Bowles just said, namely that consumers need security.</en>
+      <fr>membre de la Commission. - Monsieur le Président, Mesdames, Messieurs les députés, je suis heureux de vous retrouver <Alignment alignment="4560" annotation_id="4583">
+          <DiscourseConnective annotation_id="4583" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais appuyer dès le début de mon propos ce que disait la présidente Sharon Bowles à l'instant, à savoir <DiscourseConnective annotation_id="4697">que</DiscourseConnective> les consommateurs ont besoin de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3862" docOffset="29">
+      <en>That echoes an ambition that I stated during my hearing before this House for consumers to reclaim the domestic market through specific projects.</en>
+      <fr>Ceci fait écho à une ambition <DiscourseConnective annotation_id="4773">que</DiscourseConnective> j'ai affirmée <DiscourseConnective annotation_id="4791">au moment de</DiscourseConnective> mon audition devant votre Parlement, celle <DiscourseConnective annotation_id="4847">que</DiscourseConnective> les consommateurs se réapproprient le marché intérieur, à travers des projets concrets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4008" docOffset="30">
+      <en>One of these is the single euro payments area (SEPA).</en>
+      <fr>C'est le cas de cet espace unique de paiement en euros (SEPA).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4062" docOffset="31">
+      <en>It is a complicated project <Alignment alignment="45184" annotation_id="4090">
+          <DiscourseConnective annotation_id="4090" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> its aim - that of simple financial transfers within Europe - justifies our action.</en>
+      <fr>C'est un projet complexe <Alignment alignment="4090" annotation_id="5027">
+          <DiscourseConnective annotation_id="5027" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> l'enjeu - celui des transferts financiers simples au sein de l'Europe - justifie notre mobilisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4177" docOffset="32">
+      <en>Mrs Bowles, ladies and gentlemen, I would like to thank Parliament for its support for SEPA and to give concrete responses to the five points mentioned by Mrs Bowles, which correctly identify the problems that we must solve.</en>
+      <fr>Je voudrais, Madame la Présidente, Mesdames <DiscourseConnective annotation_id="5177">et</DiscourseConnective> Messieurs, remercier le Parlement <DiscourseConnective annotation_id="5214">pour</DiscourseConnective> son soutien <DiscourseConnective annotation_id="5231">à</DiscourseConnective> SEPA <DiscourseConnective annotation_id="5238">et</DiscourseConnective> répondre concrètement aux cinq points que vous avez évoqués, Madame la Présidente, qui identifient bien les problèmes <DiscourseConnective annotation_id="5359">que</DiscourseConnective> nous devons résoudre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4402" docOffset="33">
+      <en>I am <Alignment alignment="34185" annotation_id="4407">
+          <DiscourseConnective annotation_id="4407" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> mindful of the preliminary work that was carried out and of Mrs Berès' and Mr Gauzès' extremely positive and interesting reports on matters relating to SEPA.</en>
+      <fr>Je garde <Alignment alignment="4407" annotation_id="5394">
+          <DiscourseConnective annotation_id="5394" sense="Expansion.Conjunction">d'ailleurs</DiscourseConnective>
+        </Alignment> en mémoire le travail préalable <DiscourseConnective annotation_id="5437">et</DiscourseConnective> les rapports extrêmement positifs <DiscourseConnective annotation_id="5474">et</DiscourseConnective> intéressants de Pervenche Berès <DiscourseConnective annotation_id="5509">et</DiscourseConnective> de Jean-Paul Gauzès également sur des sujets qui concourent <DiscourseConnective annotation_id="5572">à</DiscourseConnective> SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4570" docOffset="34">
+      <en>It is true, Mrs Bowles, that a deadline could give the SEPA project some of the impetus it needs.</en>
+      <fr>Oui, Madame le Présidente, une date butoir pourrait impulser une dynamique nécessaire au projet SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4668" docOffset="35">
+      <en>That is what I believe.</en>
+      <fr>C'est ce que je crois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4692" docOffset="36">
+      <en>An expiry date would indeed have several positive effects.</en>
+      <fr>Une date échéance aurait <DiscourseConnective annotation_id="5730">en effet</DiscourseConnective> plusieurs effets positifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4751" docOffset="37">
+      <en>It would make the legal position clearer, allow the planning of necessary investments, and bring an end to the coexistence of two payment systems - national and European - which leads to needless expenditure.</en>
+      <fr>Elle donnerait plus de clarté juridique, permettrait de planifier les investissements nécessaires <DiscourseConnective annotation_id="5864">et</DiscourseConnective> mettrait fin <DiscourseConnective annotation_id="5880">à</DiscourseConnective> la coexistence de deux systèmes de paiement, national <DiscourseConnective annotation_id="5936">et</DiscourseConnective> européen, qui est une source de coûts inutiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4960" docOffset="38">
+      <en>A deadline presupposes legislation.</en>
+      <fr>Une date butoir présume un acte législatif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4996" docOffset="39">
+      <en>My staff are currently analysing various options <DiscourseConnective annotation_id="5045" sense="Expansion.Conjunction">and</DiscourseConnective> their analyses should be finished next spring.</en>
+      <fr>Mes services analysent actuellement différentes options. Ces analyses devraient être finalisées au printemps prochain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5096" docOffset="40">
+      <en>We will decide on the most effective course of action on that basis.</en>
+      <fr>Sur cette base, nous arrêterons l'orientation la plus efficace.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5165" docOffset="41">
+      <en>I can confirm for you that it will be based on legislation.</en>
+      <fr>Je vous confirme <DiscourseConnective annotation_id="6231">qu'</DiscourseConnective>elle pourrait être de nature législative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5225" docOffset="42">
+      <en>
+        <Alignment alignment="6724" annotation_id="5225">
+          <DiscourseConnective annotation_id="5225" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I speak to you now - it is early March - it is really too early for me to announce that end date.</en>
+      <fr>
+        <Alignment alignment="12923" annotation_id="6276">
+          <DiscourseConnective annotation_id="6276" sense="Temporal.Synchrony">Au moment où</DiscourseConnective>
+        </Alignment> je vous parle - nous sommes au début du mois de mars -, il est sincèrement prématuré <DiscourseConnective annotation_id="6374">pour</DiscourseConnective> moi d'annoncer cette date butoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5326" docOffset="43">
+      <en>I have noted your suggestion of 2012, Mrs Bowles, <Alignment alignment="5978" annotation_id="5376">
+          <DiscourseConnective annotation_id="5376" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I will bear it in mind.</en>
+      <fr>J'ai bien noté, Madame la Présidente, votre proposition datée <DiscourseConnective annotation_id="6475">à</DiscourseConnective> 2012 <Alignment alignment="5376" annotation_id="6482">
+          <DiscourseConnective annotation_id="6482" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je vais en tenir compte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5404" docOffset="44">
+      <en>Whatever the case, we will have to permit operators an adjustment period, <Alignment alignment="39463" annotation_id="5478">
+          <DiscourseConnective annotation_id="5478" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, 12 months for transfers and at least 24 months for withdrawals.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6510">En tout état de cause</DiscourseConnective>, il nous faudra laisser aux opérateurs une période d'ajustement, <Alignment alignment="5478" annotation_id="6597">
+          <DiscourseConnective annotation_id="6597" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> 12 mois <DiscourseConnective annotation_id="6617">pour</DiscourseConnective> les virements <DiscourseConnective annotation_id="6636">et</DiscourseConnective> 24 mois au minimum <DiscourseConnective annotation_id="6658">pour</DiscourseConnective> les prélèvements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5555" docOffset="45">
+      <en>Another advantage of a legislative initiative could be to deal with some of the issues raised by your resolution and by the Economic and Financial Affairs Council in order to improve the quality of SEPA products for users.</en>
+      <fr>L'avantage d'une initiative législative pourrait être aussi de traiter certaines des questions soulevées par votre résolution <DiscourseConnective annotation_id="6807">et</DiscourseConnective> par le Conseil Ecofin <DiscourseConnective annotation_id="6832">pour</DiscourseConnective> améliorer la qualité des produits SEPA <DiscourseConnective annotation_id="6876">pour</DiscourseConnective> ses utilisateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5778" docOffset="46">
+      <en>My second point, Mrs Bowles, is that we need clarification on multilateral interchange fees.</en>
+      <fr>Deuxième point, Madame la Présidente, nous avons besoin d'une clarification sur les commissions multilatérales d'interchange.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5871" docOffset="47">
+      <en>It is an important issue for the financing and therefore the development of SEPA cards and withdrawals.</en>
+      <fr>C'est une question importante <DiscourseConnective annotation_id="7055">pour</DiscourseConnective> le financement <DiscourseConnective annotation_id="7075">et</DiscourseConnective> <DiscourseConnective annotation_id="7078">donc</DiscourseConnective> pour l'évolution à la fois des cartes <DiscourseConnective annotation_id="7121">et</DiscourseConnective> des prélèvements SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5975" docOffset="48">
+      <en>In late 2009, the Commission published a discussion document which included new data as well as the opinions of various types of users on this issue We will touch on the result of that public consultation in a moment.</en>
+      <fr>La Commission a publié fin 2009 un document de discussion pour recueillir de nouvelles données <DiscourseConnective annotation_id="7242">ainsi</DiscourseConnective> que les opinions des différentes catégories d'utilisateurs sur cette question. Nous reviendrons bientôt sur le <DiscourseConnective annotation_id="7359">résultat</DiscourseConnective> de cette consultation publique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6193" docOffset="49">
+      <en>This issue must, of course, be analysed on the basis of its compatibility with competition policy, for which my colleague, Mr Almunia, is responsible.</en>
+      <fr>Cette question doit naturellement être analysée sous l'angle de sa compatibilité avec la politique de concurrence qui relève de la compétence de mon collègue Joaquim Almunia.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6344" docOffset="50">
+      <en>
+        <Alignment alignment="8026" annotation_id="6344">
+          <DiscourseConnective annotation_id="6344" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, I would like to make several comments.</en>
+      <fr>
+        <Alignment alignment="6344" annotation_id="7575">
+          <DiscourseConnective annotation_id="7575" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, je voudrais faire quelques remarques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6397" docOffset="51">
+      <en>There is a short-term, transitory system in place for withdrawals until November 2012, allowing multilateral interchange fees of up to 8.8% for cross-border transactions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7624">Pour</DiscourseConnective> les prélèvements, un régime transitoire court jusqu'en novembre 2012, permettant des commissions multilatérales d'échange allant <DiscourseConnective annotation_id="7758">jusqu'à</DiscourseConnective> 8,8 cents <DiscourseConnective annotation_id="7776">pour</DiscourseConnective> les transactions transfrontalières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6568" docOffset="52">
+      <en>I note, <Alignment alignment="25438" annotation_id="6576">
+          <DiscourseConnective annotation_id="6576" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that more than 70% of withdrawals in Europe are now carried out without the imposition of any multilateral interchange fee on the transaction.</en>
+      <fr>Je note <Alignment alignment="6576" annotation_id="7825">
+          <DiscourseConnective annotation_id="7825" sense="Comparison.Contrast">cependant que</DiscourseConnective>
+        </Alignment> plus de 70 % des prélèvements <DiscourseConnective annotation_id="7869">en</DiscourseConnective> Europe se font aujourd'hui <DiscourseConnective annotation_id="7899">sans</DiscourseConnective> aucune commission multilatérale d'interchange sur chaque transaction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6728" docOffset="53">
+      <en>The multilateral interchange fee, <Alignment alignment="29506" annotation_id="6762">
+          <DiscourseConnective annotation_id="6762" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, does not seem to be the only financing mechanism, or even the most effective one.</en>
+      <fr>
+        <Alignment alignment="6762" annotation_id="7974">
+          <DiscourseConnective annotation_id="7974" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment> la commission multilatérale d'interchange n'apparaît pas <DiscourseConnective annotation_id="8036">comme</DiscourseConnective> le seul mécanisme de financement <DiscourseConnective annotation_id="8075">ou</DiscourseConnective> <DiscourseConnective annotation_id="8078">même</DiscourseConnective> le mécanisme le plus efficace.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6855" docOffset="54">
+      <en>For cards, <Alignment alignment="3979" annotation_id="6866">
+          <DiscourseConnective annotation_id="6866" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, the Commission has adopted a decision against MasterCard's cross-border multilateral interchange fees.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8114">Pour</DiscourseConnective> les cartes, <Alignment alignment="6084" annotation_id="8131">
+          <DiscourseConnective annotation_id="8131" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, la Commission a adopté une décision à l'encontre des commissions multilatérales d'interchange transfrontalières de Mastercard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6982" docOffset="55">
+      <en>We did the same for Visa.</en>
+      <fr>Nous l'avons fait <DiscourseConnective annotation_id="8297">également</DiscourseConnective> <DiscourseConnective annotation_id="8307">pour</DiscourseConnective> Visa.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7008" docOffset="56">
+      <en>The procedure regarding MasterCard is being appealed before the Court of Justice.</en>
+      <fr>S'agissant de Mastercard, la procédure est <DiscourseConnective annotation_id="8361">en</DiscourseConnective> appel devant la Cour de justice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7090" docOffset="57">
+      <en>As part of this procedure, specifically with regard to the level and type of these fees, the European Commission has already clarified the rules of the game.</en>
+      <fr>Dans le cadre de cette procédure, portant <DiscourseConnective annotation_id="8439">notamment</DiscourseConnective> sur le niveau <DiscourseConnective annotation_id="8463">et</DiscourseConnective> les modalités de ces commissions, la Commission européenne a <DiscourseConnective annotation_id="8527">déjà</DiscourseConnective> clarifié les règles du jeu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7248" docOffset="58">
+      <en>The Court's final rulings should contribute to giving this a firmer legal basis.</en>
+      <fr>Les décisions définitives de la Cour devraient contribuer <DiscourseConnective annotation_id="8618">à</DiscourseConnective> apporter une meilleure sécurité juridique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7329" docOffset="59">
+      <en>Thirdly, <DiscourseConnective annotation_id="7338" sense="Temporal.Synchrony">as</DiscourseConnective> I had the opportunity to mention at my hearing, I am in favour of launching a European initiative on cards.</en>
+      <fr>Troisième point - j'avais eu l'occasion de l'évoquer <DiscourseConnective annotation_id="8716">au moment de</DiscourseConnective> mon audition -, je suis favorable au lancement d'une initiative européenne dans le domaine des cartes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7449" docOffset="60">
+      <en>A series of initiatives is being developed in the private sector, <DiscourseConnective annotation_id="7515" sense="Expansion.Instantiation">for example</DiscourseConnective>, the Monnet project, PayFair, and the European Alliance of Payment Schemes.</en>
+      <fr>Une série d'initiatives sont en cours de développement par le secteur privé: Monnet, Pay Fair, EAPS.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7603" docOffset="61">
+      <en>Mrs Bowles, ladies and gentlemen, I will soon be meeting the main players in this market in order to jointly assess their willingness to move forward and perhaps to coordinate their initiatives and determine a framework for action.</en>
+      <fr>Je vais rencontrer rapidement, Madame la Présidente, Mesdames <DiscourseConnective annotation_id="8995">et</DiscourseConnective> Messieurs les députés, les acteurs du marché, <DiscourseConnective annotation_id="9044">pour</DiscourseConnective> évaluer ensemble leur volonté d'aller de l'<DiscourseConnective annotation_id="9092">avant</DiscourseConnective>, peut-être de coordonner leurs initiatives <DiscourseConnective annotation_id="9141">et</DiscourseConnective> de déterminer un cadre d'action.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7835" docOffset="62">
+      <en>At the same time, the Commission will be analysing, from the perspective of competition regulations, the arguments presented by the card systems in order to justify their financing system.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9177">Parallèlement</DiscourseConnective>, la Commission analysera, sous l'angle des règles de concurrence, les arguments présentés par les systèmes de cartes <DiscourseConnective annotation_id="9308">pour</DiscourseConnective> justifier leur système de financement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8024" docOffset="63">
+      <en>The fourth point relates to the future of governance.</en>
+      <fr>Quatrième point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8078" docOffset="64">
+      <en>
+        <DiscourseConnective annotation_id="8078" sense="Temporal.Synchrony">As</DiscourseConnective> you know, the SEPA does not benefit from a pan-European system of governance.</en>
+      <fr>Sur l'avenir de la gouvernance, vous le savez, SEPA ne bénéficie pas d'une structure de gouvernance paneuropéenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8159" docOffset="65">
+      <en>That is why there has been a joint initiative with the European Central Bank to create a SEPA council that brings together a limited number of high-level representatives of the payments industry and users.</en>
+      <fr>Voilà pourquoi il y a eu une initiative conjointe avec la Banque centrale européenne de créer un conseil SEPA qui regroupe un nombre limité de représentants de haut niveau de l'industrie des paiements <DiscourseConnective annotation_id="9685">et</DiscourseConnective> des utilisateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8365" docOffset="66">
+      <en>The objective is not to make decisions but to facilitate dialogue to ensure the SEPA project is properly implemented. The first meeting will take place in the spring.</en>
+      <fr>L'objectif n'est pas de prendre des décisions <DiscourseConnective annotation_id="9752">mais</DiscourseConnective> de faciliter le dialogue <DiscourseConnective annotation_id="9782">pour</DiscourseConnective> assurer la bonne réalisation du projet SEPA, et nous tiendrons une première réunion au printemps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8532" docOffset="67">
+      <en>Mrs Bowles, ladies and gentlemen, I will personally keep Parliament well informed about the work of the SEPA council, <Alignment alignment="10076" annotation_id="8650">
+          <DiscourseConnective annotation_id="8650" sense="Expansion.Conjunction">particularly</DiscourseConnective>
+        </Alignment> <Alignment alignment="37388" annotation_id="8663">
+          <DiscourseConnective annotation_id="8663" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I appear before the Committee on Economic and Monetary Affairs.</en>
+      <fr>Il est tout à fait évident, Madame la Présidente, Mesdames <DiscourseConnective annotation_id="9944">et</DiscourseConnective> Messieurs les députés, que je tiendrai personnellement le Parlement européen étroitement informé des travaux de ce conseil SEPA, <Alignment alignment="8650" annotation_id="10076">
+          <DiscourseConnective annotation_id="10076" sense="Expansion.Conjunction">notamment</DiscourseConnective>
+        </Alignment> <Alignment alignment="8663" annotation_id="10086">
+          <DiscourseConnective annotation_id="10086" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> je serai auditionné par la commission des affaires économiques <DiscourseConnective annotation_id="10157">et</DiscourseConnective> monétaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8732" docOffset="68">
+      <en>My final point concerns respect for the interests of users, a subject which you mentioned, Mrs Bowles. It is unfortunate, <Alignment alignment="10319" annotation_id="8854">
+          <DiscourseConnective annotation_id="8854" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the bank payments industry often seems somewhat reluctant to recognise users' concerns.</en>
+      <fr>Dernier point concernant sur la prise en compte des intérêts des utilisateurs, un élément <DiscourseConnective annotation_id="10262">que</DiscourseConnective> vous avez rappelé, Madame la Présidente: je regrette <Alignment alignment="9820" annotation_id="10319">
+          <DiscourseConnective annotation_id="10319" sense="Comparison.Contrast">que</DiscourseConnective>
+        </Alignment> l'industrie des paiements bancaires paraisse assez souvent réticente <DiscourseConnective annotation_id="10392">à</DiscourseConnective> prendre en compte les préoccupations des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8946" docOffset="69">
+      <en>Improvements can be made to the way in which the European Payments Council governs, which would encourage transparency and the recognition of users' concerns.</en>
+      <fr>Il y a des améliorations possibles dans la gouvernance du Conseil européen des paiements, <DiscourseConnective annotation_id="10540">pour</DiscourseConnective> favoriser la transparence <DiscourseConnective annotation_id="10571">et</DiscourseConnective> la prise en compte des préoccupations des utilisateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9105" docOffset="70">
+      <en>The SEPA council will constitute a good platform for moving towards these improvements.</en>
+      <fr>Le conseil SEPA constituera une bonne plateforme <DiscourseConnective annotation_id="10679">pour</DiscourseConnective> aller vers ces améliorations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9193" docOffset="71">
+      <en>I <Alignment alignment="7959" annotation_id="9195">
+          <DiscourseConnective annotation_id="9195" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> intend to take more direct action on specific points, in particular, the improvements that must be made to the withdrawals system.</en>
+      <fr>J'ai <Alignment alignment="6590" annotation_id="10719">
+          <DiscourseConnective annotation_id="10719" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> l'intention d'agir plus directement sur des points concrets, <DiscourseConnective annotation_id="10790">notamment</DiscourseConnective> les améliorations qui doivent être apportées au système des prélèvements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9331" docOffset="72">
+      <en>The Commission and the European Central Bank will be writing very shortly to the European Payments Council to request that they incorporate certain modifications in response to consumers' concerns.</en>
+      <fr>La Commission <DiscourseConnective annotation_id="10888">et</DiscourseConnective> la Banque centrale européenne vont très prochainement écrire <DiscourseConnective annotation_id="10952">à</DiscourseConnective> European Payments Council <DiscourseConnective annotation_id="10980">pour</DiscourseConnective> leur demander d'incorporer certaines modifications qui répondront aux soucis des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9529" docOffset="73">
+      <en>I cannot exclude the possibility that the Commission may take measures <Alignment alignment="12318" annotation_id="9600">
+          <DiscourseConnective annotation_id="9600" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it notices obstacles preventing this, in order to take account of the worries of consumers.</en>
+      <fr>Je n'exclus pas <DiscourseConnective annotation_id="11097">que</DiscourseConnective> la Commission prenne des initiatives <Alignment alignment="9600" annotation_id="11138">
+          <DiscourseConnective annotation_id="11138" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous observons des obstacles sur cette voie <DiscourseConnective annotation_id="11185">pour</DiscourseConnective> prendre en compte les préoccupations des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9695" docOffset="74">
+      <en>Mr President, Mrs Bowles, ladies and gentlemen, you will have understood that I am determined to act and make SEPA work, <Alignment alignment="11390" annotation_id="9816">
+          <DiscourseConnective annotation_id="9816" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I told you in January. I will, of course, rely on the support of this House and your determination in making these improvements.</en>
+      <fr>Vous l'aurez compris, Madame la Présidente, Monsieur le Président, Mesdames <DiscourseConnective annotation_id="11322">et</DiscourseConnective> Messieurs, je suis déterminé <DiscourseConnective annotation_id="11354">à</DiscourseConnective> agir <DiscourseConnective annotation_id="11361">et</DiscourseConnective> à faire fonctionner SEPA, <Alignment alignment="9816" annotation_id="11390">
+          <DiscourseConnective annotation_id="11390" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je vous l'avais dit <DiscourseConnective annotation_id="11416">en</DiscourseConnective> janvier, et je m'appuierai tout naturellement <DiscourseConnective annotation_id="11465">pour</DiscourseConnective> ces améliorations et cette action sur le travail du Parlement <DiscourseConnective annotation_id="11532">et</DiscourseConnective> votre résolution.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9948" id="175" language="FR" name="Jean-Paul Gauzès">
+    <ParallelChunk annotation_id="9948" docOffset="75">
+      <en>Mr President, Commissioner, I do not doubt your determination, <Alignment alignment="6408" annotation_id="10011">
+          <DiscourseConnective annotation_id="10011" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you have, in the points that you have just covered, already answered most of the questions we were going to ask <Alignment alignment="21710" annotation_id="10127">
+          <DiscourseConnective annotation_id="10127" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that are raised by this resolution.</en>
+      <fr>au nom du groupe PPE. - Monsieur le Président, Monsieur le Commissaire, je ne doute pas de votre détermination <Alignment alignment="10011" annotation_id="11664">
+          <DiscourseConnective annotation_id="11664" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous avez, par les éléments <DiscourseConnective annotation_id="11695">que</DiscourseConnective> vous venez de donner, <DiscourseConnective annotation_id="11721">déjà</DiscourseConnective> fourni une réponse à la plupart des questions que nous nous posions <Alignment alignment="10127" annotation_id="11794">
+          <DiscourseConnective annotation_id="11794" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11797">que</DiscourseConnective> pose cette résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10167" docOffset="76">
+      <en>I will simply remind you that the difficulty of the subject stems from the fact that the single euro payments area (SEPA) is an initiative of payment institutions, particularly banks. <DiscourseConnective annotation_id="10351" sense="Expansion.Conjunction">Also</DiscourseConnective>, may I say that the purpose of the directive on payment services, for which I had the honour of being rapporteur, was specifically designed to enable us to identify and define the legal instruments needed in order to put this European payments system in place.</en>
+      <fr>Je rappellerai <DiscourseConnective annotation_id="11839">simplement</DiscourseConnective> <DiscourseConnective annotation_id="11850">que</DiscourseConnective> la difficulté du sujet tient <DiscourseConnective annotation_id="11883">au fait</DiscourseConnective> <DiscourseConnective annotation_id="11891">que</DiscourseConnective> le SEPA est une initiative des établissements de paiement, essentiellement des établissements bancaires, et <DiscourseConnective annotation_id="12003">que</DiscourseConnective> la directive sur les services de paiement, dont j'avais l'honneur d'être le rapporteur, a eu pour objet <DiscourseConnective annotation_id="12111">notamment</DiscourseConnective> de permettre de trouver <DiscourseConnective annotation_id="12145">et</DiscourseConnective> de définir les instruments juridiques nécessaires <DiscourseConnective annotation_id="12198">pour</DiscourseConnective> mettre <DiscourseConnective annotation_id="12210">en</DiscourseConnective> place ce système européen des paiements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10617" docOffset="77">
+      <en>Another purpose of the directive was to improve competition in the area of payments, <DiscourseConnective annotation_id="10702" sense="Expansion.Conjunction">and</DiscourseConnective> Title II made provision for the creation of payment institutions, which were intended to break the monopoly of the banks.</en>
+      <fr>Elle avait <DiscourseConnective annotation_id="12265">aussi</DiscourseConnective> <DiscourseConnective annotation_id="12271">pour</DiscourseConnective> objectif d'améliorer la concurrence dans le domaine des paiements, le titre II prévoyant la création d'établissements de paiement qui devaient ainsi rompre le monopole des banques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10828" docOffset="78">
+      <en>This complicated beginning certainly explains part of the delay, <Alignment alignment="39889" annotation_id="10893">
+          <DiscourseConnective annotation_id="10893" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is certainly <DiscourseConnective annotation_id="10913" sense="Expansion.Conjunction">also</DiscourseConnective> true, <Alignment alignment="51886" annotation_id="10924">
+          <DiscourseConnective annotation_id="10924" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you have said, that payment services establishments - that is, banks - have demonstrated a certain reluctance to implement this mechanism.</en>
+      <fr>Cette naissance compliquée explique certainement une partie du retard <Alignment alignment="10893" annotation_id="12527">
+          <DiscourseConnective annotation_id="12527" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> c'est bien vrai, <Alignment alignment="17555" annotation_id="12549">
+          <DiscourseConnective annotation_id="12549" sense="Temporal.Synchrony">et</DiscourseConnective>
+        </Alignment> vous l'avez dit, les établissements de services de paiement, les établissements bancaires ont certainement montré un peu de réticence <DiscourseConnective annotation_id="12686">à</DiscourseConnective> mettre en œuvre ce dispositif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11066" docOffset="79">
+      <en>There is an explanation: the cost.</en>
+      <fr>Il y a une explication, c'est le coût.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11101" docOffset="80">
+      <en>I am sure you already know this, <Alignment alignment="23679" annotation_id="11134">
+          <DiscourseConnective annotation_id="11134" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> to give you an idea: in France, <Alignment alignment="48072" annotation_id="11170">
+          <DiscourseConnective annotation_id="11170" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, the cost of implementing SEPA is higher than that of changing to the euro.</en>
+      <fr>Pour vous donner une idée - <Alignment alignment="22562" annotation_id="12786">
+          <DiscourseConnective annotation_id="12786" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> vous le savez certainement -, <DiscourseConnective annotation_id="12821">en</DiscourseConnective> France <Alignment alignment="11170" annotation_id="12831">
+          <DiscourseConnective annotation_id="12831" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, le coût de la mise en place du SEPA est supérieur au coût du passage <DiscourseConnective annotation_id="12913">à</DiscourseConnective> l'euro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11258" docOffset="81">There has <DiscourseConnective annotation_id="11268" sense="Expansion.Conjunction">also</DiscourseConnective> been the matter of interchange fees, which deserves to be tackled.</ParallelChunk>
+<ParallelChunk annotation_id="11340" docOffset="82">
+      <en>There are two issues involved. The first, <DiscourseConnective annotation_id="11382" sense="Temporal.Synchrony">as</DiscourseConnective> you mentioned, is that of conformity to the rules of competition, <Alignment alignment="52173" annotation_id="11451">
+          <DiscourseConnective annotation_id="11451" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the second issue, which must not be neglected, is that the payment service is a commercial activity for payment institutions which must, <DiscourseConnective annotation_id="11592" sense="Contingency.Cause.Result">therefore</DiscourseConnective>, be fairly remunerated.</en>
+      <fr>Il y a eu aussi cette question des commissions d'interchange qui mérite d'être abordée en ayant deux éléments à l'esprit: le premier, vous l'avez rappelé, c'est celui de la conformité aux règles de concurrence <Alignment alignment="1743" annotation_id="13134">
+          <DiscourseConnective annotation_id="13134" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le deuxième élément, qu'il ne faut pas négliger, c'est <DiscourseConnective annotation_id="13194">que</DiscourseConnective> le service de paiement est une activité commerciale des établissements de paiement <DiscourseConnective annotation_id="13281">et</DiscourseConnective> qu'à ce titre, il faut une juste rémunération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11626" docOffset="83">
+      <en>What has been condemned is the possibility of setting interbank margins unilaterally, arbitrarily and without consultation, <DiscourseConnective annotation_id="11750" sense="Temporal.Synchrony">when</DiscourseConnective> these rightly appear excessive.</en>
+      <fr>Ce qui a été condamné, c'est la possibilité de fixer unilatéralement, arbitrairement, <DiscourseConnective annotation_id="13417">sans</DiscourseConnective> référence, des marges interbancaires qui apparaissaient, à juste titre, excessives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11787" docOffset="84">
+      <en>Commissioner, we are counting on you to ensure that the progress we have made with the creation of a single-payments market can result in the swift implementation of European tools for transfers and direct debits.</en>
+      <fr>Monsieur le Commissaire, nous comptons sur vous <DiscourseConnective annotation_id="13554">pour que</DiscourseConnective> cette avancée qui a été la création du marché unique des paiements se traduise dans un très proche avenir par une mise en place des instruments européens de virement <DiscourseConnective annotation_id="13729">et</DiscourseConnective> de débit direct.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12001" id="176" language="DE" name="Udo Bullmann">
+    <ParallelChunk annotation_id="12001" docOffset="85">
+      <en>Mr President, Commissioner, the Single Euro Payments Area is an important, indeed central, instrument of the European single market.</en>
+      <fr>au nom du groupe S&amp;D. - (DE) Monsieur le Président, Monsieur le Commissaire, l'espace unique de paiements en euros est un instrument important, <DiscourseConnective annotation_id="13893">et même</DiscourseConnective> essentiel, du marché unique européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12134" docOffset="86">
+      <en>It is thanks to Mr Gauzès that we have got it off the ground.</en>
+      <fr>Nous devons le lancement de ce projet <DiscourseConnective annotation_id="13977">à</DiscourseConnective> M. Gauzès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12196" docOffset="87">
+      <en>My group is fully behind it and would like to see it working well.</en>
+      <fr>Mon groupe soutient pleinement le SEPA <DiscourseConnective annotation_id="14029">et</DiscourseConnective> souhaiterait le voir fonctionner correctement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12263" docOffset="88">
+      <en>I personally <DiscourseConnective annotation_id="12276" sense="Expansion.Conjunction">also</DiscourseConnective> have nothing against us setting a deadline for the migration, <DiscourseConnective annotation_id="12343" sense="Expansion.Conjunction">and</DiscourseConnective> here to me it is not so much a question of whether it takes three, four or five months as the fact that it <DiscourseConnective annotation_id="12454" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> actually works.</en>
+      <fr>Personnellement, cela ne me dérange pas de déterminer une date butoir <DiscourseConnective annotation_id="14149">pour</DiscourseConnective> la migration, même si, selon moi, le plus important n'est pas ici de savoir <DiscourseConnective annotation_id="14230">si</DiscourseConnective> cette migration prendra trois, quatre <DiscourseConnective annotation_id="14271">ou</DiscourseConnective> cinq mois, mais bien <DiscourseConnective annotation_id="14295">si</DiscourseConnective> le système fonctionne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12475" docOffset="89">
+      <en>Whether it actually works depends on two things.</en>
+      <fr>Or, le bon fonctionnement du système dépend de deux facteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12524" docOffset="90">
+      <en>Firstly the appeal to industry that it must be end-user friendly.</en>
+      <fr>Le premier en appelle <DiscourseConnective annotation_id="14405">à</DiscourseConnective> l'industrie: ce système doit être convivial pour l'utilisateur final.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12590" docOffset="91">
+      <en>These days, we cannot afford any rumours, any secret resistance, any hankering after the old system.</en>
+      <fr>De nos jours, nous ne pouvons pas nous permettre la moindre rumeur, la moindre résistance dissimulée, la moindre nostalgie de l'ancien système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12691" docOffset="92">
+      <en>
+        <Alignment alignment="41749" annotation_id="12691">
+          <DiscourseConnective annotation_id="12691" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, it must be functioning properly, <DiscourseConnective annotation_id="12735" sense="Expansion.Conjunction">also</DiscourseConnective> in respect of those who ultimately have to use it.</en>
+      <fr>
+        <Alignment alignment="1877" annotation_id="14621">
+          <DiscourseConnective annotation_id="14621" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> le nouveau système doit fonctionner correctement, y compris <DiscourseConnective annotation_id="14696">pour</DiscourseConnective> ceux qui en sont les utilisateurs finaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12791" docOffset="93">
+      <en>Secondly, it must, of course, <Alignment alignment="15499" annotation_id="12821">
+          <DiscourseConnective annotation_id="12821" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> work for the benefit of the economy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14743">Deuxièmement</DiscourseConnective>, il est évident que le nouveau système doit <Alignment alignment="21603" annotation_id="14800">
+          <DiscourseConnective annotation_id="14800" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> présenter des avantages pour l'économie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12863" docOffset="94">
+      <en>Here I would like to mention one point, which is still a bone of contention, namely the matter of how direct debits will be calculated.</en>
+      <fr>Je souhaiterais évoquer ici une question qui demeure une pomme de discorde, à savoir la méthode de calcul des frais de prélèvement direct.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12999" docOffset="95">
+      <en>Here, the economy does not yet seem to be in a position to propose a sensible model.</en>
+      <fr>L'économie ne parait pas <DiscourseConnective annotation_id="15015">encore</DiscourseConnective> être <DiscourseConnective annotation_id="15027">en</DiscourseConnective> mesure de proposer un modèle raisonnable à cet effet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13084" docOffset="96">
+      <en>There are still snags, there are still sticking points <Alignment alignment="22833" annotation_id="13139">
+          <DiscourseConnective annotation_id="13139" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="9525" annotation_id="13143">
+          <DiscourseConnective annotation_id="13143" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the economy is not in a position to present a common model that works within the European Union, then the Commission - as stipulated in this proposal for a resolution - must present a concrete proposal within a certain period of time, let us say before the end of the year.</en>
+      <fr>Cela bloque par ici, cela coince par là, <Alignment alignment="73" annotation_id="15125">
+          <DiscourseConnective annotation_id="15125" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="13143" annotation_id="15128">
+          <DiscourseConnective annotation_id="15128" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les acteurs économiques ne sont pas <DiscourseConnective annotation_id="15167">en</DiscourseConnective> mesure de proposer un modèle commun capable de fonctionner dans l'Union européenne, il incombera à la Commission, <DiscourseConnective annotation_id="15284">comme</DiscourseConnective> précisé dans cette proposition de résolution, de présenter une proposition concrète, et ce dans une période impartie. Disons: <DiscourseConnective annotation_id="15416">avant</DiscourseConnective> la fin de l'année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13420" docOffset="97">
+      <en>It should not be the case that we confront the economy and demand a deadline for the migration, but do not take the initiative to remove the resistance that the payment service providers are obviously not in the position to overcome single-handedly.</en>
+      <fr>Nous ne pouvons pas exiger du secteur de l'économie qu'il respecte une date butoir <DiscourseConnective annotation_id="15524">pour</DiscourseConnective> la migration <DiscourseConnective annotation_id="15542">sans</DiscourseConnective> prendre d'initiative <DiscourseConnective annotation_id="15568">en vue de</DiscourseConnective> mettre un terme aux résistances <DiscourseConnective annotation_id="15610">que</DiscourseConnective> les prestataires de services de paiement ne sont, de toute évidence, pas <DiscourseConnective annotation_id="15687">en</DiscourseConnective> mesure de surmonter eux-mêmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13670" docOffset="98">
+      <en>We need a community initiative here, <Alignment alignment="15774" annotation_id="13707">
+          <DiscourseConnective annotation_id="13707" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> the whole thing can work.</en>
+      <fr>Nous avons besoin ici d'une initiative communautaire <Alignment alignment="5338" annotation_id="15774">
+          <DiscourseConnective annotation_id="15774" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+        </Alignment> tout cela fonctionne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13736" docOffset="99">
+      <en>That is our approach to the discussion.</en>
+      <fr>C'est la position que nous défendons.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13776" id="177" language="DE" name="Martin Ehrenhauser">
+    <ParallelChunk annotation_id="13776" docOffset="100">
+      <en>Mr President, it is good that we have the euro.</en>
+      <fr>au nom des non-inscrits (NI). - (DE) Monsieur le Président, heureusement, nous avons l'euro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13824" docOffset="101">
+      <en>Small countries like my native Austria would have <DiscourseConnective annotation_id="13874" sense="Expansion.Alternative">otherwise</DiscourseConnective> come under immense pressure during the financial crisis of 2007.</en>
+      <fr>Si nous ne l'avions pas eu, des petits pays <DiscourseConnective annotation_id="15980">comme</DiscourseConnective> l'Autriche, où je suis né, auraient été soumis à une pression immense lors de la crise financière de 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13949" docOffset="102">
+      <en>The other side of the euro coin is, <Alignment alignment="14903" annotation_id="13985">
+          <DiscourseConnective annotation_id="13985" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, the lack of consistency and the lack of accountability, <DiscourseConnective annotation_id="14050" sense="Expansion.Conjunction">and</DiscourseConnective> here there are, of course, some questions for the Commission.</en>
+      <fr>Le revers de la médaille est <Alignment alignment="2385" annotation_id="16122">
+          <DiscourseConnective annotation_id="16122" sense="Comparison.Contrast">cependant que</DiscourseConnective>
+        </Alignment> l'euro souffre d'un manque de cohérence <DiscourseConnective annotation_id="16176">et</DiscourseConnective> d'une faiblesse dans les responsabilités. <DiscourseConnective annotation_id="16221">À cet égard</DiscourseConnective>, il convient bien sûr d'adresser quelques questions <DiscourseConnective annotation_id="16285">à</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14116" docOffset="103">
+      <en>Firstly, who is responsible for the lack of control in the euro system?</en>
+      <fr>
+        <DiscourseConnective annotation_id="16302">Premièrement</DiscourseConnective>, qui est responsable du manque de contrôle au sein du système euro?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14188" docOffset="104">
+      <en>Secondly, who is responsible for the fact that the false budget figures from Greece were not recognised sooner?</en>
+      <fr>
+        <DiscourseConnective annotation_id="16383">Deuxièmement</DiscourseConnective>, qui est responsable <DiscourseConnective annotation_id="16417">du fait que</DiscourseConnective> la falsification des comptes grecs n'a pas été détectée plus tôt?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14300" docOffset="105">
+      <en>Thirdly, is it not the case that <Alignment alignment="4280" annotation_id="14333">
+          <DiscourseConnective annotation_id="14333" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> we are talking about Greece today, the real problem is Spain?</en>
+      <fr>
+        <DiscourseConnective annotation_id="16495">Troisièmement</DiscourseConnective>, n'est-il pas vrai <DiscourseConnective annotation_id="16528">que</DiscourseConnective>, <Alignment alignment="11137" annotation_id="16533">
+          <DiscourseConnective annotation_id="16533" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment> nous parlons aujourd'hui de la Grèce, le véritable problème est l'Espagne?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14401" docOffset="106">
+      <en>Fourthly, can the European Commission guarantee that Spain will not submit false budget figures <Alignment alignment="24297" annotation_id="14497">
+          <DiscourseConnective annotation_id="14497" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what is it doing about this?</en>
+      <fr>Quatrièmement, la Commission européenne peut-elle garantir <DiscourseConnective annotation_id="16677">que</DiscourseConnective> l'Espagne ne soumettra pas des chiffres budgétaires falsifiés, <Alignment alignment="11423" annotation_id="16744">
+          <DiscourseConnective annotation_id="16744" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="16747">que</DiscourseConnective> fait-elle <DiscourseConnective annotation_id="16761">pour</DiscourseConnective> s'en assurer?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14530" docOffset="107">
+      <en>I demand clarity and transparency and, above all, that those people who bear responsibility are ultimately brought to account.</en>
+      <fr>J'exige de la clarté <DiscourseConnective annotation_id="16801">et</DiscourseConnective> de la transparence <DiscourseConnective annotation_id="16823">et</DiscourseConnective>, <DiscourseConnective annotation_id="16827">avant</DiscourseConnective> toute chose, <DiscourseConnective annotation_id="16846">que</DiscourseConnective> les responsables finissent par devoir rendre des comptes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14657" docOffset="108">
+      <en>Only <DiscourseConnective annotation_id="14662" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>, <Alignment alignment="16939" annotation_id="14668">
+          <DiscourseConnective annotation_id="14668" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> these people are actually made responsible, can we guarantee that the rules of the game will, in the end, be adhered to consistently.</en>
+      <fr>Il n'y a qu'à cette condition, <Alignment alignment="24013" annotation_id="16939">
+          <DiscourseConnective annotation_id="16939" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> ces personnes seront véritablement obligées de répondre de leurs actes, que nous pourrons garantir <DiscourseConnective annotation_id="17046">que</DiscourseConnective> les règles du jeu seront, <DiscourseConnective annotation_id="17076">au bout du compte</DiscourseConnective>, unanimement respectées.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14807" id="178" name="Markus Ferber">
+    <ParallelChunk annotation_id="14807" docOffset="109">
+      <en>(DE) Mr President, Commissioner, ladies and gentlemen, to begin with, it is right that common procedures should go with a common currency.</en>
+      <fr>(DE) Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="17181">et</DiscourseConnective> Messieurs, il est normal, <DiscourseConnective annotation_id="17210">tout d'abord</DiscourseConnective>, <DiscourseConnective annotation_id="17224">qu'</DiscourseConnective>une monnaie commune <DiscourseConnective annotation_id="17247">s'</DiscourseConnective>accompagne de procédures communes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14946" docOffset="110">
+      <en>It is right to consider how these common procedures, which have not yet been implemented everywhere in the Single Euro Payments Area, might be enforced a little better.</en>
+      <fr>Il est légitime de se demander comment on pourrait améliorer quelque peu la mise en œuvre de ces procédures communes, qui ne sont pas <DiscourseConnective annotation_id="17418">encore</DiscourseConnective> appliquées partout dans l'espace unique de paiements en euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15115" docOffset="111">
+      <en>
+        <Alignment alignment="27950" annotation_id="15115">
+          <Alignment alignment="47488" annotation_id="15115">
+            <DiscourseConnective annotation_id="15115" sense="Comparison.Contrast">On the other hand</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I will say quite clearly that we still have to adapt the rulebook in a few places.</en>
+      <fr>
+        <Alignment alignment="14618" annotation_id="17488">
+          <Alignment alignment="15115" annotation_id="17488">
+            <DiscourseConnective annotation_id="17488" sense="Comparison.Contrast">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je veux dire très clairement <DiscourseConnective annotation_id="17531">que</DiscourseConnective> les règles doivent <DiscourseConnective annotation_id="17554">encore</DiscourseConnective> être adaptées <DiscourseConnective annotation_id="17575">en</DiscourseConnective> quelques endroits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15217" docOffset="112">
+      <en>I myself come from a country where the direct debit procedure is a very widespread procedure, in order to facilitate the processing of certain regular payments.</en>
+      <fr>Je suis moi-même originaire d'un pays dans lequel le prélèvement direct est une procédure très répandue. Il permet de simplifier l'exécution de certains paiements réguliers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15378" docOffset="113">
+      <en>The procedure that is currently planned in the rulebook is a very bureaucratic, very complicated procedure <DiscourseConnective annotation_id="15485" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="11899" annotation_id="15489">
+          <DiscourseConnective annotation_id="15489" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, I would be very pleased, Commissioner, <Alignment alignment="17925" annotation_id="15539">
+          <DiscourseConnective annotation_id="15539" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment>, with regard to a final date - something we all want - this area in particular is tackled once again.</en>
+      <fr>La procédure actuellement prévue dans la réglementation est très bureaucratique et très compliquée. Je serais <Alignment alignment="15489" annotation_id="17881">
+          <DiscourseConnective annotation_id="17881" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> très heureux, Monsieur le Commissaire, <Alignment alignment="15539" annotation_id="17925">
+          <DiscourseConnective annotation_id="17925" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> cette question particulière pouvait être réexaminée dans la perspective de la détermination d'une date butoir, <DiscourseConnective annotation_id="18039">que</DiscourseConnective> nous appelons tous de nos vœux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15644" docOffset="114">
+      <en>On the one hand, there should be no vulnerability to fraud - that is a problem in the cross-border area - <Alignment alignment="47922" annotation_id="15750">
+          <DiscourseConnective annotation_id="15750" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="37095" annotation_id="15754">
+          <Alignment alignment="18202" annotation_id="15754">
+            <Alignment alignment="18202" annotation_id="15754">
+              <DiscourseConnective annotation_id="15754" sense="Comparison.Contrast">on the other hand</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, it should <Alignment alignment="22004" annotation_id="15783">
+          <DiscourseConnective annotation_id="15783" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be possible for local charges to be debited, and for any magazine subscription, any insurance premium, any mobile phone bill, and so on to continue to be collected in a simple procedure by the companies concerned.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18075">D'une part</DiscourseConnective>, il ne doit pas y avoir de vulnérabilité <DiscourseConnective annotation_id="18127">à</DiscourseConnective> la fraude, qui constitue un problème dans la sphère transnationale, <Alignment alignment="15750" annotation_id="18197">
+          <DiscourseConnective annotation_id="18197" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="5491" annotation_id="18202">
+          <Alignment alignment="15754" annotation_id="18202">
+            <Alignment alignment="15754" annotation_id="18202">
+              <DiscourseConnective annotation_id="18202" sense="Comparison.Contrast">d'autre part</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, il faut qu'il <DiscourseConnective annotation_id="18230">soit</DiscourseConnective> possible de prélever des taxes communales par ce biais. Il s'agit <Alignment alignment="15783" annotation_id="18301">
+          <DiscourseConnective annotation_id="18301" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> que des abonnements <DiscourseConnective annotation_id="18327">à</DiscourseConnective> des magazines, primes d'assurance, factures de téléphonie mobile, etc. puissent également continuer d'être prélevés <DiscourseConnective annotation_id="18445">en</DiscourseConnective> suivant une procédure simple.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16002" docOffset="115">
+      <en>That is my request <DiscourseConnective annotation_id="16021" sense="Expansion.Conjunction">and</DiscourseConnective> there is <Alignment alignment="8962" annotation_id="16034">
+          <DiscourseConnective annotation_id="16034" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a corresponding passage in our motion for a resolution on this subject, <Alignment alignment="53810" annotation_id="16111">
+          <DiscourseConnective annotation_id="16111" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can contribute to ensuring that procedures that have proved successful in the Member States can <Alignment alignment="53859" annotation_id="16218">
+          <DiscourseConnective annotation_id="16218" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be guaranteed after the final introduction of the Single Euro Payments Area.</en>
+      <fr>C'est là ce que je demande. Nous avons <Alignment alignment="16034" annotation_id="18517">
+          <DiscourseConnective annotation_id="18517" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> inclus un passage <DiscourseConnective annotation_id="18545">à</DiscourseConnective> ce sujet dans notre proposition de résolution, <Alignment alignment="16111" annotation_id="18594">
+          <DiscourseConnective annotation_id="18594" sense="Contingency.Cause.Result">afin de</DiscourseConnective>
+        </Alignment> pouvoir contribuer <DiscourseConnective annotation_id="18621">à</DiscourseConnective> garantir <DiscourseConnective annotation_id="18632">que</DiscourseConnective> les procédures éprouvées des États membres puissent <Alignment alignment="16218" annotation_id="18688">
+          <DiscourseConnective annotation_id="18688" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> demeurer valides <DiscourseConnective annotation_id="18715">après</DiscourseConnective> l'introduction définitive de l'espace unique de paiements en euros.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16300" id="179" name="Othmar Karas">
+    <ParallelChunk annotation_id="16300" docOffset="116">
+      <en>(DE) Mr President, ladies and gentlemen, we are probably all united in our approval of the answers given by the Commissioner to the question and are grateful for them.</en>
+      <fr>(DE) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="18826">et</DiscourseConnective> Messieurs, je pense que nous sommes tous satisfaits des réponses fournies <DiscourseConnective annotation_id="18903">à</DiscourseConnective> la question par le Commissaire, <DiscourseConnective annotation_id="18937">et</DiscourseConnective> que nous pouvons l'en remercier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16468" docOffset="117">
+      <en>They are in keeping with the objectives of the European Parliament.</en>
+      <fr>Ces réponses font écho aux priorités du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16536" docOffset="118">
+      <en>Secondly, I would like to say that the method of self-regulation in the banking area that we have chosen for SEPA is a method in which the organs work well <Alignment alignment="17858" annotation_id="16692">
+          <DiscourseConnective annotation_id="16692" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> several hundred banks have joined the SEPA area in a very short space of time.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19033">En second lieu</DiscourseConnective>, je souhaiterais <DiscourseConnective annotation_id="19065">dire que</DiscourseConnective> la méthode d'autorégulation du secteur bancaire choisie dans le cadre du SEPA est une méthode grâce <DiscourseConnective annotation_id="19174">à</DiscourseConnective> laquelle les organismes fonctionnent bien, <Alignment alignment="1781" annotation_id="19219">
+          <DiscourseConnective annotation_id="19219" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui a permis <DiscourseConnective annotation_id="19235">en</DiscourseConnective> très peu de temps de regrouper au sein du SEPA plusieurs centaines de banques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16775" docOffset="119">
+      <en>SEPA is part of the single market, it is larger than the euro area, <Alignment alignment="46047" annotation_id="16843">
+          <DiscourseConnective annotation_id="16843" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is not complete.</en>
+      <fr>Le SEPA fait partie du marché intérieur. Il est plus grand <DiscourseConnective annotation_id="19376">que</DiscourseConnective> la zone euro, <Alignment alignment="16843" annotation_id="19394">
+          <DiscourseConnective annotation_id="19394" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il n'est pas complet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16867" docOffset="120">
+      <en>I am very much in favour of a consistent, legally binding final date, <DiscourseConnective annotation_id="16937" sense="Contingency.Cause.Reason">because</DiscourseConnective> I hope that with such a date, we will increase the pressure to take care of outstanding questions and the legal obligation to get consistent implementation off the ground.</en>
+      <fr>Je suis un fervent partisan de l'introduction d'une date butoir unique et contraignante. J'espère en effet <DiscourseConnective annotation_id="19528">que</DiscourseConnective> la détermination d'une telle date permettra d'augmenter la pression <DiscourseConnective annotation_id="19600">afin que</DiscourseConnective> l'on règle les questions encore en suspens, <DiscourseConnective annotation_id="19653">et</DiscourseConnective> de créer l'obligation légale de faire démarrer une mise en œuvre uniforme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17117" docOffset="121">
+      <en>This will allow all participants once again to present everything that still has to be done.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19731">Ainsi</DiscourseConnective>, toutes les parties concernées pourront mettre une nouvelle fois sur la table tout ce qui reste <DiscourseConnective annotation_id="19833">à</DiscourseConnective> faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17210" docOffset="122">
+      <en>A common date is essential to implement the SEPA area as quickly and efficiently as possible and to ensure maximum suitability for the single market.</en>
+      <fr>La définition d'une date commune est essentielle <DiscourseConnective annotation_id="19891">pour</DiscourseConnective> une concrétisation <DiscourseConnective annotation_id="19915">aussi</DiscourseConnective> rapide <DiscourseConnective annotation_id="19928">et</DiscourseConnective> efficace <DiscourseConnective annotation_id="19940">que</DiscourseConnective> possible du SEPA <DiscourseConnective annotation_id="19961">et</DiscourseConnective> <DiscourseConnective annotation_id="19964">pour</DiscourseConnective> garantir que celui-ci corresponde au mieux aux besoins du marché intérieur.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17360" id="180" name="David Casa">
+    <ParallelChunk annotation_id="17360" docOffset="123">
+      <en>Mr President, SEPA is a commendable initiative that will undoubtedly be of great benefit in improving the efficiency of cross-border payments and turning the fragmented national markets for euro payments into a single domestic one, by enabling customers to make cashless euro payments to anyone located anywhere in the area using a single bank account and a single set of payment instruments.</en>
+      <fr>(EN) Monsieur le Président, le SEPA est une initiative louable qui sera sans nul doute très utile <DiscourseConnective annotation_id="20143">pour</DiscourseConnective> améliorer l'efficacité des paiements transfrontaliers <DiscourseConnective annotation_id="20202">et</DiscourseConnective> créer, à la place des marchés nationaux fragmentés, un marché intérieur unique <DiscourseConnective annotation_id="20284">pour</DiscourseConnective> les paiements <DiscourseConnective annotation_id="20303">en</DiscourseConnective> euros, <DiscourseConnective annotation_id="20313">en</DiscourseConnective> permettant aux consommateurs d'effectuer des paiements scripturaux en euros à l'ordre de tout bénéficiaire, où qu'il soit situé dans la zone, en utilisant un <DiscourseConnective annotation_id="20474">même</DiscourseConnective> numéro de compte <DiscourseConnective annotation_id="20496">et</DiscourseConnective> un ensemble unique d'instruments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17753" docOffset="124">
+      <en>Another major benefit will result from the reduction of the overall costs to the European economy of moving capital around the region, which is estimated today at two to three per cent of the total gross domestic product.</en>
+      <fr>L'introduction du SEPA aura comme autre bénéfice de taille <DiscourseConnective annotation_id="20592">pour</DiscourseConnective> l'économie européenne, une réduction du coût global engendré par les mouvements de capitaux, <DiscourseConnective annotation_id="20690">que</DiscourseConnective> l'on estime aujourd'hui <DiscourseConnective annotation_id="20718">à</DiscourseConnective> deux <DiscourseConnective annotation_id="20725">à</DiscourseConnective> trois pour cent du produit intérieur brut.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17975" docOffset="125">
+      <en>We must remember that the end goal of SEPA was to create a truly domestic payments environment all around Europe, <DiscourseConnective annotation_id="18089" sense="Expansion.Conjunction">and</DiscourseConnective> it is understandable that achieving such an ambitious goal is by no means easy, especially <DiscourseConnective annotation_id="18184" sense="Temporal.Synchrony">when</DiscourseConnective> considering the unfortunate necessity of finding compromises between the often conflicting interests of the pan-European banking community.</en>
+      <fr>N'oublions pas <DiscourseConnective annotation_id="20785">que</DiscourseConnective> le but ultime du SEPA est de créer un espace de paiement véritablement intérieur dans toute l'Europe. On peut comprendre <DiscourseConnective annotation_id="20910">qu'</DiscourseConnective>atteindre un but <DiscourseConnective annotation_id="20930">aussi</DiscourseConnective> ambitieux est loin d'être facile, <DiscourseConnective annotation_id="20970">surtout</DiscourseConnective> au vu de la peu agréable nécessité de trouver des compromis entre les intérêts souvent contradictoires de la communauté bancaire paneuropéenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18329" docOffset="126">
+      <en>The economic crisis has only hindered the process of implementing SEPA standards; this is a costly process <Alignment alignment="24165" annotation_id="18436">
+          <DiscourseConnective annotation_id="18436" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the banks have understandably had other, more urgent priorities in recent times.</en>
+      <fr>La crise économique n'a fait <DiscourseConnective annotation_id="21151">que</DiscourseConnective> retarder le processus de mise en œuvre des normes SEPA. C'est un processus coûteux, <Alignment alignment="18436" annotation_id="21239">
+          <DiscourseConnective annotation_id="21239" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on comprendra que les banques ont eu ces derniers temps d'autres priorités plus urgentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18521" docOffset="127">
+      <en>An analysis of the current situation should be carried out <Alignment alignment="30481" annotation_id="18580">
+          <DiscourseConnective annotation_id="18580" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, I think, a realistic timetable set as soon as possible.</en>
+      <fr>Il conviendrait d'analyser la situation actuelle <Alignment alignment="2672" annotation_id="21381">
+          <DiscourseConnective annotation_id="21381" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, je pense, d'établir <DiscourseConnective annotation_id="21405">aussi</DiscourseConnective> rapidement <DiscourseConnective annotation_id="21422">que</DiscourseConnective> possible un calendrier réaliste.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18641" docOffset="128">
+      <en>It is now essential that a legally binding deadline for migration to the use of SEPA instruments be established, <Alignment alignment="29952" annotation_id="18754">
+          <DiscourseConnective annotation_id="18754" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> my colleague, Mr Karas, has just said.</en>
+      <fr>Il est à présent essentiel de fixer, <Alignment alignment="8910" annotation_id="21496">
+          <DiscourseConnective annotation_id="21496" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vient de le mentionner mon collègue, M. Karas, une date butoir juridiquement contraignante <DiscourseConnective annotation_id="21593">pour</DiscourseConnective> le passage aux instruments SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18796" docOffset="129">
+      <en>It is unacceptable that to date, there is no concrete schedule in place.</en>
+      <fr>Il est inacceptable <DiscourseConnective annotation_id="21651">qu'</DiscourseConnective>aucun calendrier concret n'existe encore <DiscourseConnective annotation_id="21695">à</DiscourseConnective> ce jour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18869" docOffset="130">
+      <en>The notion that domestic standards should be allowed to run in parallel with SEPA is inefficient and counterproductive.</en>
+      <fr>L'idée <DiscourseConnective annotation_id="21713">que</DiscourseConnective> des normes nationales devraient pouvoir exister <DiscourseConnective annotation_id="21765">parallèlement</DiscourseConnective> à celles du SEPA est malvenue contreproductive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18989" docOffset="131">
+      <en>I <Alignment alignment="17160" annotation_id="18991">
+          <DiscourseConnective annotation_id="18991" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> call on you, Commissioner, and the Commission, to bring certainty to this already fragile sector and ensure that a legally binding end date for migration to SEPA instruments is finally set.</en>
+      <fr>Je vous invite <Alignment alignment="18991" annotation_id="21842">
+          <DiscourseConnective annotation_id="21842" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, Monsieur le Commissaire, <DiscourseConnective annotation_id="21873">ainsi</DiscourseConnective> que la Commission, <DiscourseConnective annotation_id="21898">à</DiscourseConnective> apporter de la certitude <DiscourseConnective annotation_id="21925">à</DiscourseConnective> ce secteur <DiscourseConnective annotation_id="21938">déjà</DiscourseConnective> fragile, <DiscourseConnective annotation_id="21952">et</DiscourseConnective> à faire en sorte <DiscourseConnective annotation_id="21972">qu'</DiscourseConnective>une date butoir juridiquement contraignante <DiscourseConnective annotation_id="22019">soit</DiscourseConnective> <DiscourseConnective annotation_id="22024">enfin</DiscourseConnective> fixée <DiscourseConnective annotation_id="22036">pour</DiscourseConnective> le passage aux instruments SEPA.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19191" id="181" name="Elena Băsescu">
+    <ParallelChunk annotation_id="19191" docOffset="132">
+      <en>(RO) I would like to inform you that my country, Romania, is taking some important steps with regard to the implementation of and migration to SEPA.</en>
+      <fr>(RO) Je voudrais que vous sachiez <DiscourseConnective annotation_id="22108">que</DiscourseConnective> mon pays, la Roumanie, fait des progrès importants concernant la mise en œuvre du SEPA <DiscourseConnective annotation_id="22199">et</DiscourseConnective> la migration vers le nouveau système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19340" docOffset="133">
+      <en>In October 2009, Directive 64/2007/EC on payment services in the internal market was transposed into Romanian legislation.</en>
+      <fr>La directive 2007/64/CE concernant les services de paiement dans le marché intérieur a été transposée <DiscourseConnective annotation_id="22342">en</DiscourseConnective> droit roumain <DiscourseConnective annotation_id="22359">en</DiscourseConnective> octobre 2009.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19463" docOffset="134">
+      <en>Back in 2007, the Romanian Banking Association, a member of the European Payments Council, took on the role of support organisation for joining the SEPA schemes.</en>
+      <fr>
+        <DiscourseConnective annotation_id="22376">En</DiscourseConnective> 2007, <DiscourseConnective annotation_id="22385">déjà</DiscourseConnective>, l'association bancaire roumaine, qui fait partie du Conseil européen des paiements, avait assumé le rôle d'organisme d'accompagnement de l'adhésion aux systèmes SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19625" docOffset="135">
+      <en>
+        <Alignment alignment="56847" annotation_id="19625">
+          <Alignment alignment="16000" annotation_id="19625">
+            <DiscourseConnective annotation_id="19625" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the migration to SEPA Credit Transfer will be completed by the date <DiscourseConnective annotation_id="19702" sense="Temporal.Synchrony">when</DiscourseConnective> the euro is adopted, <Alignment alignment="30051" annotation_id="19728">
+          <DiscourseConnective annotation_id="19728" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment>, so far, only five banks are planning to join the SEPA Direct Debit scheme in the next three years.</en>
+      <fr>
+        <Alignment alignment="9523" annotation_id="22558">
+          <Alignment alignment="19625" annotation_id="22558">
+            <DiscourseConnective annotation_id="22558" sense="Expansion.Conjunction">En fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la migration vers le virement SEPA sera achevée <DiscourseConnective annotation_id="22615">pour</DiscourseConnective> la date à laquelle nous adopterons l'euro. <Alignment alignment="2946" annotation_id="22663">
+          <DiscourseConnective annotation_id="22663" sense="Comparison.Contrast">En</DiscourseConnective>
+        </Alignment> ce qui concerne le système de prélèvement automatique SEPA, seules cinq banques prévoient <DiscourseConnective annotation_id="22756">à</DiscourseConnective> l'heure actuelle de l'adopter dans les trois prochaines années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19834" docOffset="136">
+      <en>Public administration plays a key role in the process of migrating to SEPA.</en>
+      <fr>L'administration publique joue un rôle clé dans le processus de migration vers le SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19910" docOffset="137">
+      <en>Public institutions, along with the utilities, telecom operators and insurance companies, can provide the critical mass necessary to boost the SEPA migration process.</en>
+      <fr>Les institutions publiques, <DiscourseConnective annotation_id="22938">au même titre que</DiscourseConnective> les entreprises publiques, les opérateurs de télécommunication <DiscourseConnective annotation_id="23019">et</DiscourseConnective> les compagnies d'assurance peuvent fournir la masse critique nécessaire <DiscourseConnective annotation_id="23094">pour</DiscourseConnective> stimuler le processus de migration vers le SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20077" docOffset="138">
+      <en>Romania's Minister for Public Finances announced that Romania will join the SEPA schemes <DiscourseConnective annotation_id="20166" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective> the euro has been adopted.</en>
+      <fr>Le ministre roumain des finances publiques a annoncé <DiscourseConnective annotation_id="23201">que</DiscourseConnective> la Roumanie adopterait les systèmes SEPA en même temps que l'euro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20198" docOffset="139">
+      <en>Thank you.</en>
+      <fr>Merci.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20209" id="182" language="FR" name="Michel Barnier">
+    <ParallelChunk annotation_id="20209" docOffset="140">
+      <en>Mr President, I would like to thank all those who spoke for their contribution.</en>
+      <fr>membre de la Commission. - Monsieur le Président, je remercie chacune et chacun des intervenants de leur contribution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20289" docOffset="141">
+      <en>What particularly struck me during the course of Mrs Bowles's initial speech was the fact that the whole Parliament has shown unanimous support for the implementation of the single euro payments area (SEPA), <Alignment alignment="37241" annotation_id="20497">
+          <DiscourseConnective annotation_id="20497" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it had already amply demonstrated in the past.</en>
+      <fr>Ce qui m'a beaucoup frappé, dans le prolongement de l'intervention initiale de Sharon Bowles, c'est l'unanimité qui se dégage sur tous les bancs de cette assemblée <DiscourseConnective annotation_id="23562">pour</DiscourseConnective> soutenir, <Alignment alignment="10562" annotation_id="23577">
+          <DiscourseConnective annotation_id="23577" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous l'aviez <DiscourseConnective annotation_id="23596">déjà</DiscourseConnective> démontré largement au sein du Parlement, la mise en place de cet espace unique de paiement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20547" docOffset="142">
+      <en>That is confirmed by the draft resolution.</en>
+      <fr>Cela est confirmé par le projet de résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20590" docOffset="143">
+      <en>It is a project that is two years old <Alignment alignment="23777" annotation_id="20628">
+          <DiscourseConnective annotation_id="20628" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think that it needs to be implemented now.</en>
+      <fr>C'est un projet qui date de deux ans <Alignment alignment="20628" annotation_id="23777">
+          <DiscourseConnective annotation_id="23777" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="23789">maintenant qu'</DiscourseConnective>il faut en achever la mise en œuvre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20677" docOffset="144">
+      <en>Once again, I repeat that I have been struck by the unanimity that was expressed again a moment ago on the need to set a deadline.</en>
+      <fr>Je rappelle, je redis, <DiscourseConnective annotation_id="23863">que</DiscourseConnective> j'ai été très frappé par l'unanimité qui s'est exprimée, à nouveau, à l'instant, sur la nécessité de fixer une date butoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20808" docOffset="145">
+      <en>I <Alignment alignment="37163" annotation_id="20810">
+          <DiscourseConnective annotation_id="20810" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> confirm my commitment to setting that deadline.</en>
+      <fr>Je confirme <Alignment alignment="16512" annotation_id="24003">
+          <DiscourseConnective annotation_id="24003" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> mon engagement, <DiscourseConnective annotation_id="24024">à cet égard</DiscourseConnective>, de fixer cette date butoir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20868" docOffset="146">
+      <en>Please allow me a few weeks simply to take the time - I believe it will be time well spent - to meet with all of the key players in the banking sector.</en>
+      <fr>Donnez-moi quelques semaines, <DiscourseConnective annotation_id="24095">simplement</DiscourseConnective> <DiscourseConnective annotation_id="24106">pour</DiscourseConnective> prendre le temps - je crois que c'est un temps utile - de rencontrer l'ensemble des acteurs du secteur bancaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21020" docOffset="147">
+      <en>I will carry out this brief consultation - on this subject and on others relating to the proper implementation of SEPA - <DiscourseConnective annotation_id="21141" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="21145" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> I will take the decisions quickly, <Alignment alignment="30455" annotation_id="21185">
+          <DiscourseConnective annotation_id="21185" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mrs Bowles has asked.</en>
+      <fr>Je vais mener cette consultation rapidement et au terme de cette consultation, sur ce sujet là comme sur les autres sujets qui touchent <DiscourseConnective annotation_id="24360">à</DiscourseConnective> la bonne mise en œuvre de SEPA, je prendrai les décisions dans un délai rapproché, <Alignment alignment="20662" annotation_id="24445">
+          <DiscourseConnective annotation_id="24445" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous l'avez souhaité, Madame la Présidente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21210" docOffset="148">
+      <en>SEPA will only be a success <Alignment alignment="22350" annotation_id="21238">
+          <DiscourseConnective annotation_id="21238" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it fully meets the expectations of consumers and the people who use it.</en>
+      <fr>SEPA ne sera un succès <Alignment alignment="17539" annotation_id="24518">
+          <DiscourseConnective annotation_id="24518" sense="Contingency.Condition">que s'</DiscourseConnective>
+        </Alignment>il répond totalement aux attentes des consommateurs, des utilisateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21313" docOffset="149">
+      <en>I am talking about businesses, particularly small businesses, consumers, and national administrations.</en>
+      <fr>Je parle des entreprises, <DiscourseConnective annotation_id="24621">notamment</DiscourseConnective> des petites entreprises, des consommateurs, des administrations nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21416" docOffset="150">
+      <en>The Commission hopes - and it will move in that direction - that the concerns of users are taken into account <DiscourseConnective annotation_id="21526" sense="Temporal.Synchrony">when</DiscourseConnective> implementing SEPA.</en>
+      <fr>La Commission souhaite - <DiscourseConnective annotation_id="24732">et</DiscourseConnective> elle agira <DiscourseConnective annotation_id="24746">en ce sens</DiscourseConnective> - <DiscourseConnective annotation_id="24759">que</DiscourseConnective> ces préoccupations des utilisateurs soient prises en compte dans la mise en œuvre de SEPA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21550" docOffset="151">
+      <en>I would like to say to Mrs Băsescu that I will <Alignment alignment="38506" annotation_id="21597">
+          <DiscourseConnective annotation_id="21597" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> pay attention to the efforts of the new Member States - and I know that such efforts exist in your country as well as in others - to be fully included in the SEPA project, which is in everyone's interests.</en>
+      <fr>Je dis <DiscourseConnective annotation_id="24861">à</DiscourseConnective> Mme Băsescu <DiscourseConnective annotation_id="24875">que</DiscourseConnective> je serai <Alignment alignment="21597" annotation_id="24888">
+          <DiscourseConnective annotation_id="24888" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> attentif aux efforts des nouveaux États membres <DiscourseConnective annotation_id="24946">pour</DiscourseConnective> <DiscourseConnective annotation_id="24951">s'</DiscourseConnective>inscrire complètement - <DiscourseConnective annotation_id="24977">et</DiscourseConnective> je sais <DiscourseConnective annotation_id="24988">que</DiscourseConnective> ces efforts existent dans votre pays <DiscourseConnective annotation_id="25029">comme</DiscourseConnective> dans d'autres - dans le projet SEPA, il en va de l'intérêt général.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21808" docOffset="152">
+      <en>Finally, with regard to cards, which I mentioned in my hearing, it seems that greater clarity is needed.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25103">Enfin</DiscourseConnective>, dans le domaine des cartes, <DiscourseConnective annotation_id="25138">que</DiscourseConnective> j'avais moi-même cité <DiscourseConnective annotation_id="25164">à</DiscourseConnective> l'occasion de mon audition, une plus grande clarté <DiscourseConnective annotation_id="25217">s'</DiscourseConnective>avère nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21913" docOffset="153">
+      <en>Once again, I need a few weeks, or a few months at most, in which to hold meetings in order to clarify the key players' intentions and determine the extent to which they are prepared to coordinate or combine their efforts regarding the financing model for a potential pan-European card system.</en>
+      <fr>Là <DiscourseConnective annotation_id="25240">encore</DiscourseConnective>, j'ai besoin de quelques semaines, <DiscourseConnective annotation_id="25282">ou</DiscourseConnective> de quelques mois au plus <DiscourseConnective annotation_id="25310">pour</DiscourseConnective> cette concertation, <DiscourseConnective annotation_id="25335">pour</DiscourseConnective> clarifier un peu les intentions des acteurs, pour voir <DiscourseConnective annotation_id="25395">jusqu'à</DiscourseConnective> quel point ils sont prêts <DiscourseConnective annotation_id="25429">à</DiscourseConnective> coordonner <DiscourseConnective annotation_id="25442">ou</DiscourseConnective> à unifier leurs efforts quant au modèle de financement d'un éventuel système de carte paneuropéenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22207" docOffset="154">
+      <en>As for the competitive framework in which it should operate, that is a issue that I will have to raise with the banking sectors' key players.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25546">Quand</DiscourseConnective> au cadre concurrentiel dans lequel il devrait opérer, voilà une autre question qu'il faut <DiscourseConnective annotation_id="25642">que</DiscourseConnective> j'évoque avec les acteurs des secteurs bancaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22349" docOffset="155">
+      <en>I would like to thank you, Madam Chair, ladies and gentlemen, for the constructive and diligent support that you have once again expressed for the SEPA project. It is matched by the commitment of the European Commission.</en>
+      <fr>Je vous remercie, Madame la Présidente, Mesdames <DiscourseConnective annotation_id="25745">et</DiscourseConnective> Messieurs, de ce soutien constructif <DiscourseConnective annotation_id="25785">et</DiscourseConnective> vigilant <DiscourseConnective annotation_id="25797">que</DiscourseConnective> vous avez exprimé une nouvelle fois au projet SEPA et qui répond également <DiscourseConnective annotation_id="25876">à</DiscourseConnective> l'engagement de la Commission européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22570" id="183" name="President">
+    <ParallelChunk annotation_id="22570" docOffset="156">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22592" docOffset="157">
+      <en>The vote will take place at 12 noon on Wednesday, 10 March 2010.</en>
+      <fr>Le vote aura lieu mercredi 10 mars 2010 <DiscourseConnective annotation_id="25979">à</DiscourseConnective> 12 heures.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

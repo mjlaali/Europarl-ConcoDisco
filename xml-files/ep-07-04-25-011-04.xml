@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Investigation of accidents (vote)</en>
+    <fr>Enquêtes sur les accidents dans le secteur des transports maritimes (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="37" docOffset="2">
+    <en>- Kohlíček report</en>
+    <fr>- Rapport Kohlíček</fr>
+  </ParallelChunk>
+<Speaker annotation_id="55" id="487" name="Jaromír Kohlíček ">
+    <ParallelChunk annotation_id="55" docOffset="3">
+      <en>rapporteur. - (FR) Mr President, I should like to change the order of the votes.</en>
+      <fr>rapporteur. - Monsieur le Président, j'aimerais changer l'ordre des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="136" docOffset="4">
+      <en>With regard to recital 11, it would be better to vote in the first instance on Amendment 26, <Alignment alignment="277" annotation_id="229">
+          <DiscourseConnective annotation_id="229" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is more extensive than Amendment 1.</en>
+      <fr>
+        <DiscourseConnective annotation_id="172">En</DiscourseConnective> ce qui concerne le considérant 11, il serait préférable de voter <DiscourseConnective annotation_id="240">en</DiscourseConnective> premier lieu sur l'amendement 26, <Alignment alignment="229" annotation_id="277">
+          <DiscourseConnective annotation_id="277" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il est plus large <DiscourseConnective annotation_id="304">que</DiscourseConnective> l'amendement 1.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="276" id="488" name="President">
+    <ParallelChunk annotation_id="276" docOffset="5">
+      <en>The voting list is established in accordance with the Rules of Procedure, <Alignment alignment="882" annotation_id="350">
+          <DiscourseConnective annotation_id="350" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="380" annotation_id="354">
+          <DiscourseConnective annotation_id="354" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the House has no objections, we will do <Alignment alignment="432" annotation_id="397">
+          <DiscourseConnective annotation_id="397" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the rapporteur wishes.</en>
+      <fr>La liste des votes est établie selon le règlement, <Alignment alignment="350" annotation_id="375">
+          <DiscourseConnective annotation_id="375" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="354" annotation_id="380">
+          <DiscourseConnective annotation_id="380" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'Assemblée n'a pas d'opposition, on fera <Alignment alignment="397" annotation_id="425">
+          <DiscourseConnective annotation_id="425" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le souhaite le rapporteur.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4. (</en>
+    <fr>4. (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="5" docOffset="1">
+    <en>- After the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="5">Après</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="114" name="Arlene McCarthy">
+    <ParallelChunk annotation_id="23" docOffset="2">
+      <en>President of the Committee on the Internal Market and Consumer Protection. - Madam President, I wanted to intervene after the vote on the Lechner report.</en>
+      <fr>Présidente de la Commission du marché intérieur <DiscourseConnective annotation_id="68">et</DiscourseConnective> de la protection de consommateurs. - Madame la Présidente, je souhaitais intervenir <DiscourseConnective annotation_id="155">après</DiscourseConnective> le vote sur le rapport Lechner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="177" docOffset="3">
+      <en>I did not want to interrupt the voting, <Alignment alignment="245" annotation_id="217">
+          <DiscourseConnective annotation_id="217" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I merely wanted to thank the PPE-DE Group for supporting the common position <Alignment alignment="228882" annotation_id="298">
+          <Alignment alignment="334" annotation_id="298">
+            <DiscourseConnective annotation_id="298" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we now have a very strong majority, which will be a very good signal to both consumers and businesses that we intend to open up the market and protect consumers.</en>
+      <fr>Je ne voulais pas interrompre la procédure de vote, <Alignment alignment="217" annotation_id="245">
+          <DiscourseConnective annotation_id="245" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je voulais <DiscourseConnective annotation_id="261">simplement</DiscourseConnective> remercier le groupe PPE-DE d'avoir adopté la position commune <Alignment alignment="340" annotation_id="334">
+          <Alignment alignment="298" annotation_id="334">
+            <DiscourseConnective annotation_id="334" sense="Contingency.Cause.Result">de manière à ce que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous ayons <DiscourseConnective annotation_id="365">maintenant</DiscourseConnective> une très forte majorité, ce qui constituera un excellent signe aussi bien <DiscourseConnective annotation_id="450">pour</DiscourseConnective> les consommateurs que pour les entreprises de notre intention d'ouvrir le marché <DiscourseConnective annotation_id="536">et</DiscourseConnective> de protéger les consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="468" docOffset="4">
+      <en>Madam President, I know that you have taken a very active role in this dossier <Alignment alignment="654" annotation_id="547">
+          <DiscourseConnective annotation_id="547" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think it is a credit to all the parties that we just got a tremendous majority in the end after many doubts and reservations.</en>
+      <fr>Madame la Présidente, je sais <DiscourseConnective annotation_id="600">que</DiscourseConnective> vous avez joué un rôle très actif dans ce dossier <Alignment alignment="325" annotation_id="654">
+          <DiscourseConnective annotation_id="654" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je crois que c'est une bonne chose <DiscourseConnective annotation_id="692">pour</DiscourseConnective> tous les partis <DiscourseConnective annotation_id="713">que</DiscourseConnective> nous ayons finalement dégagé une si large majorité, <DiscourseConnective annotation_id="769">après</DiscourseConnective> avoir connu de nombreux doutes <DiscourseConnective annotation_id="806">et</DiscourseConnective> réserves.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

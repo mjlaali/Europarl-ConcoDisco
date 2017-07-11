@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="110" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I have the pleasure of informing you that members of a delegation from the National Assembly of Mauritania have taken their seats in the official gallery.</en>
+      <fr>J'ai le plaisir de vous informer <DiscourseConnective annotation_id="55">qu'</DiscourseConnective>une délégation de l'Assemblée nationale de Mauritanie a pris place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="163" docOffset="2">
+      <en>I would like to extend a warm welcome to this delegation led by Mr El Arbi Ould Sidi Ali. They are here to meet with Members of the European Parliament.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="162">à</DiscourseConnective> souhaiter la bienvenue <DiscourseConnective annotation_id="187">à</DiscourseConnective> cette délégation conduite par M. El Arbi Ould Sidi Ali, qui est venue ici <DiscourseConnective annotation_id="263">pour</DiscourseConnective> rencontrer les membres du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="316" docOffset="3">
+      <en>Once more, welcome to Brussels and to our Parliament.</en>
+      <fr>Bienvenue <DiscourseConnective annotation_id="324">à</DiscourseConnective> Bruxelles <DiscourseConnective annotation_id="336">et</DiscourseConnective> dans notre Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="370" docOffset="4">
+      <en>Relations between the European Union and Mauritania are very important for the European Parliament.</en>
+      <fr>Les relations entre l'Union européenne <DiscourseConnective annotation_id="400">et</DiscourseConnective> la Mauritanie revêtent une grande importance aux yeux du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="470" docOffset="5">
+      <en>I am convinced that the fruitful dialogue between Members of the European Parliament and Members of the Mauritanian Parliament can contribute to enhancing these relations and <DiscourseConnective annotation_id="645" sense="Expansion.Conjunction">also</DiscourseConnective> to developing new areas of cooperation between the EU and Mauritania.</en>
+      <fr>Je suis convaincu <DiscourseConnective annotation_id="498">que</DiscourseConnective> le dialogue fructueux entre les membres du Parlement européens <DiscourseConnective annotation_id="565">et</DiscourseConnective> les membres du parlement mauritanien peut contribuer <DiscourseConnective annotation_id="621">à</DiscourseConnective> renforcer ces relations <DiscourseConnective annotation_id="647">et</DiscourseConnective> <DiscourseConnective annotation_id="650">à</DiscourseConnective> trouver de nouveaux domaines de coopération entre l'UE <DiscourseConnective annotation_id="707">et</DiscourseConnective> la Mauritanie.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

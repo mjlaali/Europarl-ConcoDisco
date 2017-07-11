@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="056" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is voting time.</en>
+      <fr>L'ordre du jour appelle l'Heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+      <en>(For details of the outcome of the votes: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes et autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="97" id="057" name="Monica Frassoni">
+    <ParallelChunk annotation_id="97" docOffset="3">
+      <en>(IT) Mr President, just a short aside, as Members are still taking their seats.</en>
+      <fr>(IT) Monsieur le Président, juste une brève <DiscourseConnective annotation_id="187">remarque</DiscourseConnective>, <DiscourseConnective annotation_id="197">pendant que</DiscourseConnective> les membres <DiscourseConnective annotation_id="221">s'</DiscourseConnective>installent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="177" docOffset="4">
+      <en>We changed the rules of procedure <Alignment alignment="277" annotation_id="211">
+          <DiscourseConnective annotation_id="211" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> too much time was being spent on fruitless debates, <Alignment alignment="1241" annotation_id="271">
+          <DiscourseConnective annotation_id="271" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we decided not to hold a debate on the Auken report.</en>
+      <fr>Nous avons modifié le règlement intérieur <Alignment alignment="211" annotation_id="277">
+          <DiscourseConnective annotation_id="277" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> on passait trop de temps <DiscourseConnective annotation_id="306">à</DiscourseConnective> mener des débats stériles, <Alignment alignment="328" annotation_id="335">
+          <DiscourseConnective annotation_id="335" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous avons décidé de ne pas organiser de débat sur le rapport Auken.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="328" docOffset="5">
+      <en>We have wasted a good half hour doing nothing, which we could have employed much better by debating a text that is of great importance to citizens.</en>
+      <fr>Nous avons perdu une bonne demi-heure à ne rien faire, <DiscourseConnective annotation_id="462">alors que</DiscourseConnective> nous aurions pu mettre ce temps à profit <DiscourseConnective annotation_id="513">pour</DiscourseConnective> débattre d'un texte qui revêt une grande importance <DiscourseConnective annotation_id="570">pour</DiscourseConnective> les citoyens.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="476" id="058" name="President">
+    <ParallelChunk annotation_id="476" docOffset="6">
+      <en>Your comment will be passed on to the competent bodies.</en>
+      <fr>Votre <DiscourseConnective annotation_id="595">remarque</DiscourseConnective> sera transmise aux organes compétents.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>The transposition, implementation and enforcement of Directives 2005/29/EC and 2006/114/EC (short presentation)</en>
+    <fr>Transposition, mise en œuvre <DiscourseConnective annotation_id="29">et</DiscourseConnective> exécution de la directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur, <DiscourseConnective annotation_id="185">et</DiscourseConnective> de la directive 2006/114/CE en matière de publicité trompeuse et de publicité comparative (brève présentation)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="112" id="200" name="President">
+    <ParallelChunk annotation_id="112" docOffset="1">
+      <en>The next item is the report by Mrs Weiler, on behalf of the Committee on Internal Market and Consumer Protection, on the transposition, implementation and enforcement of Directive 2005/29/EC, concerning unfair business-to-consumer commercial practices in the internal market, and Directive 2006/114/EC concerning misleading and comparative advertising.</en>
+      <fr>L'ordre du jour appelle le rapport de Mme Weiler, au nom de la commission du marché intérieur <DiscourseConnective annotation_id="393">et</DiscourseConnective> de la protection des consommateurs, sur la transposition, la mise en œuvre <DiscourseConnective annotation_id="471">et</DiscourseConnective> l'application de la directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur <DiscourseConnective annotation_id="630">et</DiscourseConnective> de la directive 2006/114/CE en matière de publicité trompeuse <DiscourseConnective annotation_id="695">et</DiscourseConnective> de publicité comparative .</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="465" id="201" name="Barbara Weiler">
+    <ParallelChunk annotation_id="465" docOffset="2">
+      <en>rapporteur. - (DE) Mr President, Commissioner, ladies and gentlemen, <Alignment alignment="9487" annotation_id="534">
+          <DiscourseConnective annotation_id="534" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> I come to my report, I would like to say once more that we have not conducted ourselves correctly with our decision to debate our own-initiative reports.</en>
+      <fr>rapporteure. - (DE) Monsieur le Président, Madame la Commissaire, Mesdames <DiscourseConnective annotation_id="800">et</DiscourseConnective> Messieurs, <Alignment alignment="534" annotation_id="814">
+          <DiscourseConnective annotation_id="814" sense="Temporal.Asynchronous.Precedence">avant d'</DiscourseConnective>
+        </Alignment>en venir <DiscourseConnective annotation_id="831">à</DiscourseConnective> mon rapport, je voudrais réaffirmer <DiscourseConnective annotation_id="869">que</DiscourseConnective> nous ne nous sommes pas conduits correctement en ce qui concerne notre décision de débattre de nos rapports d'initiative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="695" docOffset="3">
+      <en>
+        <Alignment alignment="995" annotation_id="695">
+          <DiscourseConnective annotation_id="695" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> I see how the debates proceed - without dialogue, without controversy, without conflicts - I do not feel this to be a proper parliamentary debate <Alignment alignment="9929" annotation_id="846">
+          <DiscourseConnective annotation_id="846" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope we will put that right quickly after the European elections.</en>
+      <fr>
+        <Alignment alignment="695" annotation_id="995">
+          <DiscourseConnective annotation_id="995" sense="Temporal.Synchrony">Quand</DiscourseConnective>
+        </Alignment> je vois la manière dont le débat se déroule - en l'absence de dialogue, <DiscourseConnective annotation_id="1073">sans</DiscourseConnective> controverse, <DiscourseConnective annotation_id="1091">sans</DiscourseConnective> conflit - je n'ai pas l'impression de participer à un débat parlementaire digne de ce nom <Alignment alignment="846" annotation_id="1186">
+          <DiscourseConnective annotation_id="1186" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère que nous pourrons rectifier cela rapidement <DiscourseConnective annotation_id="1242">après</DiscourseConnective> les élections européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="918" docOffset="4">
+      <en>
+        <DiscourseConnective annotation_id="918" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>, I would like to express my thanks to fellow Members who are not present.</en>
+      <fr>Cela étant dit, je voudrais remercier mes collègues députés qui ne sont pas présents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1005" docOffset="5">
+      <en>We have worked very well together on the production of the report.</en>
+      <fr>Nous avons remarquablement travaillé ensemble <DiscourseConnective annotation_id="1407">pour</DiscourseConnective> aboutir <DiscourseConnective annotation_id="1420">à</DiscourseConnective> ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1072" docOffset="6">
+      <en>I would <Alignment alignment="8393" annotation_id="1080">
+          <DiscourseConnective annotation_id="1080" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the Commission and the committee secretariat.</en>
+      <fr>Je voudrais <Alignment alignment="1080" annotation_id="1446">
+          <DiscourseConnective annotation_id="1446" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> remercier la Commission européenne <DiscourseConnective annotation_id="1491">et</DiscourseConnective> le secrétariat de la commission du marché intérieur et de la protection des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1145" docOffset="7">
+      <en>We have made many new joint discoveries during the debate in committee.</en>
+      <fr>Au cours des débats <DiscourseConnective annotation_id="1605">en</DiscourseConnective> commission, nous avons fait ensemble nombre de découvertes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1217" docOffset="8">
+      <en>The Committee on the Internal Market and Consumer Protection has consciously put the debate on implementation relatively early on the agenda <Alignment alignment="1837" annotation_id="1358">
+          <DiscourseConnective annotation_id="1358" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the deadline for implementation by Member States was the middle to the end of 2007, which to date is not much time for a directive involving an enormous and significant element of harmonisation.</en>
+      <fr>La commission du marché intérieur <DiscourseConnective annotation_id="1702">et</DiscourseConnective> de la protection des consommateurs a, en toute connaissance de cause, placé assez haut dans l'agenda le débat sur la mise en œuvre, <Alignment alignment="1358" annotation_id="1837">
+          <DiscourseConnective annotation_id="1837" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> le délai de mise en œuvre par les États membres était fixé <DiscourseConnective annotation_id="1914">à</DiscourseConnective> fin 2007, ce qui, ordinairement, représente bien peu de temps <DiscourseConnective annotation_id="1978">pour</DiscourseConnective> une directive qui implique des éléments d'harmonisation aussi vastes <DiscourseConnective annotation_id="2052">qu'</DiscourseConnective>essentiels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1561" docOffset="9">
+      <en>
+        <DiscourseConnective annotation_id="1561" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>, some Member States have not undertaken transposal.</en>
+      <fr>Cela étant, certains États membres n'ont entrepris aucune transposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1626" docOffset="10">
+      <en>Certainly, this has to do with the complicated procedure, <Alignment alignment="10585" annotation_id="1684">
+          <DiscourseConnective annotation_id="1684" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is interesting that three Member States who have not managed it are some of the founding Member States.</en>
+      <fr>Sans aucun doute, la complexité de la procédure est en cause <Alignment alignment="1684" annotation_id="2201">
+          <DiscourseConnective annotation_id="2201" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il est intéressant de constater <DiscourseConnective annotation_id="2238">que</DiscourseConnective> trois des États membres n'ayant pas procédé à la transposition sont des États membres fondateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1795" docOffset="11">
+      <en>
+        <DiscourseConnective annotation_id="1795" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>, we cannot assume that they are lacking in knowledge of European law.</en>
+      <fr>En ce qui les concerne, il est difficile de penser que leur connaissance du droit européen est trop élémentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1875" docOffset="12">
+      <en>Three Member States have not yet transposed the directive, four have done so deficiently and inadequately <Alignment alignment="2795" annotation_id="1981">
+          <DiscourseConnective annotation_id="1981" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> three Member States have received communications from the Commission that could potentially lead to proceedings at the European Court of Justice.</en>
+      <fr>Trois États membres n'ont pas <DiscourseConnective annotation_id="2483">encore</DiscourseConnective> transposé la directive, quatre l'ont fait mais de manière incorrecte <DiscourseConnective annotation_id="2559">et</DiscourseConnective> inadéquate <Alignment alignment="1981" annotation_id="2573">
+          <DiscourseConnective annotation_id="2573" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> trois ont reçu de la Commission des communications qui pourraient éventuellement mener <DiscourseConnective annotation_id="2663">à</DiscourseConnective> des poursuites devant la Cour de justice européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2131" docOffset="13">
+      <en>There are a large number of cases of deficient transposal.</en>
+      <fr>Le nombre de cas de transposition erronée est important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2190" docOffset="14">
+      <en>We established during our hearing that two countries have transposed the directive with a great deal of commitment and creativity, namely the United Kingdom and Austria.</en>
+      <fr>Lors de notre audition, nous avons constaté <DiscourseConnective annotation_id="2819">que</DiscourseConnective> deux pays ont transposé la directive avec une bonne dose d'implication <DiscourseConnective annotation_id="2894">et</DiscourseConnective> de créativité, à savoir le Royaume-Uni <DiscourseConnective annotation_id="2936">et</DiscourseConnective> l'Autriche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2360" docOffset="15">
+      <en>It is possible, then.</en>
+      <fr>C'est <DiscourseConnective annotation_id="2957">donc</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2382" docOffset="16">
+      <en>The benefits of the internal market should be in the interest of the Member States.</en>
+      <fr>Les avantages du marché intérieur devraient intéresser les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2466" docOffset="17">
+      <en>The aim of this directive should be to clarify consumer rights and to simplify cross-border trade, to introduce reliable and fair regulations and, of course, to strengthen legal certainty.</en>
+      <fr>L'objectif de cette directive devrait être de clarifier les droits des consommateurs <DiscourseConnective annotation_id="3131">et</DiscourseConnective> de simplifier le commerce transfrontalier, d'introduire des réglementations fiables <DiscourseConnective annotation_id="3218">et</DiscourseConnective> équitables <DiscourseConnective annotation_id="3232">et</DiscourseConnective>, naturellement, de renforcer la sécurité juridique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2655" docOffset="18">
+      <en>A very important point for us, as parliamentarians, was the protection of citizens and consumers from fraudulent practices.</en>
+      <fr>La protection des citoyens <DiscourseConnective annotation_id="3314">et</DiscourseConnective> des consommateurs vis-à-vis des pratiques frauduleuses constituait <DiscourseConnective annotation_id="3384">pour</DiscourseConnective> nous, parlementaires, un point très important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2779" docOffset="19">
+      <en>This applies not only to consumers but also to small enterprises and tradespeople.</en>
+      <fr>Cela ne s'applique pas exclusivement aux consommateurs <DiscourseConnective annotation_id="3491">mais</DiscourseConnective> <DiscourseConnective annotation_id="3496">également</DiscourseConnective> aux petites entreprises <DiscourseConnective annotation_id="3530">et</DiscourseConnective> aux hommes d'affaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2862" docOffset="20">
+      <en>Our aim, Commissioner, should perhaps be to put these two directives together in the medium term <Alignment alignment="11312" annotation_id="2959">
+          <DiscourseConnective annotation_id="2959" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> very many small businesses are confronted by the same irritations in the internal market as consumers.</en>
+      <fr>Notre objectif, Madame la Commissaire, devrait peut-être passer par l'unification de ces deux directives en une seule, à moyen terme, <Alignment alignment="2959" annotation_id="3690">
+          <DiscourseConnective annotation_id="3690" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> de nombreuses petites entreprises doivent faire face aux mêmes irritations sur le marché intérieur <DiscourseConnective annotation_id="3807">que</DiscourseConnective> les consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3070" docOffset="21">
+      <en>We know of many examples, such as annoying advertising and misleading and aggressive business practices.</en>
+      <fr>Nous connaissons quantité d'exemples de publicités importunes <DiscourseConnective annotation_id="3892">et</DiscourseConnective> mensongères <DiscourseConnective annotation_id="3907">et</DiscourseConnective> de pratiques commerciales agressives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3175" docOffset="22">
+      <en>We all know the address book fraud that is a widespread problem throughout Europe.</en>
+      <fr>Nous connaissons tous la fraude au carnet d'adresses - problème qui a envahi toute l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3258" docOffset="23">
+      <en>We know about cheating on the lottery and much more <Alignment alignment="4126" annotation_id="3310">
+          <DiscourseConnective annotation_id="3310" sense="Expansion.Conjunction">besides</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Nous connaissons la tricherie des loteries promotionnelles <DiscourseConnective annotation_id="4100">et</DiscourseConnective> bien d'autres exemples <Alignment alignment="3310" annotation_id="4126">
+          <DiscourseConnective annotation_id="4126" sense="Expansion.Conjunction">encore</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3319" docOffset="24">
+      <en>I would <Alignment alignment="4447" annotation_id="3327">
+          <DiscourseConnective annotation_id="3327" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the Commission for rigorously introducing the new sweep and search system in airlines and ring-tone advertising.</en>
+      <fr>Permettez-moi <Alignment alignment="3327" annotation_id="4148">
+          <DiscourseConnective annotation_id="4148" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de remercier la Commission <DiscourseConnective annotation_id="4185">pour</DiscourseConnective> avoir abordé avec rigueur le nouveau système de balayage <DiscourseConnective annotation_id="4247">et</DiscourseConnective> de recherche sur les lignes aériennes <DiscourseConnective annotation_id="4288">et</DiscourseConnective> la publicité pour les sonneries de téléphone.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3459" docOffset="25">
+      <en>We hope that it will continue to work on this.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="4346">qu'</DiscourseConnective>elle continuera d'œuvrer de la sorte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3506" docOffset="26">
+      <en>We expect that it will implement stronger networking with national offices and ensure that black lists are not undermined <Alignment alignment="4526" annotation_id="3628">
+          <DiscourseConnective annotation_id="3628" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> sanctions are actually a deterrent - a quite significant point for us as parliamentarians.</en>
+      <fr>Nous espérons <DiscourseConnective annotation_id="4401">qu'</DiscourseConnective>elle pourra développer le travail en réseau avec les bureaux nationaux <DiscourseConnective annotation_id="4475">et</DiscourseConnective> s'assurer <DiscourseConnective annotation_id="4488">que</DiscourseConnective> les listes noires restent actives <Alignment alignment="1361" annotation_id="4526">
+          <DiscourseConnective annotation_id="4526" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que les sanctions sont réellement dissuasives - point important <DiscourseConnective annotation_id="4593">pour</DiscourseConnective> nous, parlementaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3723" docOffset="27">
+      <en>I would like to say, in closing, that successful transposal requires cooperation between the Member States and between national and European parliamentarians <DiscourseConnective annotation_id="3881" sense="Expansion.Conjunction">and</DiscourseConnective>, entirely in line with the Treaty of Lisbon, which has been mentioned here, I would <Alignment alignment="12721" annotation_id="3969">
+          <DiscourseConnective annotation_id="3969" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to argue in favour of national parliamentarians exercising more control over their national governments.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4620">Pour finir</DiscourseConnective>, je voudrais <DiscourseConnective annotation_id="4644">dire que</DiscourseConnective> la réussite de la transposition exige la collaboration entre les États membres <DiscourseConnective annotation_id="4732">et</DiscourseConnective> entre les parlementaires nationaux <DiscourseConnective annotation_id="4770">et</DiscourseConnective> européens. Enfin, conformément au traité de Lisbonne, qui a été mentionné ici, je voudrais <Alignment alignment="3588" annotation_id="4864">
+          <DiscourseConnective annotation_id="4864" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> plaider <DiscourseConnective annotation_id="4882">en</DiscourseConnective> faveur d'un contrôle accru des parlementaires nationaux sur leurs gouvernements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4084" docOffset="28">
+      <en>These two Acts would be a good start.</en>
+      <fr>Ces deux actes devraient constituer un bon point de départ.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4122" id="202" name="Androulla Vassiliou">
+    <ParallelChunk annotation_id="4122" docOffset="29">
+      <en>Member of the Commission. - Mr President, first of all I would like to thank the rapporteur, Mrs Weiler, for her report, the contents of which of course will be carefully considered by the Commission, but also to thank her for the comments she made regarding this procedure.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, <DiscourseConnective annotation_id="5081">avant</DiscourseConnective> tout, j'aimerais remercier la rapporteure, Madame Weiler, <DiscourseConnective annotation_id="5145">pour</DiscourseConnective> son rapport, dont le contenu sera évidemment examiné avec soin par la Commission, <DiscourseConnective annotation_id="5232">mais</DiscourseConnective> je voudrais <DiscourseConnective annotation_id="5249">également</DiscourseConnective> la remercier <DiscourseConnective annotation_id="5272">pour</DiscourseConnective> ses commentaires concernant cette procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4397" docOffset="30">
+      <en>The Commission fully agrees that it is now very important that Member States adequately transpose the new concepts introduced by the directive on unfair commercial practices <Alignment alignment="5543" annotation_id="4571">
+          <DiscourseConnective annotation_id="4571" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that national authorities <Alignment alignment="5796" annotation_id="4601">
+          <DiscourseConnective annotation_id="4601" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> contribute to uniform implementation of the directive right across the EU.</en>
+      <fr>La Commission reconnaît pleinement <DiscourseConnective annotation_id="5357">qu'</DiscourseConnective>il est <DiscourseConnective annotation_id="5367">maintenant</DiscourseConnective> très important <DiscourseConnective annotation_id="5393">que</DiscourseConnective> les États membres transposent de manière adéquate les nouveaux concepts introduits par la directive relative aux pratiques commerciales déloyales <Alignment alignment="4571" annotation_id="5543">
+          <DiscourseConnective annotation_id="5543" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5546">que</DiscourseConnective> les autorités nationales contribuent <Alignment alignment="781" annotation_id="5587">
+          <DiscourseConnective annotation_id="5587" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5597">à</DiscourseConnective> uniformiser la mise en œuvre de la directive dans toute l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4681" docOffset="31">
+      <en>As far <DiscourseConnective annotation_id="4688" sense="Temporal.Synchrony">as</DiscourseConnective> transpositions are concerned, two Member States are still late: Luxembourg and Spain; the Commission referred these cases to the Court of Justice in June last year.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5675">En</DiscourseConnective> ce qui concerne les transpositions, deux États membres sont toujours à la traîne: le Luxembourg <DiscourseConnective annotation_id="5774">et</DiscourseConnective> l'Espagne. La Commission en a fait part <DiscourseConnective annotation_id="5817">à</DiscourseConnective> la Cour de justice <DiscourseConnective annotation_id="5838">en</DiscourseConnective> juin dernier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4856" docOffset="32">
+      <en>The Commission <Alignment alignment="13061" annotation_id="4871">
+          <DiscourseConnective annotation_id="4871" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> coordinated cooperation on transposition in order to avoid incorrect transpositions.</en>
+      <fr>La Commission a <Alignment alignment="4871" annotation_id="5871">
+          <DiscourseConnective annotation_id="5871" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> coordonné la coopération en matière de transposition <DiscourseConnective annotation_id="5934">afin d'</DiscourseConnective>éviter les transpositions incorrectes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4961" docOffset="33">
+      <en>
+        <Alignment alignment="5980" annotation_id="4961">
+          <DiscourseConnective annotation_id="4961" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, some problems remain in a limited number of countries mainly because of their reluctance to comply with full harmonisation.</en>
+      <fr>
+        <Alignment alignment="1648" annotation_id="5980">
+          <DiscourseConnective annotation_id="5980" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, certains problèmes demeurent dans un nombre limité de pays, essentiellement en raison de leur réticence envers une harmonisation complète.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5099" docOffset="34">
+      <en>For those cases the Commission will not hesitate to launch infringement proceedings.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6130">Pour</DiscourseConnective> ces cas, la Commission n'hésitera pas <DiscourseConnective annotation_id="6173">à</DiscourseConnective> engager une procédure en manquement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5184" docOffset="35">
+      <en>The report mentions the need to protect not only consumers but also SMEs against unfair commercial practices.</en>
+      <fr>Le rapport mentionne la nécessité de protéger <DiscourseConnective annotation_id="6258">non seulement</DiscourseConnective> les consommateurs, <DiscourseConnective annotation_id="6291">mais aussi</DiscourseConnective> les PME, contre les pratiques commerciales déloyales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5294" docOffset="36">
+      <en>On this point the Commission reminds the European Parliament that a full harmonisation directive on unfair business-to-consumer practices was already a very ambitious proposal which would have failed <Alignment alignment="18618" annotation_id="5494">
+          <DiscourseConnective annotation_id="5494" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> its scope had been extended to business-to-business unfair competition practices.</en>
+      <fr>Sur ce point, la Commission rappelle au Parlement européen <DiscourseConnective annotation_id="6415">qu'</DiscourseConnective>une directive d'harmonisation complète sur les pratiques déloyales des entreprises vis-à-vis des consommateurs était <DiscourseConnective annotation_id="6535">déjà</DiscourseConnective> une proposition très ambitieuse qui aurait échoué <Alignment alignment="985" annotation_id="6590">
+          <DiscourseConnective annotation_id="6590" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> sa portée avait été étendue aux pratiques de concurrence déloyale entre entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5579" docOffset="37">
+      <en>It has been concluded from the consultation leading up to the proposal and from the deliberations in Council that there was little support for extending the scope of the directive to cover business-to-business unfair commercial practices.</en>
+      <fr>D'après la consultation conduisant <DiscourseConnective annotation_id="6713">à</DiscourseConnective> la proposition <DiscourseConnective annotation_id="6730">et</DiscourseConnective> les délibérations du Conseil, il a été conclu <DiscourseConnective annotation_id="6779">que</DiscourseConnective> peu de soutien était accordé <DiscourseConnective annotation_id="6812">à</DiscourseConnective> l'extension de la portée de la directive <DiscourseConnective annotation_id="6855">pour</DiscourseConnective> couvrir les pratiques commerciales déloyales entre entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5818" docOffset="38">
+      <en>As regards aggressive practices which were regulated for the first time at EU level through the directive on unfair commercial practices, it was considered that such practices occur almost exclusively in business-to-consumer relationships.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6924">En</DiscourseConnective> ce qui concerne les pratiques agressives qui ont été réglementées <DiscourseConnective annotation_id="6993">pour</DiscourseConnective> la première fois au niveau européen grâce à la directive relative aux pratiques commerciales déloyales, il a été jugé <DiscourseConnective annotation_id="7116">que</DiscourseConnective> lesdites pratiques sont observées uniquement dans les relations entre entreprises <DiscourseConnective annotation_id="7202">et</DiscourseConnective> consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6058" docOffset="39">
+      <en>Misleading business-to-business practices are already covered by the directive concerning misleading and comparative advertising.</en>
+      <fr>Les pratiques trompeuses entre entreprises relèvent <DiscourseConnective annotation_id="7272">déjà</DiscourseConnective> de la directive concernant la publicité trompeuse <DiscourseConnective annotation_id="7327">et</DiscourseConnective> comparative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6188" docOffset="40">
+      <en>Such practices should continue to be regulated solely by this directive.</en>
+      <fr>Lesdites pratiques doivent continuer <DiscourseConnective annotation_id="7380">à</DiscourseConnective> être réglementées uniquement par cette directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6261" docOffset="41">
+      <en>As regards enforcement of consumer protection legislation, the Commission will continue to coordinate enforcement actions through the consumer protection cooperation network.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7432">En</DiscourseConnective> ce qui concerne l'application de la législation de la protection des consommateurs, la Commission continuera <DiscourseConnective annotation_id="7544">à</DiscourseConnective> coordonner les mesures d'application par l'entremise du réseau de coopération pour la protection des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6436" docOffset="42">
+      <en>In this context the Commission notes that Parliament's support for the 'sweeps' as an enforcement tool.</en>
+      <fr>Dans ce contexte, la Commission note <DiscourseConnective annotation_id="7699">que</DiscourseConnective> le soutien du Parlement <DiscourseConnective annotation_id="7727">pour</DiscourseConnective> les "balayages" est un outil d'application de la loi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6540" docOffset="43">
+      <en>The Commission intends to further develop this mechanism and has planned a further sweep for later this year.</en>
+      <fr>La Commission a l'intention de perfectionner davantage ce mécanisme <DiscourseConnective annotation_id="7854">et</DiscourseConnective> elle a prévu un balayage supplémentaire <DiscourseConnective annotation_id="7897">plus tard</DiscourseConnective> dans le courant de cette année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6650" docOffset="44">
+      <en>Further to the request from Parliament, the Commission is <Alignment alignment="7999" annotation_id="6708">
+          <DiscourseConnective annotation_id="6708" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> pleased to add that the forthcoming second version of the consumer scoreboard will contain data gathered during the sweeps carried out so far.</en>
+      <fr>Pour faire suite <DiscourseConnective annotation_id="7956">à</DiscourseConnective> la demande du Parlement, la Commission a <Alignment alignment="4839" annotation_id="7999">
+          <DiscourseConnective annotation_id="7999" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> le plaisir d'ajouter <DiscourseConnective annotation_id="8030">que</DiscourseConnective> la seconde version du tableau de bord des consommateurs contiendra des données recueillies durant les balayages menés <DiscourseConnective annotation_id="8152">jusqu'à</DiscourseConnective> présent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6856" docOffset="45">
+      <en>
+        <Alignment alignment="8169" annotation_id="6856">
+          <DiscourseConnective annotation_id="6856" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> the report mentions the need for information campaigns to raise consumer awareness of their rights, the Commission would like to inform the members of its recent 'Is it fair?' website which includes <DiscourseConnective annotation_id="7058" sense="Expansion.Instantiation">for example</DiscourseConnective> educational material on the blacklist of banned practices.</en>
+      <fr>
+        <Alignment alignment="6856" annotation_id="8169">
+          <DiscourseConnective annotation_id="8169" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> le rapport mentionne la nécessité de mener des campagnes d'informations <DiscourseConnective annotation_id="8247">pour</DiscourseConnective> sensibiliser les consommateurs <DiscourseConnective annotation_id="8283">à</DiscourseConnective> leurs droits, la Commission souhaite informer les membres de son récent site "Is it fair?", qui comprend notamment du matériel didactique <DiscourseConnective annotation_id="8423">à propos</DiscourseConnective> de la liste noire des pratiques interdites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7129" docOffset="46">
+      <en>To conclude, the Commission would like to assure this House that it will continue to work closely with Member States to ensure adequate and effective enforcement of the directives on unfair commercial practices and misleading comparative advertisement.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8476">En</DiscourseConnective> conclusion, la Commission aimerait assurer à cette Assemblée <DiscourseConnective annotation_id="8540">qu'</DiscourseConnective>elle continuera <DiscourseConnective annotation_id="8559">à</DiscourseConnective> travailler en étroite collaboration avec les États membres <DiscourseConnective annotation_id="8620">pour</DiscourseConnective> veiller à l'application adéquate <DiscourseConnective annotation_id="8658">et</DiscourseConnective> efficace des directives sur les pratiques commerciales déloyales <DiscourseConnective annotation_id="8726">et</DiscourseConnective> la publicité trompeuse et comparative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7382" docOffset="47">
+      <en>The database containing national transposition measures and case-law will be set up this year and will serve as a useful tool in this respect.</en>
+      <fr>La base de données contenant les mesures de transpositions nationales <DiscourseConnective annotation_id="8838">et</DiscourseConnective> la jurisprudence sera constituée cette année <DiscourseConnective annotation_id="8886">et</DiscourseConnective> elle constituera un outil utile <DiscourseConnective annotation_id="8921">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7525" id="203" name="President">
+    <ParallelChunk annotation_id="7525" docOffset="48">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7547" docOffset="49">
+      <en>The vote will take place on Tuesday at 12 noon.</en>
+      <fr>Le vote aura lieu mardi <DiscourseConnective annotation_id="8977">à</DiscourseConnective> 12 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7595" docOffset="50">
+      <en>(Following upon Mrs Weiler's comments, the President read out the provisions of Rule 45(2) of the Rules of Procedure)</en>
+      <fr>(Suite <DiscourseConnective annotation_id="8997">à</DiscourseConnective> l'intervention de Mme Weiler, le président rappelle les dispositions de l'article 45, paragraphe 2, du règlement.)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7713" docOffset="51">
+      <en>Written Statement (Rule 142)</en>
+      <fr>Déclarations écrites (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7742" id="204" name="Zita Pleštinská ">
+    <ParallelChunk annotation_id="7742" docOffset="52">
+      <en>in writing. - (SK) European consumers are often confronted with unfair commercial practices and deceptive and misleading advertising.</en>
+      <fr>par écrit. - (SK) Les consommateurs européens sont souvent confrontés à des pratiques commerciales déloyales et à de la publicité trompeuse et mensongère.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7876" docOffset="53">
+      <en>The category of vulnerable consumers, which includes children and senior citizens in particular, is most exposed to the risk of fraud.</en>
+      <fr>Les citoyens vulnérables, <DiscourseConnective annotation_id="9330">notamment</DiscourseConnective> les enfants <DiscourseConnective annotation_id="9352">et</DiscourseConnective> les personnes âgées, sont davantage exposés au risque d'abus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8011" docOffset="54">
+      <en>I welcome the Commission's effort to assist Member States in transposing a directive which will help to increase confidence of both consumers and traders in cross-border transactions.</en>
+      <fr>Je salue l'effort entrepris par la Commission <DiscourseConnective annotation_id="9463">pour</DiscourseConnective> aider les États membres <DiscourseConnective annotation_id="9492">à</DiscourseConnective> transposer une directive qui entend contribuer <DiscourseConnective annotation_id="9541">à</DiscourseConnective> accroître la confiance <DiscourseConnective annotation_id="9566">à</DiscourseConnective> la fois des consommateurs <DiscourseConnective annotation_id="9594">et</DiscourseConnective> des marchands dans les transactions transfrontalières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8195" docOffset="55">
+      <en>It will ensure greater legal certainty for consumers <Alignment alignment="9729" annotation_id="8248">
+          <DiscourseConnective annotation_id="8248" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, at the same time, protect small and medium-sized enterprises against aggressive unfair commercial practices.</en>
+      <fr>Voilà qui assurera une plus grande sécurité juridique <DiscourseConnective annotation_id="9706">pour</DiscourseConnective> les consommateurs <Alignment alignment="8248" annotation_id="9729">
+          <DiscourseConnective annotation_id="9729" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="9733">parallèlement</DiscourseConnective>, protégera les petites <DiscourseConnective annotation_id="9770">et</DiscourseConnective> moyennes entreprises contre les pratiques commerciales déloyales et agressives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8362" docOffset="56">
+      <en>This directive will be crucial for the future development of consumer rights in the EU and for fully developing the potential of the internal market.</en>
+      <fr>Cette directive sera cruciale <DiscourseConnective annotation_id="9883">pour</DiscourseConnective> l'évolution future des droits du consommateur dans l'UE <DiscourseConnective annotation_id="9944">et</DiscourseConnective> <DiscourseConnective annotation_id="9947">pour</DiscourseConnective> le plein développement du potentiel du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8512" docOffset="57">
+      <en>
+        <Alignment alignment="9690" annotation_id="8512">
+          <DiscourseConnective annotation_id="8512" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> some things still remain unclear in the transposition of this directive, I welcome the report of Mrs Weiler drawing attention to the problems with transposing the directive into national legislations.</en>
+      <fr>
+        <Alignment alignment="8512" annotation_id="10009">
+          <DiscourseConnective annotation_id="10009" sense="Contingency.Cause.Reason">Dans la mesure où</DiscourseConnective>
+        </Alignment> il demeure des imprécisions dans la transposition de cette directive, je salue le rapport de Mme Weiler dont l'un des mérites est d'attirer notre attention sur les problèmes de transposition de la directive dans les législations nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8719" docOffset="58">
+      <en>In order for us to be successful, judicial authorities will have to reinforce cross-border cooperation regarding misleading database services.</en>
+      <fr>Si nous entendons réussir dans notre entreprise, les autorités judiciaires devront renforcer leur collaboration transfrontalière en ce qui concerne les services de bases de données à caractère frauduleux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8862" docOffset="59">
+      <en>I attach great importance to information campaigns for heightening consumers' awareness of their rights <Alignment alignment="2123" annotation_id="8966">
+          <DiscourseConnective annotation_id="8966" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> these are a key factor in providing them with greater protection.</en>
+      <fr>J'attache énormément d'importance aux campagnes d'information destinées à sensibiliser les consommateurs <DiscourseConnective annotation_id="10578">à</DiscourseConnective> leurs droits, <Alignment alignment="8966" annotation_id="10594">
+          <DiscourseConnective annotation_id="10594" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> ces derniers constituent un paramètre essentiel synonyme de protection accrue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9040" docOffset="60">
+      <en>Only a well-informed consumer is able to detect misleading advertising and avoid the disappointment it may cause.</en>
+      <fr>Seul un consommateur bien informé est en mesure de détecter le caractère trompeur d'une publicité <DiscourseConnective annotation_id="10789">et</DiscourseConnective> d'éviter les déceptions auxquelles cette dernière l'expose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9154" docOffset="61">
+      <en>I believe that the 'blacklists' will enable us to uncover unfair commercial practices and completely prohibit misleading advertising.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="10861">que</DiscourseConnective> les "listes noires" devraient nous aider <DiscourseConnective annotation_id="10906">à</DiscourseConnective> faire la lumière sur les pratiques commerciales déloyales <DiscourseConnective annotation_id="10966">et</DiscourseConnective> à interdire toute publicité trompeuse.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

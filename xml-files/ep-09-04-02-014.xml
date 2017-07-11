@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Adjournment of the session</en>
+    <fr>Interruption de la session</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="355" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>Today, ladies and gentlemen, is a somewhat special day for me <Alignment alignment="725" annotation_id="89">
+          <DiscourseConnective annotation_id="89" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, after ten years of good and loyal service, this was my last session in the chair here in Brussels.</en>
+      <fr>Aujourd'hui, Mesdames <DiscourseConnective annotation_id="49">et</DiscourseConnective> Messieurs, c'est <DiscourseConnective annotation_id="69">un jour</DiscourseConnective> un petit peu spécial <DiscourseConnective annotation_id="98">pour</DiscourseConnective> moi <Alignment alignment="89" annotation_id="107">
+          <DiscourseConnective annotation_id="107" sense="Contingency.Cause.Reason">puisqu'</DiscourseConnective>
+        </Alignment>après dix ans de bons <DiscourseConnective annotation_id="136">et</DiscourseConnective> loyaux services, c'était ma dernière présidence de séance, ici, <DiscourseConnective annotation_id="203">à</DiscourseConnective> Bruxelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="197" docOffset="2">
+      <en>It is <Alignment alignment="222" annotation_id="203">
+          <DiscourseConnective annotation_id="203" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> with a twinge of sorrow that I declare the session of the European Parliament adjourned.</en>
+      <fr>C'est <Alignment alignment="203" annotation_id="222">
+          <DiscourseConnective annotation_id="222" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> avec un petit pincement au cœur <DiscourseConnective annotation_id="259">que</DiscourseConnective> je déclare interrompue la session du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="302" docOffset="3">
+      <en>(The sitting was closed at 1 p.m.)</en>
+      <fr>(La séance est levée <DiscourseConnective annotation_id="341">à</DiscourseConnective> 13 heures)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

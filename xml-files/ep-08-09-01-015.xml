@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Order of business</en>
+    <fr>Ordre des travaux</fr>
+  </ParallelChunk>
+<Speaker annotation_id="18" id="021" name="President">
+    <ParallelChunk annotation_id="18" docOffset="1">
+      <en>The final version of the draft agenda <DiscourseConnective annotation_id="56" sense="Temporal.Synchrony">as</DiscourseConnective> drawn up by the Conference of Presidents at its meeting of Thursday, 28 August 2008 pursuant to Rules 130 and 131 of the Rules of Procedure has been distributed.</en>
+      <fr>(DE) La version finale du projet d'ordre du jour telle qu'établie par la Conférence des présidents lors de sa réunion du jeudi 28 août 2008 conformément aux articles 130 <DiscourseConnective annotation_id="188">et</DiscourseConnective> 131 du règlement a été distribuée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="221" docOffset="2">
+      <en>No amendments have been proposed, <DiscourseConnective annotation_id="255" sense="Contingency.Cause.Result">so</DiscourseConnective> the agenda is adopted.</en>
+      <fr>Aucune modification n'ayant été proposée, l'ordre du jour est adopté.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="281" id="022" name="Hannes Swoboda">
+    <ParallelChunk annotation_id="281" docOffset="3">
+      <en>(DE) Mr President, looking at the agenda and assuming that the debate on Georgia takes place today, we do not have any specific requests.</en>
+      <fr>(DE) M. le Président, en considérant l'ordre du jour <DiscourseConnective annotation_id="349">et</DiscourseConnective> <DiscourseConnective annotation_id="352">en supposant que</DiscourseConnective> le débat <DiscourseConnective annotation_id="378">à propos</DiscourseConnective> de la Géorgie ait lieu aujourd'hui, nous n'avons pas de demandes spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="419" docOffset="4">
+      <en>
+        <Alignment alignment="468" annotation_id="419">
+          <DiscourseConnective annotation_id="419" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="428" sense="Contingency.Condition">if</DiscourseConnective> there are delays and the sitting overruns, with the result that the debate on Georgia cannot take place until tomorrow, then we would move that the debate on the social package be postponed until the September II part-session for, in my view, it will be impossible for us to debate the social package and Georgia in a single morning.</en>
+      <fr>Si <Alignment alignment="419" annotation_id="468">
+          <DiscourseConnective annotation_id="468" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> il devait y avoir des retards <DiscourseConnective annotation_id="508">et</DiscourseConnective> une prolongation de la séance, avec pour <DiscourseConnective annotation_id="552">résultat</DiscourseConnective> <DiscourseConnective annotation_id="561">que</DiscourseConnective> le débat sur la Géorgie ne puisse avoir lieu <DiscourseConnective annotation_id="610">avant</DiscourseConnective> demain, nous préférerions <DiscourseConnective annotation_id="642">alors que</DiscourseConnective> le débat sur le paquet social <DiscourseConnective annotation_id="682">soit</DiscourseConnective> reporté à la période de session de septembre II <DiscourseConnective annotation_id="735">car</DiscourseConnective>, selon moi, il nous sera impossible de débattre du paquet social <DiscourseConnective annotation_id="804">et</DiscourseConnective> de la Géorgie <DiscourseConnective annotation_id="821">en</DiscourseConnective> une seule matinée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="765" docOffset="5">
+      <en>I just wanted to give the House advance notice, <DiscourseConnective annotation_id="813" sense="Temporal.Synchrony">as</DiscourseConnective> it were.</en>
+      <fr>Je tenais juste, disons, à prévenir l'Assemblée à l'avance.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="825" id="023" name="President">
+    <ParallelChunk annotation_id="825" docOffset="6">
+      <en>Thank you, Mr Swoboda.</en>
+      <fr>(DE) Je vous remercie, Monsieur Swoboda.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="848" docOffset="7">
+      <en>There was no interpretation, I believe, particularly into English, <Alignment alignment="1015" annotation_id="915">
+          <DiscourseConnective annotation_id="915" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> I have identified the colleagues concerned correctly.</en>
+      <fr>Il n'y a pas eu d'interprétation, je crois, <DiscourseConnective annotation_id="988">en particulier</DiscourseConnective> <DiscourseConnective annotation_id="1003">en</DiscourseConnective> anglais, <Alignment alignment="915" annotation_id="1015">
+          <DiscourseConnective annotation_id="1015" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> j'ai correctement identifié les collègues concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="972" docOffset="8">
+      <en>Let me repeat what Mr Swoboda has just said.</en>
+      <fr>Je vais donc répéter ce que M. Swoboda vient juste de dire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1017" docOffset="9">
+      <en>Mr Swoboda said that, <Alignment alignment="1148" annotation_id="1039">
+          <DiscourseConnective annotation_id="1039" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the debate on today's Summit does not take place today but happens tomorrow, the debate on the social package should <Alignment alignment="1279" annotation_id="1159">
+          <DiscourseConnective annotation_id="1159" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> be postponed until the September II part-session, <Alignment alignment="1344" annotation_id="1214">
+          <DiscourseConnective annotation_id="1214" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the time allocated for this debate will <DiscourseConnective annotation_id="1257" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> be taken up talking about today's Summit.</en>
+      <fr>M. Swoboda a dit <Alignment alignment="1039" annotation_id="1148">
+          <DiscourseConnective annotation_id="1148" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> le débat sur le sommet d'aujourd'hui n'a pas lieu aujourd'hui <DiscourseConnective annotation_id="1217">mais</DiscourseConnective> se déroule demain, le débat sur le paquet social devrait <Alignment alignment="1159" annotation_id="1279">
+          <DiscourseConnective annotation_id="1279" sense="Temporal.Asynchronous.Precedence">dans ce cas</DiscourseConnective>
+        </Alignment> être reporté à la période de session de septembre II <Alignment alignment="1214" annotation_id="1344">
+          <DiscourseConnective annotation_id="1344" sense="Temporal.Synchrony">vu que</DiscourseConnective>
+        </Alignment> le temps alloué <DiscourseConnective annotation_id="1367">pour</DiscourseConnective> ce débat sera pris pour parler du sommet d'aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1304" docOffset="10">
+      <en>That is <Alignment alignment="1437" annotation_id="1312">
+          <DiscourseConnective annotation_id="1312" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I understand it.</en>
+      <fr>C'est ce <Alignment alignment="281" annotation_id="1437">
+          <DiscourseConnective annotation_id="1437" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> j'en comprends.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1332" docOffset="11">
+      <en>Do we agree on that?</en>
+      <fr>Sommes-nous d'accord avec ceci?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1353" docOffset="12">
+      <en>It seems we do.</en>
+      <fr>Il semble que oui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1369" docOffset="13">
+      <en>That brings us to the one-minute speeches on important political issues under Rule 144 of the Rules of Procedure.</en>
+      <fr>Cela nous amène donc aux interventions d'une minute sur des questions politiques importantes conformément à l'article 144 du règlement.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

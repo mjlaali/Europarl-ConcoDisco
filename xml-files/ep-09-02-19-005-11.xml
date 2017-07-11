@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>11.</en>
+    <fr>11.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>European professional card for service providers (</en>
+    <fr>Carte professionnelle européenne <DiscourseConnective annotation_id="37">pour</DiscourseConnective> les prestataire de services (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="55" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="74">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="74" id="070" name="Charlotte Cederschiöld">
+    <ParallelChunk annotation_id="74" docOffset="3">
+      <en>rapporteur. - (SV) I have been here long enough to know how pleased the Members of this House will be <Alignment alignment="210" annotation_id="176">
+          <DiscourseConnective annotation_id="176" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> I give a two-minute speech.</en>
+      <fr>rapporteure. - (SV) Je suis ici depuis assez longtemps <DiscourseConnective annotation_id="144">pour</DiscourseConnective> savoir à quel point les membres de ce Parlement seront ravis <Alignment alignment="176" annotation_id="210">
+          <DiscourseConnective annotation_id="210" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> je prononce un discours de deux minutes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="207" docOffset="4">
+      <en>I do not, <Alignment alignment="254" annotation_id="217">
+          <DiscourseConnective annotation_id="217" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, intend to do this and will <Alignment alignment="325" annotation_id="255">
+          <DiscourseConnective annotation_id="255" sense="Expansion.Alternative.Chosen alternative">instead</DiscourseConnective>
+        </Alignment> merely say that this is an example of how, once again, we are trying to make it easier for citizens to work and establish themselves across borders.</en>
+      <fr>
+        <Alignment alignment="0" annotation_id="254">
+          <DiscourseConnective annotation_id="254" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> je n'ai pas l'intention de le faire <DiscourseConnective annotation_id="305">et</DiscourseConnective> dirai <DiscourseConnective annotation_id="314">simplement</DiscourseConnective> <Alignment alignment="627" annotation_id="325">
+          <DiscourseConnective annotation_id="325" sense="Expansion.Alternative.Chosen alternative">à la place</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="336">que</DiscourseConnective> cet exemple illustre la façon dont, à nouveau, nous tentons de simplifier la vie des citoyens qui souhaitent travailler <DiscourseConnective annotation_id="460">et</DiscourseConnective> s'établir <DiscourseConnective annotation_id="473">en</DiscourseConnective> dehors des frontières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="412" docOffset="5">
+      <en>This can form a nice little example to use in the election campaigns <Alignment alignment="568" annotation_id="481">
+          <DiscourseConnective annotation_id="481" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am therefore pleased.</en>
+      <fr>Ce bel exemple pourrait être exploité dans les campagnes électorales <Alignment alignment="295" annotation_id="568">
+          <DiscourseConnective annotation_id="568" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'en suis <DiscourseConnective annotation_id="581">donc</DiscourseConnective> ravie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="509" docOffset="6">
+      <en>The committee was unanimous on this issue <Alignment alignment="193667" annotation_id="551">
+          <DiscourseConnective annotation_id="551" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="555" sense="Contingency.Cause.Result">so that</DiscourseConnective> is all I have to say.</en>
+      <fr>La commission était unanime sur cette matière <Alignment alignment="551" annotation_id="639">
+          <DiscourseConnective annotation_id="639" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est tout ce que j'ai <DiscourseConnective annotation_id="665">à</DiscourseConnective> dire.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

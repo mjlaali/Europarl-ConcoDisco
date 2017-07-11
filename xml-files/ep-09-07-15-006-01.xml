@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Election of Quaestors of Parliament (first, second and third ballots)</en>
+    <fr>Élection des questeurs du Parlement européen (premier, deuxième <DiscourseConnective annotation_id="67">et</DiscourseConnective> troisième tours de scrutin)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="73" docOffset="2">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="100">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="91" id="112" name="Martin Schulz">
+    <ParallelChunk annotation_id="91" docOffset="3">
+      <en>(DE) Mr President, I think you need to explain something.</en>
+      <fr>(DE) Monsieur le Président, je pense que vous devez expliquer quelque chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="149" docOffset="4">
+      <en>We are at present conducting a test.</en>
+      <fr>Nous menons actuellement un test.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="186" docOffset="5">
+      <en>In this test we can only vote for two people - <Alignment alignment="287" annotation_id="233">
+          <DiscourseConnective annotation_id="233" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> Pavarotti and Montserrat Caballé.</en>
+      <fr>Dans ce test, nous ne pouvons voter que <DiscourseConnective annotation_id="265">pour</DiscourseConnective> deux personnes - <Alignment alignment="551" annotation_id="287">
+          <DiscourseConnective annotation_id="287" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> Pavarotti <DiscourseConnective annotation_id="309">et</DiscourseConnective> Montserrat Caballé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="279" docOffset="6">
+      <en>Later, <Alignment alignment="2276" annotation_id="286">
+          <DiscourseConnective annotation_id="286" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, in the vote for the quaestors we will be able to vote for five people.</en>
+      <fr>
+        <DiscourseConnective annotation_id="332">Plus tard</DiscourseConnective>, <Alignment alignment="559" annotation_id="343">
+          <DiscourseConnective annotation_id="343" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment>, lors du vote <DiscourseConnective annotation_id="367">pour</DiscourseConnective> les questeurs, nous pourrons voter <DiscourseConnective annotation_id="407">pour</DiscourseConnective> cinq personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="366" docOffset="7">
+      <en>I just wanted to reiterate this <Alignment alignment="1570" annotation_id="398">
+          <DiscourseConnective annotation_id="398" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it has confused many Members.</en>
+      <fr>Je voulais juste rappeler ce point, <Alignment alignment="623" annotation_id="464">
+          <DiscourseConnective annotation_id="464" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> cela a embrouillé beaucoup de députés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="431" docOffset="8">
+      <en>It is only in this test that we can vote for two people, <Alignment alignment="577" annotation_id="488">
+          <DiscourseConnective annotation_id="488" sense="Temporal.Asynchronous.Precedence">afterwards</DiscourseConnective>
+        </Alignment> in the real vote it will be five.</en>
+      <fr>Ce n'est <DiscourseConnective annotation_id="516">que</DiscourseConnective> dans ce test <DiscourseConnective annotation_id="533">que</DiscourseConnective> nous pouvons voter <DiscourseConnective annotation_id="556">pour</DiscourseConnective> deux personnes, <Alignment alignment="477" annotation_id="577">
+          <DiscourseConnective annotation_id="577" sense="Temporal.Asynchronous.Precedence">plus tard</DiscourseConnective>
+        </Alignment> dans le vote réel, nous pourrons voter pour cinq personnes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="533" id="113" name="Sergio Paolo Francesco Silvestris">
+    <ParallelChunk annotation_id="533" docOffset="9">
+      <en>(IT) Mr President, ladies and gentlemen, apart from expressing my thanks for putting Pavarotti first, I should like to say something.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="684">et</DiscourseConnective> Messieurs, à part vous remercier d'avoir mis Pavarotti en premier, je voudrais dire quelque chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="667" docOffset="10">
+      <en>
+        <Alignment alignment="786" annotation_id="667">
+          <DiscourseConnective annotation_id="667" sense="Temporal.Asynchronous.Succession">After</DiscourseConnective>
+        </Alignment> we have marked with crosses the two to be voted for, do we have to confirm our vote or leave it <DiscourseConnective annotation_id="769" sense="Temporal.Synchrony">as</DiscourseConnective> it is?</en>
+      <fr>
+        <Alignment alignment="667" annotation_id="786">
+          <DiscourseConnective annotation_id="786" sense="Temporal.Asynchronous.Succession">Après</DiscourseConnective>
+        </Alignment> avoir coché les deux personnes <DiscourseConnective annotation_id="823">pour</DiscourseConnective> lesquelles il faut voter, devons-nous confirmer notre vote <DiscourseConnective annotation_id="887">ou</DiscourseConnective> le laisser tel quel?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="779" id="114" name="Carlo Casini">
+    <ParallelChunk annotation_id="779" docOffset="11">
+      <en>(IT) Mr President, ladies and gentlemen, since not everyone has fully understood the oral explanation before the vote, it would be a good idea to explain again clearly how we vote.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="948">et</DiscourseConnective> Messieurs, <DiscourseConnective annotation_id="962">vu que</DiscourseConnective> tout le monde n'a pas tout à fait compris les explications orales <DiscourseConnective annotation_id="1035">avant</DiscourseConnective> le vote, ce serait une bonne idée d'expliquer à nouveau clairement la manière de voter.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="960" id="115" name="President">
+    <ParallelChunk annotation_id="960" docOffset="12">
+      <en>I believe that the outcome of the vote shows how quickly the procedure has been learnt.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="1138">que</DiscourseConnective> le <DiscourseConnective annotation_id="1145">résultat</DiscourseConnective> du vote montre à quelle vitesse la procédure a été apprise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1048" docOffset="13">
+      <en>After the vote</en>
+      <fr>
+        <DiscourseConnective annotation_id="1214">Après</DiscourseConnective> le vote</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1063" docOffset="14">
+      <en>In accordance with Rule 16 and Rule 15(2) of the Rules of Procedure, the order of precedence of the Quaestors shall be determined by the order in which they were elected.</en>
+      <fr>Conformément aux articles 16 <DiscourseConnective annotation_id="1257">et</DiscourseConnective> 15, paragraphe 2, du règlement, l'ordre de préséance des questeurs sera déterminé par l'ordre suivant lequel ils ont été élus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1234" docOffset="15">
+      <en>The composition of the new Bureau shall be notified to the Presidents of the Institutions of the European Communities.</en>
+      <fr>La composition du nouveau Bureau sera notifiée aux présidents des institutions des Communautés européennes.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

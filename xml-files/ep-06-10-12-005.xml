@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Announcement by the President</en>
+    <fr>Communication de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="30" id="047" name="President">
+    <ParallelChunk annotation_id="30" docOffset="1">
+      <en>
+        <Alignment alignment="31" annotation_id="30">
+          <DiscourseConnective annotation_id="30" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you know, on 15 June the European Parliament pronounced that it was in favour of the adoption of the euro by Slovenia from 1 January 2007.</en>
+      <fr>
+        <Alignment alignment="30" annotation_id="31">
+          <DiscourseConnective annotation_id="31" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, le Parlement européen s'est, le 15 juin, prononcé <DiscourseConnective annotation_id="102">en</DiscourseConnective> faveur de l'adoption de l'euro par la Slovénie à dater du 1er janvier 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="172" docOffset="2">
+      <en>Certain technical adaptations are therefore necessary.</en>
+      <fr>Certaines adaptations techniques s'avèrent <DiscourseConnective annotation_id="224">par conséquent</DiscourseConnective> nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="227" docOffset="3">
+      <en>Despite the fact that the Treaty does not require it, the Council has chosen to ask for an opinion.</en>
+      <fr>Le Conseil a choisi de solliciter un avis, <DiscourseConnective annotation_id="295">bien que</DiscourseConnective> le Traité ne l'y contraigne pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="327" docOffset="4">
+      <en>The Committee on Economic and Monetary Affairs took the view that a resolution by Parliament was not necessary for that opinion, <Alignment alignment="464" annotation_id="456">
+          <DiscourseConnective annotation_id="456" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> Mrs Berès, chairman of that committee, has sent a letter to the President of Ecofin expressing the Committee on Economic and Monetary Affairs' positive opinion of the technical adaptations to be carried out.</en>
+      <fr>La commission des affaires économiques <DiscourseConnective annotation_id="376">et</DiscourseConnective> monétaires a estimé <DiscourseConnective annotation_id="399">qu'</DiscourseConnective>une résolution du Parlement n'était pas nécessaire <DiscourseConnective annotation_id="453">à</DiscourseConnective> cet avis <Alignment alignment="456" annotation_id="464">
+          <DiscourseConnective annotation_id="464" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> Mme Berès, sa présidente, a envoyé au président d'Écofin une lettre exprimant l'avis positif de la commission concernée quant aux adaptations techniques <DiscourseConnective annotation_id="620">à</DiscourseConnective> apporter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="668" docOffset="5">
+      <en>We <Alignment alignment="632" annotation_id="671">
+          <DiscourseConnective annotation_id="671" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> wish our fellow European citizens in Slovenia the best of luck with their new currency.</en>
+      <fr>
+        <Alignment alignment="671" annotation_id="632">
+          <DiscourseConnective annotation_id="632" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, nous souhaitons bonne chance <DiscourseConnective annotation_id="677">à</DiscourseConnective> nos concitoyens européens de Slovénie avec leur nouvelle devise.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

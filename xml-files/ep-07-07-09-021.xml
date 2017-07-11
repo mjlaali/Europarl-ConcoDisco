@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>European Critical Infrastructure (debate)</en>
+    <fr>Recensement, classement et protection des infrastructures critiques européennes (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="42" id="194" name="President">
+    <ParallelChunk annotation_id="42" docOffset="1">
+      <en>The next item is the report by Mrs Hennis-Plasschaert, on behalf of the Committee on Civil Liberties, Justice and Home Affairs, on the proposal for a Council directive on the identification and designation of European Critical Infrastructure and the assessment of the need to improve their protection - C6-0053/2007 -</en>
+      <fr>L'ordre du jour appelle le rapport de Jeannine Hennis-Plasschaert, au nom de la commission des libertés civiles, de la justice <DiscourseConnective annotation_id="215">et</DiscourseConnective> des affaires intérieures, sur la proposition de directive du Conseil concernant le recensement <DiscourseConnective annotation_id="313">et</DiscourseConnective> le classement des infrastructures critiques européennes <DiscourseConnective annotation_id="372">ainsi</DiscourseConnective> que l'évaluation de la nécessité d'améliorer leur protection - C6-0053/2007 -</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="360" id="195" name="Franco Frattini">
+    <ParallelChunk annotation_id="360" docOffset="2">
+      <en>Vice-President of the Commission. - (IT) Mr President, ladies and gentlemen, I should like to thank the rapporteur for this important report, which follows the presentation of an initiative by the Commission.</en>
+      <fr>Monsieur le Président, Mesdames <DiscourseConnective annotation_id="488">et</DiscourseConnective> Messieurs, je voudrais remercier le rapporteur <DiscourseConnective annotation_id="538">pour</DiscourseConnective> cet important rapport, qui fait suite à la présentation d'une initiative par la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="569" docOffset="3">
+      <en>The protection of critical infrastructure is, of course, a priority for the European Commission as well as for the Member States, not least <Alignment alignment="785" annotation_id="709">
+          <DiscourseConnective annotation_id="709" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the need to protect critical infrastructure from the eventuality of a terrorist attack, <Alignment alignment="893" annotation_id="805">
+          <DiscourseConnective annotation_id="805" sense="Expansion.Instantiation">for instance</DiscourseConnective>
+        </Alignment>, derives from the very nature of such infrastructures and the interconnection and interdependence between them.</en>
+      <fr>Il est évident que la protection des infrastructures critiques est une priorité <DiscourseConnective annotation_id="715">pour</DiscourseConnective> la Commission européenne <DiscourseConnective annotation_id="745">comme pour</DiscourseConnective> les États membres, <DiscourseConnective annotation_id="775">notamment</DiscourseConnective> <Alignment alignment="8882" annotation_id="785">
+          <DiscourseConnective annotation_id="785" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> la nécessité de protéger les infrastructures critiques de l'éventualité d'une attaque terroriste, <Alignment alignment="805" annotation_id="893">
+          <DiscourseConnective annotation_id="893" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, découle de la nature même de ces infrastructures <DiscourseConnective annotation_id="955">et</DiscourseConnective> de leur interconnexion <DiscourseConnective annotation_id="981">et</DiscourseConnective> interdépendance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="930" docOffset="4">
+      <en>
+        <Alignment alignment="54400" annotation_id="930">
+          <DiscourseConnective annotation_id="930" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1011" annotation_id="938">
+          <DiscourseConnective annotation_id="938" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> a physical or technological infrastructure is attacked in one Member State, the effect will inevitably be felt in other Member States.</en>
+      <fr>
+        <Alignment alignment="2688" annotation_id="1001">
+          <DiscourseConnective annotation_id="1001" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, <Alignment alignment="3445" annotation_id="1011">
+          <DiscourseConnective annotation_id="1011" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> une infrastructure technologique <DiscourseConnective annotation_id="1047">ou</DiscourseConnective> physique est attaquée dans un État membre, les effets seront inévitablement ressentis dans d'autres États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1076" docOffset="5">
+      <en>That is why we need a common European prevention and protection framework.</en>
+      <fr>C'est la raison pour laquelle nous avons besoin d'un cadre européen commun de prévention <DiscourseConnective annotation_id="1254">et</DiscourseConnective> de protection.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1151" docOffset="6">
+      <en>Our view was that the best way forward was to involve the private sector first of all, which means drawing on currently available technologies and stimulating more technological research.</en>
+      <fr>Nous avons pensé <DiscourseConnective annotation_id="1289">que</DiscourseConnective> la meilleure façon de faire était d'impliquer dès le début le secteur privé, ce qui signifie utiliser les technologies disponibles actuellement <DiscourseConnective annotation_id="1437">et</DiscourseConnective> stimuler la recherche technologique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1339" docOffset="7">
+      <en>We would <Alignment alignment="1495" annotation_id="1348">
+          <DiscourseConnective annotation_id="1348" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> call on companies and research laboratories to collaborate by placing the outcome of such research at the disposal of the common European framework.</en>
+      <fr>Nous demanderions <Alignment alignment="1348" annotation_id="1495">
+          <DiscourseConnective annotation_id="1495" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> aux entreprises <DiscourseConnective annotation_id="1519">et</DiscourseConnective> aux laboratoires de recherche de collaborer <DiscourseConnective annotation_id="1566">en</DiscourseConnective> mettant les résultats de ces recherches <DiscourseConnective annotation_id="1609">à</DiscourseConnective> la disposition du cadre européen commun.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1502" docOffset="8">
+      <en>The idea is to have proper security schemes devoted to the various infrastructure sectors and a real network of liaison officers to ensure that this common European framework functions.</en>
+      <fr>L'idée est d'avoir de véritables programmes de sécurité consacrés aux différents secteurs d'infrastructures <DiscourseConnective annotation_id="1760">et</DiscourseConnective> de vrais officiers de liaison <DiscourseConnective annotation_id="1793">pour</DiscourseConnective> garantir <DiscourseConnective annotation_id="1807">que</DiscourseConnective> ce cadre européen commun fonctionne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1688" docOffset="9">
+      <en>Our idea is to take into consideration only those infrastructures that are truly cross-border in nature and not of course those confined to the territory of just one Member State, <Alignment alignment="2042" annotation_id="1868">
+          <DiscourseConnective annotation_id="1868" sense="Expansion.Alternative">unless</DiscourseConnective>
+        </Alignment> that particular critical infrastructure has an influence that goes beyond the borders of that Member State.</en>
+      <fr>Notre idée est de ne prendre en considération <DiscourseConnective annotation_id="1894">que</DiscourseConnective> les infrastructures qui ont vraiment un caractère transfrontalier <DiscourseConnective annotation_id="1964">et</DiscourseConnective> évidemment pas celles qui se limitent au territoire d'un seul État membre, <Alignment alignment="1868" annotation_id="2042">
+          <DiscourseConnective annotation_id="2042" sense="Expansion.Alternative">à moins qu'</DiscourseConnective>
+        </Alignment>une infrastructure critique <DiscourseConnective annotation_id="2081">en particulier</DiscourseConnective> n'ait une influence qui va au-delà des frontières d'un État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1983" docOffset="10">
+      <en>
+        <Alignment alignment="2164" annotation_id="1983">
+          <DiscourseConnective annotation_id="1983" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you know, we adopted a communication last December to set up a European programme for critical infrastructure protection, together with a proposal for a directive to identify which infrastructure needs protecting.</en>
+      <fr>
+        <Alignment alignment="1983" annotation_id="2164">
+          <DiscourseConnective annotation_id="2164" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, nous avons adopté une communication en décembre dernier <DiscourseConnective annotation_id="2241">pour</DiscourseConnective> mettre en place un programme européen <DiscourseConnective annotation_id="2284">pour</DiscourseConnective> la protection des infrastructures critiques, <DiscourseConnective annotation_id="2334">ainsi</DiscourseConnective> qu'une proposition de directive <DiscourseConnective annotation_id="2372">pour</DiscourseConnective> recenser les infrastructures qui ont besoin d'être protégées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2200" docOffset="11">
+      <en>I am therefore grateful to Parliament for having examined all the proposals on such an important subject.</en>
+      <fr>Je suis <DiscourseConnective annotation_id="2447">donc</DiscourseConnective> reconnaissant au Parlement d'avoir examiné toutes les propositions relatives à un sujet <DiscourseConnective annotation_id="2540">si</DiscourseConnective> important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2306" docOffset="12">
+      <en>The communication, of course, identifies principles and processes to be carried out as well as the instruments for carrying out the processes, <Alignment alignment="36473" annotation_id="2449">
+          <DiscourseConnective annotation_id="2449" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> the directive lays down rules for identifying those infrastructures which, according to a common European approach, require protection.</en>
+      <fr>La communication identifie bien sûr les principes <DiscourseConnective annotation_id="2604">et</DiscourseConnective> les procédés <DiscourseConnective annotation_id="2620">à</DiscourseConnective> mettre en place <DiscourseConnective annotation_id="2638">ainsi</DiscourseConnective> que les outils permettant de réaliser ces procédés, <Alignment alignment="30202" annotation_id="2696">
+          <DiscourseConnective annotation_id="2696" sense="Comparison.Contrast">tandis que</DiscourseConnective>
+        </Alignment> la directive établit les règles de recensement des infrastructures qui, selon une approche européenne commune, doivent être protégées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2591" docOffset="13">
+      <en>It is our intention to develop this action plan through a broad web of public-private collaboration.</en>
+      <fr>Nous avons l'intention de développer ce plan d'action au moyen d'un large réseau de collaboration public-privé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2692" docOffset="14">
+      <en>We think that the Member States should be assisted in developing the various initiatives included in the action plan; we are <Alignment alignment="3108" annotation_id="2817">
+          <DiscourseConnective annotation_id="2817" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> convinced that the international dimension must be taken into account <Alignment alignment="3194" annotation_id="2892">
+          <DiscourseConnective annotation_id="2892" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that financial measures must be put in place.</en>
+      <fr>Nous pensons <DiscourseConnective annotation_id="2967">que</DiscourseConnective> les États membres devraient être assistés dans le développement des différentes initiatives comprises dans le plan d'action. Nous sommes <Alignment alignment="2817" annotation_id="3108">
+          <DiscourseConnective annotation_id="3108" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> convaincus <DiscourseConnective annotation_id="3129">que</DiscourseConnective> la dimension internationale doit être prise en considération <Alignment alignment="2892" annotation_id="3194">
+          <DiscourseConnective annotation_id="3194" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3197">que</DiscourseConnective> des mesures financières doivent être mises <DiscourseConnective annotation_id="3244">en</DiscourseConnective> place.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2942" docOffset="15">
+      <en>Of course, we already have a financial programme for the prevention, preparation and management of the consequences of the terrorist threat, which may be able to provide appropriate funds for critical infrastructure protection measures.</en>
+      <fr>Nous avons bien sûr <DiscourseConnective annotation_id="3274">déjà</DiscourseConnective> un programme financier <DiscourseConnective annotation_id="3302">pour</DiscourseConnective> la prévention, la préparation <DiscourseConnective annotation_id="3337">et</DiscourseConnective> la gestion des conséquences de la menace terroriste, programme qui pourrait fournir le financement nécessaire <DiscourseConnective annotation_id="3450">pour</DiscourseConnective> des mesures de protection des infrastructures critiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3179" docOffset="16">
+      <en>I can say straight away that I can accept certain important amendments that Parliament is preparing to examine.</en>
+      <fr>Je peux dire tout de suite <DiscourseConnective annotation_id="3539">que</DiscourseConnective> je peux accepter certains amendements importants <DiscourseConnective annotation_id="3592">que</DiscourseConnective> le Parlement se prépare <DiscourseConnective annotation_id="3620">à</DiscourseConnective> examiner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3291" docOffset="17">
+      <en>The first concerns the need to emphasise in the text of the directive that it is the responsibility of each Member State to identify the most appropriate forms and methods of implementing it: <Alignment alignment="3857" annotation_id="3483">
+          <Alignment alignment="3857" annotation_id="3483">
+            <Alignment alignment="3857" annotation_id="3483">
+              <DiscourseConnective annotation_id="3483" sense="Expansion.Restatement">in other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, we must stress the principle of flexibility in the implementation of the directive, on the basis of which the measures, whether mandatory or not, should be put into practice without an excessively rigid approach.</en>
+      <fr>Le premier concerne la nécessité d'insister dans le texte de la directive sur le fait <DiscourseConnective annotation_id="3718">qu'</DiscourseConnective>il est de la responsabilité de chaque État membre d'identifier les formes <DiscourseConnective annotation_id="3795">et</DiscourseConnective> les méthodes les plus appropriées <DiscourseConnective annotation_id="3832">pour</DiscourseConnective> la mettre en œuvre: <Alignment alignment="3483" annotation_id="3857">
+          <Alignment alignment="14227" annotation_id="3857">
+            <Alignment alignment="11322" annotation_id="3857">
+              <DiscourseConnective annotation_id="3857" sense="Expansion.Restatement">en d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, nous devons insister sur le principe de flexibilité dans la mise en œuvre de la directive, sur base duquel, les mesures, qu'elles soient obligatoires <DiscourseConnective annotation_id="4027">ou</DiscourseConnective> non, devraient être mises <DiscourseConnective annotation_id="4056">en</DiscourseConnective> pratique <DiscourseConnective annotation_id="4068">sans</DiscourseConnective> adopter une approche trop rigide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3712" docOffset="18">
+      <en>The second point that I think is acceptable concerns the need to clarify the procedures for exempting certain sectors from some of the obligations laid down in the directive.</en>
+      <fr>Le deuxième point qui, selon moi, est acceptable concerne la nécessité de clarifier les procédures d'exemption de certains secteurs de certaines obligations prévues dans la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3887" docOffset="19">
+      <en>The Commission has foreseen the possibility of exempting certain sectors, <Alignment alignment="4358" annotation_id="3961">
+          <DiscourseConnective annotation_id="3961" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> Parliament's draft amendments substantially seek to specify more clearly <Alignment alignment="43716" annotation_id="4038">
+          <DiscourseConnective annotation_id="4038" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> a particular exemption applies to a given sector.</en>
+      <fr>La Commission a prévu la possibilité d'exempter certains secteurs, <Alignment alignment="3961" annotation_id="4358">
+          <DiscourseConnective annotation_id="4358" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les projets d'amendements du Parlement cherchent en substance <DiscourseConnective annotation_id="4423">à</DiscourseConnective> spécifier plus clairement <Alignment alignment="4038" annotation_id="4451">
+          <DiscourseConnective annotation_id="4451" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> une exemption particulière s'applique <DiscourseConnective annotation_id="4495">à</DiscourseConnective> un secteur donné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4093" docOffset="20">
+      <en>I believe I can agree on the need to introduce some specification, <Alignment alignment="2712" annotation_id="4160">
+          <DiscourseConnective annotation_id="4160" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> making things clearer.</en>
+      <fr>Je pense que je peux être d'accord sur la nécessité d'apporter des spécifications <Alignment alignment="4160" annotation_id="4597">
+          <DiscourseConnective annotation_id="4597" sense="Contingency.Cause.Result">pour</DiscourseConnective>
+        </Alignment> rendre les choses plus claires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4188" docOffset="21">
+      <en>I <Alignment alignment="4642" annotation_id="4190">
+          <DiscourseConnective annotation_id="4190" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> agree with the proposal to amend the list of critical infrastructure protection sectors given in Annex I to the proposal for a directive.</en>
+      <fr>Je suis <Alignment alignment="4190" annotation_id="4642">
+          <DiscourseConnective annotation_id="4642" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> d'accord avec la proposition de modifier la liste des secteurs de protection des infrastructures critiques donnée <DiscourseConnective annotation_id="4766">en</DiscourseConnective> Annexe I de la proposition de directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4333" docOffset="22">
+      <en>I think Parliament's proposal to amend that annex is acceptable, <Alignment alignment="4892" annotation_id="4398">
+          <DiscourseConnective annotation_id="4398" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> is the introduction of certain changes to the sectors where resorting to the comitology procedure is envisaged.</en>
+      <fr>Je pense que la proposition du Parlement de modifier cette annexe est acceptable, <Alignment alignment="4398" annotation_id="4892">
+          <DiscourseConnective annotation_id="4892" sense="Temporal.Synchrony">tout comme</DiscourseConnective>
+        </Alignment> l'introduction de certains changements aux secteurs dans lesquels le recours <DiscourseConnective annotation_id="4980">à</DiscourseConnective> la procédure de comitologie est prévu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4513" docOffset="23">
+      <en>There is a specific proposal on that, <Alignment alignment="5069" annotation_id="4551">
+          <DiscourseConnective annotation_id="4551" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> we should be aware that by limiting the use of comitology we would be increasing the time it would take to implement the directive.</en>
+      <fr>Il y a une proposition spécifique sur ce point, <Alignment alignment="16871" annotation_id="5069">
+          <DiscourseConnective annotation_id="5069" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons être conscients <DiscourseConnective annotation_id="5102">qu'en</DiscourseConnective> limitant l'usage de la comitologie, nous allongeons le temps nécessaire <DiscourseConnective annotation_id="5180">pour</DiscourseConnective> la mise en œuvre de la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4692" docOffset="24">
+      <en>Basically, comitology is perhaps a rather complicated instrument, <Alignment alignment="5288" annotation_id="4758">
+          <DiscourseConnective annotation_id="4758" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it does save time in implementation, <DiscourseConnective annotation_id="4799" sense="Comparison.Contrast">However</DiscourseConnective>, I am not against accepting the idea behind those amendments.</en>
+      <fr>La comitologie est peut-être en fait un instrument un peu compliqué, <Alignment alignment="4758" annotation_id="5288">
+          <DiscourseConnective annotation_id="5288" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il fait gagner du temps dans la mise en œuvre, je ne suis cependant pas contre l'idée sous-tendant ces amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4869" docOffset="25">
+      <en>To conclude, Mr President, I can say that I am happy and pleased with the report before us, <Alignment alignment="5514" annotation_id="4961">
+          <DiscourseConnective annotation_id="4961" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope Parliament will adopt it by a large majority.</en>
+      <fr>En guise de conclusion, je dirais, Monsieur le Président, <DiscourseConnective annotation_id="5467">que</DiscourseConnective> je suis content <DiscourseConnective annotation_id="5487">et</DiscourseConnective> satisfait de ce rapport <Alignment alignment="3671" annotation_id="5514">
+          <DiscourseConnective annotation_id="5514" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère que le Parlement l'approuvera <DiscourseConnective annotation_id="5556">à</DiscourseConnective> une large majorité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5018" docOffset="26">
+      <en>We need to show that we are speaking with one voice on a strategic measure such as this European initiative to protect critical energy, transport and technological infrastructures, which require strong prevention and protection measures, <Alignment alignment="5855" annotation_id="5256">
+          <DiscourseConnective annotation_id="5256" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the terrorist threat is unfortunately directed first and foremost at critical infrastructures.</en>
+      <fr>Nous devons montrer <DiscourseConnective annotation_id="5598">que</DiscourseConnective> nous parlons d'une seule voix sur une mesure stratégique telle <DiscourseConnective annotation_id="5665">que</DiscourseConnective> cette initiative européenne de protection des infrastructures critiques, énergétiques, de transport <DiscourseConnective annotation_id="5769">et</DiscourseConnective> technologiques, qui nécessitent de solides mesures de prévention <DiscourseConnective annotation_id="5837">et</DiscourseConnective> de protection, <Alignment alignment="5256" annotation_id="5855">
+          <DiscourseConnective annotation_id="5855" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> la menace terroriste est <DiscourseConnective annotation_id="5890">malheureusement</DiscourseConnective> dirigée en premier lieu contre les infrastructures critiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5359" docOffset="27">
+      <en>I am therefore grateful to Parliament for the contribution that it has already made and is yet to make to this work of ours.</en>
+      <fr>Je remercie <DiscourseConnective annotation_id="5980">donc</DiscourseConnective> le Parlement <DiscourseConnective annotation_id="5998">pour</DiscourseConnective> la contribution <DiscourseConnective annotation_id="6019">qu'</DiscourseConnective>il a <DiscourseConnective annotation_id="6027">déjà</DiscourseConnective> apportée <DiscourseConnective annotation_id="6041">et</DiscourseConnective> celle qu'il va <DiscourseConnective annotation_id="6059">encore</DiscourseConnective> apporter <DiscourseConnective annotation_id="6075">à</DiscourseConnective> notre travail.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5484" id="196" name="Jeanine Hennis-Plasschaert ">
+    <ParallelChunk annotation_id="5484" docOffset="28">
+      <en>rapporteur. - (NL) Mr President, back in June 2004, the Council tabled a request in which the Commission was asked to prepare a general strategy to protect critical infrastructure.</en>
+      <fr>Monsieur le Président, <DiscourseConnective annotation_id="6115">en</DiscourseConnective> juin 2004, le Conseil a présenté une requête qui demandait à la Commission de préparer une stratégie générale <DiscourseConnective annotation_id="6228">pour</DiscourseConnective> protéger les infrastructures critiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5665" docOffset="29">
+      <en>In the past three years, the topic has not been off the Commission agenda, quite rightly so.</en>
+      <fr>Durant ces trois dernières années, le sujet n'a pas quitté l'ordre du jour de la Commission, et c'est très bien <DiscourseConnective annotation_id="6385">ainsi</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5758" docOffset="30">
+      <en>In line with the wishes of the Council and the European Parliament, the Commission finally moved a proposal for a European programme to protect critical infrastructure, which culminated in the Directive we are debating today.</en>
+      <fr>Conformément aux souhaits du Conseil <DiscourseConnective annotation_id="6429">et</DiscourseConnective> du Parlement européen, la Commission a <DiscourseConnective annotation_id="6471">finalement</DiscourseConnective> avancé une proposition de programme européen de protection des infrastructures critiques, qui a culminé avec la directive que nous débattons aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5984" docOffset="31">
+      <en>As rapporteur, I support the idea of a common framework in this matter.</en>
+      <fr>En <DiscourseConnective annotation_id="6639">tant que</DiscourseConnective> rapporteur, je soutiens l'idée d'un cadre commun <DiscourseConnective annotation_id="6697">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6056" docOffset="32">
+      <en>The effective protection of vulnerable critical infrastructures and services requires communication, coordination and cooperation in which all interested parties are involved, both at national and at European level.</en>
+      <fr>La protection efficace des infrastructures <DiscourseConnective annotation_id="6755">et</DiscourseConnective> des services critiques vulnérables requiert de la communication, de la coordination <DiscourseConnective annotation_id="6842">et</DiscourseConnective> de la coopération dans lesquelles toutes les parties prenantes sont impliquées, au niveau <DiscourseConnective annotation_id="6935">aussi</DiscourseConnective> bien national qu'européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6272" docOffset="33">
+      <en>The complex processes and interfaces of critical infrastructure with a transnational dimension are, <DiscourseConnective annotation_id="6372" sense="Temporal.Synchrony">as</DiscourseConnective> I see it, also legitimate areas for consideration.</en>
+      <fr>Les procédures <DiscourseConnective annotation_id="6983">et</DiscourseConnective> interfaces complexes des infrastructures critiques de dimension transnationale sont <DiscourseConnective annotation_id="7070">également</DiscourseConnective>, selon moi, des domaines légitimes <DiscourseConnective annotation_id="7115">à</DiscourseConnective> prendre en compte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6426" docOffset="34">
+      <en>
+        <Alignment alignment="7136" annotation_id="6426">
+          <DiscourseConnective annotation_id="6426" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> Commissioner Frattini has already explained on several occasions, damage to, or loss of, a certain infrastructural provision in a Member State can impact badly on various other Member States and even on the European economy as a whole.</en>
+      <fr>
+        <Alignment alignment="6426" annotation_id="7136">
+          <DiscourseConnective annotation_id="7136" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> l'a <DiscourseConnective annotation_id="7146">déjà</DiscourseConnective> expliqué plusieurs fois le commissaire Frattini, des dommages <DiscourseConnective annotation_id="7213">ou</DiscourseConnective> la perte de certaines infrastructures d'approvisionnement dans un État membre peut avoir un impact négatif sur plusieurs autres États membres, <DiscourseConnective annotation_id="7359">et même</DiscourseConnective> sur l'économie européenne dans son ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6665" docOffset="35">
+      <en>Thanks to new technologies, <Alignment alignment="7446" annotation_id="6693">
+          <DiscourseConnective annotation_id="6693" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> the Internet, as well as the far-reaching liberalisation of the market, <Alignment alignment="7516" annotation_id="6777">
+          <DiscourseConnective annotation_id="6777" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> where the supply of electricity and gas is concerned, many infrastructural provisions are already part of bigger networks.</en>
+      <fr>Grâce aux nouvelles technologies, <Alignment alignment="6693" annotation_id="7446">
+          <DiscourseConnective annotation_id="7446" sense="Expansion.Instantiation">comme</DiscourseConnective>
+        </Alignment> l'internet, <DiscourseConnective annotation_id="7464">ainsi</DiscourseConnective> qu'à la très grande libéralisation du marché, <Alignment alignment="6777" annotation_id="7516">
+          <DiscourseConnective annotation_id="7516" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> en ce qui concerne la fourniture d'électricité <DiscourseConnective annotation_id="7575">et</DiscourseConnective> de gaz, de nombreuses infrastructures d'approvisionnement font <DiscourseConnective annotation_id="7641">déjà</DiscourseConnective> partie de réseaux plus importants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6912" docOffset="36">
+      <en>
+        <Alignment alignment="40621" annotation_id="6912">
+          <DiscourseConnective annotation_id="6912" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, in these circumstances, the effectiveness of all these protective measures is determined by the weakest link.</en>
+      <fr>
+        <Alignment alignment="12369" annotation_id="7681">
+          <DiscourseConnective annotation_id="7681" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, dans ces circonstances, l'efficacité de toutes ces mesures de protection est déterminée par le maillon le plus faible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7030" docOffset="37">
+      <en>I do take the view, <Alignment alignment="7819" annotation_id="7050">
+          <DiscourseConnective annotation_id="7050" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment>, <Alignment alignment="5647" annotation_id="7058">
+          <DiscourseConnective annotation_id="7058" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr Frattini already observed, that the Commission has been slightly too proactive or overenthusiastic in some sections of the Directive.</en>
+      <fr>Je pense <Alignment alignment="17201" annotation_id="7819">
+          <DiscourseConnective annotation_id="7819" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment>, <Alignment alignment="7058" annotation_id="7830">
+          <DiscourseConnective annotation_id="7830" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a <DiscourseConnective annotation_id="7840">déjà</DiscourseConnective> observé M. Frattini, <DiscourseConnective annotation_id="7866">que</DiscourseConnective> la Commission a été un peu trop engageante <DiscourseConnective annotation_id="7913">ou</DiscourseConnective> trop enthousiaste dans certaines parties de la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7198" docOffset="38">
+      <en>It must be clear that the primary and ultimate responsibility lies with the Member States and the owners of this critical infrastructure.</en>
+      <fr>Je dois être claire sur le fait <DiscourseConnective annotation_id="8006">que</DiscourseConnective> la première <DiscourseConnective annotation_id="8022">et</DiscourseConnective> l'ultime responsabilité revient aux États membres <DiscourseConnective annotation_id="8075">et</DiscourseConnective> aux propriétaires de ces infrastructures critiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7336" docOffset="39">
+      <en>From that point of view, I consider a bottom-up approach to be of critical importance.</en>
+      <fr>De ce point de vue, je pense qu'une approche ascendante est capitale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7423" docOffset="40">
+      <en>Common action can, in my view, only be justified <Alignment alignment="8252" annotation_id="7472">
+          <DiscourseConnective annotation_id="7472" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> at least three Member States were to experience adverse effects, or at least two Member States other than those in which the critical infrastructure is located.</en>
+      <fr>Une action commune ne peut, selon moi, se justifier <Alignment alignment="7472" annotation_id="8252">
+          <DiscourseConnective annotation_id="8252" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="8259">au moins</DiscourseConnective> trois États membres devaient subir des effets néfastes, <DiscourseConnective annotation_id="8324">ou</DiscourseConnective> <DiscourseConnective annotation_id="8327">au moins</DiscourseConnective> deux États membres autres <DiscourseConnective annotation_id="8362">que</DiscourseConnective> ceux dans lesquels l'infrastructure critique est située.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7636" docOffset="41">
+      <en>After all, much has already been agreed upon bilaterally, which, to be honest, is <Alignment alignment="8512" annotation_id="7718">
+          <DiscourseConnective annotation_id="7718" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> the most flexible solution.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8423">Après tout</DiscourseConnective>, il y a <DiscourseConnective annotation_id="8442">déjà</DiscourseConnective> eu beaucoup d'accords bilatéraux, ce qui, <DiscourseConnective annotation_id="8489">pour</DiscourseConnective> être honnête, est <Alignment alignment="562" annotation_id="8512">
+          <DiscourseConnective annotation_id="8512" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la solution la plus flexible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7751" docOffset="42">
+      <en>
+        <Alignment alignment="8552" annotation_id="7751">
+          <Alignment alignment="8552" annotation_id="7751">
+            <DiscourseConnective annotation_id="7751" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I take the view that overlaps or inconsistencies with existing legislation and/or provisions should be avoided at all costs.</en>
+      <fr>
+        <Alignment alignment="7751" annotation_id="8552">
+          <Alignment alignment="7751" annotation_id="8552">
+            <DiscourseConnective annotation_id="8552" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je suis d'avis <DiscourseConnective annotation_id="8577">que</DiscourseConnective> tout chevauchement <DiscourseConnective annotation_id="8600">ou</DiscourseConnective> toute incohérence avec une législation et/ou des dispositions existantes devrait être évité <DiscourseConnective annotation_id="8695">à</DiscourseConnective> tout prix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7889" docOffset="43">
+      <en>Existing criteria and mechanisms must <Alignment alignment="8753" annotation_id="7927">
+          <DiscourseConnective annotation_id="7927" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be taken into consideration.</en>
+      <fr>Les critères <DiscourseConnective annotation_id="8721">et</DiscourseConnective> mécanismes existants doivent <Alignment alignment="7927" annotation_id="8753">
+          <DiscourseConnective annotation_id="8753" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> être pris en compte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7966" docOffset="44">
+      <en>It is equally important to me that the private sector is not faced with an unnecessary administrative burden.</en>
+      <fr>Il est <DiscourseConnective annotation_id="8786">également</DiscourseConnective> important <DiscourseConnective annotation_id="8806">à</DiscourseConnective> mes yeux <DiscourseConnective annotation_id="8817">que</DiscourseConnective> le secteur privé ne <DiscourseConnective annotation_id="8841">soit</DiscourseConnective> pas confronté <DiscourseConnective annotation_id="8860">à</DiscourseConnective> une charge administrative inutile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8076" docOffset="45">
+      <en>I would urge them to make use of the expertise that is already available and would, above all, counsel against re-inventing the wheel.</en>
+      <fr>Je les encourage <DiscourseConnective annotation_id="8914">à</DiscourseConnective> utiliser les connaissances qui sont <DiscourseConnective annotation_id="8952">déjà</DiscourseConnective> disponibles <DiscourseConnective annotation_id="8969">et</DiscourseConnective>, <DiscourseConnective annotation_id="8973">surtout</DiscourseConnective>, je leur conseille de ne pas réinventer la roue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8211" docOffset="46">
+      <en>I would <Alignment alignment="9040" annotation_id="8219">
+          <DiscourseConnective annotation_id="8219" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> argue in favour of this pragmatic, yet structural, approach.</en>
+      <fr>Je plaide <Alignment alignment="30669" annotation_id="9040">
+          <DiscourseConnective annotation_id="9040" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9045">en</DiscourseConnective> faveur de cette approche pragmatique <DiscourseConnective annotation_id="9085">mais</DiscourseConnective> structurelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8290" docOffset="47">
+      <en>Following the debates in the parliamentary committees, certain groups of Parliament have <Alignment alignment="9191" annotation_id="8379">
+          <DiscourseConnective annotation_id="8379" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> agreed to focus on so-called priority sectors.</en>
+      <fr>À la suite des débats <DiscourseConnective annotation_id="9126">en</DiscourseConnective> commissions parlementaires, certains groupes du Parlement ont <Alignment alignment="8379" annotation_id="9191">
+          <DiscourseConnective annotation_id="9191" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> convenu de se concentrer sur les secteurs dits prioritaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8431" docOffset="48">
+      <en>It has, indeed, <Alignment alignment="9276" annotation_id="8447">
+          <DiscourseConnective annotation_id="8447" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> been decided to scrap the proposed comitology procedure.</en>
+      <fr>Il a <DiscourseConnective annotation_id="9267">en effet</DiscourseConnective> <Alignment alignment="8447" annotation_id="9276">
+          <DiscourseConnective annotation_id="9276" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> été décidé d'abandonner la procédure de comitologie proposée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8509" docOffset="49">
+      <en>In the past, the use of the comitology procedure has too often led to shaky situations.</en>
+      <fr>Dans le passé, l'utilisation de la procédure de comitologie a trop souvent engendré des situations incertaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8597" docOffset="50">
+      <en>I am <Alignment alignment="48111" annotation_id="8602">
+          <DiscourseConnective annotation_id="8602" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> very grateful to the Commissioner for his observations on this matter and on the other amendments and for the fact that he has shown his satisfaction.</en>
+      <fr>Je suis <Alignment alignment="8602" annotation_id="9468">
+          <DiscourseConnective annotation_id="9468" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> très reconnaissante au commissaire <DiscourseConnective annotation_id="9508">pour</DiscourseConnective> ses observations <DiscourseConnective annotation_id="9530">en</DiscourseConnective> la matière <DiscourseConnective annotation_id="9544">et</DiscourseConnective> sur les autres amendements <DiscourseConnective annotation_id="9574">ainsi</DiscourseConnective> que d'avoir montré sa satisfaction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8763" docOffset="51">
+      <en>I would like to have a reaction, <Alignment alignment="7520" annotation_id="8796">
+          <DiscourseConnective annotation_id="8796" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, to the definition of two to three Member States, <Alignment alignment="48353" annotation_id="8854">
+          <DiscourseConnective annotation_id="8854" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> this is the most important amendment in my view.</en>
+      <fr>Je voudrais <Alignment alignment="8796" annotation_id="9628">
+          <DiscourseConnective annotation_id="9628" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> avoir une réaction sur la définition de deux ou trois États membres, <Alignment alignment="8854" annotation_id="9707">
+          <DiscourseConnective annotation_id="9707" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> c'est selon moi l'amendement le plus important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8911" docOffset="52">
+      <en>I should like to finish off with an observation for the Council, which is once again conspicuous by its absence.</en>
+      <fr>Je voudrais terminer par une observation <DiscourseConnective annotation_id="9806">à</DiscourseConnective> l'attention du Conseil, qui brille une fois de plus par son absence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9024" docOffset="53">
+      <en>The agreement on a common position appears to be a bridge too far for them.</en>
+      <fr>L'accord sur une position commune semble aller trop loin <DiscourseConnective annotation_id="9934">pour</DiscourseConnective> eux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9100" docOffset="54">
+      <en>This is quite remarkable, given the fact that the Council asked for this common framework itself, and out of character too, <Alignment alignment="10053" annotation_id="9224">
+          <DiscourseConnective annotation_id="9224" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, <Alignment alignment="10063" annotation_id="9233">
+          <DiscourseConnective annotation_id="9233" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> anything happens, then the Council is all too keen to be the first to immediately announce all manner of rules without really taking the quality of the proposals into account, their ramifications for the internal market, <Alignment alignment="10306" annotation_id="9457">
+          <DiscourseConnective annotation_id="9457" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, or the European citizens for that matter.</en>
+      <fr>C'est assez incroyable, <DiscourseConnective annotation_id="9968">étant donné que</DiscourseConnective> le Conseil a réclamé lui-même ce cadre commun, <DiscourseConnective annotation_id="10031">et</DiscourseConnective> étrange <DiscourseConnective annotation_id="10042">également</DiscourseConnective>, <Alignment alignment="9224" annotation_id="10053">
+          <DiscourseConnective annotation_id="10053" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> <Alignment alignment="9233" annotation_id="10063">
+          <DiscourseConnective annotation_id="10063" sense="Contingency.Condition">quand</DiscourseConnective>
+        </Alignment> quelque chose se passe, <DiscourseConnective annotation_id="10093">alors</DiscourseConnective> le Conseil est bien trop content d'être le premier a immédiatement annoncer toutes sortes de règles <DiscourseConnective annotation_id="10199">sans</DiscourseConnective> vraiment tenir compte de la qualité des propositions, de leurs conséquences <DiscourseConnective annotation_id="10280">pour</DiscourseConnective> le marché intérieur, <Alignment alignment="9457" annotation_id="10306">
+          <DiscourseConnective annotation_id="10306" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="10319">ou</DiscourseConnective> <DiscourseConnective annotation_id="10322">pour</DiscourseConnective> les citoyens européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9512" docOffset="55">
+      <en>After all, vision and power are two skills that can be expected from the Council in this matter.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10351">Après tout</DiscourseConnective>, la vision <DiscourseConnective annotation_id="10373">et</DiscourseConnective> le pouvoir sont deux compétences qui peuvent être attendues du Conseil <DiscourseConnective annotation_id="10447">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9609" docOffset="56">
+      <en>At the opening of the plenary sitting earlier today, President Poettering spoke wise words.</en>
+      <fr>Lors de l'ouverture de la séance ce matin, le président Poettering a eu des mots sensés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9701" docOffset="57">
+      <en>Nobody is waiting for ad hoc rules and regulations that are dictated by panic.</en>
+      <fr>Personne n'attend de règles <DiscourseConnective annotation_id="10579">ou</DiscourseConnective> de règlements ad hoc qui sont dictés par la panique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9780" docOffset="58">
+      <en>A structural line of attack, <Alignment alignment="10669" annotation_id="9809">
+          <Alignment alignment="10669" annotation_id="9809">
+            <DiscourseConnective annotation_id="9809" sense="Comparison.Contrast">on the other hand</DiscourseConnective>
+          </Alignment>
+        </Alignment>, taking the principles of rule of law into consideration - and the latter is vitally important - is very welcome.</en>
+      <fr>Une ligne d'attaque structurelle, <Alignment alignment="9809" annotation_id="10669">
+          <Alignment alignment="9809" annotation_id="10669">
+            <DiscourseConnective annotation_id="10669" sense="Comparison.Contrast">en revanche</DiscourseConnective>
+          </Alignment>
+        </Alignment>, prenant les principes de l'État de droit en considération - <DiscourseConnective annotation_id="10742">et</DiscourseConnective> ce dernier est extrêmement important - est très bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9941" docOffset="59">
+      <en>I thank you <Alignment alignment="10821" annotation_id="9953">
+          <DiscourseConnective annotation_id="9953" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I thank the Commissioner.</en>
+      <fr>Je vous remercie <Alignment alignment="9953" annotation_id="10821">
+          <DiscourseConnective annotation_id="10821" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je remercie le commissaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9983" id="197" name="Harald Ettl ">
+    <ParallelChunk annotation_id="9983" docOffset="60">
+      <en>draftsman of the opinion of the Committee on Economic and Monetary Affairs. - (DE) Mr President, cross-border crises, whether caused by terrorism or natural disasters, call for Union-wide protection of critical infrastructures.</en>
+      <fr>rapporteur pour avis de la commission des affaires économiques <DiscourseConnective annotation_id="10915">et</DiscourseConnective> monétaires. - (DE) Monsieur le Président, les crises transfrontalières, qu'elles soient causées par le terrorisme <DiscourseConnective annotation_id="11032">ou</DiscourseConnective> des catastrophes naturelles, appellent une protection des infrastructures critiques dans toute l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10211" docOffset="61">
+      <en>Critical infrastructures cannot be kept secret by not mentioning them.</en>
+      <fr>Les infrastructures critiques ne peuvent pas être gardées secrètes <DiscourseConnective annotation_id="11207">en</DiscourseConnective> ne les mentionnant pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10282" docOffset="62">
+      <en>It would be completely naïve to think that.</en>
+      <fr>Il serait tout à fait naïf de croire cela.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10326" docOffset="63">
+      <en>From a psychological point of view, the destruction of critical infrastructures leads to a loss of public confidence in the European Union.</en>
+      <fr>D'un point de vue psychologique, la destruction des infrastructures critiques entraîne une diminution de la confiance de la population <DiscourseConnective annotation_id="11412">en</DiscourseConnective> l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10466" docOffset="64">
+      <en>Crisis protection is not <Alignment alignment="11473" annotation_id="10491">
+          <DiscourseConnective annotation_id="10491" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> only a national matter but requires European crisis management, <Alignment alignment="11570" annotation_id="10565">
+          <DiscourseConnective annotation_id="10565" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the Commission proposes.</en>
+      <fr>La protection contre les crises n'est <Alignment alignment="10491" annotation_id="11473">
+          <DiscourseConnective annotation_id="11473" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas uniquement une affaire nationale, <DiscourseConnective annotation_id="11516">mais</DiscourseConnective> elle requiert une gestion européenne des crises, <Alignment alignment="10565" annotation_id="11570">
+          <DiscourseConnective annotation_id="11570" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le propose la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10593" docOffset="65">
+      <en>
+        <Alignment alignment="11602" annotation_id="10593">
+          <DiscourseConnective annotation_id="10593" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, <Alignment alignment="11611" annotation_id="10603">
+          <DiscourseConnective annotation_id="10603" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the Committee on Economic and Monetary Affairs has clearly pointed out, moving elements of European infrastructures outside the EU increases the risk of terrorist attacks <Alignment alignment="13211" annotation_id="10777">
+          <DiscourseConnective annotation_id="10777" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> access to data in particular makes the entire infrastructure more vulnerable.</en>
+      <fr>
+        <Alignment alignment="10593" annotation_id="11602">
+          <DiscourseConnective annotation_id="11602" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, <Alignment alignment="10603" annotation_id="11611">
+          <DiscourseConnective annotation_id="11611" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a clairement souligné la commission des affaires économiques <DiscourseConnective annotation_id="11680">et</DiscourseConnective> monétaires, sortir des éléments de l'infrastructure européenne en-dehors de l'UE augmente les risques d'attaque terroriste <Alignment alignment="10777" annotation_id="11806">
+          <DiscourseConnective annotation_id="11806" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'accès aux données <DiscourseConnective annotation_id="11829">en particulier</DiscourseConnective> rend toute l'infrastructure plus vulnérable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10859" docOffset="66">
+      <en>This is <Alignment alignment="11895" annotation_id="10867">
+          <DiscourseConnective annotation_id="10867" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> true of banking and insurance.</en>
+      <fr>C'est <Alignment alignment="10867" annotation_id="11895">
+          <DiscourseConnective annotation_id="11895" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> le cas <DiscourseConnective annotation_id="11912">pour</DiscourseConnective> les banques <DiscourseConnective annotation_id="11929">et</DiscourseConnective> les assurances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10903" docOffset="67">
+      <en>Even <Alignment alignment="11948" annotation_id="10908">
+          <DiscourseConnective annotation_id="10908" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> security and controls are constantly being improved in these areas, there is still a need for additional coordinated European action.</en>
+      <fr>
+        <Alignment alignment="10908" annotation_id="11948">
+          <DiscourseConnective annotation_id="11948" sense="Contingency.Condition">Même si</DiscourseConnective>
+        </Alignment> la sécurité <DiscourseConnective annotation_id="11968">et</DiscourseConnective> les contrôles sont constamment améliorés dans ces domaines, il y a toujours la nécessité d'avoir une action européenne coordonnée supplémentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11045" docOffset="68">
+      <en>Nobody will want double regulation. What we need is greater security.</en>
+      <fr>Personne ne voudra une double réglementation Ce dont nous avons besoin, c'est d'une sécurité accrue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11115" docOffset="69">
+      <en>The Directorate General for the Market must be guided by that and not by short-sighted wishes expressed by industry.</en>
+      <fr>La direction générale du marché intérieur doit être guidée par cela, <DiscourseConnective annotation_id="12287">et</DiscourseConnective> non par des souhaits de l'industrie qui manquent de vision.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11232" id="198" name="Renate Sommer ">
+    <ParallelChunk annotation_id="11232" docOffset="70">
+      <en>draftsman of the opinion of the Committee on Transport and Tourism. - (DE) Mr President, the Committee on Transport and Tourism is of the opinion, for its area of responsibility, that with this proposal for a directive the Commission is exceeding its powers, <Alignment alignment="12620" annotation_id="11491">
+          <DiscourseConnective annotation_id="11491" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is misunderstanding its instructions.</en>
+      <fr>rapporteur pour avis de la commission des transports <DiscourseConnective annotation_id="12403">et</DiscourseConnective> du tourisme. - (DE) Monsieur le Président, la commission des transports <DiscourseConnective annotation_id="12478">et</DiscourseConnective> du tourisme est d'avis, <DiscourseConnective annotation_id="12505">pour</DiscourseConnective> son domaine de responsabilité, <DiscourseConnective annotation_id="12541">qu'</DiscourseConnective>avec cette proposition de directive, la Commission outrepasse ses pouvoirs, <Alignment alignment="11491" annotation_id="12620">
+          <DiscourseConnective annotation_id="12620" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle comprend mal ses instructions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11540" docOffset="71">
+      <en>It speaks of stabilising the internal market, <Alignment alignment="12714" annotation_id="11586">
+          <DiscourseConnective annotation_id="11586" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the directive is supposed to be principally about protection against acts of terrorism.</en>
+      <fr>Elle parle de stabilisation du marché intérieur, <Alignment alignment="11586" annotation_id="12714">
+          <DiscourseConnective annotation_id="12714" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la directive est censée porter principalement sur la protection contre les actes de terrorisme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11678" docOffset="72">
+      <en>
+        <Alignment alignment="12815" annotation_id="11678">
+          <DiscourseConnective annotation_id="11678" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, the Commission proposal contravenes the principle of subsidiarity, <Alignment alignment="12893" annotation_id="11755">
+          <DiscourseConnective annotation_id="11755" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it seeks not only to complement Member States' existing measures, but to replace some of them.</en>
+      <fr>
+        <Alignment alignment="11678" annotation_id="12815">
+          <DiscourseConnective annotation_id="12815" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, la proposition de directive contrevient au principe de subsidiarité <Alignment alignment="11755" annotation_id="12893">
+          <DiscourseConnective annotation_id="12893" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle cherche <DiscourseConnective annotation_id="12915">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="12929">à</DiscourseConnective> compléter les mesures existantes des États membres, <DiscourseConnective annotation_id="12983">mais</DiscourseConnective> également <DiscourseConnective annotation_id="12998">à en</DiscourseConnective> remplacer certaines d'entre elles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11858" docOffset="73">
+      <en>Finally, the proposal does not address the real task, but delegates it to a comitology committee.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13038">Enfin</DiscourseConnective>, la proposition ne résout pas le problème, <DiscourseConnective annotation_id="13087">mais</DiscourseConnective> le délègue <DiscourseConnective annotation_id="13103">à</DiscourseConnective> un comité de comitologie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11956" docOffset="74">
+      <en>The Committee on Transport and Tourism <Alignment alignment="13183" annotation_id="11995">
+          <DiscourseConnective annotation_id="11995" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> rejected the Commission proposal, <Alignment alignment="13221" annotation_id="12039">
+          <DiscourseConnective annotation_id="12039" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> we know that we do of course need European cooperation.</en>
+      <fr>La commission des transports <DiscourseConnective annotation_id="13160">et</DiscourseConnective> du tourisme rejette <Alignment alignment="322" annotation_id="13183">
+          <DiscourseConnective annotation_id="13183" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> la proposition de la Commission, <Alignment alignment="12039" annotation_id="13221">
+          <DiscourseConnective annotation_id="13221" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> nous sachions <DiscourseConnective annotation_id="13244">que</DiscourseConnective> nous avons évidemment besoin d'une coopération européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12104" docOffset="75">
+      <en>The question is simply how.</en>
+      <fr>La question est <DiscourseConnective annotation_id="13323">simplement</DiscourseConnective> de savoir comment.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12132" docOffset="76">
+      <en>My main concern is to ensure that the Member States are not obliged to notify their critical European infrastructures to the Commission <Alignment alignment="46055" annotation_id="12268">
+          <Alignment alignment="11337" annotation_id="12268">
+            <DiscourseConnective annotation_id="12268" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> it can <Alignment alignment="13534" annotation_id="12283">
+          <DiscourseConnective annotation_id="12283" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> make a complete list of sensitive EU infrastructures, attach security plans to it and <Alignment alignment="13647" annotation_id="12374">
+          <DiscourseConnective annotation_id="12374" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> store everything in some office in Brussels.</en>
+      <fr>Ma principale préoccupation est de m'assurer <DiscourseConnective annotation_id="13398">que</DiscourseConnective> les États membres ne soient pas obligés de notifier leurs infrastructures critiques européennes <DiscourseConnective annotation_id="13498">à</DiscourseConnective> la Commission <Alignment alignment="9479" annotation_id="13514">
+          <Alignment alignment="12268" annotation_id="13514">
+            <DiscourseConnective annotation_id="13514" sense="Contingency.Cause.Result">pour qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>elle puisse <Alignment alignment="12283" annotation_id="13534">
+          <DiscourseConnective annotation_id="13534" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> dresser une liste complète des infrastructures européennes sensibles, y joindre des plans de sécurité <DiscourseConnective annotation_id="13644">et</DiscourseConnective> <Alignment alignment="12374" annotation_id="13647">
+          <DiscourseConnective annotation_id="13647" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> garder le tout dans un quelconque bureau <DiscourseConnective annotation_id="13696">à</DiscourseConnective> Bruxelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12424" docOffset="77">
+      <en>That would be against national security interests.</en>
+      <fr>Ce serait contre les intérêts sécuritaires nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12475" docOffset="78">
+      <en>Such a list would be an interesting source of information for terrorists.</en>
+      <fr>Une telle liste serait une source d'information intéressante <DiscourseConnective annotation_id="13824">pour</DiscourseConnective> les terroristes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12549" docOffset="79">
+      <en>All that should be done by the Commission is to define and list in general terms the most important sectors at risk.</en>
+      <fr>Tout ce que la Commission doit faire, c'est définir <DiscourseConnective annotation_id="13898">et</DiscourseConnective> dresser une liste <DiscourseConnective annotation_id="13919">en</DiscourseConnective> termes généraux des secteurs <DiscourseConnective annotation_id="13951">à</DiscourseConnective> risque les plus importants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12666" docOffset="80">
+      <en>It should be left to the Member States to identify those sectors, <Alignment alignment="14050" annotation_id="12732">
+          <DiscourseConnective annotation_id="12732" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is they who are primarily responsible for the protection of critical infrastructures <Alignment alignment="14152" annotation_id="12828">
+          <DiscourseConnective annotation_id="12828" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> they carry the ultimate responsibility for measures to protect critical infrastructures within their national borders.</en>
+      <fr>L'identification de ces secteurs doit être laissée aux États membres <Alignment alignment="12732" annotation_id="14050">
+          <DiscourseConnective annotation_id="14050" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> ce sont eux qui sont en premier responsables de la protection des infrastructures critiques <Alignment alignment="12828" annotation_id="14152">
+          <DiscourseConnective annotation_id="14152" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ils ont l'ultime responsabilité des mesures de protection des infrastructures critiques à l'intérieur de leurs frontières nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12951" docOffset="81">
+      <en>In the interests of national security, that must continue to be the case.</en>
+      <fr>Dans l'intérêt de la sécurité nationale, cela doit <DiscourseConnective annotation_id="14340">encore</DiscourseConnective> être le cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13025" docOffset="82">
+      <en>Only a devolved management of sensitive infrastructures can reduce the level of risk.</en>
+      <fr>Seule une gestion décentralisée des infrastructures sensibles peut réduire le niveau de risque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13111" docOffset="83">
+      <en>I believe the narrower definition of critical European infrastructures, according to which at least three Member States, or two others than the one in which the critical infrastructure is located, must be affected, is the right one.</en>
+      <fr>Je crois que la définition plus stricte des infrastructures critiques européennes, selon laquelle <DiscourseConnective annotation_id="14554">au moins</DiscourseConnective> trois États membres, <DiscourseConnective annotation_id="14584">ou</DiscourseConnective> deux autres États <DiscourseConnective annotation_id="14605">que</DiscourseConnective> celui dans lequel l'infrastructure critique est située, doivent être touchés, est la bonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13344" docOffset="84">
+      <en>We must ensure that the directive covers only European infrastructures and no national ones.</en>
+      <fr>Nous devons nous assurer <DiscourseConnective annotation_id="14726">que</DiscourseConnective> la directive couvre uniquement les infrastructures européennes, <DiscourseConnective annotation_id="14794">et</DiscourseConnective> pas les infrastructures nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13437" docOffset="85">
+      <en>I <Alignment alignment="14842" annotation_id="13439">
+          <DiscourseConnective annotation_id="13439" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> consider that bilateral cooperation between Member States is more sensible in this area on security grounds.</en>
+      <fr>Je pense <Alignment alignment="13439" annotation_id="14842">
+          <DiscourseConnective annotation_id="14842" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14848">que</DiscourseConnective> la coopération bilatérale ente les États membres est plus sensée dans ce domaine <DiscourseConnective annotation_id="14933">pour</DiscourseConnective> des raisons de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13553" docOffset="86">
+      <en>Finally, I would like to thank the rapporteur, Jeanine Hennis-Plasschaert, most sincerely and assure her of my support.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14963">Enfin</DiscourseConnective>, je voudrais remercier très sincèrement le rapporteur, Jeanine Hennis-Plasschaert, <DiscourseConnective annotation_id="15052">et</DiscourseConnective> l'assurer de mon soutien.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13673" id="199" name="Herbert Reul">
+    <ParallelChunk annotation_id="13673" docOffset="87">
+      <en>on behalf of the PPE-DE Group. - (DE) Mr President, Commissioner, ladies and gentlemen, indisputably, we have raised a very difficult issue with critical European infrastructures.</en>
+      <fr>Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="15138">et</DiscourseConnective> Messieurs, nous avons incontestablement soulevé une question très difficile avec les infrastructures critiques européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13853" docOffset="88">
+      <en>There can be no doubt, <Alignment alignment="15276" annotation_id="13876">
+          <DiscourseConnective annotation_id="13876" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that we need to get to grips with this question at European level and find and develop solutions jointly with the Member States, <Alignment alignment="15440" annotation_id="14014">
+          <DiscourseConnective annotation_id="14014" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the potential threats which the Commissioner has just described do exist and must <Alignment alignment="52400" annotation_id="14104">
+          <DiscourseConnective annotation_id="14104" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be taken seriously.</en>
+      <fr>Il ne fait <Alignment alignment="15508" annotation_id="15276">
+          <DiscourseConnective annotation_id="15276" sense="Comparison.Contrast">pourtant</DiscourseConnective>
+        </Alignment> aucun doute <DiscourseConnective annotation_id="15297">que</DiscourseConnective> nous devons nous attaquer <DiscourseConnective annotation_id="15327">à</DiscourseConnective> cette question au niveau européen <DiscourseConnective annotation_id="15363">et</DiscourseConnective> trouver <DiscourseConnective annotation_id="15374">et</DiscourseConnective> mettre au point des solutions ensemble avec les États membres, <Alignment alignment="4447" annotation_id="15440">
+          <DiscourseConnective annotation_id="15440" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les menaces potentielles <DiscourseConnective annotation_id="15475">que</DiscourseConnective> le commissaire vient de décrire existent réellement <DiscourseConnective annotation_id="15531">et</DiscourseConnective> doivent <Alignment alignment="14104" annotation_id="15542">
+          <DiscourseConnective annotation_id="15542" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> être prises au sérieux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14134" docOffset="89">
+      <en>It is, <Alignment alignment="15578" annotation_id="14141">
+          <DiscourseConnective annotation_id="14141" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, extremely difficult to say where the European competence lies in this matter, what must be organised at European level <Alignment alignment="15705" annotation_id="14269">
+          <DiscourseConnective annotation_id="14269" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> where particular devolved tasks must be dealt with.</en>
+      <fr>Il est <Alignment alignment="14141" annotation_id="15578">
+          <DiscourseConnective annotation_id="15578" sense="Comparison.Contrast">pourtant</DiscourseConnective>
+        </Alignment> très difficile de dire sur ce thème où sont les compétences européennes, ce qui doit être organisé au niveau européen <Alignment alignment="14269" annotation_id="15705">
+          <DiscourseConnective annotation_id="15705" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> où les tâches décentralisées doivent être réalisées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14325" docOffset="90">
+      <en>This question occupied us in committee for a very long time.</en>
+      <fr>Cette question nous a occupés <DiscourseConnective annotation_id="15791">en</DiscourseConnective> commission pendant très longtemps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14386" docOffset="91">
+      <en>We have tried - and I would like to thank the rapporteur most sincerely for her very fair and open cooperation - to find a way that will ensure the exchange of best practice between the Member States with EU-wide coordination, <Alignment alignment="13849" annotation_id="14613">
+          <DiscourseConnective annotation_id="14613" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> at the same time keeping the subsidiarity principle central.</en>
+      <fr>Nous avons essayé - <DiscourseConnective annotation_id="15849">et</DiscourseConnective> je voudrais remercier très sincèrement le rapporteur <DiscourseConnective annotation_id="15905">pour</DiscourseConnective> sa coopération très juste <DiscourseConnective annotation_id="15936">et</DiscourseConnective> ouverte - de trouver comment garantir les échanges de bonnes pratiques entre les États membres et une coordination dans toute l'Europe, <Alignment alignment="26604" annotation_id="16075">
+          <DiscourseConnective annotation_id="16075" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> gardant <DiscourseConnective annotation_id="16091">en même temps</DiscourseConnective> le principe de subsidiarité comme point central.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14680" docOffset="92">
+      <en>Neither, <Alignment alignment="16184" annotation_id="14689">
+          <DiscourseConnective annotation_id="14689" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mrs Sommer has already said, do we want to notify specific critical infrastructures and collect them somewhere, <Alignment alignment="16311" annotation_id="14804">
+          <DiscourseConnective annotation_id="14804" sense="Expansion.Restatement">rather</DiscourseConnective>
+        </Alignment> we want to ensure that secrecy is guaranteed.</en>
+      <fr>Nous ne voulons pas non plus, <Alignment alignment="10295" annotation_id="16184">
+          <DiscourseConnective annotation_id="16184" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a <DiscourseConnective annotation_id="16194">déjà</DiscourseConnective> dit Mme Sommer, notifier les infrastructures critiques spécifiques <DiscourseConnective annotation_id="16266">et</DiscourseConnective> les rassembler quelque part, nous voulons <Alignment alignment="31436" annotation_id="16311">
+          <DiscourseConnective annotation_id="16311" sense="Expansion.Restatement">plutôt</DiscourseConnective>
+        </Alignment> nous assurer <DiscourseConnective annotation_id="16331">que</DiscourseConnective> le secret est garanti.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14857" docOffset="93">
+      <en>That is why we agreed that the Member States should notify the Commission of their respective critical sectors but not specific infrastructures.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16358">C'est pourquoi</DiscourseConnective> nous avons convenu <DiscourseConnective annotation_id="16392">que</DiscourseConnective> les États membres doivent notifier à la Commission leurs secteurs critiques respectifs, <DiscourseConnective annotation_id="16484">mais</DiscourseConnective> pas les infrastructures spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15002" docOffset="94">
+      <en>It was important for us not to go for a comitology procedure, <Alignment alignment="16603" annotation_id="15064">
+          <DiscourseConnective annotation_id="15064" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am grateful to the Commissioner for accommodating Parliament on this.</en>
+      <fr>Il était important <DiscourseConnective annotation_id="16545">pour</DiscourseConnective> nous de ne pas choisir une procédure de comitologie, <Alignment alignment="856" annotation_id="16603">
+          <DiscourseConnective annotation_id="16603" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je remercie le commissaire de satisfaire à la demande du Parlement <DiscourseConnective annotation_id="16673">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15140" docOffset="95">
+      <en>
+        <Alignment alignment="16685" annotation_id="15140">
+          <DiscourseConnective annotation_id="15140" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> the rapporteur has already pointed out, the procedure's inefficiency in the past does not encourage us to go further down that route.</en>
+      <fr>
+        <Alignment alignment="15037" annotation_id="16685">
+          <DiscourseConnective annotation_id="16685" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> l'a <DiscourseConnective annotation_id="16695">déjà</DiscourseConnective> souligné le rapporteur, l'inefficacité de la procédure dans le passé ne nous encourage pas <DiscourseConnective annotation_id="16791">à</DiscourseConnective> continuer sur cette voie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15277" docOffset="96">
+      <en>We suggest another way.</en>
+      <fr>Nous suggérons autre chose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15301" docOffset="97">
+      <en>I <Alignment alignment="16855" annotation_id="15303">
+          <DiscourseConnective annotation_id="15303" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want to say that it was important for us that unnecessary bureaucracy should be avoided, that a contact point in the Member States should do the designating and identifying <Alignment alignment="17032" annotation_id="15481">
+          <DiscourseConnective annotation_id="15481" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that no new bureaucracies should be created, that administrative costs should be reined in <Alignment alignment="17144" annotation_id="15576">
+          <DiscourseConnective annotation_id="15576" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that there should be plenty of flexibility.</en>
+      <fr>Je veux <Alignment alignment="15303" annotation_id="16855">
+          <DiscourseConnective annotation_id="16855" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souligner <DiscourseConnective annotation_id="16875">qu'</DiscourseConnective>il importait <DiscourseConnective annotation_id="16891">pour</DiscourseConnective> nous d'éviter toute bureaucratie inutile, <DiscourseConnective annotation_id="16938">qu'</DiscourseConnective>un point de contact dans les États membres doit se charger du classement <DiscourseConnective annotation_id="17014">et</DiscourseConnective> du recensement <Alignment alignment="828" annotation_id="17032">
+          <DiscourseConnective annotation_id="17032" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17035">qu'</DiscourseConnective>aucune nouvelle démarche administrative ne doit être créée, <DiscourseConnective annotation_id="17098">que</DiscourseConnective> les coûts administratifs soient maîtrisés <Alignment alignment="15576" annotation_id="17144">
+          <DiscourseConnective annotation_id="17144" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17147">qu'</DiscourseConnective>il doit y avoir une grande flexibilité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15624" id="200" name="Inés Ayala Sender">
+    <ParallelChunk annotation_id="15624" docOffset="98">
+      <en>on behalf of the PSE Group. - (ES) Mr President, the President of the European Parliament, Mr Poettering, referred today to this very report by Mrs Hennis-Plasschaert <Alignment alignment="17343" annotation_id="15791">
+          <DiscourseConnective annotation_id="15791" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> he condemned the latest terrorist attacks, both on European territory - where airports were the targets - and in third countries, such as Yemen - in the case of the murdered Spanish tourists.</en>
+      <fr>Monsieur le Président, le président du Parlement européen, M. Pöttering, a précisément fait aujourd'hui référence <DiscourseConnective annotation_id="17304">à</DiscourseConnective> ce rapport de Mme Hennis-Plasschaert <Alignment alignment="15791" annotation_id="17343">
+          <DiscourseConnective annotation_id="17343" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il a condamné les dernières attaques terroristes, tant sur le territoire européen - où les aéroports ont été pris pour cible - <DiscourseConnective annotation_id="17477">que</DiscourseConnective> dans les pays tiers, <DiscourseConnective annotation_id="17502">comme</DiscourseConnective> le Yémen - dans le cas des touristes espagnols assassinés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15988" docOffset="99">
+      <en>In the latter case, the target was not a specific infrastructure, but rather tourists travelling in a vehicle along a road.</en>
+      <fr>Dans ce dernier cas, la cible n'était pas une infrastructure spécifique, <DiscourseConnective annotation_id="17640">mais</DiscourseConnective> <DiscourseConnective annotation_id="17645">plutôt</DiscourseConnective> des touristes voyageant dans un véhicule sur une route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16112" docOffset="100">
+      <en>This reference once again demonstrates or reinforces the importance of this exercise proposed to us by the Commission and for which I would like to thank the Commissioner most warmly.</en>
+      <fr>Cette référence démontre <DiscourseConnective annotation_id="17733">ou</DiscourseConnective> renforce une fois de plus l'importance de cet exercice que nous a proposé la Commission <DiscourseConnective annotation_id="17824">et</DiscourseConnective> <DiscourseConnective annotation_id="17827">pour</DiscourseConnective> lequel je remercie chaleureusement le commissaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16296" docOffset="101">
+      <en>This is not a single measure but rather part of a long process - which began in 2004 - which is now taking the form of increasingly interesting and effective measures.</en>
+      <fr>Il ne <DiscourseConnective annotation_id="17889">s'</DiscourseConnective>agit pas d'une mesure unique, <DiscourseConnective annotation_id="17921">mais</DiscourseConnective> <DiscourseConnective annotation_id="17926">plutôt</DiscourseConnective> d'un long processus - qui a commencé <DiscourseConnective annotation_id="17970">en</DiscourseConnective> 2004 - qui prend <DiscourseConnective annotation_id="17990">maintenant</DiscourseConnective> la forme de mesures <DiscourseConnective annotation_id="18021">de plus</DiscourseConnective> en plus intéressantes <DiscourseConnective annotation_id="18051">et</DiscourseConnective> efficaces.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16464" docOffset="102">
+      <en>
+        <Alignment alignment="18065" annotation_id="16464">
+          <DiscourseConnective annotation_id="16464" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, in view of the complexity of our European society, based on these complex and open networks of communication, supply and services on which, <Alignment alignment="18238" annotation_id="16617">
+          <DiscourseConnective annotation_id="16617" sense="Expansion.Conjunction">additionally</DiscourseConnective>
+        </Alignment>, the economy is founded, we must defend them and defend ourselves in view of their potential vulnerability to terrorist attacks.</en>
+      <fr>
+        <Alignment alignment="30500" annotation_id="18065">
+          <DiscourseConnective annotation_id="18065" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, étant donné la complexité de notre société européenne, basée sur ces réseaux de communication, d'approvisionnement <DiscourseConnective annotation_id="18189">et</DiscourseConnective> de service complexes <DiscourseConnective annotation_id="18213">et</DiscourseConnective> ouverts sur lesquels, <Alignment alignment="2569" annotation_id="18238">
+          <DiscourseConnective annotation_id="18238" sense="Expansion.Conjunction">en plus</DiscourseConnective>
+        </Alignment>, l'économie est fondée, nous devons les défendre <DiscourseConnective annotation_id="18295">et</DiscourseConnective> nous défendre nous-mêmes contre la vulnérabilité qu'ils peuvent présenter face aux attaques terroristes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16759" docOffset="103">
+      <en>I wish to point out that my group was more in agreement with the Commission's original proposal relating to the definition of critical European infrastructures, in the sense of infrastructures shared by two or more countries, or cases in which a State is affected by an infrastructure of another Member State.</en>
+      <fr>Je voudrais souligner <DiscourseConnective annotation_id="18425">que</DiscourseConnective> mon groupe était plus <DiscourseConnective annotation_id="18451">en</DiscourseConnective> faveur de la proposition initiale de la Commission en ce qui concerne la définition des infrastructures critiques européennes, dans le sens des infrastructures partagées par deux pays <DiscourseConnective annotation_id="18638">ou</DiscourseConnective> plus, <DiscourseConnective annotation_id="18647">ou</DiscourseConnective> les cas dans lesquels un État est concerné par une infrastructure d'un autre État.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17069" docOffset="104">
+      <en>
+        <Alignment alignment="18733" annotation_id="17069">
+          <DiscourseConnective annotation_id="17069" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, for us, the Eurotunnel could be a good example for the application of this optimum protection from possible attacks, not to mention airports, etc., where we have already suffered such attacks.</en>
+      <fr>
+        <Alignment alignment="17069" annotation_id="18733">
+          <DiscourseConnective annotation_id="18733" sense="Expansion.Instantiation">Par exemple</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="18746">pour</DiscourseConnective> nous, l'Eurotunnel pourrait être un bon exemple <DiscourseConnective annotation_id="18799">pour</DiscourseConnective> l'application de cette protection optimale contre des attaques possibles, <DiscourseConnective annotation_id="18878">sans</DiscourseConnective> parler des aéroports, etc., où nous avons <DiscourseConnective annotation_id="18925">déjà</DiscourseConnective> été confrontés à des attaques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17275" docOffset="105">
+      <en>Tomorrow, <Alignment alignment="18988" annotation_id="17285">
+          <DiscourseConnective annotation_id="17285" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, we shall maintain this position in favour of the Commission's original proposal, <Alignment alignment="19063" annotation_id="17377">
+          <DiscourseConnective annotation_id="17377" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we want to remain hopeful that we may find more support in the Council.</en>
+      <fr>Demain, nous maintiendrons <Alignment alignment="17285" annotation_id="18988">
+          <DiscourseConnective annotation_id="18988" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> notre position <DiscourseConnective annotation_id="19008">en</DiscourseConnective> faveur de la proposition initiale de la Commission, <Alignment alignment="17377" annotation_id="19063">
+          <DiscourseConnective annotation_id="19063" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous voulons garder l'espoir de trouver davantage de soutien au Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17457" docOffset="106">
+      <en>In any event, we prefer to continue moving towards more integrated and European approaches, <Alignment alignment="19236" annotation_id="17549">
+          <DiscourseConnective annotation_id="17549" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we prefer to avoid savings that appear to reduce costs <Alignment alignment="19307" annotation_id="17608">
+          <DiscourseConnective annotation_id="17608" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that we could end up regretting in the future.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19146">Dans tous les cas</DiscourseConnective>, nous préférons aller vers des approches plus intégrées <DiscourseConnective annotation_id="19220">et</DiscourseConnective> européennes, <Alignment alignment="17549" annotation_id="19236">
+          <DiscourseConnective annotation_id="19236" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous préférons éviter des économies qui semblent réduire les coûts, <Alignment alignment="17608" annotation_id="19307">
+          <DiscourseConnective annotation_id="19307" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="19312">que</DiscourseConnective> nous pourrions finir par regretter <DiscourseConnective annotation_id="19351">plus tard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17659" docOffset="107">
+      <en>We do support everything that Mrs Hennis-Plasschaert proposes in terms of protection with regard to third countries; we support everything relating to the protection of the individual data involved; naturally, we support everything relating to the necessary confidentiality - we have long experience of dealing with this confidentiality, both at national level and at Commission level, <Alignment alignment="51827" annotation_id="18045">
+          <DiscourseConnective annotation_id="18045" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we do not believe that it is going to be violated in this case - <DiscourseConnective annotation_id="18114" sense="Expansion.Conjunction">and</DiscourseConnective> we <DiscourseConnective annotation_id="18121" sense="Expansion.Conjunction">also</DiscourseConnective> agree that we should avoid any duplication of what has already been done within the Member States <DiscourseConnective annotation_id="18224" sense="Expansion.Conjunction">and</DiscourseConnective> what the Commission is now proposing.</en>
+      <fr>Nous soutenons tout ce <DiscourseConnective annotation_id="19385">que</DiscourseConnective> Mme Hennis-Plasschaert propose <DiscourseConnective annotation_id="19420">en</DiscourseConnective> termes de protection <DiscourseConnective annotation_id="19444">en</DiscourseConnective> ce qui concerne les pays tiers, nous soutenons tout ce qui a trait <DiscourseConnective annotation_id="19514">à</DiscourseConnective> la protection des données individuelles impliquées; naturellement, nous soutenons tout ce qui concerne la nécessaire confidentialité. Nous avons une grande expérience dans le traitement de cette confidentialité, tant au niveau national <DiscourseConnective annotation_id="19752">qu'</DiscourseConnective>au niveau de la Commission, <Alignment alignment="18045" annotation_id="19783">
+          <DiscourseConnective annotation_id="19783" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous ne pensons pas <DiscourseConnective annotation_id="19806">qu'</DiscourseConnective>elle va être violée <DiscourseConnective annotation_id="19829">dans ce cas</DiscourseConnective>.</fr>
+    </ParallelChunk>
+
+<ParallelChunk annotation_id="18267" docOffset="109">
+      <en>In this way, we hope to overcome the backward-looking position that we had to accept in the Committee on Transport and Tourism <Alignment alignment="20127" annotation_id="18394">
+          <DiscourseConnective annotation_id="18394" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> with which my group still does not agree.</en>
+      <fr>Nous espérons ainsi surmonter la position régressive <DiscourseConnective annotation_id="20056">que</DiscourseConnective> nous avons dû accepter <DiscourseConnective annotation_id="20083">en</DiscourseConnective> commission des transports <DiscourseConnective annotation_id="20112">et</DiscourseConnective> du tourisme <Alignment alignment="18394" annotation_id="20127">
+          <DiscourseConnective annotation_id="20127" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> avec laquelle mon groupe n'est toujours pas d'accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18440" docOffset="110">
+      <en>We hope that, with the proposal that will be put to the vote tomorrow, we will be able to continue moving forward <Alignment alignment="20285" annotation_id="18554">
+          <DiscourseConnective annotation_id="18554" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that with both what Parliament is proposing - and I am grateful for the great work by Mrs Hennis-Plasschaert and all of the honourable Members - <Alignment alignment="20435" annotation_id="18703">
+          <DiscourseConnective annotation_id="18703" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> with what the Council is proposing, we will be able to achieve better protection of our critical European infrastructures.</en>
+      <fr>Nous espérons <DiscourseConnective annotation_id="20198">qu'</DiscourseConnective>avec la proposition qui sera mise au vote demain, nous pourrons continuer à avancer <Alignment alignment="9442" annotation_id="20285">
+          <DiscourseConnective annotation_id="20285" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="20288">qu'</DiscourseConnective>avec ce que le Parlement propose - <DiscourseConnective annotation_id="20326">et</DiscourseConnective> je suis reconnaissante <DiscourseConnective annotation_id="20352">à</DiscourseConnective> Mme Hennis-Plasschaert <DiscourseConnective annotation_id="20377">et</DiscourseConnective> tous les honorables membres <DiscourseConnective annotation_id="20408">pour</DiscourseConnective> ce très bon travail - <Alignment alignment="18703" annotation_id="20435">
+          <DiscourseConnective annotation_id="20435" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce que le Conseil propose, nous serons capables d'atteindre une meilleure protection de nos infrastructures critiques européennes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18830" id="201" name="Margarita Starkevičiūtė">
+    <ParallelChunk annotation_id="18830" docOffset="111">
+      <en>on behalf of the ALDE Group. - (LT) I would like to thank the Commission member and the honourable rapporteur for their suggestions; <Alignment alignment="20668" annotation_id="18963">
+          <DiscourseConnective annotation_id="18963" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, I would like to stress that these suggestions should be interpreted as only the beginning of the discussion.</en>
+      <fr>Je voudrais remercier le commissaire <DiscourseConnective annotation_id="20606">et</DiscourseConnective> l'honorable rapporteur <DiscourseConnective annotation_id="20632">pour</DiscourseConnective> leurs suggestions; je voudrais <Alignment alignment="21525" annotation_id="20668">
+          <DiscourseConnective annotation_id="20668" sense="Comparison.Contrast">pourtant</DiscourseConnective>
+        </Alignment> souligner <DiscourseConnective annotation_id="20687">que</DiscourseConnective> ces suggestions doivent être considérées seulement <DiscourseConnective annotation_id="20742">comme</DiscourseConnective> le début de la discussion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19081" docOffset="112">
+      <en>I do not know whether the Internet can be described as critical infrastructure according to the definition used by the Commission.</en>
+      <fr>Je ne sais pas <DiscourseConnective annotation_id="20790">si</DiscourseConnective> l'internet peut être décrit <DiscourseConnective annotation_id="20821">comme</DiscourseConnective> une infrastructure critique conformément <DiscourseConnective annotation_id="20868">à</DiscourseConnective> la définition utilisée par la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19212" docOffset="113">
+      <en>It is hard for me to know, <Alignment alignment="20934" annotation_id="19239">
+          <DiscourseConnective annotation_id="19239" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> a website was blocked in one country, would that mean that it was no longer critical infrastructure?</en>
+      <fr>J'ai du mal <DiscourseConnective annotation_id="20924">à</DiscourseConnective> savoir: <Alignment alignment="19239" annotation_id="20934">
+          <DiscourseConnective annotation_id="20934" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> un site internet était bloqué dans un pays, cela signifierait-il <DiscourseConnective annotation_id="21002">qu'</DiscourseConnective>il n'est plus une infrastructure critique?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19343" docOffset="114">
+      <en>One need only block the website of a large bank that has its headquarters, let us say, in Germany, France or Great Britain, <Alignment alignment="21186" annotation_id="19467">
+          <DiscourseConnective annotation_id="19467" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> all the residents of Europe will feel it.</en>
+      <fr>Il suffit simplement bloquer le site internet d'une grande banque qui a son siège, disons, <DiscourseConnective annotation_id="21139">en</DiscourseConnective> Allemagne, en France <DiscourseConnective annotation_id="21163">ou</DiscourseConnective> en Grande-Bretagne, <Alignment alignment="19467" annotation_id="21186">
+          <DiscourseConnective annotation_id="21186" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> tous les habitants de l'Europe le sentiront.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19513" docOffset="115">
+      <en>We are talking about the consolidation of the financial sector, the consolidation of economic activity, even the consolidation of hotel chains.</en>
+      <fr>Nous parlons de consolidation du secteur financier, de consolidation de l'activité économique, <DiscourseConnective annotation_id="21329">et même</DiscourseConnective> de consolidation des chaînes d'hôtels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19657" docOffset="116">
+      <en>
+        <Alignment alignment="21376" annotation_id="19657">
+          <Alignment alignment="21376" annotation_id="19657">
+            <Alignment alignment="21376" annotation_id="19657">
+              <DiscourseConnective annotation_id="19657" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, we have to acknowledge that critical infrastructure has spilled into cyberspace, <Alignment alignment="21486" annotation_id="19754">
+          <DiscourseConnective annotation_id="19754" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I believe that Estonia is the first country to have experienced elements of cyber-war.</en>
+      <fr>
+        <Alignment alignment="19657" annotation_id="21376">
+          <Alignment alignment="19657" annotation_id="21376">
+            <Alignment alignment="19657" annotation_id="21376">
+              <DiscourseConnective annotation_id="21376" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, nous devons reconnaître <DiscourseConnective annotation_id="21420">que</DiscourseConnective> l'infrastructure critique s'est répandue dans le cyberespace, <Alignment alignment="19754" annotation_id="21486">
+          <DiscourseConnective annotation_id="21486" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="21498">que</DiscourseConnective> l'Estonie est le premier pays <DiscourseConnective annotation_id="21532">à</DiscourseConnective> avoir expérimenté des éléments de la cyber-guerre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19845" docOffset="117">
+      <en>I regret that little attention has been paid to this, <Alignment alignment="21649" annotation_id="19899">
+          <DiscourseConnective annotation_id="19899" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> now this topic is getting beyond the scope of the concerns of the Commission Member responsible for communications.</en>
+      <fr>Je regrette <DiscourseConnective annotation_id="21597">qu'</DiscourseConnective>on ne porte pas une grande attention <DiscourseConnective annotation_id="21637">à</DiscourseConnective> ce sujet, <Alignment alignment="19899" annotation_id="21649">
+          <DiscourseConnective annotation_id="21649" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="21652">maintenant</DiscourseConnective> ce thème est <DiscourseConnective annotation_id="21676">en</DiscourseConnective> dehors des préoccupations du membre de la Commission responsable de la communication.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20019" docOffset="118">
+      <en>
+        <Alignment alignment="21765" annotation_id="20019">
+          <DiscourseConnective annotation_id="20019" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would like to say that this topic has to be highlighted from a security point of view, <Alignment alignment="21856" annotation_id="20117">
+          <DiscourseConnective annotation_id="20117" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is hard to imagine what the lives of European citizens would be like without the Internet.</en>
+      <fr>
+        <Alignment alignment="20019" annotation_id="21765">
+          <DiscourseConnective annotation_id="21765" sense="Comparison.Contrast">Pourtant</DiscourseConnective>
+        </Alignment>, je voudrais <DiscourseConnective annotation_id="21787">dire que</DiscourseConnective> ce sujet doit être souligné du point de vue de la sécurité, <Alignment alignment="20117" annotation_id="21856">
+          <DiscourseConnective annotation_id="21856" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il est difficile d'imaginer ce que serait la vie des citoyens européens <DiscourseConnective annotation_id="21937">sans</DiscourseConnective> l'internet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20219" docOffset="119">
+      <en>Whether the Internet is European or whether it belongs to one country we cannot say - it is a world-wide web, <Alignment alignment="22062" annotation_id="20329">
+          <DiscourseConnective annotation_id="20329" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> of course, to define how to protect the web from an attack that could be carried out at any minute is rather complicated <Alignment alignment="22192" annotation_id="20454">
+          <DiscourseConnective annotation_id="20454" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the level of debate has to be quite different.</en>
+      <fr>Nous ne pouvons pas dire <DiscourseConnective annotation_id="21979">si</DiscourseConnective> l'internet est européen <DiscourseConnective annotation_id="22006">ou</DiscourseConnective> <DiscourseConnective annotation_id="22009">si</DiscourseConnective> il appartient <DiscourseConnective annotation_id="22026">à</DiscourseConnective> un pays - c'est un réseau mondial <Alignment alignment="1134" annotation_id="22062">
+          <DiscourseConnective annotation_id="22062" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, bien sûr, il est assez difficile de définir comment protéger la toile d'une attaque qui pourrait être lancée <DiscourseConnective annotation_id="22175">à</DiscourseConnective> chaque instant <Alignment alignment="20454" annotation_id="22192">
+          <DiscourseConnective annotation_id="22192" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le niveau de débat doit être assez différent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20505" docOffset="120">
+      <en>We are presently talking mainly about physical infrastructure and, without a doubt, tragic scenes upset us, <Alignment alignment="22362" annotation_id="20613">
+          <DiscourseConnective annotation_id="20613" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> life is becoming ever more virtual <Alignment alignment="22408" annotation_id="20652">
+          <DiscourseConnective annotation_id="20652" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this needs attention.</en>
+      <fr>Nous parlons <DiscourseConnective annotation_id="22254">maintenant</DiscourseConnective> principalement d'infrastructure physique <DiscourseConnective annotation_id="22306">et</DiscourseConnective>, <DiscourseConnective annotation_id="22310">sans</DiscourseConnective> doute, des scènes tragiques nous bouleversent, <Alignment alignment="20613" annotation_id="22362">
+          <DiscourseConnective annotation_id="22362" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la vie devient <DiscourseConnective annotation_id="22382">de plus</DiscourseConnective> <DiscourseConnective annotation_id="22390">en plus</DiscourseConnective> virtuelle <Alignment alignment="20652" annotation_id="22408">
+          <DiscourseConnective annotation_id="22408" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il faut en tenir compte.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20678" id="202" name="Eva Lichtenberger">
+    <ParallelChunk annotation_id="20678" docOffset="121">
+      <en>on behalf of the Verts/ALE Group. - (DE) Mr President, Commissioner, ladies and gentlemen, no one in this House disputes that close cooperation between the Member States is very important and necessary for countering terrorist risks.</en>
+      <fr>Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="22493">et</DiscourseConnective> Messieurs, personne dans cette Assemblée ne remet en question le fait <DiscourseConnective annotation_id="22566">qu'</DiscourseConnective>une étroite coopération entre les États membres est très importante <DiscourseConnective annotation_id="22637">et</DiscourseConnective> nécessaire <DiscourseConnective annotation_id="22651">pour</DiscourseConnective> contrer les risques terroristes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20912" docOffset="122">
+      <en>Our criticism is of how this is to be done.</en>
+      <fr>Notre critique porte sur la façon dont cela doit être fait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20956" docOffset="123">
+      <en>More bureaucracy will not help us against terrorism!</en>
+      <fr>Plus de bureaucratie ne nous aidera pas à lutter conte le terrorisme!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21009" docOffset="124">
+      <en>I would like to thank the rapporteur for at least bringing the proposal back down to earth and greatly improving the Commission's version.</en>
+      <fr>Je voudrais remercier le rapporteur <DiscourseConnective annotation_id="22855">pour</DiscourseConnective> avoir <DiscourseConnective annotation_id="22866">au moins</DiscourseConnective> ramener la proposition sur terre <DiscourseConnective annotation_id="22908">et</DiscourseConnective> avoir énormément amélioré la version de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21148" docOffset="125">
+      <en>She has <Alignment alignment="22973" annotation_id="21156">
+          <DiscourseConnective annotation_id="21156" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> made a number of very practical suggestions.</en>
+      <fr>Elle a <Alignment alignment="21156" annotation_id="22973">
+          <DiscourseConnective annotation_id="22973" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> fait un certain nombre de suggestions très pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21206" docOffset="126">
+      <en>We are all agreed that improved cooperation and information are good things.</en>
+      <fr>Nous sommes tous d'accord <DiscourseConnective annotation_id="23063">qu'</DiscourseConnective>une meilleure coopération <DiscourseConnective annotation_id="23092">et</DiscourseConnective> information sont de bonnes choses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21283" docOffset="127">
+      <en>That can be done bilaterally or multilaterally.</en>
+      <fr>Cela peut se faire bilatéralement <DiscourseConnective annotation_id="23164">ou</DiscourseConnective> multilatéralement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21331" docOffset="128">
+      <en>
+        <Alignment alignment="23186" annotation_id="21331">
+          <DiscourseConnective annotation_id="21331" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> compiling a list of all at-risk infrastructures will bring no gains in terms of security and may even be counterproductive.</en>
+      <fr>
+        <Alignment alignment="21331" annotation_id="23186">
+          <DiscourseConnective annotation_id="23186" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> dresser une liste de toutes les infrastructures <DiscourseConnective annotation_id="23239">à</DiscourseConnective> risque ne nous fera rien gagner <DiscourseConnective annotation_id="23273">en</DiscourseConnective> termes de sécurité <DiscourseConnective annotation_id="23295">et</DiscourseConnective> pourrait <DiscourseConnective annotation_id="23307">même s'</DiscourseConnective>avérer contreproductif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21459" docOffset="129">
+      <en>In the end, <Alignment alignment="23357" annotation_id="21471">
+          <DiscourseConnective annotation_id="21471" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, competence lies with the Member States in any case, <Alignment alignment="23430" annotation_id="21532">
+          <DiscourseConnective annotation_id="21532" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there is no point at all in shifting it to the European level.</en>
+      <fr>
+        <DiscourseConnective annotation_id="23338">Au bout du compte</DiscourseConnective>, <Alignment alignment="21471" annotation_id="23357">
+          <DiscourseConnective annotation_id="23357" sense="Comparison.Contrast">pourtant</DiscourseConnective>
+        </Alignment>, la responsabilité incombe aux États membres <DiscourseConnective annotation_id="23411">dans tous les cas</DiscourseConnective>, <Alignment alignment="21532" annotation_id="23430">
+          <DiscourseConnective annotation_id="23430" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il ne fait aucun sens de la faire passer au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21599" docOffset="130">
+      <en>I hope that <Alignment alignment="23507" annotation_id="21611">
+          <DiscourseConnective annotation_id="21611" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we come to the vote tomorrow we will all proceed with the same realism <Alignment alignment="11496" annotation_id="21687">
+          <DiscourseConnective annotation_id="21687" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the rapporteur has shown and go on to secure what we now have: a sensible way forward that takes account of reality and fosters no illusions!</en>
+      <fr>J'espère <DiscourseConnective annotation_id="23503">que</DiscourseConnective> <Alignment alignment="21611" annotation_id="23507">
+          <DiscourseConnective annotation_id="23507" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous viendrons voter demain, nous procéderons tous avec le <DiscourseConnective annotation_id="23574">même</DiscourseConnective> réalisme <Alignment alignment="21687" annotation_id="23588">
+          <DiscourseConnective annotation_id="23588" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> le rapporteur <DiscourseConnective annotation_id="23606">et</DiscourseConnective> que nous continuerons <DiscourseConnective annotation_id="23631">à</DiscourseConnective> garantir ce que nous avons aujourd'hui: une façon de faire logique qui tient compte de la réalité <DiscourseConnective annotation_id="23731">et</DiscourseConnective> n'encourage pas les illusions!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21832" id="203" name="Erik Meijer">
+    <ParallelChunk annotation_id="21832" docOffset="131">
+      <en>on behalf of the GUE/NGL Group. - (NL) Mr President, those who already wanted more government pressure in the areas of the army, police, security services, all kinds of other control system and the prison system in the past have been able to reinforce their position since the turn of the century.</en>
+      <fr>Monsieur le Président, ceux qui voulaient <DiscourseConnective annotation_id="23807">déjà</DiscourseConnective>, dans le passé, davantage de pression gouvernementale dans les domaines de l'armée, de la police, des services de sécurité, et toutes sortes d'autres systèmes de contrôle <DiscourseConnective annotation_id="23983">et</DiscourseConnective> de système de prison ont réussi <DiscourseConnective annotation_id="24018">à</DiscourseConnective> renforcer leur position <DiscourseConnective annotation_id="24044">depuis</DiscourseConnective> le début du siècle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22130" docOffset="132">
+      <en>They can now refer to the advent of a new kind of terrorism, which, <DiscourseConnective annotation_id="22198" sense="Temporal.Synchrony">as</DiscourseConnective> it came as a shock to everyone, creates scope for ill-thought-out solutions.</en>
+      <fr>Ils peuvent <DiscourseConnective annotation_id="24083">maintenant</DiscourseConnective> s'appuyer sur l'apparition d'une nouvelle forme de terrorisme qui, ayant choqué tout le monde, laisse la place <DiscourseConnective annotation_id="24205">à</DiscourseConnective> des solutions immatures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22278" docOffset="133">
+      <en>At all administrative levels, proposals have been moved to subject democracy, the freedom of association, the freedom of demonstration, the right to strike, the freedom to travel and privacy to the proposed guarantees for security.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24232">À</DiscourseConnective> tous les niveaux administratifs, des propositions ont été avancées <DiscourseConnective annotation_id="24301">pour</DiscourseConnective> soumettre la démocratie, la liberté d'association, la liberté de manifestation, le droit de grève, la liberté de circulation <DiscourseConnective annotation_id="24431">et</DiscourseConnective> la vie privée aux garanties de sécurité proposées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22510" docOffset="134">
+      <en>The trouble with this line of attack is that it does nothing to remove the seedbed from which terrorism springs, including the utter inequality in wealth or power that divides the world.</en>
+      <fr>Le problème avec cette ligne d'attaque, c'est <DiscourseConnective annotation_id="24531">qu'</DiscourseConnective>elle ne fait rien <DiscourseConnective annotation_id="24552">pour</DiscourseConnective> supprimer le terreau sur lequel grandit le terrorisme, <DiscourseConnective annotation_id="24612">notamment</DiscourseConnective> la profonde inégalité des richesses <DiscourseConnective annotation_id="24658">ou</DiscourseConnective> des pouvoirs qui divise le monde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22697" docOffset="135">
+      <en>
+        <Alignment alignment="24695" annotation_id="22697">
+          <DiscourseConnective annotation_id="22697" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>
+        </Alignment>, we collect more intelligence, monitor more objects, organise more bureaucracy and bring about more displeasure.</en>
+      <fr>
+        <Alignment alignment="9619" annotation_id="24695">
+          <DiscourseConnective annotation_id="24695" sense="Expansion.Alternative.Chosen alternative">Au lieu de</DiscourseConnective>
+        </Alignment> cela, nous rassemblons plus d'informations, nous contrôlons plus d'objets, nous organisons plus de bureaucratie <DiscourseConnective annotation_id="24818">et</DiscourseConnective> nous engendrons plus de mécontentement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22818" docOffset="136">
+      <en>In the European Union, in the area of critical infrastructure, there are already 32 directives, regulations, treaties and decisions that make a European approach possible.</en>
+      <fr>Au sein de l'Union européenne, dans le domaine de l'infrastructure critique, il existe <DiscourseConnective annotation_id="24948">déjà</DiscourseConnective> 32 directives, règlements, traités <DiscourseConnective annotation_id="24988">et</DiscourseConnective> décisions qui rendent une approche européenne possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22990" docOffset="137">
+      <en>This is why adding a new directive with yet more powers and obligations has raised a few eyebrows.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25047">C'est pourquoi</DiscourseConnective> ajouter une nouvelle directive avec <DiscourseConnective annotation_id="25098">encore</DiscourseConnective> plus de pouvoirs <DiscourseConnective annotation_id="25122">et</DiscourseConnective> d'obligations a suscité quelques interrogations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23089" docOffset="138">
+      <en>In January, the committee for the subsidiarity test of the Dutch Parliament drew my attention to this very subject.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25174">En</DiscourseConnective> janvier, la commission <DiscourseConnective annotation_id="25200">pour</DiscourseConnective> le test de subsidiarité du parlement néerlandais a attiré mon attention sur ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23205" docOffset="139">
+      <en>This committee is calling into question Article 308 of the EC Treaty, which focuses on the interim enhancement of powers, as a legal basis, and considers the protection of critical infrastructure to be first of all a national affair.</en>
+      <fr>Cette commission remet <DiscourseConnective annotation_id="25314">en</DiscourseConnective> question l'article 308 du traité CE qui se concentre sur le renforcement provisoire des pouvoirs, <DiscourseConnective annotation_id="25415">comme</DiscourseConnective> base juridique, <DiscourseConnective annotation_id="25437">et</DiscourseConnective> considère la protection de l'infrastructure critique <DiscourseConnective annotation_id="25493">avant</DiscourseConnective> <DiscourseConnective annotation_id="25499">tout comme</DiscourseConnective> une prérogative nationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23439" docOffset="140">
+      <en>As shadow rapporteur on this subject in the Committee on Transport and Tourism, I was delighted to find that this committee decided to invite the Committee on Civil Liberties, Justice and Home Affairs to emphatically reject the proposal.</en>
+      <fr>En <DiscourseConnective annotation_id="25540">tant que</DiscourseConnective> rapporteur fictif sur ce sujet <DiscourseConnective annotation_id="25580">pour</DiscourseConnective> la commission des transports <DiscourseConnective annotation_id="25614">et</DiscourseConnective> du tourisme, j'ai été ravi d'apprendre <DiscourseConnective annotation_id="25656">que</DiscourseConnective> la commission avait décidé de demander à la commission des libertés civiles, de la justice <DiscourseConnective annotation_id="25751">et</DiscourseConnective> des affaires intérieures de rejeter catégoriquement la proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23677" docOffset="141">
+      <en>The main reason for this request was that everything that is in the draft Directive can be regulated more effectively on a smaller scale, <Alignment alignment="25996" annotation_id="23815">
+          <DiscourseConnective annotation_id="23815" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment> by the Member States or their regions.</en>
+      <fr>La principale raison de cette demande réside dans le fait <DiscourseConnective annotation_id="25880">que</DiscourseConnective> tout ce qui se trouve dans ce projet de directive peut être réglementé plus efficacement <DiscourseConnective annotation_id="25973">à</DiscourseConnective> plus petite échelle, <Alignment alignment="23815" annotation_id="25996">
+          <DiscourseConnective annotation_id="25996" sense="Expansion.Restatement">autrement dit</DiscourseConnective>
+        </Alignment> par les États membres <DiscourseConnective annotation_id="26032">ou</DiscourseConnective> leurs régions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23869" docOffset="142">
+      <en>In this case, more interference from the European Union means, above all, more unproductive bureaucracy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26050">Dans ce cas</DiscourseConnective>, plus d'ingérence de l'Union européenne signifie, <DiscourseConnective annotation_id="26112">avant</DiscourseConnective> tout, plus de bureaucratie improductive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23974" docOffset="143">
+      <en>Unfortunately, the groups that voted 'no' unanimously in the Committee on Transport were divided in the Committee on Civil Liberties, Justice and Home Affairs.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26159">Malheureusement</DiscourseConnective>, les groupes qui ont voté "non" à l'unanimité <DiscourseConnective annotation_id="26221">en</DiscourseConnective> commission des transports étaient divisés <DiscourseConnective annotation_id="26266">en</DiscourseConnective> commission des libertés civiles, de la justice <DiscourseConnective annotation_id="26316">et</DiscourseConnective> des affaires intérieures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24134" docOffset="144">
+      <en>My group was no different.</en>
+      <fr>C'était le cas pour mon groupe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24161" docOffset="145">
+      <en>Most smaller national delegations consider this to be a poor proposal, partly <Alignment alignment="26481" annotation_id="24239">
+          <DiscourseConnective annotation_id="24239" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> unnecessary interference obscures the division of tasks between the Member States and the Union, and partly <Alignment alignment="26594" annotation_id="24355">
+          <DiscourseConnective annotation_id="24355" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it may be used inappropriately in order to cut down on civil rights, such as the freedom of demonstration, by referring to the protection of infrastructure, in which case it does not affect international terrorism, but rather domestic democracy.</en>
+      <fr>La plupart des petites délégations nationales considèrent que c'est une mauvaise proposition, en partie <Alignment alignment="24239" annotation_id="26481">
+          <DiscourseConnective annotation_id="26481" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>une ingérence inutile obscurcit la division des tâches entre les États membres <DiscourseConnective annotation_id="26569">et</DiscourseConnective> l'Union, <DiscourseConnective annotation_id="26581">et</DiscourseConnective> en partie <Alignment alignment="24355" annotation_id="26594">
+          <DiscourseConnective annotation_id="26594" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle pourrait être utilisée de façon inappropriée pour limiter des droits civils <DiscourseConnective annotation_id="26684">comme</DiscourseConnective> la liberté de manifestation <DiscourseConnective annotation_id="26718">en</DiscourseConnective> prenant comme prétexte la protection de l'infrastructure, auquel cas cela ne concerne pas le terrorisme international, <DiscourseConnective annotation_id="26840">mais</DiscourseConnective> bien la démocratie intérieure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24609" docOffset="146">
+      <en>
+        <Alignment alignment="26876" annotation_id="24609">
+          <Alignment alignment="26876" annotation_id="24609">
+            <DiscourseConnective annotation_id="24609" sense="Comparison.Contrast">By contrast</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the members of our larger delegations from Germany and Italy <Alignment alignment="26960" annotation_id="24683">
+          <DiscourseConnective annotation_id="24683" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> see positive points in the proposal.</en>
+      <fr>
+        <Alignment alignment="24609" annotation_id="26876">
+          <Alignment alignment="24609" annotation_id="26876">
+            <DiscourseConnective annotation_id="26876" sense="Comparison.Contrast">En revanche</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les membres des plus grandes délégations allemande <DiscourseConnective annotation_id="26940">et</DiscourseConnective> italienne voient <Alignment alignment="24683" annotation_id="26960">
+          <DiscourseConnective annotation_id="26960" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des points positifs <DiscourseConnective annotation_id="26990">à</DiscourseConnective> cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24725" docOffset="147">
+      <en>They expect a reduction in the powers that are already being exercised by the Commission anyway and better parliamentary control of the application of the remaining powers.</en>
+      <fr>Elles s'attendent à une réduction des pouvoirs <DiscourseConnective annotation_id="27058">qu'</DiscourseConnective>exerce <DiscourseConnective annotation_id="27068">de toute façon</DiscourseConnective> <DiscourseConnective annotation_id="27083">déjà</DiscourseConnective> la Commission <DiscourseConnective annotation_id="27102">et</DiscourseConnective> à un meilleur contrôle parlementaire de la mise en œuvre des pouvoirs restants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24898" docOffset="148">
+      <en>Those in favour and against in my group applaud the fact that the amendments predominantly weaken the effect of the draft and confine the application to matters that affect at least three Member States.</en>
+      <fr>Ceux de mon groupe qui sont <DiscourseConnective annotation_id="27213">en</DiscourseConnective> faveur <DiscourseConnective annotation_id="27223">et</DiscourseConnective> contre cette proposition se félicitent <DiscourseConnective annotation_id="27265">du fait que</DiscourseConnective> les amendements affaiblissent essentiellement l'effet du projet <DiscourseConnective annotation_id="27341">et</DiscourseConnective> confine la mise en œuvre <DiscourseConnective annotation_id="27369">à</DiscourseConnective> des domaines qui concernent <DiscourseConnective annotation_id="27399">au moins</DiscourseConnective> trois États membres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25101" id="204" name="Christian Ehler">
+    <ParallelChunk annotation_id="25101" docOffset="149">
+      <en>(DE) Mr President, unlike the Committee on Industry, Research and Energy or the Committee on Economic and Monetary Affairs, the committee responsible, the Committee on Civil Liberties, Justice and Home Affairs, failed to recognise the importance of the European level for the protection of critical infrastructures.</en>
+      <fr>(DE) Monsieur le Président, contrairement à la commission de l'industrie, de la recherche <DiscourseConnective annotation_id="27519">et</DiscourseConnective> de l'énergie <DiscourseConnective annotation_id="27535">ou</DiscourseConnective> à la commission des affaires économiques <DiscourseConnective annotation_id="27579">et</DiscourseConnective> monétaires, la commission responsable, la commission des libertés civiles, de la justice <DiscourseConnective annotation_id="27671">et</DiscourseConnective> des affaires intérieures, n'a pas reconnu l'importance du niveau européen <DiscourseConnective annotation_id="27748">pour</DiscourseConnective> la protection des infrastructures critiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25417" docOffset="150">
+      <en>The focus is no longer on the protection of individual infrastructures but on the consideration of sectors.</en>
+      <fr>Ce n'est plus la protection des infrastructures individuelles qui est au centre des préoccupations, <DiscourseConnective annotation_id="27898">mais</DiscourseConnective> bien la considération des secteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25525" docOffset="151">
+      <en>I think the procedure proposed in the report lacks resolve.</en>
+      <fr>Je pense que la procédure proposée dans le rapport manque de fermeté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25585" docOffset="152">
+      <en>The added value that comes from including the European level has been almost completely abandoned.</en>
+      <fr>La valeur ajoutée qui découle de l'inclusion du niveau européen a été presque totalement abandonnée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25684" docOffset="153">
+      <en>It is clear that responsibility for critical infrastructures must rest with the Member States.</en>
+      <fr>Il est évident <DiscourseConnective annotation_id="28125">que</DiscourseConnective> la responsabilité des infrastructures critiques doit rester aux États-nations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25779" docOffset="154">
+      <en>
+        <Alignment alignment="28208" annotation_id="25779">
+          <DiscourseConnective annotation_id="25779" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="28219" annotation_id="25788">
+          <DiscourseConnective annotation_id="25788" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we leave designation entirely to the nation states we will not identify the weaknesses and structural dependencies, <Alignment alignment="28350" annotation_id="25907">
+          <DiscourseConnective annotation_id="25907" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is precisely what is needed for the designation of critical European infrastructures.</en>
+      <fr>
+        <Alignment alignment="25779" annotation_id="28208">
+          <DiscourseConnective annotation_id="28208" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1711" annotation_id="28219">
+          <DiscourseConnective annotation_id="28219" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous laissons la désignation aux seuls États membres, nous n'identifierons pas les faiblesses <DiscourseConnective annotation_id="28316">et</DiscourseConnective> les dépendances structurelles, <Alignment alignment="25907" annotation_id="28350">
+          <DiscourseConnective annotation_id="28350" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est <DiscourseConnective annotation_id="28359">précisément</DiscourseConnective> ce qu'il faut <DiscourseConnective annotation_id="28385">pour</DiscourseConnective> le classement des infrastructures critiques européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26002" docOffset="155">
+      <en>The idea that a list would be as good as a textbook for terrorist attacks is downright naïve.</en>
+      <fr>L'idée <DiscourseConnective annotation_id="28454">qu'</DiscourseConnective>une liste reviendrait presque à un manuel <DiscourseConnective annotation_id="28499">pour</DiscourseConnective> les attaques terroristes est tout <DiscourseConnective annotation_id="28538">simplement</DiscourseConnective> naïve.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26096" docOffset="156">
+      <en>The Member States have had such lists for a long time.</en>
+      <fr>Les États membres possèdent pareilles listes <DiscourseConnective annotation_id="28601">depuis</DiscourseConnective> longtemps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26151" docOffset="157">
+      <en>One of the most important structural errors was, <Alignment alignment="28679" annotation_id="26200">
+          <DiscourseConnective annotation_id="26200" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, not having checked those lists with NATO.</en>
+      <fr>L'une des erreurs structurelles les plus importantes a été, <Alignment alignment="15225" annotation_id="28679">
+          <DiscourseConnective annotation_id="28679" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, de ne pas avoir vérifié ces listes avec l'OTAN.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26255" docOffset="158">
+      <en>In the military sphere, NATO has had such lists of critical infrastructures for 40 years <Alignment alignment="28829" annotation_id="26344">
+          <DiscourseConnective annotation_id="26344" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> relevant scenarios have long been provided for in anticipation of military crises.</en>
+      <fr>Dans le domaine militaire, l'OTAN a des listes d'infrastructures critiques <DiscourseConnective annotation_id="28815">depuis</DiscourseConnective> 40 ans <Alignment alignment="26344" annotation_id="28829">
+          <DiscourseConnective annotation_id="28829" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des scénarios appropriés ont depuis longtemps été élaborés <DiscourseConnective annotation_id="28891">en</DiscourseConnective> prévision de crises militaires.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="26431" id="205" name="Inger Segelström">
+    <ParallelChunk annotation_id="26431" docOffset="159">
+      <en>(SV) I wish to begin by thanking the rapporteur for a constructive report and an efficient piece of work.</en>
+      <fr>(SV) Je voudrais commencer par remercier le rapporteur <DiscourseConnective annotation_id="28981">pour</DiscourseConnective> son rapport constructif <DiscourseConnective annotation_id="29010">et</DiscourseConnective> son travail efficace.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26537" docOffset="160">
+      <en>It feels <Alignment alignment="29045" annotation_id="26546">
+          <DiscourseConnective annotation_id="26546" sense="Expansion.Conjunction">as if</DiscourseConnective>
+        </Alignment> we in the Committee on Civil Liberties, Justice and Home Affairs are systematically wading through all those areas of society that have bearing on the terrorist threats to our citizens.</en>
+      <fr>On dirait <Alignment alignment="26546" annotation_id="29045">
+          <DiscourseConnective annotation_id="29045" sense="Expansion.Conjunction">que</DiscourseConnective>
+        </Alignment> nous, membres de la commission des libertés civiles, de la justice <DiscourseConnective annotation_id="29116">et</DiscourseConnective> des affaires intérieures, avançons systématiquement avec difficulté dans tous ces domaines de la société qui ont un rapport avec les menaces terroristes envers nos concitoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26738" docOffset="161">
+      <en>The President too addressed this issue today.</en>
+      <fr>Le président a <DiscourseConnective annotation_id="29311">également</DiscourseConnective> abordé cette question aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26784" docOffset="162">
+      <en>It is very important that we not look at each individual measure in isolation but review all areas together <Alignment alignment="29481" annotation_id="26892">
+          <DiscourseConnective annotation_id="26892" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we obtain common security regulations covering everything from visa regulations and security checks in aviation to better ways of protecting ourselves against the threats to airports, public transport and harbours and to the whole of the infrastructure which, because of the huge number of passengers involved, could be hit by a huge disaster <Alignment alignment="29893" annotation_id="27243">
+          <DiscourseConnective annotation_id="27243" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> a terrorist attack were to occur.</en>
+      <fr>Il est très important de ne pas se pencher sur chaque mesure individuellement, <DiscourseConnective annotation_id="29435">mais</DiscourseConnective> de considérer tous les domaines ensemble <Alignment alignment="19225" annotation_id="29481">
+          <DiscourseConnective annotation_id="29481" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>obtenir des réglementations de sécurité communes couvrant tout: des réglementations sur les visas <DiscourseConnective annotation_id="29586">et</DiscourseConnective> les contrôles de sécurité dans l'aviation aux meilleurs moyens de nous protéger contre les menaces pesant sur les aéroports, les transports publics <DiscourseConnective annotation_id="29737">et</DiscourseConnective> les ports <DiscourseConnective annotation_id="29750">et</DiscourseConnective> sur l'ensemble des infrastructures qui, du fait du grand nombre de passagers impliqués, pourraient être touchées par une grande catastrophe <Alignment alignment="27243" annotation_id="29893">
+          <DiscourseConnective annotation_id="29893" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> une attaque terroriste devait avoir lieu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27280" docOffset="163">
+      <en>The issue from the rapporteur's proposal that I wish to address is that of whether three or more Member States should have to be affected by disruption or destruction, <Alignment alignment="30120" annotation_id="27448">
+          <DiscourseConnective annotation_id="27448" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> whether it is enough that two be so affected.</en>
+      <fr>La question de la proposition du rapporteur <DiscourseConnective annotation_id="29982">que</DiscourseConnective> je voudrais soulever est celle de savoir <DiscourseConnective annotation_id="30027">si</DiscourseConnective> trois États membres <DiscourseConnective annotation_id="30050">ou</DiscourseConnective> plus doivent être concernés par la perturbation <DiscourseConnective annotation_id="30101">ou</DiscourseConnective> la destruction, <Alignment alignment="11370" annotation_id="30120">
+          <DiscourseConnective annotation_id="30120" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="30123">s'</DiscourseConnective>il est suffisant <DiscourseConnective annotation_id="30142">que</DiscourseConnective> deux États membres soient concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27497" docOffset="164">
+      <en>The rapporteur's proposal involves an increase to three Member States from the two referred to in the original proposal's directive.</en>
+      <fr>La proposition du rapporteur implique une augmentation <DiscourseConnective annotation_id="30238">à</DiscourseConnective> trois États membres par rapport aux deux mentionnés dans la proposition de directive initiale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27630" docOffset="165">
+      <en>I consider this increase to be unreasonable <Alignment alignment="30389" annotation_id="27674">
+          <DiscourseConnective annotation_id="27674" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> a threat, disaster or instance of devastation may affect a lot of people, despite few countries being involved.</en>
+      <fr>Je pense que cette augmentation n'est pas raisonnable <Alignment alignment="27674" annotation_id="30389">
+          <DiscourseConnective annotation_id="30389" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>une menace, une catastrophe <DiscourseConnective annotation_id="30426">ou</DiscourseConnective> un cas de dévastation peut concerner de nombreuses personnes, <DiscourseConnective annotation_id="30491">même si</DiscourseConnective> peu de pays sont impliqués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27794" docOffset="166">
+      <en>
+        <Alignment alignment="30527" annotation_id="27794">
+          <DiscourseConnective annotation_id="27794" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, the incident may make more impact on the place affected than it would have done on more centrally located places in the EU.</en>
+      <fr>
+        <Alignment alignment="27794" annotation_id="30527">
+          <DiscourseConnective annotation_id="30527" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, l'incident peut avoir plus d'impact sur le lieu concerné <DiscourseConnective annotation_id="30594">qu'</DiscourseConnective>il en aurait fait sur des lieux situés plus centralement dans l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27928" docOffset="167">
+      <en>This proposal makes it still more difficult to take account of smaller EU Member States, in spite of the fact that they are in danger of being hit by equally serious crises on just as large a scale.</en>
+      <fr>Cette proposition rend <DiscourseConnective annotation_id="30688">encore</DiscourseConnective> plus difficile de tenir compte des petits États membres européens, <DiscourseConnective annotation_id="30762">en dépit du fait qu'</DiscourseConnective>ils courent le même risque d'être touchés par de graves crises sur une tout <DiscourseConnective annotation_id="30858">aussi</DiscourseConnective> grande échelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28127" docOffset="168">
+      <en>I <Alignment alignment="30889" annotation_id="28129">
+          <DiscourseConnective annotation_id="28129" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> believe that <Alignment alignment="30903" annotation_id="28147">
+          <DiscourseConnective annotation_id="28147" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we plug the holes and make it more difficult to attack aviation, the terrorists will concentrate on other targets and on central locations within the infrastructure, to which a huge amount of damage can be caused.</en>
+      <fr>Je pense <Alignment alignment="17383" annotation_id="30889">
+          <DiscourseConnective annotation_id="30889" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="30899">que</DiscourseConnective> <Alignment alignment="28147" annotation_id="30903">
+          <DiscourseConnective annotation_id="30903" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> nous boucherons les trous <DiscourseConnective annotation_id="30935">et</DiscourseConnective> que nous rendrons les attaques contre l'aviation encore plus difficiles, les terroristes se concentreront sur d'autres cibles situées au centre d'infrastructures auxquelles ont peut faire de gros dégâts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28364" docOffset="169">
+      <en>We should not be naïve.</en>
+      <fr>Nous ne devons pas être naïfs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28388" docOffset="170">
+      <en>
+        <Alignment alignment="31185" annotation_id="28388">
+          <DiscourseConnective annotation_id="28388" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>
+        </Alignment>, we must be as well prepared <Alignment alignment="31209" annotation_id="28425">
+          <DiscourseConnective annotation_id="28425" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we possibly can be.</en>
+      <fr>Ne devrions <Alignment alignment="28388" annotation_id="31185">
+          <DiscourseConnective annotation_id="31185" sense="Expansion.Alternative.Chosen alternative">plutôt</DiscourseConnective>
+        </Alignment> être <DiscourseConnective annotation_id="31197">aussi</DiscourseConnective> prêts <Alignment alignment="11381" annotation_id="31209">
+          <DiscourseConnective annotation_id="31209" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28448" docOffset="171">
+      <en>That is our responsibility.</en>
+      <fr>C'est notre responsabilité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="28476" id="206" name="Marianne Mikko">
+    <ParallelChunk annotation_id="28476" docOffset="172">
+      <en>(ET) The cyber attacks against Estonia that took place in April and May of this year were the first such events that gained global attention.</en>
+      <fr>(<DiscourseConnective annotation_id="31252">ET</DiscourseConnective>) Les cyber-attaques contre l'Estonie qui ont eu lieu <DiscourseConnective annotation_id="31308">en</DiscourseConnective> avril <DiscourseConnective annotation_id="31317">et</DiscourseConnective> mai de cette année ont été les premiers évènements de ce genre qui ont attiré l'attention du monde entier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28618" docOffset="173">
+      <en>
+        <Alignment alignment="31427" annotation_id="28618">
+          <DiscourseConnective annotation_id="28618" sense="Comparison.Contrast">Yet</DiscourseConnective>
+        </Alignment> these were not the first attacks against the essential infrastructure of Europe.</en>
+      <fr>
+        <Alignment alignment="28618" annotation_id="31427">
+          <DiscourseConnective annotation_id="31427" sense="Comparison.Contrast">Pourtant</DiscourseConnective>
+        </Alignment>, ce n'étaient pas les premières attaques contre les infrastructures fondamentales de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28703" docOffset="174">
+      <en>Until now, cyber attacks had been directed against individual companies, primarily in the financial sector, where the Internet has become an indispensable environment for transactions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31531">Jusqu'à</DiscourseConnective> <DiscourseConnective annotation_id="31539">maintenant</DiscourseConnective>, les cyber-attaques étaient lancées contre des entreprises privées, principalement dans le secteur financier, où l'internet est devenu un environnement indispensable <DiscourseConnective annotation_id="31716">pour</DiscourseConnective> les transactions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28888" docOffset="175">
+      <en>For understandable reasons banks prefer not to make a lot of noise about attacks.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31739">Pour</DiscourseConnective> des raisons compréhensibles, les banques préfèrent ne pas trop parler de ces attaques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28970" docOffset="176">
+      <en>Lack of confidence in the reliability of banking systems would have serious consequences for the entire European economy.</en>
+      <fr>Un manque de confiance dans la fiabilité des systèmes bancaires aurait de graves conséquences <DiscourseConnective annotation_id="31925">pour</DiscourseConnective> toute l'économie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29092" docOffset="177">
+      <en>Fields of activity in which the Internet has become an essential part of infrastructure include public administration and the media.</en>
+      <fr>L'administration publique <DiscourseConnective annotation_id="31985">et</DiscourseConnective> les médias font partie des domaines d'activité dans lesquels l'internet a pris une place fondamentale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29225" docOffset="178">
+      <en>The inability to repulse a cyber attack could in the worst case scenario throw the European Union back in time to the last century.</en>
+      <fr>L'incapacité de contrer une cyber-attaque pourrait dans le pire des cas ramener l'Union européenne au siècle dernier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29357" docOffset="179">
+      <en>Imagine today, in the 21st century, a situation in which communication between ministries is interrupted, <Alignment alignment="32330" annotation_id="29463">
+          <DiscourseConnective annotation_id="29463" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> both the government and the media are unable to inform the public.</en>
+      <fr>Imaginez aujourd'hui, au XXIe siècle, une situation dans laquelle la communication entre les ministères est interrompue, <Alignment alignment="14812" annotation_id="32330">
+          <DiscourseConnective annotation_id="32330" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que tant les médias que le gouvernement ne peuvent <DiscourseConnective annotation_id="32384">en</DiscourseConnective> informer la population.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29534" docOffset="180">
+      <en>This is precisely what happened in Estonia, <Alignment alignment="32461" annotation_id="29578">
+          <DiscourseConnective annotation_id="29578" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mrs Starkevičiūtso correctly stated.</en>
+      <fr>C'est <DiscourseConnective annotation_id="32417">précisément</DiscourseConnective> ce qui s'est produit <DiscourseConnective annotation_id="32450">en</DiscourseConnective> Estonie <Alignment alignment="29578" annotation_id="32461">
+          <DiscourseConnective annotation_id="32461" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a si bien dit Mme Starkevičiūtė.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29618" docOffset="181">
+      <en>I would like to thank the rapporteur and emphasise her excellent timing.</en>
+      <fr>Je voudrais remercier le rapporteur <DiscourseConnective annotation_id="32538">et</DiscourseConnective> souligner son excellent à-propos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29691" docOffset="182">
+      <en>Cybersecurity is the best example of the need for cooperation in the defence of the essential infrastructure of the European Union.</en>
+      <fr>La cyber-sécurité est le meilleur exemple du besoin de coopération <DiscourseConnective annotation_id="32642">pour</DiscourseConnective> la défense des infrastructures fondamentales de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29823" docOffset="183">
+      <en>During this hitherto unique cyber attack against an independent state, Estonian IT specialists were supported by experts from both the European Union and beyond.</en>
+      <fr>Pendant cette cyber-attaque contre un État indépendant, qui reste jusqu'ici unique, les spécialistes en informatique estoniens ont été soutenus par des experts de l'Union européenne <DiscourseConnective annotation_id="32897">et</DiscourseConnective> au-delà.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29985" docOffset="184">
+      <en>May this cooperation be an example and a lesson in internal security to the responsible parties in all the Member States.</en>
+      <fr>
+        <DiscourseConnective annotation_id="32909">Que</DiscourseConnective> cette coopération <DiscourseConnective annotation_id="32931">soit</DiscourseConnective> un exemple <DiscourseConnective annotation_id="32947">et</DiscourseConnective> une leçon de sécurité intérieure <DiscourseConnective annotation_id="32983">pour</DiscourseConnective> les parties responsables dans tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30107" docOffset="185">
+      <en>Neither wealth nor military force can help repulse a cyber attack.</en>
+      <fr>Ni la richesse ni la force militaire ne peuvent aider à repousser une cyber-attaque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30174" docOffset="186">
+      <en>The only defence is cooperation.</en>
+      <fr>La seule défense est la coopération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30207" docOffset="187">
+      <en>Once again, many thanks to the rapporteur.</en>
+      <fr>Une fois <DiscourseConnective annotation_id="33173">encore</DiscourseConnective>, merci au rapporteur.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="30250" id="207" name="Franco Frattini">
+    <ParallelChunk annotation_id="30250" docOffset="188">
+      <en>Vice-President of the Commission. - (IT) Mr President, ladies and gentlemen, <Alignment alignment="33248" annotation_id="30327">
+          <DiscourseConnective annotation_id="30327" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> I am grateful to all the speakers, including the rapporteur, I am afraid I have a few concerns about accepting the rather restrictive approach that the Committee on Transport and Tourism has tried to put across.</en>
+      <fr>Monsieur le Président, Mesdames <DiscourseConnective annotation_id="33234">et</DiscourseConnective> Messieurs, <Alignment alignment="18691" annotation_id="33248">
+          <DiscourseConnective annotation_id="33248" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> je sois reconnaissant <DiscourseConnective annotation_id="33279">à</DiscourseConnective> tous les orateurs, y compris le rapporteur, j'ai bien peur d'avoir du mal <DiscourseConnective annotation_id="33355">à</DiscourseConnective> accepter l'approche assez restrictive <DiscourseConnective annotation_id="33395">que</DiscourseConnective> la commission des transports <DiscourseConnective annotation_id="33428">et</DiscourseConnective> du tourisme a essayé de présenter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30545" docOffset="189">
+      <en>
+        <Alignment alignment="33466" annotation_id="30545">
+          <DiscourseConnective annotation_id="30545" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> certain Members have rightly pointed out - Mrs Segelström was the last, <Alignment alignment="32358" annotation_id="30620">
+          <DiscourseConnective annotation_id="30620" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there were others - restricting the minimum threshold for defining a European infrastructure to just three or more Member States would, in my view, have two drawbacks, the first of which would be to prevent the smaller European Member States from taking part in the critical infrastructure protection programme.</en>
+      <fr>
+        <Alignment alignment="30545" annotation_id="33466">
+          <DiscourseConnective annotation_id="33466" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> certains membres l'ont justement souligné - Mme Segelström était la dernière, <Alignment alignment="30620" annotation_id="33550">
+          <DiscourseConnective annotation_id="33550" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il y en a eu d'autres -, limiter <DiscourseConnective annotation_id="33586">à</DiscourseConnective> seulement trois États membres <DiscourseConnective annotation_id="33618">ou</DiscourseConnective> plus le seuil minimum <DiscourseConnective annotation_id="33643">pour</DiscourseConnective> définir une infrastructure européenne aurait, selon moi, deux désavantages, dont le premier serait d'empêcher les petits États membres de prendre part au programme de protection de l'infrastructure critique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30936" docOffset="190">
+      <en>We, of course, want to avoid any such eventuality.</en>
+      <fr>Nous voulons bien sûr éviter une telle éventualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30987" docOffset="191">
+      <en>We want to offer all Member States that are potential targets for terrorist attacks a way of taking part in this European strategy.</en>
+      <fr>Nous voulons offrir à tous les États membres qui sont des cibles potentielles d'attaques terroristes une façon de participer <DiscourseConnective annotation_id="34033">à</DiscourseConnective> cette stratégie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31119" docOffset="192">
+      <en>I must <Alignment alignment="34071" annotation_id="31126">
+          <DiscourseConnective annotation_id="31126" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> raise objections to the restrictive attitude that is hostile to the idea that Europe should concern itself with a common infrastructure protection framework.</en>
+      <fr>Je dois <Alignment alignment="31126" annotation_id="34071">
+          <DiscourseConnective annotation_id="34071" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> soulever des objections envers l'attitude restrictive qui est hostile <DiscourseConnective annotation_id="34151">à</DiscourseConnective> l'idée <DiscourseConnective annotation_id="34160">que</DiscourseConnective> l'Europe devrait s'occuper d'un cadre commun de protection de l'infrastructure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31289" docOffset="193">
+      <en>This is not a matter of subsidiarity, which we are extremely careful to respect.</en>
+      <fr>Ce n'est pas une question de subsidiarité, <DiscourseConnective annotation_id="34287">que</DiscourseConnective> nous prenons soin de respecter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31370" docOffset="194">
+      <en>The problem is that infrastructures nowadays are closely interconnected, <Alignment alignment="41325" annotation_id="31443">
+          <DiscourseConnective annotation_id="31443" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the last speech by the Member from Estonia, who recalled the cyberattack on her country, provides the most obvious proof of that: it was an attack that affected an entire countrywide system.</en>
+      <fr>Le problème est <DiscourseConnective annotation_id="34339">que</DiscourseConnective>, de nos jours, les infrastructures sont étroitement interconnectées, <Alignment alignment="10828" annotation_id="34412">
+          <DiscourseConnective annotation_id="34412" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le dernier discours de la députée estonienne, qui a rappelé la cyber-attaque contre son pays, en fournit <DiscourseConnective annotation_id="34520">la preuve</DiscourseConnective> la plus évidente: il s'agissait d'une attaque qui concernait tout un système d'un pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31638" docOffset="195">
+      <en>Even <Alignment alignment="34618" annotation_id="31643">
+          <DiscourseConnective annotation_id="31643" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> only a single countrywide system was involved, can we have any doubt that that attack indirectly affected Estonia's entire network of relations with the other countries of Europe?</en>
+      <fr>
+        <Alignment alignment="31643" annotation_id="34618">
+          <DiscourseConnective annotation_id="34618" sense="Comparison.Contrast">Même si</DiscourseConnective>
+        </Alignment> seulement un seul système d'un pays a été touché, pouvons-nous avoir des doutes sur le fait <DiscourseConnective annotation_id="34718">que</DiscourseConnective> cette attaque ait touché indirectement le réseau entier de relations de l'Estonie avec d'autres pays européens?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31830" docOffset="196">
+      <en>
+        <Alignment alignment="34834" annotation_id="31830">
+          <DiscourseConnective annotation_id="31830" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the banking system of just one country is paralysed for a certain number of days, then one of the basic structures of the European Union is inevitably affected.</en>
+      <fr>
+        <Alignment alignment="31830" annotation_id="34834">
+          <DiscourseConnective annotation_id="34834" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> le système bancaire d'un seul pays est paralysé pendant un certain nombre de jours, l'une des structures de base de l'Union européenne est inévitablement affectée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31994" docOffset="197">
+      <en>I <Alignment alignment="57313" annotation_id="31996">
+          <DiscourseConnective annotation_id="31996" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe that the Commission's original proposal, for which I confirm my support, is better in that it provides a wider range of opportunities.</en>
+      <fr>Je pense <Alignment alignment="10512" annotation_id="35010">
+          <DiscourseConnective annotation_id="35010" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="35015">que</DiscourseConnective> la proposition initiale de la Commission, <DiscourseConnective annotation_id="35061">à</DiscourseConnective> laquelle je réitère mon soutien, est meilleure <DiscourseConnective annotation_id="35110">en</DiscourseConnective> ce <DiscourseConnective annotation_id="35116">qu'</DiscourseConnective>elle offre plus d'opportunités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32149" docOffset="198">
+      <en>With regard to cyberattacks, I do not rule out the possibility that terrorists may plan an attack on a countrywide system, such as a banking system, a ministry or an administration system: we are examining what happened in Estonia <Alignment alignment="35426" annotation_id="32380">
+          <DiscourseConnective annotation_id="32380" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> our information security agency will be producing a report after the summer.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35151">En</DiscourseConnective> ce qui concerne les cyber-attaques, je n'exclus pas la possibilité <DiscourseConnective annotation_id="35221">que</DiscourseConnective> les terroristes puissent prévoir une attaque contre un système de tout un pays, <DiscourseConnective annotation_id="35305">comme</DiscourseConnective> un système bancaire, ou celui d'un ministère <DiscourseConnective annotation_id="35356">ou</DiscourseConnective> d'une administration: nous examinons ce qui s'est passé <DiscourseConnective annotation_id="35415">en</DiscourseConnective> Estonie <Alignment alignment="32380" annotation_id="35426">
+          <DiscourseConnective annotation_id="35426" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> notre agence de sécurité de l'information fournira un rapport <DiscourseConnective annotation_id="35491">après</DiscourseConnective> l'été.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32461" docOffset="199">
+      <en>I obviously intend to publish its report <Alignment alignment="35556" annotation_id="32502">
+          <DiscourseConnective annotation_id="32502" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, leaving aside the analysis of this particular incident, we cannot rule out the possibility that terrorist organisations may be thinking of knocking out an entire countrywide system by means of a cyberattack.</en>
+      <fr>J'ai évidemment l'intention de publier son rapport, <Alignment alignment="32502" annotation_id="35556">
+          <DiscourseConnective annotation_id="35556" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, mis à part l'analyse de cet incident <DiscourseConnective annotation_id="35599">en particulier</DiscourseConnective>, nous ne pouvons pas exclure la possibilité <DiscourseConnective annotation_id="35658">que</DiscourseConnective> des organisations terroristes soient en train de penser à mettre à sac tout le système d'un pays au moyen d'une cyber-attaque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32715" docOffset="200">
+      <en>That is why I believe a <DiscourseConnective annotation_id="32739" sense="Expansion.Restatement">rather</DiscourseConnective> less restrictive interpretation is absolutely essential.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35789">C'est pourquoi</DiscourseConnective> je pense qu'une interprétation un peu moins restrictive est absolument nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32803" docOffset="201">
+      <en>To conclude, I once again thank the rapporteur and all the Members of this Parliament.</en>
+      <fr>En guise de conclusion, je remercie une fois <DiscourseConnective annotation_id="35932">encore</DiscourseConnective> le rapporteur <DiscourseConnective annotation_id="35953">et</DiscourseConnective> tous les membres de cette Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32890" docOffset="202">
+      <en>I believe that adopting a rigorous report on the initiatives undertaken by the Commission would show very clearly that we are concerned about prevention.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="36002">qu'</DiscourseConnective>adopter un rapport rigoureux sur les initiatives prises par la Commission montrerait très clairement <DiscourseConnective annotation_id="36106">que</DiscourseConnective> nous nous préoccupons de la prévention.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33044" docOffset="203">
+      <en>
+        <Alignment alignment="36150" annotation_id="33044">
+          <DiscourseConnective annotation_id="33044" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> someone rightly pointed out, the European Commission and the European Union's institutions have been acting to strengthen our policies on prevention ever since 2004.</en>
+      <fr>
+        <Alignment alignment="33044" annotation_id="36150">
+          <DiscourseConnective annotation_id="36150" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> quelqu'un l'a justement souligné, la Commission européenne <DiscourseConnective annotation_id="36215">et</DiscourseConnective> les institutions de l'Union européenne agissent <DiscourseConnective annotation_id="36266">pour</DiscourseConnective> renforcer nos politiques de prévention <DiscourseConnective annotation_id="36310">depuis</DiscourseConnective> 2004.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33213" docOffset="204">
+      <en>It is only by doing so that we can provide a truly effective and coordinated response to the threat of terrorism.</en>
+      <fr>Ce n'est <DiscourseConnective annotation_id="36332">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="36335">ainsi</DiscourseConnective> <DiscourseConnective annotation_id="36341">que</DiscourseConnective> nous pourrons avoir une réponse vraiment efficace <DiscourseConnective annotation_id="36395">et</DiscourseConnective> coordonnée <DiscourseConnective annotation_id="36409">à</DiscourseConnective> la menace terroriste.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="33327" id="208" name="President">
+    <ParallelChunk annotation_id="33327" docOffset="205">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33349" docOffset="206">
+      <en>The vote will take place tomorrow, 11 July 2007.</en>
+      <fr>Le vote aura lieu demain, le 11 juillet 2007.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="057" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, I am delighted to inform you that a delegation from the Japanese Parliament has arrived in the official gallery.</en>
+      <fr>(ES) Mesdames <DiscourseConnective annotation_id="36">et</DiscourseConnective> Messieurs, j'ai le plaisir de vous informer <DiscourseConnective annotation_id="83">qu'</DiscourseConnective>une délégation du parlement japonais est arrivée <DiscourseConnective annotation_id="135">à</DiscourseConnective> la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="143" docOffset="2">
+      <en>We would like to extend a warm welcome to them.</en>
+      <fr>Nous aimerions lui souhaiter chaleureusement la bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="191" docOffset="3">
+      <en>They are taking part in the 29th EP/Japan Interparliamentary Meeting that is being held in Brussels and Vienna from 2 to 6 June.</en>
+      <fr>Elle participe <DiscourseConnective annotation_id="234">à</DiscourseConnective> la 29e rencontre interparlementaire PE/Japon qui se tient <DiscourseConnective annotation_id="294">à</DiscourseConnective> Bruxelles <DiscourseConnective annotation_id="306">et</DiscourseConnective> à Vienne du 2 au 6 juin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="320" docOffset="4">
+      <en>The Japanese delegation is led by Mr Taro Nakayama, a great friend of Europe, and is made up of seven members of the House of Representatives and two members of the House of Councillors.</en>
+      <fr>La délégation japonaise est conduite par M. Taro Nakayama, grand ami de l'Europe, <DiscourseConnective annotation_id="416">et</DiscourseConnective> est composée de sept membres de la Chambre des représentants <DiscourseConnective annotation_id="480">et</DiscourseConnective> de deux membres de la Chambre des conseillers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="507" docOffset="5">
+      <en>This Interparliamentary Meeting has focused on climate change in order to promote a common approach based around the application of the Kyoto Protocol <Alignment alignment="713" annotation_id="658">
+          <DiscourseConnective annotation_id="658" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what will come after it.</en>
+      <fr>Cette rencontre interparlementaire s'est concentrée sur le changement climatique <DiscourseConnective annotation_id="611">dans le but de</DiscourseConnective> promouvoir une approche commune tournant autour de l'application du protocole de Kyoto <Alignment alignment="954" annotation_id="713">
+          <DiscourseConnective annotation_id="713" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de ce qui suivra.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="687" docOffset="6">
+      <en>We are very happy with this fruitful, stable and continued cooperation with Japan, a country with which we share the basic values of democracy, respect for human rights and the principle of multilateral cooperation.</en>
+      <fr>Nous sommes très heureux de notre coopération fructueuse, stable <DiscourseConnective annotation_id="799">et</DiscourseConnective> continue avec le Japon, un pays avec lequel nous partageons les valeurs fondamentales de démocratie, de respect des droits de l'homme <DiscourseConnective annotation_id="936">ainsi</DiscourseConnective> que le principe de coopération multilatérale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="903" docOffset="7">
+      <en>
+        <Alignment alignment="1004" annotation_id="903">
+          <DiscourseConnective annotation_id="903" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, welcome to our Japanese friends!</en>
+      <fr>Nous souhaitons <Alignment alignment="257" annotation_id="1004">
+          <DiscourseConnective annotation_id="1004" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> la bienvenue <DiscourseConnective annotation_id="1026">à</DiscourseConnective> nos amis japonais!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="947" docOffset="8">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

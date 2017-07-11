@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Direct insurance other than life assurance (implementing powers conferred on the Commission) (vote)</en>
+    <fr>Assurance directe autre <DiscourseConnective annotation_id="28">que</DiscourseConnective> l'assurance sur la vie (compétences d'exécution de la Commission) (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="104" docOffset="2">
+    <en>Report: Pervenche Berès</en>
+    <fr>- Rapport Pervenche Berès</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="128" docOffset="3">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="133">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="146" id="116" name="Pervenche Berès ">
+    <ParallelChunk annotation_id="146" docOffset="4">
+      <en>rapporteur. - (FR) Madam President, it is about an important dossier in the area of commitology. I shall not trouble the House for long, <Alignment alignment="186552" annotation_id="283">
+          <DiscourseConnective annotation_id="283" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I should like us to be able to vote against the first part of the European Parliament's amendment and in favour of the second part.</en>
+      <fr>rapporteur. - Madame la Présidente, <DiscourseConnective annotation_id="184">s'</DiscourseConnective>agissant d'un dossier important dans le domaine de la comitologie, je ne vais pas importuner longuement cette Assemblée, <Alignment alignment="283" annotation_id="307">
+          <DiscourseConnective annotation_id="307" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je voudrais que nous puissions voter contre la première partie de l'amendement du Parlement européen <DiscourseConnective annotation_id="413">et</DiscourseConnective> <DiscourseConnective annotation_id="416">pour</DiscourseConnective> la deuxième partie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="419" docOffset="5">
+      <en>I think all Members will have understood the importance of this vote.</en>
+      <fr>Je pense que tous les membres auront compris l'importance de ce vote.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="489" id="117" name="President">
+    <ParallelChunk annotation_id="489" docOffset="6">
+      <en>Thank you, Mrs Berès.</en>
+      <fr>Je vous remercie, Mme Berès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="511" docOffset="7">
+      <en>
+        <Alignment alignment="226" annotation_id="511">
+          <DiscourseConnective annotation_id="511" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> we are voting only on the second part.</en>
+      <fr>Nous votons <Alignment alignment="184" annotation_id="552">
+          <DiscourseConnective annotation_id="552" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> uniquement sur la deuxième partie.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 9.05 a.m.)</en>
+    <fr>(La séance est ouverte à 9 h 05)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="61" id="005" name="President">
+    <ParallelChunk annotation_id="61" docOffset="2">
+      <en>Ladies and gentlemen, I hope you will excuse the fact that I am a few minutes late.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="65">et</DiscourseConnective> Messieurs, j'espère que vous excuserez mon retard de quelques minutes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="145" docOffset="3">
+      <en>Our former fellow Member Otto von Habsburg is celebrating his 96th birthday today.</en>
+      <fr>Notre ancien collègue, M. Otto von Habsburg, fête aujourd'hui son 96e anniversaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="228" docOffset="4">
+      <en>He was a Member of the European Parliament from 1979 to 1999.</en>
+      <fr>Il a été député européen de 1979 <DiscourseConnective annotation_id="256">à</DiscourseConnective> 1999.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="290" docOffset="5">
+      <en>His attendance record and the quality of his work was an example to us all.</en>
+      <fr>Son assiduité <DiscourseConnective annotation_id="278">et</DiscourseConnective> la qualité de son travail furent un exemple <DiscourseConnective annotation_id="325">pour</DiscourseConnective> l'ensemble d'entre nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="366" docOffset="6">
+      <en>I have just spoken to him on the telephone, which is why I am a couple of minutes late, and have congratulated him warmly on behalf of all you - I hope I am allowed to do this - and, of course, on behalf of his political friends from Bavaria on reaching his 96th birthday.</en>
+      <fr>Je viens de lui parler au téléphone - c'est la raison pour laquelle j'ai quelques minutes de retard - <DiscourseConnective annotation_id="457">et</DiscourseConnective> je l'ai chaleureusement félicité au nom de vous tous - j'espère que vous ne m'en tiendrez pas rigueur - <DiscourseConnective annotation_id="564">ainsi</DiscourseConnective> qu'évidemment au nom de ses amis politiques bavarois <DiscourseConnective annotation_id="623">pour</DiscourseConnective> son 96e anniversaire.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

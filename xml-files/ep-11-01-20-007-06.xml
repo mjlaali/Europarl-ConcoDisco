@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>An EU Strategy for the Black Sea (</en>
+    <fr>Une stratégie de l'UE <DiscourseConnective annotation_id="25">pour</DiscourseConnective> la mer Noire (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="38" docOffset="2">
+    <en>Before the vote on paragraph 13:</en>
+    <fr>
+      <DiscourseConnective annotation_id="45">Avant</DiscourseConnective> le vote sur le paragraphe 13</fr>
+  </ParallelChunk>
+<Speaker annotation_id="71" id="159" name="Adrian Severin">
+    <ParallelChunk annotation_id="71" docOffset="3">
+      <en>Mr President, I would like to move an oral amendment to paragraph 13.</en>
+      <fr>(EN) Monsieur le Président, je souhaite déposer un amendement oral au paragraphe 13.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="141" docOffset="4">
+      <en>
+        <Alignment alignment="258907" annotation_id="141">
+          <DiscourseConnective annotation_id="141" sense="Temporal.Asynchronous.Succession">After</DiscourseConnective>
+        </Alignment> the second sentence, which reads, 'is convinced that an institutional dialogue bringing together the EU <Alignment alignment="263690" annotation_id="251">
+          <DiscourseConnective annotation_id="251" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the BSEC could constitute a step towards creating a genuine partnership in the region', I would suggest including the following sentence: 'to this end, calls for a joint working group between the European Parliament's Committee on Foreign Affairs and the Parliamentary Assembly of the BSEC to be established'. This would provide us with a proper instrument with which to put in place the general idea, which apparently is agreed.</en>
+      <fr>
+        <Alignment alignment="141" annotation_id="165">
+          <DiscourseConnective annotation_id="165" sense="Temporal.Asynchronous.Succession">Après</DiscourseConnective>
+        </Alignment> la deuxième phrase, dont le texte est: "est convaincu <DiscourseConnective annotation_id="225">qu'</DiscourseConnective>un dialogue institutionnel réunissant l'Union européenne <Alignment alignment="459" annotation_id="285">
+          <DiscourseConnective annotation_id="285" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'OCEMN pourrait constituer une étape vers la mise <DiscourseConnective annotation_id="339">en</DiscourseConnective> place d'un véritable partenariat dans la région", je propose d'ajouter la phrase suivante: "<DiscourseConnective annotation_id="434">à</DiscourseConnective> cette fin, appelle <DiscourseConnective annotation_id="455">à</DiscourseConnective> la création d'un groupe de travail commun entre la commission des affaires étrangères du Parlement européen <DiscourseConnective annotation_id="565">et</DiscourseConnective> l'assemblée parlementaire de l'OCEMN", ce qui nous fournirait un instrument adéquat pour mettre en place l'idée générale, ce qui est apparemment convenu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="685" docOffset="5">
+      <en>I have talked to the rapporteur, who seems to support and accept this amendment.</en>
+      <fr>J'ai parlé au rapporteur, qui semble soutenir <DiscourseConnective annotation_id="768">et</DiscourseConnective> retenir cet amendement.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

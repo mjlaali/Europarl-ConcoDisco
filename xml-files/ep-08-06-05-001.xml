@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 9 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 9 heures)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="58" docOffset="2">
+    <en>°</en>
+    <fr>°</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="60" docOffset="3">
+    <en>° °</en>
+    <fr>° °</fr>
+  </ParallelChunk>
+<Speaker annotation_id="64" id="005" name="Monica Frassoni">
+    <ParallelChunk annotation_id="64" docOffset="4">
+      <en>(IT) Madam President, ladies and gentlemen, <Alignment alignment="114" annotation_id="108">
+          <DiscourseConnective annotation_id="108" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, the ECURIE System - the European Community security system - was triggered yesterday following an undefined incident in a Slovenian nuclear power station.</en>
+      <fr>(IT) Madame la Présidente, mesdames <DiscourseConnective annotation_id="100">et</DiscourseConnective> messieurs, <Alignment alignment="108" annotation_id="114">
+          <DiscourseConnective annotation_id="114" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, le système ECURIE - le système de sécurité de la Communauté européenne - a été déclenché hier à la suite d'un incident non défini dans une centrale nucléaire slovène.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="276" docOffset="5">
+      <en>The alert was subsequently called off, <Alignment alignment="333" annotation_id="315">
+          <DiscourseConnective annotation_id="315" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> doubts persist as to the true nature of the incident and the reasons for this highly unusual alert.</en>
+      <fr>L'alerte a <DiscourseConnective annotation_id="313">ensuite</DiscourseConnective> été annulée <Alignment alignment="689" annotation_id="333">
+          <DiscourseConnective annotation_id="333" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> des doutes persistent <DiscourseConnective annotation_id="360">quant à</DiscourseConnective> la véritable nature de l'incident <DiscourseConnective annotation_id="402">et</DiscourseConnective> aux motifs de cette alerte tout à fait inhabituelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="419" docOffset="6">
+      <en>We <Alignment alignment="474" annotation_id="422">
+          <DiscourseConnective annotation_id="422" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> wish to make the most of the fact that the Commission will be present later on today, <Alignment alignment="474" annotation_id="518">
+          <DiscourseConnective annotation_id="518" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that Slovenia holds the presidency, to call upon the presidency and the Commission to inform the European Parliament, and hence the public, of the real reasons why this utterly abnormal procedure occurred.</en>
+      <fr>Nous souhaitons <Alignment alignment="422" annotation_id="474">
+          <DiscourseConnective annotation_id="474" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> profiter au maximum <DiscourseConnective annotation_id="509">du fait que</DiscourseConnective> la Commission sera présente <DiscourseConnective annotation_id="549">plus tard</DiscourseConnective> dans la journée, <Alignment alignment="136" annotation_id="576">
+          <DiscourseConnective annotation_id="576" sense="Expansion.Conjunction">ainsi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="582">que</DiscourseConnective> du fait que la Slovénie assume la Présidence, <DiscourseConnective annotation_id="632">pour</DiscourseConnective> inviter la Présidence <DiscourseConnective annotation_id="659">et</DiscourseConnective> la Commission <DiscourseConnective annotation_id="676">à</DiscourseConnective> expliquer au Parlement européen, <DiscourseConnective annotation_id="711">et</DiscourseConnective> <DiscourseConnective annotation_id="714">ainsi</DiscourseConnective> au grand public, les vraies raisons qui ont motivé le déclenchement de cette procédure totalement inhabituelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="728" docOffset="7">
+      <en>I should be grateful, Madam President, <Alignment alignment="1237" annotation_id="767">
+          <DiscourseConnective annotation_id="767" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you would act on this request.</en>
+      <fr>Je vous serais reconnaissante, Madame la Présidente, <Alignment alignment="767" annotation_id="885">
+          <DiscourseConnective annotation_id="885" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> vous pouviez donner suite <DiscourseConnective annotation_id="914">à</DiscourseConnective> cette requête.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="801" id="006" name="President">
+    <ParallelChunk annotation_id="801" docOffset="8">
+      <en>I think that the Slovenian Presidency, which will be here today, will come back to this request.</en>
+      <fr>(DE) Je pense <DiscourseConnective annotation_id="945">que</DiscourseConnective> la Présidence slovène, qui sera présente aujourd'hui, reviendra sur cette requête.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

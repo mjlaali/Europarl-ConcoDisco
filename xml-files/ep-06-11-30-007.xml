@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Approval of Minutes of previous sitting: see Minutes</en>
+    <fr>Approbation du procès-verbal de la séance précédente: cf. procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="53" id="065" name="Jacky Henin">
+    <ParallelChunk annotation_id="53" docOffset="1">
+      <en>(FR) Mr President, I should like to invoke the Rules of Procedure.</en>
+      <fr>Monsieur le Président, j'aimerais faire un rappel au règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="120" docOffset="2">
+      <en>A number of Members, including myself, are concerned.</en>
+      <fr>Un certain nombre de députés <DiscourseConnective annotation_id="165">et</DiscourseConnective> moi-même sommes inquiets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="174" docOffset="3">
+      <en>It seems that additional security measures have been taken in this House.</en>
+      <fr>Il semble <DiscourseConnective annotation_id="204">que</DiscourseConnective> des mesures de sécurité complémentaires aient été prises dans cette enceinte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="248" docOffset="4">
+      <en>Have you any information to give us, <Alignment alignment="184915" annotation_id="285">
+          <DiscourseConnective annotation_id="285" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> are these simply about scaring employees intending to take union action?</en>
+      <fr>Avez-vous des informations <DiscourseConnective annotation_id="313">à</DiscourseConnective> nous communiquer <Alignment alignment="285" annotation_id="332">
+          <DiscourseConnective annotation_id="332" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="335">s'</DiscourseConnective>agit-il <DiscourseConnective annotation_id="345">simplement</DiscourseConnective> d'effrayer des salariés qui entendent mener une action syndicale?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="361" id="066" name="President">
+    <ParallelChunk annotation_id="361" docOffset="5">
+      <en>I am not aware of any particular reason why there should be additional security measures, <Alignment alignment="543" annotation_id="451">
+          <DiscourseConnective annotation_id="451" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we shall check and inform the House.</en>
+      <fr>Je n'ai connaissance d'aucune raison particulière pour laquelle des mesures de sécurité complémentaires seraient prises, <Alignment alignment="451" annotation_id="543">
+          <DiscourseConnective annotation_id="543" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous nous renseignerons <DiscourseConnective annotation_id="572">et</DiscourseConnective> nous en informerons le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="492" docOffset="6">
+      <en>Thank you for that observation, Mr Henin.</en>
+      <fr>Je vous remercie <DiscourseConnective annotation_id="626">pour</DiscourseConnective> cette <DiscourseConnective annotation_id="637">remarque</DiscourseConnective>, Monsieur Henin.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

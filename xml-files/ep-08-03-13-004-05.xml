@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>The European Union's role in Iraq (</en>
+    <fr>Le rôle de l'Union européenne <DiscourseConnective annotation_id="33">en</DiscourseConnective> Irak (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+    <en>- After the vote on Amendment 10</en>
+    <fr>- <DiscourseConnective annotation_id="45">Après</DiscourseConnective> le vote sur l'amendement 10</fr>
+  </ParallelChunk>
+<Speaker annotation_id="72" id="077" name="Anna Záborská">
+    <ParallelChunk annotation_id="72" docOffset="3">
+      <en>(FR) Madam President, I should simply like to propose an oral amendment <Alignment alignment="170" annotation_id="144">
+          <DiscourseConnective annotation_id="144" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> follows: 'having regard to the Fourth Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, together with Additional Protocols I and II thereto, and particularly concerned at the violence suffered by humanitarian, medical and religious personnel in the performance of their duties'.</en>
+      <fr>(FR) - Madame la Présidente, je voudrais proposer <DiscourseConnective annotation_id="129">simplement</DiscourseConnective> un amendement oral qui se lit <Alignment alignment="144" annotation_id="170">
+          <DiscourseConnective annotation_id="170" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> suit: via la quatrième Convention de Genève du 12 août 1989 relative <DiscourseConnective annotation_id="245">à</DiscourseConnective> la protection des personnes civiles <DiscourseConnective annotation_id="283">en</DiscourseConnective> temps de guerre et ses protocoles annexes I <DiscourseConnective annotation_id="330">et</DiscourseConnective> II, est particulièrement préoccupé par les violences dont sont victimes les personnels humanitaires, sanitaires <DiscourseConnective annotation_id="445">et</DiscourseConnective> religieux dans l'exercice de leurs fonctions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="476" docOffset="4">
+      <en>That is the text of the amendment.</en>
+      <fr>C'est le texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="511" docOffset="5">
+      <en>I have consulted widely with colleagues from the various groups <DiscourseConnective annotation_id="575" sense="Expansion.Conjunction">and</DiscourseConnective> they have assured me that they will not obstruct my proposal.</en>
+      <fr>J'ai largement consulté nos collègues des différents groupes qui m'ont assuré de ne pas faire obstruction à ma proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="641" docOffset="6">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

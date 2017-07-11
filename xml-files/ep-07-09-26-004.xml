@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>The need for measures to protect the Roman Catholic Cathedral of St Joseph in Bucharest, Romania - an endangered historical and architectural monument (written declaration): see Minutes</en>
+    <fr>Nécessité d'adopter des mesures visant <DiscourseConnective annotation_id="39">à</DiscourseConnective> la protection d'un monument historique menacé, la cathédrale catholique romaine Saint-Joseph (Sfântul Iosif) de Bucarest (Roumanie)(déclaration écrite): voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="186" id="075" name="Reinhard Rack">
+    <ParallelChunk annotation_id="186" docOffset="1">
+      <en>(DE) Mr President, President Pöttering asked us yesterday to be on time for the vote.</en>
+      <fr>(DE) Monsieur le Président, le Président Pöttering nous a demandé hier d'être ponctuels pour l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="272" docOffset="2">
+      <en>Many of us tried, <Alignment alignment="373" annotation_id="290">
+          <DiscourseConnective annotation_id="290" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the lifts here in the building are not capable of bringing our colleagues down from the upper floors in time.</en>
+      <fr>Nous avons été nombreux <DiscourseConnective annotation_id="349">à</DiscourseConnective> faire notre possible, <Alignment alignment="290" annotation_id="373">
+          <DiscourseConnective annotation_id="373" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les ascenseurs ici dans le bâtiment ne permettent pas de transporter dans les temps nos collègues des étages supérieurs vers le bas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="404" docOffset="3">
+      <en>Perhaps something could be done about this, <Alignment alignment="565" annotation_id="448">
+          <DiscourseConnective annotation_id="448" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> the bell could be rung a bit earlier.</en>
+      <fr>Peut-être qu'il a un moyen de remédier à ce problème, <Alignment alignment="448" annotation_id="565">
+          <DiscourseConnective annotation_id="565" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> de faire retentir la sonnerie un peu plus tôt.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="489" id="076" name="President">
+    <ParallelChunk annotation_id="489" docOffset="4">
+      <en>Well, Mr Rack, do not worry: we did begin again at exactly 12 noon <Alignment alignment="691" annotation_id="556">
+          <DiscourseConnective annotation_id="556" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is now 12.04 p.m., <DiscourseConnective annotation_id="582" sense="Contingency.Cause.Result">so</DiscourseConnective> we are not doing too badly.</en>
+      <fr>
+        <DiscourseConnective annotation_id="615">Enfin</DiscourseConnective>, M. Rack, ne vous en faites donc pas: nous avons commencé <DiscourseConnective annotation_id="679">à</DiscourseConnective> midi pile <Alignment alignment="556" annotation_id="691">
+          <DiscourseConnective annotation_id="691" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il est 12 h 04 <DiscourseConnective annotation_id="709">maintenant</DiscourseConnective>, ce n'est pas si mal.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

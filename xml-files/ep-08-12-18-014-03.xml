@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Russia, attacks on Human Rights defenders and murder trial of Ana Politkovskaya (vote)</en>
+    <fr>Russie: agressions contre des défenseurs des droits de l'homme <DiscourseConnective annotation_id="66">et</DiscourseConnective> procès sur l'assassinat d'Anna Politkovskaya (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="90" docOffset="2">
+    <en>- Before the vote on paragraph 6</en>
+    <fr>- <DiscourseConnective annotation_id="123">Avant</DiscourseConnective> le vote sur le paragraphe 6</fr>
+  </ParallelChunk>
+<Speaker annotation_id="123" id="325" name="Michael Gahler">
+    <ParallelChunk annotation_id="123" docOffset="3">
+      <en>Madam President, in the first line we want to replace the words 'xenophobia' and homophobia' with 'violence', <Alignment alignment="287" annotation_id="233">
+          <DiscourseConnective annotation_id="233" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we think that the violence goes beyond xenophobia and homophobia and <DiscourseConnective annotation_id="310" sense="Expansion.Conjunction">also</DiscourseConnective> covers national minorities or religious minorities.</en>
+      <fr>(EN) Madame la Présidente, <DiscourseConnective annotation_id="184">à</DiscourseConnective> la première ligne, nous souhaitons remplacer les termes "xénophobie" <DiscourseConnective annotation_id="255">et</DiscourseConnective> "homophobie" par "violence", <Alignment alignment="32" annotation_id="287">
+          <DiscourseConnective annotation_id="287" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous pensons <DiscourseConnective annotation_id="304">que</DiscourseConnective> la violence va au-delà de la xénophobie <DiscourseConnective annotation_id="348">et</DiscourseConnective> de l'homophobie <DiscourseConnective annotation_id="367">et</DiscourseConnective> qu'elle englobe également les minorités nationales <DiscourseConnective annotation_id="421">ou</DiscourseConnective> religieuses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="367" docOffset="4">
+      <en>We would like to say 'trends of violence' in the first part, <Alignment alignment="517" annotation_id="428">
+          <DiscourseConnective annotation_id="428" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> later we refer to various other issues - nationality, religion and sexual orientation.</en>
+      <fr>Nous souhaiterions parler de "tendances <DiscourseConnective annotation_id="477">à</DiscourseConnective> la violence" dans la première partie, <Alignment alignment="0" annotation_id="517">
+          <DiscourseConnective annotation_id="517" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous renvoyons plus loin <DiscourseConnective annotation_id="546">à</DiscourseConnective> divers autres aspects - nationalité, religion <DiscourseConnective annotation_id="594">et</DiscourseConnective> orientation sexuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="523" docOffset="5">
+      <en>
+        <Alignment alignment="1806" annotation_id="523">
+          <DiscourseConnective annotation_id="523" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> they remain in the text, I think it would be too narrow to refer only to xenophobia and homophobia in the first line.</en>
+      <fr>
+        <Alignment alignment="523" annotation_id="619">
+          <DiscourseConnective annotation_id="619" sense="Temporal.Synchrony">Puisque</DiscourseConnective>
+        </Alignment> ceux-ci sont conservés dans le texte, je pense qu'il serait trop restreint de mentionner uniquement la xénophobie <DiscourseConnective annotation_id="741">et</DiscourseConnective> l'homophobie <DiscourseConnective annotation_id="757">à</DiscourseConnective> la première ligne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="644" docOffset="6">
+      <en>Could colleagues agree to the word 'violence' in the first line?</en>
+      <fr>Les collègues sont-ils d'accord avec l'utilisation du mot "violence" <DiscourseConnective annotation_id="847">à</DiscourseConnective> la première ligne?</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

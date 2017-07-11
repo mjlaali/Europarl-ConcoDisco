@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>8.</en>
+    <fr>8.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Economic Recovery Programme: energy projects (</en>
+    <fr>Programme d'aide à la relance économique par l'octroi d'une assistance financière communautaire à des projets dans le domaine de l'énergie (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="50" id="184" name="Reimer Böge">
+    <ParallelChunk annotation_id="50" docOffset="2">
+      <en>on behalf of the PPE-DE Group. - (DE) Madam President, <Alignment alignment="926" annotation_id="105">
+          <DiscourseConnective annotation_id="105" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> consulting briefly with the rapporteur, we agreed that paragraphs 2, 3 and 5 of the legislative resolution should be adjusted.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Madame la Présidente, <Alignment alignment="105" annotation_id="198">
+          <DiscourseConnective annotation_id="198" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> m'être entretenu brièvement avec le rapporteur, nous avons convenu <DiscourseConnective annotation_id="271">que</DiscourseConnective> les paragraphes 2, 3 <DiscourseConnective annotation_id="296">et</DiscourseConnective> 5 de la résolution législative devaient être ajustés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="238" docOffset="3">
+      <en>I would suggest the following English text for paragraph 2:</en>
+      <fr>Je suggère de reformuler le paragraphe 2 comme suit:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="298" docOffset="4">
+      <en>'Considers that the reference amount indicated in the legislative proposal is compatible with the multiannual financial framework <Alignment alignment="541" annotation_id="428">
+          <DiscourseConnective annotation_id="428" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the latter has been revised;'</en>
+      <fr>(EN) "considère <DiscourseConnective annotation_id="422">que</DiscourseConnective> le montant de référence indiqué dans la proposition législative est compatible avec le cadre financier pluriannuel <Alignment alignment="947" annotation_id="541">
+          <DiscourseConnective annotation_id="541" sense="Temporal.Synchrony">étant donné que</DiscourseConnective>
+        </Alignment> ce dernier a été révisé".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="461" docOffset="5">
+      <en>In paragraph 3, the first sentence should be deleted, the rest remaining unchanged: 'Recalls that any redeployment that would lead...' <DiscourseConnective annotation_id="596" sense="Expansion.Conjunction">and</DiscourseConnective> so on.</en>
+      <fr>La première phrase du paragraphe 3 devrait être supprimée, le reste étant inchangé: "rappelle <DiscourseConnective annotation_id="677">que</DiscourseConnective> tout redéploiement qui aurait une incidence défavorable sur d'autres politiques de l'Union Européenne en réduisant les crédits affectés à celles-ci doit être évité;", etc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="607" docOffset="6">
+      <en>Paragraph 5: 'Recalls that the legislative process has been completed after the financing of the programme has been agreed;'.</en>
+      <fr>Paragraphe 5: "prend note <DiscourseConnective annotation_id="879">du fait que</DiscourseConnective>, le financement du programme ayant été approuvé, la procédure législative peut désormais être menée à bien".</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

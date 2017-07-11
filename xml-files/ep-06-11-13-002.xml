@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Approval of Minutes of previous sitting</en>
+    <fr>Approbation du procès-verbal de la séance précédente</fr>
+  </ParallelChunk>
+<Speaker annotation_id="40" id="006" name="President">
+    <ParallelChunk annotation_id="40" docOffset="1">
+      <en>The Minutes of the sitting of 26 October 2006 have been distributed.</en>
+      <fr>Le procès-verbal de la séance du 26 octobre 2006 a été distribué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="109" docOffset="2">
+      <en>Does anyone wish to comment on them?</en>
+      <fr>Quelqu'un souhaite-t-il le commenter?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="146" id="007" name="Françoise Grossetête">
+    <ParallelChunk annotation_id="146" docOffset="3">
+      <en>(FR) Mr President, I would just like to point out that on Thursday I forgot to sign the attendance sheet <DiscourseConnective annotation_id="251" sense="Comparison.Contrast">However</DiscourseConnective>, I participated in all the roll-call votes at noon on Thursday and on Thursday evening.</en>
+      <fr>Monsieur le Président, je veux juste signaler <DiscourseConnective annotation_id="203">que</DiscourseConnective>, le jeudi, j'ai oublié de signer la feuille de présence mais j'ai participé <DiscourseConnective annotation_id="283">à</DiscourseConnective> tous les votes par appels nominaux du jeudi midi <DiscourseConnective annotation_id="334">et</DiscourseConnective> du jeudi soir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="347" id="008" name="President">
+    <ParallelChunk annotation_id="347" docOffset="4">
+      <en>Appropriate steps will be taken to make the necessary correction.</en>
+      <fr>Les mesures adéquates seront prises <DiscourseConnective annotation_id="388">pour</DiscourseConnective> apporter les corrections requises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="413" docOffset="5">
+      <en>(The Minutes of the previous sitting were approved)</en>
+      <fr>(Le procès-verbal de la précédente séance est approuvé)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

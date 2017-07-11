@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Announcement by the President</en>
+    <fr>Communication de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="30" id="072" name="President">
+    <ParallelChunk annotation_id="30" docOffset="1">
+      <en>Colleagues, <Alignment alignment="57" annotation_id="42">
+          <DiscourseConnective annotation_id="42" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you can see, two new information screens have been installed in the Chamber.</en>
+      <fr>(EN) Mes chers collègues, <Alignment alignment="317" annotation_id="57">
+          <DiscourseConnective annotation_id="57" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous pouvez le voir, deux nouveaux écrans d'information ont été installés dans l'Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="122" docOffset="2">
+      <en>They are larger and offer many more possibilities than the screens which have been replaced.</en>
+      <fr>Ils sont plus grands <DiscourseConnective annotation_id="176">et</DiscourseConnective> offrent bien plus de possibilités <DiscourseConnective annotation_id="213">que</DiscourseConnective> les écrans qui ont été remplacés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="215" docOffset="3">
+      <en>This is the first step in an ongoing project to improve the quality and the presentation of information concerning proceedings in the plenary, both for Members and the public.</en>
+      <fr>C'est la <DiscourseConnective annotation_id="260">première étape</DiscourseConnective> d'un projet en cours <DiscourseConnective annotation_id="296">afin d'</DiscourseConnective>améliorer la qualité <DiscourseConnective annotation_id="324">et</DiscourseConnective> la présentation des informations concernant les procédures plénières, tant <DiscourseConnective annotation_id="402">pour</DiscourseConnective> les membres que <DiscourseConnective annotation_id="423">pour</DiscourseConnective> le public.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="391" docOffset="4">
+      <en>
+        <Alignment alignment="439" annotation_id="391">
+          <Alignment alignment="346005" annotation_id="391">
+            <DiscourseConnective annotation_id="391" sense="Expansion.Restatement">In particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>, after each roll-call vote, a graphic overview of the Chamber will be briefly displayed, showing voting patterns across the House.</en>
+      <fr>
+        <Alignment alignment="524" annotation_id="439">
+          <Alignment alignment="391" annotation_id="439">
+            <DiscourseConnective annotation_id="439" sense="Expansion.Restatement">En particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, <DiscourseConnective annotation_id="455">après</DiscourseConnective> chaque vote par appel nominal, un aperçu graphique de l'Assemblée, qui sera brièvement affiché, indiquera la physionomie des votes à travers l'Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="536" docOffset="5">
+      <en>This new feature, familiar in many national parliaments, merely reflects information which is in any case published in detail in the 'Results of Votes' annex to the Minutes of the proceedings.</en>
+      <fr>Ce nouvel élément, que plusieurs parlements nationaux connaissent bien, reflètent <DiscourseConnective annotation_id="697">simplement</DiscourseConnective> les informations qui sont, <DiscourseConnective annotation_id="735">dans tous les cas</DiscourseConnective>, publiées de façon détaillée dans l'annexe des "Résultats des votes" du procès-verbal des délibérations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="729" docOffset="6">
+      <en>
+        <Alignment alignment="858" annotation_id="729">
+          <DiscourseConnective annotation_id="729" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, further to a decision by Parliament's Bureau yesterday evening, the Conference of Presidents, in their sublime wisdom, will decide on Thursday <Alignment alignment="1033" annotation_id="881">
+          <DiscourseConnective annotation_id="881" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the group chairs wish to make use of this aspect of the system on a permanent basis in the future.</en>
+      <fr>
+        <Alignment alignment="729" annotation_id="858">
+          <DiscourseConnective annotation_id="858" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, suite <DiscourseConnective annotation_id="875">à</DiscourseConnective> une décision du Bureau du Parlement prise hier soir, la Conférence des Présidents prendra sa décision jeudi, <DiscourseConnective annotation_id="986">en</DiscourseConnective> faisant preuve d'une sagesse sans pareille, <Alignment alignment="881" annotation_id="1033">
+          <DiscourseConnective annotation_id="1033" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les présidents de groupes souhaitent faire régulièrement usage de cet aspect du système à l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="983" docOffset="7">
+      <en>In the mean time, political groups were consulted this morning and agreed to permit the use of this graphic display on an experimental basis at our voting session this morning.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1136">En attendant</DiscourseConnective>, les groupes politiques ont été consultés ce matin <DiscourseConnective annotation_id="1200">et</DiscourseConnective> ont accepté que <DiscourseConnective annotation_id="1219">soit</DiscourseConnective> autorisé l'usage de cet affichage graphique <DiscourseConnective annotation_id="1268">à</DiscourseConnective> titre expérimental lors de notre session de vote ce matin.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

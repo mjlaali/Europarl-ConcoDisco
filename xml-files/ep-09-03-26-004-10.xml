@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Strengthening security and fundamental freedoms on the Internet (</en>
+    <fr>Renforcement de la sécurité <DiscourseConnective annotation_id="32">et</DiscourseConnective> des libertés fondamentales sur Internet (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="70" docOffset="2">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="79">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="88" id="093" name="Stavros Lambrinidis">
+    <ParallelChunk annotation_id="88" docOffset="3">
+      <en>rapporteur. - Mr President, I am grateful to everyone for their support.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je remercie tous les membres <DiscourseConnective annotation_id="164">pour</DiscourseConnective> leur soutien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="161" docOffset="4">
+      <en>There is just one slight point of confusion for me.</en>
+      <fr>Il y a juste un point qui me semble un peu confus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="213" docOffset="5">
+      <en>The oral amendment is on the voting list <Alignment alignment="105" annotation_id="254">
+          <DiscourseConnective annotation_id="254" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> nobody stood up to support it.</en>
+      <fr>L'amendement oral figure sur la liste de vote, <Alignment alignment="168" annotation_id="281">
+          <DiscourseConnective annotation_id="281" sense="Comparison.Contrast">or</DiscourseConnective>
+        </Alignment> personne ne s'est levé <DiscourseConnective annotation_id="307">pour</DiscourseConnective> le soutenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="289" docOffset="6">
+      <en>Does that mean that it fell and did not come to the vote at all?</en>
+      <fr>Cela signifie-t-il qu'il est caduc <DiscourseConnective annotation_id="360">et</DiscourseConnective> qu'il n'a pas été soumis au vote?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="354" docOffset="7">
+      <en>Is that correct?</en>
+      <fr>Est-ce bien correct?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="371" id="094" name="President">
+    <ParallelChunk annotation_id="371" docOffset="8">
+      <en>I can confirm that, <Alignment alignment="304" annotation_id="391">
+          <DiscourseConnective annotation_id="391" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> an oral amendment is to be adopted, it must be expressed orally, which has not been the case, in spite of my request.</en>
+      <fr>Je vous le confirme, <Alignment alignment="391" annotation_id="439">
+          <DiscourseConnective annotation_id="439" sense="Contingency.Condition">pour qu'</DiscourseConnective>
+        </Alignment>un amendement oral <DiscourseConnective annotation_id="466">soit</DiscourseConnective> adopté, il faut qu'il <DiscourseConnective annotation_id="493">soit</DiscourseConnective> oralement exprimé, ce qui n'a pas été le cas malgré ma demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="512" docOffset="9">
+      <en>You have <Alignment alignment="176353" annotation_id="521">
+          <DiscourseConnective annotation_id="521" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> understood perfectly.</en>
+      <fr>
+        <Alignment alignment="122" annotation_id="562">
+          <DiscourseConnective annotation_id="562" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, vous avez parfaitement compris.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>51.</en>
+    <fr>51.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>The EU strategy for relations with Latin America (</en>
+    <fr>La stratégie européenne <DiscourseConnective annotation_id="28">pour</DiscourseConnective> les relations avec l'Amérique latine (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="55" id="084" name="Inés Ayala Sender">
+    <ParallelChunk annotation_id="55" docOffset="2">
+      <en>(ES) Mr President, it seems to me that we have not voted on discharge for the Economic and Social Committee.</en>
+      <fr>(ES) Monsieur le Président, il me semble <DiscourseConnective annotation_id="113">que</DiscourseConnective> nous n'avons pas voté sur la décharge <DiscourseConnective annotation_id="155">pour</DiscourseConnective> le Comité économique <DiscourseConnective annotation_id="181">et</DiscourseConnective> social.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="164" docOffset="3">
+      <en>I may be wrong, <Alignment alignment="85558" annotation_id="180">
+          <DiscourseConnective annotation_id="180" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I think we have gone directly on to the Committee of the Regions.</en>
+      <fr>Je peux me tromper, <Alignment alignment="62" annotation_id="212">
+          <DiscourseConnective annotation_id="212" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il me semble que nous sommes passés directement au Comité des régions.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

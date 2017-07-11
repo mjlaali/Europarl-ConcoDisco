@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Agency for the Cooperation of Energy Regulators (</en>
+    <fr>Agence de coopération des régulateurs de l'énergie (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="53" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="58">avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="72" id="123" name="Silvia-Adriana Ţicău">
+    <ParallelChunk annotation_id="72" docOffset="3">
+      <en>(FR) Mr President, I would like to ask for a separate vote on Amendment 18 <Alignment alignment="161" annotation_id="147">
+          <DiscourseConnective annotation_id="147" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it deals with the Agency's seat.</en>
+      <fr>(FR) Monsieur le Président, je voudrais demander un vote séparé <DiscourseConnective annotation_id="137">pour</DiscourseConnective> l'amendement n° 18 <Alignment alignment="147" annotation_id="161">
+          <DiscourseConnective annotation_id="161" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il s'agit du siège de l'Agence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="188" docOffset="4">
+      <en>I am <DiscourseConnective annotation_id="193" sense="Contingency.Cause.Result">thus</DiscourseConnective> calling for a separate vote.</en>
+      <fr>Je demande un vote séparé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="227" id="124" name="Giles Chichester">
+    <ParallelChunk annotation_id="227" docOffset="5">
+      <en>rapporteur. - Mr President, I object to this request.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, je m'oppose <DiscourseConnective annotation_id="278">à</DiscourseConnective> cette demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="281" docOffset="6">
+      <en>This report is a package which has been agreed amongst the groups.</en>
+      <fr>Ce rapport est un paquet convenu par les groupes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="348" docOffset="7">
+      <en>I do not think it is appropriate to make a request after the deadline and to open up the package in this way, <Alignment alignment="468" annotation_id="458">
+          <DiscourseConnective annotation_id="458" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I ask my colleagues to join me in objecting to this.</en>
+      <fr>Je ne pense pas qu'il <DiscourseConnective annotation_id="367">soit</DiscourseConnective> approprié de faire une demande une fois le délai écoulé <DiscourseConnective annotation_id="428">et</DiscourseConnective> d'ouvrir <DiscourseConnective annotation_id="440">ainsi</DiscourseConnective> le paquet. Je demande <Alignment alignment="109" annotation_id="468">
+          <DiscourseConnective annotation_id="468" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> à mes collègues de se joindre à moi <DiscourseConnective annotation_id="509">pour</DiscourseConnective> m'y opposer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="514" docOffset="8">
+      <en>(Parliament rejected the request)</en>
+      <fr>(Le Parlement rejette la demande)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

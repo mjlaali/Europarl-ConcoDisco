@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="010" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Today, it is my honour to welcome a delegation of the Pan-African Parliament to our Parliament.</en>
+      <fr>J'ai aujourd'hui l'honneur d'accueillir au sein de notre Parlement une délégation du Parlement panafricain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="104" docOffset="2">
+      <en>
+        <Alignment alignment="781" annotation_id="104">
+          <DiscourseConnective annotation_id="104" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you all know, the Pan-African Parliament is to the African Union what the European Parliament is to the European Union.</en>
+      <fr>
+        <Alignment alignment="104" annotation_id="130">
+          <DiscourseConnective annotation_id="130" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, le Parlement panafricain est <DiscourseConnective annotation_id="180">à</DiscourseConnective> l'Union africaine ce que le Parlement européen est <DiscourseConnective annotation_id="233">à</DiscourseConnective> l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="227" docOffset="3">
+      <en>I am particularly pleased to welcome Mr Khumalo and his parliamentary colleagues here today, <Alignment alignment="361" annotation_id="320">
+          <DiscourseConnective annotation_id="320" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it gives me an opportunity to thank him and his colleagues, and thereby also the President of the Pan-African Parliament, Mrs Mongella, for the welcome I received in October 2008, during my visit to the Pan-African Parliament, as well as for the invitation to speak at the plenary session of the Pan-African Parliament.</en>
+      <fr>Je suis particulièrement heureux d'accueillir ici aujourd'hui M. Khumalo <DiscourseConnective annotation_id="328">et</DiscourseConnective> ses collègues parlementaires, <Alignment alignment="511" annotation_id="361">
+          <DiscourseConnective annotation_id="361" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> cela me donne l'occasion de les remercier, de même que la Présidente du Parlement panafricain, Mme Mongella, <DiscourseConnective annotation_id="474">pour</DiscourseConnective> l'accueil reçu <DiscourseConnective annotation_id="494">en</DiscourseConnective> octobre 2008 lors de ma visite au Parlement panafricain <DiscourseConnective annotation_id="553">ainsi</DiscourseConnective> que <DiscourseConnective annotation_id="563">pour</DiscourseConnective> leur invitation <DiscourseConnective annotation_id="584">à</DiscourseConnective> prendre la parole lors de la session plénière du Parlement panafricain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="643" docOffset="4">
+      <en>Once again, I would like to sincerely bid you all welcome. I am very happy that you are here with us today.</en>
+      <fr>Je vous souhaite donc tous sincèrement la bienvenue et suis très heureux de votre présence parmi nous aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="751" docOffset="5">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

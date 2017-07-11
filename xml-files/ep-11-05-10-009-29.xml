@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>29.</en>
+    <fr>29.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Defence of the parliamentary immunity of Mr Luigi de Magistris (</en>
+    <fr>Défense de l'immunité parlementaire de Luigi de Magistris (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="69" id="113" name="Sergio Paolo Francesco Silvestris">
+    <ParallelChunk annotation_id="69" docOffset="2">
+      <en>(IT) Madam President, I should like to have something clarified.</en>
+      <fr>(IT) Madame la Présidente, je voudrais obtenir un éclaircissement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="134" docOffset="3">
+      <en>I should like to know whether the vote we are about to take is the result of an automatic procedure or of a specific request made by Mr de Magistris, who has earned a reputation over the years for attacking the privileges of politicians, saying they should defend themselves in court and not seek loopholes to avoid it.</en>
+      <fr>Le vote auquel nous allons procéder procède-t-il d'une procédure automatique <DiscourseConnective annotation_id="208">ou</DiscourseConnective> intervient-il <DiscourseConnective annotation_id="225">à</DiscourseConnective> la suite d'une demande expresse de M. de Magistris, qui s'est acquis une réputation, au fil des ans, <DiscourseConnective annotation_id="328">pour</DiscourseConnective> remettre en question les privilèges des mandataires politiques, dont il juge qu'ils devraient se défendre <DiscourseConnective annotation_id="439">en</DiscourseConnective> justice, <DiscourseConnective annotation_id="451">plutôt que de</DiscourseConnective> chercher les failles <DiscourseConnective annotation_id="486">afin d'</DiscourseConnective>éviter les tribunaux?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="454" docOffset="4">
+      <en>Essentially, I should like to know whether Mr de Magistris asked for immunity <Alignment alignment="351285" annotation_id="532">
+          <DiscourseConnective annotation_id="532" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> whether this is an automatic procedure.</en>
+      <fr>Je voudrais vraiment savoir <DiscourseConnective annotation_id="543">si</DiscourseConnective> M. de Magistris a invoqué son immunité <Alignment alignment="3" annotation_id="585">
+          <DiscourseConnective annotation_id="585" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="588">si</DiscourseConnective> la procédure est automatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="575" docOffset="5">
+      <en>Madam President, please can you clarify this issue, <Alignment alignment="814" annotation_id="627">
+          <DiscourseConnective annotation_id="627" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> <Alignment alignment="1301" annotation_id="635">
+          <DiscourseConnective annotation_id="635" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Mr de Magistris is seeking to avoid trial ...</en>
+      <fr>Pourriez-vous, Madame la Présidente, vous assurer de ce point, <Alignment alignment="627" annotation_id="684">
+          <DiscourseConnective annotation_id="684" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> <Alignment alignment="635" annotation_id="688">
+          <DiscourseConnective annotation_id="688" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> M. de Magistris cherche <DiscourseConnective annotation_id="715">à</DiscourseConnective> éviter un procès...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="684" docOffset="6">
+      <en>(The President cut off the speaker)</en>
+      <fr>(La Présidente retire la parole à l'orateur)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="720" id="114" name="President">
+    <ParallelChunk annotation_id="720" docOffset="7">
+      <en>Mr Silvestris, may I respond?</en>
+      <fr>M'autorisez-vous à répondre, Monsieur Silvestris?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="750" docOffset="8">
+      <en>You asked <Alignment alignment="1881" annotation_id="760">
+          <DiscourseConnective annotation_id="760" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Mr de Magistris requested immunity <Alignment alignment="890" annotation_id="798">
+          <DiscourseConnective annotation_id="798" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> <Alignment alignment="359810" annotation_id="801">
+          <DiscourseConnective annotation_id="801" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is an automatic procedure?</en>
+      <fr>Vous avez demandé <Alignment alignment="707" annotation_id="850">
+          <DiscourseConnective annotation_id="850" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> M. de Magistris a invoqué l'immunité <Alignment alignment="129" annotation_id="890">
+          <DiscourseConnective annotation_id="890" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <Alignment alignment="660" annotation_id="893">
+          <DiscourseConnective annotation_id="893" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> la procédure est automatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="834" docOffset="9">
+      <en>Who did you ask?</en>
+      <fr>À qui l'avez-vous demandé?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="851" docOffset="10">
+      <en>I am told that Mr de Magistris requested the defence of his immunity.</en>
+      <fr>On me communique <DiscourseConnective annotation_id="970">que</DiscourseConnective> M. de Magistris a sollicité la défense de son immunité.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

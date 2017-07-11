@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Composition of committees: see Minutes</en>
+    <fr>Composition des commissions: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="39" id="272" name="Bernd Posselt">
+    <ParallelChunk annotation_id="39" docOffset="1">
+      <en>(DE) Mr President, my apologies <Alignment alignment="79" annotation_id="71">
+          <DiscourseConnective annotation_id="71" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, throughout the course of the day, I have listened to a right-wing Hungarian extremist speak about Hungary under every item.</en>
+      <fr>(DE) Monsieur le Président, je suis désolé, <Alignment alignment="71" annotation_id="92">
+          <DiscourseConnective annotation_id="92" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> au cours de la journée, j'ai écouté un député hongrois de l'extrême droite s'exprimer au sujet de la Hongrie lors de chaque débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="200" docOffset="2">
+      <en>Please could you point out that we have an agenda with separate items.</en>
+      <fr>Pourriez-vous, s'il vous plaît, signaler <DiscourseConnective annotation_id="269">que</DiscourseConnective> nous avons un ordre du jour composé de points séparés?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="271" docOffset="3">
+      <en>Perhaps the Member is unaware of that.</en>
+      <fr>Cette députée ne le sait peut-être pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="310" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="321" id="273" name="President">
+    <ParallelChunk annotation_id="321" docOffset="5">
+      <en>Unfortunately, the Member is not present.</en>
+      <fr>
+        <DiscourseConnective annotation_id="387">Malheureusement</DiscourseConnective>, cette députée n'est pas présente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="363" docOffset="6">
+      <en>I assume that she will take note of your comment.</en>
+      <fr>Je suppose <DiscourseConnective annotation_id="449">qu'</DiscourseConnective>elle prendra note de votre <DiscourseConnective annotation_id="479">remarque</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

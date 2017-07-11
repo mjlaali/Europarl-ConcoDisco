@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="013" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>Ladies and gentlemen, the ability to speak openly is not something to be taken for granted.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="38">et</DiscourseConnective> Messieurs, la possibilité de parler librement ne doit pas être perçue comme allant de soi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="119" docOffset="2">
+      <en>I am sure that you have all heard about the terrible murder, on 19 January, of the Armenian-Turkish journalist Hrant Dink, who had, over recent years, frequently drawn attention to himself with his calls for engagement with the history of the Armenians under Ottoman rule, attracting the hostility of many nationalists and being repeatedly prosecuted by the Turkish justice system on account of what he wrote and said.</en>
+      <fr>Je suis sûr <DiscourseConnective annotation_id="144">que</DiscourseConnective> vous avez tous entendu parler du terrible meurtre, le 19 janvier, du journaliste turco-arménien Hrant Dink, qui au cours des dernières années, avait régulièrement attiré l'attention sur lui par ses appels à prendre en considération l'histoire des Arméniens sous l'Empire ottoman, appels qui ont attisé contre lui l'inimitié de nombreux nationalistes <DiscourseConnective annotation_id="498">et</DiscourseConnective> ont valu à ses déclarations <DiscourseConnective annotation_id="529">et</DiscourseConnective> ses écrits d'être régulièrement poursuivi par la justice turque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="538" docOffset="3">
+      <en>I wish, on behalf of this House, to express our outrage at this crime.</en>
+      <fr>Au nom du Parlement, je souhaite exprimer notre indignation face <DiscourseConnective annotation_id="662">à</DiscourseConnective> ce crime.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="609" docOffset="4">
+      <en>We acknowledge, and are glad, that the Turkish Government as a whole has expressed similar sentiments <Alignment alignment="806" annotation_id="711">
+          <DiscourseConnective annotation_id="711" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that its determination has already resulted in the arrest of one who has admitted perpetrating the deed.</en>
+      <fr>Nous prenons note <DiscourseConnective annotation_id="692">et</DiscourseConnective> nous nous réjouissons <DiscourseConnective annotation_id="717">du fait que</DiscourseConnective> le gouvernement turc dans son ensemble ait exprimé des sentiments similaires <Alignment alignment="711" annotation_id="806">
+          <DiscourseConnective annotation_id="806" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="809">que</DiscourseConnective> sa détermination se <DiscourseConnective annotation_id="833">soit</DiscourseConnective> d'ores et <DiscourseConnective annotation_id="848">déjà</DiscourseConnective> manifestée par l'arrestation d'une personne ayant avoué être l'auteur du meurtre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="820" docOffset="5">
+      <en>The alleged murderer - who is only 17 years of age - is evidently motivated by, among other things, nationalist sentiments and complete contempt for the opinions of others.</en>
+      <fr>Le meurtrier présumé - qui n'est âgé que de 17 ans - est manifestement mu, entre autres motifs, par un sentiment nationaliste <DiscourseConnective annotation_id="1061">et</DiscourseConnective> un mépris <DiscourseConnective annotation_id="1074">total</DiscourseConnective> <DiscourseConnective annotation_id="1080">pour</DiscourseConnective> l'opinion d'autrui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="993" docOffset="6">
+      <en>According to media reports, Hrant Dink's funeral was attended by thousands of people, <DiscourseConnective annotation_id="1079" sense="Expansion.Conjunction">and</DiscourseConnective> these included Mr Joost Lagendijk, representing me in his capacity as chairman of the delegation to the EU-Turkey Joint Parliamentary Committee, and Mrs Hélène Flautre, the chairman of our human rights sub-committee.</en>
+      <fr>Selon les informations relayées par les médias, des milliers de personnes se sont rendues à l'enterrement de Hrant Dink, y compris M. Joost Lagendijk, qui me représentait <DiscourseConnective annotation_id="1276">en</DiscourseConnective> <DiscourseConnective annotation_id="1279">tant que</DiscourseConnective> président de la délégation auprès du comité parlementaire mixte UE-Turquie, <DiscourseConnective annotation_id="1364">et</DiscourseConnective> Mme Hélène Flautre, présidente de notre sous-commission des droits de l'homme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1300" docOffset="7">
+      <en>The overwhelming sympathy of the Turkish people and media give cause for hope that this sad event will prompt the Turkish Government to delay no longer in introducing further reforms in the area of criminal law aimed at protecting the free expression of opinion.</en>
+      <fr>Le formidable soutien de l'ensemble de la population <DiscourseConnective annotation_id="1499">et</DiscourseConnective> des médias turcs laisse espérer <DiscourseConnective annotation_id="1534">que</DiscourseConnective> ce triste événement incitera le gouvernement turc à introduire <DiscourseConnective annotation_id="1601">sans</DiscourseConnective> plus attendre des nouvelles réformes <DiscourseConnective annotation_id="1643">en</DiscourseConnective> matière de droit pénal, <DiscourseConnective annotation_id="1670">afin de</DiscourseConnective> protéger la liberté d'expression.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1563" docOffset="8">
+      <en>I will now ask you to do <Alignment alignment="1770" annotation_id="1588">
+          <DiscourseConnective annotation_id="1588" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we did <Alignment alignment="1794" annotation_id="1598">
+          <DiscourseConnective annotation_id="1598" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the great Russian journalist Anna Politkovskaya was murdered and rise from your seats to honour Hrant Dink in silent remembrance.</en>
+      <fr>Je vous demanderai <DiscourseConnective annotation_id="1731">maintenant</DiscourseConnective> de bien vouloir vous lever, <Alignment alignment="1588" annotation_id="1770">
+          <DiscourseConnective annotation_id="1770" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous l'avons fait <Alignment alignment="1598" annotation_id="1794">
+          <DiscourseConnective annotation_id="1794" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la grande journaliste russe Anna Politkovskaya a été assassinée, <DiscourseConnective annotation_id="1867">afin d'</DiscourseConnective>honorer <DiscourseConnective annotation_id="1882">en</DiscourseConnective> silence la mémoire de M. Hrant Dink.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1733" docOffset="9">
+      <en>(The House rose and observed a minute's silence)</en>
+      <fr>(L'assemblée se lève <DiscourseConnective annotation_id="1943">et</DiscourseConnective> observe une minute de silence.)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

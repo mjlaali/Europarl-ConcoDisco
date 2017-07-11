@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>8.</en>
+    <fr>8.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Non-discrimination based on gender and inter-generational solidarity (</en>
+    <fr>La non-discrimination basée sur le sexe <DiscourseConnective annotation_id="43">et</DiscourseConnective> la solidarité entre les générations (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="74" id="120" name="Zbigniew Zaleski">
+    <ParallelChunk annotation_id="74" docOffset="2">
+      <en>(ES) Mr President, I would like to make a minor linguistic, and perhaps semantic, observation.</en>
+      <fr>(ES) Monsieur le Président, j'ai une petite <DiscourseConnective annotation_id="128">remarque</DiscourseConnective> d'ordre linguistique, voire peut-être sémantique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="169" docOffset="3">
+      <en>(PL) Paragraph A contains the wording '...and recognising the diversity of 21st century family patterns...' rendered in other languages as 'a także uznając różnorodność wzorców rodziny...' '...en reconnaissant la diversité de schémas familiaux...' '...Anerkennung der Vielfalt der Familienmodels...'.</en>
+      <fr>(PL) Au considérant A, on peut lire "[...] en reconnaissant la diversité des modèles familiaux au XXIe siècle [...]", ce qui est rendu en d'autres langues par: "[...] a także uznając różnorodność wzorców rodziny [...]", "[...] and recognising the diversity of 21st century family patterns [...]" ou encore "[...] Anerkennung der Vielfalt der Familienmodels [...]".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="470" docOffset="4">
+      <en>
+        <Alignment alignment="552" annotation_id="470">
+          <DiscourseConnective annotation_id="470" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> this is to be understood as acceptance of diversity along with a model of a single sex family, <Alignment alignment="673" annotation_id="568">
+          <DiscourseConnective annotation_id="568" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> that was indeed what Mrs Záborská intended, then I shall vote against it.</en>
+      <fr>
+        <Alignment alignment="257" annotation_id="552">
+          <DiscourseConnective annotation_id="552" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il faut entendre par là que nous acceptons, dans le cadre de cette diversité, que des homosexuels fondent une famille, <Alignment alignment="432" annotation_id="673">
+          <DiscourseConnective annotation_id="673" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> c'est là l'intention de Mme Záborská, <DiscourseConnective annotation_id="714">alors</DiscourseConnective>, je voterai contre ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="645" docOffset="5">
+      <en>I would welcome clarification as to whether this is simply about noting that such models have been observed, <Alignment alignment="867" annotation_id="754">
+          <DiscourseConnective annotation_id="754" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> whether it is about recognising and accepting them.</en>
+      <fr>Une explication serait la bienvenue: nous contentons-nous <DiscourseConnective annotation_id="809">simplement</DiscourseConnective> de prendre acte de l'existence de tels modèles <Alignment alignment="679" annotation_id="867">
+          <DiscourseConnective annotation_id="867" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="870">s'</DiscourseConnective>agit-il de les reconnaître <DiscourseConnective annotation_id="899">et</DiscourseConnective> de les accepter?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="809" docOffset="6">
+      <en>We need to understand what we are voting on.</en>
+      <fr>Il est nécessaire que nous comprenions ce sur quoi nous votons.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="854" id="122" language="SK" name="Anna Záborská">
+    <ParallelChunk annotation_id="854" docOffset="7">
+      <en>Thank you, Mr President and Mr Zaleski.</en>
+      <fr>rapporteure. - (SK) Merci, Monsieur le Président.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="894" docOffset="8">
+      <en>Of course, in this context we recognise other models.</en>
+      <fr>Merci, Monsieur Zaleski. Bien sûr, il s'agit ici de prendre acte de l'existence d'autres modèles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="948" id="123" name="President">
+    <ParallelChunk annotation_id="948" docOffset="9">
+      <en>It is clear <Alignment alignment="1958" annotation_id="960">
+          <DiscourseConnective annotation_id="960" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment>, Mr Zaleski: we note that they exist.</en>
+      <fr>Monsieur Zaleski, c'est <Alignment alignment="993" annotation_id="1155">
+          <DiscourseConnective annotation_id="1155" sense="Temporal.Asynchronous.Precedence">donc</DiscourseConnective>
+        </Alignment> clair: nous prenons acte de leur existence.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

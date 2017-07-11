@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="008" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>I have further bad news to communicate to you.</en>
+      <fr>Je dois <DiscourseConnective annotation_id="37">encore</DiscourseConnective> vous faire part de mauvaises nouvelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="74" docOffset="2">
+      <en>It was with sadness and indignation that I received the news of the murder of the Russian journalist Anna Politkovskaya.</en>
+      <fr>C'est avec tristesse <DiscourseConnective annotation_id="105">et</DiscourseConnective> indignation <DiscourseConnective annotation_id="120">que</DiscourseConnective> j'ai appris l'assassinat de la journaliste russe Anna Politkovskaïa.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="195" docOffset="3">
+      <en>I believe that the European Parliament must pay tribute to this journalist, to her courage and her exceptional determination.</en>
+      <fr>Je considère <DiscourseConnective annotation_id="206">que</DiscourseConnective> le Parlement européen doit rendre hommage <DiscourseConnective annotation_id="252">à</DiscourseConnective> cette journaliste, <DiscourseConnective annotation_id="273">à</DiscourseConnective> son courage <DiscourseConnective annotation_id="287">et</DiscourseConnective> à son exceptionnelle détermination.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="321" docOffset="4">
+      <en>
+        <DiscourseConnective annotation_id="321" sense="Temporal.Synchrony">As</DiscourseConnective> you know, following the news of her murder I issued a press communiqué urging the Russian authorities to do everything in their power to ascertain the causes and perpetrators of this horrendous event as quickly as possible.</en>
+      <fr>Vous n'ignorez pas que, <DiscourseConnective annotation_id="350">dès que</DiscourseConnective> j'ai eu connaissance de ce meurtre, j'ai publié un communiqué de presse appelant les autorités russes <DiscourseConnective annotation_id="460">à</DiscourseConnective> tout mettre <DiscourseConnective annotation_id="474">en</DiscourseConnective> œuvre <DiscourseConnective annotation_id="483">pour</DiscourseConnective> déterminer <DiscourseConnective annotation_id="499">aussi</DiscourseConnective> rapidement <DiscourseConnective annotation_id="516">que</DiscourseConnective> possible les raisons <DiscourseConnective annotation_id="541">et</DiscourseConnective> les auteurs de cet acte atroce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="548" docOffset="5">
+      <en>We hope that in identifying the culprits Russia will demonstrate the state of democracy and freedom of expression there.</en>
+      <fr>Nous espérons que la Russie, <DiscourseConnective annotation_id="605">en</DiscourseConnective> identifiant les coupables, démontrera la démocratie <DiscourseConnective annotation_id="660">et</DiscourseConnective> la liberté d'expression qui règnent dans le pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="669" docOffset="6">
+      <en>This event, on the eve of the Lahti meeting, is clearly of particularly crucial significance to us.</en>
+      <fr>Ce drame survenu <DiscourseConnective annotation_id="730">à</DiscourseConnective> la veille du sommet de Lahti revêt de toute évidence une importance particulièrement fondamentale <DiscourseConnective annotation_id="830">pour</DiscourseConnective> nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="769" docOffset="7">
+      <en>On my own behalf and on behalf of the whole of the European Parliament, I would like once again to express our sincerest condolences to her family and friends.</en>
+      <fr>
+        <DiscourseConnective annotation_id="841">En</DiscourseConnective> mon nom <DiscourseConnective annotation_id="852">et</DiscourseConnective> au nom du Parlement européen tout entier, je souhaiterais adresser une nouvelle fois nos condoléances les plus sincères <DiscourseConnective annotation_id="975">à</DiscourseConnective> sa famille <DiscourseConnective annotation_id="988">et</DiscourseConnective> à ses amis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="929" docOffset="8">
+      <en>I <Alignment alignment="1022" annotation_id="931">
+          <DiscourseConnective annotation_id="931" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> believe, <Alignment alignment="572137" annotation_id="945">
+          <DiscourseConnective annotation_id="945" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that this is a good opportunity to remember that the murder of journalists is not, unfortunately, something that happens only on the odd rare occasion. <Alignment alignment="1253" annotation_id="1106">
+          <Alignment alignment="577621" annotation_id="1106">
+            <DiscourseConnective annotation_id="1106" sense="Comparison.Contrast">On the contrary</DiscourseConnective>
+          </Alignment>
+        </Alignment>, many people lose their lives defending freedom of expression and information.</en>
+      <fr>Je pense <Alignment alignment="945" annotation_id="1012">
+          <DiscourseConnective annotation_id="1012" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> <Alignment alignment="931" annotation_id="1022">
+          <DiscourseConnective annotation_id="1022" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1032">que</DiscourseConnective> cette occasion nous permet de nous rappeler <DiscourseConnective annotation_id="1080">que</DiscourseConnective> le meurtre de journalistes n'est <DiscourseConnective annotation_id="1117">malheureusement</DiscourseConnective> pas un événement qui ne se produit <DiscourseConnective annotation_id="1168">que</DiscourseConnective> dans des circonstances exceptionnelles, mais que bon nombre de personnes perdent <Alignment alignment="1106" annotation_id="1253">
+          <Alignment alignment="1106" annotation_id="1253">
+            <DiscourseConnective annotation_id="1253" sense="Comparison.Contrast">au contraire</DiscourseConnective>
+          </Alignment>
+        </Alignment> la vie en défendant la liberté d'expression <DiscourseConnective annotation_id="1310">et</DiscourseConnective> d'information.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1201" docOffset="9">
+      <en>It has happened in Russia today, <Alignment alignment="580565" annotation_id="1234">
+          <DiscourseConnective annotation_id="1234" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it happened in Lebanon the day before yesterday, in many Latin American countries, in many African countries and in many South-East Asian countries.</en>
+      <fr>Le fait est arrivé aujourd'hui <DiscourseConnective annotation_id="1359">en</DiscourseConnective> Russie, <Alignment alignment="1234" annotation_id="1370">
+          <DiscourseConnective annotation_id="1370" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il est aussi arrivé au Liban récemment, ainsi que dans de nombreux pays d'Amérique latine, de nombreux pays d'Afrique <DiscourseConnective annotation_id="1493">et</DiscourseConnective> de nombreux pays du Sud-Est asiatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1387" docOffset="10">
+      <en>People who produce information and create opinion often do so at risk of their lives.</en>
+      <fr>Les personnes qui transmettent l'information <DiscourseConnective annotation_id="1580">et</DiscourseConnective> donnent naissance aux opinions le font souvent au péril de leur vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1473" docOffset="11">
+      <en>This latest murder is no more or less tragic than any of the many other cases we have seen.</en>
+      <fr>Ce dernier crime n'est ni plus ni moins tragique <DiscourseConnective annotation_id="1701">que</DiscourseConnective> n'importe lequel des innombrables autres auxquels nous avons assisté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1565" docOffset="12">
+      <en>I believe, <Alignment alignment="611367" annotation_id="1576">
+          <DiscourseConnective annotation_id="1576" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that the case of Anna Politkovskaya's death and the cases of the 63 journalists murdered <Alignment alignment="1883" annotation_id="1674">
+          <DiscourseConnective annotation_id="1674" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> more than 120 imprisoned warrant an expression of our respect for these people.</en>
+      <fr>J'ai <Alignment alignment="1576" annotation_id="1780">
+          <DiscourseConnective annotation_id="1780" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> la conviction <DiscourseConnective annotation_id="1804">que</DiscourseConnective> le cas de la mort d'Anna Politkovskaïa <DiscourseConnective annotation_id="1847">et</DiscourseConnective> les cas des 63 journalistes tués <Alignment alignment="1674" annotation_id="1883">
+          <DiscourseConnective annotation_id="1883" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> plus de 120 emprisonnés méritent une manifestation de notre respect <DiscourseConnective annotation_id="1954">pour</DiscourseConnective> ces personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1758" docOffset="13">
+      <en>I would ask that we observe a minute's silence in tribute to Anna Politkovskaya and the 63 journalists who have been murdered <DiscourseConnective annotation_id="1884" sense="Temporal.Synchrony">while</DiscourseConnective> carrying out their work.</en>
+      <fr>Je souhaiterais <DiscourseConnective annotation_id="1990">que</DiscourseConnective> nous observions une minute de silence <DiscourseConnective annotation_id="2032">en</DiscourseConnective> hommage <DiscourseConnective annotation_id="2043">à</DiscourseConnective> Anna Politkovskaïa <DiscourseConnective annotation_id="2064">et</DiscourseConnective> aux 63 journalistes qui ont été assassinés dans l'exercice de leurs activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1915" docOffset="14">
+      <en>(The House rose and observed a minute's silence)</en>
+      <fr>(L'Assemblée, debout, observe une minute de silence)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

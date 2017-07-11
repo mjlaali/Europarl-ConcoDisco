@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Dual-use items and technology (</en>
+    <fr>Biens <DiscourseConnective annotation_id="9">et</DiscourseConnective> technologies à double usage (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="35" docOffset="2">
+    <en>- Before the final vote:</en>
+    <fr>- <DiscourseConnective annotation_id="44">Avant</DiscourseConnective> le vote final</fr>
+  </ParallelChunk>
+<Speaker annotation_id="60" id="105" name="Jörg Leichtfried">
+    <ParallelChunk annotation_id="60" docOffset="3">
+      <en>rapporteur. - (DE) Mr President, ladies and gentlemen, the vote has produced a result that may be the subject of debate, <Alignment alignment="181" annotation_id="181">
+          <DiscourseConnective annotation_id="181" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment> we are now very close to the position of the Council <Alignment alignment="247" annotation_id="242">
+          <DiscourseConnective annotation_id="242" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, with the agreement of the shadow rapporteurs, I would ask that the final vote should be postponed <Alignment alignment="336" annotation_id="345">
+          <DiscourseConnective annotation_id="345" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is very probable that we shall be able to reach complete agreement with the Council.</en>
+      <fr>rapporteur. - (DE) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="115">et</DiscourseConnective> Messieurs, le vote a produit un <DiscourseConnective annotation_id="150">résultat</DiscourseConnective> qui peut faire débat, <Alignment alignment="181" annotation_id="181">
+          <DiscourseConnective annotation_id="181" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous sommes à présent très proches de la position du Conseil <Alignment alignment="260" annotation_id="247">
+          <DiscourseConnective annotation_id="247" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, avec l'accord des rapporteurs fictifs, je demanderais <DiscourseConnective annotation_id="305">que</DiscourseConnective> le vote final <DiscourseConnective annotation_id="323">soit</DiscourseConnective> reporté <Alignment alignment="0" annotation_id="336">
+          <DiscourseConnective annotation_id="336" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il est très probable <DiscourseConnective annotation_id="366">que</DiscourseConnective> nous puissions parvenir à un accord <DiscourseConnective annotation_id="406">total</DiscourseConnective> avec le Conseil.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

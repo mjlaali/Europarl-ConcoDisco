@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="078" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is voting time.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+      <en>(For the outcome and other details of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="89">et</DiscourseConnective> autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="103" id="079" name="Alain Hutchinson">
+    <ParallelChunk annotation_id="103" docOffset="3">
+      <en>(FR) Mr President, excuse me, I am not sure under which Rule I should address the House <Alignment alignment="1973" annotation_id="191">
+          <DiscourseConnective annotation_id="191" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I would like to make a statement to the presidency about the current situation in Parliament: it is turning into a permanent circus, which makes it very difficult to work calmly <Alignment alignment="538" annotation_id="373">
+          <DiscourseConnective annotation_id="373" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> trying to do serious things here.</en>
+      <fr>Monsieur le Président, excusez-moi, je ne sais pas en vertu de quel article je dois m'adresser à notre Assemblée <Alignment alignment="191" annotation_id="256">
+          <DiscourseConnective annotation_id="256" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je voudrais faire une intervention auprès de la Présidence par rapport <DiscourseConnective annotation_id="332">à</DiscourseConnective> ce qu'il se passe dans le Parlement pour l'instant, par rapport <DiscourseConnective annotation_id="398">à</DiscourseConnective> cette espèce de foire permanente qui est en train de se développer, qui fait qu'il devient très difficile de travailler dans la sérénité, <Alignment alignment="565" annotation_id="538">
+          <DiscourseConnective annotation_id="538" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> nous faisons des choses sérieuses au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="412" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudisssements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="423" docOffset="5">
+      <en>I think that this situation reached its peak yesterday evening <Alignment alignment="674" annotation_id="486">
+          <DiscourseConnective annotation_id="486" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would ask the presidency to take action in order to restore calm and a serious atmosphere in a House that should be an example to the whole world <DiscourseConnective annotation_id="638" sense="Expansion.Conjunction">and</DiscourseConnective> that should be a serious House, not a circus.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="625">que</DiscourseConnective> cette situation a été à son comble hier soir <Alignment alignment="0" annotation_id="674">
+          <DiscourseConnective annotation_id="674" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je demande à la Présidence qu'on prenne des initiatives <DiscourseConnective annotation_id="733">pour</DiscourseConnective> ramener la sérénité <DiscourseConnective annotation_id="758">et</DiscourseConnective> le sérieux dans une Assemblée <DiscourseConnective annotation_id="791">qu'</DiscourseConnective>on doit montrer au monde entier, mais <DiscourseConnective annotation_id="832">comme</DiscourseConnective> une Assemblée sérieuse et pas comme une foire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="688" docOffset="6">
+      <en>(Applause)</en>
+      <fr>(Applaudisssements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="699" id="080" name="President">
+    <ParallelChunk annotation_id="699" docOffset="7">
+      <en>I imagine, Mr Hutchinson, that you are referring to the various displays in the passageways and corridors.</en>
+      <fr>J'imagine, cher collègue, <DiscourseConnective annotation_id="931">que</DiscourseConnective> vous faites référence aux différentes expositions qui se trouvent dans les lieux de passage <DiscourseConnective annotation_id="1027">et</DiscourseConnective> couloirs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="806" docOffset="8">
+      <en>You know that the Quaestors are responsible in this regard.</en>
+      <fr>Vous savez <DiscourseConnective annotation_id="1051">que</DiscourseConnective> ce sont les Questeurs qui sont responsables <DiscourseConnective annotation_id="1099">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="866" docOffset="9">
+      <en>We will of course pass on your comments.</en>
+      <fr>Nous transmettrons, bien évidemment, vos remarques.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="907" id="081" name="Pervenche Berès">
+    <ParallelChunk annotation_id="907" docOffset="10">
+      <en>(FR) Mr President, I would <DiscourseConnective annotation_id="934" sense="Expansion.Conjunction">also</DiscourseConnective> like to make a comment about calm and order in our work.</en>
+      <fr>Monsieur le Président, c'est toujours au sujet de la sérénité <DiscourseConnective annotation_id="1228">et</DiscourseConnective> de l'ordre de nos travaux que je souhaite intervenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="996" docOffset="11">
+      <en>Our sitting yesterday afternoon was marked by an extremely moving account, <Alignment alignment="1370" annotation_id="1071">
+          <DiscourseConnective annotation_id="1071" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the disruption to the agenda meant that the speeches on topics as important as the financial crisis were postponed by more than two hours, totally interfering with the order of speakers.</en>
+      <fr>Notre séance d'hier après-midi a été marquée par un témoignage extrêmement émouvant, <Alignment alignment="112" annotation_id="1370">
+          <DiscourseConnective annotation_id="1370" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les dérapages des ordres du jour ont conduit <DiscourseConnective annotation_id="1420">à</DiscourseConnective> déplacer les interventions sur des sujets <DiscourseConnective annotation_id="1464">aussi</DiscourseConnective> importants <DiscourseConnective annotation_id="1481">que</DiscourseConnective> la crise financière <DiscourseConnective annotation_id="1505">de plus</DiscourseConnective> de deux heures, perturbant totalement l'ordre des orateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1262" docOffset="12">
+      <en>That does not help things to run smoothly in this House.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="1582">que</DiscourseConnective> ce n'est pas compatible avec le bon fonctionnement de cette maison.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

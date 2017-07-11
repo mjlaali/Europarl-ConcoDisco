@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>8.</en>
+    <fr>8.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Equality between women and men - 2008 (</en>
+    <fr>Egalité entre les femmes <DiscourseConnective annotation_id="28">et</DiscourseConnective> les hommes - 2008 (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="43" docOffset="2">
+    <en>Before the vote on Amendment 5:</en>
+    <fr>Préalablement au vote sur l'amendement 5:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="75" id="080" language="ES" name="Iratxe García Pérez">
+    <ParallelChunk annotation_id="75" docOffset="3">
+      <en>Mr President, on the voting list of my group, the Socialist Group in the European Parliament, we proposed to vote in favour of Amendment 5 <Alignment alignment="271" annotation_id="214">
+          <DiscourseConnective annotation_id="214" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the authors of the amendment accepted that it was an addition.</en>
+      <fr>rapporteur. - (ES) Monsieur le Président, sur la liste de vote de mon groupe, le Groupe Socialiste du Parlement européen, nous avons proposé de voter <DiscourseConnective annotation_id="243">en</DiscourseConnective> faveur de l'amendement 5 <Alignment alignment="214" annotation_id="271">
+          <DiscourseConnective annotation_id="271" sense="Contingency.Condition">pour autant que</DiscourseConnective>
+        </Alignment> les auteurs de cet amendement acceptent <DiscourseConnective annotation_id="327">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="333">s'</DiscourseConnective>agit d'un ajout.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="280" docOffset="4">
+      <en>In the conversations we have had with them they have not taken on this proposal; we <Alignment alignment="623" annotation_id="364">
+          <DiscourseConnective annotation_id="364" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> wanted the paragraph to remain <DiscourseConnective annotation_id="405" sense="Temporal.Synchrony">as</DiscourseConnective> it originally appeared in the report and will vote against Amendment 5 <Alignment alignment="581" annotation_id="479">
+          <DiscourseConnective annotation_id="479" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is not agreed that it is an addition.</en>
+      <fr>Dans les conversations que nous avons eues avec eux, ils n'ont pas retenu cette proposition. Nous souhaitions <Alignment alignment="364" annotation_id="462">
+          <DiscourseConnective annotation_id="462" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que le paragraphe conserve la forme originale qu'il avait dans le rapport, <DiscourseConnective annotation_id="542">et</DiscourseConnective> nous voterons contre l'amendement 5 <Alignment alignment="245" annotation_id="581">
+          <DiscourseConnective annotation_id="581" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il n'est pas admis <DiscourseConnective annotation_id="602">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="608">s'</DiscourseConnective>agit d'un ajout.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="523" docOffset="5">
+      <en>(The GUE/NGL Group, author of the amendment, agreed)</en>
+      <fr>(Le groupe GUE/NGL, auteur de l'amendement, marque son accord)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

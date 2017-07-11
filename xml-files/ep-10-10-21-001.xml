@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting opened at 9.00)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 9 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="52" id="005" name="Mario Pirillo">
+    <ParallelChunk annotation_id="52" docOffset="2">
+      <en>(IT) Mr President, ladies and gentlemen, during the night of 18 October the town of Paola, the birthplace of Saint Francis, was hit by a violent rainstorm affecting the whole of Calabria: huge damage was caused to public buildings, private homes, water and sewage networks, and electricity and telephone networks, not to mention landslips and mudslides.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="95">et</DiscourseConnective> Messieurs, durant la nuit du 18 octobre, Paola, ville natale de saint François, a été frappée par un violent orage qui a touché l'ensemble de la Calabre: les bâtiments publics, les habitations privées, le réseau de distribution d'eau <DiscourseConnective annotation_id="332">et</DiscourseConnective> d'égouttage, <DiscourseConnective annotation_id="348">ainsi</DiscourseConnective> que les réseaux électriques <DiscourseConnective annotation_id="382">et</DiscourseConnective> téléphoniques ont subi des dégâts considérables, <DiscourseConnective annotation_id="434">sans</DiscourseConnective> parler des glissements de terrain <DiscourseConnective annotation_id="473">et</DiscourseConnective> des coulées de boue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="406" docOffset="3">
+      <en>Many families have had to leave their homes, <Alignment alignment="362266" annotation_id="451">
+          <DiscourseConnective annotation_id="451" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> schools have remained closed.</en>
+      <fr>De nombreuses familles ont dû quitter leur maison <Alignment alignment="721" annotation_id="547">
+          <DiscourseConnective annotation_id="547" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les écoles sont restées fermées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="485" docOffset="4">
+      <en>Episodes such as this have been occurring in Calabria for a long time now, possibly due to the effects of climate change.</en>
+      <fr>Des événements tels <DiscourseConnective annotation_id="603">que</DiscourseConnective> celui-ci frappent la Calabre depuis longtemps, en raison peut-être des effets du changement climatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="607" docOffset="5">
+      <en>A state of natural disaster will be declared shortly, <Alignment alignment="774" annotation_id="661">
+          <DiscourseConnective annotation_id="661" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we hope that the European Solidarity Fund can be activated.</en>
+      <fr>L'état de catastrophe naturelle sera déclaré dans peu de temps <Alignment alignment="508" annotation_id="774">
+          <DiscourseConnective annotation_id="774" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous espérons <DiscourseConnective annotation_id="791">que</DiscourseConnective> le Fonds de solidarité de l'Union européenne pourra être activé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="725" docOffset="6">
+      <en>I would like to express my solidarity - which I hope is shared by this House - with the entire population, including that of the neighbouring towns that have suffered damage.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="869">à</DiscourseConnective> exprimer ma solidarité - que cette Assemblée partagera, je l'espère - avec l'ensemble de la population, y compris celle des villes voisines qui ont subi des dommages.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="900" id="006" name="President">
+    <ParallelChunk annotation_id="900" docOffset="7">
+      <en>Of course, we are taking good note of the information you have provided us with.</en>
+      <fr>Bien sûr, nous prenons bonne note des informations que vous nous avez fournies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="981" docOffset="8">
+      <en>We would like to express our solidarity <Alignment alignment="1158" annotation_id="1021">
+          <DiscourseConnective annotation_id="1021" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> our concern about the disaster that has hit Calabria and, naturally, all the members of this Parliament declare their support to those affected in that beautiful region of Italy and Europe.</en>
+      <fr>Nous tenons <DiscourseConnective annotation_id="1130">à</DiscourseConnective> exprimer notre solidarité <Alignment alignment="113" annotation_id="1158">
+          <DiscourseConnective annotation_id="1158" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> notre préoccupation au sujet de la catastrophe qui a frappé la Calabre <DiscourseConnective annotation_id="1232">et</DiscourseConnective>, naturellement, tous les membres de ce Parlement expriment leur soutien aux personnes touchées dans cette magnifique région d'Italie <DiscourseConnective annotation_id="1368">et</DiscourseConnective> d'Europe.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

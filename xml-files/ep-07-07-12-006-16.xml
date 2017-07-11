@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>16.</en>
+    <fr>16.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Reducing disparities in the poorest regions of the EU (vote)</en>
+    <fr>Politique de cohésion dans les régions les plus pauvres de l'Union européenne (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="65" docOffset="2">
+    <en>- Geringer de Oedenberg report</en>
+    <fr>Rapport Geringer de Oedenberg</fr>
+  </ParallelChunk>
+<Speaker annotation_id="96" id="300" name="President">
+    <ParallelChunk annotation_id="96" docOffset="3">
+      <en>I hope you all have a good break, but only <DiscourseConnective annotation_id="139" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective> you have voted this afternoon!</en>
+      <fr>Je vous souhaite à tous de bonnes vacances, <DiscourseConnective annotation_id="163">mais</DiscourseConnective> pas avant d'avoir voté cette après-midi!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="176" id="132" name="Marcin Libicki">
+    <ParallelChunk annotation_id="176" docOffset="4">
+      <en>(PL) Madam President, I would like to point out that I cannot be held responsible for the first part of the vote on the Barsi-Pataky report as, at the time, the name of the previous rapporteur, Mr Cramer, was still on the board.</en>
+      <fr>(PL) Madame la Présidente, je tiens <DiscourseConnective annotation_id="245">à</DiscourseConnective> signaler <DiscourseConnective annotation_id="256">que</DiscourseConnective> je ne peux être tenu pour responsable de la première partie du vote sur le rapport Barsi-Pataky, <DiscourseConnective annotation_id="357">étant donné qu'</DiscourseConnective>à ce moment-là, les écrans indiquaient toujours le nom du précédent rapporteur, M. Cramer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="405" docOffset="5">
+      <en>
+        <Alignment alignment="96" annotation_id="405">
+          <DiscourseConnective annotation_id="405" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+        </Alignment>, I may have made an error in the vote on the Barsi-Pataky report.</en>
+      <fr>Il se peut <Alignment alignment="405" annotation_id="474">
+          <DiscourseConnective annotation_id="474" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que j'aie fait une erreur lors du vote sur le rapport Barsi-Pataky.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="483" id="133" name="President">
+    <ParallelChunk annotation_id="483" docOffset="6">
+      <en>That will be recorded in the Minutes.</en>
+      <fr>Cela sera inscrit au procès-verbal.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

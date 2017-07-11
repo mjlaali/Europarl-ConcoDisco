@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>7.</en>
+    <fr>7.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Officially supported export credits (</en>
+    <fr>Crédits à l'exportation bénéficiant d'un soutien public (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="41" id="109" name="Helmut Scholz">
+    <ParallelChunk annotation_id="41" docOffset="2">
+      <en>on behalf of the GUE/NGL Group. - Mr President, I would like to announce that the GUE/NGL Group wishes to withdraw the roll-call vote on both parts of amendment 10.</en>
+      <fr>au nom du groupe GUE/NGL. - (EN) Monsieur le Président, je voudrais annoncer <DiscourseConnective annotation_id="138">que</DiscourseConnective> le groupe GUE/NGL souhaite retirer le vote par appel nominal sur les deux parties de l'amendement 10.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="206" id="111" language="FR" name="Yannick Jadot">
+    <ParallelChunk annotation_id="206" docOffset="3">
+      <en>Mr President, as in the previous vote, the shadow rapporteurs <Alignment alignment="335" annotation_id="268">
+          <DiscourseConnective annotation_id="268" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> myself have decided not to put the legislative resolution to the vote in Parliament <DiscourseConnective annotation_id="356" sense="Contingency.Cause.Result">so</DiscourseConnective> <DiscourseConnective annotation_id="359" sense="Temporal.Synchrony">as</DiscourseConnective> to continue negotiations with the Council, in the hope that it will heed Parliament's vote today.</en>
+      <fr>rapporteur. - Monsieur le Président, <DiscourseConnective annotation_id="281">comme</DiscourseConnective> lors du vote précédent, les rapporteurs fictifs <Alignment alignment="0" annotation_id="335">
+          <DiscourseConnective annotation_id="335" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> moi-même avons décidé de ne pas soumettre au vote de cette plénière la résolution législative pour poursuivre les négociations avec le Conseil, <DiscourseConnective annotation_id="482">en</DiscourseConnective> espérant <DiscourseConnective annotation_id="494">qu'</DiscourseConnective>il entende le vote de ce Parlement aujourd'hui.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

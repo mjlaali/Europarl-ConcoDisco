@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Russia (vote)</en>
+    <fr>Russie (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="17" docOffset="2">
+    <en>- <Alignment alignment="86135" annotation_id="19">
+        <DiscourseConnective annotation_id="19" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+      </Alignment> voting commenced:</en>
+    <fr>- <Alignment alignment="19" annotation_id="19">
+        <DiscourseConnective annotation_id="19" sense="Temporal.Asynchronous.Precedence">Avant</DiscourseConnective>
+      </Alignment> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="44" id="248" name="Marcin Libicki">
+    <ParallelChunk annotation_id="44" docOffset="3">
+      <en>author, on behalf of the UEN Group. - (PL) I wish to propose a stylistic amendment.</en>
+      <fr>auteur, au nom du groupe UEN. - (PL) Je voudrais proposer un amendement stylistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="128" docOffset="4">
+      <en>The words "European Court” should be replaced by "European Court of Human Rights”, <Alignment alignment="225" annotation_id="211">
+          <DiscourseConnective annotation_id="211" sense="Expansion.Alternative">otherwise</DiscourseConnective>
+        </Alignment> the text will be unintelligible.</en>
+      <fr>Les mots "Cour européenne" devraient être remplacés par les mots "Cour européenne des droits de l'homme", <Alignment alignment="104" annotation_id="225">
+          <DiscourseConnective annotation_id="225" sense="Expansion.Alternative">sinon</DiscourseConnective>
+        </Alignment> le texte sera inintelligible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="254" docOffset="5">
+      <en>(The oral amendment was adopted)</en>
+      <fr>(l'amendement oral est adopté)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

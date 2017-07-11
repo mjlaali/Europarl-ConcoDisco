@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Formal sitting - Mid-term address by Jerzy Buzek, President of Parliament</en>
+    <fr>Séance solennelle - Discours de mi-mandat de Jerzy Buzek, Président du Parlement européen</fr>
+  </ParallelChunk>
+<Speaker annotation_id="74" id="121" name="President">
+    <ParallelChunk annotation_id="74" docOffset="1">
+      <en>Colleagues, I have a short speech, <DiscourseConnective annotation_id="109" sense="Temporal.Synchrony">as</DiscourseConnective> I promised you one year ago.</en>
+      <fr>Chers collègues, je vous l'ai promis il y a un an, je vais prononcer un <DiscourseConnective annotation_id="162">bref</DiscourseConnective> discours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="141" docOffset="2">
+      <en>We are at the mid-way point of my Presidency.</en>
+      <fr>Nous sommes <DiscourseConnective annotation_id="189">à</DiscourseConnective> mi-mandat de ma présidence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="187" docOffset="3">
+      <en>At the very beginning, I promised that I would inform you of my activities.</en>
+      <fr>Au tout début, je vous ai promis de vous tenir informés de mes activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="263" docOffset="4">
+      <en>As the President of the European Parliament, I represent all of you.</en>
+      <fr>
+        <DiscourseConnective annotation_id="293">En</DiscourseConnective> ma qualité de Président du Parlement européen, je vous représente tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="332" docOffset="5">
+      <en>Wherever I go, whatever I do, I have always felt the honour and responsibility of acting on behalf of this prestigious Chamber.</en>
+      <fr>Où que j'aille, quoi que je fasse, c'est toujours avec un sens aigu de l'honneur <DiscourseConnective annotation_id="449">et</DiscourseConnective> de la responsabilité que j'agis au nom de cette prestigieuse Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="460" docOffset="6">
+      <en>
+        <Alignment alignment="485" annotation_id="460">
+          <DiscourseConnective annotation_id="460" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> this speech is not about me: this speech is about you and about your activity.</en>
+      <fr>
+        <Alignment alignment="0" annotation_id="524">
+          <DiscourseConnective annotation_id="524" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> je ne prononce pas ce discours pour parler de moi: je le prononce pour parler de vous <DiscourseConnective annotation_id="615">et</DiscourseConnective> de votre activité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="543" docOffset="7">
+      <en>It is about all of us, what we have achieved together at the European Parliament in the last 15 months, <Alignment alignment="763" annotation_id="647">
+          <DiscourseConnective annotation_id="647" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what is ahead of us.</en>
+      <fr>Ce discours parle de nous tous, de ce que nous avons réalisé ensemble au Parlement européen au cours de ces 15 derniers mois, <Alignment alignment="89" annotation_id="763">
+          <DiscourseConnective annotation_id="763" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de ce qui nous attend à l'avenir.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

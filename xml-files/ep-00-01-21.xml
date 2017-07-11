@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Adoption of the Minutes of the previous sitting</en>
+    <fr>Adoption du procès-verbal de la séance précédente</fr>
+  </ParallelChunk>
+<Speaker annotation_id="48" id="12" name="Fraga Estévez">
+    <ParallelChunk annotation_id="48" docOffset="1">
+      <en>Mr President, I simply wanted to pass on some news. There was a terrorist attack this morning in Madrid.</en>
+      <fr>Monsieur le Président, Je voulais <DiscourseConnective annotation_id="84">simplement</DiscourseConnective> diffuser une information : un attentat terroriste a eu lieu ce matin <DiscourseConnective annotation_id="164">à</DiscourseConnective> Madrid.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="153" docOffset="2">
+      <en>Someone planted a car bomb <DiscourseConnective annotation_id="180" sense="Expansion.Conjunction">and</DiscourseConnective> one person has died.</en>
+      <fr>Il s'agissait d'une voiture piégée. Il y a eu un mort.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="205" docOffset="3">
+      <en>On behalf of my Group, I once again condemn these terrorist acts.</en>
+      <fr>Je souhaitais simplement, au nom de mon groupe, condamner une fois <DiscourseConnective annotation_id="296">encore</DiscourseConnective> ces actes terroristes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="271" id="13" name="President">
+    <ParallelChunk annotation_id="271" docOffset="4">
+      <en>Thank you, Mrs Fraga Estévez.</en>
+      <fr>Merci beaucoup, Madame Fraga.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="301" docOffset="5">
+      <en>We had heard about this regrettable incident.</en>
+      <fr>Nous avons effectivement été informés de cet événement regrettable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="347" docOffset="6">
+      <en>Unfortunately, the terrorist murderers are once again punishing Spanish society. I note your comments with particular keenness, <DiscourseConnective annotation_id="475" sense="Temporal.Synchrony">as</DiscourseConnective> you may expect, given that I too am Spanish.</en>
+      <fr>Le terrorisme assassin a <DiscourseConnective annotation_id="449">malheureusement</DiscourseConnective>, une fois de plus, frappé la société espagnole ; la présidence s'associe avec une intensité particulière à votre intervention, vous le comprendrez, puisque la présidence de cette séance est <DiscourseConnective annotation_id="655">également</DiscourseConnective> espagnole.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="523" docOffset="7">
+      <en>(The Minutes were approved)</en>
+      <fr>(Le procès-verbal est adopté)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

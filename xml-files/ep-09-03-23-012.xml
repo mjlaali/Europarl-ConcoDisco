@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Order of business: see Minutes</en>
+    <fr>Ordre des travaux: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="31" id="019" name="Monica Frassoni">
+    <ParallelChunk annotation_id="31" docOffset="1">
+      <en>(IT) Mr President, ladies and gentlemen, I have a question for you concerning the European Council.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="75">et</DiscourseConnective> Messieurs, j'ai une question <DiscourseConnective annotation_id="107">à</DiscourseConnective> vous poser concernant le Conseil européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="131" docOffset="2">
+      <en>We have heard that at the meeting of the European Council you said that Parliament agrees that the vote on the President of the Commission should take place on 15 July <Alignment alignment="560" annotation_id="299">
+          <DiscourseConnective annotation_id="299" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the vote on the remainder of the Commission should be held <Alignment alignment="398" annotation_id="362">
+          <DiscourseConnective annotation_id="362" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective>
+        </Alignment> the Treaty of Lisbon has been adopted.</en>
+      <fr>Il nous a été rapporté <DiscourseConnective annotation_id="175">que</DiscourseConnective> lors de la réunion du Conseil européen, vous avez déclaré <DiscourseConnective annotation_id="237">que</DiscourseConnective> le Parlement était d'accord <DiscourseConnective annotation_id="269">pour que</DiscourseConnective> le vote sur le président de la Commission ait lieu le 15 juillet <Alignment alignment="139" annotation_id="343">
+          <DiscourseConnective annotation_id="343" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que le vote sur le reste de la Commission se tienne <Alignment alignment="362" annotation_id="398">
+          <DiscourseConnective annotation_id="398" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> l'adoption du traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="406" docOffset="3">
+      <en>I would like to know whether <DiscourseConnective annotation_id="435" sense="Expansion.Alternative">or</DiscourseConnective> not this is true <Alignment alignment="1979" annotation_id="455">
+          <DiscourseConnective annotation_id="455" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="480" annotation_id="460">
+          <DiscourseConnective annotation_id="460" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is true, on what authority you made these statements.</en>
+      <fr>Je souhaiterais savoir si c'est exact <Alignment alignment="4" annotation_id="476">
+          <DiscourseConnective annotation_id="476" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="154" annotation_id="480">
+          <DiscourseConnective annotation_id="480" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> oui, <DiscourseConnective annotation_id="488">en</DiscourseConnective> vertu de quelle autorité vous avez fait ces déclarations.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="520" id="020" name="President">
+    <ParallelChunk annotation_id="520" docOffset="4">
+      <en>Mrs Frassoni, <Alignment alignment="1814" annotation_id="534">
+          <DiscourseConnective annotation_id="534" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you yourself were present, I am sure you will recall that we discussed this matter at the Conference of Presidents.</en>
+      <fr>Madame Frassoni, <Alignment alignment="534" annotation_id="566">
+          <DiscourseConnective annotation_id="566" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous étiez présente, je suis certain que vous vous rappelez <DiscourseConnective annotation_id="632">que</DiscourseConnective> nous en avons discuté <DiscourseConnective annotation_id="658">à</DiscourseConnective> la Conférence des présidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="653" docOffset="5">
+      <en>There was only one objection with respect to 15 July, which came from you.</en>
+      <fr>La seule objection concernant la date du 15 juillet venait de vous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="728" docOffset="6">
+      <en>All the other group chairmen shared the view expressed in my statement before the Council.</en>
+      <fr>Les présidents des autres groupes ont marqué leur accord sur le contenu de ma déclaration devant le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="819" docOffset="7">
+      <en>In any case, you may read the exact wording I used in my speech. The speech is available to all MEPs and to the public.</en>
+      <fr>
+        <DiscourseConnective annotation_id="867">Quoi qu'il en soit</DiscourseConnective>, vous avez la possibilité de lire les termes exacts de ma déclaration puisque celle-ci est accessible <DiscourseConnective annotation_id="988">à</DiscourseConnective> tous les députés <DiscourseConnective annotation_id="1007">ainsi</DiscourseConnective> qu'aux citoyens.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

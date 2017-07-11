@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>27.</en>
+    <fr>27.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>EU economic and trade relations with Mercosur (vote)</en>
+    <fr>Relations économiques <DiscourseConnective annotation_id="26">et</DiscourseConnective> commerciales entre l'UE <DiscourseConnective annotation_id="53">et</DiscourseConnective> le Mercosur dans la perspective de la conclusion d'un accord interrégional d'association (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="57" docOffset="2">
+    <en>- After the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="154">Après</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="75" id="099" name="Zbigniew Zaleski">
+    <ParallelChunk annotation_id="75" docOffset="3">
+      <en>(ES) Mr President, <Alignment alignment="169998" annotation_id="94">
+          <DiscourseConnective annotation_id="94" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> moving on to the final item, on behalf of many Members of this Parliament I would like to express my profound sadness and discontent.</en>
+      <fr>(ES) Monsieur le Président, <Alignment alignment="94" annotation_id="197">
+          <DiscourseConnective annotation_id="197" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> passer au dernier point, je voudrais, au nom de nombreux députés de ce Parlement, exprimer mon chagrin <DiscourseConnective annotation_id="309">et</DiscourseConnective> mon mécontentement profonds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="235" docOffset="4">
+      <en>By not voting on a resolution on the death of the Russian journalist Anna Politkovskaya today, this Parliament is, I believe, making a political and human mistake.</en>
+      <fr>
+        <DiscourseConnective annotation_id="341">En</DiscourseConnective> s'abstenant de voter sur une résolution concernant la mort de la journaliste russe Anna Politkovskaïa, cette Assemblée commet, à mon sens, une erreur politique <DiscourseConnective annotation_id="504">et</DiscourseConnective> humaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="399" docOffset="5">
+      <en>I hope that the honourable Members, particularly the Socialist Group in the European Parliament, understand this message.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="525">que</DiscourseConnective> les honorables députés, le groupe socialiste au Parlement européen <DiscourseConnective annotation_id="596">en particulier</DiscourseConnective>, comprennent ce message.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

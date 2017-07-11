@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Cross-border enforcement in the field of road safety (debate)</en>
+    <fr>Application transfrontière de la législation dans le domaine de la sécurité routière (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="62" id="484" name="President">
+    <ParallelChunk annotation_id="62" docOffset="1">
+      <en>The next item is the report by Mrs Ayala Sender, on behalf of the Committee on Transport and Tourism, on the proposal for a directive of the European Parliament and of the Council facilitating cross-border enforcement in the field of road safety - C6-0149/2008 -.</en>
+      <fr>L'ordre du jour appelle le rapport de Mme Ayala Sender, au nom de la commission des transports <DiscourseConnective annotation_id="188">et</DiscourseConnective> du tourisme, sur la proposition de directive du Parlement européen <DiscourseConnective annotation_id="258">et</DiscourseConnective> du Conseil facilitant l'application transfrontière de la législation dans le domaine de la sécurité routière - C6-0149/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="326" id="485" language="ES" name="Inés Ayala Sender">
+    <ParallelChunk annotation_id="326" docOffset="2">
+      <en>Mr President, I shall begin with a long list of acknowledgments.</en>
+      <fr>Monsieur le Président, je commencerai par une longue liste de remerciements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="391" docOffset="3">
+      <en>I must first of all thank the Commission for having submitted a document that provides us with an urgently needed instrument.</en>
+      <fr>Je dois <DiscourseConnective annotation_id="473">tout d'abord</DiscourseConnective> remercier la Commission d'avoir soumis un document qui nous dote d'un instrument dont nous avions besoin d'urgence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="517" docOffset="4">
+      <en>I must <Alignment alignment="610" annotation_id="524">
+          <DiscourseConnective annotation_id="524" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> thank the Commission, <DiscourseConnective annotation_id="556" sense="Temporal.Synchrony">as</DiscourseConnective> represented here by Vice-President Tajani, for having done us this favour of giving us an instrument that today, in 2008, is absolutely necessary after a really poor 2007, in terms of the progress in road safety that had been made before then.</en>
+      <fr>Je dois <Alignment alignment="524" annotation_id="610">
+          <DiscourseConnective annotation_id="610" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> remercier la Commission, représentée ici par son vice-président M. Tajani, de nous avoir fait cette faveur. Elle nous a ainsi dotés d'un instrument absolument indispensable aujourd'hui, <DiscourseConnective annotation_id="801">en</DiscourseConnective> 2008, <DiscourseConnective annotation_id="810">après</DiscourseConnective> une année 2007 marquée par un fort ralentissement des progrès <DiscourseConnective annotation_id="878">en</DiscourseConnective> matière de sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="803" docOffset="5">
+      <en>It is particularly necessary <Alignment alignment="943" annotation_id="832">
+          <DiscourseConnective annotation_id="832" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> we are now very close to the deadline - which is just two years away - for fulfilling the commitment and meeting the target set by all the European Union Member States of reducing road deaths by half.</en>
+      <fr>Il est d'<DiscourseConnective annotation_id="920">autant</DiscourseConnective> plus nécessaire <Alignment alignment="832" annotation_id="943">
+          <DiscourseConnective annotation_id="943" sense="Contingency.Cause.Reason">que</DiscourseConnective>
+        </Alignment> nous approchons de l'échéance - dans deux ans à peine - fixée <DiscourseConnective annotation_id="1009">pour</DiscourseConnective> respecter l'engagement <DiscourseConnective annotation_id="1037">et</DiscourseConnective> atteindre l'objectif défini par les États membres de l'Union européenne de réduire de moitié le nombre de morts sur les routes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1039" docOffset="6">
+      <en>I <Alignment alignment="32936" annotation_id="1041">
+          <DiscourseConnective annotation_id="1041" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> thank the Commission for that.</en>
+      <fr>Je remercie <Alignment alignment="12604" annotation_id="1180">
+          <DiscourseConnective annotation_id="1180" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> la Commission <DiscourseConnective annotation_id="1199">pour</DiscourseConnective> ce travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1082" docOffset="7">
+      <en>My thanks <Alignment alignment="1228" annotation_id="1092">
+          <DiscourseConnective annotation_id="1092" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> go to the French Presidency (even <Alignment alignment="1263" annotation_id="1131">
+          <DiscourseConnective annotation_id="1131" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> they have just left this Chamber), <Alignment alignment="1310" annotation_id="1173">
+          <DiscourseConnective annotation_id="1173" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I believe they convinced us, through their efforts and tenacity, that it was possible to make progress with this dossier.</en>
+      <fr>Je remercie <Alignment alignment="1092" annotation_id="1228">
+          <DiscourseConnective annotation_id="1228" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la Présidence française (<Alignment alignment="1131" annotation_id="1263">
+          <DiscourseConnective annotation_id="1263" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> elle vient de quitter cette enceinte), <Alignment alignment="15008" annotation_id="1310">
+          <DiscourseConnective annotation_id="1310" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> je pense qu'elle nous a convaincus, par ses efforts <DiscourseConnective annotation_id="1372">et</DiscourseConnective> sa ténacité, <DiscourseConnective annotation_id="1388">qu'</DiscourseConnective>il était possible d'avancer sur ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1303" docOffset="8">
+      <en>It proved to be complicated at the beginning because of its implications, <Alignment alignment="1511" annotation_id="1377">
+          <DiscourseConnective annotation_id="1377" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they convinced us that it was worthwhile.</en>
+      <fr>Celui-ci s'est avéré fort compliqué au début en raison de ses implications, <Alignment alignment="22945" annotation_id="1511">
+          <DiscourseConnective annotation_id="1511" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la Présidence nous a convaincus <DiscourseConnective annotation_id="1548">qu'</DiscourseConnective>il en valait la peine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1423" docOffset="9">
+      <en>I have to say, <Alignment alignment="35457" annotation_id="1438">
+          <DiscourseConnective annotation_id="1438" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that subsequently, bearing in mind that there were other more important dossiers, we did have some problems <DiscourseConnective annotation_id="1555" sense="Temporal.Synchrony">when</DiscourseConnective> it came to understanding the motives of the Legal Service.</en>
+      <fr>Je dois dire <Alignment alignment="3630" annotation_id="1587">
+          <DiscourseConnective annotation_id="1587" sense="Comparison.Contrast">cependant que</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1601">par la suite</DiscourseConnective>, étant donné la présence d'autres dossiers plus importants, nous avons eu quelques problèmes <DiscourseConnective annotation_id="1707">à</DiscourseConnective> comprendre les motivations du service juridique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1619" docOffset="10">
+      <en>We thought that it should always help the presidencies-in-office to advance their priorities and objectives, <Alignment alignment="1889" annotation_id="1728">
+          <DiscourseConnective annotation_id="1728" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> in this case we found <DiscourseConnective annotation_id="1754" sense="Expansion.Alternative.Chosen alternative">instead</DiscourseConnective> that it was of little use to us.</en>
+      <fr>Nous pensons <DiscourseConnective annotation_id="1771">que</DiscourseConnective> ce service devrait toujours aider les Présidences <DiscourseConnective annotation_id="1825">en</DiscourseConnective> exercice <DiscourseConnective annotation_id="1837">à</DiscourseConnective> faire avancer leurs priorités <DiscourseConnective annotation_id="1869">et</DiscourseConnective> leurs objectifs, <Alignment alignment="1728" annotation_id="1889">
+          <DiscourseConnective annotation_id="1889" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1894">dans ce cas</DiscourseConnective> précis il ne nous a pas été d'une grande utilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1795" docOffset="11">
+      <en>At one point, the Justice and Home Affairs Council put forward some conclusions with the best of intentions, <Alignment alignment="2074" annotation_id="1904">
+          <DiscourseConnective annotation_id="1904" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they did not help us maintain the strict approach that this text or instrument that we were working on was strictly a road safety instrument designed to prevent road traffic problems and accidents and driver impunity.</en>
+      <fr>Le Conseil Justice <DiscourseConnective annotation_id="1975">et</DiscourseConnective> affaires intérieures a émis <DiscourseConnective annotation_id="2006">à</DiscourseConnective> un certain moment des conclusions avec les meilleures intentions, <Alignment alignment="19606" annotation_id="2074">
+          <DiscourseConnective annotation_id="2074" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ils ne nous ont pas aidés à maintenir l'approche stricte faisant du texte <DiscourseConnective annotation_id="2153">ou</DiscourseConnective> de l'instrument sur lequel nous travaillions un instrument exclusivement consacré à la sécurité routière et destiné <DiscourseConnective annotation_id="2272">à</DiscourseConnective> prévenir les problèmes de circulation, les accidents de la route <DiscourseConnective annotation_id="2339">et</DiscourseConnective> l'impunité des conducteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2126" docOffset="12">
+      <en>Lastly, I give special, warm thanks to the shadow rapporteurs, particularly Mrs Fouré, who worked alongside me in the sense that we made a good team at improving this text, as well as the rest of my fellow committee members, Mr Cocilovo, Mrs Lichtenberger and my other colleagues.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="2379">enfin</DiscourseConnective> <DiscourseConnective annotation_id="2385">à</DiscourseConnective> remercier chaleureusement les rapporteurs fictifs, et <DiscourseConnective annotation_id="2441">en particulier</DiscourseConnective> Mme Fouré, avec qui j'ai formé une bonne équipe <DiscourseConnective annotation_id="2504">pour</DiscourseConnective> améliorer ce texte, <DiscourseConnective annotation_id="2529">ainsi</DiscourseConnective> que les autres membres de ma commission, M. Cocilovo, Mme Lichtenberger <DiscourseConnective annotation_id="2607">et</DiscourseConnective> mes autres collègues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2407" docOffset="13">
+      <en>I think together we have finally succeeded in moulding a better text.</en>
+      <fr>Je pense qu'ensemble, nous sommes <DiscourseConnective annotation_id="2666">finalement</DiscourseConnective> parvenus <DiscourseConnective annotation_id="2686">à</DiscourseConnective> élaborer un meilleur texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2477" docOffset="14">
+      <en>I believe we have succeeded in rounding off the procedure or system in those areas where certain issues were missing, such as getting subsequent administrative offences <DiscourseConnective annotation_id="2646" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective> the information has been exchanged <Alignment alignment="2943" annotation_id="2686">
+          <DiscourseConnective annotation_id="2686" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> notification made.</en>
+      <fr>Je pense que nous sommes parvenus à mettre au point la procédure <DiscourseConnective annotation_id="2781">ou</DiscourseConnective> le système dans les domaines où certaines questions restaient en suspens, <DiscourseConnective annotation_id="2858">comme</DiscourseConnective> l'obtention d'infractions administratives au terme des échanges d'informations <Alignment alignment="16635" annotation_id="2943">
+          <DiscourseConnective annotation_id="2943" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> après notification.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2709" docOffset="15">
+      <en>In the case of those Member States where these offences are administrative in nature, a complementary procedure was lacking, <Alignment alignment="3103" annotation_id="2834">
+          <DiscourseConnective annotation_id="2834" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think we have at least proposed a possible solution.</en>
+      <fr>Dans le cas des États membres où ces infractions revêtent un caractère purement administratif, il manquait une procédure complémentaire, <Alignment alignment="5311" annotation_id="3103">
+          <DiscourseConnective annotation_id="3103" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pense que nous avons <DiscourseConnective annotation_id="3130">au moins</DiscourseConnective> proposé une solution possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2893" docOffset="16">
+      <en>It is <Alignment alignment="3181" annotation_id="2899">
+          <DiscourseConnective annotation_id="2899" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> significant that we have enhanced the controls.</en>
+      <fr>Nous avons <Alignment alignment="15279" annotation_id="3181">
+          <DiscourseConnective annotation_id="3181" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> renforcé les contrôles, et c'est important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2952" docOffset="17">
+      <en>We are aware that we do not normally have a chance to enhance controls in matters of road safety, <Alignment alignment="29887" annotation_id="3050">
+          <DiscourseConnective annotation_id="3050" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in this case the Commission helped us.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="3247">que</DiscourseConnective> nous n'avons normalement pas la possibilité de renforcer les contrôles <DiscourseConnective annotation_id="3322">en</DiscourseConnective> matière de sécurité routière, <Alignment alignment="3050" annotation_id="3355">
+          <DiscourseConnective annotation_id="3355" sense="Expansion.Conjunction">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3360">dans ce cas</DiscourseConnective> la Commission nous a aidés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3093" docOffset="18">
+      <en>It was <Alignment alignment="32059" annotation_id="3100">
+          <DiscourseConnective annotation_id="3100" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> necessary to guarantee personal data protection, to recognise the work done by victim support groups, and to explain how this system should affect motorists.</en>
+      <fr>Il a <Alignment alignment="29140" annotation_id="3405">
+          <DiscourseConnective annotation_id="3405" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> fallu garantir la protection des données à caractère personnel, reconnaître le travail effectué par les groupes d'aide aux victimes <DiscourseConnective annotation_id="3547">et</DiscourseConnective> expliquer l'impact que ce système doit avoir sur les automobilistes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3263" docOffset="19">
+      <en>We <Alignment alignment="3638" annotation_id="3266">
+          <DiscourseConnective annotation_id="3266" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> do not understand why the Council has decided to stick to a position and a legal basis that does not help us in any way at all.</en>
+      <fr>Nous ne comprenons <Alignment alignment="34177" annotation_id="3638">
+          <DiscourseConnective annotation_id="3638" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas pourquoi le Conseil a décidé de s'accrocher <DiscourseConnective annotation_id="3691">à</DiscourseConnective> une position <DiscourseConnective annotation_id="3706">et</DiscourseConnective> à une base juridique qui ne nous aident <DiscourseConnective annotation_id="3749">en</DiscourseConnective> rien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3404" docOffset="20">
+      <en>
+        <Alignment alignment="3768" annotation_id="3404">
+          <DiscourseConnective annotation_id="3404" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>
+        </Alignment>, it blocks any possible way forward.</en>
+      <fr>Il bloque <Alignment alignment="930" annotation_id="3768">
+          <DiscourseConnective annotation_id="3768" sense="Expansion.Alternative.Chosen alternative">au contraire</DiscourseConnective>
+        </Alignment> toute possibilité de progrès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3449" docOffset="21">
+      <en>I must point out in this respect that we in Parliament and the Commission are convinced that the right basis is a road safety basis, <Alignment alignment="15343" annotation_id="3582">
+          <DiscourseConnective annotation_id="3582" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that this is an important first step towards improving precisely this area, which all of Europe's citizens are hoping will be improved.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3811">À cet égard</DiscourseConnective>, je dois souligner <DiscourseConnective annotation_id="3842">que</DiscourseConnective> le Parlement <DiscourseConnective annotation_id="3859">et</DiscourseConnective> la Commission sont convaincus <DiscourseConnective annotation_id="3892">que</DiscourseConnective> la base à adopter doit être une base fondée sur la sécurité routière <Alignment alignment="3582" annotation_id="3965">
+          <DiscourseConnective annotation_id="3965" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3968">que</DiscourseConnective> cela constitue une <DiscourseConnective annotation_id="3991">première étape</DiscourseConnective> importante dans l'amélioration de ce domaine précis, dont tous les citoyens européens espèrent qu'il sera amélioré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3722" docOffset="22">
+      <en>It must <Alignment alignment="4130" annotation_id="3730">
+          <DiscourseConnective annotation_id="3730" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> remain a third pillar subject.</en>
+      <fr>Il faut <Alignment alignment="3730" annotation_id="4130">
+          <DiscourseConnective annotation_id="4130" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que ce dossier reste un dossier du troisième pilier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3771" docOffset="23">
+      <en>The third pillar is about to expire, <DiscourseConnective annotation_id="3808" sense="Comparison.Contrast">however</DiscourseConnective>, <Alignment alignment="4241" annotation_id="3817">
+          <DiscourseConnective annotation_id="3817" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the Treaty of Lisbon (ratified by the Member States, which are now dragging their feet in the Council) aims to eliminate the third pillar.</en>
+      <fr>Mais ce troisième pilier est sur le point d'expirer, <Alignment alignment="3817" annotation_id="4241">
+          <DiscourseConnective annotation_id="4241" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> le traité de Lisbonne (ratifié par les États membres, qui traînent aujourd'hui les pieds au Conseil) vise <DiscourseConnective annotation_id="4355">à</DiscourseConnective> abroger le troisième pilier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3962" docOffset="24">
+      <en>Some of them now see it as something to brandish to stop this text progressing.</en>
+      <fr>Certains pays invoquent <DiscourseConnective annotation_id="4410">maintenant</DiscourseConnective> la disparition future du troisième pilier <DiscourseConnective annotation_id="4463">pour</DiscourseConnective> empêcher ce texte d'avancer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4042" docOffset="25">
+      <en>We hope and trust that the problems caused by the legal basis will be resolved.</en>
+      <fr>Nous espérons <DiscourseConnective annotation_id="4511">et</DiscourseConnective> nous sommes convaincus <DiscourseConnective annotation_id="4537">que</DiscourseConnective> les problèmes causés par la base juridique seront résolus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4122" docOffset="26">
+      <en>(The people will not understand <DiscourseConnective annotation_id="4154" sense="Temporal.Synchrony">when</DiscourseConnective> we explain to them why we cannot give them a basic instrument to improve road safety and prevent the impunity of those non-resident drivers who drive across our countries and break the law <Alignment alignment="4831" annotation_id="4348">
+          <DiscourseConnective annotation_id="4348" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they feel they cannot be punished.)</en>
+      <fr>(Les gens ne comprendraient pas que nous ne soyons pas en mesure de leur donner un instrument de base destiné <DiscourseConnective annotation_id="4710">à</DiscourseConnective> améliorer la sécurité routière <DiscourseConnective annotation_id="4743">et</DiscourseConnective> à empêcher l'impunité des conducteurs étrangers qui enfreignent la loi dans nos pays <Alignment alignment="6620" annotation_id="4831">
+          <DiscourseConnective annotation_id="4831" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>ils savent qu'ils échapperont aux sanctions.)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4392" docOffset="27">
+      <en>We really cannot understand how those problems can continue.</en>
+      <fr>Nous ne comprenons réellement pas comment ces problèmes peuvent perdurer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4453" docOffset="28">
+      <en>Hence we call on the forthcoming Czech Presidency to put aside its reservations and take a step forwards for the sake of road safety.</en>
+      <fr>Nous demandons <DiscourseConnective annotation_id="4975">donc</DiscourseConnective> <DiscourseConnective annotation_id="4980">à</DiscourseConnective> la future Présidence tchèque d'oublier ses réserves <DiscourseConnective annotation_id="5034">et</DiscourseConnective> de faire un pas en <DiscourseConnective annotation_id="5056">avant</DiscourseConnective> dans l'intérêt de la sécurité routière.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4587" id="486" language="IT" name="Antonio Tajani">
+    <ParallelChunk annotation_id="4587" docOffset="29">
+      <en>Mr President, ladies and gentlemen, I would like to begin by thanking Mrs Ayala Sender for the commitment she has lavished on this work, which she has truly carried out with passion, tenacity and great objectivity.</en>
+      <fr>vice-président de la Commission. - (IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="5174">et</DiscourseConnective> Messieurs, je voudrais <DiscourseConnective annotation_id="5200">tout d'abord</DiscourseConnective> remercier Mme Ayala Sender <DiscourseConnective annotation_id="5240">pour</DiscourseConnective> l'engagement dont elle a fait preuve dans ce travail <DiscourseConnective annotation_id="5298">qu'</DiscourseConnective>elle a mené avec passion, ténacité <DiscourseConnective annotation_id="5336">et</DiscourseConnective> une grande objectivité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4802" docOffset="30">
+      <en>The Commission's efforts <DiscourseConnective annotation_id="4827" sense="Contingency.Cause.Result">therefore</DiscourseConnective> - I have to tell you again - have one major objective, that of road safety.</en>
+      <fr>Les efforts de la Commission poursuivent un objectif majeur, je dois vous le redire, <DiscourseConnective annotation_id="5448">à</DiscourseConnective> savoir celui de la sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4913" docOffset="31">
+      <en>As concerns the content, <DiscourseConnective annotation_id="4938" sense="Comparison.Contrast">however</DiscourseConnective>, we have examined Mrs Ayala Sender's text, the amendments she has tabled, <Alignment alignment="5603" annotation_id="5020">
+          <DiscourseConnective annotation_id="5020" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have no objection to them; <Alignment alignment="44581" annotation_id="5054">
+          <Alignment alignment="5639" annotation_id="5054">
+            <DiscourseConnective annotation_id="5054" sense="Comparison.Contrast">on the contrary</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the Commission feels that this report points in the exact same direction as the proposal we presented, even helping to improve the quality of the text in certain respects.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5488">En</DiscourseConnective> ce qui concerne le contenu, nous avons examiné le texte de Mme Ayala Sender, les amendements qu'elle a déposés, <Alignment alignment="5020" annotation_id="5603">
+          <DiscourseConnective annotation_id="5603" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous n'y avons aucune objection. <Alignment alignment="5054" annotation_id="5639">
+          <Alignment alignment="20681" annotation_id="5639">
+            <DiscourseConnective annotation_id="5639" sense="Comparison.Contrast">Au contraire</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la Commission considère <DiscourseConnective annotation_id="5677">que</DiscourseConnective> ce rapport s'oriente dans la <DiscourseConnective annotation_id="5710">même</DiscourseConnective> direction <DiscourseConnective annotation_id="5725">que</DiscourseConnective> notre proposition, et qu'il contribue <DiscourseConnective annotation_id="5767">même</DiscourseConnective> <DiscourseConnective annotation_id="5772">à</DiscourseConnective> améliorer le texte <DiscourseConnective annotation_id="5793">à</DiscourseConnective> certains égards.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5243" docOffset="32">
+      <en>
+        <Alignment alignment="5812" annotation_id="5243">
+          <DiscourseConnective annotation_id="5243" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, the European Parliament sees the electronic network established for the exchange of information as a tool to be managed at Community level in order to guarantee the protection of European citizens' personal data.</en>
+      <fr>
+        <Alignment alignment="5243" annotation_id="5812">
+          <DiscourseConnective annotation_id="5812" sense="Expansion.Instantiation">Ainsi</DiscourseConnective>
+        </Alignment>, le Parlement européen considère que le réseau électronique mis en place <DiscourseConnective annotation_id="5891">pour</DiscourseConnective> permettre l'échange d'informations doit être géré au niveau communautaire <DiscourseConnective annotation_id="5970">afin de</DiscourseConnective> garantir la protection des données personnelles des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5469" docOffset="33">
+      <en>I can only say that I support these amendments that map out and specify the scope of the proposal.</en>
+      <fr>Je peux <DiscourseConnective annotation_id="6048">simplement</DiscourseConnective> <DiscourseConnective annotation_id="6059">dire que</DiscourseConnective> je soutiens les amendements qui décrivent <DiscourseConnective annotation_id="6110">et</DiscourseConnective> spécifient le champ d'application de cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5568" docOffset="34">
+      <en>I <Alignment alignment="6178" annotation_id="5570">
+          <DiscourseConnective annotation_id="5570" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> believe that some of the amendments really strengthen the proposal we presented.</en>
+      <fr>Je pense <Alignment alignment="6296" annotation_id="6178">
+          <DiscourseConnective annotation_id="6178" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="6188">que</DiscourseConnective> certains des amendements renforcent réellement la proposition que nous avons présentée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5656" docOffset="35">
+      <en>I refer to the amendments guaranteeing the follow-up of road traffic offences falling within the jurisdiction of administrative authorities and the amendments proposing the drafting of guidelines on monitoring methods and practices for Member States.</en>
+      <fr>Je pense aux amendements visant à garantir le suivi des infractions au code de la route relevant de la juridiction des autorités administratives <DiscourseConnective annotation_id="6425">et</DiscourseConnective> aux amendements proposant de rédiger des lignes directrices en matière de méthodes <DiscourseConnective annotation_id="6511">et</DiscourseConnective> de pratiques de surveillance <DiscourseConnective annotation_id="6543">pour</DiscourseConnective> les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5907" docOffset="36">
+      <en>These are all essential elements for ensuring road safety and achieving our target of at least halving the number of deaths caused by accidents on European roads.</en>
+      <fr>Tous ces éléments sont essentiels <DiscourseConnective annotation_id="6601">pour</DiscourseConnective> assurer la sécurité sur nos routes <DiscourseConnective annotation_id="6641">et</DiscourseConnective> pour réaliser notre objectif de réduire <DiscourseConnective annotation_id="6684">au moins</DiscourseConnective> de moitié le nombre d'accidents mortels sur les routes européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6070" docOffset="37">
+      <en>I would remind you that more than 40 000 people die on Europe's roads every year; in 2007 the figure was 42 500.</en>
+      <fr>Je vous rappelle <DiscourseConnective annotation_id="6778">que</DiscourseConnective> chaque année, plus de 40 000 personnes meurent sur les routes européennes. Ce chiffre était de 42 500 <DiscourseConnective annotation_id="6884">en</DiscourseConnective> 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6183" docOffset="38">
+      <en>
+        <Alignment alignment="6893" annotation_id="6183">
+          <DiscourseConnective annotation_id="6183" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we consider that this is more or less equivalent to one plane crash every day, it is clear that this is an often underestimated tragedy.</en>
+      <fr>
+        <Alignment alignment="6183" annotation_id="6893">
+          <DiscourseConnective annotation_id="6893" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> l'on considère <DiscourseConnective annotation_id="6911">que</DiscourseConnective> cela correspond plus <DiscourseConnective annotation_id="6936">ou</DiscourseConnective> moins <DiscourseConnective annotation_id="6945">à</DiscourseConnective> un accident d'avion par jour, on se rend compte <DiscourseConnective annotation_id="6995">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="7001">s'</DiscourseConnective>agit là d'une tragédie souvent sous-estimée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6323" docOffset="39">
+      <en>We are clearly not accustomed to thinking about how widespread the problem is.</en>
+      <fr>Il est clair que nous n'avons pas l'habitude de penser à l'ampleur de ce problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6402" docOffset="40">
+      <en>We ought, of course, to do more, much more.</en>
+      <fr>Nous devrions bien sûr en faire plus, beaucoup plus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6446" docOffset="41">
+      <en>That is why I welcome Parliament's swift action on this matter, and would like to thank Mrs Ayala Sender once more, as well as the Committee on Transport and Tourism, for the work they have done and for having grasped what is at stake here: the safety of all European citizens.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7184">C'est pourquoi</DiscourseConnective> je me réjouis de l'action rapide du Parlement sur cette question. Je voudrais remercier une fois de plus Mme Ayala Sender <DiscourseConnective annotation_id="7321">ainsi</DiscourseConnective> que la commission des transports <DiscourseConnective annotation_id="7360">et</DiscourseConnective> du tourisme du travail accompli <DiscourseConnective annotation_id="7395">et</DiscourseConnective> d'avoir compris ce qui est <DiscourseConnective annotation_id="7425">en</DiscourseConnective> jeu, à savoir la sécurité de tous les citoyens européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6724" docOffset="42">
+      <en>Parliament and the Commission are in perfect harmony on this, both insisting on the need for urgency in introducing laws that can make a real difference in reducing road accidents.</en>
+      <fr>Le Parlement <DiscourseConnective annotation_id="7499">et</DiscourseConnective> la Commission sont parfaitement d'accord sur ce point. Ils insistent tous deux sur la nécessité d'adopter rapidement de nouvelles lois susceptibles de contribuer réellement <DiscourseConnective annotation_id="7675">à</DiscourseConnective> la diminution du nombre des accidents de la route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6905" docOffset="43">
+      <en>Unfortunately, at the last meeting of the Council of Ministers we did not manage to achieve a consensus among the Member States.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7728">Malheureusement</DiscourseConnective>, nous ne sommes pas parvenus <DiscourseConnective annotation_id="7773">à</DiscourseConnective> un consensus entre les États membres lors de la dernière réunion du Conseil de ministres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7034" docOffset="44">
+      <en>The French Presidency did try to mediate, <Alignment alignment="7917" annotation_id="7076">
+          <DiscourseConnective annotation_id="7076" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> on 9 December we had to face the fact that, despite an agreement on the overall strategy to reduce the number of deaths, many Member States were insistent on the question of the third pillar.</en>
+      <fr>La Présidence française a bien tenté une médiation, <Alignment alignment="17761" annotation_id="7917">
+          <DiscourseConnective annotation_id="7917" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le 9 décembre, nous avons dû nous rendre à l'évidence: malgré l'accord concernant la stratégie globale de réduction du nombre de morts, de nombreux États membres ont insisté sur la question du troisième pilier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7272" docOffset="45">
+      <en>
+        <DiscourseConnective annotation_id="7272" sense="Comparison.Contrast">While</DiscourseConnective> the Commission and Parliament share the same views on the first pillar, many Member States are still talking about the need to regulate the issue under the third pillar.</en>
+      <fr>La Commission <DiscourseConnective annotation_id="8147">et</DiscourseConnective> le Parlement ont le <DiscourseConnective annotation_id="8170">même</DiscourseConnective> avis concernant le premier pilier, mais de nombreux États membres insistent <DiscourseConnective annotation_id="8251">encore</DiscourseConnective> sur la nécessité de réglementer cette question sous le troisième pilier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7448" docOffset="46">
+      <en>This strikes me as a complete contradiction, <Alignment alignment="8374" annotation_id="7493">
+          <DiscourseConnective annotation_id="7493" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I want to say so publicly before this House, repeating what I said at the Council of Ministers.</en>
+      <fr>Ceci me semble tout à fait contradictoire, <Alignment alignment="20117" annotation_id="8374">
+          <DiscourseConnective annotation_id="8374" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je tiens <DiscourseConnective annotation_id="8386">à</DiscourseConnective> le dire publiquement devant cette Assemblée et à répéter ce que j'ai dit au Conseil de ministres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7593" docOffset="47">
+      <en>We cannot understand how the European Council can decide to seek agreement on adopting the Treaty of Lisbon with a new referendum in Ireland - <Alignment alignment="8653" annotation_id="7736">
+          <DiscourseConnective annotation_id="7736" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you all know, the Treaty of Lisbon abolishes the third pillar - at the same time <Alignment alignment="8725" annotation_id="7820">
+          <DiscourseConnective annotation_id="7820" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Member States are saying that we need to regulate all action on collecting cross-border penalties on the basis of the third pillar.</en>
+      <fr>Nous ne comprenons pas comment le Conseil européen peut s'efforcer de parvenir <DiscourseConnective annotation_id="8565">à</DiscourseConnective> un accord sur l'adoption du traité de Lisbonne via un nouveau référendum <DiscourseConnective annotation_id="8640">en</DiscourseConnective> Irlande - <Alignment alignment="32" annotation_id="8653">
+          <DiscourseConnective annotation_id="8653" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, le traité de Lisbonne abroge le troisième pilier - <Alignment alignment="31020" annotation_id="8725">
+          <DiscourseConnective annotation_id="8725" sense="Temporal.Synchrony">alors même que</DiscourseConnective>
+        </Alignment> certains États membres insistent sur la nécessité de fonder toutes les actions relatives à la perception d'amendes transfrontalières sur le troisième pilier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7955" docOffset="48">
+      <en>This seems to me to be a huge contradiction that can lead to no positive outcome, <DiscourseConnective annotation_id="8037" sense="Expansion.Conjunction">and</DiscourseConnective> because of legal wrangling we are wasting time and are unable to take practical steps to provide citizens with practical help.</en>
+      <fr>Il me semble qu'il s'agit là d'une contradiction fondamentale qui ne saurait pas avoir de résultats positifs. Ce bras de fer juridique nous fait perdre du temps <DiscourseConnective annotation_id="9059">et</DiscourseConnective> nous empêche de prendre des mesures pratiques permettant d'aider nos concitoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8168" docOffset="49">
+      <en>Road accidents are no theoretical matter; they are a reality that could affect any European family, including our own, at any time.</en>
+      <fr>Les accidents de la route ne sont pas un problème théorique, ils sont une réalité qui peut frapper <DiscourseConnective annotation_id="9243">à</DiscourseConnective> tout moment n'importe quelle famille européenne, y compris la vôtre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8300" docOffset="50">
+      <en>It is our children who are on the roads, coming home from the clubs on a Saturday night or going to play football or going to parties.</en>
+      <fr>Ce sont vos enfants qui sont sur la route, qui reviennent de boîte de nuit le samedi soir, qui vont jouer au football <DiscourseConnective annotation_id="9432">ou</DiscourseConnective> qui se rendent dans des soirées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8435" docOffset="51">
+      <en>We should keep that thought in mind; this is not a question of legal wrangling <Alignment alignment="20792" annotation_id="8514">
+          <DiscourseConnective annotation_id="8514" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have no time to lose.</en>
+      <fr>Nous devons garder cette pensée <DiscourseConnective annotation_id="9500">à</DiscourseConnective> l'esprit. Nous n'avons pas de temps <DiscourseConnective annotation_id="9538">à</DiscourseConnective> perdre, <Alignment alignment="33091" annotation_id="9548">
+          <DiscourseConnective annotation_id="9548" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'heure n'est pas aux querelles juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8543" docOffset="52">
+      <en>I regret that there is no one from the Council here this evening, <Alignment alignment="9659" annotation_id="8609">
+          <DiscourseConnective annotation_id="8609" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I would like to make another heartfelt appeal - and I think I can do so on behalf of Parliament too - asking the Council to change its position <Alignment alignment="9819" annotation_id="8756">
+          <DiscourseConnective annotation_id="8756" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> for the Transport Council to take the same line as the European Council.</en>
+      <fr>Je regrette <DiscourseConnective annotation_id="9607">qu'</DiscourseConnective>aucun membre du Conseil ne soit présent ce soir, <Alignment alignment="10922" annotation_id="9659">
+          <DiscourseConnective annotation_id="9659" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> j'aurais voulu lancer un autre appel - <DiscourseConnective annotation_id="9702">et</DiscourseConnective> je pense pouvoir parler également au nom du Parlement. J'aurais voulu demander au Conseil de changer de position, <Alignment alignment="9792" annotation_id="9819">
+          <DiscourseConnective annotation_id="9819" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> au Conseil "Transports" de <DiscourseConnective annotation_id="9849">s'</DiscourseConnective>aligner sur la position du Conseil européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8833" docOffset="53">
+      <en>We must look to the future, we must look to the Treaty of Lisbon.</en>
+      <fr>Nous devons nous tourner vers l'avenir, vers le traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8899" docOffset="54">
+      <en>We all hope that it can enter into force soon, <Alignment alignment="21470" annotation_id="8946">
+          <DiscourseConnective annotation_id="8946" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> I do not think we can afford to keep looking backwards <Alignment alignment="10131" annotation_id="9009">
+          <DiscourseConnective annotation_id="9009" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to a question of protecting the lives of us all.</en>
+      <fr>Nous espérons tous que celui-ci pourra entrer en vigueur prochainement, <Alignment alignment="11345" annotation_id="10036">
+          <DiscourseConnective annotation_id="10036" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> je ne pense pas que nous puissions nous permettre de continuer à regarder en arrière <Alignment alignment="673" annotation_id="10131">
+          <DiscourseConnective annotation_id="10131" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> il <DiscourseConnective annotation_id="10140">s'</DiscourseConnective>agit de protéger la vie de tous les citoyens.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9072" id="487" language="FR" name="Brigitte Fouré">
+    <ParallelChunk annotation_id="9072" docOffset="55">
+      <en>Mr President, I must firstly thank Mrs Ayala Sender for her report <Alignment alignment="10307" annotation_id="9139">
+          <DiscourseConnective annotation_id="9139" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> our work was <DiscourseConnective annotation_id="9160" sense="Expansion.Conjunction">in fact</DiscourseConnective> very constructive. She took into account most of the amendments tabled by the various members of the Committee on Transport and Tourism to ensure that we arrived at a draft directive that could be adopted, <Alignment alignment="10617" annotation_id="9374">
+          <DiscourseConnective annotation_id="9374" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> not unanimously, at least by a very large majority in the Committee on Transport.</en>
+      <fr>au nom du groupe PPE-DE. - Monsieur le Président, je voudrais <DiscourseConnective annotation_id="10250">tout d'abord</DiscourseConnective> remercier Mme Ayala Sender <DiscourseConnective annotation_id="10290">pour</DiscourseConnective> son rapport <Alignment alignment="20057" annotation_id="10307">
+          <DiscourseConnective annotation_id="10307" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, en effet, nous avons travaillé de manière très constructive, et elle a pris en considération la plupart des amendements qui avaient été apportés par les différents membres de la commission des transports <DiscourseConnective annotation_id="10522">pour</DiscourseConnective> faire en sorte, et bien, <DiscourseConnective annotation_id="10552">qu'</DiscourseConnective>on aboutisse <DiscourseConnective annotation_id="10568">à</DiscourseConnective> un projet de directive qui puisse être adopté, <Alignment alignment="16206" annotation_id="10617">
+          <DiscourseConnective annotation_id="10617" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> ce n'est à l'unanimité, <DiscourseConnective annotation_id="10644">en tout cas</DiscourseConnective> <DiscourseConnective annotation_id="10656">à</DiscourseConnective> une majorité des voix extrêmement importante au sein de la commission des transports.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9459" docOffset="56">
+      <en>I would remind you, as has already been mentioned, of the aim of this directive, which is road safety.</en>
+      <fr>Je voudrais rappeler que - bien sûr, cela a été dit - l'objectif de cette directive, c'est la sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9562" docOffset="57">
+      <en>The aim is firstly to reduce the number of fatalities and injuries on Europe's roads, <Alignment alignment="27928" annotation_id="9648">
+          <DiscourseConnective annotation_id="9648" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is a real disaster and tragedy that unfolds every year before our eyes.</en>
+      <fr>C'est <DiscourseConnective annotation_id="10863">d'abord</DiscourseConnective> d'abaisser le nombre de tués <DiscourseConnective annotation_id="10900">et</DiscourseConnective> de blessés sur les routes d'Europe, <Alignment alignment="5071" annotation_id="10939">
+          <DiscourseConnective annotation_id="10939" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> c'est une véritable calamité, une véritable catastrophe qui se déroule tous les ans sous nos yeux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9731" docOffset="58">
+      <en>This aim is obviously shared by the 27 Member States and by all the Members of the European Parliament, <DiscourseConnective annotation_id="9835" sense="Expansion.Conjunction">and</DiscourseConnective> it makes sense to repeat that.</en>
+      <fr>Cet objectif, bien sûr, est partagé par les 27 États membres <DiscourseConnective annotation_id="11109">et</DiscourseConnective> par l'ensemble des parlementaires européens. Il est logique de le redire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9870" docOffset="59">
+      <en>The aim is <Alignment alignment="11196" annotation_id="9881">
+          <DiscourseConnective annotation_id="9881" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> to save lives and, at the same time, to end the discrimination that has existed to date between national drivers and drivers from other Member States.</en>
+      <fr>Il s'agit <Alignment alignment="1983" annotation_id="11196">
+          <DiscourseConnective annotation_id="11196" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> de sauver des vies, <DiscourseConnective annotation_id="11221">et</DiscourseConnective> <DiscourseConnective annotation_id="11224">en même temps</DiscourseConnective>, eh bien, de mettre fin à la discrimination qui existe <DiscourseConnective annotation_id="11293">jusqu'à</DiscourseConnective> présent entre les conducteurs nationaux <DiscourseConnective annotation_id="11341">et</DiscourseConnective> les conducteurs des autres États.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10042" docOffset="60">
+      <en>It is not acceptable that two different drivers are treated differently on the roads of one country.</en>
+      <fr>On ne peut pas supporter <DiscourseConnective annotation_id="11403">que</DiscourseConnective> sur les autoroutes d'un pays, deux automobilistes différents soient traités de manière différente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10143" docOffset="61">
+      <en>This is absolutely intolerable and cannot continue, <Alignment alignment="11570" annotation_id="10195">
+          <DiscourseConnective annotation_id="10195" sense="Expansion.Conjunction">particularly</DiscourseConnective>
+        </Alignment> <Alignment alignment="11570" annotation_id="10208">
+          <DiscourseConnective annotation_id="10208" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> - and I repeat - it is lives that are at stake.</en>
+      <fr>C'est absolument intolérable. Cela ne peut pas continuer <DiscourseConnective annotation_id="11563">ainsi</DiscourseConnective>, <Alignment alignment="10195" annotation_id="11570">
+          <Alignment alignment="10208" annotation_id="11570">
+            <DiscourseConnective annotation_id="11570" sense="Temporal.Synchrony">surtout quand</DiscourseConnective>
+          </Alignment>
+        </Alignment> ce sont des vies qui - je le répète encore une fois - sont <DiscourseConnective annotation_id="11643">en</DiscourseConnective> jeu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10261" docOffset="62">
+      <en>The offences covered have been rightly chosen as the ones causing the most accidents: speeding, drink-driving, failing to stop at red lights and, finally, not using a seat-belt.</en>
+      <fr>Les infractions qui sont visées sont bien ciblées <DiscourseConnective annotation_id="11701">comme</DiscourseConnective> étant les plus accidentogènes: c'est l'excès de vitesse, c'est la conduite sous l'empire d'un état alcoolique, c'est le fait de griller un feu rouge, <DiscourseConnective annotation_id="11857">et</DiscourseConnective> c'est <DiscourseConnective annotation_id="11866">enfin</DiscourseConnective> le non-port de la ceinture de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10439" docOffset="63">
+      <en>It is <Alignment alignment="34026" annotation_id="10445">
+          <DiscourseConnective annotation_id="10445" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> absolutely vital that we pursue this directive.</en>
+      <fr>Il est <Alignment alignment="14709" annotation_id="11919">
+          <DiscourseConnective annotation_id="11919" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> vraiment fondamental d'aller dans le sens de cette directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10503" docOffset="64">
+      <en>Lastly, I would remind you, <DiscourseConnective annotation_id="10531" sense="Temporal.Synchrony">as</DiscourseConnective> the Commissioner did a moment ago, that the Council of Ministers issued reservations with regard to the third pillar <DiscourseConnective annotation_id="10651" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="10655" sense="Contingency.Cause.Result">so</DiscourseConnective> on. <Alignment alignment="12146" annotation_id="10662">
+          <DiscourseConnective annotation_id="10662" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I believe that, for the sake of human lives, we must find legal solutions <Alignment alignment="32573" annotation_id="10745">
+          <DiscourseConnective annotation_id="10745" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in this respect I sometimes have the impression that the legal quibbles are just a pretext.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11986">Pour conclure</DiscourseConnective>, je voudrais rappeler - M. le commissaire le disait il y a une seconde - <DiscourseConnective annotation_id="12073">que</DiscourseConnective> le Conseil de ministres a émis des réserves: troisième pilier, etc., <Alignment alignment="5597" annotation_id="12146">
+          <DiscourseConnective annotation_id="12146" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="12160">que</DiscourseConnective> l'enjeu des vies humaines mérite évidemment qu'on trouve des solutions juridiques, <Alignment alignment="16510" annotation_id="12247">
+          <DiscourseConnective annotation_id="12247" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> là j'ai parfois l'impression <DiscourseConnective annotation_id="12279">que</DiscourseConnective> les arguties juridiques servent de véritables prétextes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10841" docOffset="65">
+      <en>I believe that the challenge is to eliminate these real tragedies from our roads, <DiscourseConnective annotation_id="10923" sense="Temporal.Synchrony">as</DiscourseConnective> these are not appropriate in our Europe.</en>
+      <fr>Il me semble <DiscourseConnective annotation_id="12353">que</DiscourseConnective> l'enjeu, c'est <DiscourseConnective annotation_id="12372">qu'</DiscourseConnective>on n'assiste plus à cette véritable catastrophe sur nos routes qui n'est pas à la hauteur de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10967" docOffset="66">
+      <en>Europe absolutely has to help us protect these human lives which are ended every year.</en>
+      <fr>Il faut absolument que l'Europe nous aide à protéger ces vies humaines auxquelles il est mis fin tous les ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11054" docOffset="67">
+      <en>That is the challenge of this directive, <Alignment alignment="12623" annotation_id="11095">
+          <DiscourseConnective annotation_id="11095" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that the European Parliament will deliver a very large majority, <DiscourseConnective annotation_id="11171" sense="Contingency.Condition">if</DiscourseConnective> not unanimity, <Alignment alignment="12699" annotation_id="11189">
+          <Alignment alignment="12699" annotation_id="11189">
+            <DiscourseConnective annotation_id="11189" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we can ensure that progress is made on this issue during the Czech Presidency.</en>
+      <fr>Voilà l'enjeu de cette directive, <Alignment alignment="8313" annotation_id="12623">
+          <DiscourseConnective annotation_id="12623" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="12635">que</DiscourseConnective> le Parlement européen sera très majoritaire, quasi unanime, <Alignment alignment="14228" annotation_id="12699">
+          <Alignment alignment="27681" annotation_id="12699">
+            <DiscourseConnective annotation_id="12699" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous puissions faire en sorte <DiscourseConnective annotation_id="12738">que</DiscourseConnective>, lors de la Présidence tchèque, les choses avancent sur cette question.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11276" id="488" language="RO" name="Silvia-Adriana Ţicău">
+    <ParallelChunk annotation_id="11276" docOffset="68">
+      <en>I would first of all like to thank Mrs Ayala Sender for her report on a subject which is extremely important.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="12826">tout d'abord</DiscourseConnective> remercier Mme Ayala Sender <DiscourseConnective annotation_id="12866">pour</DiscourseConnective> son rapport sur un sujet extrêmement important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11386" docOffset="69">
+      <en>Some 43 000 citizens lose their lives on Europe's roads <Alignment alignment="13002" annotation_id="11442">
+          <DiscourseConnective annotation_id="11442" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> roughly 1 300 000 citizens are involved in accidents.</en>
+      <fr>Chaque année, quelque 43 000 personnes trouvent la mort sur les routes européennes <Alignment alignment="11442" annotation_id="13002">
+          <DiscourseConnective annotation_id="13002" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> environ 1 300 000 personnes sont impliquées dans des accidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11500" docOffset="70">
+      <en>The 43 000 fatalities on Europe's roads are the equivalent of a medium-sized air crash every week.</en>
+      <fr>Les 43 000 morts sur les routes européennes correspondent <DiscourseConnective annotation_id="13127">à</DiscourseConnective> un accident d'avion de moyenne envergure chaque semaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11599" docOffset="71">
+      <en>I feel that we can no longer tolerate this situation.</en>
+      <fr>Il me semble <DiscourseConnective annotation_id="13199">que</DiscourseConnective> nous ne pouvons plus tolérer cette situation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11653" docOffset="72">
+      <en>I would like to mention that the directive being proposed does not refer to criminal sanctions or to the points systems where they already exist in Member States.</en>
+      <fr>J'insiste sur le fait <DiscourseConnective annotation_id="13271">que</DiscourseConnective> la directive proposée ne concerne pas les sanctions pénales ni les systèmes de permis à points <DiscourseConnective annotation_id="13370">déjà</DiscourseConnective> en place dans certains États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11816" docOffset="73">
+      <en>I would like to call for data to be transferred between Member States in a manner which guarantees its confidentiality and security.</en>
+      <fr>J'insiste <DiscourseConnective annotation_id="13423">pour que</DiscourseConnective> soient garanties la confidentialité <DiscourseConnective annotation_id="13468">et</DiscourseConnective> la sécurité des données qui seront communiquées entre États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11949" docOffset="74">
+      <en>Communications between Member States should <Alignment alignment="13587" annotation_id="11993">
+          <DiscourseConnective annotation_id="11993" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> include the methods of payment available and the currency which will be used to make this payment.</en>
+      <fr>Les communications entre États membres devront <Alignment alignment="7115" annotation_id="13587">
+          <DiscourseConnective annotation_id="13587" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> mentionner les méthodes de paiement disponibles <DiscourseConnective annotation_id="13645">et</DiscourseConnective> la devise dans laquelle ce paiement aura lieu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12097" docOffset="75">
+      <en>
+        <Alignment alignment="13695" annotation_id="12097">
+          <Alignment alignment="43478" annotation_id="12097">
+            <DiscourseConnective annotation_id="12097" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, <Alignment alignment="13709" annotation_id="12110">
+          <DiscourseConnective annotation_id="12110" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the central authorities in the Member State of residence are going to decide not to go ahead and apply the financial sanctions imposed by the Member State in which the offence took place, this must be reported to the European Commission without fail.</en>
+      <fr>
+        <Alignment alignment="8027" annotation_id="13695">
+          <Alignment alignment="13673" annotation_id="13695">
+            <DiscourseConnective annotation_id="13695" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, <Alignment alignment="34321" annotation_id="13709">
+          <DiscourseConnective annotation_id="13709" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les autorités centrales de l'État membre de résidence décident de ne pas appliquer une sanction financière imposée par l'État membre dans lequel l'infraction a eu lieu, ce refus doit systématiquement être signalé <DiscourseConnective annotation_id="13925">à</DiscourseConnective> la Commission européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12364" docOffset="76">
+      <en>I believe that this directive is extremely important.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="13962">que</DiscourseConnective> cette directive est extrêmement importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12418" docOffset="77">
+      <en>This is why I hope that the European Parliament's vote on this matter will <Alignment alignment="21663" annotation_id="12493">
+          <DiscourseConnective annotation_id="12493" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> help the European Council to take a step in the right direction, <Alignment alignment="14166" annotation_id="12563">
+          <DiscourseConnective annotation_id="12563" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment>, to approve this directive.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14010">C'est pourquoi</DiscourseConnective> j'espère <DiscourseConnective annotation_id="14034">que</DiscourseConnective> le vote du Parlement européen sur cette question aidera <Alignment alignment="22347" annotation_id="14094">
+          <DiscourseConnective annotation_id="14094" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> le Conseil européen <DiscourseConnective annotation_id="14124">à</DiscourseConnective> faire un pas dans la bonne direction et <Alignment alignment="26100" annotation_id="14166">
+          <DiscourseConnective annotation_id="14166" sense="Expansion.Restatement">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="14171">à</DiscourseConnective> approuver cette directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12606" docOffset="78">
+      <en>This is an absolute must.</en>
+      <fr>C'est absolument indispensable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12632" docOffset="79">
+      <en>Thank you.</en>
+      <fr>Merci.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12643" id="489" language="BG" name="Bilyana Ilieva Raeva">
+    <ParallelChunk annotation_id="12643" docOffset="80">
+      <en>Mrs Ayala Sender, I would like to begin by congratulating you for making one of the most tragic social problems our common political priority.</en>
+      <fr>au nom du groupe ALDE. - (BG) Madame Ayala Sender, je tiens tout d'abord à vous remercier d'avoir fait de l'un des problèmes les plus tragiques de nos sociétés une priorité politique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12786" docOffset="81">
+      <en>Nowadays, the loss of human life, <Alignment alignment="29428" annotation_id="12820">
+          <DiscourseConnective annotation_id="12820" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you said Commissioner, is far above the figure we want to see at a general European level.</en>
+      <fr>
+        <Alignment alignment="12820" annotation_id="14423">
+          <DiscourseConnective annotation_id="14423" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous l'avez dit vous-même, Monsieur le Commissaire, le bilan actuel en vies humaines est nettement supérieur à nos objectifs au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12914" docOffset="82">
+      <en>We have almost 70 standards for various spare parts for cars, <Alignment alignment="17662" annotation_id="12976">
+          <DiscourseConnective annotation_id="12976" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> at the moment, we do not have a directive to curb the number of people losing their lives on the European Union's roads.</en>
+      <fr>Nous avons près de 70 normes différentes concernant les pièces détachées <DiscourseConnective annotation_id="14647">pour</DiscourseConnective> voitures, <Alignment alignment="12976" annotation_id="14662">
+          <DiscourseConnective annotation_id="14662" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous n'avons pas <DiscourseConnective annotation_id="14684">encore</DiscourseConnective> de directive destinées <DiscourseConnective annotation_id="14714">à</DiscourseConnective> limiter le nombre des accidents mortels sur les routes de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13101" docOffset="83">
+      <en>This is absurd.</en>
+      <fr>C'est absurde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13117" docOffset="84">
+      <en>The safety of human lives on our roads is no less important than the environmental standards which we impose on Member States.</en>
+      <fr>La protection des vies humaines sur nos routes est tout <DiscourseConnective annotation_id="14865">aussi</DiscourseConnective> importante <DiscourseConnective annotation_id="14882">que</DiscourseConnective> les normes environnementales <DiscourseConnective annotation_id="14915">que</DiscourseConnective> nous imposons aux États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13244" docOffset="85">
+      <en>In this context, we need to support, in tomorrow morning's vote, Mrs Sender's report proposing mandatory cross-border sanctions for four main offences which account for more than 75% of fatalities on the road.</en>
+      <fr>C'est dans cette perspective que nous devons soutenir, lors du vote de demain, le rapport de Mme Sender proposant des sanctions transfrontalières obligatoires <DiscourseConnective annotation_id="15111">pour</DiscourseConnective> les 4 infractions principales responsables <DiscourseConnective annotation_id="15159">de plus</DiscourseConnective> de 75 % des morts sur la route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13454" docOffset="86">
+      <en>Implementing cross-border measures against these offences will limit the number of serious and fatal accidents and will bring us closer to a reduction target of 50% by 2010.</en>
+      <fr>L'application de mesures transfrontalières contre ces infractions réduira le nombre d'accidents graves <DiscourseConnective annotation_id="15302">et</DiscourseConnective> mortels <DiscourseConnective annotation_id="15313">et</DiscourseConnective> nous rapprochera de notre objectif d'une diminution de 50 % d'ici 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13628" docOffset="87">
+      <en>General road policy is based on the European Union's general road legislation and on general standards, <Alignment alignment="26904" annotation_id="13732">
+          <DiscourseConnective annotation_id="13732" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> not necessarily using the same benchmarks.</en>
+      <fr>La politique routière générale est basée sur la législation routière générale de l'Union européenne <DiscourseConnective annotation_id="15488">et</DiscourseConnective> sur des normes générales, <Alignment alignment="32466" annotation_id="15517">
+          <DiscourseConnective annotation_id="15517" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> pas nécessairement sur les mêmes valeurs de référence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13779" docOffset="88">
+      <en>We are talking about red traffic lights and speeding, <Alignment alignment="15628" annotation_id="13833">
+          <DiscourseConnective annotation_id="13833" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we are not talking about the operation of traffic lights or roundabouts, or about not using mobile phones and smoking <DiscourseConnective annotation_id="13955" sense="Temporal.Synchrony">when</DiscourseConnective> driving, or about driving courses in the European Union or general fines which would have shocked even the most hardened offenders.</en>
+      <fr>Nous parlons de feux rouges <DiscourseConnective annotation_id="15605">et</DiscourseConnective> d'excès de vitesse, <Alignment alignment="13833" annotation_id="15628">
+          <DiscourseConnective annotation_id="15628" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous ne parlons pas du fonctionnement des feux de circulation ni des ronds-points, ni de l'utilisation de téléphones mobiles <DiscourseConnective annotation_id="15758">ou</DiscourseConnective> du tabagisme au volant, ni de formations à la conduite dans l'Union européenne <DiscourseConnective annotation_id="15840">ou</DiscourseConnective> d'amendes générales qui auraient choqué les chauffards les plus endurcis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14092" docOffset="89">
+      <en>
+        <DiscourseConnective annotation_id="14092" sense="Contingency.Condition">If</DiscourseConnective>, at the moment, a Hungarian driver is allowed to break the highway code in Germany and is not punished in any way for this, introducing this directive <Alignment alignment="16073" annotation_id="14246">
+          <DiscourseConnective annotation_id="14246" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> your proposals will ensure that he will be punished in his own country.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15917">À</DiscourseConnective> l'heure actuelle, un conducteur hongrois qui enfreint le code de la route <DiscourseConnective annotation_id="15993">en</DiscourseConnective> Allemagne ne se voit infliger aucune sanction. L'adoption de cette directive <Alignment alignment="28046" annotation_id="16073">
+          <DiscourseConnective annotation_id="16073" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de vos propositions permettra de le sanctionner dans son propre pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14322" docOffset="90">
+      <en>The European Union needs a general European policy on road safety that will establish a safety level sufficient to protect human lives on our roads, which Member States are not allowed to deviate from.</en>
+      <fr>L'Union européenne a besoin d'une politique européenne générale en matière de sécurité routière contraignante pour les États membres et instaurant un niveau de sécurité suffisant <DiscourseConnective annotation_id="16325">pour</DiscourseConnective> protéger la vie humaine sur nos routes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14524" docOffset="91">
+      <en>We can rely, of course, on the Commission to punish governments which have not dealt properly with waste, which have failed to observe the Working Time Directive <Alignment alignment="16552" annotation_id="14686">
+          <DiscourseConnective annotation_id="14686" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> which have harmed the environment.</en>
+      <fr>Nous pouvons bien sûr compter sur la Commission <DiscourseConnective annotation_id="16418">pour</DiscourseConnective> punir les gouvernements qui ne traitent pas correctement les déchets, qui ne respectent pas la directive sur <DiscourseConnective annotation_id="16532">le temps de</DiscourseConnective> travail <Alignment alignment="14686" annotation_id="16552">
+          <DiscourseConnective annotation_id="16552" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> qui polluent l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14724" docOffset="92">
+      <en>Do we not need <DiscourseConnective annotation_id="14739" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> mechanisms which will guarantee that national road death figures do not exceed any average European values?</en>
+      <fr>N'avons-nous pas besoin de mécanismes permettant de faire en sorte <DiscourseConnective annotation_id="16652">que</DiscourseConnective> les bilans nationaux des morts sur la route ne dépassent pas les valeurs moyennes européennes?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14852" docOffset="93">
+      <en>In this context, I would once again like to emphasise how important it is that we adopt generally accepted European accident indicators as our yardstick.</en>
+      <fr>Dans ce contexte, je voudrais souligner une fois de plus à quel point il est important d'adopter <DiscourseConnective annotation_id="16848">comme</DiscourseConnective> points de référence des indicateurs européens généralement acceptés en matière d'accidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15006" docOffset="94">
+      <en>I believe, Mrs Ayala Sender, that your report makes progress towards creating an integrated pan-European road safety policy.</en>
+      <fr>Madame Ayala Sender, je pense <DiscourseConnective annotation_id="16976">que</DiscourseConnective> votre rapport représente un progrès vers la création d'une politique paneuropéenne intégrée en matière de sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15131" docOffset="95">
+      <en>This directive will provide the basis for a Europe without road offences, without borders and without any chance of breaking the rules.</en>
+      <fr>Cette directive formera la base d'une Europe <DiscourseConnective annotation_id="17150">sans</DiscourseConnective> infractions au code de la route, <DiscourseConnective annotation_id="17188">sans</DiscourseConnective> frontières <DiscourseConnective annotation_id="17204">et</DiscourseConnective> <DiscourseConnective annotation_id="17207">sans</DiscourseConnective> aucune chance d'enfreindre les règles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15267" id="490" language="DE" name="Eva Lichtenberger">
+    <ParallelChunk annotation_id="15267" docOffset="96">
+      <en>Mr President, first of all my thanks go to our rapporteur.</en>
+      <fr>au nom du groupe des Verts/ALE. - (DE) Monsieur le Président, je tiens <DiscourseConnective annotation_id="17322">avant</DiscourseConnective> tout à remercier notre rapporteure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15326" docOffset="97">
+      <en>She made a great effort in this area, which unexpectedly turned into a very controversial issue, to reach a consensus, including with the Council.</en>
+      <fr>Sur ce dossier controversé au-delà de toute attente, elle a fait de gros efforts <DiscourseConnective annotation_id="17445">pour</DiscourseConnective> parvenir à un compromis, y compris avec le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15473" docOffset="98">
+      <en>The Council is taking a very illogical <Alignment alignment="95814" annotation_id="15512">
+          <DiscourseConnective annotation_id="15512" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> a very un-European stand on this question, <DiscourseConnective annotation_id="15559" sense="Temporal.Synchrony">as</DiscourseConnective> the primary objective of a number of governments is obviously to protect their own fast drivers, tailgaters or drunk drivers, regardless of whose lives they endanger.</en>
+      <fr>La position du Conseil sur cette question est très peu logique <Alignment alignment="3945" annotation_id="17565">
+          <DiscourseConnective annotation_id="17565" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> très peu européenne. L'objectif premier de certains gouvernements est de toute évidence de protéger leurs propres chauffards, conducteurs dangereux <DiscourseConnective annotation_id="17716">ou</DiscourseConnective> ivres, sans considération <DiscourseConnective annotation_id="17745">pour</DiscourseConnective> les vies qu'ils mettent en danger.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15729" docOffset="99">
+      <en>What happens at the moment is that people comply with restrictions in their own country but, <Alignment alignment="17900" annotation_id="15822">
+          <Alignment alignment="17900" annotation_id="15822">
+            <DiscourseConnective annotation_id="15822" sense="Temporal.Synchrony">as soon as</DiscourseConnective>
+          </Alignment>
+        </Alignment> they cross the border, they grow a lead foot and cannot get the accelerator off the floor, precisely <Alignment alignment="17946" annotation_id="15934">
+          <DiscourseConnective annotation_id="15934" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they need not worry about having to pay a fine.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17785">À</DiscourseConnective> l'heure actuelle, les gens respectent les limitations de vitesse dans leur propre pays <DiscourseConnective annotation_id="17874">mais</DiscourseConnective> leur pied s'alourdit <Alignment alignment="15822" annotation_id="17900">
+          <Alignment alignment="15822" annotation_id="17900">
+            <DiscourseConnective annotation_id="17900" sense="Temporal.Synchrony">dès qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>ils passent la frontière - <DiscourseConnective annotation_id="17934">précisément</DiscourseConnective> <Alignment alignment="15934" annotation_id="17946">
+          <DiscourseConnective annotation_id="17946" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>ils savent qu'ils n'ont pas d'amende <DiscourseConnective annotation_id="17992">à</DiscourseConnective> craindre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15990" docOffset="100">
+      <en>One thing must be made clear: small countries or countries with a great deal of tourism find it particularly difficult to secure understanding from their own citizens about penalties, that is about law enforcement, <Alignment alignment="18244" annotation_id="16205">
+          <DiscourseConnective annotation_id="16205" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the latter are absolutely sure that others are, in practice, under no threat of penalty.</en>
+      <fr>Il faut dire une chose clairement: les petits pays <DiscourseConnective annotation_id="18055">et</DiscourseConnective> les pays qui accueillent beaucoup de touristes ont beaucoup de mal <DiscourseConnective annotation_id="18125">à</DiscourseConnective> faire accepter ces amendes <DiscourseConnective annotation_id="18154">à</DiscourseConnective> leurs propres citoyens, à leur faire comprendre <DiscourseConnective annotation_id="18204">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="18210">s'</DiscourseConnective>agit de faire respecter la loi, <Alignment alignment="16205" annotation_id="18244">
+          <DiscourseConnective annotation_id="18244" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> ces citoyens savent parfaitement <DiscourseConnective annotation_id="18280">que</DiscourseConnective> dans la pratique, d'autres sont <DiscourseConnective annotation_id="18316">à</DiscourseConnective> l'abri de toute sanction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16297" docOffset="101">
+      <en>
+        <Alignment alignment="55521" annotation_id="16297">
+          <DiscourseConnective annotation_id="16297" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> <Alignment alignment="18356" annotation_id="16300">
+          <DiscourseConnective annotation_id="16300" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> I have a tailgater behind me on the road, who is driving right up behind me and has a number plate from another Member State of the European Union, I have to ask myself <DiscourseConnective annotation_id="16474" sense="Contingency.Condition">if</DiscourseConnective> it is <Alignment alignment="18506" annotation_id="16483">
+          <DiscourseConnective annotation_id="16483" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> my life is worth less than a life is worth in his country that he only gives people in his own country a safety margin?</en>
+      <fr>Ainsi <Alignment alignment="16297" annotation_id="18350">
+          <DiscourseConnective annotation_id="18350" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, <Alignment alignment="16300" annotation_id="18356">
+          <DiscourseConnective annotation_id="18356" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> un chauffard me colle sur la route et que je vois qu'il a une plaque d'immatriculation d'un autre pays européen, je me pose la question: est-ce <Alignment alignment="7502" annotation_id="18506">
+          <DiscourseConnective annotation_id="18506" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> ma vie vaut moins <DiscourseConnective annotation_id="18534">que</DiscourseConnective> la vie d'un citoyen de son pays qu'il ne laisse une marge de sécurité qu'aux gens de son propre pays?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16611" docOffset="102">
+      <en>That is not right, it is not European <Alignment alignment="18698" annotation_id="16649">
+          <DiscourseConnective annotation_id="16649" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it reduces road traffic safety.</en>
+      <fr>Cette situation est injuste, elle est indigne de l'Europe <Alignment alignment="16649" annotation_id="18698">
+          <DiscourseConnective annotation_id="18698" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle nuit à la sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16685" docOffset="103">
+      <en>We have achieved a good text.</en>
+      <fr>Nous avons élaboré un texte de qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16715" docOffset="104">
+      <en>Of course something is still missing: the question of data protection, <Alignment alignment="18859" annotation_id="16786">
+          <DiscourseConnective annotation_id="16786" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, has not been clarified sufficiently.</en>
+      <fr>Bien sûr, il manque <DiscourseConnective annotation_id="18795">encore</DiscourseConnective> quelque chose: la question de la protection des données, <Alignment alignment="1746" annotation_id="18859">
+          <DiscourseConnective annotation_id="18859" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, n'a pas encore été suffisamment clarifiée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16836" docOffset="105">
+      <en>
+        <Alignment alignment="55" annotation_id="16836">
+          <DiscourseConnective annotation_id="16836" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I ask you in closing to please support my tabled amendment on the EUR 70 limit; <Alignment alignment="19046" annotation_id="16925">
+          <DiscourseConnective annotation_id="16925" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> we will have cleared up much of the debate on imbalances.</en>
+      <fr>Je vous demande <Alignment alignment="16836" annotation_id="18931">
+          <DiscourseConnective annotation_id="18931" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="18942">pour conclure</DiscourseConnective>, de soutenir l'amendement que j'ai déposé concernant le plafond de 70 euros. Nous aurions <Alignment alignment="18810" annotation_id="19046">
+          <DiscourseConnective annotation_id="19046" sense="Temporal.Asynchronous.Precedence">ainsi</DiscourseConnective>
+        </Alignment> résolu une grande partie du débat relatif aux déséquilibres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16988" docOffset="106">
+      <en>The point here is simply that an astute level of fine would be a sensible limit.</en>
+      <fr>Il s'agit <DiscourseConnective annotation_id="19123">simplement</DiscourseConnective> d'instaurer comme limite raisonnable un niveau d'amendes approprié.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17069" id="491" language="IT" name="Sebastiano Musumeci">
+    <ParallelChunk annotation_id="17069" docOffset="107">
+      <en>Mr President, Mr Tajani, ladies and gentlemen, 40 000 deaths a year is a horrifying statistic.</en>
+      <fr>Monsieur le Président, Monsieur Tajani, Mesdames <DiscourseConnective annotation_id="19251">et</DiscourseConnective> Messieurs, le chiffre de 40 000 morts par an est horrible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17164" docOffset="108">
+      <en>
+        <Alignment alignment="19313" annotation_id="17164">
+          <DiscourseConnective annotation_id="17164" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> not yet a disaster, road deaths are certainly an extremely serious social phenomenon, in the face of which Member States can often do no more than keep discouraging records and generate alarming statistics.</en>
+      <fr>
+        <Alignment alignment="7142" annotation_id="19313">
+          <DiscourseConnective annotation_id="19313" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>ils ne représentent pas <DiscourseConnective annotation_id="19339">encore</DiscourseConnective> une catastrophe, les accidents mortels sur la route constituent certainement un phénomène social extrêmement grave face auquel les États membres doivent souvent se résigner à enregistrer les chiffres <DiscourseConnective annotation_id="19546">et</DiscourseConnective> à publier des statistiques alarmantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17374" docOffset="109">
+      <en>It is the product of greater personal mobility, some will say; it is the product of increasing mechanisation, some will say.</en>
+      <fr>Certains diront que c'est là la conséquence d'une plus grande mobilité, d'autres diront que c'est le <DiscourseConnective annotation_id="19689">résultat</DiscourseConnective> d'une mécanisation toujours plus importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17499" docOffset="110">
+      <en>Of course, <Alignment alignment="19753" annotation_id="17510">
+          <DiscourseConnective annotation_id="17510" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is <Alignment alignment="19764" annotation_id="17520">
+          <DiscourseConnective annotation_id="17520" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> the consequence of a dilatory policy of prevention on the one hand and repression on the other by Member States and, indeed, the European Union, which up to now has been unable to secure a common road safety policy.</en>
+      <fr>Bien sûr, <Alignment alignment="17510" annotation_id="19753">
+          <DiscourseConnective annotation_id="19753" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> c'est <Alignment alignment="19362" annotation_id="19764">
+          <DiscourseConnective annotation_id="19764" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> la conséquence d'une politique de prévention <DiscourseConnective annotation_id="19815">et</DiscourseConnective> de répression incohérente de la part des États membres <DiscourseConnective annotation_id="19873">et</DiscourseConnective> de l'Union européenne, qui n'a pas su <DiscourseConnective annotation_id="19914">jusqu'à</DiscourseConnective> présent mettre sur pied une politique commune en matière de sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17741" docOffset="111">
+      <en>A recent survey conducted by the Italian office of statistics found that, in 2007, night-time accidents between Friday night and Sunday morning accounted for 44% of all road accidents in Italy.</en>
+      <fr>Une étude récente réalisée par l'institut national italien des statistiques a révélé <DiscourseConnective annotation_id="20086">qu'en</DiscourseConnective> 2007, les accidents nocturnes entre le vendredi soir <DiscourseConnective annotation_id="20145">et</DiscourseConnective> le dimanche matin représentaient 44 % de tous les accidents de la route <DiscourseConnective annotation_id="20220">en</DiscourseConnective> Italie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17935" docOffset="112">
+      <en>The irresponsible behaviour of those who get behind the wheel is, <Alignment alignment="20231" annotation_id="18001">
+          <DiscourseConnective annotation_id="18001" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, unfortunately not limited to any one country, <Alignment alignment="20349" annotation_id="18056">
+          <DiscourseConnective annotation_id="18056" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> it is crucial that we examine this proposal for a directive, which attempts to discourage car drivers from committing road traffic offences wherever they may be, with the aim of halving the number of deaths on the road by 2010.</en>
+      <fr>
+        <Alignment alignment="18001" annotation_id="20231">
+          <DiscourseConnective annotation_id="20231" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="20236">malheureusement</DiscourseConnective>, le comportement irresponsable des conducteurs ne se limite pas <DiscourseConnective annotation_id="20316">à</DiscourseConnective> un pays en particulier. Il est <Alignment alignment="38032" annotation_id="20349">
+          <DiscourseConnective annotation_id="20349" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> essentiel d'examiner cette proposition de directive, qui s'efforce de dissuader les automobilistes d'enfreindre le code de la route où qu'ils se trouvent, l'objectif étant de diminuer de moitié le nombre de morts sur les routes d'ici 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18287" docOffset="113">
+      <en>This is a good thing, <Alignment alignment="42980" annotation_id="18309">
+          <DiscourseConnective annotation_id="18309" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> in at least some cases further improvements are required.</en>
+      <fr>C'est une bonne chose, <Alignment alignment="376" annotation_id="20617">
+          <DiscourseConnective annotation_id="20617" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> des améliorations restent nécessaires sur certains points.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18371" docOffset="114">
+      <en>Let me give just one example: the follow-up of offences.</en>
+      <fr>Permettez-moi de vous donner un exemple: le suivi des infractions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18428" docOffset="115">
+      <en>My opinion, Mr Tajani, is that we should follow Switzerland's example.</en>
+      <fr>Je pense, Monsieur Tajani, <DiscourseConnective annotation_id="20775">que</DiscourseConnective> nous devrions suivre l'exemple de la Suisse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18499" docOffset="116">
+      <en>In Switzerland anyone who commits a road traffic offence is stopped a few kilometres later by a traffic patrol <Alignment alignment="20970" annotation_id="18610">
+          <DiscourseConnective annotation_id="18610" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> one of two things happens: either the driver pays the fine immediately <DiscourseConnective annotation_id="18685" sense="Expansion.Alternative">or</DiscourseConnective> their car is confiscated <Alignment alignment="21088" annotation_id="18713">
+          <DiscourseConnective annotation_id="18713" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> the penalty is paid.</en>
+      <fr>
+        <DiscourseConnective annotation_id="20824">En</DiscourseConnective> Suisse, tous ceux qui commettent une infraction au code de la route sont arrêtés quelques kilomètres plus loin par une patrouille de la route, <Alignment alignment="2929" annotation_id="20970">
+          <DiscourseConnective annotation_id="20970" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ils ont le choix entre deux possibilités: <DiscourseConnective annotation_id="21015">soit</DiscourseConnective> ils paient l'amende immédiatement, soit leur voiture est confisquée <Alignment alignment="18713" annotation_id="21088">
+          <DiscourseConnective annotation_id="21088" sense="Temporal.Asynchronous.Precedence">jusqu'au</DiscourseConnective>
+        </Alignment> paiement de l'amende.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18740" docOffset="117">
+      <en>I am perfectly aware that such a policy is not easy to implement <Alignment alignment="21204" annotation_id="18805">
+          <DiscourseConnective annotation_id="18805" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it may seem drastic, <Alignment alignment="21243" annotation_id="18835">
+          <DiscourseConnective annotation_id="18835" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is undoubtedly effective, <DiscourseConnective annotation_id="18868" sense="Expansion.Conjunction">and</DiscourseConnective>, <DiscourseConnective annotation_id="18873" sense="Expansion.Conjunction">moreover</DiscourseConnective>, we all know that you cannot cure cancer with an aspirin, <Alignment alignment="520" annotation_id="18940">
+          <DiscourseConnective annotation_id="18940" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is metastases we are now facing.</en>
+      <fr>J'ai pleinement conscience <DiscourseConnective annotation_id="21146">qu'</DiscourseConnective>une telle politique n'est pas facile <DiscourseConnective annotation_id="21186">à</DiscourseConnective> mettre en œuvre <Alignment alignment="15188" annotation_id="21204">
+          <DiscourseConnective annotation_id="21204" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="21207">qu'</DiscourseConnective>elle peut sembler trop radicale, <Alignment alignment="3354" annotation_id="21243">
+          <DiscourseConnective annotation_id="21243" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> elle est très efficace. Nous savons tous <DiscourseConnective annotation_id="21289">qu'</DiscourseConnective>on ne soigne pas un cancer avec de l'aspirine <Alignment alignment="18940" annotation_id="21338">
+          <DiscourseConnective annotation_id="21338" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous avons déjà affaire à des métastases.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18980" docOffset="118">
+      <en>Mrs Ayala Sender's report is <Alignment alignment="32188" annotation_id="19009">
+          <DiscourseConnective annotation_id="19009" sense="Comparison.Concession">nonetheless</DiscourseConnective>
+        </Alignment> a good report <Alignment alignment="37249" annotation_id="19035">
+          <DiscourseConnective annotation_id="19035" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> will of course receive my support.</en>
+      <fr>Le rapport de Mme Ayala Sender est <Alignment alignment="637" annotation_id="21418">
+          <DiscourseConnective annotation_id="21418" sense="Comparison.Concession">néanmoins</DiscourseConnective>
+        </Alignment> un bon rapport, <Alignment alignment="2553" annotation_id="21444">
+          <DiscourseConnective annotation_id="21444" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il va de soi que je le soutiendrai.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19074" id="492" name="Luís Queiró">
+    <ParallelChunk annotation_id="19074" docOffset="119">
+      <en>(PT) Mr President, my colleague Ari Vatanen, who is a well-known champion of motor sport, often says that we all have to die one day, <Alignment alignment="21654" annotation_id="19208">
+          <DiscourseConnective annotation_id="19208" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> he adds that this does not have to happen at the wheel of a car.</en>
+      <fr>(PT) Monsieur le Président, mon collègue Ari Vatanen, un ancien champion bien connu dans le sport automobile, dit souvent <DiscourseConnective annotation_id="21605">que</DiscourseConnective> nous devrons tous mourir <DiscourseConnective annotation_id="21634">un jour</DiscourseConnective> ou l'autre, <Alignment alignment="8515" annotation_id="21654">
+          <DiscourseConnective annotation_id="21654" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il ajoute <DiscourseConnective annotation_id="21669">que</DiscourseConnective> ce ne doit pas nécessairement être au volant d'une voiture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19277" docOffset="120">
+      <en>Since 2005, <DiscourseConnective annotation_id="19289" sense="Comparison.Contrast">however</DiscourseConnective>, the number of victims of fatal road accidents has not fallen <Alignment alignment="21803" annotation_id="19359">
+          <DiscourseConnective annotation_id="19359" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it should.</en>
+      <fr>Le nombre des victimes d'accidents mortels de la route n'a pas baissé <Alignment alignment="18977" annotation_id="21803">
+          <DiscourseConnective annotation_id="21803" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> il aurait dû le faire <DiscourseConnective annotation_id="21831">depuis</DiscourseConnective> 2005.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19373" docOffset="121">
+      <en>The 2007 figures reinforce our concern.</en>
+      <fr>Les chiffres pour 2007 ne font que confirmer nos inquiétudes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19413" docOffset="122">
+      <en>It is these fluctuations that best demonstrate how much we still have to do.</en>
+      <fr>Ces fluctuations apportent la meilleure preuve de tout ce qu'il nous reste <DiscourseConnective annotation_id="21981">à</DiscourseConnective> faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19490" docOffset="123">
+      <en>We are all aware that sanctions imposed for many offences committed on the territory of Member States other than the driver's country of residence are most frequently not enforced.</en>
+      <fr>Nous savons tous <DiscourseConnective annotation_id="22007">bien que</DiscourseConnective>, la plupart du temps, les sanctions infligées <DiscourseConnective annotation_id="22062">pour</DiscourseConnective> de nombreuses infractions commises dans un État membre autre <DiscourseConnective annotation_id="22128">que</DiscourseConnective> le pays de résidence du conducteur concerné ne sont pas appliquées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19671" docOffset="124">
+      <en>The proposal for a directive that we are now debating rightly outlines an electronic data exchange system which aims to facilitate the cross-border enforcement of financial road traffic penalties, focusing on the four most serious offences in terms of human lives in Europe.</en>
+      <fr>La proposition de directive dont nous discutons à présent propose à juste titre un système électronique d'échange de données destiné <DiscourseConnective annotation_id="22333">à</DiscourseConnective> faciliter l'application transfrontalière des pénalités financières liées au code de la route et se concentre sur les infractions les plus graves <DiscourseConnective annotation_id="22480">en</DiscourseConnective> termes de coût en vies humaines <DiscourseConnective annotation_id="22515">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19946" docOffset="125">
+      <en>This system is justified in itself.</en>
+      <fr>Ce système se justifie <DiscourseConnective annotation_id="22549">en</DiscourseConnective> soi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19982" docOffset="126">
+      <en>
+        <Alignment alignment="59148" annotation_id="19982">
+          <DiscourseConnective annotation_id="19982" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the rights of citizens with regard to the protection of their personal data must be safeguarded.</en>
+      <fr>
+        <Alignment alignment="12126" annotation_id="22557">
+          <DiscourseConnective annotation_id="22557" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il faut aussi protéger les droits des citoyens <DiscourseConnective annotation_id="22609">en</DiscourseConnective> ce qui concerne la protection de leurs données personnelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20088" docOffset="127">
+      <en>The European Commission's evaluation of the directive's implementation is therefore essential and should be rigorously carried out.</en>
+      <fr>L'évaluation par la Commission de la mise en œuvre de cette directive est <DiscourseConnective annotation_id="22747">donc</DiscourseConnective> essentielle <DiscourseConnective annotation_id="22764">et</DiscourseConnective> elle devra être réalisée avec rigueur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20220" docOffset="128">
+      <en>There is still the problem of the different legal categorisation of offences according to the Member State in which they are committed.</en>
+      <fr>Il reste le problème de la catégorisation juridique différente des infractions selon l'État membre dans lequel elles sont commises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20356" docOffset="129">
+      <en>In some cases, these offences are merely administrative, whereas in others they are criminal offences.</en>
+      <fr>Certaines infractions revêtent un caractère <DiscourseConnective annotation_id="22982">simplement</DiscourseConnective> administratif dans certains pays <DiscourseConnective annotation_id="23026">alors qu'</DiscourseConnective>elles sont considérées comme des infractions pénales dans d'autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20459" docOffset="130">
+      <en>In some cases they are accompanied by additional penalties, such as a driving ban, <Alignment alignment="23229" annotation_id="20542">
+          <DiscourseConnective annotation_id="20542" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> in others they are not.</en>
+      <fr>Certaines infractions <DiscourseConnective annotation_id="23125">s'</DiscourseConnective>accompagnent de sanctions supplémentaires, <DiscourseConnective annotation_id="23170">comme</DiscourseConnective> par exemple un retrait de permis, dans certains pays <Alignment alignment="16580" annotation_id="23229">
+          <DiscourseConnective annotation_id="23229" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> pas dans d'autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20570" docOffset="131">
+      <en>This is not the time to go into technical detail, <Alignment alignment="23310" annotation_id="20620">
+          <DiscourseConnective annotation_id="20620" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is the time to call for the best solutions for implementing the directive to be studied for the future.</en>
+      <fr>L'heure n'est pas <DiscourseConnective annotation_id="23271">à</DiscourseConnective> un débat sur les détails techniques, <Alignment alignment="6220" annotation_id="23310">
+          <DiscourseConnective annotation_id="23310" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons demander une analyse future des meilleures solutions à appliquer pour mettre en œuvre cette directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20731" docOffset="132">
+      <en>The rapporteur, whom I must congratulate, <Alignment alignment="23483" annotation_id="20773">
+          <Alignment alignment="58434" annotation_id="20773">
+            <DiscourseConnective annotation_id="20773" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> suggests possible solutions that include the harmonisation of both fixed penalties and also road safety control practices and equipment.</en>
+      <fr>La rapporteure, <DiscourseConnective annotation_id="23446">que</DiscourseConnective> je me dois de féliciter, suggère <Alignment alignment="25527" annotation_id="23483">
+          <Alignment alignment="16666" annotation_id="23483">
+            <DiscourseConnective annotation_id="23483" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> des solutions possibles qui incluent l'harmonisation <DiscourseConnective annotation_id="23544">non seulement</DiscourseConnective> des sanctions définies, <DiscourseConnective annotation_id="23582">mais aussi</DiscourseConnective> des pratiques <DiscourseConnective annotation_id="23607">et</DiscourseConnective> de l'équipement de contrôle en matière de sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20918" docOffset="133">
+      <en>In our opinion, there are <Alignment alignment="23696" annotation_id="20944">
+          <DiscourseConnective annotation_id="20944" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> doubts about the effective right of appeal <Alignment alignment="23759" annotation_id="20992">
+          <DiscourseConnective annotation_id="20992" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the driver does not agree with the penalty applied.</en>
+      <fr>Nous pensons qu'il reste <Alignment alignment="19567" annotation_id="23696">
+          <DiscourseConnective annotation_id="23696" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des doutes quant aux possibilités réelles de recours <Alignment alignment="9665" annotation_id="23759">
+          <DiscourseConnective annotation_id="23759" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>un automobiliste conteste la sanction infligée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21049" docOffset="134">
+      <en>Will this right be properly guaranteed where the appellant has to appeal in a jurisdiction and against laws which are not those of his country of residence?</en>
+      <fr>Le droit de recours sera-t-il garanti <DiscourseConnective annotation_id="23852">si</DiscourseConnective> la personne qui fait appel d'une décision se trouve confrontée <DiscourseConnective annotation_id="23918">à</DiscourseConnective> un système judiciaire <DiscourseConnective annotation_id="23942">et</DiscourseConnective> <DiscourseConnective annotation_id="23945">à</DiscourseConnective> des lois autres <DiscourseConnective annotation_id="23963">que</DiscourseConnective> celles de son pays de résidence?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21206" docOffset="135">
+      <en>This is a question which I leave for Commissioner Tajani to answer.</en>
+      <fr>Je laisse <DiscourseConnective annotation_id="24010">à</DiscourseConnective> M. le commissaire Tajani le soin de répondre à cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21274" docOffset="136">
+      <en>Lastly, drivers must be properly informed about their new rights and duties.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24075">Enfin</DiscourseConnective>, les conducteurs doivent être informés correctement de leurs nouveaux droits <DiscourseConnective annotation_id="24158">et</DiscourseConnective> de leurs nouvelles obligations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21351" docOffset="137">
+      <en>Only in this way will they see this initiative, not as a repressive instrument, but rather as a way of encouraging behaviour behind the wheel which is safer and more respectful of other people's and their own lives.</en>
+      <fr>C'est <DiscourseConnective annotation_id="24199">à</DiscourseConnective> cette condition seulement qu'ils percevront cette initiative non <DiscourseConnective annotation_id="24266">comme</DiscourseConnective> un instrument répressif, <DiscourseConnective annotation_id="24297">mais</DiscourseConnective> <DiscourseConnective annotation_id="24302">plutôt</DiscourseConnective> <DiscourseConnective annotation_id="24309">comme</DiscourseConnective> une façon d'encourager un comportement au volant à la fois plus sûr <DiscourseConnective annotation_id="24383">et</DiscourseConnective> plus respectueux de la vie des autres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21567" id="493" name="President">
+    <ParallelChunk annotation_id="21567" docOffset="138">
+      <en>Thank you, Mr Queiró.</en>
+      <fr>Merci, Monsieur Queiró.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21589" docOffset="139">
+      <en>For my part, I would like to reassure you.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="24458">pour</DiscourseConnective> ma part <DiscourseConnective annotation_id="24471">à</DiscourseConnective> vous rassurer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21632" docOffset="140">
+      <en>I use a moped more than a car, <Alignment alignment="49666" annotation_id="21663">
+          <DiscourseConnective annotation_id="21663" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I would like to avoid dying <DiscourseConnective annotation_id="21695" sense="Temporal.Synchrony">when</DiscourseConnective> I am on my moped too, not just <DiscourseConnective annotation_id="21731" sense="Temporal.Synchrony">when</DiscourseConnective> I am in my car. .</en>
+      <fr>J'utilise plus souvent un vélomoteur <DiscourseConnective annotation_id="24525">qu'</DiscourseConnective>une voiture, <Alignment alignment="13392" annotation_id="24541">
+          <DiscourseConnective annotation_id="24541" sense="Comparison.Contrast">et</DiscourseConnective>
+        </Alignment> je voudrais éviter de mourir sur mon vélomoteur, et pas seulement dans ma voiture.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21754" id="494" name="Robert Evans">
+    <ParallelChunk annotation_id="21754" docOffset="141">
+      <en>Mr President, this is an important dossier, <Alignment alignment="24688" annotation_id="21798">
+          <DiscourseConnective annotation_id="21798" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am disappointed that the Council is not here, <Alignment alignment="24735" annotation_id="21850">
+          <DiscourseConnective annotation_id="21850" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it now has a crucial role to play <Alignment alignment="24787" annotation_id="21892">
+          <DiscourseConnective annotation_id="21892" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the direction of its thinking is, I understand, rather different from that of this Parliament.</en>
+      <fr>(EN) Monsieur le Président, il <DiscourseConnective annotation_id="24658">s'</DiscourseConnective>agit d'un dossier important <Alignment alignment="6390" annotation_id="24688">
+          <DiscourseConnective annotation_id="24688" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je regrette <DiscourseConnective annotation_id="24703">que</DiscourseConnective> le Conseil ne <DiscourseConnective annotation_id="24721">soit</DiscourseConnective> pas ici, <Alignment alignment="21850" annotation_id="24735">
+          <DiscourseConnective annotation_id="24735" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il a <DiscourseConnective annotation_id="24749">maintenant</DiscourseConnective> un rôle essentiel <DiscourseConnective annotation_id="24778">à</DiscourseConnective> jouer, <Alignment alignment="21892" annotation_id="24787">
+          <DiscourseConnective annotation_id="24787" sense="Temporal.Synchrony">d'autant plus que</DiscourseConnective>
+        </Alignment> son point de vue, si je comprends bien, est assez différent de celui de ce Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21990" docOffset="142">
+      <en>Ms Ayala Sender referred to concerns about the legal base.</en>
+      <fr>Mme Ayala Sender a fait état de préoccupations concernant la base légale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22049" docOffset="143">
+      <en>
+        <DiscourseConnective annotation_id="22049" sense="Comparison.Contrast">While</DiscourseConnective> I support the principle of cross-border enforcement, it has to be legally sound and stronger than it is now.</en>
+      <fr>Je suis favorable à l'application transfrontalière des lois, mais cette application doit reposer sur une base saine <DiscourseConnective annotation_id="25081">et</DiscourseConnective> plus solide <DiscourseConnective annotation_id="25096">qu'</DiscourseConnective>à présent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22164" docOffset="144">
+      <en>The offences covered by this proposal are limited to speeding, drink-driving, the seat belt and not driving through a red light.</en>
+      <fr>Cette proposition couvre uniquement les infractions liées <DiscourseConnective annotation_id="25168">à</DiscourseConnective> la vitesse, à la conduite en état d'ivresse, au port de la ceinture <DiscourseConnective annotation_id="25238">et</DiscourseConnective> au respect des feux de circulation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22293" docOffset="145">
+      <en>Ms Fouré said that these cannot be tolerated <Alignment alignment="25345" annotation_id="22338">
+          <DiscourseConnective annotation_id="22338" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> Ms Ayala Sender spoke of people getting away with it.</en>
+      <fr>Mme Fouré a déclaré <DiscourseConnective annotation_id="25297">que</DiscourseConnective> ces infractions ne pouvaient être tolérées, <Alignment alignment="22338" annotation_id="25345">
+          <DiscourseConnective annotation_id="25345" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> Mme Ayala Sender nous dit que certains conducteurs restent impunis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22396" docOffset="146">
+      <en>I hope that, <Alignment alignment="40805" annotation_id="22409">
+          <DiscourseConnective annotation_id="22409" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we approach the next phase of discussion, we will address this aspect of getting away with it.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="25425">qu'</DiscourseConnective>
+        <Alignment alignment="19266" annotation_id="25428">
+          <DiscourseConnective annotation_id="25428" sense="Temporal.Synchrony">au moment d'</DiscourseConnective>
+        </Alignment>aborder la prochaine phase de discussion, nous nous pencherons sur cette question de l'impunité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22507" docOffset="147">
+      <en>People who get away with drink-driving, speeding or jumping red traffic lights are a danger to other citizens, <Alignment alignment="25730" annotation_id="22618">
+          <DiscourseConnective annotation_id="22618" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they are often, I would argue, the very same people who think that other rules of the road do not apply to them, whether we are talking about parking restrictions, congestion charges or, <Alignment alignment="25939" annotation_id="22809">
+          <DiscourseConnective annotation_id="22809" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Ms Raeva said, driving using a mobile phone.</en>
+      <fr>Les conducteurs qui se permettent de conduire <DiscourseConnective annotation_id="25583">en</DiscourseConnective> état d'ivresse, de dépasser les limitations de vitesse <DiscourseConnective annotation_id="25641">ou</DiscourseConnective> de brûler les feux rouges représentent un danger <DiscourseConnective annotation_id="25693">pour</DiscourseConnective> les autres usagers de la route. <Alignment alignment="20614" annotation_id="25730">
+          <DiscourseConnective annotation_id="25730" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> je pense que ces mêmes personnes considèrent de façon générale <DiscourseConnective annotation_id="25798">que</DiscourseConnective> les autres règles du code de la route ne les concernent pas, <DiscourseConnective annotation_id="25863">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="25869">s'</DiscourseConnective>agisse d'interdictions de stationnement, de taxes de congestion <DiscourseConnective annotation_id="25935">ou</DiscourseConnective>, <Alignment alignment="21874" annotation_id="25939">
+          <DiscourseConnective annotation_id="25939" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a mentionné Mme Raeva, de l'utilisation d'un téléphone mobile au volant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22857" docOffset="148">
+      <en>There are <Alignment alignment="26027" annotation_id="22867">
+          <DiscourseConnective annotation_id="22867" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> those who ignore innovative measures such as low-emission zones.</en>
+      <fr>Il y a <Alignment alignment="22354" annotation_id="26027">
+          <DiscourseConnective annotation_id="26027" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> ceux qui ignorent les mesures novatrices telles <DiscourseConnective annotation_id="26085">que</DiscourseConnective> les zones <DiscourseConnective annotation_id="26099">à</DiscourseConnective> émissions limitées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22937" docOffset="149">
+      <en>These are very important issues <Alignment alignment="26155" annotation_id="22969">
+          <DiscourseConnective annotation_id="22969" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> no one should ignore them.</en>
+      <fr>Il <DiscourseConnective annotation_id="26124">s'</DiscourseConnective>agit de problèmes importants <Alignment alignment="22969" annotation_id="26155">
+          <DiscourseConnective annotation_id="26155" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> personne ne doit les ignorer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23000" docOffset="150">
+      <en>We need cross-border, pan-European enforcement to counter them all.</en>
+      <fr>Nous avons besoin d'une application paneuropéenne et transfrontalière des lois <DiscourseConnective annotation_id="26267">pour</DiscourseConnective> lutter contre toutes ces infractions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23068" docOffset="151">
+      <en>All the people who break the laws contribute to those 42 000 deaths which the Commissioner spoke about earlier.</en>
+      <fr>Tous ceux qui enfreignent la loi contribuent <DiscourseConnective annotation_id="26355">à</DiscourseConnective> ces 42 000 morts dont nous parlait M. le Commissaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23180" docOffset="152">
+      <en>
+        <Alignment alignment="5172" annotation_id="23180">
+          <DiscourseConnective annotation_id="23180" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there were 42 000 deaths in any field of European activity other than driving, we would be up in arms about it day after day, week after week, month after month.</en>
+      <fr>
+        <Alignment alignment="23180" annotation_id="26411">
+          <DiscourseConnective annotation_id="26411" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> une autre activité <DiscourseConnective annotation_id="26433">que</DiscourseConnective> la conduite automobile provoquait 42 000 morts, nous prendrions les armes pour lutter contre ce problème jour <DiscourseConnective annotation_id="26547">après</DiscourseConnective> jour, semaine <DiscourseConnective annotation_id="26567">après</DiscourseConnective> semaine, mois <DiscourseConnective annotation_id="26587">après</DiscourseConnective> mois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23345" docOffset="153">
+      <en>Colleagues, together we must act to strengthen this piece of legislation second time around for all our citizens in the 27 EU Member States.</en>
+      <fr>Mes chers collègues, nous devons agir ensemble <DiscourseConnective annotation_id="26646">pour</DiscourseConnective> renforcer cette législation au deuxième passage dans l'intérêt de tous les citoyens des 27 États membres de l'Union européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23486" id="495" name="President">
+    <ParallelChunk annotation_id="23486" docOffset="154">
+      <en>I would like to let you know that the Council Secretariat is present <Alignment alignment="26846" annotation_id="23555">
+          <DiscourseConnective annotation_id="23555" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> taking full note of what is being said.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="26788">à</DiscourseConnective> vous signaler <DiscourseConnective annotation_id="26804">que</DiscourseConnective> le secrétariat du Conseil est présent <Alignment alignment="16354" annotation_id="26846">
+          <DiscourseConnective annotation_id="26846" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'il prend note des contenus de nos débats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23599" docOffset="155">
+      <en>I say this for the benefit of those of you who have spoken and in light of the comments made.</en>
+      <fr>Je dis cela <DiscourseConnective annotation_id="26906">à</DiscourseConnective> l'attention de ceux d'entre vous qui se sont exprimés <DiscourseConnective annotation_id="26962">et</DiscourseConnective> <DiscourseConnective annotation_id="26965">en</DiscourseConnective> réponse aux remarques entendues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23693" docOffset="156">
+      <en>Mr Rack, you have the floor for two minutes.</en>
+      <fr>Monsieur Rack, vous avez la parole <DiscourseConnective annotation_id="27036">pour</DiscourseConnective> deux minutes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23738" id="496" name="Reinhard Rack">
+    <ParallelChunk annotation_id="23738" docOffset="157">
+      <en>(DE) Mr President, Commissioner, it is good that we at least agree on jointly prosecuting four common offences, <Alignment alignment="37626" annotation_id="23850">
+          <DiscourseConnective annotation_id="23850" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> what is important in reality is that these traffic offences really are punished, not just that we say we agree that numerous offences should be prosecuted.</en>
+      <fr>(DE) Monsieur le Président, Monsieur le Commissaire, je me réjouis <DiscourseConnective annotation_id="27122">que</DiscourseConnective> nous soyons <DiscourseConnective annotation_id="27138">au moins</DiscourseConnective> d'accord <DiscourseConnective annotation_id="27156">pour</DiscourseConnective> poursuivre quatre infractions fréquentes, <Alignment alignment="23850" annotation_id="27203">
+          <DiscourseConnective annotation_id="27203" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce qui compte <DiscourseConnective annotation_id="27222">en</DiscourseConnective> pratique, c'est <DiscourseConnective annotation_id="27241">que</DiscourseConnective> ces infractions au code de la route soient réellement sanctionnées, et non <DiscourseConnective annotation_id="27320">que</DiscourseConnective> nous soyons d'accord pour <DiscourseConnective annotation_id="27350">dire que</DiscourseConnective> diverses infractions devraient faire l'objet de poursuites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24010" docOffset="158">
+      <en>The key problem is <Alignment alignment="27443" annotation_id="24029">
+          <Alignment alignment="41783" annotation_id="24029">
+            <DiscourseConnective annotation_id="24029" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> that numerous Member States do not prosecute what needs to be prosecuted.</en>
+      <fr>Le problème central est <Alignment alignment="24029" annotation_id="27443">
+          <Alignment alignment="24029" annotation_id="27443">
+            <DiscourseConnective annotation_id="27443" sense="Expansion.Conjunction">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> <DiscourseConnective annotation_id="27451">que</DiscourseConnective> bon nombre d'États membres ne sanctionnent pas les infractions <DiscourseConnective annotation_id="27518">qu'</DiscourseConnective>ils devraient sanctionner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24111" docOffset="159">
+      <en>That being so, I consider it incomprehensible - and we need to say this loud and clear - that some Member States - and they are <DiscourseConnective annotation_id="24239" sense="Expansion.Conjunction">also</DiscourseConnective> primarily those who do not want to punish traffic offences from other Member States - are hiding behind the legal question and the conflict of competence.</en>
+      <fr>
+        <DiscourseConnective annotation_id="27548">Ceci étant dit</DiscourseConnective>, je ne comprends pas - <DiscourseConnective annotation_id="27586">et</DiscourseConnective> nous devons le dire haut <DiscourseConnective annotation_id="27614">et</DiscourseConnective> fort - <DiscourseConnective annotation_id="27624">que</DiscourseConnective> certains États membres, <DiscourseConnective annotation_id="27652">et</DiscourseConnective> principalement ceux qui ne souhaitent pas sanctionner les infractions de roulage commises dans d'autres États membres, se retranchent derrière la question juridique <DiscourseConnective annotation_id="27820">et</DiscourseConnective> les conflits de compétences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24399" docOffset="160">
+      <en>What is important here is that we abide by the basic position taken in the Lisbon Treaty.</en>
+      <fr>L'important est de respecter la position fondamentale adoptée par le traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24489" docOffset="161">
+      <en>In any event, what is important is that Member States should not protect their citizens from what they get up to in another Member State.</en>
+      <fr>Il est <DiscourseConnective annotation_id="27948">en tout cas</DiscourseConnective> important <DiscourseConnective annotation_id="27970">que</DiscourseConnective> les États membres ne protègent pas leurs propres ressortissants des conséquences de leur comportement dans un autre État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24627" docOffset="162">
+      <en>This being so, I am really sorry to have to reproach the Commission - but reproach it I must - and ask why no one has ever considered instituting or at least threatening to institute infringement proceedings against the Member States which systematically fail to punish certain offences.</en>
+      <fr>Ceci étant, je regrette de devoir adresser un reproche à la Commission, <DiscourseConnective annotation_id="28175">mais</DiscourseConnective> il le faut pourtant, <DiscourseConnective annotation_id="28201">et</DiscourseConnective> je demande pourquoi personne n'a jamais envisagé de lancer, <DiscourseConnective annotation_id="28264">ou</DiscourseConnective> <DiscourseConnective annotation_id="28267">au moins</DiscourseConnective> de menacer de lancer des procédures en infraction contre les États membres qui refusent systématiquement de punir certaines infractions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24915" docOffset="163">
+      <en>I think that would be a reasonable approach, a very clear signal that this really is a genuine concern on the part of Europe and the European Community <Alignment alignment="28595" annotation_id="25067">
+          <DiscourseConnective annotation_id="25067" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would <Alignment alignment="28615" annotation_id="25079">
+          <DiscourseConnective annotation_id="25079" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> specifically advise it.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="28422">qu'</DiscourseConnective>une telle approche serait raisonnable et qu'elle signalerait clairement <DiscourseConnective annotation_id="28497">qu'</DiscourseConnective>il s'agit là d'une réelle préoccupation de la part de l'Europe <DiscourseConnective annotation_id="28563">et</DiscourseConnective> de la Communauté européenne, <Alignment alignment="25067" annotation_id="28595">
+          <DiscourseConnective annotation_id="28595" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je la recommande <Alignment alignment="2314" annotation_id="28615">
+          <DiscourseConnective annotation_id="28615" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25113" docOffset="164">
+      <en>A second point that is important in my opinion is why we do not <DiscourseConnective annotation_id="25177" sense="Expansion.Conjunction">also</DiscourseConnective> integrate candidate countries into this system?</en>
+      <fr>Un deuxième point qui me semble important est le suivant: pourquoi ne pas intégrer <DiscourseConnective annotation_id="28704">à</DiscourseConnective> ce système les pays candidats?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25230" docOffset="165">
+      <en>I come from a country in which there are a great many drivers from neighbouring countries which are not yet or which are barely Member States of the European Union <Alignment alignment="78913" annotation_id="25394">
+          <DiscourseConnective annotation_id="25394" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I consider their carte blanche in our country to be totally unjustified.</en>
+      <fr>Je viens d'un pays où circulent de nombreux automobilistes en provenance de pays voisins qui ne sont pas membres de l'Union européenne, <DiscourseConnective annotation_id="28873">ou</DiscourseConnective> qui sont justement sur le point de le devenir, <Alignment alignment="1577" annotation_id="28923">
+          <DiscourseConnective annotation_id="28923" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il me semble tout à fait injustifié de leur donner carte blanche dans notre pays.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25471" id="497" name="Bogusław Liberadzki">
+    <ParallelChunk annotation_id="25471" docOffset="166">
+      <en>(PL) Mr President, Commissioner, I should like to congratulate Mrs Ayala Sender on her excellent report.</en>
+      <fr>- (PL) Monsieur le Président, Monsieur le Commissaire, je voudrais féliciter Mme Ayala Sender de son excellent rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25576" docOffset="167">
+      <en>It is the latest of the many very good reports prepared by one of the best colleagues on this committee.</en>
+      <fr>Il <DiscourseConnective annotation_id="29131">s'</DiscourseConnective>agit du dernier d'une longue série d'excellents rapports préparés par l'une des meilleures collègues au sein de cette commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25681" docOffset="168">
+      <en>Four causes of accidents and four areas for regulation at European level have been identified.</en>
+      <fr>Il identifie quatre causes d'accidents <DiscourseConnective annotation_id="29302">et</DiscourseConnective> quatre domaines nécessitant une réglementation au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25776" docOffset="169">
+      <en>These are speeding, not wearing seat-belts, drink-driving and failing to stop at red lights.</en>
+      <fr>Il <DiscourseConnective annotation_id="29375">s'</DiscourseConnective>agit des excès de vitesse, de l'absence de ceinture, de la conduite en état d'ivresse <DiscourseConnective annotation_id="29463">et</DiscourseConnective> du non-respect des feux de circulation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25869" docOffset="170">
+      <en>These really are very significant factors in relation to accidents.</en>
+      <fr>Ces facteurs jouent un rôle important dans de nombreux accidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25937" docOffset="171">
+      <en>Commissioner, your stance <DiscourseConnective annotation_id="25963" sense="Temporal.Synchrony">as</DiscourseConnective> regards the European Council sounded very drastic.</en>
+      <fr>Monsieur le Commissaire, votre position par rapport au Conseil européen semble assez radicale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26017" docOffset="172">
+      <en>It is most unfortunate that our ministers are approaching as fundamental an issue as road safety in this manner.</en>
+      <fr>Il est regrettable <DiscourseConnective annotation_id="29686">que</DiscourseConnective> nos ministres abordent de cette façon un dossier <DiscourseConnective annotation_id="29739">aussi</DiscourseConnective> important <DiscourseConnective annotation_id="29755">que</DiscourseConnective> la sécurité routière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26130" docOffset="173">
+      <en>This matter concerns our Union space, which is an open space.</en>
+      <fr>Cette question concerne l'espace de l'Union, qui est un espace ouvert.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26192" docOffset="174">
+      <en>Impunity or a sense of impunity is the true source of irresponsible behaviour.</en>
+      <fr>L'impunité, <DiscourseConnective annotation_id="29864">ou</DiscourseConnective> le sentiment d'impunité, est la véritable cause des comportements irresponsables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26271" docOffset="175">
+      <en>I should like to refer to another very important factor.</en>
+      <fr>Je voudrais mentionner un autre facteur très important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26328" docOffset="176">
+      <en>Union citizens are treated differently depending on which country's territory they find themselves on.</en>
+      <fr>Les citoyens de l'Union sont traités différemment selon le pays dans lequel ils se trouvent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26431" docOffset="177">
+      <en>An effective system is called for.</en>
+      <fr>Nous avons besoin d'un système qui fonctionne correctement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26466" docOffset="178">
+      <en>It needs to be understood that penalties will be enforced regardless of the geographical area of the European Union concerned.</en>
+      <fr>Il faut que les gens sachent que les sanctions seront appliquées quel que soit le pays de l'Union européenne concerné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26593" docOffset="179">
+      <en>
+        <Alignment alignment="30277" annotation_id="26593">
+          <DiscourseConnective annotation_id="26593" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the regulation under discussion helps to bring this about, we shall be able to count it as one of our successes.</en>
+      <fr>
+        <Alignment alignment="11354" annotation_id="30277">
+          <DiscourseConnective annotation_id="30277" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> le règlement dont nous discutons contribue <DiscourseConnective annotation_id="30323">à</DiscourseConnective> ce <DiscourseConnective annotation_id="30328">résultat</DiscourseConnective>, nous pourrons le compter parmi nos réussites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26709" docOffset="180">
+      <en>I am particularly pleased to have been able to take the floor, <Alignment alignment="30439" annotation_id="26772">
+          <DiscourseConnective annotation_id="26772" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I am familiar with the situation in my country, Poland, where 5 600 lives are lost on the roads every year.</en>
+      <fr>Je suis particulièrement heureux d'avoir pu m'exprimer <Alignment alignment="26772" annotation_id="30439">
+          <DiscourseConnective annotation_id="30439" sense="Temporal.Synchrony">parce que</DiscourseConnective>
+        </Alignment> je connais bien la situation de mon pays, la Pologne, où les accidents de la route font 5 600 morts chaque année.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="26883" id="498" name="Justas Vincas Paleckis">
+    <ParallelChunk annotation_id="26883" docOffset="181">
+      <en>(LT) The black meter recording fatal car accidents on European roads is still turning threateningly; having constantly been in decline, the number of deaths has stabilised in recent years.</en>
+      <fr>(LT) Le sinistre compteur qui enregistre les accidents mortels survenus sur les routes européennes continue à tourner. <DiscourseConnective annotation_id="30682">Après</DiscourseConnective> un long déclin, le nombre de morts s'est stabilisé ces dernières années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27072" docOffset="182">
+      <en>New efforts are required to realise the EU goals outlined.</en>
+      <fr>De nouveaux efforts sont nécessaires <DiscourseConnective annotation_id="30798">pour</DiscourseConnective> atteindre les objectifs définis par l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27131" docOffset="183">
+      <en>The European Commission has drafted and prepared proposals, the rapporteur has added her own <Alignment alignment="9043" annotation_id="27224">
+          <DiscourseConnective annotation_id="27224" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> here we have a report, which is important to everyone, on the application of penalties for road traffic offenders from other Member States.</en>
+      <fr>La Commission européenne a rédigé <DiscourseConnective annotation_id="30893">et</DiscourseConnective> préparé des propositions, la rapporteure a ajouté les siennes <Alignment alignment="14200" annotation_id="30958">
+          <DiscourseConnective annotation_id="30958" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous avons devant nous un rapport important <DiscourseConnective annotation_id="31005">pour</DiscourseConnective> tous sur l'application des sanctions aux contrevenants au code de la route originaires d'autres États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27368" docOffset="184">
+      <en>The number of deaths varies greatly across the countries of the European Union.</en>
+      <fr>Le nombre de morts varie considérablement entre les pays de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27448" docOffset="185">
+      <en>Five times as many people are killed on Lithuania's roads as in the old EU Member States.</en>
+      <fr>La route fait cinq fois plus de victimes <DiscourseConnective annotation_id="31242">en</DiscourseConnective> Lituanie <DiscourseConnective annotation_id="31254">que</DiscourseConnective> dans les anciens États membres de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27538" docOffset="186">
+      <en>Without wishing to transfer the main burden to Brussels <Alignment alignment="31377" annotation_id="27594">
+          <DiscourseConnective annotation_id="27594" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="31380" annotation_id="27598">
+          <DiscourseConnective annotation_id="27598" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> stressing Member States' responsibility, I still have no doubt that the European Union should gradually reach a common or at least coordinated policy on driver behaviour on the roads and regulations.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31312">Sans</DiscourseConnective> vouloir transférer la responsabilité principale <DiscourseConnective annotation_id="31365">à</DiscourseConnective> Bruxelles <Alignment alignment="5204" annotation_id="31377">
+          <DiscourseConnective annotation_id="31377" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="7550" annotation_id="31380">
+          <DiscourseConnective annotation_id="31380" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> soulignant la responsabilité des États membres, je suis convaincu <DiscourseConnective annotation_id="31454">que</DiscourseConnective> l'Union européenne devrait parvenir progressivement à une politique commune, <DiscourseConnective annotation_id="31535">ou</DiscourseConnective> <DiscourseConnective annotation_id="31538">du moins</DiscourseConnective> coordonnée, en matière de règlementation <DiscourseConnective annotation_id="31588">et</DiscourseConnective> de comportement des automobilistes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27804" docOffset="187">
+      <en>This has already been discussed <Alignment alignment="31655" annotation_id="27836">
+          <DiscourseConnective annotation_id="27836" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I agree entirely.</en>
+      <fr>Nous en avons <DiscourseConnective annotation_id="31641">déjà</DiscourseConnective> discuté, <Alignment alignment="1524" annotation_id="31655">
+          <DiscourseConnective annotation_id="31655" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis tout à fait d'accord sur ce point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27858" docOffset="188">
+      <en>All the more so because, following the expansion of the Schengen area, an increasing number of cars with various Member State registration plates are appearing both in old and new European Union Member States.</en>
+      <fr>C'est d'autant plus vrai <DiscourseConnective annotation_id="31726">qu'</DiscourseConnective>à la suite de l'élargissement de l'espace Schengen, <DiscourseConnective annotation_id="31781">de plus</DiscourseConnective> <DiscourseConnective annotation_id="31789">en plus de</DiscourseConnective> voitures immatriculées dans les divers États membres circulent sur les routes des anciens <DiscourseConnective annotation_id="31890">et</DiscourseConnective> des nouveaux États membres de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28068" docOffset="189">
+      <en>We are all interested in seeing an intelligent driving culture spread throughout the entire European Union, in seeing the disappearance of the feeling of impunity: 'in a foreign country I will drive and park <Alignment alignment="32151" annotation_id="28276">
+          <DiscourseConnective annotation_id="28276" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I usually do, no one will find me any way'.</en>
+      <fr>Nous avons donc tout intérêt <DiscourseConnective annotation_id="31972">à</DiscourseConnective> promouvoir une culture de la conduite intelligente dans l'ensemble de l'Union européenne et <DiscourseConnective annotation_id="32066">à</DiscourseConnective> voir disparaître le sentiment d'impunité: "<DiscourseConnective annotation_id="32111">À</DiscourseConnective> l'étranger je conduis <DiscourseConnective annotation_id="32135">et</DiscourseConnective> je stationne <Alignment alignment="28276" annotation_id="32151">
+          <DiscourseConnective annotation_id="32151" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> bon me semble, personne ne me retrouvera <DiscourseConnective annotation_id="32198">de toute façon</DiscourseConnective>".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28323" docOffset="190">
+      <en>Those Member States which oppose the proposals for this directive, whether they want to <Alignment alignment="32235" annotation_id="28411">
+          <DiscourseConnective annotation_id="28411" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not, make that black meter turn faster.</en>
+      <fr>
+        <DiscourseConnective annotation_id="32215">Qu'</DiscourseConnective>ils le veuillent <Alignment alignment="17170" annotation_id="32235">
+          <DiscourseConnective annotation_id="32235" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non, les États membres qui s'opposent à cette proposition de directive accélèrent le mouvement de ce compteur sinistre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="28454" id="499" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="28454" docOffset="191">
+      <en>(CS) Finding and punishing foreign drivers who commit traffic offences in the European Union may be an unpopular proposal <Alignment alignment="19944" annotation_id="28576">
+          <DiscourseConnective annotation_id="28576" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is completely logical and practical.</en>
+      <fr>(CS) La proposition visant à retrouver <DiscourseConnective annotation_id="32397">et</DiscourseConnective> à punir les conducteurs étrangers qui enfreignent le code de la route dans l'Union européenne est peut-être impopulaire, <Alignment alignment="30878" annotation_id="32521">
+          <DiscourseConnective annotation_id="32521" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> elle est tout à fait logique <DiscourseConnective annotation_id="32555">et</DiscourseConnective> pratique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28620" docOffset="192">
+      <en>It is inconceivable that Member States can agree on harmonising new safety features of vehicles manufactured for use on EU roads in order to decrease the impact of traffic injuries, and yet not want to agree on their prevention.</en>
+      <fr>Il est inconcevable <DiscourseConnective annotation_id="32588">que</DiscourseConnective> les États membres puissent se mettre d'accord sur l'harmonisation des dispositifs de sécurité des véhicules destinés <DiscourseConnective annotation_id="32709">à</DiscourseConnective> une utilisation sur les routes européennes <DiscourseConnective annotation_id="32754">afin de</DiscourseConnective> réduire l'impact des accidents de la route, mais qu'ils ne souhaitent pas <DiscourseConnective annotation_id="32836">s'</DiscourseConnective>entendre en vue de prévenir ces accidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28849" docOffset="193">
+      <en>A proposal for a computer system allowing Member States to share information on traffic offences should be self-evident in an environment where in reality people have moved freely for years.</en>
+      <fr>La proposition d'un système informatique permettant aux États membres d'échanger des informations sur les infractions au code de la route devrait être une évidence dans un environnement où les gens se déplacent librement <DiscourseConnective annotation_id="33102">depuis</DiscourseConnective> des années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29040" docOffset="194">
+      <en>
+        <Alignment alignment="33121" annotation_id="29040">
+          <DiscourseConnective annotation_id="29040" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it would <Alignment alignment="33136" annotation_id="29058">
+          <DiscourseConnective annotation_id="29058" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be useful to harmonise the systems of traffic offences.</en>
+      <fr>
+        <Alignment alignment="18515" annotation_id="33121">
+          <DiscourseConnective annotation_id="33121" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il serait <Alignment alignment="4799" annotation_id="33136">
+          <DiscourseConnective annotation_id="33136" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> utile d'harmoniser les régimes applicables aux infractions de roulage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29119" docOffset="195">
+      <en>I am aware that it would be difficult to apply the same yardstick to southern Italy and northern Europe, <Alignment alignment="33342" annotation_id="29224">
+          <DiscourseConnective annotation_id="29224" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> even possibly some rules do not always lead to the same traffic offences or gravity of these offences.</en>
+      <fr>Je comprends <DiscourseConnective annotation_id="33230">qu'</DiscourseConnective>il serait difficile d'appliquer les mêmes valeurs de référence dans le Sud de l'Italie <DiscourseConnective annotation_id="33320">et</DiscourseConnective> en Europe du Nord, <Alignment alignment="5650" annotation_id="33342">
+          <DiscourseConnective annotation_id="33342" sense="Expansion.Conjunction">et même</DiscourseConnective>
+        </Alignment> que certaines règles ne correspondent peut-être pas toujours aux mêmes infractions ni au même degré de gravité des infractions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29331" docOffset="196">
+      <en>
+        <Alignment alignment="33478" annotation_id="29331">
+          <DiscourseConnective annotation_id="29331" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, in my opinion, the EU countries should be able to agree on the main offences which are known to account for most traffic accidents year in and year out.</en>
+      <fr>
+        <Alignment alignment="20953" annotation_id="33478">
+          <DiscourseConnective annotation_id="33478" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il me semble que les pays de l'Union européenne devraient pouvoir s'entendre sur les infractions principales, dont on sait <DiscourseConnective annotation_id="33606">qu'</DiscourseConnective>elles contribuent chaque année <DiscourseConnective annotation_id="33640">à</DiscourseConnective> la majorité des accidents de la route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29493" docOffset="197">
+      <en>Of course I support the proposal from the Commission and the rapporteur.</en>
+      <fr>Je soutiens évidemment la proposition de la commission <DiscourseConnective annotation_id="33736">et</DiscourseConnective> de la rapporteure.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29566" id="500" name="Marios Matsakis">
+    <ParallelChunk annotation_id="29566" docOffset="198">
+      <en>Mr President, it is amazing that it has taken so long to attempt to pass legislation to give the arm of traffic law the potential to cross EU Member State borders in order to save lives.</en>
+      <fr>(EN) Monsieur le Président, il est à peine croyable <DiscourseConnective annotation_id="33810">qu'</DiscourseConnective>il ait fallu <DiscourseConnective annotation_id="33826">si</DiscourseConnective> longtemps <DiscourseConnective annotation_id="33839">pour</DiscourseConnective> tenter d'adopter une législation permettant aux règles du code de la route de s'appliquer au-delà des frontières <DiscourseConnective annotation_id="33957">afin de</DiscourseConnective> sauver des vies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29753" docOffset="199">
+      <en>It is even more amazing that the Council is hindering this from happening.</en>
+      <fr>Il est plus étonnant <DiscourseConnective annotation_id="34003">encore que</DiscourseConnective> le Conseil tente de s'y opposer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29828" docOffset="200">
+      <en>It is <Alignment alignment="24135" annotation_id="29834">
+          <DiscourseConnective annotation_id="29834" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> amazing that we set maximum speed limits for our cars, <Alignment alignment="34134" annotation_id="29894">
+          <DiscourseConnective annotation_id="29894" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="29898" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> we produce vehicles that can travel twice or three times the maximum limits.</en>
+      <fr>Il est étonnant <Alignment alignment="29834" annotation_id="34063">
+          <DiscourseConnective annotation_id="34063" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="34069">que</DiscourseConnective> nous définissions des limitations de vitesse sur les routes, <Alignment alignment="21681" annotation_id="34134">
+          <DiscourseConnective annotation_id="34134" sense="Expansion.Conjunction">mais</DiscourseConnective>
+        </Alignment> que nous fabriquions des véhicules capables de rouler à deux <DiscourseConnective annotation_id="34200">ou</DiscourseConnective> trois fois la vitesse limite imposée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29980" docOffset="201">
+      <en>It is <DiscourseConnective annotation_id="29986" sense="Expansion.Conjunction">also</DiscourseConnective> amazing that we have legal alcohol limits for drivers, <DiscourseConnective annotation_id="30046" sense="Expansion.Conjunction">and</DiscourseConnective> yet we bombard our citizens - especially in the festive season - with alcohol advertisements.</en>
+      <fr>Il n'est pas moins étonnant d'imposer un taux d'alcoolémie maximal aux conducteurs alors qu'en période de fêtes <DiscourseConnective annotation_id="34353">notamment</DiscourseConnective>, nous les bombardons de publicités pour des boissons alcoolisées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30144" docOffset="202">
+      <en>
+        <Alignment alignment="11857" annotation_id="30144">
+          <DiscourseConnective annotation_id="30144" sense="Expansion.Conjunction">And</DiscourseConnective>
+        </Alignment> we especially associate alcohol intake with sex appeal and manhood, in some cases.</en>
+      <fr>
+        <Alignment alignment="14721" annotation_id="34429">
+          <DiscourseConnective annotation_id="34429" sense="Expansion.Conjunction">Et</DiscourseConnective>
+        </Alignment> dans certains cas, nous associons clairement la prise d'alcool au sex appeal <DiscourseConnective annotation_id="34509">et</DiscourseConnective> à la virilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30231" docOffset="203">
+      <en>Commissioner, please do not give up your fight.</en>
+      <fr>Monsieur le Commissaire, ne renoncez pas à votre combat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30279" docOffset="204">
+      <en>Please, fight with us against the Council, which is absent today, in order to save lives and make our roads a safer place to be.</en>
+      <fr>Battez-vous avec nous contre le Conseil, absent aujourd'hui, <DiscourseConnective annotation_id="34645">afin de</DiscourseConnective> sauver des vies <DiscourseConnective annotation_id="34669">et</DiscourseConnective> de rendre nos routes plus sûres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="30408" id="501" language="IT" name="Antonio Tajani">
+    <ParallelChunk annotation_id="30408" docOffset="205">
+      <en>Mr President, ladies and gentlemen, I must thank all those who have taken part in the debate.</en>
+      <fr>vice-président de la Commission. - (IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="34777">et</DiscourseConnective> Messieurs, je souhaite remercier tous ceux qui ont participé <DiscourseConnective annotation_id="34841">à</DiscourseConnective> ce débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30502" docOffset="206">
+      <en>They have lent weight to the decision that I hope will be taken by this House tomorrow, as well as to the Commission's work in the Council.</en>
+      <fr>Ils ont donné du poids <DiscourseConnective annotation_id="34876">à</DiscourseConnective> la décision <DiscourseConnective annotation_id="34890">que</DiscourseConnective> ce Parlement prendra demain, du moins je l'espère, <DiscourseConnective annotation_id="34945">ainsi</DiscourseConnective> qu'au travail de la Commission vis-à-vis du Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30642" docOffset="207">
+      <en>It will not be easy, <Alignment alignment="36512" annotation_id="30663">
+          <DiscourseConnective annotation_id="30663" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I believe that together we will get there in the end.</en>
+      <fr>Ce ne sera pas facile, <Alignment alignment="19633" annotation_id="35027">
+          <DiscourseConnective annotation_id="35027" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je pense <DiscourseConnective annotation_id="35041">qu'en</DiscourseConnective> travaillant ensemble, nous finirons par y arriver.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30721" docOffset="208">
+      <en>I must emphasise the seriousness of the traffic offences that we are discussing, which cause the majority of fatal accidents.</en>
+      <fr>Je tiens à souligner la gravité des infractions dont nous discutons, qui sont responsables de la plupart des accidents de la route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30847" docOffset="209">
+      <en>Allow me to go back over a few statistics with you: on the basis of the 2007 impact assessment, which includes evaluations of the previous three years, 30% of road deaths were caused by speeding, and 25% by drink-driving and, I should add, by driving under the influence of drugs.</en>
+      <fr>Permettez-moi de passer en revue quelques statistiques avec vous: selon l'analyse d'impact pour 2007, qui reprend les évaluations des trois années précédentes, 30 % des accidents mortels sont dus à des excès de vitesse, <DiscourseConnective annotation_id="35450">et</DiscourseConnective> 25 % à la conduite <DiscourseConnective annotation_id="35472">en</DiscourseConnective> état d'ivresse - <DiscourseConnective annotation_id="35492">et</DiscourseConnective>, faut-il ajouter, sous l'influence de stupéfiants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31128" docOffset="210">
+      <en>That is why I support Amendment 38 tabled by Mrs Lichtenberger, which adds certain enhancements to the Commission's text.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35546">C'est pourquoi</DiscourseConnective> je soutiens l'amendement 38 déposé par Mme Lichtenberger, qui apporte certaines améliorations au texte de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31250" docOffset="211">
+      <en>I have my doubts about the EUR 70 issue <Alignment alignment="35740" annotation_id="31290">
+          <DiscourseConnective annotation_id="31290" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it would make for unequal treatment.</en>
+      <fr>J'ai mes doutes par contre <DiscourseConnective annotation_id="35709">quant à</DiscourseConnective> la limite de 70 euros, <Alignment alignment="7410" annotation_id="35740">
+          <DiscourseConnective annotation_id="35740" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle risquerait d'entraîner une inégalité de traitement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31335" docOffset="212">
+      <en>Seventeen per cent of accidents are caused by failure to wear a seat-belt, and approximately 4% by jumping red lights.</en>
+      <fr>Dix-sept pour cent des accidents sont provoqués par l'absence de ceinture, <DiscourseConnective annotation_id="35881">et</DiscourseConnective> environ 4 % sont provoqués par le non-respect d'un feu rouge.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31454" docOffset="213">
+      <en>In total, 75% of road traffic deaths are the result of one or more of these four violations of road traffic laws.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35946">Au total</DiscourseConnective>, 75 % des morts sur la route sont le <DiscourseConnective annotation_id="35992">résultat</DiscourseConnective> d'une <DiscourseConnective annotation_id="36007">ou</DiscourseConnective> plusieurs de ces quatre infractions au code de la route.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31568" docOffset="214">
+      <en>I think that is all I have to say.</en>
+      <fr>Je pense que c'est tout ce que j'ai <DiscourseConnective annotation_id="36103">à</DiscourseConnective> dire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31603" docOffset="215">
+      <en>For the sake of clarity, let me turn to the Council, to those representing the Council, the General Secretariat of the Council, and repeat what I said a few days ago at the Council of Transport Ministers: it is not the Commission's intention to reduce Member States' powers; we are interested only in reducing the number of deaths on the roads in the European Union.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36111">Pour</DiscourseConnective> plus de clarté, je me tourne vers le Conseil ou plutôt vers le Secrétariat général du Conseil qui le représente, <DiscourseConnective annotation_id="36229">pour</DiscourseConnective> répéter ce que j'ai dit il y a quelques jours <DiscourseConnective annotation_id="36280">à</DiscourseConnective> l'occasion du Conseil des ministres des transports: la Commission n'a pas l'intention de réduire les pouvoirs des États membres. Notre seul but est de faire baisser le nombre de morts sur les routes de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31970" docOffset="216">
+      <en>In so doing we intend - to answer Mr Rack, as well - never to hide behind the application of laws.</en>
+      <fr>Ce faisant, <DiscourseConnective annotation_id="36516">pour</DiscourseConnective> répondre <DiscourseConnective annotation_id="36530">également</DiscourseConnective> à M. Rack, nous n'avons pas l'intention de nous cacher derrière l'application de la loi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32069" docOffset="217">
+      <en>As far <DiscourseConnective annotation_id="32076" sense="Temporal.Synchrony">as</DiscourseConnective> the offences are concerned, we have stood firm against the Member States, but only on matters concerning forms of transport other than cars, <Alignment alignment="36827" annotation_id="32220">
+          <DiscourseConnective annotation_id="32220" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> this is the first time that we have taken action in the automobile sector.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36629">En</DiscourseConnective> ce qui concerne les infractions, nous avons défendu fermement notre position face aux États membres, <DiscourseConnective annotation_id="36733">mais</DiscourseConnective> uniquement sur les questions concernant des moyens de transport autres <DiscourseConnective annotation_id="36809">que</DiscourseConnective> l'automobile, <Alignment alignment="20790" annotation_id="36827">
+          <DiscourseConnective annotation_id="36827" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> c'est la première fois <DiscourseConnective annotation_id="36860">que</DiscourseConnective> nous prenons des mesures <DiscourseConnective annotation_id="36889">en</DiscourseConnective> matière d'automobiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32303" docOffset="218">
+      <en>We have legislation on driving heavy goods vehicles, but not cars.</en>
+      <fr>Nous avons une législation sur la conduite des utilitaires lourds, <DiscourseConnective annotation_id="36982">mais</DiscourseConnective> pas des voitures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32370" docOffset="219">
+      <en>
+        <Alignment alignment="63402" annotation_id="32370">
+          <DiscourseConnective annotation_id="32370" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment> I believe that, thanks to the encouragement received from this House today, we at the Commission - I can assure you all, and Mr Matsakis - are pressing onwards; we do not intend to stop <Alignment alignment="26140" annotation_id="32561">
+          <DiscourseConnective annotation_id="32561" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, I repeat, <Alignment alignment="57017" annotation_id="32580">
+          <DiscourseConnective annotation_id="32580" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to saving human lives, no legal objection can block the actions of those who have political responsibilities towards half a billion European citizens.</en>
+      <fr>Je pense <Alignment alignment="32370" annotation_id="37014">
+          <DiscourseConnective annotation_id="37014" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="37019">que</DiscourseConnective> grâce aux encouragements que nous avons reçus aujourd'hui de ce Parlement, la Commission - je peux vous le promettre à tous, y compris M. Matsakis - fait avancer ce dossier. Nous n'avons pas l'intention de nous arrêter <Alignment alignment="37813" annotation_id="37242">
+          <DiscourseConnective annotation_id="37242" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, je le répète, <Alignment alignment="39005" annotation_id="37267">
+          <DiscourseConnective annotation_id="37267" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> il <DiscourseConnective annotation_id="37276">s'</DiscourseConnective>agit de sauver des vies humaines, aucune objection juridique ne peut bloquer les actions de ceux qui ont une responsabilité politique envers un demi-milliard de citoyens européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32745" docOffset="220">
+      <en>To conclude, Mr President, I hope that this Christmas and New Year will give time for reflection to all the ministers who have had concerns about the text that the Commission, with Parliament's support, presented to the Council.</en>
+      <fr>
+        <DiscourseConnective annotation_id="37459">Pour conclure</DiscourseConnective>, Monsieur le Président, j'espère <DiscourseConnective annotation_id="37506">que</DiscourseConnective> la période des fêtes de fin d'année sera une période de réflexion <DiscourseConnective annotation_id="37576">pour</DiscourseConnective> tous les ministres qui ont exprimé des réserves <DiscourseConnective annotation_id="37629">à propos</DiscourseConnective> du texte <DiscourseConnective annotation_id="37647">que</DiscourseConnective> la Commission, avec le soutien du Parlement, a présenté au Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32974" docOffset="221">
+      <en>Finally, <Alignment alignment="37749" annotation_id="32983">
+          <DiscourseConnective annotation_id="32983" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> this is the last speech I will make before the Christmas break, Mr President, on behalf of the Commission, I would like to extend my best wishes to all the honourable Members, the Presidency and the whole of Parliament.</en>
+      <fr>
+        <DiscourseConnective annotation_id="37719">Enfin</DiscourseConnective>, Monsieur le Président, <Alignment alignment="32983" annotation_id="37749">
+          <DiscourseConnective annotation_id="37749" sense="Temporal.Synchrony">puisqu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="37759">s'</DiscourseConnective>agit du dernier discours que je prononcerai <DiscourseConnective annotation_id="37805">avant</DiscourseConnective> l'interruption de Noël, je présente mes meilleurs vœux, au nom de la Commission, <DiscourseConnective annotation_id="37892">à</DiscourseConnective> tous les députés, à la Présidence <DiscourseConnective annotation_id="37928">et</DiscourseConnective> à l'ensemble du Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="33206" id="502" name="President">
+    <ParallelChunk annotation_id="33206" docOffset="222">
+      <en>Thank you Mr Tajani.</en>
+      <fr>Merci, Monsieur Tajani.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33227" docOffset="223">
+      <en>We do of course return your good wishes, <Alignment alignment="38028" annotation_id="33268">
+          <DiscourseConnective annotation_id="33268" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, as for the Council, we will be ready on Twelfth Night to deliver great sacks of coal <Alignment alignment="38136" annotation_id="33358">
+          <DiscourseConnective annotation_id="33358" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they are naughty!</en>
+      <fr>Nous vous réciproquons bien entendu ces vœux, <Alignment alignment="15520" annotation_id="38028">
+          <DiscourseConnective annotation_id="38028" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> en ce qui concerne le Conseil, nous serons prêts, <DiscourseConnective annotation_id="38081">à</DiscourseConnective> la fête des Rois, <DiscourseConnective annotation_id="38101">à</DiscourseConnective> lui apporter des sacs de charbon <Alignment alignment="4554" annotation_id="38136">
+          <DiscourseConnective annotation_id="38136" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il n'a pas été sage!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="33379" id="503" language="ES" name="Inés Ayala Sender">
+    <ParallelChunk annotation_id="33379" docOffset="224">
+      <en>Mr President, I was going to make a complaint to you precisely about the non-attendance of the Council, <Alignment alignment="38253" annotation_id="33483">
+          <DiscourseConnective annotation_id="33483" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I see that there is <DiscourseConnective annotation_id="33507" sense="Expansion.Conjunction">in fact</DiscourseConnective> one person representing it, <Alignment alignment="45582" annotation_id="33543">
+          <DiscourseConnective annotation_id="33543" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> I would of course have preferred to have a direct representative of the Presidency here.</en>
+      <fr>Monsieur le Président, j'allais justement me plaindre auprès de vous de l'absence du Conseil, <Alignment alignment="11749" annotation_id="38253">
+          <DiscourseConnective annotation_id="38253" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je vois <DiscourseConnective annotation_id="38266">que</DiscourseConnective> l'un de ses représentants est présent, <Alignment alignment="6805" annotation_id="38309">
+          <DiscourseConnective annotation_id="38309" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> j'aurais évidemment préféré un représentant direct de la Présidence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33641" docOffset="225">
+      <en>The fact is, <DiscourseConnective annotation_id="33654" sense="Comparison.Contrast">however</DiscourseConnective>, that Mr Borloo was very tired.</en>
+      <fr>Mais je sais aussi <DiscourseConnective annotation_id="38405">que</DiscourseConnective> M. Borloo était très fatigué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33694" docOffset="226">
+      <en>I would like to thank my fellow Members for their comments.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="38448">à</DiscourseConnective> remercier mes collègues députés de leurs commentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33754" docOffset="227">
+      <en>I can assure some of them that we have talked to the European data protection supervisor to ensure that personal data will remain totally confidential.</en>
+      <fr>Je peux rassurer certains d'entre eux en leur disant <DiscourseConnective annotation_id="38558">que</DiscourseConnective> nous avons discuté avec le Contrôleur européen de la protection des données <DiscourseConnective annotation_id="38638">pour</DiscourseConnective> faire en sorte <DiscourseConnective annotation_id="38658">que</DiscourseConnective> les données personnelles soient traitées de façon tout à fait confidentielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33906" docOffset="228">
+      <en>Specifically with regard to procedural guarantees, we have tried, with the inestimable help of the Commission and Parliament's legal services, to address all those that are possible at this stage of the directive.</en>
+      <fr>
+        <DiscourseConnective annotation_id="38740">En</DiscourseConnective> ce qui concerne plus spécifiquement les garanties procédurales, nous avons tenté, avec le soutien inestimable des services juridiques de la Commission <DiscourseConnective annotation_id="38894">et</DiscourseConnective> du Parlement, d'aborder toutes celles <DiscourseConnective annotation_id="38935">qu'</DiscourseConnective>il est possible d'aborder <DiscourseConnective annotation_id="38964">à</DiscourseConnective> ce stade de la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34120" docOffset="229">
+      <en>As for the Swiss system, I can assure you that the problem at the moment is that our police normally cannot exchange data on non-residents <Alignment alignment="39187" annotation_id="34259">
+          <DiscourseConnective annotation_id="34259" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> notify them.</en>
+      <fr>En ce qui concerne le système suisse, je <DiscourseConnective annotation_id="39033">puis</DiscourseConnective> vous garantir <DiscourseConnective annotation_id="39052">que</DiscourseConnective> le problème, <DiscourseConnective annotation_id="39069">à</DiscourseConnective> l'heure actuelle, est <DiscourseConnective annotation_id="39093">que</DiscourseConnective> nos forces de police ne peuvent normalement pas échanger de données sur des non-résidents <Alignment alignment="46006" annotation_id="39187">
+          <DiscourseConnective annotation_id="39187" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> les notifier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34275" docOffset="230">
+      <en>In those cases where they catch them they do make them pay, <DiscourseConnective annotation_id="34335" sense="Expansion.Conjunction">and</DiscourseConnective> that happens in all our Member States.</en>
+      <fr>Dans les cas où les policiers mettent la main sur les contrevenants, ils les font effectivement payer - c'est le cas dans tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34378" docOffset="231">
+      <en>
+        <Alignment alignment="4071" annotation_id="34378">
+          <DiscourseConnective annotation_id="34378" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, those data cannot be obtained <DiscourseConnective annotation_id="34417" sense="Temporal.Synchrony">when</DiscourseConnective> radar or cameras - that is to say, mechanical means - are used, <Alignment alignment="39490" annotation_id="34486">
+          <DiscourseConnective annotation_id="34486" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is the system that we are implementing right now.</en>
+      <fr>
+        <Alignment alignment="5174" annotation_id="39350">
+          <DiscourseConnective annotation_id="39350" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il est impossible d'obtenir les données nécessaires en cas d'utilisation de radars <DiscourseConnective annotation_id="39438">ou</DiscourseConnective> de caméras - c'est-à-dire d'outils automatisés - <Alignment alignment="34486" annotation_id="39490">
+          <DiscourseConnective annotation_id="39490" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est justement ce système <DiscourseConnective annotation_id="39520">que</DiscourseConnective> nous mettons en place actuellement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34545" docOffset="232">
+      <en>I would just like to thank everyone for their patience, <Alignment alignment="22278" annotation_id="34601">
+          <DiscourseConnective annotation_id="34601" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> in some areas we were unable to expand on the work being done by, <Alignment alignment="39727" annotation_id="34675">
+          <DiscourseConnective annotation_id="34675" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, Mr Evans, Mrs Lichtenberger and Mrs Ticău.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="39569">à</DiscourseConnective> remercier toutes les personnes concernées de leur patience, <Alignment alignment="7092" annotation_id="39631">
+          <DiscourseConnective annotation_id="39631" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> dans certains domaines, nous ne sommes pas parvenus <DiscourseConnective annotation_id="39693">à</DiscourseConnective> développer le travail accompli, <Alignment alignment="20282" annotation_id="39727">
+          <DiscourseConnective annotation_id="39727" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, par M. Evans, Mme Lichtenberger <DiscourseConnective annotation_id="39772">et</DiscourseConnective> Mme Ticău.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34731" docOffset="233">
+      <en>
+        <Alignment alignment="39786" annotation_id="34731">
+          <DiscourseConnective annotation_id="34731" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, there is the review clause.</en>
+      <fr>
+        <Alignment alignment="20777" annotation_id="39786">
+          <DiscourseConnective annotation_id="39786" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il reste toujours la clause de réexamen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34773" docOffset="234">
+      <en>The Commission has assured us that it allows for an assessment to be undertaken in the two years <DiscourseConnective annotation_id="34870" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective> the directive is implemented and for new aspects to be introduced as appropriate at that time.</en>
+      <fr>La Commission nous a assuré <DiscourseConnective annotation_id="39860">que</DiscourseConnective> cette clause permettrait, dans les deux ans suivant la mise en œuvre de la directive, d'évaluer son fonctionnement <DiscourseConnective annotation_id="39979">et</DiscourseConnective> d'introduire de nouveaux éléments <DiscourseConnective annotation_id="40016">si</DiscourseConnective> nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34971" docOffset="235">
+      <en>For that to happen, of course, the directive needs to be adopted.</en>
+      <fr>Mais <DiscourseConnective annotation_id="40036">pour</DiscourseConnective> <DiscourseConnective annotation_id="40041">en</DiscourseConnective> arriver là, évidemment, il faut d'abord que cette directive <DiscourseConnective annotation_id="40104">soit</DiscourseConnective> adoptée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35037" docOffset="236">
+      <en>To that end, we need political solutions and not petty legal stratagems.</en>
+      <fr>
+        <DiscourseConnective annotation_id="40118">Pour</DiscourseConnective> y parvenir, nous avons besoin de solutions politiques <DiscourseConnective annotation_id="40177">et</DiscourseConnective> non de stratagèmes juridiques mesquins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35110" docOffset="237">
+      <en>I <Alignment alignment="40232" annotation_id="35112">
+          <DiscourseConnective annotation_id="35112" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> thank both the Commission and the French Presidency and, above all, my fellow Members, not only for their patience and support but also, I hope, for tomorrow's vote.</en>
+      <fr>Je remercie <Alignment alignment="35112" annotation_id="40232">
+          <DiscourseConnective annotation_id="40232" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> la Commission, la Présidence française <DiscourseConnective annotation_id="40276">et</DiscourseConnective> <DiscourseConnective annotation_id="40279">surtout</DiscourseConnective> mes collègues députés, <DiscourseConnective annotation_id="40310">non seulement</DiscourseConnective> de leur patience <DiscourseConnective annotation_id="40341">et</DiscourseConnective> de leur soutien, <DiscourseConnective annotation_id="40361">mais aussi</DiscourseConnective>, je l'espère, <DiscourseConnective annotation_id="40386">pour</DiscourseConnective> le vote de demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35288" docOffset="238">
+      <en>The vote needs to be as unanimous as possible so that, alongside the Commission, we can stand up to the new Czech Presidency and stress the need for it to move forward in getting this directive approved.</en>
+      <fr>Nous avons besoin d'un vote <DiscourseConnective annotation_id="40438">aussi</DiscourseConnective> unanime <DiscourseConnective annotation_id="40452">que</DiscourseConnective> possible <DiscourseConnective annotation_id="40465">pour</DiscourseConnective> pouvoir, avec la Commission, nous présenter en force devant la future Présidence tchèque <DiscourseConnective annotation_id="40559">et</DiscourseConnective> souligner la nécessité d'adopter cette directive.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="35492" id="504" name="President">
+    <ParallelChunk annotation_id="35492" docOffset="239">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35514" docOffset="240">
+      <en>The vote will take place on Wednesday 17 December.</en>
+      <fr>Le vote aura lieu mercredi 17 décembre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35565" docOffset="241">
+      <en>Written statements (Rule 142)</en>
+      <fr>Déclarations écrites (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="35595" id="505" language="SK" name="Zita Pleštinská ">
+    <ParallelChunk annotation_id="35595" docOffset="242">
+      <en>Speeding, drink-driving, failing to use seat-belts and not stopping at red lights are the main causes of the fatal accidents that occur frequently on European roads <DiscourseConnective annotation_id="35760" sense="Expansion.Conjunction">and</DiscourseConnective> the EU is <Alignment alignment="40957" annotation_id="35774">
+          <DiscourseConnective annotation_id="35774" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> trying as a first step to harmonise the rules for these four offences.</en>
+      <fr>par écrit. - (SK) Les excès de vitesse, la conduite en état d'ivresse, l'absence de port de ceinture <DiscourseConnective annotation_id="40807">et</DiscourseConnective> le non-respect des feux rouges sont les principales causes des nombreux accidents mortels sur les routes européennes. L'Union européenne <DiscourseConnective annotation_id="40947">s'</DiscourseConnective>efforce <Alignment alignment="25239" annotation_id="40957">
+          <DiscourseConnective annotation_id="40957" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, dans un premier temps, d'harmoniser les règles applicables à ces quatre infractions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35855" docOffset="243">
+      <en>I consider the directive's contribution to be a unified European approach to the collection and levels of fines and to the use of a computer network for exchanging information.</en>
+      <fr>Selon moi, la contribution de cette directive consiste en une approche européenne homogène de la perception <DiscourseConnective annotation_id="41156">et</DiscourseConnective> du montant des amendes <DiscourseConnective annotation_id="41182">et</DiscourseConnective> de l'utilisation d'un réseau informatique <DiscourseConnective annotation_id="41227">pour</DiscourseConnective> l'échange d'informations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36032" docOffset="244">
+      <en>On the minus side there is the lack of awareness among drivers concerning changes to the rules on collecting fines within an EU framework.</en>
+      <fr>Du côté négatif, je retiens le manque de conscience, parmi les conducteurs, des modifications des règles relatives à la perception des amendes dans un cadre européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36171" docOffset="245">
+      <en>I consider it important that the Commission, together with the Member States, should run an information campaign in order to provide citizens crossing borders into other Member States with advance information about the legal consequences of breaking the law in terms of the levels and imposition of possible fines.</en>
+      <fr>Je pense qu'il est important <DiscourseConnective annotation_id="41454">que</DiscourseConnective> la Commission, en collaboration avec les États membres, organise une campagne d'information <DiscourseConnective annotation_id="41550">afin de</DiscourseConnective> sensibiliser les citoyens qui traversent la frontière <DiscourseConnective annotation_id="41612">en</DiscourseConnective> direction d'autres États membres aux conséquences des infractions éventuelles du point de vue des amendes possibles <DiscourseConnective annotation_id="41731">et</DiscourseConnective> de leur montant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36486" docOffset="246">
+      <en>Drivers must have the right to receive notices in a language that they understand, especially where the delivery of a notice would have legal consequences.</en>
+      <fr>Les automobilistes doivent avoir le droit de recevoir des notifications dans une langue <DiscourseConnective annotation_id="41839">qu'</DiscourseConnective>ils comprennent, <DiscourseConnective annotation_id="41859">surtout</DiscourseConnective> dans les cas où cette notification peut avoir des conséquences juridiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36642" docOffset="247">
+      <en>They must be made aware of the validity of rulings, of appeal options and of the consequences of failing to respond.</en>
+      <fr>Il faut qu'ils aient conscience de la validité des arrêts, des possibilités de recours <DiscourseConnective annotation_id="42029">et</DiscourseConnective> des conséquences d'une absence de réaction de leur part.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36759" docOffset="248">
+      <en>I believe that this directive will make drivers drive more carefully and safely <Alignment alignment="81517" annotation_id="36839">
+          <DiscourseConnective annotation_id="36839" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the directive will contribute towards a reduction in fatal traffic accidents on European roads where 40 000 people died in 2007.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="42098">que</DiscourseConnective> cette directive encouragera les automobilistes à conduire plus prudemment <DiscourseConnective annotation_id="42176">et</DiscourseConnective> <Alignment alignment="36839" annotation_id="42179">
+          <DiscourseConnective annotation_id="42179" sense="Expansion.Conjunction">qu'</DiscourseConnective>
+        </Alignment>elle contribuera à faire baisser le nombre d'accidents mortels sur les routes européennes, où 40 000 personnes sont mortes <DiscourseConnective annotation_id="42305">en</DiscourseConnective> 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36972" docOffset="249">
+      <en>I support the adoption of the directive on simplifying cross-border regulations in the field of road safety <Alignment alignment="66329" annotation_id="37080">
+          <DiscourseConnective annotation_id="37080" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I <Alignment alignment="42463" annotation_id="37086">
+          <DiscourseConnective annotation_id="37086" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> welcome the report of Mrs Ayala Sender, the rapporteur.</en>
+      <fr>Je soutiens l'adoption de la directive sur la simplification des réglementations transfrontalières <DiscourseConnective annotation_id="42413">en</DiscourseConnective> matière de sécurité routière, <Alignment alignment="22090" annotation_id="42446">
+          <DiscourseConnective annotation_id="42446" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je me réjouis <Alignment alignment="37086" annotation_id="42463">
+          <DiscourseConnective annotation_id="42463" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> du rapport de Mme Ayala Sender.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

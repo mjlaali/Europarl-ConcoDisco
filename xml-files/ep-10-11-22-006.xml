@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Signature of acts adopted under codecision</en>
+    <fr>Signature d'actes adoptés <DiscourseConnective annotation_id="26">en</DiscourseConnective> codécision</fr>
+  </ParallelChunk>
+<Speaker annotation_id="43" id="013" name="President">
+    <ParallelChunk annotation_id="43" docOffset="1">
+      <en>I hereby inform you that on Wednesday, the President of the Council <Alignment alignment="84" annotation_id="111">
+          <DiscourseConnective annotation_id="111" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I will sign 14 legislative acts adopted under the ordinary legislative procedure pursuant to Rule 74 of Parliament's Rules of Procedure.</en>
+      <fr>Je vous signale <DiscourseConnective annotation_id="56">que</DiscourseConnective> le Président du Conseil <Alignment alignment="287" annotation_id="84">
+          <DiscourseConnective annotation_id="84" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> moi-même procèderons mercredi prochain à la signature de quatorze actes législatifs adoptés conformément <DiscourseConnective annotation_id="192">à</DiscourseConnective> l'article 74 du règlement du Parlement dans le cadre de la procédure législative ordinaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="252" docOffset="2">
+      <en>The titles of these legislative acts will be published in the minutes of the sitting.</en>
+      <fr>Les intitulés de ces actes législatifs seront publiés dans le procès-verbal de la séance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="338" docOffset="3">
+      <en>They will be available to you, <Alignment alignment="145939" annotation_id="369">
+          <DiscourseConnective annotation_id="369" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you will be able to inspect them at any time.</en>
+      <fr>Ils seront disponibles <Alignment alignment="369" annotation_id="399">
+          <DiscourseConnective annotation_id="399" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous pourrez les examiner <DiscourseConnective annotation_id="428">à</DiscourseConnective> tout moment.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

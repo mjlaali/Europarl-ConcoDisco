@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Approval of the minutes of the previous sitting</en>
+    <fr>Approbation du procès-verbal de la séance précédente</fr>
+  </ParallelChunk>
+<Speaker annotation_id="48" id="010" name="President">
+    <ParallelChunk annotation_id="48" docOffset="1">
+      <en>The Minutes of the sitting of Thursday 22 May 2008 have been distributed.</en>
+      <fr>(DE) Le procès-verbal de la séance du jeudi 22 mai 2008 a été distribué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="122" docOffset="2">
+      <en>Are there any comments?</en>
+      <fr>Y a-t-il des commentaires?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="146" id="011" name="Paul Rübig">
+    <ParallelChunk annotation_id="146" docOffset="3">
+      <en>(DE) Mr President, I would like to thank the staff of this House for organising the awards ceremony for the Energy Globe Awards, <Alignment alignment="293" annotation_id="275">
+          <DiscourseConnective annotation_id="275" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it set a great example for the world and created an excellent impression of our Parliament.</en>
+      <fr>(DE) M. le Président, je voudrais remercier le personnel de cette Assemblée, qui a organisé la cérémonie de remise des Energy Globe Awards, <Alignment alignment="275" annotation_id="293">
+          <DiscourseConnective annotation_id="293" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il s'agit là d'un bon exemple <DiscourseConnective annotation_id="327">pour</DiscourseConnective> la communauté internationale, <DiscourseConnective annotation_id="362">et</DiscourseConnective> cette manifestation a donné une excellente image de notre Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="375" docOffset="4">
+      <en>Thank you to everyone who took part.</en>
+      <fr>Je tiens à remercier tous ceux qui y ont participé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="412" id="012" name="President">
+    <ParallelChunk annotation_id="412" docOffset="5">
+      <en>It is permissible to express these words of thanks.</en>
+      <fr>(DE) Il est bien sûr possible d'exprimer des remerciements comme ceux-là.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="464" docOffset="6">
+      <en>It was not in the Minutes, but never mind.</en>
+      <fr>Votre intervention ne porte pas sur le procès-verbal, <DiscourseConnective annotation_id="614">mais</DiscourseConnective> cela ne pose pas problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="507" docOffset="7">
+      <en>(The Minutes of the previous sitting were approved.)</en>
+      <fr>(Le procès-verbal de la séance précédente est approuvé.)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

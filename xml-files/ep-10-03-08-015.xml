@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Animal health requirements applicable to the non-commercial movement of pet animals (debate)</en>
+    <fr>Conditions de police sanitaire applicables aux mouvements non commerciaux d'animaux de compagnie (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="93" id="084" name="President">
+    <ParallelChunk annotation_id="93" docOffset="1">
+      <en>The next item is the report by Mrs Bairbre de Brún, on behalf of the Committee on the Environment, Public Health and Food Safety, concerning the draft Regulation of the European Parliament and of the Council amending Regulation (EC) No 998/2003 on the animal health requirements applicable to the non-commercial movement of pet animals - C7-0035/2009 -</en>
+      <fr>L'ordre du jour appelle le rapport de Bairbre de Brún, au nom de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="225">et</DiscourseConnective> de la sécurité alimentaire, sur la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="310">et</DiscourseConnective> du Conseil modifiant le règlement (CE) n° 998/2003 concernant les conditions de police sanitaire applicables aux mouvements non commerciaux d'animaux de compagnie - C7-0035/2009 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="446" id="085" language="GA" name="Bairbre de Brún">
+    <ParallelChunk annotation_id="446" docOffset="2">
+      <en>Mr President, this is the first amended regulation to come before the plenary meeting and the first that comes under the provisions of the Treaty of Lisbon.</en>
+      <fr>Monsieur le Président, ce règlement modifié est le premier <DiscourseConnective annotation_id="553">à</DiscourseConnective> parvenir en session plénière en application des dispositions du traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="603" docOffset="3">
+      <en>I would like to express my gratitude to the shadow rapporteurs - Mrs Soullie, Mrs Willmott, Mrs Vălean, Mrs Evans, Mr Nicholson and Mrs Rosbach - for their help during a series of complicated negotiations; <Alignment alignment="820" annotation_id="809">
+          <DiscourseConnective annotation_id="809" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am grateful for the exceptional support I received from the Parliament's legal services and codecision unit.</en>
+      <fr>Je remercie les rapporteurs fictifs - Mme Soullie, Mme Willmott, Mme Vălean, Mme Evans, M. Nicholson <DiscourseConnective annotation_id="740">et</DiscourseConnective> Mme Rosbach - <DiscourseConnective annotation_id="757">pour</DiscourseConnective> leur aide au cours d'une série de négociations complexes, <Alignment alignment="26345" annotation_id="820">
+          <DiscourseConnective annotation_id="820" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> tiens également <DiscourseConnective annotation_id="839">à</DiscourseConnective> souligner le soutien exceptionnel reçu des services juridiques du Parlement <DiscourseConnective annotation_id="917">et</DiscourseConnective> de l'unité de codécision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="924" docOffset="4">
+      <en>I would <Alignment alignment="67260" annotation_id="932">
+          <DiscourseConnective annotation_id="932" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the Council and the Commission.</en>
+      <fr>Mes remerciements vont <Alignment alignment="29987" annotation_id="969">
+          <DiscourseConnective annotation_id="969" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> au Conseil <DiscourseConnective annotation_id="986">et</DiscourseConnective> à la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="983" docOffset="5">
+      <en>The substance of the Environmental Committee dossier was agreed at the beginning of December, <Alignment alignment="1098" annotation_id="1077">
+          <DiscourseConnective annotation_id="1077" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> from the start of this year, we have been dealing with certain aspects relating to how Article 290 of the Treaty on the Functioning of the European Union can be implemented with regard to this dossier.</en>
+      <fr>La substance du dossier de la commission de l'environnement a été approuvée début décembre, <Alignment alignment="15232" annotation_id="1098">
+          <DiscourseConnective annotation_id="1098" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1101">depuis</DiscourseConnective> le début de cette année nous nous penchons sur certains aspects de l'application de l'article 290 du traité sur le fonctionnement de l'Union européenne <DiscourseConnective annotation_id="1260">en</DiscourseConnective> relation avec ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1283" docOffset="6">
+      <en>It sometimes seemed that we would never manage to come to an agreement.</en>
+      <fr>Nous avons parfois eu le sentiment <DiscourseConnective annotation_id="1324">que</DiscourseConnective> nous ne parviendrions jamais <DiscourseConnective annotation_id="1357">à</DiscourseConnective> un accord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1355" docOffset="7">
+      <en>
+        <Alignment alignment="1373" annotation_id="1355">
+          <DiscourseConnective annotation_id="1355" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we succeeded.</en>
+      <fr>Et <Alignment alignment="1355" annotation_id="1373">
+          <DiscourseConnective annotation_id="1373" sense="Comparison.Contrast">pourtant</DiscourseConnective>
+        </Alignment>, nous y sommes parvenus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1378" docOffset="8">
+      <en>We agreed a solution for this dossier.</en>
+      <fr>Nous avons trouvé une solution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1417" docOffset="9">
+      <en>In doing so, we ensured that pet owners could continue to travel across EU borders with their pets, <Alignment alignment="1604" annotation_id="1517">
+          <DiscourseConnective annotation_id="1517" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> including a transitional system that allows certain Member States to apply stricter controls, depending on disease, for a period of eighteen months.</en>
+      <fr>Les propriétaires d'animaux de compagnie ont en effet l'assurance de pouvoir continuer <DiscourseConnective annotation_id="1526">à</DiscourseConnective> voyager entre les États membres de l'UE avec leurs animaux de compagnie et, <Alignment alignment="17638" annotation_id="1604">
+          <DiscourseConnective annotation_id="1604" sense="Comparison.Contrast">parallèlement</DiscourseConnective>
+        </Alignment>, un régime transitoire autorise certains États membres <DiscourseConnective annotation_id="1673">à</DiscourseConnective> appliquer des contrôles plus stricts, selon les maladies, pendant une période de dix-huit mois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1672" docOffset="10">
+      <en>The proposed amended regulation recognises the progress that has been made hitherto.</en>
+      <fr>La proposition de règlement modifié reconnaît les progrès accomplis à ce jour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1757" docOffset="11">
+      <en>To ensure that the rabies situation in the EU improves from here on, the transitional system will be extended in five Member States until 31 December 2011 - by that time, provisions relating to the non-commercial movement of pets will be the same all over the EU.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1850">Pour</DiscourseConnective> poursuivre l'amélioration de la situation concernant le contrôle la rage dans l'UE, le régime transitoire sera prolongé dans cinq États membres <DiscourseConnective annotation_id="1999">jusqu'au</DiscourseConnective> 31 décembre 2011 - d'ici là, toute l'UE appliquera des dispositions identiques aux mouvements non commerciaux d'animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2021" docOffset="12">
+      <en>It is recommended that the transitional system should <Alignment alignment="12106" annotation_id="2075">
+          <DiscourseConnective annotation_id="2075" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be applied in relation to tapeworms (Echinococcus multilocularis) and ticks until 31 December 2011.</en>
+      <fr>L'application du régime transitoire <DiscourseConnective annotation_id="2178">jusqu'au</DiscourseConnective> 31 décembre 2011 est <Alignment alignment="19922" annotation_id="2208">
+          <DiscourseConnective annotation_id="2208" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> recommandée par rapport au ténia (Echinococcus multilocularis) <DiscourseConnective annotation_id="2281">et</DiscourseConnective> aux tiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2180" docOffset="13">
+      <en>
+        <Alignment alignment="2296" annotation_id="2180">
+          <DiscourseConnective annotation_id="2180" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> regards the new procedures which take the place of the committee's procedure, the Commission should be empowered under this regulation to adopt delegated acts under Article 290 of the treaty, through which the European Parliament and the Council delegate to the Commission the power to adopt non-legislative acts which have general application in order to add to or amend non-essential elements.</en>
+      <fr>
+        <Alignment alignment="2180" annotation_id="2296">
+          <DiscourseConnective annotation_id="2296" sense="Temporal.Synchrony">En</DiscourseConnective>
+        </Alignment> ce qui concerne les nouvelles procédures remplaçant la procédure de comitologie, la Commission devrait être habilitée, par ce règlement, <DiscourseConnective annotation_id="2436">à</DiscourseConnective> adopter des actes délégués en vertu de l'article 290 du traité sur le fonctionnement de l'Union européenne, article qui prévoit la possibilité, pour le Parlement européen <DiscourseConnective annotation_id="2609">et</DiscourseConnective> le Conseil, de déléguer <DiscourseConnective annotation_id="2636">à</DiscourseConnective> la Commission le pouvoir d'adopter des actes non législatifs de portée générale qui complètent <DiscourseConnective annotation_id="2733">ou</DiscourseConnective> modifient certains éléments non essentiels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2579" docOffset="14">
+      <en>
+        <Alignment alignment="2780" annotation_id="2579">
+          <DiscourseConnective annotation_id="2579" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, in order that diseases other than rabies may be contained - diseases that could increase as a result of movements of pet animals - the Commission could adopt preventative health measures through delegated acts.</en>
+      <fr>
+        <Alignment alignment="16499" annotation_id="2780">
+          <DiscourseConnective annotation_id="2780" sense="Expansion.Instantiation">Par exemple</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="2793">pour</DiscourseConnective> garantir le contrôle de maladies autres <DiscourseConnective annotation_id="2838">que</DiscourseConnective> la rage, susceptibles de se propager <DiscourseConnective annotation_id="2879">à</DiscourseConnective> cause des mouvements d'animaux de compagnie, la Commission pourrait adopter, par voie d'actes délégués, des mesures de prévention sanitaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2803" docOffset="15">
+      <en>In the second place, in order to allow for technical progress the Commission could, through delegated acts, adopt modifications to technical requirements with regard to identifying animals; <DiscourseConnective annotation_id="2993" sense="Expansion.Conjunction">and</DiscourseConnective> in the third place, they could, through delegated acts, adopt modifications to technical requirements in relation to anti-rabies vaccinations, in order to allow for scientific and technical developments.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3022">Deuxièmement</DiscourseConnective>, <DiscourseConnective annotation_id="3036">afin de</DiscourseConnective> tenir compte des progrès techniques, la Commission pourrait adopter, par voie d'actes délégués, des modifications des spécifications techniques pour l'identification des animaux. <DiscourseConnective annotation_id="3223">Troisièmement</DiscourseConnective>, la Commission pourrait adopter, par voie d'actes délégués, des modifications des spécifications techniques relatives <DiscourseConnective annotation_id="3355">à</DiscourseConnective> la vaccination antirabique, <DiscourseConnective annotation_id="3385">afin de</DiscourseConnective> tenir compte des progrès scientifiques <DiscourseConnective annotation_id="3432">et</DiscourseConnective> techniques dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3201" docOffset="16">
+      <en>We succeeded in agreeing the wording for all of this and for arrangements relating to the implementation of Article 290 of the treaty in relation to this dossier, <Alignment alignment="3661" annotation_id="3364">
+          <DiscourseConnective annotation_id="3364" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we kept all of this as consistent as possible with regard to the European Parliament's powers under the Treaty of Lisbon.</en>
+      <fr>Nous avons réussi <DiscourseConnective annotation_id="3481">à</DiscourseConnective> trouver un accord sur la formulation de tout cela, <DiscourseConnective annotation_id="3534">ainsi</DiscourseConnective> que sur la formulation des dispositions concernant l'application de l'article 290 du Traité <DiscourseConnective annotation_id="3632">en</DiscourseConnective> relation avec ce dossier. <Alignment alignment="9868" annotation_id="3661">
+          <DiscourseConnective annotation_id="3661" sense="Expansion.Conjunction">Et</DiscourseConnective>
+        </Alignment> nous avons gardé le plus de cohérence possible au regard des compétences du Parlement européen instaurées par le traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3490" docOffset="17">
+      <en>The agreement at first reading demonstrates how important the urgency of this dossier is to every person who took part.</en>
+      <fr>L'accord obtenu <DiscourseConnective annotation_id="3813">en</DiscourseConnective> première lecture démontre l'urgence que revêt ce dossier <DiscourseConnective annotation_id="3873">pour</DiscourseConnective> tous ceux qui ont participé à son élaboration.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3610" docOffset="18">
+      <en>Finally, I would like to say that the fact that a rapporteur from one of the small groups took on such a complicated dossier with the active cooperation of shadow rapporteurs from other political groups is an important democratic signal and something of which this institution should be proud.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3925">Enfin</DiscourseConnective>, je tiens <DiscourseConnective annotation_id="3941">à</DiscourseConnective> <DiscourseConnective annotation_id="3943">dire que</DiscourseConnective> la reprise d'un dossier <DiscourseConnective annotation_id="3976">aussi</DiscourseConnective> complexe par un rapporteur issu d'un petit groupe parlementaire avec la coopération active de rapporteurs fictifs issus d'autres groupes politiques constitue un signal démocratique important dont cette institution devrait être fière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3904" docOffset="19">
+      <en>I would like, once more, to express my thanks to everyone from the three institutions - the Parliament, the Council and the Commission - who worked unremittingly on this dossier.</en>
+      <fr>Je remercie <DiscourseConnective annotation_id="4228">encore</DiscourseConnective> tous ceux qui, dans les trois institutions - Parlement, Conseil <DiscourseConnective annotation_id="4299">et</DiscourseConnective> Commission -, ont travaillé sans relâche <DiscourseConnective annotation_id="4343">à</DiscourseConnective> ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4083" docOffset="20">
+      <en>I hope that colleagues will support this work through their votes.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="4366">que</DiscourseConnective> mes collègues soutiendront ce travail par leurs votes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4150" id="086" name="John Dalli">
+    <ParallelChunk annotation_id="4150" docOffset="21">
+      <en>Member of the Commission. - Mr President, I would like to thank the Committee on the Environment, Public Health and Food Safety for its work on this dossier.</en>
+      <fr>Monsieur le Président, je remercie la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="4515">et</DiscourseConnective> de la sécurité alimentaire du travail accompli dans ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4308" docOffset="22">
+      <en>I would especially like to thank the rapporteur, Ms de Brún, for her efforts to reach an agreement on this issue, which is a sensitive one for some Member States.</en>
+      <fr>Je remercie spécialement la rapporteure, Mme de Brún, <DiscourseConnective annotation_id="4636">pour</DiscourseConnective> tous les efforts qu'elle a déployés <DiscourseConnective annotation_id="4677">afin de</DiscourseConnective> parvenir à un accord sur ce sujet, sensible <DiscourseConnective annotation_id="4729">pour</DiscourseConnective> certains États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4471" docOffset="23">
+      <en>We <DiscourseConnective annotation_id="4474" sense="Expansion.Conjunction">also</DiscourseConnective> appreciate that, apart from the issues involved, she had to steer the process through the difficult part on delegated acts.</en>
+      <fr>Outre les discussions sur le contenu du dossier, elle a dû piloter le processus difficile concernant les actes délégués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4603" docOffset="24">
+      <en>Thank you very much.</en>
+      <fr>Je l'en remercie vivement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4624" docOffset="25">
+      <en>I am pleased that the intense discussions held between the three institutions have resulted in a compromise text that fully reflects the technical measures proposed by the Commission and <DiscourseConnective annotation_id="4811" sense="Expansion.Conjunction">also</DiscourseConnective> addresses the necessary adaptation of the proposals to the Lisbon Treaty in a way that is acceptable to the Commission.</en>
+      <fr>Je suis ravi de constater <DiscourseConnective annotation_id="4932">que</DiscourseConnective> les discussions intenses entre les trois institutions ont abouti <DiscourseConnective annotation_id="5001">à</DiscourseConnective> un texte de compromis qui reflète pleinement les mesures techniques proposées par la Commission, <DiscourseConnective annotation_id="5100">et</DiscourseConnective> permet une adaptation, acceptable <DiscourseConnective annotation_id="5137">pour</DiscourseConnective> la Commission, des propositions au traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4936" docOffset="26">
+      <en>
+        <Alignment alignment="5222" annotation_id="4936">
+          <DiscourseConnective annotation_id="4936" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, our joint work has been complicated and slowed down by this alignment.</en>
+      <fr>Notre travail conjoint a <Alignment alignment="7052" annotation_id="5222">
+          <DiscourseConnective annotation_id="5222" sense="Expansion.Conjunction">certes</DiscourseConnective>
+        </Alignment> été compliqué <DiscourseConnective annotation_id="5243">et</DiscourseConnective> ralenti par cet alignement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5015" docOffset="27">
+      <en>
+        <Alignment alignment="73773" annotation_id="5015">
+          <DiscourseConnective annotation_id="5015" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, the Council is now in a position to ensure that this work is finalised on time.</en>
+      <fr>
+        <Alignment alignment="8278" annotation_id="5274">
+          <DiscourseConnective annotation_id="5274" sense="Comparison.Contrast">Nonobstant</DiscourseConnective>
+        </Alignment>, le Conseil est <DiscourseConnective annotation_id="5301">maintenant</DiscourseConnective> <DiscourseConnective annotation_id="5312">en</DiscourseConnective> mesure de garantir une finalisation de ce travail dans les délais impartis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5109" docOffset="28">
+      <en>
+        <Alignment alignment="5391" annotation_id="5109">
+          <DiscourseConnective annotation_id="5109" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> a vote is taken on the compromise text, I am pleased to confirm that the Commission does not intend to propose a further prolongation of the transitional regime, which will come to an end on 31 December 2011.</en>
+      <fr>
+        <Alignment alignment="8915" annotation_id="5391">
+          <DiscourseConnective annotation_id="5391" sense="Temporal.Asynchronous.Precedence">Avant que</DiscourseConnective>
+        </Alignment> le Parlement ne vote sur ce texte de compromis, j'ai le plaisir de confirmer <DiscourseConnective annotation_id="5478">que</DiscourseConnective> la Commission n'a pas l'intention de proposer une nouvelle prolongation du régime transitoire qui expirera le 31 décembre 2011.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5325" docOffset="29">
+      <en>This means that fully harmonised rules will be in place from 1 January 2012.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5610">Autrement dit</DiscourseConnective>, des règles totalement harmonisées seront <DiscourseConnective annotation_id="5666">en</DiscourseConnective> place à partir du 1er janvier 2012.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5402" docOffset="30">
+      <en>
+        <Alignment alignment="85202" annotation_id="5402">
+          <DiscourseConnective annotation_id="5402" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the Commission does intend to propose a revision of the regulation in its entirety before 30 June 2011 and, in particular, the aspects of delegated and implementing acts.</en>
+      <fr>
+        <Alignment alignment="10694" annotation_id="5705">
+          <DiscourseConnective annotation_id="5705" sense="Comparison.Contrast">En revanche</DiscourseConnective>
+        </Alignment>, la Commission a l'intention de proposer une révision de l'ensemble du règlement <DiscourseConnective annotation_id="5798">avant</DiscourseConnective> le 30 juin 2011 <DiscourseConnective annotation_id="5820">et</DiscourseConnective>, <DiscourseConnective annotation_id="5824">en particulier</DiscourseConnective>, la révision des éléments concernant les actes délégués <DiscourseConnective annotation_id="5895">et</DiscourseConnective> d'exécution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5582" docOffset="31">
+      <en>As regards the notification of delegated acts, the Commission will <Alignment alignment="5995" annotation_id="5649">
+          <DiscourseConnective annotation_id="5649" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> take account of the periods of recess of the institutions in order to ensure that the European Parliament and the Council are able to exercise their prerogatives within the time limits laid down in the relevant legislative acts.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5911">En</DiscourseConnective> ce qui concerne la notification des actes délégués, la Commission tiendra compte <Alignment alignment="12186" annotation_id="5995">
+          <DiscourseConnective annotation_id="5995" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des périodes de vacances des institutions <DiscourseConnective annotation_id="6047">afin de</DiscourseConnective> garantir <DiscourseConnective annotation_id="6064">que</DiscourseConnective> le Parlement <DiscourseConnective annotation_id="6081">et</DiscourseConnective> le Conseil soient en mesure d'exercer leurs prérogatives dans les délais prévus par les actes législatifs concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5883" docOffset="32">
+      <en>Finally, I can confirm the Commission's commitment, jointly expressed with Parliament and the Council, that the provisions of this regulation shall be without prejudice to any further position of the institutions as regards the implementation of Article 290 of the Treaty on the Functioning of the European Union or individual legislative acts containing such provisions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6201">Enfin</DiscourseConnective>, je confirme l'engagement de la Commission - exprimé conjointement avec le Parlement <DiscourseConnective annotation_id="6292">et</DiscourseConnective> le Conseil - à ce <DiscourseConnective annotation_id="6313">que</DiscourseConnective> les dispositions du présent règlement <DiscourseConnective annotation_id="6355">s'</DiscourseConnective>appliquent <DiscourseConnective annotation_id="6368">sans</DiscourseConnective> préjudice d'aucune position future des institutions <DiscourseConnective annotation_id="6425">quant à</DiscourseConnective> la mise en œuvre de l'article 290 du Traité, d'aucun fonctionnement de l'Union européenne ni d'aucun acte législatif contenant de telles dispositions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6255" docOffset="33">
+      <en>I hope Parliament will support the compromise text, which I firmly believe properly addresses all concerns raised by this House.</en>
+      <fr>J'espère que le Parlement soutiendra ce texte de compromis qui, selon moi, répond de manière appropriée à toutes les préoccupations exprimées par cette Assemblée.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6384" id="087" language="SV" name="Christofer Fjellner">
+    <ParallelChunk annotation_id="6384" docOffset="34">
+      <en>Mr President, Commissioner, this is a very important report, partly <Alignment alignment="46349" annotation_id="6452">
+          <DiscourseConnective annotation_id="6452" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it looks at how we can make it easier for pet owners in Europe to transport their pets across national boundaries <Alignment alignment="65981" annotation_id="6574">
+          <DiscourseConnective annotation_id="6574" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> partly <DiscourseConnective annotation_id="6585" sense="Contingency.Cause.Reason">because</DiscourseConnective> it deals with preventing the dangerous spread of diseases carried by pets throughout Europe.</en>
+      <fr>Monsieur le Président, Monsieur le Commissaire, il <DiscourseConnective annotation_id="6798">s'</DiscourseConnective>agit d'un rapport très important <Alignment alignment="15033" annotation_id="6833">
+          <DiscourseConnective annotation_id="6833" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>il vise, d'une part, à faciliter les déplacements des citoyens avec leurs animaux de compagnie dans l'Union européenne <Alignment alignment="6340" annotation_id="6961">
+          <DiscourseConnective annotation_id="6961" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, d'autre part, <DiscourseConnective annotation_id="6979">à</DiscourseConnective> empêcher la propagation dangereuse, dans toute l'Europe, de maladies véhiculées par des animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6686" docOffset="35">
+      <en>As a Swedish Member of the European Parliament, I am particularly interested in this question, <Alignment alignment="7179" annotation_id="6781">
+          <DiscourseConnective annotation_id="6781" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there are two diseases which we fortunately do not yet have in Sweden, the dwarf tapeworm and, most importantly, rabies.</en>
+      <fr>En <DiscourseConnective annotation_id="7094">tant que</DiscourseConnective> député suédois au Parlement européen, ce sujet m'intéresse particulièrement <Alignment alignment="6781" annotation_id="7179">
+          <DiscourseConnective annotation_id="7179" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous avons la chance, <DiscourseConnective annotation_id="7211">en</DiscourseConnective> Suède, de n'avoir actuellement aucun cas de ténia nain ni, <DiscourseConnective annotation_id="7273">surtout</DiscourseConnective>, de rage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6910" docOffset="36">
+      <en>During the discussions on this proposal, I have been concerned on a number of occasions that we would need to amend the regulations we currently have in Sweden <Alignment alignment="50958" annotation_id="7070">
+          <DiscourseConnective annotation_id="7070" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that this would result in the dwarf tapeworm and rabies reaching Sweden.</en>
+      <fr>Durant les discussions sur cette proposition, j'ai craint <DiscourseConnective annotation_id="7349">à</DiscourseConnective> plusieurs reprises <DiscourseConnective annotation_id="7370">que</DiscourseConnective> la Suède ne soit obligée de modifier ses règles actuelles <Alignment alignment="9384" annotation_id="7432">
+          <DiscourseConnective annotation_id="7432" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="7435">que</DiscourseConnective> cela n'amène le ténia nain <DiscourseConnective annotation_id="7466">et</DiscourseConnective> la rage en Suède.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7147" docOffset="37">
+      <en>This would have appalling consequences, not least with regard to the way in which we exercise the right of public access to the countryside in Sweden, <Alignment alignment="58342" annotation_id="7298">
+          <DiscourseConnective annotation_id="7298" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment>, our opportunities to roam freely through the woods and fields.</en>
+      <fr>Les conséquences d'une telle situation seraient dramatiques, <DiscourseConnective annotation_id="7548">notamment en</DiscourseConnective> ce qui concerne l'exercice du droit d'accès public <DiscourseConnective annotation_id="7612">à</DiscourseConnective> la campagne suédoise, <Alignment alignment="20165" annotation_id="7636">
+          <DiscourseConnective annotation_id="7636" sense="Expansion.Restatement">autrement dit</DiscourseConnective>
+        </Alignment>, nos possibilités de se promener librement dans les bois <DiscourseConnective annotation_id="7707">et</DiscourseConnective> les champs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7377" docOffset="38">
+      <en>I am very pleased to see today that Sweden will be able to retain its current exemptions, at least for a transitional period, which will allow us to ensure that these diseases do not enter our country.</en>
+      <fr>Je suis heureux de savoir <DiscourseConnective annotation_id="7748">maintenant que</DiscourseConnective> la Suède pourra maintenir ses exceptions, <DiscourseConnective annotation_id="7805">en tout cas</DiscourseConnective> pendant une période transitoire, <DiscourseConnective annotation_id="7850">et</DiscourseConnective> garantir <DiscourseConnective annotation_id="7862">ainsi</DiscourseConnective> <DiscourseConnective annotation_id="7868">que</DiscourseConnective> ces maladies n'entrent pas dans notre pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7579" docOffset="39">
+      <en>Throughout the course of the process, we could not take it for granted that this would be the case.</en>
+      <fr>Tout au long du processus, nous n'avons jamais eu la certitude <DiscourseConnective annotation_id="7979">qu'</DiscourseConnective>il en serait <DiscourseConnective annotation_id="7995">ainsi</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7679" docOffset="40">
+      <en>Even right at the end, a debate took place in the committee procedure which I, at any rate, was worried would create uncertainty and give rise to a loophole in the application of the procedure that would result in the risk of these diseases reaching Sweden.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8002">Même en</DiscourseConnective> dernière minute, un débat <DiscourseConnective annotation_id="8036">en</DiscourseConnective> procédure de comitologie m'a fait craindre l'apparition d'une incertitude <DiscourseConnective annotation_id="8113">et</DiscourseConnective> d'une faille dans l'application de la procédure, entraînant <DiscourseConnective annotation_id="8176">ainsi</DiscourseConnective> le risque <DiscourseConnective annotation_id="8192">que</DiscourseConnective> ces maladies n'atteignent la Suède.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7937" docOffset="41">
+      <en>I would like to extend my warm thanks to everyone who has worked hard to find solutions to enable pets to be transported across Europe and to ensure that the exceptions in countries where certain diseases are not present could be retained, <Alignment alignment="8501" annotation_id="8177">
+          <Alignment alignment="8501" annotation_id="8177">
+            <DiscourseConnective annotation_id="8177" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we do not need to be concerned anywhere in Europe that new diseases will be introduced as a result of this proposal.</en>
+      <fr>Je remercie vivement tous ceux qui ont travaillé durement <DiscourseConnective annotation_id="8290">pour</DiscourseConnective> trouver des solutions permettant le transport d'animaux de compagnie dans l'Union européenne <DiscourseConnective annotation_id="8388">et</DiscourseConnective> garantissant le maintien des exceptions en vigueur dans les pays où certaines maladies ne sont pas présentes, <Alignment alignment="9012" annotation_id="8501">
+          <Alignment alignment="27869" annotation_id="8501">
+            <DiscourseConnective annotation_id="8501" sense="Contingency.Cause.Result">de sorte que</DiscourseConnective>
+          </Alignment>
+        </Alignment> l'Europe ne doive plus craindre l'introduction de nouvelles maladies du fait de cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8302" docOffset="42">
+      <en>I would like to thank the rapporteur, the Council and the Commissioner.</en>
+      <fr>J'en remercie la rapporteure, le Conseil <DiscourseConnective annotation_id="8654">et</DiscourseConnective> le commissaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8374" id="088" name="Linda McAvan">
+    <ParallelChunk annotation_id="8374" docOffset="43">
+      <en>on behalf of the S&amp;D Group. - Mr President, can I start by thanking Mrs de Brún, who took on this dossier expecting it to be fairly expeditious.</en>
+      <fr>Monsieur le Président, permettez-moi tout d'abord de remercier Mme de Brún, qui a repris ce dossier en pensant qu'il serait bouclé assez rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8519" docOffset="44">
+      <en>It <DiscourseConnective annotation_id="8522" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> became very complicated <Alignment alignment="6598" annotation_id="8551">
+          <DiscourseConnective annotation_id="8551" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we found ourselves negotiating whole new delegated acts without precedents for future acts, so congratulations to her and to the Council and Commission.</en>
+      <fr>Les choses se sont compliquées <Alignment alignment="33138" annotation_id="8853">
+          <DiscourseConnective annotation_id="8853" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> nous avons entamé les négociations concernant des actes délégués totalement nouveaux, n'impliquant pas de précédents <DiscourseConnective annotation_id="8978">pour</DiscourseConnective> de futurs actes. Je la félicite <DiscourseConnective annotation_id="9015">donc</DiscourseConnective>, <DiscourseConnective annotation_id="9021">ainsi</DiscourseConnective> que le Conseil <DiscourseConnective annotation_id="9042">et</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8707" docOffset="45">
+      <en>Commissioner, one of your first tasks here is to find a solution.</en>
+      <fr>Monsieur le Commissaire, l'une de vos premières tâches ici est de trouver une solution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8773" docOffset="46">
+      <en>A lot of the debate has been about the technical aspects of this legislation, <Alignment alignment="30134" annotation_id="8851">
+          <DiscourseConnective annotation_id="8851" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is an important piece of legislation for lots of citizens, being about moving their pet freely around the EU.</en>
+      <fr>Une large partie du débat a porté sur les aspects techniques de cette législation, <Alignment alignment="14643" annotation_id="9231">
+          <DiscourseConnective annotation_id="9231" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> c'est un texte législatif important <DiscourseConnective annotation_id="9272">pour</DiscourseConnective> beaucoup de citoyens, qui pourront bientôt se déplacer librement avec leur animal de compagnie dans toute l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8968" docOffset="47">
+      <en>
+        <Alignment alignment="9389" annotation_id="8968">
+          <DiscourseConnective annotation_id="8968" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> we first adopted this legislation a few years ago, there was a lot of support for it, <DiscourseConnective annotation_id="9059" sense="Comparison.Contrast">but</DiscourseConnective> we have this transitional period, which Mr Fjellner has mentioned, which is important to prevent diseases spreading to states that do not have those diseases.</en>
+      <fr>
+        <Alignment alignment="7629" annotation_id="9389">
+          <DiscourseConnective annotation_id="9389" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> nous avons adopté la première version de cette législation il y a quelques années, elle a reçu un large soutien, <DiscourseConnective annotation_id="9510">sans doute parce qu'</DiscourseConnective>il y a cette période transitoire dont M. Fjellner vient de parler, qui est importante <DiscourseConnective annotation_id="9616">pour</DiscourseConnective> empêcher des maladies de se propager dans les pays où elles ne sont pas présentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9222" docOffset="48">
+      <en>I welcome the Commission's support for extending the transitional period so that, <Alignment alignment="24493" annotation_id="9304">
+          <DiscourseConnective annotation_id="9304" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we do have the new legislation, all countries will have the same legislation.</en>
+      <fr>Je suis heureuse que la Commission ait soutenu la proposition de prolonger la période de transition <DiscourseConnective annotation_id="9804">car</DiscourseConnective> ainsi, <Alignment alignment="8532" annotation_id="9815">
+          <DiscourseConnective annotation_id="9815" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la nouvelle législation entrera en vigueur, tous les pays de l'UE auront la <DiscourseConnective annotation_id="9899">même</DiscourseConnective> législation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9387" docOffset="49">
+      <en>We will, by that point, have much higher levels of animal health and animal welfare across the EU.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9917">À ce moment-là</DiscourseConnective>, les niveaux de protection de la santé <DiscourseConnective annotation_id="9971">et</DiscourseConnective> du bien-être des animaux seront beaucoup plus élevés dans toute l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9486" docOffset="50">
+      <en>On the comitology issue, our group supports the compromise that has been negotiated.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10044">En</DiscourseConnective> ce qui concerne la procédure de comitologie, notre groupe soutient le compromis qui a été négocié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9571" docOffset="51">
+      <en>We think that Parliament should have parity - equality - with the Council in legislation.</en>
+      <fr>Nous pensons <DiscourseConnective annotation_id="10159">qu'en</DiscourseConnective> matière législative, le Parlement devrait avoir la parité - l'égalité - avec le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9661" docOffset="52">
+      <en>The whole issue was about the expert groups and who these experts should be.</en>
+      <fr>Toute la discussion a tourné autour des groupes d'experts <DiscourseConnective annotation_id="10312">et</DiscourseConnective> du choix de ces experts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9738" docOffset="53">
+      <en>What we would like to say is that <Alignment alignment="69652" annotation_id="9772">
+          <DiscourseConnective annotation_id="9772" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we talk about experts being consulted, this has to refer to all experts, <Alignment alignment="10438" annotation_id="9850">
+          <DiscourseConnective annotation_id="9850" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Commission will be looking with experts from the Member States, from non-governmental organisations, and also those perhaps which the European Parliament is recommending.</en>
+      <fr>Selon nous, <Alignment alignment="6749" annotation_id="10352">
+          <DiscourseConnective annotation_id="10352" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il est question de consulter des experts cela doit concerner tous les experts, <Alignment alignment="5205" annotation_id="10438">
+          <DiscourseConnective annotation_id="10438" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la Commission doit travailler avec des experts des États membres, d'organisations non gouvernementales, <DiscourseConnective annotation_id="10545">et</DiscourseConnective> éventuellement <DiscourseConnective annotation_id="10563">aussi</DiscourseConnective> avec ceux recommandés par le Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10029" docOffset="54">
+      <en>I am very pleased that we have this agreement.</en>
+      <fr>Je suis très satisfaite de l'accord obtenu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10076" docOffset="55">
+      <en>It enables the transitional period to be agreed in time for <DiscourseConnective annotation_id="10136" sense="Temporal.Synchrony">when</DiscourseConnective> the derogation runs out, <Alignment alignment="10742" annotation_id="10166">
+          <DiscourseConnective annotation_id="10166" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we look forward to hearing the Commission's new proposals for the future legislation.</en>
+      <fr>Il permet de prolonger la période dérogatoire transitoire avant son expiration, <Alignment alignment="15859" annotation_id="10742">
+          <DiscourseConnective annotation_id="10742" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous attendons avec impatience les propositions de la Commission concernant la future législation.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10256" id="089" name="Adina-Ioana Vălean">
+    <ParallelChunk annotation_id="10256" docOffset="56">
+      <en>on behalf of the ALDE Group. - Mr President, let us recall that free movement has been one of the fundamental pillars of the single European market, which aims to achieve increased competition and larger economies of scale and confers on the EU its main power of attraction.</en>
+      <fr>Monsieur le Président, rappelons-nous <DiscourseConnective annotation_id="10882">que</DiscourseConnective> la libre circulation a constitué l'un des piliers fondamentaux du marché unique européen, dont l'objectif est de renforcer la concurrence <DiscourseConnective annotation_id="11024">et</DiscourseConnective> d'accroître les économies d'échelle, conférant ainsi <DiscourseConnective annotation_id="11080">à</DiscourseConnective> l'UE son principal pouvoir d'attraction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10531" docOffset="57">
+      <en>Over time, the ability of people to move freely within the EU has become not only a basic component of the internal market but a fundamental right.</en>
+      <fr>Au fil du temps, la possibilité de circuler librement dans l'UE est devenue une composante de base du marché intérieur <DiscourseConnective annotation_id="11242">mais aussi</DiscourseConnective> un droit fondamental.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10679" docOffset="58">
+      <en>By removing the barriers created by different national provisions and regulations, European citizens, as well as businesses, can thrive.</en>
+      <fr>Éliminer les obstacles créés par les différentes dispositions <DiscourseConnective annotation_id="11337">et</DiscourseConnective> règlementations nationales est bénéfique <DiscourseConnective annotation_id="11381">pour</DiscourseConnective> les citoyens européens <DiscourseConnective annotation_id="11409">et</DiscourseConnective> les entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10816" docOffset="59">
+      <en>
+        <Alignment alignment="61089" annotation_id="10816">
+          <DiscourseConnective annotation_id="10816" sense="Expansion.Conjunction">Likewise</DiscourseConnective>
+        </Alignment>, the possibility for EU citizens to carry their pets with them, without being subjected to specific national regulations and standards, is important, <Alignment alignment="40087" annotation_id="10975">
+          <DiscourseConnective annotation_id="10975" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it can significantly reduce their travel efforts and costs.</en>
+      <fr>
+        <Alignment alignment="10816" annotation_id="11429">
+          <DiscourseConnective annotation_id="11429" sense="Expansion.Conjunction">De même qu'</DiscourseConnective>
+        </Alignment>est importante la possibilité, <DiscourseConnective annotation_id="11471">pour</DiscourseConnective> les citoyens européens, d'emmener leurs animaux de compagnie <DiscourseConnective annotation_id="11537">sans</DiscourseConnective> être soumis <DiscourseConnective annotation_id="11554">à</DiscourseConnective> des règles <DiscourseConnective annotation_id="11567">et</DiscourseConnective> normes nationales spécifiques, <Alignment alignment="6773" annotation_id="11601">
+          <DiscourseConnective annotation_id="11601" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> elle permet de réduire considérablement les difficultés <DiscourseConnective annotation_id="11661">et</DiscourseConnective> les coûts de déplacement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11038" docOffset="60">
+      <en>I am pleased that the Commission proposal points in that direction.</en>
+      <fr>Je suis ravie <DiscourseConnective annotation_id="11704">que</DiscourseConnective> la proposition de la Commission aille dans cette direction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11106" docOffset="61">
+      <en>I welcome the general regime passport, which will harmonise the animal health measures and controls that will facilitate the free movement of pet animals.</en>
+      <fr>Je salue le régime général de passeport qui harmonisera les mesures <DiscourseConnective annotation_id="11836">et</DiscourseConnective> les contrôles zoosanitaires, facilitant ainsi la libre circulation des animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11261" docOffset="62">
+      <en>At the same time, I agree that we need to guarantee a high level of protection for human and animal health.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11932">Parallèlement</DiscourseConnective>, je pense aussi <DiscourseConnective annotation_id="11962">qu'</DiscourseConnective>il importe de garantir un niveau élevé de protection de la santé humaine <DiscourseConnective annotation_id="12038">et</DiscourseConnective> animale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11369" docOffset="63">
+      <en>This transitional regime will allow more time for the right infrastructure and staff to be in place.</en>
+      <fr>Ce régime transitoire laissera plus de temps <DiscourseConnective annotation_id="12095">pour</DiscourseConnective> mettre <DiscourseConnective annotation_id="12107">en</DiscourseConnective> place l'infrastructure <DiscourseConnective annotation_id="12133">et</DiscourseConnective> les effectifs adéquats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11470" docOffset="64">
+      <en>So, under this argument, Parliament will certainly vote tomorrow to prolong the transitional regime for some Member States until the end of 2011, <Alignment alignment="12326" annotation_id="11616">
+          <DiscourseConnective annotation_id="11616" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> these countries allegedly need to take specific health risks into account.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12160">Dès lors</DiscourseConnective>, considérant cet argument, le Parlement votera certainement en faveur de la prolongation <DiscourseConnective annotation_id="12258">jusqu'à</DiscourseConnective> fin 2011 du régime transitoire <DiscourseConnective annotation_id="12297">pour</DiscourseConnective> certains États membres, <Alignment alignment="9054" annotation_id="12326">
+          <DiscourseConnective annotation_id="12326" sense="Temporal.Synchrony">puisqu'</DiscourseConnective>
+        </Alignment>apparemment ces pays doivent tenir compte de risques sanitaires spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11694" docOffset="65">
+      <en>
+        <Alignment alignment="15423" annotation_id="11694">
+          <DiscourseConnective annotation_id="11694" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, this is not the first time that some Member States have been allowed to apply more stringent health requirements than others.</en>
+      <fr>
+        <Alignment alignment="3808" annotation_id="12410">
+          <DiscourseConnective annotation_id="12410" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, ce n'est pas la première fois <DiscourseConnective annotation_id="12451">que</DiscourseConnective> certains États membres sont autorisés <DiscourseConnective annotation_id="12493">à</DiscourseConnective> appliquer des conditions de police sanitaire plus strictes <DiscourseConnective annotation_id="12554">que</DiscourseConnective> d'autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11829" docOffset="66">
+      <en>Initially, the transitional period lasted until July 2008.</en>
+      <fr>Initialement, la période transitoire devait prendre fin en juillet 2008.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11888" docOffset="67">
+      <en>
+        <Alignment alignment="21340" annotation_id="11888">
+          <DiscourseConnective annotation_id="11888" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>
+        </Alignment> the transitional period was extended to 2010.</en>
+      <fr>Elle a <Alignment alignment="16816" annotation_id="12648">
+          <DiscourseConnective annotation_id="12648" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> été prolongée jusqu'en 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11939" docOffset="68">
+      <en>Now we have agreed to a new prolongation.</en>
+      <fr>Et nous venons d'accepter une nouvelle prolongation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11981" docOffset="69">
+      <en>
+        <Alignment alignment="14010" annotation_id="11981">
+          <DiscourseConnective annotation_id="11981" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, <Alignment alignment="12748" annotation_id="11987">
+          <DiscourseConnective annotation_id="11987" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> I have some sympathy for the fears of the Member States who consider that their pet population is more prone to certain diseases, <Alignment alignment="12923" annotation_id="12123">
+          <DiscourseConnective annotation_id="12123" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I understand that the proposed prolongation would be simultaneously completed with EU-funded vaccination programmes to eliminate sylvatic rabies in some Member States, I believe that this should be the last extension of the special treatment enjoyed by these countries.</en>
+      <fr>
+        <Alignment alignment="5255" annotation_id="12738">
+          <DiscourseConnective annotation_id="12738" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+        </Alignment>, <Alignment alignment="11987" annotation_id="12748">
+          <DiscourseConnective annotation_id="12748" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> comprenant dans une certaine mesure les craintes des États membres qui considèrent <DiscourseConnective annotation_id="12840">que</DiscourseConnective> leur population d'animaux de compagnie est plus exposée <DiscourseConnective annotation_id="12900">à</DiscourseConnective> certaines maladies - <Alignment alignment="314" annotation_id="12923">
+          <DiscourseConnective annotation_id="12923" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que j'aie appris <DiscourseConnective annotation_id="12943">que</DiscourseConnective> cette prolongation serait assortie de programmes de vaccination financés par l'UE <DiscourseConnective annotation_id="13029">pour</DiscourseConnective> éliminer la rage sylvatique dans certains États membres -, je pense <DiscourseConnective annotation_id="13102">que</DiscourseConnective> ce devrait être la dernière prolongation du traitement spécial dont jouissent ces pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12397" docOffset="70">
+      <en>We all know that asymmetrical measures and opt-outs will not bring the full benefits of the internal market in this area.</en>
+      <fr>Nous savons tous <DiscourseConnective annotation_id="13211">que</DiscourseConnective> l'application de mesures asymétriques <DiscourseConnective annotation_id="13253">et</DiscourseConnective> d'exemptions empêchera de tirer pleinement profit du marché intérieur dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12519" docOffset="71">
+      <en>
+        <Alignment alignment="13353" annotation_id="12519">
+          <DiscourseConnective annotation_id="12519" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> let us all agree that this transitional regime needs to be eliminated <Alignment alignment="13404" annotation_id="12592">
+          <DiscourseConnective annotation_id="12592" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that a level playing field has to be ensured as soon as possible.</en>
+      <fr>Convenons <Alignment alignment="4621" annotation_id="13353">
+          <DiscourseConnective annotation_id="13353" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13358">que</DiscourseConnective> ce régime transitoire doit être supprimé, <Alignment alignment="10659" annotation_id="13404">
+          <DiscourseConnective annotation_id="13404" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13407">qu'</DiscourseConnective>une situation équitable doit être assurée le plus rapidement possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12662" docOffset="72">
+      <en>Interestingly enough, the more contentious issue in this report has not been the content that has sparked heated debate among us on how to apply the new Lisbon Treaty provisions regarding the comitology procedure.</en>
+      <fr>Il est intéressant de relever que le point plus controversé de ce rapport n'a pas été celui qui a provoqué parmi nous des débats animés quant à la manière d'appliquer les nouvelles dispositions du traité de Lisbonne concernant la procédure de comitologie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12876" docOffset="73">
+      <en>This is the first codecision file where these provisions are to be put into practice.</en>
+      <fr>Il <DiscourseConnective annotation_id="13740">s'</DiscourseConnective>agit du premier dossier de codécision impliquant la mise <DiscourseConnective annotation_id="13799">en</DiscourseConnective> pratique de ces dispositions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12962" docOffset="74">
+      <en>Given Parliament's extended powers under the new treaty, it was crucial for us that this particular regulation did not set a precedent for future decisions.</en>
+      <fr>Compte tenu de l'extension des compétences du Parlement en vertu du nouveau Traité, il était crucial <DiscourseConnective annotation_id="13933">pour</DiscourseConnective> nous <DiscourseConnective annotation_id="13943">que</DiscourseConnective> ce règlement spécifique ne crée pas un précédent <DiscourseConnective annotation_id="13996">pour</DiscourseConnective> de futures décisions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13119" docOffset="75">
+      <en>In this regard, I welcome the written statement which was agreed between Parliament and the Council during the trialogue, stating that this file should not be treated as a precedent.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14023">À cet égard</DiscourseConnective>, je salue la déclaration écrite du Parlement <DiscourseConnective annotation_id="14080">et</DiscourseConnective> du Conseil, adoptée au cours du trilogue, précisant <DiscourseConnective annotation_id="14135">que</DiscourseConnective> ce dossier ne devait pas être traité <DiscourseConnective annotation_id="14176">comme</DiscourseConnective> un précédent.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13302" id="090" name="James Nicholson">
+    <ParallelChunk annotation_id="13302" docOffset="76">
+      <en>on behalf of the ECR Group. - Mr President, first of all, let me begin by thanking the rapporteur for all her hard work on this report.</en>
+      <fr>au nom du groupe ECR. - (EN) Monsieur le Président, permettez-moi de commencer par remercier la rapporteure d'avoir mené à bien le difficile travail qui a abouti <DiscourseConnective annotation_id="14358">à</DiscourseConnective> ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13438" docOffset="77">
+      <en>What many of us felt at the beginning would be a dossier which would not cause us much of a problem turned out to be an awful lot more tricky than we thought.</en>
+      <fr>Ce dossier, que beaucoup d'entre nous pensaient - au départ - être relativement simple, s'est révélé bien plus difficile <DiscourseConnective annotation_id="14493">que</DiscourseConnective> prévu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13597" docOffset="78">
+      <en>Unfortunately, the rapporteur had to take the brunt of most of the negotiations, <Alignment alignment="23576" annotation_id="13678">
+          <DiscourseConnective annotation_id="13678" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> she certainly had to work very hard to ensure this report got through within the necessary timeframe, which was very important <Alignment alignment="14730" annotation_id="13809">
+          <DiscourseConnective annotation_id="13809" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we were under pressure to secure the extension of her derogation which was due to run out in June of this year.</en>
+      <fr>La rapporteure a <DiscourseConnective annotation_id="14521">malheureusement</DiscourseConnective> dû subir le poids de la majeure partie des négociations <Alignment alignment="12311" annotation_id="14593">
+          <DiscourseConnective annotation_id="14593" sense="Comparison.Contrast">et</DiscourseConnective>
+        </Alignment> a certainement dû travailler durement <DiscourseConnective annotation_id="14634">pour</DiscourseConnective> garantir la finalisation de ce rapport dans les délais requis, ce qui était très important <Alignment alignment="22565" annotation_id="14730">
+          <DiscourseConnective annotation_id="14730" sense="Temporal.Synchrony">puisqu'</DiscourseConnective>
+        </Alignment>il était urgent d'obtenir la prolongation de la dérogation, qui doit expirer <DiscourseConnective annotation_id="14814">en</DiscourseConnective> juin prochain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13924" docOffset="79">
+      <en>In my opinion, this is a small but vital piece of legislation which will protect those areas and those countries that are concerned by the threat of rabies; the disease continues to occur in some parts of the EU, <Alignment alignment="15009" annotation_id="14137">
+          <DiscourseConnective annotation_id="14137" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> hopefully by the end of 2011, vaccination programmes will have proved successful in eradicating the disease once and for all.</en>
+      <fr>Selon moi, ce texte législatif, court <DiscourseConnective annotation_id="14870">mais</DiscourseConnective> capital, protégera les régions <DiscourseConnective annotation_id="14906">et</DiscourseConnective> les pays préoccupés par la menace de la rage. Cette maladie persiste dans certaines régions de l'UE <Alignment alignment="31718" annotation_id="15009">
+          <DiscourseConnective annotation_id="15009" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il faut espérer que d'ici fin 2011, les programmes de vaccination seront parvenus <DiscourseConnective annotation_id="15094">à</DiscourseConnective> l'éradiquer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14267" docOffset="80">
+      <en>Until then, <DiscourseConnective annotation_id="14279" sense="Comparison.Contrast">however</DiscourseConnective>, we have found a way which allows us to continue to enforce our own stricter requirements under the transitional period <Alignment alignment="15254" annotation_id="14407">
+          <DiscourseConnective annotation_id="14407" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> we move, in line with other EU Member States, to the general regime.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15109">En attendant</DiscourseConnective>, nous avons trouvé une solution qui nous autorise <DiscourseConnective annotation_id="15172">à</DiscourseConnective> appliquer nos conditions plus strictes dans le cadre d'une période transitoire, <Alignment alignment="17373" annotation_id="15254">
+          <DiscourseConnective annotation_id="15254" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> passer <DiscourseConnective annotation_id="15270">à</DiscourseConnective> l'application du régime général, <DiscourseConnective annotation_id="15305">comme</DiscourseConnective> les autres États membres de l'UE.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14483" id="091" language="DA" name="Anna Rosbach">
+    <ParallelChunk annotation_id="14483" docOffset="81">
+      <en>Mr President, I would like to thank Mrs de Brún for the excellent job she has done on updating this technical regulation on travel with pet animals within the territory of the EU.</en>
+      <fr>Monsieur le Président, je remercie Mme de Brún <DiscourseConnective annotation_id="15392">pour</DiscourseConnective> l'excellent travail accompli <DiscourseConnective annotation_id="15426">en vue d'</DiscourseConnective>actualiser ce règlement technique concernant les mouvements d'animaux de compagnie dans l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14663" docOffset="82">
+      <en>Many ordinary families find it a challenge to complete all the vaccinations and paperwork required for all the members of the family to go on holiday together.</en>
+      <fr>Beaucoup de familles ordinaires ont du mal <DiscourseConnective annotation_id="15572">à</DiscourseConnective> obtenir toutes les vaccinations <DiscourseConnective annotation_id="15606">et</DiscourseConnective> documents administratifs requis <DiscourseConnective annotation_id="15641">pour que</DiscourseConnective> tous les membres de la famille puissent partir <DiscourseConnective annotation_id="15697">en</DiscourseConnective> vacances ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14823" docOffset="83">
+      <en>It is necessary, <Alignment alignment="7574" annotation_id="14840">
+          <DiscourseConnective annotation_id="14840" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, <Alignment alignment="15763" annotation_id="14849">
+          <DiscourseConnective annotation_id="14849" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> some countries are fighting a hard, long-fought battle against uncontrollable animal diseases.</en>
+      <fr>Ces contraintes sont <Alignment alignment="15863" annotation_id="15740">
+          <DiscourseConnective annotation_id="15740" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> nécessaires, <Alignment alignment="10490" annotation_id="15763">
+          <DiscourseConnective annotation_id="15763" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> certains pays mènent un combat long <DiscourseConnective annotation_id="15803">et</DiscourseConnective> difficile contre des maladies animales incontrôlables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14952" docOffset="84">
+      <en>Various measures have been taken: quarantine of varying lengths, double-checking with vets both before and after travel depending on the destination country, expensive compulsory vaccination of wild animals at national level - to name but a few.</en>
+      <fr>Diverses mesures ont été prises: mises en quarantaine de durées variables, doubles contrôles vétérinaires: <DiscourseConnective annotation_id="15968">avant</DiscourseConnective> <DiscourseConnective annotation_id="15974">et</DiscourseConnective> <DiscourseConnective annotation_id="15977">après</DiscourseConnective> un déplacement selon le pays de destination, vaccinations obligatoires coûteuses d'animaux sauvages, au niveau national - <DiscourseConnective annotation_id="16105">pour</DiscourseConnective> n'en citer que quelques-unes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15198" docOffset="85">
+      <en>I can <Alignment alignment="57517" annotation_id="15204">
+          <DiscourseConnective annotation_id="15204" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> well understand why some Member States fear any easing of their stringent national regulations, <Alignment alignment="16264" annotation_id="15310">
+          <DiscourseConnective annotation_id="15310" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I consider it necessary that we respect their high safety requirements and would like others to emulate them.</en>
+      <fr>Je peux <Alignment alignment="15013" annotation_id="16148">
+          <DiscourseConnective annotation_id="16148" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> comprendre pourquoi certains États membres craignent tout assouplissement de leurs règles nationales strictes, <Alignment alignment="18060" annotation_id="16264">
+          <DiscourseConnective annotation_id="16264" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je considère qu'il est nécessaire <DiscourseConnective annotation_id="16301">que</DiscourseConnective> nous respections leurs exigences élevées de sécurité, <DiscourseConnective annotation_id="16359">et</DiscourseConnective> souhaite que d'autres pays <DiscourseConnective annotation_id="16389">s'</DiscourseConnective>en inspirent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15424" docOffset="86">
+      <en>
+        <Alignment alignment="10920" annotation_id="15424">
+          <DiscourseConnective annotation_id="15424" sense="Contingency.Cause.Result">Consequently</DiscourseConnective>
+        </Alignment>, I would like to ask the Commission whether it would not be a good idea <DiscourseConnective annotation_id="15509" sense="Comparison.Concession">nonetheless</DiscourseConnective> to implement veterinary border controls at which the owner of a pet animal must demonstrate that the animal travelling with him <DiscourseConnective annotation_id="15649" sense="Expansion.Alternative">or</DiscourseConnective> her is free of dangerous diseases, has been vaccinated and has its papers in order in respect of the destination country.</en>
+      <fr>
+        <Alignment alignment="13362" annotation_id="16405">
+          <DiscourseConnective annotation_id="16405" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, je souhaiterais avoir l'avis de la Commission sur le point suivant: ne serait-il pas judicieux d'effectuer des contrôles vétérinaires aux frontières, où le propriétaire d'un animal de compagnie devrait prouver <DiscourseConnective annotation_id="16631">que</DiscourseConnective> l'animal qui l'accompagne n'est atteint d'aucune maladie dangereuse, a été vacciné <DiscourseConnective annotation_id="16718">et</DiscourseConnective> dispose de documents <DiscourseConnective annotation_id="16742">en</DiscourseConnective> ordre <DiscourseConnective annotation_id="16751">pour</DiscourseConnective> le pays de destination?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15774" docOffset="87">
+      <en>That would <Alignment alignment="16797" annotation_id="15785">
+          <DiscourseConnective annotation_id="15785" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> provide an opportunity to check pig and other animal transports that do not meet EU requirements, <DiscourseConnective annotation_id="15888" sense="Expansion.Conjunction">and</DiscourseConnective> the smuggling of puppies and kittens which are far too young could <Alignment alignment="37738" annotation_id="15959">
+          <DiscourseConnective annotation_id="15959" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be exposed by border controls.</en>
+      <fr>Cela permettrait <Alignment alignment="17923" annotation_id="16797">
+          <DiscourseConnective annotation_id="16797" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de contrôler les transports de porcs <DiscourseConnective annotation_id="16844">et</DiscourseConnective> d'autres animaux ne répondant pas aux exigences communautaires. <Alignment alignment="9268" annotation_id="16911">
+          <DiscourseConnective annotation_id="16911" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, ces contrôles frontaliers permettraient de repérer les activités de commerce clandestin de chiots <DiscourseConnective annotation_id="17019">et</DiscourseConnective> chatons beaucoup trop jeunes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15995" id="092" name="Horst Schnellhardt">
+    <ParallelChunk annotation_id="15995" docOffset="88">
+      <en>(DE) Mr President, Commissioner, welcome to the European Parliament.</en>
+      <fr>(DE) Monsieur le Président, Monsieur le Commissaire, je vous souhaite la bienvenue au Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16064" docOffset="89">
+      <en>Ladies and gentlemen, I would <Alignment alignment="17197" annotation_id="16094">
+          <DiscourseConnective annotation_id="16094" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to compliment the rapporteur who has done a competent job.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="17167">et</DiscourseConnective> Messieurs, je félicite moi <Alignment alignment="12747" annotation_id="17197">
+          <DiscourseConnective annotation_id="17197" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> la rapporteure, qui a réalisé un excellent travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16163" docOffset="90">
+      <en>The document covers many areas.</en>
+      <fr>Le document couvre plusieurs domaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16195" docOffset="91">
+      <en>In recent years, we have seen a growth in pets and domestic animals and naturally, also the desire to be able to take these animals with us on trips.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17294">Depuis</DiscourseConnective> quelques années, le nombre d'animaux domestiques <DiscourseConnective annotation_id="17350">et</DiscourseConnective> de compagnie est en augmentation <DiscourseConnective annotation_id="17386">et</DiscourseConnective>, naturellement, le souhait de pouvoir emmener ces animaux en voyage augmente en conséquence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16345" docOffset="92">
+      <en>That is right <Alignment alignment="17501" annotation_id="16359">
+          <DiscourseConnective annotation_id="16359" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it should be so, <Alignment alignment="4333" annotation_id="16380">
+          <DiscourseConnective annotation_id="16380" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> being able to take your pet gives you an increased sense of well-being.</en>
+      <fr>Ce n'est que juste <Alignment alignment="3517" annotation_id="17501">
+          <DiscourseConnective annotation_id="17501" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> normal, <Alignment alignment="4011" annotation_id="17512">
+          <DiscourseConnective annotation_id="17512" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> pouvoir emmener son animal de compagnie accroît le sentiment de bien-être.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16455" docOffset="93">
+      <en>For that reason, <Alignment alignment="61945" annotation_id="16472">
+          <DiscourseConnective annotation_id="16472" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, in Europe, we must have regulations to prevent the spread of animal epidemics.</en>
+      <fr>
+        <Alignment alignment="5653" annotation_id="17591">
+          <DiscourseConnective annotation_id="17591" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="17602">pour</DiscourseConnective> cette même raison, l'Europe doit avoir des règlementations qui empêchent la propagation d'épizooties.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16560" docOffset="94">
+      <en>We have them.</en>
+      <fr>Ces règlementations existent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16574" docOffset="95">
+      <en>We have very good regulations in Directive 998/2003 <Alignment alignment="17801" annotation_id="16626">
+          <DiscourseConnective annotation_id="16626" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> from 2011 we will have the European Vaccination Card, which will accurately document which vaccinations animals have received.</en>
+      <fr>Le règlement (CE) n° 998/2003 contient de très bonnes règles, <Alignment alignment="28119" annotation_id="17801">
+          <DiscourseConnective annotation_id="17801" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> à partir de 2011 nous aurons la carte européenne de vaccination détaillant les vaccins reçus par les animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16757" docOffset="96">
+      <en>
+        <Alignment alignment="17923" annotation_id="16757">
+          <DiscourseConnective annotation_id="16757" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, from 2011, electronic tagging will prevent confusion and deception.</en>
+      <fr>Dès 2011 <Alignment alignment="15149" annotation_id="17923">
+          <DiscourseConnective annotation_id="17923" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment>, le marquage électronique empêchera les confusions <DiscourseConnective annotation_id="17984">et</DiscourseConnective> les fraudes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16835" docOffset="97">
+      <en>In recent years, we have done a lot to curb animal epidemics in Europe, especially rabies, <Alignment alignment="18115" annotation_id="16926">
+          <DiscourseConnective annotation_id="16926" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> through the achievements of the European Commission, which first pushed through and financed the vaccination of foxes.</en>
+      <fr>Ces dernières années, nous avons fait beaucoup <DiscourseConnective annotation_id="18047">pour</DiscourseConnective> réduire les épizooties <DiscourseConnective annotation_id="18075">en</DiscourseConnective> Europe - <DiscourseConnective annotation_id="18087">en particulier</DiscourseConnective> la rage - et <Alignment alignment="37843" annotation_id="18115">
+          <DiscourseConnective annotation_id="18115" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> grâce à la Commission européenne, qui a commencé par imposer <DiscourseConnective annotation_id="18182">et</DiscourseConnective> financer la vaccination des renards.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17050" docOffset="98">
+      <en>That is a very important matter <DiscourseConnective annotation_id="17082" sense="Expansion.Conjunction">and</DiscourseConnective> we should acknowledge it.</en>
+      <fr>Il faut reconnaître qu'il <DiscourseConnective annotation_id="18248">s'</DiscourseConnective>agit d'un problème très important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17112" docOffset="99">
+      <en>These special regulations that are repeatedly approved for some countries are burdens for citizens. Here, the expense bears no relation to the benefit.</en>
+      <fr>Ces règles spécifiques approuvées de manière répétée <DiscourseConnective annotation_id="18338">pour</DiscourseConnective> certains pays sont pesantes <DiscourseConnective annotation_id="18371">pour</DiscourseConnective> les citoyens, et le coût est disproportionné par rapport au bénéfice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17264" docOffset="100">
+      <en>I have received letters from many citizens complaining of annoying behaviour at borders.</en>
+      <fr>J'ai reçu de nombreuses lettres de citoyens se plaignant de comportements vexatoires aux frontières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17353" docOffset="101">
+      <en>Let me just cite the United Kingdom as an example: arriving two days too early in a half-year stay means a EUR 3 000 fine <Alignment alignment="18668" annotation_id="17475">
+          <DiscourseConnective annotation_id="17475" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the animal is quarantined for six weeks.</en>
+      <fr>Au Royaume-Uni, <DiscourseConnective annotation_id="18563">par exemple</DiscourseConnective>, arriver deux jours trop tôt <DiscourseConnective annotation_id="18604">pour</DiscourseConnective> un séjour d'un semestre implique une amende de 3 000 euros <Alignment alignment="17475" annotation_id="18668">
+          <DiscourseConnective annotation_id="18668" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> une mise en quarantaine de l'animal durant six semaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17520" docOffset="102">
+      <en>We should consider whether this kind of behaviour is right.</en>
+      <fr>Il serait bon d'examiner <DiscourseConnective annotation_id="18753">si</DiscourseConnective> ce type d'attitude est juste.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17580" docOffset="103">
+      <en>
+        <Alignment alignment="18786" annotation_id="17580">
+          <DiscourseConnective annotation_id="17580" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, Commissioner, I think one more year, <Alignment alignment="46968" annotation_id="17628">
+          <DiscourseConnective annotation_id="17628" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="18867" annotation_id="17632">
+          <DiscourseConnective annotation_id="17632" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> this must end.</en>
+      <fr>
+        <Alignment alignment="17580" annotation_id="18786">
+          <DiscourseConnective annotation_id="18786" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+        </Alignment>, Monsieur le Commissaire, je suis d'accord pour une année <DiscourseConnective annotation_id="18853">de plus</DiscourseConnective>, <Alignment alignment="6542" annotation_id="18862">
+          <DiscourseConnective annotation_id="18862" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="4313" annotation_id="18867">
+          <DiscourseConnective annotation_id="18867" sense="Temporal.Asynchronous.Precedence">après</DiscourseConnective>
+        </Alignment>, cela doit cesser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17652" docOffset="104">
+      <en>We have European regulations that apply to everyone.</en>
+      <fr>Les règlementations européennes s'appliquent <DiscourseConnective annotation_id="18937">à</DiscourseConnective> tout le monde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17705" docOffset="105">
+      <en>The risk of disease spreading - <Alignment alignment="73665" annotation_id="17737">
+          <DiscourseConnective annotation_id="17737" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the animal epidemic situation remains <DiscourseConnective annotation_id="17778" sense="Temporal.Synchrony">as</DiscourseConnective> it is, we must always presume that - no longer exists in this form with pets and domestic animals.</en>
+      <fr>
+        <Alignment alignment="4011" annotation_id="18954">
+          <DiscourseConnective annotation_id="18954" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> la situation en matière d'épizooties demeure telle quelle - ce qui doit toujours être présumé -, le risque de propagation d'une maladie par les animaux de compagnie <DiscourseConnective annotation_id="19122">et</DiscourseConnective> les animaux domestiques n'existe plus sous cette forme.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17880" id="093" name="Jo Leinen">
+    <ParallelChunk annotation_id="17880" docOffset="106">
+      <en>(DE) Mr President, Commissioner, welcome to Parliament.</en>
+      <fr>(DE) Monsieur le Président, Monsieur le Commissaire, bienvenue au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17936" docOffset="107">
+      <en>I would like to join my fellow Member, Mr Schnellhardt, by saying you have a major task in this area, to create genuinely equal conditions in the 27 Member States by 2010 <Alignment alignment="48663" annotation_id="18107">
+          <Alignment alignment="85764" annotation_id="18107">
+            <DiscourseConnective annotation_id="18107" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> household pets can be transported and brought from one country to another without obstacles.</en>
+      <fr>Je me rallie à mon collègue, M. Schnellhardt, <DiscourseConnective annotation_id="19304">pour</DiscourseConnective> <DiscourseConnective annotation_id="19309">dire que</DiscourseConnective> vous avez, dans cette matière, un devoir important, qui consiste <DiscourseConnective annotation_id="19383">à</DiscourseConnective> créer des conditions réellement équitables dans les 27 États membres d'ici 2010, <Alignment alignment="31258" annotation_id="19466">
+          <Alignment alignment="10673" annotation_id="19466">
+            <DiscourseConnective annotation_id="19466" sense="Contingency.Cause.Result">de manière à ce que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les animaux de compagnie puissent être transportés <DiscourseConnective annotation_id="19537">et</DiscourseConnective> emmenés d'un pays <DiscourseConnective annotation_id="19558">à</DiscourseConnective> l'autre <DiscourseConnective annotation_id="19568">sans</DiscourseConnective> obstacles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18208" docOffset="108">
+      <en>Free movement for dogs and cats was certainly the goal of the 2003 regulation.</en>
+      <fr>La libre circulation des chiens <DiscourseConnective annotation_id="19616">et</DiscourseConnective> des chats était certainement l'objectif du règlement de 2003.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18287" docOffset="109">
+      <en>Now, for the third time, we are making an exception.</en>
+      <fr>Aujourd'hui, <DiscourseConnective annotation_id="19694">pour</DiscourseConnective> la troisième fois, nous autorisons une exception.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18340" docOffset="110">
+      <en>In the EU, some things take a really long time: ten years to tune such regulations.</en>
+      <fr>Certaines choses prennent vraiment beaucoup de temps dans l'UE: dix ans <DiscourseConnective annotation_id="19821">pour</DiscourseConnective> adapter ces règlementations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18424" docOffset="111">
+      <en>No country in the EU wants diseases to be introduced <Alignment alignment="19928" annotation_id="18477">
+          <DiscourseConnective annotation_id="18477" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I <DiscourseConnective annotation_id="18483" sense="Expansion.Conjunction">also</DiscourseConnective> wonder why 22 countries accept the idea of dogs and cats being allowed to travel with their owners <Alignment alignment="26316" annotation_id="18587">
+          <DiscourseConnective annotation_id="18587" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> five countries do not.</en>
+      <fr>Aucun pays de l'UE ne souhaite introduire de maladies sur son territoire <Alignment alignment="11967" annotation_id="19928">
+          <DiscourseConnective annotation_id="19928" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je ne comprends donc pas pourquoi vingt-deux pays acceptent l'idée d'autoriser les chiens <DiscourseConnective annotation_id="20021">et</DiscourseConnective> les chats <DiscourseConnective annotation_id="20034">à</DiscourseConnective> voyager avec leurs propriétaires <Alignment alignment="26293" annotation_id="20069">
+          <DiscourseConnective annotation_id="20069" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> pourquoi cinq pays ne l'acceptent pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18614" docOffset="112">
+      <en>You should examine whether the reality and the obstacles still correspond to these special provisions.</en>
+      <fr>Vous devriez vérifier <DiscourseConnective annotation_id="20133">si</DiscourseConnective> la réalité <DiscourseConnective annotation_id="20147">et</DiscourseConnective> les obstacles justifient <DiscourseConnective annotation_id="20175">encore</DiscourseConnective> ces dispositions spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18717" docOffset="113">
+      <en>I know that there are thorny debates at national level, <Alignment alignment="49366" annotation_id="18773">
+          <DiscourseConnective annotation_id="18773" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we are now one legal space <Alignment alignment="20326" annotation_id="18804">
+          <DiscourseConnective annotation_id="18804" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is time, by 2011 at the latest, to introduce free movement, the single market for pets.</en>
+      <fr>Je sais <DiscourseConnective annotation_id="20220">que</DiscourseConnective> certains débats sont épineux au niveau national, <Alignment alignment="18773" annotation_id="20273">
+          <DiscourseConnective annotation_id="20273" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous formons à présent un seul espace juridique <Alignment alignment="18804" annotation_id="20326">
+          <DiscourseConnective annotation_id="20326" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il est temps - <DiscourseConnective annotation_id="20344">en</DiscourseConnective> 2011 au <DiscourseConnective annotation_id="20355">plus tard</DiscourseConnective> - d'introduire la libre circulation, le marché unique, des animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18899" docOffset="114">
+      <en>The animal expert, Mr Schnellhardt, has already mentioned the conditions, namely that there is a vaccination card <Alignment alignment="13099" annotation_id="19013">
+          <DiscourseConnective annotation_id="19013" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that instruments like electronic tagging will be used, which will <DiscourseConnective annotation_id="19083" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> give you access to the five countries <DiscourseConnective annotation_id="19126" sense="Temporal.Synchrony">when</DiscourseConnective> you are on holiday or travelling to work and wish to take your pets with you.</en>
+      <fr>M. Schnellhardt, expert animalier, a <DiscourseConnective annotation_id="20483">déjà</DiscourseConnective> mentionné les conditions: une carte de vaccination <Alignment alignment="8771" annotation_id="20539">
+          <DiscourseConnective annotation_id="20539" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'utilisation d'instruments <DiscourseConnective annotation_id="20570">comme</DiscourseConnective> le marquage électronique - qui permettront d'entrer, pour des raisons privées <DiscourseConnective annotation_id="20654">ou</DiscourseConnective> professionnelles, avec des animaux de compagnie dans les cinq pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19209" docOffset="115">
+      <en>This regulation on pets will go down in history.</en>
+      <fr>Cette règlementation sur les animaux de compagnie fera date dans l'histoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19258" docOffset="116">
+      <en>It is, <Alignment alignment="74217" annotation_id="19265">
+          <Alignment alignment="20812" annotation_id="19265">
+            <DiscourseConnective annotation_id="19265" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the first legal act since the Treaty of Lisbon <Alignment alignment="9289" annotation_id="19321">
+          <DiscourseConnective annotation_id="19321" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we wanted a level playing field with the Council of Ministers in the empowerment of the Commission for delegated acts.</en>
+      <fr>Il <DiscourseConnective annotation_id="20805">s'</DiscourseConnective>agit <Alignment alignment="19265" annotation_id="20812">
+          <Alignment alignment="5871" annotation_id="20812">
+            <DiscourseConnective annotation_id="20812" sense="Expansion.Restatement">en effet</DiscourseConnective>
+          </Alignment>
+        </Alignment> du premier acte juridique <DiscourseConnective annotation_id="20847">depuis</DiscourseConnective> l'entrée en vigueur du traité de Lisbonne <Alignment alignment="577" annotation_id="20896">
+          <DiscourseConnective annotation_id="20896" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous voulions être sur un pied d'égalité avec le Conseil de ministres dans l'habilitation de la Commission <DiscourseConnective annotation_id="21006">à</DiscourseConnective> adopter des actes délégués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19444" docOffset="117">
+      <en>That was an uphill struggle, <Alignment alignment="21069" annotation_id="19473">
+          <DiscourseConnective annotation_id="19473" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it was worth it.</en>
+      <fr>Cela ne s'est pas fait sans mal, <Alignment alignment="16275" annotation_id="21069">
+          <DiscourseConnective annotation_id="21069" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cela en valait la peine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19494" docOffset="118">
+      <en>My congratulations to Mrs De Brún for this report and, of course, for this procedure to begin a new era.</en>
+      <fr>Toutes mes félicitations <DiscourseConnective annotation_id="21124">à</DiscourseConnective> Mme de Brún <DiscourseConnective annotation_id="21138">pour</DiscourseConnective> ce rapport <DiscourseConnective annotation_id="21154">et</DiscourseConnective>, bien sûr, <DiscourseConnective annotation_id="21168">pour</DiscourseConnective> cette procédure qui marque le début d'une nouvelle ère.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19599" docOffset="119">
+      <en>That is why it is so important, <Alignment alignment="21262" annotation_id="19631">
+          <DiscourseConnective annotation_id="19631" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we have perhaps a hundred legal acts in a year, but 6 000 delegated acts, <DiscourseConnective annotation_id="19713" sense="Expansion.Conjunction">and</DiscourseConnective> from this we can gauge how important it is to set the new procedure on the right track from the beginning.</en>
+      <fr>C'est particulièrement important <Alignment alignment="19631" annotation_id="21262">
+          <DiscourseConnective annotation_id="21262" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> nous avons peut-être une centaine d'actes juridiques par an <DiscourseConnective annotation_id="21332">mais</DiscourseConnective> six mille actes délégués, ce qui permet de mesurer à quel point il importe de mettre cette nouvelle procédure sur la bonne voie dès le départ.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19824" id="094" name="Chris Davies">
+    <ParallelChunk annotation_id="19824" docOffset="120">
+      <en>Mr President, I just wanted to say a few words in praise of the legislation we have.</en>
+      <fr>- (EN) Monsieur le Président, je tiens <DiscourseConnective annotation_id="21519">simplement</DiscourseConnective> <DiscourseConnective annotation_id="21530">à</DiscourseConnective> dire quelques mots <DiscourseConnective annotation_id="21551">pour</DiscourseConnective> saluer la législation que nous avons devant nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19909" docOffset="121">
+      <en>I understand it was based upon the United Kingdom's pet travel scheme, which was introduced about a decade ago.</en>
+      <fr>Je crois savoir qu'elle <DiscourseConnective annotation_id="21630">s'</DiscourseConnective>inspire du programme de voyage des animaux de compagnie introduit par le Royaume-Uni il y a environ une décennie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20021" docOffset="122">
+      <en>That helped us reduce dramatically the quarantine regulations we had in our country which had caused much distress to both pets and their owners.</en>
+      <fr>Ce programme nous a permis de réduire considérablement les règles de quarantaine que nous appliquions dans notre pays et qui étaient la cause de beaucoup de détresse chez les animaux de compagnie <DiscourseConnective annotation_id="21942">et</DiscourseConnective> leurs propriétaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20167" docOffset="123">
+      <en>I understand the first animal to take advantage of the pets travel scheme was a dog called Frodo Baggins, <Alignment alignment="63503" annotation_id="20273">
+          <DiscourseConnective annotation_id="20273" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> after that, many hundreds of thousands of animals have been able to travel more freely.</en>
+      <fr>Je crois savoir que le premier animal <DiscourseConnective annotation_id="22004">à</DiscourseConnective> avoir bénéficié du programme de voyage des animaux de compagnie était un chien appelé Frodo Baggins <Alignment alignment="17834" annotation_id="22106">
+          <DiscourseConnective annotation_id="22106" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="22109">que</DiscourseConnective> depuis, plusieurs centaines de milliers d'animaux ont pu voyager plus librement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20365" docOffset="124">
+      <en>
+        <Alignment alignment="22201" annotation_id="20365">
+          <DiscourseConnective annotation_id="20365" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>
+        </Alignment> the EU brought in this legislation, following very similar principles, about five years ago, <Alignment alignment="49878" annotation_id="20463">
+          <DiscourseConnective annotation_id="20463" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it has proved a great success.</en>
+      <fr>L'UE a <Alignment alignment="20365" annotation_id="22201">
+          <DiscourseConnective annotation_id="22201" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> adopté cette législation, selon des principes très similaires, il y a environ cinq ans <Alignment alignment="19475" annotation_id="22296">
+          <DiscourseConnective annotation_id="22296" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce fut une grande réussite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20498" docOffset="125">
+      <en>Hundreds of thousands of animals now travel with their owners each year across Europe.</en>
+      <fr>Des centaines de milliers d'animaux voyagent aujourd'hui avec leurs propriétaires chaque année, dans toute l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20585" docOffset="126">
+      <en>I am told that 60% of them happen to be British animals, which may say something about the British character, <Alignment alignment="26671" annotation_id="20695">
+          <DiscourseConnective annotation_id="20695" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we will not go there in this forum.</en>
+      <fr>Il m'a été rapporté <DiscourseConnective annotation_id="22464">que</DiscourseConnective> dans 60 % des cas, il s'agit d'animaux britanniques, ce qui est révélateur du caractère des Britanniques, <Alignment alignment="1203" annotation_id="22574">
+          <DiscourseConnective annotation_id="22574" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous n'entrerons pas ici dans un tel débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20735" docOffset="127">
+      <en>Of course, we have <Alignment alignment="22646" annotation_id="20754">
+          <DiscourseConnective annotation_id="20754" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> kept the balance right.</en>
+      <fr>Bien sûr, il importait <Alignment alignment="20754" annotation_id="22646">
+          <DiscourseConnective annotation_id="22646" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> de maintenir le bon équilibre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20783" docOffset="128">
+      <en>The concern was to enable movement without spreading disease, <Alignment alignment="9853" annotation_id="20845">
+          <DiscourseConnective annotation_id="20845" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the reality is that rabies has been kept very firmly under control - 2 700 cases 20 years ago down to less than 300 cases last year, and not one single case associated with the movement of domestic animals under this scheme.</en>
+      <fr>Le souci était de permettre les mouvements <DiscourseConnective annotation_id="22726">sans</DiscourseConnective> propager les maladies <Alignment alignment="20845" annotation_id="22753">
+          <DiscourseConnective annotation_id="22753" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="22756">le fait est que</DiscourseConnective> la rage est restée très solidement sous contrôle: 2 700 cas il y a vingt ans contre moins de 300 cas l'an dernier, <DiscourseConnective annotation_id="22887">et</DiscourseConnective> pas un seul cas associé aux mouvements d'animaux de compagnie dans le cadre de ce programme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21074" docOffset="129">
+      <en>I am somewhat disappointed that ferrets are not moving in the numbers that I originally anticipated.</en>
+      <fr>Je suis un peu déçu <DiscourseConnective annotation_id="23003">que</DiscourseConnective> le nombre de furets voyageant avec leurs propriétaires ne <DiscourseConnective annotation_id="23065">soit</DiscourseConnective> pas aussi élevé que ce <DiscourseConnective annotation_id="23093">que</DiscourseConnective> j'avais pensé au départ.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21175" docOffset="130">
+      <en>
+        <DiscourseConnective annotation_id="21175" sense="Temporal.Synchrony">When</DiscourseConnective> this legislation was first discussed, many ferret owners in the United Kingdom came to me and asked why this legislation could not include their animals too.</en>
+      <fr>Lors des premières discussions sur cette législation, de nombreux propriétaires de furets au Royaume-Uni m'avaient demandé pourquoi cette législation ne pouvait inclure ces animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21338" docOffset="131">
+      <en>They wanted to take them to ferret exhibitions across Europe.</en>
+      <fr>Leur souhait était de pouvoir les emmener <DiscourseConnective annotation_id="23346">à</DiscourseConnective> des expositions de furets dans toute l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21400" docOffset="132">
+      <en>The Commissioner is looking surprised, <Alignment alignment="23427" annotation_id="21439">
+          <DiscourseConnective annotation_id="21439" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> there was a debate.</en>
+      <fr>Le commissaire a l'air surpris, <Alignment alignment="6158" annotation_id="23427">
+          <DiscourseConnective annotation_id="23427" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il y a bien eu un débat sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21463" docOffset="133">
+      <en>Apparently you can vaccinate a ferret against rabies <Alignment alignment="23530" annotation_id="21516">
+          <DiscourseConnective annotation_id="21516" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the vaccination does not show, <Alignment alignment="75281" annotation_id="21551">
+          <DiscourseConnective annotation_id="21551" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> it was problematic.</en>
+      <fr>Apparemment, on peut vacciner un furet contre la rage <Alignment alignment="10064" annotation_id="23530">
+          <DiscourseConnective annotation_id="23530" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la vaccination n'apparaît pas, <Alignment alignment="3399" annotation_id="23566">
+          <DiscourseConnective annotation_id="23566" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> cela posait problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21574" docOffset="134">
+      <en>Eventually, we decided that the incidence of rabies in domestic ferrets was so small that we could include them, <Alignment alignment="23725" annotation_id="21687">
+          <DiscourseConnective annotation_id="21687" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> apparently, I am told, there have been relatively few movements.</en>
+      <fr>
+        <DiscourseConnective annotation_id="23593">Finalement</DiscourseConnective>, nous avons décidé <DiscourseConnective annotation_id="23623">que</DiscourseConnective> l'incidence de la rage chez les furets domestiques était <DiscourseConnective annotation_id="23684">si</DiscourseConnective> faible <DiscourseConnective annotation_id="23694">que</DiscourseConnective> nous pouvions les inclure. <Alignment alignment="12522" annotation_id="23725">
+          <DiscourseConnective annotation_id="23725" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> apparemment, il y a eu relativement peu de mouvements les concernant, me dit-on.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21756" docOffset="135">
+      <en>Perhaps one reason why - to answer Jo Leinen's point - is that in some countries, like Portugal, ferrets are still classified as vermin <Alignment alignment="28289" annotation_id="21892">
+          <DiscourseConnective annotation_id="21892" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> pet owners are reluctant to take their animals to those countries.</en>
+      <fr>L'une des raisons à cela - <DiscourseConnective annotation_id="23838">pour</DiscourseConnective> répondre au point soulevé par Jo Leinen - est peut-être le fait <DiscourseConnective annotation_id="23907">que</DiscourseConnective> dans certains pays, <DiscourseConnective annotation_id="23931">comme</DiscourseConnective> au Portugal, les furets sont <DiscourseConnective annotation_id="23966">encore</DiscourseConnective> considérés <DiscourseConnective annotation_id="23984">comme</DiscourseConnective> nuisibles, <Alignment alignment="21892" annotation_id="24001">
+          <DiscourseConnective annotation_id="24001" sense="Contingency.Cause.Result">de sorte que</DiscourseConnective>
+        </Alignment> leurs propriétaires hésitent <DiscourseConnective annotation_id="24043">à</DiscourseConnective> les emmener dans ces pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21962" docOffset="136">
+      <en>It could be worse - it could be China, I suppose.</en>
+      <fr>Ce pourrait être pire - <DiscourseConnective annotation_id="24096">comme</DiscourseConnective> en Chine, je suppose.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22012" docOffset="137">
+      <en>Commissioner, just to finish, the great advantage to me is that I can now look to my constituents <Alignment alignment="7579" annotation_id="22110">
+          <DiscourseConnective annotation_id="22110" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="52581" annotation_id="22115">
+          <DiscourseConnective annotation_id="22115" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they ask me what the European Union has done for them, I can say that we have made it possible for you to take your pet on holiday - your cat, your dog or your ferret.</en>
+      <fr>Monsieur le Commissaire, <DiscourseConnective annotation_id="24149">pour conclure</DiscourseConnective>, le grand avantage <DiscourseConnective annotation_id="24182">pour</DiscourseConnective> moi est <DiscourseConnective annotation_id="24195">que</DiscourseConnective> je peux <DiscourseConnective annotation_id="24207">maintenant</DiscourseConnective> compter sur mes électeurs <Alignment alignment="22110" annotation_id="24244">
+          <DiscourseConnective annotation_id="24244" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="28539" annotation_id="24248">
+          <DiscourseConnective annotation_id="24248" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>ils me demandent ce que l'Union européenne a fait <DiscourseConnective annotation_id="24305">pour</DiscourseConnective> eux, je peux <DiscourseConnective annotation_id="24323">dire que</DiscourseConnective> nous avons fait <DiscourseConnective annotation_id="24348">en</DiscourseConnective> sorte <DiscourseConnective annotation_id="24357">qu'</DiscourseConnective>ils puissent emmener leur animal de compagnie <DiscourseConnective annotation_id="24406">en</DiscourseConnective> vacances, qu'il s'agisse d'un chat, d'un chien <DiscourseConnective annotation_id="24456">ou</DiscourseConnective> d'un furet.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22288" id="095" name="John Stuart Agnew">
+    <ParallelChunk annotation_id="22288" docOffset="138">
+      <en>Mr President, I understand that the original idea for the creation of pet passports came from the Official Monster Raving Loony Party in the UK, which probably best sums up this dangerous scheme.</en>
+      <fr>- (EN) Monsieur le Président, je crois savoir <DiscourseConnective annotation_id="24517">que</DiscourseConnective> l'idée initiale de la création de passeports pour les animaux de compagnie est venue de l'Official Monster Raving Loony Party au Royaume-Uni, ce qui résume sans doute le <DiscourseConnective annotation_id="24691">mieux</DiscourseConnective> ce système dangereux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22484" docOffset="139">
+      <en>My country had a compulsory six-month quarantine period for domestic pets.</en>
+      <fr>Mon pays appliquait une mise en quarantaine obligatoire de six mois <DiscourseConnective annotation_id="24787">pour</DiscourseConnective> les animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22559" docOffset="140">
+      <en>Under the EU pet passport system, this important bulwark against the spread of disease was summarily removed.</en>
+      <fr>En vertu du système communautaire de passeport pour les animaux de compagnie, cet important rempart contre la propagation de maladies a été sommairement supprimé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22669" docOffset="141">
+      <en>The unelected European Commission was able to overrule the democratically elected British Government and introduce a system without a quarantine period that relies on vaccinations and the accuracy of paperwork.</en>
+      <fr>La Commission européenne non élue est parvenue <DiscourseConnective annotation_id="25028">à</DiscourseConnective> se substituer au gouvernement britannique démocratiquement élu <DiscourseConnective annotation_id="25093">et</DiscourseConnective> à introduire un système <DiscourseConnective annotation_id="25120">sans</DiscourseConnective> période de quarantaine, qui se fie aux vaccinations <DiscourseConnective annotation_id="25177">et</DiscourseConnective> à l'exactitude de documents administratifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22880" docOffset="142">
+      <en>As a farmer, I know something about vaccination. It is by no means a guarantee against animals bringing diseases across borders.</en>
+      <fr>En <DiscourseConnective annotation_id="25227">tant qu'</DiscourseConnective>agriculteur, j'en connais un bout sur la vaccination et je peux vous dire ce n'est <DiscourseConnective annotation_id="25318">en</DiscourseConnective> aucun cas une garantie contre la propagation transfrontalière de maladies par les animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23009" docOffset="143">
+      <en>The effectiveness of the vaccination can be compromised by many things, including its being administered to an animal that already has the disease it is being inoculated against.</en>
+      <fr>L'efficacité de la vaccination peut être compromise par plusieurs choses, <DiscourseConnective annotation_id="25486">notamment</DiscourseConnective> par son administration <DiscourseConnective annotation_id="25519">à</DiscourseConnective> un animal <DiscourseConnective annotation_id="25531">déjà</DiscourseConnective> atteint par la maladie contre laquelle il reçoit le vaccin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23188" docOffset="144">
+      <en>Vaccinated animals can <Alignment alignment="58406" annotation_id="23211">
+          <DiscourseConnective annotation_id="23211" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be carriers of the disease without displaying a symptom.</en>
+      <fr>Les animaux vaccinés peuvent <Alignment alignment="18658" annotation_id="25625">
+          <DiscourseConnective annotation_id="25625" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être porteurs de maladies <DiscourseConnective annotation_id="25661">sans</DiscourseConnective> présenter de symptômes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23273" docOffset="145">
+      <en>Batches of vaccine of varying quality and forged paperwork is a real probability.</en>
+      <fr>La probabilité de l'existence de lots de vaccins de qualité variable <DiscourseConnective annotation_id="25759">et</DiscourseConnective> de documents falsifiés est réelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23355" docOffset="146">
+      <en>I understand there is no standardisation of enforcement of the scheme.</en>
+      <fr>À ma connaissance, il n'y a pas de normalisation en ce qui concerne l'application du système.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23426" docOffset="147">
+      <en>Some countries require the formal passport <Alignment alignment="25935" annotation_id="23469">
+          <DiscourseConnective annotation_id="23469" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> others will take documentation in any form; still others will not accept the passport as proof of vaccination.</en>
+      <fr>Certains pays exigent le passeport officiel <Alignment alignment="5921" annotation_id="25935">
+          <DiscourseConnective annotation_id="25935" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment> d'autres acceptent des documents sous n'importe quelle forme; d'autres <DiscourseConnective annotation_id="26016">encore</DiscourseConnective> n'acceptent pas le passeport <DiscourseConnective annotation_id="26052">comme</DiscourseConnective> preuve de vaccination.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23586" docOffset="148">
+      <en>Many airlines are unable to provide details of the formal procedures <Alignment alignment="26194" annotation_id="23655">
+          <DiscourseConnective annotation_id="23655" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> staff are poorly trained.</en>
+      <fr>De nombreuses compagnies aériennes sont dans l'incapacité de fournir des détails sur les procédures officielles, <Alignment alignment="23655" annotation_id="26194">
+          <DiscourseConnective annotation_id="26194" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le personnel est mal formé sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23685" docOffset="149">
+      <en>
+        <Alignment alignment="5547" annotation_id="23685">
+          <Alignment alignment="26244" annotation_id="23685">
+            <Alignment alignment="10264" annotation_id="23685">
+              <DiscourseConnective annotation_id="23685" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, it is an accident waiting to happen.</en>
+      <fr>
+        <Alignment alignment="23685" annotation_id="26244">
+          <Alignment alignment="6339" annotation_id="26244">
+            <Alignment alignment="12484" annotation_id="26244">
+              <DiscourseConnective annotation_id="26244" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, la porte est grande ouverte aux accidents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23738" docOffset="150">
+      <en>There is a saying in my country, '<Alignment alignment="15106" annotation_id="23772">
+          <DiscourseConnective annotation_id="23772" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> it is not broken, why fix it?'</en>
+      <fr>Dans mon pays, il y a un dicton qui dit: "<Alignment alignment="9585" annotation_id="26349">
+          <DiscourseConnective annotation_id="26349" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> ce n'est pas cassé, pourquoi réparer?".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23806" docOffset="151">
+      <en>Such advice is wasted on the Commission.</en>
+      <fr>La Commission est sourde <DiscourseConnective annotation_id="26417">à</DiscourseConnective> ce conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23847" docOffset="152">
+      <en>(The speaker agreed to take a blue card question under Rule 149(8))</en>
+      <fr>(L'orateur accepte de répondre à une question "carton bleu" (article 149, paragraphe 8, du règlement))</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23915" id="096" name="Chris Davies">
+    <ParallelChunk annotation_id="23915" docOffset="153">
+      <en>Mr President, I would just ask the honourable gentlemen, would he not think his tirade against the European Union would be stronger <Alignment alignment="26698" annotation_id="24047">
+          <DiscourseConnective annotation_id="24047" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the British Government had not introduced similar legislation before the European Union did?</en>
+      <fr>- (EN) Monsieur le Président, je voudrais <DiscourseConnective annotation_id="26576">simplement</DiscourseConnective> demander à l'honorable député <DiscourseConnective annotation_id="26617">s'</DiscourseConnective>il ne pense pas que sa diatribe contre l'Union européenne serait plus efficace <Alignment alignment="11943" annotation_id="26698">
+          <DiscourseConnective annotation_id="26698" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> le gouvernement britannique n'avait pas introduit une législation similaire <DiscourseConnective annotation_id="26777">avant</DiscourseConnective> l'Union européenne?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="24143" id="097" name="John Stuart Agnew">
+    <ParallelChunk annotation_id="24143" docOffset="154">
+      <en>Mr President, I think that the European Union has become far too big, has far too many cultures, <DiscourseConnective annotation_id="24240" sense="Expansion.Conjunction">and</DiscourseConnective> I simply do not trust this system at all <Alignment alignment="26539" annotation_id="24285">
+          <DiscourseConnective annotation_id="24285" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is going to get worse.</en>
+      <fr>- (EN) Monsieur le Président, je pense <DiscourseConnective annotation_id="26842">que</DiscourseConnective> l'Union européenne est devenue beaucoup trop grande, comporte beaucoup trop de cultures. Je n'ai tout <DiscourseConnective annotation_id="26948">simplement</DiscourseConnective> aucune confiance dans ce système <Alignment alignment="4838" annotation_id="26992">
+          <DiscourseConnective annotation_id="26992" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je crois que la situation va s'aggraver.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="24315" id="098" name="Mairead McGuinness">
+    <ParallelChunk annotation_id="24315" docOffset="155">
+      <en>Mr President, I welcome the Commissioner <Alignment alignment="20346" annotation_id="24356">
+          <DiscourseConnective annotation_id="24356" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I thank the rapporteur for her work.</en>
+      <fr>- (EN) Monsieur le Président, je souhaite la bienvenue au commissaire <Alignment alignment="20516" annotation_id="27106">
+          <DiscourseConnective annotation_id="27106" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> remercie la rapporteure <DiscourseConnective annotation_id="27133">pour</DiscourseConnective> son travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24397" docOffset="156">
+      <en>Just to continue with Mr Agnew's point of 'if it ain't broke, don't fix it', I think that is exactly what we are doing here: we are extending derogations where Member States have asked that that happen, but we are allowing the movement of pets.</en>
+      <fr>
+        <DiscourseConnective annotation_id="27151">Pour</DiscourseConnective> poursuivre avec l'argument de M. Agnew fondé sur le dicton "Si ce n'est pas cassé, inutile de réparer", je pense que c'est exactement le conseil <DiscourseConnective annotation_id="27301">que</DiscourseConnective> nous appliquons ici: nous prolongeons les dérogations <DiscourseConnective annotation_id="27359">lorsque</DiscourseConnective> des États membres en ont fait la demande, <DiscourseConnective annotation_id="27409">mais</DiscourseConnective> nous autorisons les mouvements des animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24642" docOffset="157">
+      <en>I am sure those who are in the visitors' gallery thought that it was quite a simple matter to move pets between Member States, <Alignment alignment="30287" annotation_id="24769">
+          <DiscourseConnective annotation_id="24769" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="25842" annotation_id="24773">
+          <DiscourseConnective annotation_id="24773" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we are dealing with issues around animal health - and indeed human health - it is not quite so simple.</en>
+      <fr>Je suis certaine que les personnes présentes dans la tribune des visiteurs pensaient <DiscourseConnective annotation_id="27556">qu'</DiscourseConnective>il était assez simple de voyager dans l'UE avec des animaux de compagnie. <Alignment alignment="5811" annotation_id="27633">
+          <DiscourseConnective annotation_id="27633" sense="Comparison.Contrast">Or</DiscourseConnective>
+        </Alignment>, <Alignment alignment="2763" annotation_id="27637">
+          <DiscourseConnective annotation_id="27637" sense="Contingency.Cause.Reason">vu que</DiscourseConnective>
+        </Alignment> cela concerne la santé animale - <DiscourseConnective annotation_id="27677">et</DiscourseConnective> évidemment la santé humaine -, ce n'est pas <DiscourseConnective annotation_id="27724">si</DiscourseConnective> simple.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24884" docOffset="158">
+      <en>We do need stringent rules and controls on that, <Alignment alignment="26617" annotation_id="24933">
+          <DiscourseConnective annotation_id="24933" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> recognising that many British people, but also people from other Member States, like to bring their animals with them.</en>
+      <fr>Nous n'avons pas besoin de règles <DiscourseConnective annotation_id="27769">et</DiscourseConnective> de contrôles stricts <Alignment alignment="17007" annotation_id="27793">
+          <DiscourseConnective annotation_id="27793" sense="Comparison.Contrast">et</DiscourseConnective>
+        </Alignment> pouvons admettre <DiscourseConnective annotation_id="27813">que</DiscourseConnective> de nombreux sujets britanniques - <DiscourseConnective annotation_id="27851">mais aussi</DiscourseConnective> des citoyens d'autres États membres - aiment emmener leurs animaux avec eux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25058" docOffset="159">
+      <en>My worry about this report was that it might get bogged down in the technicalities of life after the Lisbon Treaty which, quite frankly, lots of people outside this Chamber should not worry about, or indeed know about - it was of importance to us as a Parliament.</en>
+      <fr>Mon inquiétude concernant ce rapport était <DiscourseConnective annotation_id="27982">qu'</DiscourseConnective>il s'enlise dans les détails techniques de l'<DiscourseConnective annotation_id="28030">après</DiscourseConnective>-traité de Lisbonne, qui, très franchement, ne devraient pas préoccuper <DiscourseConnective annotation_id="28107">ou</DiscourseConnective> <DiscourseConnective annotation_id="28110">même</DiscourseConnective> être connus d'un grand nombre de personnes en dehors de cette Assemblée. C'était important <DiscourseConnective annotation_id="28206">pour</DiscourseConnective> le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25322" docOffset="160">
+      <en>I think the rapporteur has settled the case very well on our behalf and has been congratulated for so doing.</en>
+      <fr>Je pense que la rapporteure a très bien géré la situation <DiscourseConnective annotation_id="28283">en</DiscourseConnective> notre nom <DiscourseConnective annotation_id="28296">et</DiscourseConnective> elle a d'ailleurs été félicitée <DiscourseConnective annotation_id="28331">pour</DiscourseConnective> cela.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25431" docOffset="161">
+      <en>The danger was, had it slipped through the net, we would not have had in place measures to address the concerns of Sweden, Ireland, the UK and others.</en>
+      <fr>Si les choses avaient dérapé, nous aurions couru le danger de ne pas avoir de mesures <DiscourseConnective annotation_id="28428">en</DiscourseConnective> place <DiscourseConnective annotation_id="28437">pour</DiscourseConnective> répondre aux préoccupations de la Suède, de l'Irlande, du Royaume-Uni <DiscourseConnective annotation_id="28512">et</DiscourseConnective> d'autres États.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25582" docOffset="162">
+      <en>
+        <Alignment alignment="43104" annotation_id="25582">
+          <DiscourseConnective annotation_id="25582" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> we are in the right place now.</en>
+      <fr>
+        <Alignment alignment="33574" annotation_id="28531">
+          <DiscourseConnective annotation_id="28531" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> tout est <DiscourseConnective annotation_id="28545">en</DiscourseConnective> ordre <DiscourseConnective annotation_id="28554">maintenant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25617" docOffset="163">
+      <en>I think the future is much more important.</en>
+      <fr>Je pense que l'avenir est bien plus important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25660" docOffset="164">
+      <en>Commissioner, you mentioned that you have plans to look at new legislation in this regard.</en>
+      <fr>Monsieur le Commissaire, vous avez indiqué votre intention de préparer une nouvelle législation dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25751" docOffset="165">
+      <en>I think that is what we should be talking about at this stage.</en>
+      <fr>Je pense que c'est de cela dont nous devrions parler <DiscourseConnective annotation_id="28779">maintenant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25814" docOffset="166">
+      <en>What we all want in this House is high animal and human health standards, and this new legislation that you promise should ensure that.</en>
+      <fr>Tout ce que le Parlement veut, ce sont des normes élevées de protection de la santé animale <DiscourseConnective annotation_id="28883">et</DiscourseConnective> humaine, <DiscourseConnective annotation_id="28895">et</DiscourseConnective> cette nouvelle législation <DiscourseConnective annotation_id="28925">que</DiscourseConnective> vous promettez doit y veiller.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25950" docOffset="167">
+      <en>So, well done to the rapporteur and to those involved in this report in bringing it to the stage it is at today.</en>
+      <fr>En conclusion, félicitations <DiscourseConnective annotation_id="28989">à</DiscourseConnective> la rapporteure <DiscourseConnective annotation_id="29006">et</DiscourseConnective> <DiscourseConnective annotation_id="29009">à</DiscourseConnective> ceux qui ont travaillé <DiscourseConnective annotation_id="29034">pour</DiscourseConnective> amener ce rapport au stade où il est aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26063" docOffset="168">
+      <en>It has satisfied all concerns - not for all, perhaps, to my extreme left here, but for most of us.</en>
+      <fr>Il répond à toutes les inquiétudes - peut-être pas <DiscourseConnective annotation_id="29140">pour</DiscourseConnective> tout le monde, ici <DiscourseConnective annotation_id="29164">à</DiscourseConnective> mon extrême gauche, <DiscourseConnective annotation_id="29186">mais</DiscourseConnective> bien <DiscourseConnective annotation_id="29196">pour</DiscourseConnective> la plupart d'entre nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26162" docOffset="169">
+      <en>I hope you will consult wisely and widely in relation to what we need on new legislation on the transport of pets.</en>
+      <fr>J'espère que vous mènerez une sage <DiscourseConnective annotation_id="29261">et</DiscourseConnective> large consultation sur les éléments à inclure dans la nouvelle législation concernant les mouvements des animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26277" docOffset="170">
+      <en>We have it with farm animals; we need simplified but effective rules for pets.</en>
+      <fr>Nous en avons une <DiscourseConnective annotation_id="29409">pour</DiscourseConnective> les animaux d'exploitation. Nous avons besoin de règles simplifiées <DiscourseConnective annotation_id="29482">mais</DiscourseConnective> efficaces <DiscourseConnective annotation_id="29497">pour</DiscourseConnective> les animaux de compagnie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="26356" id="099" name="Marita Ulvskog">
+    <ParallelChunk annotation_id="26356" docOffset="171">
+      <en>(SV) Mr President, the Commission has produced a positive proposal to amend the regulation on the animal health requirements applicable to the transport of pet animals.</en>
+      <fr>(SV) Monsieur le Président, la Commission a élaboré une proposition positive d'amendement du règlement sur les conditions de police sanitaire applicables aux mouvements d'animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26525" docOffset="172">
+      <en>I am particularly pleased that this will allow us to extend the period during which a number of countries, including Sweden, can retain their stricter regulations relating to rabies and dwarf tapeworm.</en>
+      <fr>Je suis particulièrement satisfaite <DiscourseConnective annotation_id="29757">que</DiscourseConnective> cette proposition permette à certains pays, dont la Suède, de prolonger le délai d'application de règles plus strictes <DiscourseConnective annotation_id="29880">pour</DiscourseConnective> la rage <DiscourseConnective annotation_id="29893">et</DiscourseConnective> le ténia nain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26727" docOffset="173">
+      <en>The Swedish Board of Agriculture, which is the relevant authority in Sweden, has said that, without the option of special controls, the tapeworm, <Alignment alignment="45303" annotation_id="26873">
+          <DiscourseConnective annotation_id="26873" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, would probably become established in Sweden.</en>
+      <fr>L'Office suédois de l'agriculture, qui est l'autorité compétente <DiscourseConnective annotation_id="29976">en</DiscourseConnective> Suède, a affirmé <DiscourseConnective annotation_id="29996">que</DiscourseConnective> <DiscourseConnective annotation_id="30000">sans</DiscourseConnective> l'option de contrôles spécifiques, le ténia, <Alignment alignment="26873" annotation_id="30050">
+          <DiscourseConnective annotation_id="30050" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, ferait probablement son apparition <DiscourseConnective annotation_id="30098">en</DiscourseConnective> Suède.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26931" docOffset="174">
+      <en>This would have a negative impact on the freedom of access to the countryside, which is an important part of the everyday life of people in a country like Sweden.</en>
+      <fr>Cela aurait un impact négatif sur le libre accès <DiscourseConnective annotation_id="30157">à</DiscourseConnective> la campagne qui, dans un pays <DiscourseConnective annotation_id="30189">comme</DiscourseConnective> la Suède, constitue un élément important de la vie quotidienne des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27094" docOffset="175">
+      <en>I would like to thank the Commission, the rapporteur and the shadow rapporteurs for listening to our requirements and, <DiscourseConnective annotation_id="27213" sense="Contingency.Cause.Result">therefore</DiscourseConnective>, making it possible to introduce what is initially a temporary solution.</en>
+      <fr>Je remercie la Commission, la rapporteure <DiscourseConnective annotation_id="30314">et</DiscourseConnective> les rapporteurs fictifs d'avoir été <DiscourseConnective annotation_id="30353">à</DiscourseConnective> l'écoute de nos exigences <DiscourseConnective annotation_id="30381">et</DiscourseConnective>, partant, d'avoir permis d'introduire ce qui est au départ une solution temporaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="27296" id="101" name="Nessa Childers">
+    <ParallelChunk annotation_id="27296" docOffset="176">
+      <en>Mr President, first of all, I would like to thank my colleague, Ms de Brún, for her hard work on this report.</en>
+      <fr>- (EN) Monsieur le Président, en premier lieu je remercie ma collègue, Mme de Brún, <DiscourseConnective annotation_id="30552">pour</DiscourseConnective> tout le travail effectué sur ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27406" docOffset="177">
+      <en>The case of a 38-year-old woman who died in the Royal Victoria Hospital in Belfast last year was a tiny reminder of the ongoing threat posed by rabies to Ireland.</en>
+      <fr>Le cas d'une femme de 38 ans décédée au Royal Victoria Hospital de Belfast l'an dernier a été un petit rappel de la menace permanente que pose la rage en Irlande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27569" docOffset="178">
+      <en>It is believed that she contracted the disease <Alignment alignment="61403" annotation_id="27616">
+          <DiscourseConnective annotation_id="27616" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> trying to break up a fight between two dogs <DiscourseConnective annotation_id="27665" sense="Temporal.Synchrony">while</DiscourseConnective> on a working holiday to South Africa.</en>
+      <fr>On pense <DiscourseConnective annotation_id="30770">que</DiscourseConnective> cette femme a contracté la maladie <Alignment alignment="32624" annotation_id="30809">
+          <DiscourseConnective annotation_id="30809" sense="Temporal.Synchrony">alors qu'</DiscourseConnective>
+        </Alignment>elle tentait d'interrompre un combat entre deux chiens dans le cadre de vacances-travail en Afrique du Sud.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27709" docOffset="179">
+      <en>More recently, four people had to receive preventive injections in Dublin <DiscourseConnective annotation_id="27783" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective> an illegally imported kitten started to act strangely and bit them.</en>
+      <fr>Plus récemment, <DiscourseConnective annotation_id="30942">à</DiscourseConnective> Dublin, quatre personnes ont dû recevoir un vaccin préventif vu qu'un chaton importé illégalement a commencé <DiscourseConnective annotation_id="31053">à</DiscourseConnective> se comporter bizarrement <DiscourseConnective annotation_id="31080">et</DiscourseConnective> à les mordre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27857" docOffset="180">
+      <en>Rabies is one of the oldest zoonotic diseases which affects humans, and is invariably fatal <Alignment alignment="37188" annotation_id="27949">
+          <DiscourseConnective annotation_id="27949" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective>
+        </Alignment> symptoms have occurred.</en>
+      <fr>La rage est l'une des plus anciennes maladies zoonotiques qui touche les humains <DiscourseConnective annotation_id="31178">et</DiscourseConnective> qui est invariablement fatale <Alignment alignment="27949" annotation_id="31211">
+          <DiscourseConnective annotation_id="31211" sense="Temporal.Asynchronous.Succession">dès que</DiscourseConnective>
+        </Alignment> les symptômes se manifestent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27978" docOffset="181">
+      <en>Global travel patterns mean that the disease is never far from our door.</en>
+      <fr>Les modèles de déplacement se mondialisant, la maladie n'est jamais loin de notre porte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28051" docOffset="182">
+      <en>It is for this reason that Ireland practises strict quarantine of imported animals, <Alignment alignment="73593" annotation_id="28135">
+          <DiscourseConnective annotation_id="28135" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is only because of these stringent measures that we are able to maintain our status as rabies-free.</en>
+      <fr>C'est <DiscourseConnective annotation_id="31344">pour</DiscourseConnective> cette raison <DiscourseConnective annotation_id="31362">que</DiscourseConnective> l'Irlande pratique une stricte mise en quarantaine des animaux importés <Alignment alignment="5662" annotation_id="31438">
+          <DiscourseConnective annotation_id="31438" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est uniquement grâce <DiscourseConnective annotation_id="31464">à</DiscourseConnective> ces mesures strictes <DiscourseConnective annotation_id="31487">que</DiscourseConnective> nous avons pu maintenir notre statut de "pays indemne de rage".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28242" docOffset="183">
+      <en>In order to continue this record, it is crucial that the transitional agreement which this proposal would extend until the end of next year is not allowed to lapse in July 2010.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31555">Pour</DiscourseConnective> conserver ce statut, il est crucial <DiscourseConnective annotation_id="31596">que</DiscourseConnective> le régime transitoire - <DiscourseConnective annotation_id="31624">que</DiscourseConnective> cette proposition devrait prolonger <DiscourseConnective annotation_id="31664">jusqu'à</DiscourseConnective> la fin de l'année prochaine - n'expire pas <DiscourseConnective annotation_id="31715">en</DiscourseConnective> juillet 2010.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28420" docOffset="184">
+      <en>The additional safeguards proposed are <Alignment alignment="31778" annotation_id="28459">
+          <DiscourseConnective annotation_id="28459" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> crucial to both human and animal health, <Alignment alignment="45714" annotation_id="28505">
+          <DiscourseConnective annotation_id="28505" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> they would help solve the fight not just against rabies but also against specific ticks and tapeworms from which Ireland is currently free.</en>
+      <fr>Les protections additionnelles proposées sont <Alignment alignment="16988" annotation_id="31778">
+          <DiscourseConnective annotation_id="31778" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> capitales <DiscourseConnective annotation_id="31798">pour</DiscourseConnective> la santé humaine <DiscourseConnective annotation_id="31820">et</DiscourseConnective> la santé animale, <Alignment alignment="16455" annotation_id="31841">
+          <DiscourseConnective annotation_id="31841" sense="Temporal.Synchrony">dans la mesure où</DiscourseConnective>
+        </Alignment> elles permettraient de remporter la lutte contre la rage, <DiscourseConnective annotation_id="31917">mais aussi</DiscourseConnective> contre certaines tiques <DiscourseConnective annotation_id="31952">et</DiscourseConnective> contre les ténias, dont l'Irlande est actuellement préservée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28648" docOffset="185">
+      <en>By accepting this proposal, this House would facilitate the fight against rabies and provide a base for its eradication across Europe.</en>
+      <fr>
+        <DiscourseConnective annotation_id="32017">En</DiscourseConnective> acceptant cette proposition, le Parlement facilitera la lutte contre la rage <DiscourseConnective annotation_id="32097">et</DiscourseConnective> fournira une base <DiscourseConnective annotation_id="32118">pour</DiscourseConnective> son éradication dans toute l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28783" docOffset="186">
+      <en>For these reasons, the urgency of this matter must not go unstated.</en>
+      <fr>
+        <DiscourseConnective annotation_id="32160">Pour</DiscourseConnective> tous ces motifs, il importe d'être conscient de l'urgence de ce dossier.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="28851" id="102" name="Miroslav Mikolášik">
+    <ParallelChunk annotation_id="28851" docOffset="187">
+      <en>(SK) I agree with the amendment to the regulation on animal health requirements applicable to the non-commercial movement of pet animals, which de facto facilitates movement across borders within the European Union.</en>
+      <fr>(SK) Je suis favorable <DiscourseConnective annotation_id="32261">à</DiscourseConnective> la modification du règlement concernant les conditions de police sanitaire applicables aux mouvements non commerciaux d'animaux de compagnie qui, de fait, facilite les mouvements transfrontaliers dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29067" docOffset="188">
+      <en>I would <Alignment alignment="53587" annotation_id="29075">
+          <DiscourseConnective annotation_id="29075" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to acknowledge the work done by the rapporteur, who has produced a top-quality report, including such measures that would lead to vaccination against rabies and other diseases, as well as further preventive actions.</en>
+      <fr>Je tiens <Alignment alignment="35770" annotation_id="32493">
+          <DiscourseConnective annotation_id="32493" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="32503">à</DiscourseConnective> saluer le travail de la rapporteure, dont le rapport de très haute qualité prévoit <DiscourseConnective annotation_id="32588">notamment</DiscourseConnective> des mesures de vaccination contre la rage <DiscourseConnective annotation_id="32640">et</DiscourseConnective> d'autres maladies, <DiscourseConnective annotation_id="32662">ainsi</DiscourseConnective> que d'autres actions préventives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29301" docOffset="189">
+      <en>I am convinced that in just taking such a step, we will totally harmonise standards in the European Union's internal market and move toward the so far most extensive elimination of the threat from transmission of these diseases.</en>
+      <fr>J'ai la conviction <DiscourseConnective annotation_id="32721">que</DiscourseConnective> par cette simple démarche, nous harmoniserons totalement les normes dans le marché intérieur de l'Union européenne <DiscourseConnective annotation_id="32840">et</DiscourseConnective> progresserons dans l'élimination de la menace, à ce jour la plus importante, de transmission de ces maladies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29530" docOffset="190">
+      <en>
+        <Alignment alignment="32961" annotation_id="29530">
+          <DiscourseConnective annotation_id="29530" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I am aware of the ongoing risks and the dangers in the transport of animals <Alignment alignment="58683" annotation_id="29615">
+          <DiscourseConnective annotation_id="29615" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="33055" annotation_id="29620">
+          <DiscourseConnective annotation_id="29620" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, I support a reasonable extension of the transition periods for Members States such as Malta, Ireland and Sweden, whose internal standards are stricter.</en>
+      <fr>Je suis <Alignment alignment="5502" annotation_id="32961">
+          <DiscourseConnective annotation_id="32961" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> conscient des risques permanents <DiscourseConnective annotation_id="33004">et</DiscourseConnective> des dangers que pose le transport d'animaux <Alignment alignment="37352" annotation_id="33051">
+          <DiscourseConnective annotation_id="33051" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="29620" annotation_id="33055">
+          <DiscourseConnective annotation_id="33055" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, je suis favorable à une prolongation raisonnable des périodes transitoires <DiscourseConnective annotation_id="33146">pour</DiscourseConnective> des États membres tels <DiscourseConnective annotation_id="33174">que</DiscourseConnective> Malte, l'Irlande <DiscourseConnective annotation_id="33195">et</DiscourseConnective> la Suède, où les normes nationales sont plus strictes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29783" docOffset="191">
+      <en>This is a prudent approach which particularly stresses prevention and takes the special characteristics of the respective countries into account.</en>
+      <fr>Il <DiscourseConnective annotation_id="33256">s'</DiscourseConnective>agit d'une approche prudente, qui insiste particulièrement sur la prévention <DiscourseConnective annotation_id="33335">et</DiscourseConnective> qui tient compte des caractéristiques propres <DiscourseConnective annotation_id="33384">à</DiscourseConnective> chaque pays.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29929" id="103" name="Daciana Octavia Sârbu">
+    <ParallelChunk annotation_id="29929" docOffset="192">
+      <en>(RO) I would first of all like to congratulate the rapporteur on all her hard work, along with all those who made this compromise possible.</en>
+      <fr>(RO) Permettez-moi <DiscourseConnective annotation_id="33418">tout d'abord</DiscourseConnective> de féliciter la rapporteure <DiscourseConnective annotation_id="33459">ainsi</DiscourseConnective> que tous ceux qui ont permis d'arriver à ce compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30069" docOffset="193">
+      <en>I am pleased that the report allows Member States to continue implementing their protection measures against the spread of rabies, <Alignment alignment="33666" annotation_id="30200">
+          <DiscourseConnective annotation_id="30200" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="30204" sense="Expansion.Conjunction">also</DiscourseConnective> that it will result in the free and safe movement of pets throughout Europe after 2011.</en>
+      <fr>Je suis ravie <DiscourseConnective annotation_id="33534">que</DiscourseConnective> le rapport autorise certains États membres <DiscourseConnective annotation_id="33581">à</DiscourseConnective> continuer d'appliquer leurs mesures de protection contre la propagation de la rage <Alignment alignment="3039" annotation_id="33666">
+          <DiscourseConnective annotation_id="33666" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="33669">qu'</DiscourseConnective>il prévoie la circulation libre <DiscourseConnective annotation_id="33704">et</DiscourseConnective> sûre des animaux de compagnie <DiscourseConnective annotation_id="33737">après</DiscourseConnective> 2011.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30297" docOffset="194">
+      <en>I think that a good compromise has been achieved, which provides an effective response where Member States have justified concerns about the spread of certain diseases, <Alignment alignment="33909" annotation_id="30466">
+          <DiscourseConnective annotation_id="30466" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="30472" sense="Expansion.Conjunction">also</DiscourseConnective> offering the guarantee that <DiscourseConnective annotation_id="30505" sense="Temporal.Synchrony">when</DiscourseConnective> delegated power is used, the Commission will consult a number of experts - from the Commission, Member States, NGOs or from national parliaments.</en>
+      <fr>Il s'agit selon moi d'un bon compromis, qui apporte une réponse adéquate aux États membres préoccupés, à juste titre, par la propagation de certaines maladies, <Alignment alignment="17675" annotation_id="33909">
+          <DiscourseConnective annotation_id="33909" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> garantissant <DiscourseConnective annotation_id="33930">qu'en</DiscourseConnective> cas d'utilisation d'un pouvoir délégué, la Commission consultera plusieurs experts issus de la Commission, des États membres, d'ONG <DiscourseConnective annotation_id="34068">ou</DiscourseConnective> de parlement nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30656" docOffset="195">
+      <en>In a wider context, we have received written assurances that this report will not set a precedent for the use of delegated powers in the future.</en>
+      <fr>Dans un contexte plus large, nous avons reçu des assurances écrites <DiscourseConnective annotation_id="34163">que</DiscourseConnective> ce rapport ne créera pas de précédent concernant une utilisation future de pouvoirs délégués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30801" docOffset="196">
+      <en>
+        <Alignment alignment="34261" annotation_id="30801">
+          <Alignment alignment="34261" annotation_id="30801">
+            <DiscourseConnective annotation_id="30801" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+          </Alignment>
+        </Alignment>, consideration will be given to Parliament's concerns about creating a precedent for the new comitology procedure under the Treaty of Lisbon.</en>
+      <fr>
+        <Alignment alignment="30801" annotation_id="34261">
+          <Alignment alignment="1775" annotation_id="34261">
+            <DiscourseConnective annotation_id="34261" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les inquiétudes du Parlement relatives à la création d'un précédent <DiscourseConnective annotation_id="34345">pour</DiscourseConnective> la nouvelle procédure de comitologie instaurée par le traité de Lisbonne, seront prises en considération.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="30955" id="104" name="Andreas Mölzer">
+    <ParallelChunk annotation_id="30955" docOffset="197">
+      <en>(DE) Mr President, the efforts of the European Union to stem or completely eradicate animal epidemics and diseases like rabies are, of course, extremely laudable <Alignment alignment="34636" annotation_id="31117">
+          <DiscourseConnective annotation_id="31117" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is certainly very positive that measures are being taken to facilitate cross-border tourism with pets.</en>
+      <fr>(DE) Monsieur le Président, les efforts de l'Union européenne <DiscourseConnective annotation_id="34518">pour</DiscourseConnective> enrayer <DiscourseConnective annotation_id="34531">et</DiscourseConnective> éradiquer les épizooties <DiscourseConnective annotation_id="34559">et</DiscourseConnective> les maladies telles que la rage sont, naturellement, extrêmement louables <Alignment alignment="31117" annotation_id="34636">
+          <DiscourseConnective annotation_id="34636" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il est certainement très positif <DiscourseConnective annotation_id="34672">que</DiscourseConnective> des mesures soient prises <DiscourseConnective annotation_id="34702">pour</DiscourseConnective> faciliter le tourisme intracommunautaire avec des animaux de compagnie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31227" docOffset="198">
+      <en>The European Vaccination Card, vaccination programmes or even the electronic tagging of pets are indeed sensible measures that may make this easier.</en>
+      <fr>La carte européenne de vaccination, les programmes de vaccination, <DiscourseConnective annotation_id="34846">ou</DiscourseConnective> <DiscourseConnective annotation_id="34849">même</DiscourseConnective> le marquage électronique des animaux de compagnie, sont <DiscourseConnective annotation_id="34910">en effet</DiscourseConnective> des mesures judicieuses, susceptibles de faciliter ces mouvements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31376" docOffset="199">
+      <en>
+        <Alignment alignment="34986" annotation_id="31376">
+          <DiscourseConnective annotation_id="31376" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment> - and I know this from our experience in Austria - there are phenomena that threaten this.</en>
+      <fr>
+        <Alignment alignment="34711" annotation_id="34986">
+          <DiscourseConnective annotation_id="34986" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment> - <DiscourseConnective annotation_id="34998">et</DiscourseConnective> c'est notre expérience <DiscourseConnective annotation_id="35024">en</DiscourseConnective> Autriche qui me fait dire cela -, certains phénomènes menacent ce projet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31475" docOffset="200">
+      <en>
+        <Alignment alignment="35101" annotation_id="31475">
+          <DiscourseConnective annotation_id="31475" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, the illegal smuggling of puppies from cheap Eastern European countries to Central Europe or the European Union repeatedly leads to the introduction of diseases.</en>
+      <fr>
+        <Alignment alignment="13941" annotation_id="35101">
+          <DiscourseConnective annotation_id="35101" sense="Expansion.Instantiation">Ainsi</DiscourseConnective>
+        </Alignment>, le commerce illégal de chiots de pays d'Europe orientale vers l'Europe centrale <DiscourseConnective annotation_id="35188">ou</DiscourseConnective> l'Union européenne est régulièrement la cause de l'introduction de maladies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31649" docOffset="201">
+      <en>The mass transport of animals across the EU, including in Austria, could <Alignment alignment="35341" annotation_id="31722">
+          <DiscourseConnective annotation_id="31722" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> allow dangerous diseases to reoccur.</en>
+      <fr>Le transport massif d'animaux dans l'UE, y compris <DiscourseConnective annotation_id="35319">en</DiscourseConnective> Autriche, pourrait <Alignment alignment="2339" annotation_id="35341">
+          <DiscourseConnective annotation_id="35341" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> provoquer la réapparition de maladies dangereuses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31764" docOffset="202">
+      <en>Wild animals are furthermore liable to ignore border controls and may, of course, <DiscourseConnective annotation_id="31846" sense="Expansion.Conjunction">also</DiscourseConnective> repeatedly lead to the spread of animal epidemics like rabies.</en>
+      <fr>En outre, les animaux sauvages échapperont sans doute aux contrôles frontaliers <DiscourseConnective annotation_id="35482">et</DiscourseConnective> pourraient entraîner la propagation d'épizooties telles que la rage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31914" docOffset="203">
+      <en>It will be necessary to take measures in this area.</en>
+      <fr>Il sera donc nécessaire de prendre des mesures dans ce domaine.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="31966" id="105" name="John Dalli">
+    <ParallelChunk annotation_id="31966" docOffset="204">
+      <en>Member of the Commission. - Mr President, I think that we can all be proud of the swift progress made on this file, which has been conducted under extreme time pressures and in a difficult legal context.</en>
+      <fr>Monsieur le Président, je pense <DiscourseConnective annotation_id="35650">que</DiscourseConnective> nous pouvons être fiers de la gestion rapide de ce dossier, compte tenu des contraintes de temps <DiscourseConnective annotation_id="35751">et</DiscourseConnective> du contexte juridique difficile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32170" docOffset="205">
+      <en>The 18-month prolongation of the transitional regime regulating the movement of pets into five Member States will give them the time to adapt to the regime which applies in the rest of the European Union.</en>
+      <fr>La prolongation de dix-huit mois du régime transitoire réglementant les mouvements des animaux de compagnie vers cinq États membres donnera à ces États <DiscourseConnective annotation_id="35939">le temps de</DiscourseConnective> s'adapter au régime applicable dans le reste de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32375" docOffset="206">
+      <en>I have <Alignment alignment="36024" annotation_id="32382">
+          <DiscourseConnective annotation_id="32382" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> confirmed that the Commission does not intend to propose a further prolongation of this transition time.</en>
+      <fr>J'ai <Alignment alignment="20309" annotation_id="36024">
+          <DiscourseConnective annotation_id="36024" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> confirmé <DiscourseConnective annotation_id="36043">que</DiscourseConnective> la Commission n'a pas l'intention de proposer de nouvelle prolongation de ce régime transitoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32492" docOffset="207">
+      <en>At the same time, it will allow the Commission to prepare a comprehensive proposal aimed at revising the regulation in its entirety and, in particular, bringing the old comitology provisions into line with the spirit and the letter of the Lisbon Treaty.</en>
+      <fr>
+        <DiscourseConnective annotation_id="36144">Parallèlement</DiscourseConnective>, cette prolongation permettra à la Commission de préparer une proposition globale de révision de l'ensemble du règlement <DiscourseConnective annotation_id="36279">et</DiscourseConnective>, <DiscourseConnective annotation_id="36283">en particulier</DiscourseConnective>, d'adapter les anciennes règles de comitologie <DiscourseConnective annotation_id="36345">à</DiscourseConnective> l'esprit <DiscourseConnective annotation_id="36356">et</DiscourseConnective> à la lettre du traité de Lisbonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32746" docOffset="208">
+      <en>I have to agree that this is an important file for European citizens, <Alignment alignment="5734" annotation_id="32816">
+          <DiscourseConnective annotation_id="32816" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am pleased that we have had a successful conclusion.</en>
+      <fr>Je dois reconnaître <DiscourseConnective annotation_id="36414">qu'</DiscourseConnective>il s'agit d'un dossier important <DiscourseConnective annotation_id="36450">pour</DiscourseConnective> les citoyens européens, <Alignment alignment="32816" annotation_id="36479">
+          <DiscourseConnective annotation_id="36479" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis satisfait de cette heureuse conclusion.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="32875" id="106" language="GA" name="Bairbre de Brún">
+    <ParallelChunk annotation_id="32875" docOffset="209">
+      <en>Mr President, I would <Alignment alignment="36569" annotation_id="32897">
+          <DiscourseConnective annotation_id="32897" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to welcome Commissioner Dalli to the European Parliament <Alignment alignment="12899" annotation_id="32964">
+          <DiscourseConnective annotation_id="32964" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I <DiscourseConnective annotation_id="32970" sense="Expansion.Conjunction">also</DiscourseConnective> welcome the opportunity to work with Commissioner Dalli.</en>
+      <fr>Monsieur le Président, je souhaite moi <Alignment alignment="13771" annotation_id="36569">
+          <DiscourseConnective annotation_id="36569" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> la bienvenue au commissaire Dalli <Alignment alignment="16467" annotation_id="36609">
+          <DiscourseConnective annotation_id="36609" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> me réjouis de travailler avec lui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33032" docOffset="210">
+      <en>I welcome his statement to the Parliament this evening.</en>
+      <fr>J'apprécie la déclaration qu'il vient de faire ce soir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33088" docOffset="211">
+      <en>
+        <Alignment alignment="36703" annotation_id="33088">
+          <DiscourseConnective annotation_id="33088" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> he said, the substance of my report agrees with the approach of the Commission's proposal.</en>
+      <fr>
+        <Alignment alignment="606" annotation_id="36703">
+          <DiscourseConnective annotation_id="36703" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> M. Dalli l'a dit, en substance, mon rapport correspond <DiscourseConnective annotation_id="36764">à</DiscourseConnective> l'approche de la proposition de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33182" docOffset="212">
+      <en>I would <Alignment alignment="36822" annotation_id="33190">
+          <DiscourseConnective annotation_id="33190" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to express my thanks to everyone who spoke in tonight's debate; most of them in favour of the proposed system, with only a few people in opposition.</en>
+      <fr>Je tiens <Alignment alignment="15598" annotation_id="36822">
+          <DiscourseConnective annotation_id="36822" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="36832">à</DiscourseConnective> remercier tous ceux qui sont intervenus dans le débat de ce soir. Hormis quelques députés de l'opposition, la plupart des parlementaires se sont déclarés favorables au système proposé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33349" docOffset="213">
+      <en>The Commission's proposal and my report use a scientifically-based approach.</en>
+      <fr>La proposition de la Commission <DiscourseConnective annotation_id="37051">et</DiscourseConnective> mon rapport reposent sur une approche scientifique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33426" docOffset="214">
+      <en>In light of the different situations regarding rabies in Member States, the Commission chose a safe, precautionary approach.</en>
+      <fr>
+        <DiscourseConnective annotation_id="37106">À</DiscourseConnective> la lumière des différentes situations concernant la présence de la rage dans les États membres, la Commission a opté pour une approche prudente, sûre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33551" docOffset="215">
+      <en>It is appropriate that the end of the proposed extension coincides with the period in which it is expected that the European Commission will put an end to EU funding for a vaccination programme aimed at eradicating rabies in wild animals in some Member States.</en>
+      <fr>Il est heureux <DiscourseConnective annotation_id="37274">que</DiscourseConnective> la date d'expiration de la prolongation proposée coïncide avec la date <DiscourseConnective annotation_id="37349">à</DiscourseConnective> laquelle la Commission devrait mettre fin au financement européen du programme de vaccination visant <DiscourseConnective annotation_id="37452">à</DiscourseConnective> éradiquer la rage touchant des animaux sauvages dans certains États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33812" docOffset="216">
+      <en>
+        <Alignment alignment="72391" annotation_id="33812">
+          <DiscourseConnective annotation_id="33812" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> Commissioner Dalli and Mrs Vălean said in relation to the proposed date, the structure in place can be changed <Alignment alignment="37653" annotation_id="33926">
+          <DiscourseConnective annotation_id="33926" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the staff that are already there can be retrained.</en>
+      <fr>
+        <Alignment alignment="1369" annotation_id="37531">
+          <DiscourseConnective annotation_id="37531" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> le commissaire Dalli <DiscourseConnective annotation_id="37558">et</DiscourseConnective> Mme Vălean l'ont dit au sujet de la date proposée, la structure <DiscourseConnective annotation_id="37625">en</DiscourseConnective> place peut être modifiée <Alignment alignment="1023" annotation_id="37653">
+          <DiscourseConnective annotation_id="37653" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les effectifs <DiscourseConnective annotation_id="37670">déjà</DiscourseConnective> présents peuvent bénéficier de nouvelles formations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33981" docOffset="217">
+      <en>The transitional system will be extended in five Member States until the end of 2011 <Alignment alignment="37816" annotation_id="34066">
+          <DiscourseConnective annotation_id="34066" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> by that time, provisions relating to the non-commercial movement of pets will be the same all over the EU.</en>
+      <fr>Le régime transitoire sera prolongé, dans cinq États membres, <DiscourseConnective annotation_id="37790">jusqu'au</DiscourseConnective> 31 décembre 2011 <Alignment alignment="22445" annotation_id="37816">
+          <DiscourseConnective annotation_id="37816" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> d'ici là, les dispositions relatives aux mouvements non commerciaux d'animaux de compagnie seront identiques dans toute l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34177" docOffset="218">
+      <en>In the meantime, people will be able to cross EU borders with their pets, <Alignment alignment="8166" annotation_id="34251">
+          <DiscourseConnective annotation_id="34251" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the transitional system will be in place to allow some Member States to apply stricter controls during that period.</en>
+      <fr>
+        <DiscourseConnective annotation_id="37945">En attendant</DiscourseConnective>, les citoyens pourront se déplacer dans l'Union européenne avec leurs animaux de compagnie, <Alignment alignment="27442" annotation_id="38050">
+          <DiscourseConnective annotation_id="38050" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le régime transitoire sera <DiscourseConnective annotation_id="38082">en</DiscourseConnective> place <DiscourseConnective annotation_id="38091">pour</DiscourseConnective> permettre à certains États membres d'appliquer des règles plus strictes durant cette période.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34371" docOffset="219">
+      <en>Again, I would like to express my thanks to everyone who helped with this work.</en>
+      <fr>Je remercie <DiscourseConnective annotation_id="38202">encore</DiscourseConnective> tous ceux qui ont contribué <DiscourseConnective annotation_id="38237">à</DiscourseConnective> ce <DiscourseConnective annotation_id="38242">résultat</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34451" docOffset="220">
+      <en>The work was occasionally complicated, <Alignment alignment="38287" annotation_id="34490">
+          <DiscourseConnective annotation_id="34490" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="34494" sense="Comparison.Concession">although</DiscourseConnective> it was hard, it was worthwhile in the end.</en>
+      <fr>Le travail a parfois été difficile <Alignment alignment="1024" annotation_id="38287">
+          <DiscourseConnective annotation_id="38287" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="38293">finalement</DiscourseConnective>, il <DiscourseConnective annotation_id="38308">en</DiscourseConnective> valait la peine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34546" docOffset="221">
+      <en>Thank you all.</en>
+      <fr>Je vous remercie tous.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="34561" id="107" name="President">
+    <ParallelChunk annotation_id="34561" docOffset="222">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34583" docOffset="223">
+      <en>The vote will take place tomorrow (Tuesday, 9 March 2010).</en>
+      <fr>Le vote aura lieu demain (jeudi 9 mars 2010).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34642" docOffset="224">
+      <en>Written statements (Rule 149)</en>
+      <fr>Déclarations écrites (article 149)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="34672" id="108" name="Pavel Poc ">
+    <ParallelChunk annotation_id="34672" docOffset="225">
+      <en>in writing. - (CS) The aim of Regulation (EC) No 998/2003 on the animal health requirements applicable to the non-commercial movement of pet animals, which entered into effect on 3 July 2003, was to make it easier for pet owners to travel with their pets.</en>
+      <fr>par écrit. - (CS) L'objectif du règlement (CE) n° 998/2003 concernant les conditions de police sanitaire applicables aux mouvements non commerciaux d'animaux de compagnie, entré <DiscourseConnective annotation_id="38629">en</DiscourseConnective> vigueur le 3 juillet 2003, était de faciliter les déplacements des propriétaires d'animaux de compagnie avec leurs animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34928" docOffset="226">
+      <en>This was to be achieved through the introduction of a passport showing that an animal has been inoculated against rabies, and stipulating the obligation to mark animals in order for them to be clearly identified.</en>
+      <fr>Cela devait se faire par l'introduction d'un passeport prouvant la vaccination de l'animal contre la rage <DiscourseConnective annotation_id="38862">et</DiscourseConnective> prévoyant l'obligation de tatouer les animaux <DiscourseConnective annotation_id="38911">afin de</DiscourseConnective> les identifier clairement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35141" docOffset="227">
+      <en>The proposed amendment, in addition to making the original regulation more specific in technical terms, again extends the period during which journeys with dogs and cats to Finland, Ireland, Malta, Sweden and the United Kingdom are subject to stricter requirements.</en>
+      <fr>La proposition d'amendement, outre le fait de préciser le règlement sur le plan technique, prolonge à nouveau la période durant laquelle les voyages en compagnie de chiens <DiscourseConnective annotation_id="39118">et</DiscourseConnective> de chats vers la Finlande, l'Irlande, Malte, la Suède <DiscourseConnective annotation_id="39175">et</DiscourseConnective> le Royaume-Uni seront soumis <DiscourseConnective annotation_id="39207">à</DiscourseConnective> des exigences plus strictes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35407" docOffset="228">
+      <en>The differences in the protective measures of the previously-mentioned Member States, especially the different time-limits for inoculations and serological examinations and the different deadlines for anti-parasite examinations, unnecessarily complicate and increase the cost of travelling with pets in the EU.</en>
+      <fr>Les mesures de protection différentes appliquées par les États membres susmentionnés - et <DiscourseConnective annotation_id="39328">en particulier</DiscourseConnective> les différents délais imposés <DiscourseConnective annotation_id="39373">pour</DiscourseConnective> les vaccinations <DiscourseConnective annotation_id="39395">et</DiscourseConnective> les tests sérologiques - <DiscourseConnective annotation_id="39423">ainsi</DiscourseConnective> que les délais variables pour les contrôles antiparasites, compliquent inutilement les déplacements avec des animaux de compagnie dans l'UE <DiscourseConnective annotation_id="39569">et</DiscourseConnective> en augmentent les coûts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35718" docOffset="229">
+      <en>In practice, this means that a sizeable number of EU citizens will be discriminated against unnecessarily for a further year and a half <Alignment alignment="39745" annotation_id="35854">
+          <DiscourseConnective annotation_id="35854" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> exercising their right to free movement between EU countries.</en>
+      <fr>Concrètement, cela signifie <DiscourseConnective annotation_id="39625">qu'</DiscourseConnective>un nombre considérable de citoyens européens seront discriminés de manière inutile pendant une année <DiscourseConnective annotation_id="39729">et</DiscourseConnective> demie <DiscourseConnective annotation_id="39738">encore</DiscourseConnective> <Alignment alignment="37976" annotation_id="39745">
+          <DiscourseConnective annotation_id="39745" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>ils voudront exercer leur droit de libre circulation à l'intérieur de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35921" docOffset="230">
+      <en>The repeated extensions of the time period may indicate that the Commission set the period incorrectly in the original directive, without regard to the actual state of affairs, <Alignment alignment="40006" annotation_id="36098">
+          <DiscourseConnective annotation_id="36098" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> that certain Member States were unable or unwilling to implement Regulation 998/2003 on time.</en>
+      <fr>Les prolongations répétées du régime transitoire indiquent peut-être <DiscourseConnective annotation_id="39897">que</DiscourseConnective> la Commission a mal fixé ce délai dans le règlement initial, <DiscourseConnective annotation_id="39962">sans</DiscourseConnective> tenir compte de la situation concrète, <Alignment alignment="5606" annotation_id="40006">
+          <DiscourseConnective annotation_id="40006" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="40009">que</DiscourseConnective> certains États membres n'ont pas pu <DiscourseConnective annotation_id="40049">ou</DiscourseConnective> voulu mettre en œuvre <DiscourseConnective annotation_id="40074">à</DiscourseConnective> temps le règlement (CE) n° 998/2003.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36195" docOffset="231">
+      <en>In any case, such exemptions do not show an even-handed approach on the part of the Commission to the implementation of general regimes in EU Member States.</en>
+      <fr>
+        <DiscourseConnective annotation_id="40113">Quoi qu'il en soit</DiscourseConnective>, de telles dérogations révèlent une approche partiale de la Commission <DiscourseConnective annotation_id="40203">quant à</DiscourseConnective> l'application de régimes généraux dans les États membres de l'UE.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

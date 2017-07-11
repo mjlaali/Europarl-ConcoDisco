@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>12.</en>
+    <fr>12.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>EU consumer policy strategy 2007-2013 (</en>
+    <fr>Stratégie communautaire en matière de politique des consommateurs pour la période 2007-2013 (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="44" docOffset="2">
+    <en>- Before the vote on Amendment 3:</en>
+    <fr>- Préalablement au vote sur l'amendement 3:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="78" id="144" name="Lasse Lehtinen">
+    <ParallelChunk annotation_id="78" docOffset="3">
+      <en>rapporteur. - Mr President, in Amendment 3 I have been told that there is some confusion over the French text.</en>
+      <fr>rapporteur. - Monsieur le Président, concernant l'amendement 3, on me dit <DiscourseConnective annotation_id="216">qu'</DiscourseConnective>il y a une certaine confusion dans le texte francophone.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="189" docOffset="4">
+      <en>The words 'as appropriate' have not been properly translated into French.</en>
+      <fr>Les mots "as appropriate" (de façon appropriée) n'ont pas été traduits correctement <DiscourseConnective annotation_id="360">en</DiscourseConnective> français.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="263" docOffset="5">
+      <en>I would just like to ask <Alignment alignment="120019" annotation_id="288">
+          <DiscourseConnective annotation_id="288" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> this could be checked <DiscourseConnective annotation_id="313" sense="Temporal.Asynchronous.Precedence">afterwards</DiscourseConnective> by experts.</en>
+      <fr>Je voudrais demander <Alignment alignment="288" annotation_id="394">
+          <DiscourseConnective annotation_id="394" sense="Contingency.Condition">que</DiscourseConnective>
+        </Alignment> ceci <DiscourseConnective annotation_id="403">soit</DiscourseConnective> vérifié ultérieurement par des experts.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="336" id="145" name="President">
+    <ParallelChunk annotation_id="336" docOffset="6">
+      <en>That will be done.</en>
+      <fr>Ce sera fait.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

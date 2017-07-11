@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Monitoring and reduction of greenhouse gas emissions from fuels (road transport and inland waterway vessels) (debate)</en>
+    <fr>Surveillance <DiscourseConnective annotation_id="13">et</DiscourseConnective> réduction des émissions de gaz à effet de serre provenant des carburants (transport routier <DiscourseConnective annotation_id="108">et</DiscourseConnective> navigation intérieure) (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="118" id="418" name="President">
+    <ParallelChunk annotation_id="118" docOffset="1">
+      <en>The next item is the report by Mrs Corbey, on behalf of the Committee on the Environment, Public Health and Food Safety, on the proposal for a directive of the European Parliament and of the Council amending Directive 98/70/EC as regards the specification of petrol, diesel and gas-oil and introducing a mechanism to monitor and reduce greenhouse gas emissions from the use of road transport fuels and amending Council Directive 1999/32/EC, as regards the specification of fuel used by inland waterway vessels and repealing Directive 93/12/EEC - C6-0061/2007 -.</en>
+      <fr>L'ordre du jour appelle le rapport de Mme Corbey, au nom de la commission de l'environnement, de la santé publique et de la sécurité alimentaire, sur la proposition de directive du Parlement européen et du Conseil modifiant la directive 98/70/CE en ce qui concerne les spécifications relatives à l'essence, au carburant diesel et aux gazoles ainsi que l'introduction d'un mécanisme permettant de surveiller et de réduire les émissions de gaz à effet de serre provenant des carburants utilisés dans le transport routier, modifiant la directive 1999/32/CE du Conseil en ce qui concerne les spécifications relatives aux carburants utilisés par les bateaux de navigation intérieure et abrogeant la directive 93/12/CEE - C6-0061/2007 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="680" id="419" language="NL" name="Dorette Corbey">
+    <ParallelChunk annotation_id="680" docOffset="2">
+      <en>Mr President, Commissioner, ladies and gentlemen, tomorrow marks the end of a long process.</en>
+      <fr>Monsieur le Président, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="931">et</DiscourseConnective> Messieurs, demain un long processus arrivera à sa fin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="772" docOffset="3">
+      <en>I extend warm thanks to the shadow rapporteurs, all members of staff, the Commission and the French Presidency for their efforts, their work and their willingness to cooperate.</en>
+      <fr>Je souhaite remercier chaudement les rapporteurs fictifs, tous les membres de mon équipe, la Commission <DiscourseConnective annotation_id="1093">et</DiscourseConnective> la Présidence française <DiscourseConnective annotation_id="1120">pour</DiscourseConnective> leurs efforts, leur travail <DiscourseConnective annotation_id="1153">et</DiscourseConnective> leur bonne volonté <DiscourseConnective annotation_id="1175">à</DiscourseConnective> coopérer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="949" docOffset="4">
+      <en>Tomorrow we will be able to approve a deal at first reading and in doing so give the green light to a special directive.</en>
+      <fr>Demain, nous pourrons approuver un accord <DiscourseConnective annotation_id="1229">en</DiscourseConnective> première lecture <DiscourseConnective annotation_id="1249">et</DiscourseConnective>, ce faisant, donner le feu vert <DiscourseConnective annotation_id="1284">à</DiscourseConnective> une directive spéciale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1070" docOffset="5">
+      <en>For the first time, CO2 requirements will be linked to a product and to a production process.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1310">Pour</DiscourseConnective> la première fois, les exigences en matière de CO2 seront liées <DiscourseConnective annotation_id="1378">à</DiscourseConnective> un produit <DiscourseConnective annotation_id="1391">et</DiscourseConnective> <DiscourseConnective annotation_id="1394">à</DiscourseConnective> un processus de production.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1164" docOffset="6">
+      <en>Parliament has committed to further improving the directive.</en>
+      <fr>Le Parlement s'est engagé <DiscourseConnective annotation_id="1450">à</DiscourseConnective> continuer à améliorer cette directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1225" docOffset="7">
+      <en>The directive will positively encourage the use of green and non-reprehensible biofuels and the use of electricity in road transport - something which can lead to enormous efficiency savings - <Alignment alignment="9967" annotation_id="1418">
+          <DiscourseConnective annotation_id="1418" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it will discourage the practice of burning off methane gases.</en>
+      <fr>Cette directive encouragera de manière positive l'utilisation de biocarburants verts <DiscourseConnective annotation_id="1576">et</DiscourseConnective> non controversés <DiscourseConnective annotation_id="1596">ainsi</DiscourseConnective> que l'utilisation d'électricité <DiscourseConnective annotation_id="1634">pour</DiscourseConnective> le transport routier - ce qui peut permettre de gagner énormément en efficacité - <Alignment alignment="1418" annotation_id="1721">
+          <DiscourseConnective annotation_id="1721" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle découragera la pratique de brûler les gaz de méthane.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1484" docOffset="8">
+      <en>These are wonderful results, proving that Europe is taking the sustainable route.</en>
+      <fr>Ce sont des résultats formidables qui prouvent <DiscourseConnective annotation_id="1830">que</DiscourseConnective> l'Europe <DiscourseConnective annotation_id="1843">s'</DiscourseConnective>engage sur la voie de l'énergie durable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1566" docOffset="9">
+      <en>Let us go back to the beginning, <Alignment alignment="17904" annotation_id="1599">
+          <DiscourseConnective annotation_id="1599" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Reprenons <Alignment alignment="1599" annotation_id="1896">
+          <DiscourseConnective annotation_id="1896" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> dès le début.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1607" docOffset="10">
+      <en>The fuel quality directive has two objectives: air quality and a reduction in CO2 emissions.</en>
+      <fr>La directive relative à la qualité des carburants a deux objectifs: la qualité de l'air <DiscourseConnective annotation_id="2008">et</DiscourseConnective> la réduction des émissions de CO2.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1700" docOffset="11">
+      <en>In terms of air quality, there are three improvements on the original proposal.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2046">Pour</DiscourseConnective> ce qui est de la qualité de l'air, on peut citer trois améliorations par rapport <DiscourseConnective annotation_id="2132">à</DiscourseConnective> la proposition originale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1780" docOffset="12">
+      <en>First of all, cleaner fuels will be introduced sooner in shipping.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2160">Premièrement</DiscourseConnective>, des carburants plus propres seront introduits dans les meilleurs délais dans le secteur de la navigation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1847" docOffset="13">
+      <en>As for the second point, the exemption for ethanol, the Commission suggested increasing the maximum vapour pressure <Alignment alignment="8699" annotation_id="1963">
+          <DiscourseConnective annotation_id="1963" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> ethanol is admixed.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2280">Deuxièmement</DiscourseConnective>, en ce qui concerne la dérogation <DiscourseConnective annotation_id="2327">pour</DiscourseConnective> l'éthanol, la Commission a proposé d'augmenter la pression de vapeur maximale <Alignment alignment="1963" annotation_id="2410">
+          <DiscourseConnective annotation_id="2410" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> l'éthanol est mélangé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1988" docOffset="14">
+      <en>This has been the subject of much debate.</en>
+      <fr>Ce point a fait l'objet de nombreux débats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2030" docOffset="15">
+      <en>The southern countries in particular would like to see exemptions for the admixture of ethanol, <Alignment alignment="2582" annotation_id="2126">
+          <DiscourseConnective annotation_id="2126" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is precisely these southern countries that suffer from the problem of harmful ozone.</en>
+      <fr>Les pays du sud <DiscourseConnective annotation_id="2501">en particulier</DiscourseConnective> souhaiteraient obtenir des dérogations <DiscourseConnective annotation_id="2555">pour</DiscourseConnective> le mélange d'éthanol, <Alignment alignment="9663" annotation_id="2582">
+          <DiscourseConnective annotation_id="2582" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce sont <DiscourseConnective annotation_id="2595">précisément</DiscourseConnective> les pays du sud qui sont le plus touchés par le problème de la pollution à l'ozone.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2218" docOffset="16">
+      <en>The compromise that was struck is that an exception will only be allowed <Alignment alignment="15996" annotation_id="2291">
+          <DiscourseConnective annotation_id="2291" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the air quality requirements are met.</en>
+      <fr>Le compromis qui a été trouvé est le suivant: une exception ne sera admise <Alignment alignment="0" annotation_id="2766">
+          <DiscourseConnective annotation_id="2766" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> les exigences liées à la qualité de l'air sont remplies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2332" docOffset="17">
+      <en>A third point concerns methylcyclopentadienyl manganese tricarbonyl (MMT), a fuel additive that is harmful to health and to cars alike.</en>
+      <fr>Un troisième point concerne le méthylcyclopentadienyl manganese tricarbonyl (MMT), un additif pour carburant qui est nocif aussi bien <DiscourseConnective annotation_id="2964">pour</DiscourseConnective> la santé <DiscourseConnective annotation_id="2978">que</DiscourseConnective> <DiscourseConnective annotation_id="2982">pour</DiscourseConnective> les voitures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2468" docOffset="18">
+      <en>It should <Alignment alignment="5179" annotation_id="2478">
+          <DiscourseConnective annotation_id="2478" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be banned, one would be inclined to think.</en>
+      <fr>On est tenté de penser qu'il devrait <Alignment alignment="2478" annotation_id="3038">
+          <DiscourseConnective annotation_id="3038" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> être interdit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2531" docOffset="19">
+      <en>Unfortunately, that is not a simple thing to do on account of World Trade Organization rules.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3062">Malheureusement</DiscourseConnective>, ce n'est pas facile <DiscourseConnective annotation_id="3099">à</DiscourseConnective> faire <DiscourseConnective annotation_id="3107">à</DiscourseConnective> cause des règles de l'Organisation mondiale du commerce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2625" docOffset="20">
+      <en>That is why a limit value has now been laid down, which clearly benefits health and helps reduce neurotoxic substances.</en>
+      <fr>C'est la raison pour laquelle une valeur limite a <DiscourseConnective annotation_id="3216">maintenant</DiscourseConnective> été établie, ce qui est clairement bénéfique pour la santé <DiscourseConnective annotation_id="3286">et</DiscourseConnective> contribue à réduire le nombre de substances neurotoxiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2745" docOffset="21">
+      <en>I should now like to move on to the second key objective, namely the reduction of greenhouse gas emissions.</en>
+      <fr>Je souhaite <DiscourseConnective annotation_id="3360">maintenant</DiscourseConnective> passer au deuxième objectif clé, c'est-à-dire la réduction des émissions de gaz à effet de serre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2853" docOffset="22">
+      <en>
+        <Alignment alignment="17942" annotation_id="2853">
+          <DiscourseConnective annotation_id="2853" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I said a moment ago, this is where this legislation has been greatly improved.</en>
+      <fr>
+        <Alignment alignment="15275" annotation_id="3469">
+          <DiscourseConnective annotation_id="3469" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> je viens de le dire, c'est sur ce point que cette législation a été fortement améliorée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2935" docOffset="23">
+      <en>For the first time, the specific CO2 requirement will be linked to the production process.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3564">Pour</DiscourseConnective> la première fois, les exigences spécifiques au CO2 seront liées au processus de production.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3026" docOffset="24">
+      <en>In the next few years, the oil industry will be required to report on the level of greenhouse gas emissions caused by oil extraction, transport, distribution, refining and the use of diesel or petrol.</en>
+      <fr>Au cours des prochaines années, l'industrie pétrolière devra rendre compte des émissions de gaz à effet de serre causées par l'extraction, le transport, la distribution, le raffinage du pétrole <DiscourseConnective annotation_id="3855">ainsi</DiscourseConnective> que par l'utilisation de diesel <DiscourseConnective annotation_id="3893">ou</DiscourseConnective> d'essence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3227" docOffset="25">
+      <en>A standard value is <Alignment alignment="31607" annotation_id="3247">
+          <DiscourseConnective annotation_id="3247" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> established on the basis of this well-to-wheel analysis.</en>
+      <fr>Une valeur standard est <Alignment alignment="3656" annotation_id="3931">
+          <DiscourseConnective annotation_id="3931" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> établie sur la base de cette analyse du cycle complet des carburants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3309" docOffset="26">
+      <en>
+        <Alignment alignment="4009" annotation_id="3309">
+          <DiscourseConnective annotation_id="3309" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, the entire chain will have to emit 10% less by 2020.</en>
+      <fr>
+        <Alignment alignment="5128" annotation_id="4009">
+          <DiscourseConnective annotation_id="4009" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, l'ensemble de la chaîne devra émettre 10 % en moins d'ici 2020.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3372" docOffset="27">
+      <en>Needless to say, we have discussed this 10% objective in great detail.</en>
+      <fr>Il va sans <DiscourseConnective annotation_id="4094">dire que</DiscourseConnective> nous avons discuté de cet objectif de 10 % dans les moindres détails.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3443" docOffset="28">
+      <en>Six per cent of it is binding, <Alignment alignment="4222" annotation_id="3474">
+          <DiscourseConnective annotation_id="3474" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> part of it can be achieved by improving efficiency in the entire chain, with less burning off, more efficient refineries and repairing leaks.</en>
+      <fr>Un pourcentage de six pour cent est contraignant <Alignment alignment="3474" annotation_id="4222">
+          <DiscourseConnective annotation_id="4222" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> une partie de ce pourcentage peut être atteinte <DiscourseConnective annotation_id="4273">en</DiscourseConnective> améliorant l'efficacité de toute la chaîne, grâce <DiscourseConnective annotation_id="4326">à moins de</DiscourseConnective> brûlage de gaz, à des raffineries plus efficaces <DiscourseConnective annotation_id="4386">et</DiscourseConnective> à la réparation des fuites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3620" docOffset="29">
+      <en>Another part can be achieved by using biofuels, provided the most efficient kind is used.</en>
+      <fr>Une autre partie peut être atteinte <DiscourseConnective annotation_id="4453">en</DiscourseConnective> utilisant des biocarburants, <DiscourseConnective annotation_id="4485">à condition que</DiscourseConnective> le type le plus efficace <DiscourseConnective annotation_id="4526">soit</DiscourseConnective> utilisé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3710" docOffset="30">
+      <en>The cultivation of biofuels which, on balance, are only slightly better is of no value to us.</en>
+      <fr>La culture de biocarburants, qui ne sont, <DiscourseConnective annotation_id="4582">tout compte fait</DiscourseConnective>, <DiscourseConnective annotation_id="4600">que</DiscourseConnective> légèrement plus performants, ne sert selon nous à rien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3804" docOffset="31">
+      <en>We would be taking an enormous step backwards <Alignment alignment="4698" annotation_id="3850">
+          <DiscourseConnective annotation_id="3850" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we felled tropical forests in order to cultivate biofuels.</en>
+      <fr>Nous ferions un énorme pas en arrière <Alignment alignment="3850" annotation_id="4698">
+          <DiscourseConnective annotation_id="4698" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous abattions les forêts tropicales <DiscourseConnective annotation_id="4738">pour</DiscourseConnective> cultiver des biocarburants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3912" docOffset="32">
+      <en>We need to have strict sustainability requirements in place, <Alignment alignment="4783" annotation_id="3973">
+          <DiscourseConnective annotation_id="3973" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Nous devons <Alignment alignment="3973" annotation_id="4783">
+          <DiscourseConnective annotation_id="4783" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> avoir des exigences strictes en matière de durabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3984" docOffset="33">
+      <en>These requirements have now been included in the directive.</en>
+      <fr>Ces exigences ont <DiscourseConnective annotation_id="4865">maintenant</DiscourseConnective> été intégrées <DiscourseConnective annotation_id="4890">à</DiscourseConnective> la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4044" docOffset="34">
+      <en>They cover CO2 efficiency, biodiversity, but also social criteria.</en>
+      <fr>Elles couvrent la réduction des émissions de CO2, la biodiversité, <DiscourseConnective annotation_id="4973">mais</DiscourseConnective> <DiscourseConnective annotation_id="4978">également</DiscourseConnective> des critères sociaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4111" docOffset="35">
+      <en>The remaining 4% of the 10% reduction is not binding in the first instance.</en>
+      <fr>Les 4 % restants de la réduction de 10 % ne sont dans un premier temps pas contraignants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4187" docOffset="36">
+      <en>This 4% is, <Alignment alignment="5123" annotation_id="4199">
+          <DiscourseConnective annotation_id="4199" sense="Temporal.Asynchronous.Precedence">in turn</DiscourseConnective>
+        </Alignment>, made up of two components.</en>
+      <fr>Ces 4 % se décomposent <Alignment alignment="18" annotation_id="5123">
+          <DiscourseConnective annotation_id="5123" sense="Temporal.Asynchronous.Precedence">à</DiscourseConnective>
+        </Alignment> leur tour en deux composants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4235" docOffset="37">
+      <en>Part 1 concerns the Clean Development Mechanism (CDM) projects in the chain.</en>
+      <fr>Une première partie concerne des projets dans le cadre du mécanisme de développement propre (MDP) dans la chaîne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4312" docOffset="38">
+      <en>Burning off less gas is one of the most efficient ways of reducing greenhouse gases, but is not always traceable to the petrol or diesel that is placed on the European market.</en>
+      <fr>Brûler moins de gaz est l'une des manières les plus efficaces de réduire les gaz à effet de serre, <DiscourseConnective annotation_id="5368">mais</DiscourseConnective> ce n'est pas toujours lié <DiscourseConnective annotation_id="5399">à</DiscourseConnective> l'essence <DiscourseConnective annotation_id="5411">ou</DiscourseConnective> au diesel qui se retrouvent sur le marché européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4488" docOffset="39">
+      <en>That is why CDM projects are allowed, subject to verification.</en>
+      <fr>C'est la raison pour laquelle le développement de projets MDP est permis, sujet <DiscourseConnective annotation_id="5546">à</DiscourseConnective> vérification.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4551" docOffset="40">
+      <en>The other 2% relates to new technologies, <Alignment alignment="5618" annotation_id="4593">
+          <DiscourseConnective annotation_id="4593" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> carbon capture and storage (CCS) and also electricity in road transport.</en>
+      <fr>Les 2 % restants concernent les nouvelles technologies, <Alignment alignment="14782" annotation_id="5618">
+          <DiscourseConnective annotation_id="5618" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> le captage <DiscourseConnective annotation_id="5641">et</DiscourseConnective> le stockage du carbone (CSC) <DiscourseConnective annotation_id="5673">ainsi</DiscourseConnective> que l'électricité dans le transport routier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4678" docOffset="41">
+      <en>Electricity is promising, <Alignment alignment="32785" annotation_id="4704">
+          <DiscourseConnective annotation_id="4704" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the technology must prove its worth <Alignment alignment="5798" annotation_id="4744">
+          <DiscourseConnective annotation_id="4744" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> it can be applied commercially on a large scale.</en>
+      <fr>L'électricité est prometteuse, <Alignment alignment="4704" annotation_id="5755">
+          <DiscourseConnective annotation_id="5755" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la technologie doit faire ses preuves <Alignment alignment="5676" annotation_id="5798">
+          <DiscourseConnective annotation_id="5798" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> pouvoir être commercialisée <DiscourseConnective annotation_id="5835">à</DiscourseConnective> grande échelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4800" docOffset="42">
+      <en>This should be clear by 2014, which is <DiscourseConnective annotation_id="4839" sense="Temporal.Synchrony">when</DiscourseConnective> the indicative objectives can become binding.</en>
+      <fr>Cela devrait être plus clair d'ici 2014, date à laquelle les objectifs indicatifs pourront devenir contraignants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4890" docOffset="43">
+      <en>All in all, I take the view that this directive will make a considerable contribution towards reducing CO2 generated by road transport.</en>
+      <fr>L'un dans l'autre, je suis d'avis <DiscourseConnective annotation_id="6001">que</DiscourseConnective> cette directive contribuera considérablement <DiscourseConnective annotation_id="6050">à</DiscourseConnective> réduire les émissions de CO2 provenant du transport routier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5026" docOffset="44">
+      <en>It is good to know that this is in line with the choices that are now being made in the United States.</en>
+      <fr>Je me réjouis <DiscourseConnective annotation_id="6127">que</DiscourseConnective> cette mesure <DiscourseConnective annotation_id="6144">soit</DiscourseConnective> conforme aux choix qui sont <DiscourseConnective annotation_id="6177">maintenant</DiscourseConnective> faits par les États-Unis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5129" docOffset="45">
+      <en>California's Low-Carbon Fuel Standard is being copied throughout the United States.</en>
+      <fr>La norme pour les carburants hydrocarburés mise en place par la Californie est copiée dans tous les États-Unis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5213" docOffset="46">
+      <en>I should once again like to thank the shadow rapporteurs for their contribution and for the excellent group effort, <Alignment alignment="6452" annotation_id="5329">
+          <DiscourseConnective annotation_id="5329" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I look forward to the debate.</en>
+      <fr>Je souhaiterais remercier une nouvelle fois les rapporteurs fictifs <DiscourseConnective annotation_id="6394">pour</DiscourseConnective> leur contribution <DiscourseConnective annotation_id="6417">et</DiscourseConnective> leur excellent effort collectif <Alignment alignment="5329" annotation_id="6452">
+          <DiscourseConnective annotation_id="6452" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'attends le débat avec impatience.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5363" id="420" language="FR" name="Jean-Louis Borloo">
+    <ParallelChunk annotation_id="5363" docOffset="47">
+      <en>Mr President, ladies and gentlemen, I should like to congratulate the rapporteur, Mrs Corbey, on her work, which is very complex from a technical point of view, but at the same time absolutely essential for the future of emissions.</en>
+      <fr>président en exercice du Conseil. - Monsieur le Président, Mesdames <DiscourseConnective annotation_id="6559">et</DiscourseConnective> Messieurs, je voudrais féliciter Mme la rapporteure, Mme Corbey, <DiscourseConnective annotation_id="6627">pour</DiscourseConnective> un travail qui est <DiscourseConnective annotation_id="6651">à</DiscourseConnective> la fois très complexe sur le plan technique, <DiscourseConnective annotation_id="6698">mais</DiscourseConnective> qui est absolument essentiel dans l'avenir des émissions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5595" docOffset="48">
+      <en>A compromise has been reached on the 6+4, to put it simply.</en>
+      <fr>Un compromis a été trouvé sur le 6+4, si je veux dire les choses assez <DiscourseConnective annotation_id="6832">simplement</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5655" docOffset="49">
+      <en>Six immediately binding and four in the context of a periodic review clause.</en>
+      <fr>Six immédiatement contraignants <DiscourseConnective annotation_id="6876">et</DiscourseConnective> quatre, dans le cadre d'une clause de rendez-vous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5732" docOffset="50">
+      <en>There are <Alignment alignment="3701" annotation_id="5742">
+          <DiscourseConnective annotation_id="5742" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> advances, in particular on the sustainability of biofuels in the renewable energy directive itself, which we felt were essential and minimal.</en>
+      <fr>Il y a <Alignment alignment="5742" annotation_id="6937">
+          <DiscourseConnective annotation_id="6937" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> les avancées, <DiscourseConnective annotation_id="6957">notamment</DiscourseConnective> sur la durabilité des biocarburants dans la directive ENR elle-même, qui nous paraissaient essentielles <DiscourseConnective annotation_id="7071">et</DiscourseConnective> minimales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5889" docOffset="51">
+      <en>
+        <Alignment alignment="1955" annotation_id="5889">
+          <DiscourseConnective annotation_id="5889" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I think that we have reached a very good compromise, for which I would <Alignment alignment="13106" annotation_id="5969">
+          <DiscourseConnective annotation_id="5969" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the Commission.</en>
+      <fr>
+        <Alignment alignment="5889" annotation_id="7085">
+          <DiscourseConnective annotation_id="7085" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> je crois <DiscourseConnective annotation_id="7099">que</DiscourseConnective> nous sommes parvenus à un très bon compromis, permettez moi d'en remercier <Alignment alignment="5969" annotation_id="7178">
+          <DiscourseConnective annotation_id="7178" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> la Commission.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6004" id="421" language="EL" name="Stavros Dimas">
+    <ParallelChunk annotation_id="6004" docOffset="52">
+      <en>Mr President, the Commission welcomes the agreement on the fuel quality directive, which retains the main elements of the Commission's proposal, <Alignment alignment="28742" annotation_id="6149">
+          <DiscourseConnective annotation_id="6149" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> which is an important step forward in the environmental protection sector.</en>
+      <fr>Monsieur le Président, la Commission se réjouit de l'accord sur la directive relative à la qualité des carburants, qui garde les principaux éléments de la proposition de la Commission, <Alignment alignment="6149" annotation_id="7388">
+          <DiscourseConnective annotation_id="7388" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> qui représente un important pas en <DiscourseConnective annotation_id="7428">avant</DiscourseConnective> dans le secteur de la protection de l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6228" docOffset="53">
+      <en>I should <Alignment alignment="2333" annotation_id="6237">
+          <DiscourseConnective annotation_id="6237" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like to thank the rapporteur, Dorette Corbey, for her part in achieving the final agreement.</en>
+      <fr>Je voudrais <Alignment alignment="6237" annotation_id="7499">
+          <DiscourseConnective annotation_id="7499" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> remercier la rapporteure, Dorette Corbey, <DiscourseConnective annotation_id="7550">pour</DiscourseConnective> sa contribution <DiscourseConnective annotation_id="7571">en vue de</DiscourseConnective> parvenir à l'accord final.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6340" docOffset="54">
+      <en>The basic element of the compromise agreement is the obligation which energy suppliers will have to limit emissions of greenhouse gases during the entire lifecycle of fuels.</en>
+      <fr>L'élément de base de l'accord de compromis est l'obligation selon laquelle les fournisseurs d'énergie devront limiter les émissions de gaz à effet de serre pendant toute la durée du cycle de la vie des carburants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6514" docOffset="55">
+      <en>This is an important contribution to our climate policy.</en>
+      <fr>Il <DiscourseConnective annotation_id="7825">s'</DiscourseConnective>agit là d'une contribution importante <DiscourseConnective annotation_id="7865">à</DiscourseConnective> notre politique en matière de climat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6571" docOffset="56">
+      <en>It will promote technological progress <Alignment alignment="7960" annotation_id="6610">
+          <DiscourseConnective annotation_id="6610" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, at the same time, it is the first of the supplementary measures being approved which is provided for in the framework of the revised strategy on emissions of carbon dioxide from cars.</en>
+      <fr>Cette obligation encouragera le progrès technologique, <Alignment alignment="15345" annotation_id="7960">
+          <DiscourseConnective annotation_id="7960" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle est <DiscourseConnective annotation_id="7972">aussi</DiscourseConnective> la première des mesures supplémentaires en cours d'adoption prévues dans le cadre la stratégie révisée sur les émissions de dioxyde de carbone provenant des voitures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6799" docOffset="57">
+      <en>By incorporating sustainability criteria for biofuels, not only shall we offer incentives to use the biofuels with the best performance in terms of emissions of greenhouse gases, we shall at the same time <Alignment alignment="8424" annotation_id="7004">
+          <DiscourseConnective annotation_id="7004" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> prevent the serious environmental dangers connected with their production.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8145">En</DiscourseConnective> insérant le critère de la durabilité <DiscourseConnective annotation_id="8185">pour</DiscourseConnective> les biocarburants, nous proposerons <DiscourseConnective annotation_id="8226">non seulement</DiscourseConnective> des mesures d'encouragement en faveur de l'utilisation des biocarburants dont les performances sont les meilleures <DiscourseConnective annotation_id="8355">en</DiscourseConnective> termes d'émissions de gaz à effet de serre, mais nous empêcherons <Alignment alignment="6354" annotation_id="8424">
+          <DiscourseConnective annotation_id="8424" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> que des risques graves pour l'environnement et liés <DiscourseConnective annotation_id="8486">à</DiscourseConnective> leur production ne surviennent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7084" docOffset="58">
+      <en>
+        <Alignment alignment="6877" annotation_id="7084">
+          <DiscourseConnective annotation_id="7084" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, the compromise agreement will allow emissions of pollutants to be reduced, mainly by adopting lower limits for sulphur and polycyclic aromatic hydrocarbons, facilitate the use of ethanol, improve information for consumers and establish a relative limit for the additive MMT (methylcyclopentadienyl manganese tricarbonyl).</en>
+      <fr>
+        <Alignment alignment="7084" annotation_id="8520">
+          <DiscourseConnective annotation_id="8520" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, l'accord de compromis permettra de réduire les émissions de polluants, principalement <DiscourseConnective annotation_id="8616">en</DiscourseConnective> adoptant des limites plus basses <DiscourseConnective annotation_id="8652">pour</DiscourseConnective> le soufre <DiscourseConnective annotation_id="8667">et</DiscourseConnective> les hydrocarbures aromatiques polycycliques, de faciliter l'utilisation d'éthanol, d'améliorer l'information des consommateurs <DiscourseConnective annotation_id="8797">et</DiscourseConnective> d'établir une limite relative <DiscourseConnective annotation_id="8830">pour</DiscourseConnective> l'additif MMT (méthylcyclopentadienyl manganese tricarbonyl).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7419" docOffset="59">
+      <en>
+        <Alignment alignment="8897" annotation_id="7419">
+          <Alignment alignment="32407" annotation_id="7419">
+            <DiscourseConnective annotation_id="7419" sense="Expansion.Restatement">In short</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the compromise agreement falls within our traditional policy of controlling emissions of pollutants into the atmosphere and is an important step forward in our climate policy.</en>
+      <fr>
+        <Alignment alignment="6169" annotation_id="8897">
+          <Alignment alignment="7419" annotation_id="8897">
+            <DiscourseConnective annotation_id="8897" sense="Expansion.Restatement">En bref</DiscourseConnective>
+          </Alignment>
+        </Alignment>, cet accord de compromis s'inscrit dans notre politique traditionnelle de contrôle des émissions des polluants dans l'atmosphère <DiscourseConnective annotation_id="9034">et</DiscourseConnective> constitue un important progrès de notre politique en matière de climat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7605" docOffset="60">
+      <en>I <Alignment alignment="9125" annotation_id="7607">
+          <DiscourseConnective annotation_id="7607" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> call on you to vote in favour of the agreement tomorrow.</en>
+      <fr>Je vous demande <Alignment alignment="7607" annotation_id="9125">
+          <DiscourseConnective annotation_id="9125" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> de voter <DiscourseConnective annotation_id="9143">en</DiscourseConnective> faveur de cet accord demain.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7674" id="422" language="ES" name="Pilar Ayuso">
+    <ParallelChunk annotation_id="7674" docOffset="61">
+      <en>Mr President, Commissioner, this was a good proposal in the form in which it came from the Commission, not only because of the sulphur reductions but <Alignment alignment="9382" annotation_id="7824">
+          <DiscourseConnective annotation_id="7824" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> because of its new Article 7a, which demanded a gradual reduction in greenhouse gas emissions from suppliers, <Alignment alignment="9523" annotation_id="7939">
+          <DiscourseConnective annotation_id="7939" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="24203" annotation_id="7943">
+          <DiscourseConnective annotation_id="7943" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it resolved the old vapour pressure problem for petrol-bioethanol mixtures in countries such as mine that have hot summers.</en>
+      <fr>Monsieur le Président, Monsieur le Commissaire, cette proposition, sous la forme telle <DiscourseConnective annotation_id="9262">qu'</DiscourseConnective>elle a été présentée par la Commission, était bonne, <DiscourseConnective annotation_id="9318">non seulement</DiscourseConnective> en raison des réductions des émissions de soufre, <Alignment alignment="11447" annotation_id="9382">
+          <DiscourseConnective annotation_id="9382" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+        </Alignment> de son nouvel article 7 bis, qui exigeait des fournisseurs qu'ils réduisent graduellement leur émissions de gaz à effet de serre, <Alignment alignment="7939" annotation_id="9523">
+          <DiscourseConnective annotation_id="9523" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="7943" annotation_id="9526">
+          <DiscourseConnective annotation_id="9526" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle résolvait le vieux problème de la pression de vapeur <DiscourseConnective annotation_id="9593">pour</DiscourseConnective> les mélanges d'essence et de bioéthanol dans les pays <DiscourseConnective annotation_id="9652">comme</DiscourseConnective> le mien qui connaissent des étés très chauds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8075" docOffset="62">
+      <en>This was filtered out in the vote in the Committee on the Environment, Public Health and Food Safety, to the concern of many of us.</en>
+      <fr>Le vote de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="9770">et</DiscourseConnective> de la sécurité alimentaire, a éliminé ces éléments, ce qui a inquiété bon nombre d'entre nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8207" docOffset="63">
+      <en>Today we have an agreement on the table which softens the application of Article 7a and restores the vapour pressure waiver, <Alignment alignment="10023" annotation_id="8332">
+          <DiscourseConnective annotation_id="8332" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> of course toughening the conditions for making use of the derogation.</en>
+      <fr>Aujourd'hui, un accord est sur la table. Cet accord assouplit l'application de l'article 7 bis <DiscourseConnective annotation_id="9963">et</DiscourseConnective> restaure la dérogation concernant la pression de vapeur, <Alignment alignment="8332" annotation_id="10023">
+          <DiscourseConnective annotation_id="10023" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> renforçant bien sûr les conditions <DiscourseConnective annotation_id="10066">pour</DiscourseConnective> utiliser cette dérogation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8408" docOffset="64">
+      <en>As with the rest of the climate change package, not everyone will find it wholly satisfactory, <Alignment alignment="10239" annotation_id="8503">
+          <DiscourseConnective annotation_id="8503" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is something that everyone can accept.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10098">Pour</DiscourseConnective> ce qui est des autres éléments du paquet relatif au changement climatique, tout le monde ne les trouvera pas <DiscourseConnective annotation_id="10212">globalement</DiscourseConnective> satisfaisants, <Alignment alignment="8503" annotation_id="10239">
+          <DiscourseConnective annotation_id="10239" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> tout le monde peut accepter ce paquet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8549" docOffset="65">
+      <en>I would like to thank Mrs Corbey for her excellent work and her receptiveness in solving problems, <DiscourseConnective annotation_id="8648" sense="Expansion.Conjunction">and</DiscourseConnective> I would <Alignment alignment="20611" annotation_id="8660">
+          <DiscourseConnective annotation_id="8660" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank Mr Turmes and, of course, the French Presidency, which has shown itself to be highly effective in this area as well.</en>
+      <fr>Je voudrais remercier Mme Corbey <DiscourseConnective annotation_id="10316">pour</DiscourseConnective> son excellent travail <DiscourseConnective annotation_id="10343">et</DiscourseConnective> son aptitude <DiscourseConnective annotation_id="10359">à</DiscourseConnective> résoudre les problèmes. Je voudrais <Alignment alignment="2979" annotation_id="10397">
+          <DiscourseConnective annotation_id="10397" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> remercier M. Turmes <DiscourseConnective annotation_id="10427">et</DiscourseConnective>, bien sûr, la Présidence française, qui s'est montrée très efficace dans ce dossier <DiscourseConnective annotation_id="10514">également</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8796" id="423" name="Marios Matsakis">
+    <ParallelChunk annotation_id="8796" docOffset="66">
+      <en>on behalf of the ALDE Group. - Mr President, many of us at last are beginning to realise that our planet is not indestructible <Alignment alignment="10712" annotation_id="8923">
+          <DiscourseConnective annotation_id="8923" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it <Alignment alignment="10679" annotation_id="8935">
+          <DiscourseConnective annotation_id="8935" sense="Expansion.Conjunction">indeed</DiscourseConnective>
+        </Alignment> has an expiry date which we humans, through our not so wise actions, are bringing drastically closer.</en>
+      <fr>au nom du groupe ALDE. - (EN) Monsieur le Président, beaucoup d'entre nous commencent <DiscourseConnective annotation_id="10611">enfin</DiscourseConnective> <DiscourseConnective annotation_id="10617">à</DiscourseConnective> réaliser <DiscourseConnective annotation_id="10628">que</DiscourseConnective> notre planète n'est pas indestructible, elle a <Alignment alignment="8935" annotation_id="10679">
+          <DiscourseConnective annotation_id="10679" sense="Expansion.Conjunction">en effet</DiscourseConnective>
+        </Alignment> une date de péremption, <Alignment alignment="8923" annotation_id="10712">
+          <DiscourseConnective annotation_id="10712" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10715">que</DiscourseConnective> nous, les humains, à cause de nos comportements pas très judicieux, contribuons à rapprocher dangereusement cette date.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9044" docOffset="67">
+      <en>There are of course still some doubting Thomases, not least in our own House, <Alignment alignment="37284" annotation_id="9122">
+          <DiscourseConnective annotation_id="9122" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the number is fast getting smaller, <DiscourseConnective annotation_id="9162" sense="Temporal.Synchrony">as</DiscourseConnective> they overcome the limitations of self-imposed extreme dogmatism, or free themselves from third-party, sometimes suspect, manipulations.</en>
+      <fr>Il y a bien sûr <DiscourseConnective annotation_id="10855">encore</DiscourseConnective> des sceptiques, <DiscourseConnective annotation_id="10878">en particulier</DiscourseConnective> dans ce Parlement, <Alignment alignment="9122" annotation_id="10912">
+          <DiscourseConnective annotation_id="10912" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> leur nombre diminue rapidement à mesure qu'ils dépassent les limites des dogmes extrêmes qu'ils se sont imposés <DiscourseConnective annotation_id="11029">ou</DiscourseConnective> se débarrassent de manipulations, parfois suspectes, de tiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9301" docOffset="68">
+      <en>The EU should be, and is, at the forefront of the fight to save our environment, <Alignment alignment="29090" annotation_id="9382">
+          <DiscourseConnective annotation_id="9382" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the series of pieces of legislation aiming at combating climate change which are currently being debated in Parliament are very welcome proof of this.</en>
+      <fr>L'UE devrait être, <DiscourseConnective annotation_id="11114">et</DiscourseConnective> elle l'est, <DiscourseConnective annotation_id="11129">à</DiscourseConnective> la tête de la lutte <DiscourseConnective annotation_id="11151">pour</DiscourseConnective> sauver notre environnement, <Alignment alignment="9382" annotation_id="11184">
+          <DiscourseConnective annotation_id="11184" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la série de textes législatifs visant <DiscourseConnective annotation_id="11225">à</DiscourseConnective> combattre le changement climatique qui fait actuellement l'objet de débats au Parlement en est une preuve bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9537" docOffset="69">
+      <en>
+        <Alignment alignment="10589" annotation_id="9537">
+          <DiscourseConnective annotation_id="9537" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> to be truly beneficial such legislatures must be substantive and be implemented effectively and in good time.</en>
+      <fr>
+        <Alignment alignment="9537" annotation_id="11344">
+          <DiscourseConnective annotation_id="11344" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11349">pour</DiscourseConnective> être vraiment utile, cette législation doit être concrète <DiscourseConnective annotation_id="11412">et</DiscourseConnective> être mise en œuvre de manière efficace <DiscourseConnective annotation_id="11454">et</DiscourseConnective> <DiscourseConnective annotation_id="11457">en</DiscourseConnective> temps utile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9651" docOffset="70">
+      <en>As always, some compromises have to be made <DiscourseConnective annotation_id="9695" sense="Expansion.Conjunction">and</DiscourseConnective> this has been the case <Alignment alignment="11543" annotation_id="9722">
+          <DiscourseConnective annotation_id="9722" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> with the Corbey report on monitoring and reduction of greenhouse gas emissions from fuels.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11473">Comme</DiscourseConnective> toujours, il convient de faire des compromis c'est ce qui s'est <Alignment alignment="9722" annotation_id="11543">
+          <DiscourseConnective annotation_id="11543" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> passé <DiscourseConnective annotation_id="11559">pour</DiscourseConnective> le rapport Corbey sur la surveillance <DiscourseConnective annotation_id="11602">et</DiscourseConnective> la réduction des émissions de gaz à effet de serre provenant de carburants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9818" docOffset="71">
+      <en>It has to be said that the rapporteur has put up a very enviable and sustained fight to counteract the watering-down effects of the Council positions <Alignment alignment="11835" annotation_id="9968">
+          <DiscourseConnective annotation_id="9968" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> to a large extent, I believe she has been successful.</en>
+      <fr>Il faut <DiscourseConnective annotation_id="11689">dire que</DiscourseConnective> la rapporteure s'est battue de manière très admirable <DiscourseConnective annotation_id="11752">et</DiscourseConnective> acharnée <DiscourseConnective annotation_id="11764">afin de</DiscourseConnective> neutraliser les effets affaiblissants des positions du Conseil <Alignment alignment="7776" annotation_id="11835">
+          <DiscourseConnective annotation_id="11835" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, dans l'ensemble, je pense qu'elle a réussi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10026" docOffset="72">
+      <en>For this achievement, I congratulate her.</en>
+      <fr>Je la félicite <DiscourseConnective annotation_id="11898">pour</DiscourseConnective> cette réussite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10068" docOffset="73">
+      <en>It has to be said <Alignment alignment="5332" annotation_id="10086">
+          <DiscourseConnective annotation_id="10086" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> that during the hard negotiations the rapporteur kept all shadows regularly and fully informed <DiscourseConnective annotation_id="10186" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="7782" annotation_id="10190">
+          <DiscourseConnective annotation_id="10190" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> the resulting cooperation was such that it gave Mrs Corbey a strong hand at the negotiating table.</en>
+      <fr>Je dois <Alignment alignment="8121" annotation_id="11927">
+          <DiscourseConnective annotation_id="11927" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11933">dire que</DiscourseConnective> pendant ces négociations difficiles, la rapporteure a régulièrement informé tous les rapporteurs fictifs en leur fournissant des informations complètes. <Alignment alignment="10190" annotation_id="12095">
+          <DiscourseConnective annotation_id="12095" sense="Contingency.Cause.Result">Ainsi</DiscourseConnective>
+        </Alignment>, cette coopération était telle <DiscourseConnective annotation_id="12132">qu'</DiscourseConnective>elle a permis à Mme Corbey de se faire entendre <DiscourseConnective annotation_id="12183">à</DiscourseConnective> la table des négociations</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10294" docOffset="74">
+      <en>The compromise package achieved deals, satisfactorily enough under the circumstances, on most controversial issues involved, such as biofuels, metallic additives and the sulphur content of some fuels, <Alignment alignment="12443" annotation_id="10495">
+          <DiscourseConnective annotation_id="10495" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> my group fully supports it.</en>
+      <fr>Le compromis a permis de parvenir à des accords, assez satisfaisants vu les circonstances, sur la plupart des questions controversées, <DiscourseConnective annotation_id="12346">comme</DiscourseConnective> les biocarburants, les additifs métalliques <DiscourseConnective annotation_id="12396">et</DiscourseConnective> le soufre contenu dans certains carburants, <Alignment alignment="10495" annotation_id="12443">
+          <DiscourseConnective annotation_id="12443" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> mon groupe y est totalement favorable.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10527" id="424" name="Neil Parish">
+    <ParallelChunk annotation_id="10527" docOffset="75">
+      <en>Mr President, first of all I would like to thank the rapporteur, Mrs Corbey, and the French presidency for their tremendous efforts in securing agreement on this ground-breaking dossier as part of the fight against climate change.</en>
+      <fr>(EN) Monsieur le Président, je voudrais <DiscourseConnective annotation_id="12525">premièrement</DiscourseConnective> remercier la rapporteure, Mme Corbey, <DiscourseConnective annotation_id="12576">et</DiscourseConnective> la Présidence française <DiscourseConnective annotation_id="12603">pour</DiscourseConnective> les efforts extraordinaires qu'ils ont réalisés <DiscourseConnective annotation_id="12656">pour</DiscourseConnective> garantir la conclusion d'un accord dans ce dossier innovant dans le cadre de la lutte contre le changement climatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10758" docOffset="76">
+      <en>I would <Alignment alignment="8265" annotation_id="10766">
+          <DiscourseConnective annotation_id="10766" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to pay tribute to Joseph Daul, whom I am replacing, for his hard work in drafting the opinion of the Committee on Agriculture and Rural Development on this Corbey report on fuel quality.</en>
+      <fr>Je voudrais <Alignment alignment="7572" annotation_id="12792">
+          <DiscourseConnective annotation_id="12792" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> rendre hommage <DiscourseConnective annotation_id="12817">à</DiscourseConnective> Joseph Daul, <DiscourseConnective annotation_id="12832">que</DiscourseConnective> je remplace, <DiscourseConnective annotation_id="12849">pour</DiscourseConnective> le travail difficile qu'il a réalisé <DiscourseConnective annotation_id="12891">pour</DiscourseConnective> rédiger l'avis de la commission de l'agriculture <DiscourseConnective annotation_id="12945">et</DiscourseConnective> du développement rural sur le rapport Corbey sur la qualité des carburants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10963" docOffset="77">
+      <en>Ultimately, the agreement reached on this report, <Alignment alignment="13933" annotation_id="11013">
+          <DiscourseConnective annotation_id="11013" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the closely linked Turmes report on renewable energy, are ones which we in the agricultural world can be very satisfied with.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13024">Enfin</DiscourseConnective>, l'accord atteint sur ce rapport <Alignment alignment="11013" annotation_id="13063">
+          <DiscourseConnective annotation_id="13063" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le rapport Turmes sur les énergies renouvelables qui y est étroitement lié sont des réussites dont nous pouvons être, dans le monde agricole, très satisfaits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11143" docOffset="78">
+      <en>I believe that there is a future for the sustainable biofuel industry <Alignment alignment="13289" annotation_id="11213">
+          <DiscourseConnective annotation_id="11213" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that these two directives provide the necessary legal framework for the industry to develop to allow in the future a transition to more second-generation biofuels.</en>
+      <fr>Je pense que l'industrie des biocarburants durables a un avenir <Alignment alignment="11213" annotation_id="13289">
+          <DiscourseConnective annotation_id="13289" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13292">que</DiscourseConnective> ces deux directives fournissent le cadre juridique nécessaire pour permettre à l'industrie de se développer et pour permettre l'adoption future de biocarburants de deuxième génération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11381" docOffset="79">
+      <en>I welcome the fact that we are now committed to a target of a 20% share of renewable energy in the EU overall energy mix.</en>
+      <fr>Je me réjouis <DiscourseConnective annotation_id="13495">que</DiscourseConnective> nous nous soyons <DiscourseConnective annotation_id="13516">maintenant</DiscourseConnective> engagés <DiscourseConnective annotation_id="13535">à</DiscourseConnective> ce que 20 % de l'ensemble de l'énergie de l'UE soit de l'énergie renouvelable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11503" docOffset="80">
+      <en>I very much welcome this report.</en>
+      <fr>Je suis très satisfait de ce rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11536" id="425" name="Claude Turmes">
+    <ParallelChunk annotation_id="11536" docOffset="81">
+      <en>Mr President, first my congratulations to Mrs Dorette Corbey.</en>
+      <fr>(EN) Monsieur le Président, <DiscourseConnective annotation_id="13682">premièrement</DiscourseConnective>, toutes mes félicitations <DiscourseConnective annotation_id="13721">à</DiscourseConnective> Mme Dorette Corbey.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11598" docOffset="82">
+      <en>It was crucial for me, <Alignment alignment="12564" annotation_id="11621">
+          <DiscourseConnective annotation_id="11621" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> rapporteur for the Renewables Directive, that we work closely together to get the sustainability criteria well enshrined, and enshrined in the same manner, in the two directives.</en>
+      <fr>Il était essentiel <DiscourseConnective annotation_id="13762">pour</DiscourseConnective> moi, en <Alignment alignment="11621" annotation_id="13775">
+          <DiscourseConnective annotation_id="13775" sense="Temporal.Synchrony">tant que</DiscourseConnective>
+        </Alignment> rapporteur <DiscourseConnective annotation_id="13795">pour</DiscourseConnective> la directive sur les énergies renouvelables, <DiscourseConnective annotation_id="13845">que</DiscourseConnective> nous collaborions étroitement <DiscourseConnective annotation_id="13879">afin que</DiscourseConnective> le critère de la durabilité soit bien sauvegardé <DiscourseConnective annotation_id="13937">et</DiscourseConnective> le soit <DiscourseConnective annotation_id="13948">de la même manière</DiscourseConnective> dans les deux directives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11803" docOffset="83">
+      <en>Thanks to Mrs Corbey's combativeness, we in the end ensured that in the Fuel Quality Directive there is full duplication now of all the details of the sustainability criteria <DiscourseConnective annotation_id="11978" sense="Expansion.Conjunction">and</DiscourseConnective> that is important for the readability and the visibility of EU legislation.</en>
+      <fr>Grâce <DiscourseConnective annotation_id="13999">à</DiscourseConnective> la combativité de Mme Corbey, nous avons <DiscourseConnective annotation_id="14042">finalement</DiscourseConnective> obtenu <DiscourseConnective annotation_id="14060">que</DiscourseConnective> la directive relative à la qualité des carburants comprenne <DiscourseConnective annotation_id="14124">maintenant</DiscourseConnective> elle aussi tous les détails du critère de durabilité. C'est important <DiscourseConnective annotation_id="14205">pour</DiscourseConnective> la lisibilité <DiscourseConnective annotation_id="14224">et</DiscourseConnective> la visibilité de la législation communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12058" docOffset="84">
+      <en>On this issue of sustainability criteria, I think we now have major improvements on what the Commission proposed.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14274">En</DiscourseConnective> ce qui concerne ce critère de durabilité, je pense que nous avons contribué à apporter des améliorations considérables <DiscourseConnective annotation_id="14396">à</DiscourseConnective> la proposition de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12172" docOffset="85">
+      <en>The carbon footprint is now very well defined, not only for direct but also for indirect land use.</en>
+      <fr>L'empreinte carbonique est <DiscourseConnective annotation_id="14458">maintenant</DiscourseConnective> très bien définie, tant <DiscourseConnective annotation_id="14493">pour</DiscourseConnective> l'affectation directe des sols, que <DiscourseConnective annotation_id="14534">pour</DiscourseConnective> l'affectation indirecte des sols.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12271" docOffset="86">
+      <en>That is crucial for the future.</en>
+      <fr>C'est essentiel <DiscourseConnective annotation_id="14589">pour</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12303" docOffset="87">
+      <en>I think we have <Alignment alignment="14622" annotation_id="12319">
+          <DiscourseConnective annotation_id="12319" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> made sure that environment and energy experts - DG TRAN and DG ENVI at Commission level, but <Alignment alignment="14745" annotation_id="12417">
+          <DiscourseConnective annotation_id="12417" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> at the national level experts from the environmental and energy sectors - will work together on these sustainability criteria, <Alignment alignment="13628" annotation_id="12549">
+          <DiscourseConnective annotation_id="12549" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that too is crucial.</en>
+      <fr>Je pense que nous <Alignment alignment="12319" annotation_id="14622">
+          <DiscourseConnective annotation_id="14622" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> garanti <DiscourseConnective annotation_id="14640">que</DiscourseConnective> les spécialistes de l'environnement <DiscourseConnective annotation_id="14680">et</DiscourseConnective> de l'énergie - DG TRAN <DiscourseConnective annotation_id="14706">et</DiscourseConnective> DG ENVI au niveau de la Commission, <Alignment alignment="12417" annotation_id="14745">
+          <DiscourseConnective annotation_id="14745" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+        </Alignment> les experts des secteurs de l'environnement <DiscourseConnective annotation_id="14800">et</DiscourseConnective> de l'énergie au niveau national - collaborent sur ce critère de la durabilité <Alignment alignment="11785" annotation_id="14881">
+          <DiscourseConnective annotation_id="14881" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cela <DiscourseConnective annotation_id="14889">aussi</DiscourseConnective> est crucial.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12574" id="426" name="Kathy Sinnott">
+    <ParallelChunk annotation_id="12574" docOffset="88">
+      <en>Mr President, much attention is currently being focused on the technology side of mitigating the effects of climate change through the development of alternative fuels.</en>
+      <fr>(EN) Monsieur le Président, on accorde actuellement beaucoup d'attention <DiscourseConnective annotation_id="14981">à</DiscourseConnective> l'aspect technologique de l'atténuation des effets du changement climatique par le développement de carburants alternatifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12743" docOffset="89">
+      <en>I express my congratulations on this effort and would like to contribute to this debate.</en>
+      <fr>Je suis reconnaissante de ces efforts <DiscourseConnective annotation_id="15145">et</DiscourseConnective> souhaiterais apporter ma contribution <DiscourseConnective annotation_id="15186">à</DiscourseConnective> ce débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12832" docOffset="90">
+      <en>I would like to call attention to algae oil, which can be converted to a fuel as a replacement for fossil fuel oil.</en>
+      <fr>Je voudrais attirer l'attention sur l'huile d'algues, qui peut être transformée <DiscourseConnective annotation_id="15278">en</DiscourseConnective> combustible <DiscourseConnective annotation_id="15293">pour</DiscourseConnective> remplacer les combustibles fossiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12948" docOffset="91">
+      <en>It can be considered a win-win type of fuel <Alignment alignment="15456" annotation_id="12992">
+          <DiscourseConnective annotation_id="12992" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it absorbs CO2 throughout its production <Alignment alignment="9586" annotation_id="13041">
+          <DiscourseConnective annotation_id="13041" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> making it a carbon positive source of energy.</en>
+      <fr>Elle peut être considérée comme un type de carburant très bénéfique tant pour l'environnement que pour les êtres humains <Alignment alignment="12992" annotation_id="15456">
+          <DiscourseConnective annotation_id="15456" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle absorbe le CO2 au fur et à mesure qu'il est produit, ce qui en fait <Alignment alignment="13041" annotation_id="15538">
+          <DiscourseConnective annotation_id="15538" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> une source d'énergie n'émettant pas de carbone.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13097" docOffset="92">
+      <en>What is more, contrary to increasingly controversial biofuels, it does not displace food production.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15591">En outre</DiscourseConnective>, contrairement aux biocarburants qui sont de plus <DiscourseConnective annotation_id="15650">en plus</DiscourseConnective> controversés, elle ne remplace pas la production de nourriture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13198" docOffset="93">
+      <en>
+        <Alignment alignment="15722" annotation_id="13198">
+          <DiscourseConnective annotation_id="13198" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, it can be grown in natural ponds or artificial structures.</en>
+      <fr>
+        <Alignment alignment="13198" annotation_id="15722">
+          <DiscourseConnective annotation_id="15722" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, les algues peuvent être cultivées dans des étangs naturels <DiscourseConnective annotation_id="15791">ou</DiscourseConnective> dans des structures artificielles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13265" docOffset="94">
+      <en>It is <DiscourseConnective annotation_id="13271" sense="Expansion.Conjunction">also</DiscourseConnective> win-win <Alignment alignment="12411" annotation_id="13284">
+          <DiscourseConnective annotation_id="13284" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is particularly suitable for production in coastal communities, where the trouble in the fishing industry is making it necessary for us to find new industries.</en>
+      <fr>Elle n'a que des aspects positifs: <Alignment alignment="13284" annotation_id="15864">
+          <DiscourseConnective annotation_id="15864" sense="Contingency.Cause.Reason">en effet</DiscourseConnective>
+        </Alignment>, elle est aussi particulièrement adaptée <DiscourseConnective annotation_id="15914">pour</DiscourseConnective> la production dans les communautés côtières, où les problèmes de l'industrie de la pêche exigent <DiscourseConnective annotation_id="16016">que</DiscourseConnective> nous trouvions de nouvelles industries.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13455" docOffset="95">
+      <en>Given these facts, I urge the Commission to take algae oil very seriously.</en>
+      <fr>Pour toutes ces raisons, je demande vivement à la Commission de considérer l'huile d'algues très sérieusement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13530" docOffset="96">
+      <en>It <Alignment alignment="11335" annotation_id="13533">
+          <DiscourseConnective annotation_id="13533" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> has the advantage of being a high-energy, low-weight fuel and one of the few that promises to be able to replace rocket fuel and air fuels.</en>
+      <fr>Elle a <Alignment alignment="13533" annotation_id="16178">
+          <DiscourseConnective annotation_id="16178" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> l'avantage d'être un carburant très énergétique et léger <DiscourseConnective annotation_id="16245">et</DiscourseConnective> l'un des rares carburants susceptibles de remplacer le propergol <DiscourseConnective annotation_id="16313">et</DiscourseConnective> les carburants d'avion.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13678" id="427" language="NL" name="Dorette Corbey">
+    <ParallelChunk annotation_id="13678" docOffset="97">
+      <en>Mr President, representatives of the Commission and Council, ladies and gentlemen, thank you for your kind words.</en>
+      <fr>Monsieur le Président, Messieurs les représentants de la Commission <DiscourseConnective annotation_id="16408">et</DiscourseConnective> du Conseil, Mesdames <DiscourseConnective annotation_id="16432">et</DiscourseConnective> Messieurs, merci <DiscourseConnective annotation_id="16452">pour</DiscourseConnective> vos aimables attentions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13792" docOffset="98">
+      <en>I truly believe that the good working relationship we have enjoyed with each other is responsible for the outcome.</en>
+      <fr>Je suis convaincue <DiscourseConnective annotation_id="16501">que</DiscourseConnective> la bonne relation de travail que nous avons eue les uns avec les autres explique les résultats que nous avons atteints.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13907" docOffset="99">
+      <en>Only <DiscourseConnective annotation_id="13912" sense="Contingency.Condition">if</DiscourseConnective> we join forces can we be strong, <Alignment alignment="17675" annotation_id="13948">
+          <DiscourseConnective annotation_id="13948" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it worked in this case.</en>
+      <fr>Ce n'est qu'en unissant nos forces que nous pouvons être forts <Alignment alignment="301" annotation_id="16688">
+          <DiscourseConnective annotation_id="16688" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cela a dans ce cas-ci fonctionné.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13976" docOffset="100">
+      <en>It is crucial for the fuel quality directive to be viewed in the context of the whole climate package.</en>
+      <fr>Il est essentiel de considérer la directive relative <DiscourseConnective annotation_id="16778">à</DiscourseConnective> la qualité des carburants dans le contexte plus général du paquet sur le changement climatique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14079" docOffset="101">
+      <en>First of all, the Turmes report is important in this context, of course, with the renewable energy directive.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16876">Premièrement</DiscourseConnective>, le rapport Turmes est important dans ce contexte ainsi que, bien sûr, la directive sur les énergies renouvelables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14189" docOffset="102">
+      <en>We share the same sustainability criteria which, to my mind, will make a vital contribution worldwide.</en>
+      <fr>Nous partageons le <DiscourseConnective annotation_id="17024">même</DiscourseConnective> critère de la durabilité qui, selon moi, apportera une contribution essentielle au monde entier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14292" docOffset="103">
+      <en>It is extremely important, in my view, that tomorrow we should be laying this down together.</en>
+      <fr>Il est extrêmement important, d'après moi, <DiscourseConnective annotation_id="17169">que</DiscourseConnective> demain nous le fixions ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14385" docOffset="104">
+      <en>I share Mrs Sinnott's enthusiasm as regards algae oil.</en>
+      <fr>Je partage l'enthousiasme de Mme Sinnott <DiscourseConnective annotation_id="17247">à propos</DiscourseConnective> de l'huile d'algues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14440" docOffset="105">
+      <en>I am, <Alignment alignment="770" annotation_id="14446">
+          <Alignment alignment="17285" annotation_id="14446">
+            <DiscourseConnective annotation_id="14446" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, just as thrilled about it <DiscourseConnective annotation_id="14481" sense="Temporal.Synchrony">as</DiscourseConnective> she is.</en>
+      <fr>Je suis <Alignment alignment="14446" annotation_id="17285">
+          <Alignment alignment="14446" annotation_id="17285">
+            <DiscourseConnective annotation_id="17285" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> tout <DiscourseConnective annotation_id="17298">aussi</DiscourseConnective> passionnée par ce sujet qu'elle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14492" docOffset="106">
+      <en>The beauty of this fuel quality directive is that it is precisely the new technologies that are given an enormous boost, which can be a real incentive for the development of algae technology.</en>
+      <fr>Ce qui est formidable dans la directive relative à la qualité des carburants c'est <DiscourseConnective annotation_id="17420">qu'</DiscourseConnective>elle donne <DiscourseConnective annotation_id="17434">précisément</DiscourseConnective> une énorme impulsion aux nouvelles technologies, ce qui peut constituer un véritable encouragement <DiscourseConnective annotation_id="17545">pour</DiscourseConnective> le développement de la technologie basée sur les algues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14684" docOffset="107">
+      <en>In principle, during the production of algae oil, there is far less CO2 involved, <Alignment alignment="17675" annotation_id="14766">
+          <DiscourseConnective annotation_id="14766" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is why it is so attractive for oil companies and others to invest in precisely these technologies.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17607">En</DiscourseConnective> principe, la production d'huile d'algues utilise très peu de CO2 <Alignment alignment="4855" annotation_id="17675">
+          <DiscourseConnective annotation_id="17675" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17678">c'est pourquoi</DiscourseConnective> cela est <DiscourseConnective annotation_id="17702">si</DiscourseConnective> intéressant <DiscourseConnective annotation_id="17717">pour</DiscourseConnective> les sociétés pétrolières <DiscourseConnective annotation_id="17747">et</DiscourseConnective> d'autres secteurs d'investir dans ces technologies-ci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14874" docOffset="108">
+      <en>In the context of the climate package, it is <Alignment alignment="685" annotation_id="14919">
+          <DiscourseConnective annotation_id="14919" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> extremely important for a link to be made with the next report, the Sacconi report on new passenger cars.</en>
+      <fr>Dans le contexte du changement climatique, il est <Alignment alignment="3124" annotation_id="17855">
+          <DiscourseConnective annotation_id="17855" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> extrêmement important de faire le lien avec le rapport suivant, le rapport Sacconi sur les voitures particulières neuves.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15030" docOffset="109">
+      <en>We have specifically fought for electricity to be included in this directive.</en>
+      <fr>Nous nous sommes spécifiquement battus <DiscourseConnective annotation_id="18022">pour que</DiscourseConnective> l'électricité <DiscourseConnective annotation_id="18045">soit</DiscourseConnective> incluse dans cette directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15108" docOffset="110">
+      <en>Electric cars are the future.</en>
+      <fr>Les voitures électriques sont l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15138" docOffset="111">
+      <en>Electricity in road transport is many times more efficient than the use of petrol or diesel.</en>
+      <fr>L'électricité dans le secteur du transport routier est bien plus efficace <DiscourseConnective annotation_id="18194">que</DiscourseConnective> l'essence <DiscourseConnective annotation_id="18208">ou</DiscourseConnective> le diesel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15231" docOffset="112">
+      <en>We should <Alignment alignment="19223" annotation_id="15241">
+          <DiscourseConnective annotation_id="15241" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> really move towards this.</en>
+      <fr>Nous devrions <Alignment alignment="15241" annotation_id="18236">
+          <DiscourseConnective annotation_id="18236" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> prendre des mesures <DiscourseConnective annotation_id="18265">en ce sens</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15277" docOffset="113">
+      <en>I notice that Mr Sacconi's report contains a number of incentives in that direction, <Alignment alignment="18383" annotation_id="15362">
+          <DiscourseConnective annotation_id="15362" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this is how we can solve the chicken and egg dilemma.</en>
+      <fr>Je <DiscourseConnective annotation_id="18280">remarque</DiscourseConnective> <DiscourseConnective annotation_id="18289">que</DiscourseConnective> le rapport de M. Sacconi contient un certain nombre de mesures d'encouragement <DiscourseConnective annotation_id="18372">en ce sens</DiscourseConnective> <Alignment alignment="15362" annotation_id="18383">
+          <DiscourseConnective annotation_id="18383" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="18386">c'est ainsi que</DiscourseConnective> nous pourrons résoudre le paradoxe de l'œuf <DiscourseConnective annotation_id="18446">et</DiscourseConnective> de la poule.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15420" docOffset="114">
+      <en>The right incentives must be given to both the car sector and the fuel sector in order to truly achieve cleaner road transport and cleaner fuels.</en>
+      <fr>Des mesures d'encouragement appropriées doivent être proposées aussi bien au secteur automobile <DiscourseConnective annotation_id="18558">qu'</DiscourseConnective>au secteur des carburants <DiscourseConnective annotation_id="18587">afin que</DiscourseConnective> le transport routier <DiscourseConnective annotation_id="18617">et</DiscourseConnective> les carburants soient vraiment plus propres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15566" docOffset="115">
+      <en>I hope that, with these components of the transport climate package, we can, in any event, make a positive contribution towards reducing greenhouse gas emissions.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="18674">que</DiscourseConnective>, grâce à ces éléments du paquet transport-climat, nous pourrons, <DiscourseConnective annotation_id="18743">en tout cas</DiscourseConnective>, contribuer de manière positive <DiscourseConnective annotation_id="18787">à</DiscourseConnective> réduire les émissions de gaz à effet de serre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15729" docOffset="116">
+      <en>I should once again like to thank everyone for their cooperation.</en>
+      <fr>Je voudrais une nouvelle fois remercier toutes les personnes concernées <DiscourseConnective annotation_id="18908">pour</DiscourseConnective> leur coopération.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15795" id="428" name="President">
+    <ParallelChunk annotation_id="15795" docOffset="117">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15817" docOffset="118">
+      <en>The vote will take place on Wednesday 17 December 2008.</en>
+      <fr>Le vote aura lieu mercredi 17 décembre 2008.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

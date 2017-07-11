@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>30.</en>
+    <fr>30.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Discharge 2005: Section III, Commission (vote)</en>
+    <fr>Décharge 2005: Section III, Commission (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="51" docOffset="2">
+    <en>- Report: Garriga Polledo</en>
+    <fr>Rapport Garriga Polledo</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="77" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="74">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="96" id="160" name="Salvador Garriga Polledo ">
+    <ParallelChunk annotation_id="96" docOffset="4">
+      <en>rapporteur. - (ES) Mr President, I would like to table an oral amendment intended to remove two footnotes in paragraphs 37 and 108 of the report, on pages 16 and 25 of the English version.</en>
+      <fr>rapporteur. - (ES) Monsieur le Président, je voudrais déposer un amendement oral <DiscourseConnective annotation_id="169">dans le but de</DiscourseConnective> supprimer deux notes de bas de page dans les paragraphes 37 <DiscourseConnective annotation_id="244">et</DiscourseConnective> 108 du rapport, aux pages 16 <DiscourseConnective annotation_id="276">et</DiscourseConnective> 25 de la version anglaise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="285" docOffset="5">
+      <en>This is <Alignment alignment="306" annotation_id="293">
+          <DiscourseConnective annotation_id="293" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> both footnotes are redundant and contribute nothing to the report.</en>
+      <fr>
+        <Alignment alignment="502" annotation_id="306">
+          <DiscourseConnective annotation_id="306" sense="Contingency.Cause.Reason">En effet</DiscourseConnective>
+        </Alignment>, les deux notes de bas de page sont redondantes <DiscourseConnective annotation_id="363">et</DiscourseConnective> n'apportent rien au rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="368" docOffset="6">
+      <en>I would call upon all of the groups in the House to accept this oral amendment, please.</en>
+      <fr>Je voudrais demander <DiscourseConnective annotation_id="416">à</DiscourseConnective> tous les groupes du Parlement d'adopter cet amendement oral.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="456" docOffset="7">
+      <en>(The oral amendments were accepted)</en>
+      <fr>(Les amendements oraux sont adoptés)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Verification of credentials</en>
+    <fr>Vérification des pouvoirs</fr>
+  </ParallelChunk>
+<Speaker annotation_id="28" id="086" name="President">
+    <ParallelChunk annotation_id="28" docOffset="1">
+      <en>The next item is the verification of credentials of new Members of the European Parliament.</en>
+      <fr>L'ordre du jour appelle la vérification des pouvoirs des nouveaux députés du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="120" docOffset="2">
+      <en>Mr Gargani will be presenting an oral report on the matter, on behalf of the Committee on Legal Affairs.</en>
+      <fr>M. Gargani va présenter un rapport oral sur la question, au nom de la commission des affaires juridiques.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="225" id="087" language="IT" name="Giuseppe Gargani">
+    <ParallelChunk annotation_id="225" docOffset="3">
+      <en>Mr President, ladies and gentlemen, according to the Rules of Procedure the European Parliament must verify the credentials and rule on the validity of the mandate of its newly elected Members.</en>
+      <fr>Monsieur le Président, Mesdames <DiscourseConnective annotation_id="261">et</DiscourseConnective> Messieurs, selon le règlement, le Parlement européen doit vérifier les pouvoirs <DiscourseConnective annotation_id="344">et</DiscourseConnective> statuer sur la validité du mandat de ses députés nouvellement élus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="419" docOffset="4">
+      <en>During its meeting of 25 February, the committee verified the credentials of 35 Romanian MEPs designated by the competent authorities.</en>
+      <fr>Lors de sa réunion du 25 février, la commission a vérifié les pouvoirs de 35 eurodéputés roumains désignés par les autorités compétentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="554" docOffset="5">
+      <en>To these names should be added three more designated by their respective national authorities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="553">À</DiscourseConnective> ces noms devraient <DiscourseConnective annotation_id="574">s'</DiscourseConnective>ajouter trois autres, désignés par leurs autorités nationales respectives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="649" docOffset="6">
+      <en>In view of the large number of verifications to be carried out and the constraints on time, it was considered appropriate for the Committee on Legal Affairs, and therefore its Chairman, to present an oral report to Parliament.</en>
+      <fr>Au vu du grand nombre de vérifications <DiscourseConnective annotation_id="690">à</DiscourseConnective> effectuer <DiscourseConnective annotation_id="702">et</DiscourseConnective> des contraintes de temps, il a été jugé bon <DiscourseConnective annotation_id="749">que</DiscourseConnective> la commission des affaires juridiques, <DiscourseConnective annotation_id="792">et</DiscourseConnective> <DiscourseConnective annotation_id="795">donc</DiscourseConnective> son président, présente un rapport oral au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="876" docOffset="7">
+      <en>
+        <Alignment alignment="854" annotation_id="876">
+          <DiscourseConnective annotation_id="876" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> the Committee has recorded that everything is in order, Parliament may ratify all the mandates.</en>
+      <fr>
+        <Alignment alignment="876" annotation_id="854">
+          <DiscourseConnective annotation_id="854" sense="Contingency.Cause.Reason">Étant donné que</DiscourseConnective>
+        </Alignment> la commission a constaté <DiscourseConnective annotation_id="895">que</DiscourseConnective> tout était <DiscourseConnective annotation_id="910">en</DiscourseConnective> ordre, le Parlement peut ratifier tous les mandats.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="978" id="088" name="President">
+    <ParallelChunk annotation_id="978" docOffset="8">
+      <en>The mandates are hereby ratified.</en>
+      <fr>Les mandats sont ratifiés.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

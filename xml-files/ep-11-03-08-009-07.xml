@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>7.</en>
+    <fr>7.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Reducing health inequalities (</en>
+    <fr>Réduction des inégalités dans le domaine de la santé (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="34" id="146" name="Margrete Auken">
+    <ParallelChunk annotation_id="34" docOffset="2">
+      <en>(DA) Madam President, I would like to address the Danes in particular.</en>
+      <fr>(DA) Madame la Présidente, je voudrais m'adresser aux Danois <DiscourseConnective annotation_id="119">en particulier</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="105" docOffset="3">
+      <en>In the Danish translation, the word 'equitable' has been translated as 'ligelig'. This is not a good translation <Alignment alignment="231" annotation_id="218">
+          <DiscourseConnective annotation_id="218" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> people will <DiscourseConnective annotation_id="238" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> think that it means 'uniform'.</en>
+      <fr>Dans la traduction danoise, le mot "équitable" a été traduit par "ligelig", ce qui est inexact, <Alignment alignment="218" annotation_id="231">
+          <DiscourseConnective annotation_id="231" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> cette traduction suppose une notion d'"uniforme".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="274" docOffset="4">
+      <en>
+        <Alignment alignment="1080" annotation_id="274">
+          <DiscourseConnective annotation_id="274" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, in the final report, the word 'retfærdig', meaning 'equitable', will be used.</en>
+      <fr>
+        <Alignment alignment="3" annotation_id="285">
+          <DiscourseConnective annotation_id="285" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, dans le rapport final, c'est le mot "retfærdig", "équitable", qui sera utilisé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="358" docOffset="5">
+      <en>It has a different meaning, <Alignment alignment="743" annotation_id="386">
+          <DiscourseConnective annotation_id="386" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I will, of course, recommend that all of our colleagues in the Danish delegation - and perhaps the Swedes have the same problem - vote in favour of the word being corrected in the report.</en>
+      <fr>Le sens est différent <Alignment alignment="3" annotation_id="403">
+          <DiscourseConnective annotation_id="403" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je conseille <DiscourseConnective annotation_id="419">à</DiscourseConnective> tous mes collègues de la délégation danoise - le problème se pose <DiscourseConnective annotation_id="487">d'ailleurs</DiscourseConnective> peut-être aussi aux Suédois - de voter <DiscourseConnective annotation_id="537">pour</DiscourseConnective> la version corrigée du rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

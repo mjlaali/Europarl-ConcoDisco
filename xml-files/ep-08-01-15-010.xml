@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time (continuation)</en>
+    <fr>Heure des votes (suite)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="110" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>The next item is voting time.</en>
+      <fr>Le point suivant est l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="57" docOffset="2">
+      <en>(For results and other details of the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="65">Pour</DiscourseConnective> les résultats <DiscourseConnective annotation_id="84">et</DiscourseConnective> autres détails, voir le procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="114" id="111" name="Graham Booth">
+    <ParallelChunk annotation_id="114" docOffset="3">
+      <en>Mr President, very briefly, I do not think you actually followed the Rules of Procedure correctly during the earlier voting session.</en>
+      <fr>(EN) Monsieur le Président, je pense que vous n'avez pas suivi correctement le règlement lors de la session de vote de tout à l'heure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="247" docOffset="4">
+      <en>You said 'the voting is now open', <Alignment alignment="307" annotation_id="282">
+          <DiscourseConnective annotation_id="282" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> you did not ask 'have all Members voted?' <Alignment alignment="369" annotation_id="328">
+          <DiscourseConnective annotation_id="328" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> saying 'the voting is closed', <Alignment alignment="273378" annotation_id="366">
+          <DiscourseConnective annotation_id="366" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you did not read out the results.</en>
+      <fr>Vous avez dit "le vote est à présent ouvert", <Alignment alignment="282" annotation_id="307">
+          <DiscourseConnective annotation_id="307" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> vous n'avez pas demandé "tous les députés ont-ils voté?" <Alignment alignment="328" annotation_id="369">
+          <DiscourseConnective annotation_id="369" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> dire "le vote est clos" <Alignment alignment="366" annotation_id="402">
+          <DiscourseConnective annotation_id="402" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous n'avez pas donné lecture des résultats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="404" docOffset="5">
+      <en>I think you were out of order.</en>
+      <fr>Je pense que vous avez enfreint le règlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="435" id="112" name="President">
+    <ParallelChunk annotation_id="435" docOffset="6">
+      <en>Mr Booth, the result of the vote is on the screen.</en>
+      <fr>Monsieur Booth, le <DiscourseConnective annotation_id="515">résultat</DiscourseConnective> du vote est affiché sur l'écran.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="486" docOffset="7">
+      <en>
+        <Alignment alignment="557" annotation_id="486">
+          <DiscourseConnective annotation_id="486" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you have asked for all today's votes to be roll-call votes, that is what we are doing; what I am trying to do is to make this form of voting as painless as possible for the House, <Alignment alignment="283079" annotation_id="669">
+          <DiscourseConnective annotation_id="669" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> that is all right with you, Mr Booth.</en>
+      <fr>
+        <Alignment alignment="110" annotation_id="557">
+          <DiscourseConnective annotation_id="557" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous avez demandé <DiscourseConnective annotation_id="581">que</DiscourseConnective> tous les votes d'aujourd'hui se déroulent par appel nominal, c'est ce que nous faisons. Ce que j'essaie de faire, c'est de rendre ce type de vote le moins douloureux possible <DiscourseConnective annotation_id="760">pour</DiscourseConnective> le Parlement, <Alignment alignment="669" annotation_id="779">
+          <DiscourseConnective annotation_id="779" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> cela ne vous dérange pas, Monsieur Booth.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

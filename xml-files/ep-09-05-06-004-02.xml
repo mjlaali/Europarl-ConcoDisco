@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Number of interparliamentary delegations, delegations to joint interparliamentary committees and delegations to parliamentary cooperation committees and multilateral parliamentary assemblies (</en>
+    <fr>Nombre des délégations interparlementaires, des délégations aux commissions parlementaires mixtes <DiscourseConnective annotation_id="101">et</DiscourseConnective> des délégations aux commissions de coopération parlementaire <DiscourseConnective annotation_id="165">et</DiscourseConnective> aux assemblées parlementaires multilatérales (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="196" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="217">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="215" id="108" language="FR" name="Francis Wurtz">
+    <ParallelChunk annotation_id="215" docOffset="3">
+      <en>Madam President, ladies and gentlemen, my group would like a separate vote on the last indent of paragraph 1(a), entitled, and I quote: 'Delegation for relations with Albania, Bosnia-Herzegovina, Serbia, Montenegro and Kosovo'. In our opinion, this represents de facto recognition of the existence of Kosovo, which we find unacceptable.</en>
+      <fr>au nom du groupe GUE/NGL. - Madame la Présidente, chers collègues, mon groupe souhaiterait un vote séparé sur le paragraphe 1, point a, dernier alinéa, intitulé, je cite: "Delegation for relations with Albania, Bosnia Herzegovina, Serbia, Montenegro and Kosovo", ce qui, <DiscourseConnective annotation_id="502">à</DiscourseConnective> nos yeux, représenterait une reconnaissance <DiscourseConnective annotation_id="548">de fait</DiscourseConnective> du Kosovo, ce qui, selon nous, est inacceptable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="552" docOffset="4">
+      <en>I would <Alignment alignment="621" annotation_id="560">
+          <DiscourseConnective annotation_id="560" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like us to be able to vote separately on this paragraph.</en>
+      <fr>Je souhaiterais <Alignment alignment="560" annotation_id="621">
+          <DiscourseConnective annotation_id="621" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> qu'on puisse voter séparément sur ce paragraphe.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="627" id="109" name="President">
+    <ParallelChunk annotation_id="627" docOffset="5">
+      <en>The request is outside the deadline, but <Alignment alignment="710" annotation_id="668">
+          <DiscourseConnective annotation_id="668" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is accepted...</en>
+      <fr>Cette demande est hors délai, <DiscourseConnective annotation_id="705">mais</DiscourseConnective> <Alignment alignment="75" annotation_id="710">
+          <DiscourseConnective annotation_id="710" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> elle est acceptée...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="689" docOffset="6">
+      <en>Are there any objections?</en>
+      <fr>Y a-t-il des objections?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="715" id="110" name="Bernd Posselt">
+    <ParallelChunk annotation_id="715" docOffset="7">
+      <en>on behalf of the PPE-DE Group. - (DE) Madam President, I have serious objections.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Madame la Présidente, j'émets de sérieuses objections.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="797" docOffset="8">
+      <en>This House voted in favour of the independence of Kosovo by a three-quarters majority, <Alignment alignment="936" annotation_id="884">
+          <DiscourseConnective annotation_id="884" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> did the Commission and almost all the Member States.</en>
+      <fr>Ce Parlement a voté <DiscourseConnective annotation_id="866">en</DiscourseConnective> faveur de l'indépendance du Kosovo <DiscourseConnective annotation_id="904">à</DiscourseConnective> la majorité des trois quarts, <Alignment alignment="261" annotation_id="936">
+          <DiscourseConnective annotation_id="936" sense="Temporal.Synchrony">tout comme</DiscourseConnective>
+        </Alignment> l'a fait la Commission <DiscourseConnective annotation_id="970">et</DiscourseConnective> presque tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="940" docOffset="9">
+      <en>I find this unacceptable.</en>
+      <fr>Je trouve cette demande inacceptable.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

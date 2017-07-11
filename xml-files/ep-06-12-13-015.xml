@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="312" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I would like to inform you that we have with us in the official gallery Mr Ranko Krivokapic, President of the Parliament of the Republic of Montenegro, and Mrs Gordana Djurovic, Deputy Prime Minister for European Integration.</en>
+      <fr>Je voudrais vous informer <DiscourseConnective annotation_id="48">que</DiscourseConnective> nous comptons aujourd'hui avec la présence, de M. Ranko Krivokapic, président du parlement de la République de Monténégro, <DiscourseConnective annotation_id="175">et</DiscourseConnective> de Mme Gordana Djurovic, vice-Premier ministre <DiscourseConnective annotation_id="225">pour</DiscourseConnective> l'intégration européenne, qui ont pris place dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="234" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="245" docOffset="3">
+      <en>
+        <Alignment alignment="322" annotation_id="245">
+          <DiscourseConnective annotation_id="245" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you know, the first interparliamentary meeting between the European Parliament <Alignment alignment="410" annotation_id="327">
+          <DiscourseConnective annotation_id="327" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> Montenegro is being held today, <Alignment alignment="449" annotation_id="363">
+          <DiscourseConnective annotation_id="363" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we wish our guests the very best of luck at the meetings being held with us here in Parliament.</en>
+      <fr>
+        <Alignment alignment="245" annotation_id="322">
+          <DiscourseConnective annotation_id="322" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, la première réunion interparlementaire entre le Parlement européen <Alignment alignment="327" annotation_id="410">
+          <DiscourseConnective annotation_id="410" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le Monténégro se tient aujourd'hui, <Alignment alignment="363" annotation_id="449">
+          <DiscourseConnective annotation_id="449" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous souhaitons bonne chance à nos invités lors des réunions qu'ils auront avec nous au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="463" docOffset="4">
+      <en>Thank you for attending our sitting.</en>
+      <fr>Merci d'assister à notre séance.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

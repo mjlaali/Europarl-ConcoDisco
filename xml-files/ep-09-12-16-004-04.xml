@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Prospects for the Doha Development Agenda following the Seventh WTO Ministerial Conference (vote)</en>
+    <fr>Perspectives du programme de Doha <DiscourseConnective annotation_id="37">pour</DiscourseConnective> le développement à la suite de la Septième Conférence ministérielle de l'OMC (vote)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="101" id="093" name="Harlem Désir">
+    <ParallelChunk annotation_id="101" docOffset="2">
+      <en>(FR) Mr President, I just wanted to say that, <Alignment alignment="235" annotation_id="147">
+          <DiscourseConnective annotation_id="147" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> I understand our fellow Member Mr Papastamkos's amendment correctly, it is about recalling the commitment made in Hong Kong by all the WTO members to abolish export subsidies.</en>
+      <fr>Monsieur le Président, je voulais juste <DiscourseConnective annotation_id="166">dire que</DiscourseConnective>, <Alignment alignment="125" annotation_id="176">
+          <DiscourseConnective annotation_id="176" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> je comprends bien l'amendement de notre collègue, M. Papastamkos, il <DiscourseConnective annotation_id="248">s'</DiscourseConnective>agit de rappeler l'engagement pris <DiscourseConnective annotation_id="285">à</DiscourseConnective> Hong Kong par tous les membres de l'OMC de supprimer les subventions à l'exportation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="326" docOffset="3">
+      <en>
+        <Alignment alignment="135449" annotation_id="326">
+          <DiscourseConnective annotation_id="326" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, contrary to a mistake made on our voting papers, the Group of the Progressive Alliance of Socialists and Democrats in the European Parliament does <DiscourseConnective annotation_id="484" sense="Expansion.Conjunction">indeed</DiscourseConnective> endorse this amendment.</en>
+      <fr>
+        <Alignment alignment="326" annotation_id="373">
+          <DiscourseConnective annotation_id="373" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, contrairement <DiscourseConnective annotation_id="393">à</DiscourseConnective> une erreur mentionnée sur nos feuilles de vote, le groupe socialiste soutient bien cet amendement.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

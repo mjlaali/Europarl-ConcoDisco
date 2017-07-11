@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="069" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I should like to adjourn the debate a moment to announce that today in the visitors' gallery we have Professor Dagmar Lieblová, President of Theresienstadt Martyrs Remembrance Association, from the Czech Republic, whom we welcome.</en>
+      <fr>J'interromps le débat <DiscourseConnective annotation_id="44">pour</DiscourseConnective> vous annoncer <DiscourseConnective annotation_id="63">que</DiscourseConnective> nous accueillons aujourd'hui dans la tribune officielle le professeur Dagmar Lieblová, présidente de l'association des rescapés du camp de concentration de Theresienstadt, en République tchèque. Soyez la bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="239" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="250" docOffset="3">
+      <en>Professor Lieblová is in Strasbourg accompanied by 28 students from Prague and Hamburg, who have worked together on a two-year project researching the transfer of Czech forced labourers from Hamburg to Theresienstadt concentration camp.</en>
+      <fr>Le professeur Lieblová est venue <DiscourseConnective annotation_id="334">à</DiscourseConnective> Strasbourg en compagnie de 28 étudiants de Prague <DiscourseConnective annotation_id="386">et</DiscourseConnective> d'Hambourg, qui ont collaboré pendant deux ans à un projet de recherche sur le transfert de travailleurs tchèques d'Hambourg vers le camp de concentration de Theresienstadt.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="487" docOffset="4">
+      <en>She is visiting our Parliament at the invitation of our Vice-President, Mr Rouček, and of Mr Fleckenstein, <Alignment alignment="650" annotation_id="594">
+          <DiscourseConnective annotation_id="594" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> her project has been awarded a European prize.</en>
+      <fr>Elle est ici <DiscourseConnective annotation_id="576">à</DiscourseConnective> l'invitation de notre vice-président, M. Rouček, <DiscourseConnective annotation_id="627">et</DiscourseConnective> de M. Fleckenstein, <Alignment alignment="59" annotation_id="650">
+          <DiscourseConnective annotation_id="650" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> son projet s'est vu décerner un prix européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="645" docOffset="5">
+      <en>Thanks very much to Professor Lieblová and her students for their major contribution to furthering our understanding of European history, and for their commitment to the moral values that inspire the Union.</en>
+      <fr>J'adresse mes plus sincères remerciements <DiscourseConnective annotation_id="742">à</DiscourseConnective> Mme Lieblová <DiscourseConnective annotation_id="757">et</DiscourseConnective> à ses étudiants <DiscourseConnective annotation_id="776">pour</DiscourseConnective> leur importante contribution <DiscourseConnective annotation_id="810">à</DiscourseConnective> notre connaissance de l'histoire européenne <DiscourseConnective annotation_id="856">et</DiscourseConnective> <DiscourseConnective annotation_id="859">pour</DiscourseConnective> leur engagement <DiscourseConnective annotation_id="880">en</DiscourseConnective> faveur des valeurs morales qui fondent l'Union.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

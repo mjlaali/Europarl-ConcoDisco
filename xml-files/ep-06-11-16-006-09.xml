@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>9.</en>
+    <fr>9.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Ombudsman's 2005 annual report (vote)</en>
+    <fr>Rapport annuel du Médiateur (2005) (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="41" docOffset="2">
+    <en>- before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="45">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="60" id="096" name="Andreas Schwab ">
+    <ParallelChunk annotation_id="60" docOffset="3">
+      <en>rapporteur. - (DE) Mr President, I would like to raise a point of order.</en>
+      <fr>rapporteur. - (DE) Monsieur le Président, je voudrais présenter une motion de procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="133" docOffset="4">
+      <en>This morning, we discussed with the European Ombudsman the question of what powers he possessed to monitor EPSO, the European personnel agency, <DiscourseConnective annotation_id="277" sense="Expansion.Conjunction">and</DiscourseConnective> he confirmed that he exercises such functions by virtue of his office.</en>
+      <fr>Ce matin, nous avons abordé avec le médiateur européen la question de ses compétences concernant le contrôle d'EPSO, l'Office européen de sélection du personnel. Il m'a confirmé <DiscourseConnective annotation_id="326">que</DiscourseConnective> son poste lui conférait de telles prérogatives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="352" docOffset="5">
+      <en>I would <Alignment alignment="390" annotation_id="360">
+          <DiscourseConnective annotation_id="360" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like to make a request of the Members with whom we debated this morning, namely that we should agree to adopt Mrs Panayotopoulos-Cassiotou's Amendment 1 on the grounds that it confirms what the European Ombudsman said.</en>
+      <fr>Je voudrais <Alignment alignment="360" annotation_id="390">
+          <DiscourseConnective annotation_id="390" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> soumettre une demande des députés avec qui nous avons débattu ce matin, qui souhaitent que <DiscourseConnective annotation_id="490">soit</DiscourseConnective> adopté l'amendement 1 de Mme Panayotopoulos-Cassiotou <DiscourseConnective annotation_id="549">au motif qu'</DiscourseConnective>il confirme les propos tenus par le médiateur européen.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

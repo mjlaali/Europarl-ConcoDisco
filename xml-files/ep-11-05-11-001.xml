@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<Speaker annotation_id="23" id="004" name="President">
+    <ParallelChunk annotation_id="23" docOffset="1">
+      <en>Ladies and gentlemen, I would like to apologise for the delay.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="32">et</DiscourseConnective> Messieurs, je voudrais m'excuser <DiscourseConnective annotation_id="68">pour</DiscourseConnective> le retard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="86" docOffset="2">
+      <en>There was a very exciting and interesting discussion between President Barroso, Commissioner Lewandowski and the leaders of the political groups, <Alignment alignment="235" annotation_id="232">
+          <DiscourseConnective annotation_id="232" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> we are a few minutes late.</en>
+      <fr>Une discussion aussi captivante <DiscourseConnective annotation_id="116">qu'</DiscourseConnective>intéressante avait lieu entre le président Barroso, le commissaire Lewandowski <DiscourseConnective annotation_id="198">et</DiscourseConnective> les chefs des groupes politiques, <Alignment alignment="232" annotation_id="235">
+          <DiscourseConnective annotation_id="235" sense="Contingency.Cause.Result">et</DiscourseConnective>
+        </Alignment> nous avons donc quelques minutes de retard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="262" docOffset="3">
+      <en>There is now a very important discussion ahead of us <Alignment alignment="346" annotation_id="315">
+          <DiscourseConnective annotation_id="315" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to invite you to this discussion.</en>
+      <fr>Un débat très important nous attend à présent, <Alignment alignment="196" annotation_id="329">
+          <DiscourseConnective annotation_id="329" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'aimerais vous inviter <DiscourseConnective annotation_id="356">à</DiscourseConnective> y prendre part.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

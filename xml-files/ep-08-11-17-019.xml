@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="044" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, It is my great pleasure to welcome to the gallery a group of former members of the first freely elected parliament of the GDR.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, j'ai le grand plaisir d'accueillir dans la galerie un groupe d'anciens députés du premier parlement librement élu de RDA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="157" docOffset="2">
+      <en>This Parliament entered the history books <Alignment alignment="206" annotation_id="199">
+          <DiscourseConnective annotation_id="199" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it resolved to reunify Germany, and <Alignment alignment="255" annotation_id="240">
+          <DiscourseConnective annotation_id="240" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> dissolved itself shortly <Alignment alignment="115106" annotation_id="270">
+          <DiscourseConnective annotation_id="270" sense="Temporal.Asynchronous.Precedence">afterwards</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Ce parlement est entré dans l'histoire <Alignment alignment="291" annotation_id="206">
+          <DiscourseConnective annotation_id="206" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> prenant la décision de réunifier l'Allemagne, <Alignment alignment="240" annotation_id="255">
+          <DiscourseConnective annotation_id="255" sense="Temporal.Asynchronous.Precedence">puis</DiscourseConnective>
+        </Alignment> de se dissoudre lui-même très peu de temps <Alignment alignment="4" annotation_id="303">
+          <DiscourseConnective annotation_id="303" sense="Temporal.Asynchronous.Precedence">après</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="282" docOffset="3">
+      <en>The delegation is headed by the President of the Volkskammer at that time, Dr Sabine Bergmann-Pohl.</en>
+      <fr>La délégation est conduite par la présidente de la Volkskammer de l'époque, Mme Sabine Bergmann-Pohl.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="382" docOffset="4">
+      <en>A very warm welcome to the European Parliament.</en>
+      <fr>Soyez les très bienvenus au Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="430" docOffset="5">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>13.</en>
+    <fr>13.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>2009 progress report on Croatia (</en>
+    <fr>Rapport de suivi 2009 concernant la Croatie (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="38" docOffset="2">
+    <en>Before the vote on Amendment 35:</en>
+    <fr>
+      <DiscourseConnective annotation_id="50">Avant</DiscourseConnective> le vote sur l'amendement 35</fr>
+  </ParallelChunk>
+<Speaker annotation_id="71" id="163" language="DE" name="Hannes Swoboda">
+    <ParallelChunk annotation_id="71" docOffset="3">
+      <en>Mr President, <Alignment alignment="87870" annotation_id="85">
+          <DiscourseConnective annotation_id="85" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> discussing this with Mrs Brantner from the Group of the Greens/European Free Alliance, I would like to recommend voting in favour of the first part and against the second, contrary to the list which we have drawn up.</en>
+      <fr>Monsieur le Président, <Alignment alignment="16" annotation_id="107">
+          <DiscourseConnective annotation_id="107" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> en avoir discuté avec Mme Brantner du groupe Verts/Alliance libre européenne, je voudrais recommander de voter <DiscourseConnective annotation_id="224">pour</DiscourseConnective> la première partie <DiscourseConnective annotation_id="248">et</DiscourseConnective> contre la seconde, contrairement <DiscourseConnective annotation_id="284">à</DiscourseConnective> ce qui a été indiqué dans notre liste.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

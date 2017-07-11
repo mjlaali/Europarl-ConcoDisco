@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Pakistan: murder of the Governor of Punjab, Salmaan Taseer (</en>
+    <fr>Pakistan: assassinat du gouverneur du Pendjab, Salman Taseer (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="64" id="401" name="Marietje Schaake">
+    <ParallelChunk annotation_id="64" docOffset="2">
+      <en>Mr President, very briefly: the new text in paragraph 8 should be added after the appeal at the end of the paragraph, <Alignment alignment="1101" annotation_id="182">
+          <DiscourseConnective annotation_id="182" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> in paragraph 17 it was agreed to delete 'ratify fully and without' and replace it by 'withdraw the reservations on'.</en>
+      <fr>(EN) Monsieur le Président, très brièvement: le nouveau texte au paragraphe 8 devrait être ajouté <DiscourseConnective annotation_id="164">après</DiscourseConnective> l'appel, <DiscourseConnective annotation_id="179">à</DiscourseConnective> la fin du paragraphe; <Alignment alignment="182" annotation_id="203">
+          <DiscourseConnective annotation_id="203" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> au paragraphe 17, il a été convenu de supprimer "ratifier pleinement <DiscourseConnective annotation_id="275">et</DiscourseConnective> <DiscourseConnective annotation_id="278">sans</DiscourseConnective> réserve" <DiscourseConnective annotation_id="292">et</DiscourseConnective> de le remplacer par "retirer ses réserves sur".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="303" docOffset="3">
+      <en>These are simply factual changes to the text.</en>
+      <fr>Il ne s'agit que de modifications factuelles du texte.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="349" id="403" name="Charles Tannock">
+    <ParallelChunk annotation_id="349" docOffset="4">
+      <en>Mr President, I would like to change paragraph 14 to the following: 'Reiterates its call to the government of Pakistan to carry out a thoroughgoing review of the blasphemy laws and their current application, including the mandatory death penalty or life imprisonment prescribed by Section 295 C of the Pakistan Penal Code for anyone found guilty of blasphemy against the prophet Mohammed, with a view to implementing amendments <DiscourseConnective annotation_id="777" sense="Temporal.Synchrony">as</DiscourseConnective> suggested by the Federal Minister for Minority Affairs'.</en>
+      <fr>(EN) Monsieur le Président, je voudrais changer le paragraphe 14 comme suit: "invite une nouvelle fois le gouvernement du Pakistan <DiscourseConnective annotation_id="529">à</DiscourseConnective> revoir en profondeur les lois sur le blasphème <DiscourseConnective annotation_id="578">et</DiscourseConnective> leur application actuelle, y compris la peine de mort obligatoire <DiscourseConnective annotation_id="647">ou</DiscourseConnective> la prison à vie prescrits par la section 295-C du code pénal pakistanais <DiscourseConnective annotation_id="723">pour</DiscourseConnective> toute personne reconnue coupable de blasphème contre le prophète Mohammed, <DiscourseConnective annotation_id="803">en vue d'</DiscourseConnective>apporter les amendements proposés par le ministère fédéral chargé des questions des minorités".</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

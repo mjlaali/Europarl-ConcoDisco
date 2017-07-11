@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>6.</en>
+    <fr>6.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>2008 discharge: EU general budget, Council (</en>
+    <fr>Décharge 2008: budget général de l'UE, Conseil (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="48" docOffset="2">
+    <en>After the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="54">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="64" id="118" language="PL" name="Ryszard Czarnecki">
+    <ParallelChunk annotation_id="64" docOffset="3">
+      <en>It might be said we are in a significantly better position than last year, <Alignment alignment="170" annotation_id="139">
+          <DiscourseConnective annotation_id="139" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="147" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> we did not grant discharge until November.</en>
+      <fr>Il convient de signaler que nous nous trouvons dans une bien meilleure position <DiscourseConnective annotation_id="148">que</DiscourseConnective> l'année dernière, <Alignment alignment="139" annotation_id="170">
+          <DiscourseConnective annotation_id="170" sense="Contingency.Cause.Reason">puisqu'</DiscourseConnective>
+        </Alignment>à l'époque, nous n'avions pu octroyer une décharge <DiscourseConnective annotation_id="228">avant</DiscourseConnective> le mois de novembre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="195" docOffset="4">
+      <en>This time, we have the opportunity to do this six months earlier, <Alignment alignment="1345" annotation_id="261">
+          <DiscourseConnective annotation_id="261" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> it should be said very clearly that Parliament finally has to convince the Council, firstly, to submit documents earlier, and secondly, to submit full documentation which really does cover the reporting period in question.</en>
+      <fr>Cette fois, nous avons l'occasion de le faire six mois plus tôt, <Alignment alignment="0" annotation_id="320">
+          <DiscourseConnective annotation_id="320" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> le Parlement doit <DiscourseConnective annotation_id="346">encore</DiscourseConnective> convaincre le Conseil, <DiscourseConnective annotation_id="376">premièrement</DiscourseConnective>, de présenter les documents plus tôt <DiscourseConnective annotation_id="426">et</DiscourseConnective>, <DiscourseConnective annotation_id="430">deuxièmement</DiscourseConnective>, de fournir l'ensemble des documents concernant la période de rapport concernée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="493" docOffset="5">
+      <en>We have been given, <Alignment alignment="541" annotation_id="513">
+          <DiscourseConnective annotation_id="513" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, documents from the year before.</en>
+      <fr>Nous avons reçu, <Alignment alignment="513" annotation_id="541">
+          <DiscourseConnective annotation_id="541" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, les documents de l'année précédente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="558" docOffset="6">
+      <en>I think this situation - one of a certain crisis in relations between Parliament and the Council - points to the need for the European Parliament to put greater pressure on the Council concerning greater transparency over budgetary expenditure.</en>
+      <fr>Je pense que cette situation - qui reflète un certain état de crise dans les relations entre le Parlement <DiscourseConnective annotation_id="697">et</DiscourseConnective> le Conseil - souligne la nécessité, <DiscourseConnective annotation_id="736">pour</DiscourseConnective> le Parlement européen, d'exercer une pression plus forte sur le Conseil afin que celui-ci fasse preuve d'une plus grande transparence en matière de dépenses budgétaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="803" docOffset="7">
+      <en>In view of the Treaty of Lisbon <DiscourseConnective annotation_id="835" sense="Expansion.Restatement">in particular</DiscourseConnective>, which increases the role of the European Parliament, this is simply indispensable.</en>
+      <fr>Cela est d'autant plus indispensable <DiscourseConnective annotation_id="948">à</DiscourseConnective> la lumière du traité de Lisbonne, qui renforce le rôle du Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

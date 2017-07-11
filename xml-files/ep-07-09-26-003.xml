@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="072" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I would like to welcome His Holiness Satguru Baba Ji and his delegation, who are seated in the official gallery.</en>
+      <fr>Je voudrais souhaiter la bienvenue à Sa Sainteté Satguru Baba Ji <DiscourseConnective annotation_id="87">et</DiscourseConnective> sa délégation, qui ont pris place dans la Tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="121" docOffset="2">
+      <en>His Holiness is the spiritual leader of the Sant Nirankari Mission, <Alignment alignment="213" annotation_id="189">
+          <DiscourseConnective annotation_id="189" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> known as the Universal Brotherhood.</en>
+      <fr>Sa Sainteté est le leader spirituel de la Mission Nirankari, <Alignment alignment="665" annotation_id="213">
+          <DiscourseConnective annotation_id="213" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> connu <DiscourseConnective annotation_id="225">comme</DiscourseConnective> la Fraternité universelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="230" docOffset="3">
+      <en>The Mission is founded on the belief that true religion unites, never divides.</en>
+      <fr>Cette Mission est fondée sur la croyance <DiscourseConnective annotation_id="299">que</DiscourseConnective> la véritable religion unit et ne divise jamais.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="309" docOffset="4">
+      <en>His Holiness is visiting Europe and spreading the Mission's message of humanity as the only religion.</en>
+      <fr>Sa Sainteté est en visite en Europe <DiscourseConnective annotation_id="387">et</DiscourseConnective> diffuse le message d'humanité de la Mission <DiscourseConnective annotation_id="434">comme</DiscourseConnective> seule religion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="411" docOffset="5">
+      <en>His visit to Parliament today and his meeting with President Pöttering are part of his current mission to build harmony and understanding between cultures and religions.</en>
+      <fr>Sa visite au Parlement aujourd'hui <DiscourseConnective annotation_id="491">et</DiscourseConnective> sa rencontre avec le Président Pöttering entrent dans le cadre de son actuelle mission qui est d'œuvrer à l'harmonie <DiscourseConnective annotation_id="611">et</DiscourseConnective> à la compréhension entre les cultures <DiscourseConnective annotation_id="652">et</DiscourseConnective> les religions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="581" docOffset="6">
+      <en>We welcome him <Alignment alignment="208021" annotation_id="596">
+          <DiscourseConnective annotation_id="596" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> wish him every success.</en>
+      <fr>Nous lui souhaitons la bienvenue <Alignment alignment="596" annotation_id="703">
+          <DiscourseConnective annotation_id="703" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> tout le succès voulu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="624" docOffset="7">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

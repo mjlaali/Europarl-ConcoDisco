@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="040" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I welcome to our official gallery a delegation from the European Affairs Committee of the Polish Parliament, headed by Mr Andrzej Grzyb, Chairman of the Committee.</en>
+      <fr>(DE) J'accueille chaleureusement <DiscourseConnective annotation_id="55">à</DiscourseConnective> la tribune une délégation de la commission des affaires européennes du Parlement polonais, présidée par M. Andrzej Grzyb.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="172" docOffset="2">
+      <en>The delegation is on a three-day fact-finding visit to the European Parliament, <Alignment alignment="259" annotation_id="252">
+          <DiscourseConnective annotation_id="252" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I had the pleasure of meeting its members yesterday.</en>
+      <fr>La délégation effectue une visite d'étude de trois jours au Parlement européen, <Alignment alignment="252" annotation_id="259">
+          <DiscourseConnective annotation_id="259" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai eu le plaisir de rencontrer ses membres hier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="309" docOffset="3">
+      <en>I bid you all a warm welcome.</en>
+      <fr>Je vous souhaite la bienvenue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="339" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

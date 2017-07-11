@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>24.</en>
+    <fr>24.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Situation in Bosnia and Herzegovina</en>
+    <fr>Situation <DiscourseConnective annotation_id="14">en</DiscourseConnective> Bosnie-et-Herzégovine</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="40" docOffset="2">
+    <en>After the vote on Amendment 3</en>
+    <fr>- <DiscourseConnective annotation_id="41">Après</DiscourseConnective> le vote sur l'amendement 3</fr>
+  </ParallelChunk>
+<Speaker annotation_id="70" id="152" name="Doris Pack">
+    <ParallelChunk annotation_id="70" docOffset="3">
+      <en>(DE) Madam President, I would like to ask whether you realise that, in Article 6, the word 'central' before the word state needs to be deleted to make the wording consistent with the other texts.</en>
+      <fr>(DE) Madame la Présidente, je souhaite vous demander <DiscourseConnective annotation_id="127">si</DiscourseConnective> vous êtes bien consciente <DiscourseConnective annotation_id="156">du fait qu'</DiscourseConnective>à l'article 6, le terme "central" <DiscourseConnective annotation_id="201">après</DiscourseConnective> "l'État" doit être supprimé <DiscourseConnective annotation_id="235">afin de</DiscourseConnective> garantir la cohérence de la formulation par rapport aux autres textes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="266" id="153" name="President">
+    <ParallelChunk annotation_id="266" docOffset="4">
+      <en>Yes, yes, we are definitely going to check all of the language versions, Mrs Pack.</en>
+      <fr>Oui, oui, nous allons absolument vérifier toutes les versions linguistiques, Madame Pack.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

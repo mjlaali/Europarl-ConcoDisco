@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>European statistics (debate)</en>
+    <fr>Statistiques européennes (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="29" id="407" name="President">
+    <ParallelChunk annotation_id="29" docOffset="1">
+      <en>The next item is the report by Mr A. Schwab, on behalf of the Committee on Economic and Monetary Affairs, on the proposal for a regulation of the European Parliament and of the Council on European Statistics - C6-0346/2007 -.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Schwab, au nom de la commission des affaires économiques <DiscourseConnective annotation_id="131">et</DiscourseConnective> monétaires, sur la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="200">et</DiscourseConnective> du Conseil relatif aux statistiques européennes - C6-0346/2007 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="255" id="408" name="Andreas Schwab">
+    <ParallelChunk annotation_id="255" docOffset="2">
+      <en>rapporteur. - (DE) Mr President, Commissioner, firstly, I am sorry to see Commissioner McCreevy leaving the Chamber <Alignment alignment="27855" annotation_id="371">
+          <DiscourseConnective annotation_id="371" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> with this dossier he could have experienced the conclusion of a very successful and relatively lengthy procedure with the European Parliament.</en>
+      <fr>rapporteur. - (DE) Monsieur le Président, Monsieur le Commissaire, <DiscourseConnective annotation_id="336">tout d'abord</DiscourseConnective>, je regrette <DiscourseConnective annotation_id="362">que</DiscourseConnective> le commissaire McCreevy nous quitte déjà, <Alignment alignment="371" annotation_id="408">
+          <DiscourseConnective annotation_id="408" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment>, avec ce dossier, il aurait pu assister à la conclusion d'une procédure relativement longue <DiscourseConnective annotation_id="504">mais</DiscourseConnective> très fructueuse avec le Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="517" docOffset="3">
+      <en>This experience is now reserved for you, Commissioner Almunia.</en>
+      <fr>Ce privilège vous est <DiscourseConnective annotation_id="575">donc</DiscourseConnective> réservé, Monsieur Almunia.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="580" docOffset="4">
+      <en>I am pleased that today we can bring a successful, lengthy process to its conclusion at first reading, with a large degree of consensus.</en>
+      <fr>Je me félicite <DiscourseConnective annotation_id="622">que</DiscourseConnective> nous soyons aujourd'hui en mesure d'achever une procédure longue, mais fructueuse en première lecture, et avec un large consensus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="717" docOffset="5">
+      <en>To begin with, I would <Alignment alignment="8864" annotation_id="740">
+          <DiscourseConnective annotation_id="740" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> - in contrast to the previous dossier - like to thank the Slovenian and French Presidencies of the Council for the sustained and sometimes difficult negotiations that you have conducted in order to reach a compromise.</en>
+      <fr>
+        <DiscourseConnective annotation_id="757">Pour commencer</DiscourseConnective>, je voudrais <Alignment alignment="740" annotation_id="785">
+          <DiscourseConnective annotation_id="785" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> - <DiscourseConnective annotation_id="797">en</DiscourseConnective> contraste avec le dossier précédent - remercier les présidences slovène <DiscourseConnective annotation_id="872">et</DiscourseConnective> française du Conseil <DiscourseConnective annotation_id="896">pour</DiscourseConnective> les négociations soutenues <DiscourseConnective annotation_id="928">et</DiscourseConnective> parfois difficiles <DiscourseConnective annotation_id="950">que</DiscourseConnective> vous avez menées <DiscourseConnective annotation_id="971">afin de</DiscourseConnective> trouver un compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="963" docOffset="6">
+      <en>This dossier <Alignment alignment="1048" annotation_id="976">
+          <DiscourseConnective annotation_id="976" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> involves reducing the administrative burden with regard to statistics within the European Union, as well as for companies at local level.</en>
+      <fr>Le dossier qui nous occupe maintenant implique <Alignment alignment="976" annotation_id="1048">
+          <DiscourseConnective annotation_id="1048" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de réduire la charge administrative <DiscourseConnective annotation_id="1094">en</DiscourseConnective> ce qui concerne les statistiques au sein de l'Union européenne, <DiscourseConnective annotation_id="1161">ainsi</DiscourseConnective> que <DiscourseConnective annotation_id="1171">pour</DiscourseConnective> les sociétés au niveau local.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1119" docOffset="7">
+      <en>
+        <Alignment alignment="1215" annotation_id="1119">
+          <DiscourseConnective annotation_id="1119" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> I believe that we can put this report in the context of reducing bureaucracy.</en>
+      <fr>Je pense <Alignment alignment="1119" annotation_id="1215">
+          <DiscourseConnective annotation_id="1215" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1220">que</DiscourseConnective> nous pouvons placer ce rapport dans le contexte de la réduction de la bureaucratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1207" docOffset="8">
+      <en>In Germany, <Alignment alignment="1322" annotation_id="1219">
+          <DiscourseConnective annotation_id="1219" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, the proportion of costs for official statistics is, according to calculations by the Deutsches Institut für Wirtschaftsforschung (German Institute for Economic Research), less than 10% of total bureaucratic costs <Alignment alignment="1570" annotation_id="1445">
+          <DiscourseConnective annotation_id="1445" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> analysing the entire economy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1308">En</DiscourseConnective> Allemagne, <Alignment alignment="1219" annotation_id="1322">
+          <DiscourseConnective annotation_id="1322" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, les coûts relatifs aux statistiques officielles <DiscourseConnective annotation_id="1383">s'</DiscourseConnective>élèvent, selon les calculs effectués par le Deutsches Institut für Wirtschaftsforschung (l'Institut allemand de recherche économique), <DiscourseConnective annotation_id="1520">à moins de</DiscourseConnective> 10 % du <DiscourseConnective annotation_id="1539">total</DiscourseConnective> des coûts administratifs <Alignment alignment="1445" annotation_id="1570">
+          <DiscourseConnective annotation_id="1570" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>on analyse l'ensemble de l'économie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1480" docOffset="9">
+      <en>This is approximately EUR 230 million.</en>
+      <fr>Cela représente environ 230 millions d'euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1519" docOffset="10">
+      <en>
+        <Alignment alignment="16821" annotation_id="1519">
+          <DiscourseConnective annotation_id="1519" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we, as the European Union, really can take this situation in hand, I believe that we will make an important step towards less bureaucracy by reducing statistics-based obligations.</en>
+      <fr>
+        <Alignment alignment="1519" annotation_id="1660">
+          <DiscourseConnective annotation_id="1660" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> l'Union européenne parvient <DiscourseConnective annotation_id="1691">effectivement</DiscourseConnective> à prendre les choses <DiscourseConnective annotation_id="1726">en</DiscourseConnective> main, je pense <DiscourseConnective annotation_id="1744">que</DiscourseConnective> nous pourrons réaliser un pas important vers moins de bureaucratie <DiscourseConnective annotation_id="1815">en</DiscourseConnective> réduisant les obligations liées aux statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1702" docOffset="11">
+      <en>Thank you, Commissioner Almunia, for your proposal.</en>
+      <fr>Merci, Monsieur le Commissaire, <DiscourseConnective annotation_id="1900">pour</DiscourseConnective> votre proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1754" docOffset="12">
+      <en>Now I would like to discuss the new regulation on European statistics specifically.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="1936">maintenant</DiscourseConnective> discuter du nouveau règlement relatif aux statistiques européennes à proprement parler.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1838" docOffset="13">
+      <en>The regulation on European statistics represents the legal structure for producing statistics at European level and revises the existing basic legal framework for producing statistics at European level.</en>
+      <fr>Ce règlement constitue le fondement juridique de la collecte de statistiques au niveau européen <DiscourseConnective annotation_id="2131">et</DiscourseConnective> remanie l'actuel cadre juridique de base régissant la production de statistiques à l'échelon de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2041" docOffset="14">
+      <en>Even <Alignment alignment="2250" annotation_id="2046">
+          <DiscourseConnective annotation_id="2046" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> the shadow rapporteurs from the other Groups are not present this evening, I would still like to take this opportunity to thank you for the constructive cooperation.</en>
+      <fr>
+        <Alignment alignment="2046" annotation_id="2250">
+          <DiscourseConnective annotation_id="2250" sense="Comparison.Contrast">Bien que</DiscourseConnective>
+        </Alignment> les rapporteurs fictifs des autres groupes ne soient pas présents ce soir, je voudrais <DiscourseConnective annotation_id="2346">tout de même</DiscourseConnective> profiter de cette occasion <DiscourseConnective annotation_id="2386">pour</DiscourseConnective> les remercier de leur coopération constructive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2219" docOffset="15">
+      <en>The discussions were not easy <Alignment alignment="14784" annotation_id="2249">
+          <DiscourseConnective annotation_id="2249" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they proved successful in the end.</en>
+      <fr>Nos discussions n'ont pas toujours été faciles, <Alignment alignment="2249" annotation_id="2487">
+          <DiscourseConnective annotation_id="2487" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> elles se sont <DiscourseConnective annotation_id="2506">finalement</DiscourseConnective> avérées payantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2288" docOffset="16">
+      <en>The proposal is part of a whole series of regulations which the Commission has adopted in the current legislative term in connection with producing and distributing statistics <Alignment alignment="2738" annotation_id="2464">
+          <DiscourseConnective annotation_id="2464" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which were debated in the Committee on Economic and Monetary Affairs.</en>
+      <fr>La proposition <DiscourseConnective annotation_id="2550">s'</DiscourseConnective>inscrit dans le cadre d'une série de règlements adoptés par la Commission au cours de la législature actuelle, qui étaient tous liés <DiscourseConnective annotation_id="2685">à</DiscourseConnective> la production <DiscourseConnective annotation_id="2701">et</DiscourseConnective> à la distribution de statistiques <Alignment alignment="2464" annotation_id="2738">
+          <DiscourseConnective annotation_id="2738" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui ont été débattus au sein de la commission des affaires économiques <DiscourseConnective annotation_id="2812">et</DiscourseConnective> monétaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2538" docOffset="17">
+      <en>We will make the following changes to the contents of this regulation proposal.</en>
+      <fr>En ce qui concerne le contenu de cette proposition de règlement, nous apporterons les changements suivants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2618" docOffset="18">
+      <en>We will redefine the European statistical system and fix its activities within Community law.</en>
+      <fr>Nous redéfinirons le système statistique européen <DiscourseConnective annotation_id="2985">et</DiscourseConnective> intégrerons ses activités dans le droit communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2712" docOffset="19">
+      <en>We will define the role of the national statistical offices within the European statistical system, <Alignment alignment="10741" annotation_id="2812">
+          <DiscourseConnective annotation_id="2812" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> at the same time ensuring that the subsidiarity principle continues to be fully applied in the Member States, <Alignment alignment="22211" annotation_id="2928">
+          <DiscourseConnective annotation_id="2928" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> is prescribed, <DiscourseConnective annotation_id="2946" sense="Expansion.Conjunction">and</DiscourseConnective> we will strive for reference to the European Statistics Code of Practice and its entrenchment in Community law.</en>
+      <fr>Nous définirons le rôle des instituts nationaux de statistique au sein du système statistique européen, <Alignment alignment="2812" annotation_id="3147">
+          <DiscourseConnective annotation_id="3147" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> garantissant la pleine application du principe de subsidiarité dans les États membres, <Alignment alignment="2928" annotation_id="3242">
+          <DiscourseConnective annotation_id="3242" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> prescrit. Nous nous efforcerons également de mentionner <DiscourseConnective annotation_id="3304">et</DiscourseConnective> d'ancrer le code de bonnes pratiques de la statistique européenne dans le droit communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3062" docOffset="20">
+      <en>In this respect, a response is being made to the difficult situation concerning statistics after the introduction of the euro in some of the Member States of the European Union.</en>
+      <fr>Nous répondrons ainsi <DiscourseConnective annotation_id="3424">à</DiscourseConnective> la situation difficile que nous rencontrons en matière de statistiques <DiscourseConnective annotation_id="3497">depuis</DiscourseConnective> l'introduction de l'euro dans certains États membres de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3240" docOffset="21">
+      <en>Finally, the proposal sets up two different bodies - an ESS Partnership Group and an ESS Committee - which together replace the former Statistical Programme Committee.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3580">Enfin</DiscourseConnective>, la proposition prévoit la création de deux instances différentes - un Groupe de partenariat du SSE <DiscourseConnective annotation_id="3686">et</DiscourseConnective> un comité SSE - afin de remplacer l'actuel comité du programme statistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3408" docOffset="22">
+      <en>The clear-cut committee vote and a successful trialogue prove that coherent legislation has been achieved.</en>
+      <fr>Le vote tranché en commission <DiscourseConnective annotation_id="3795">et</DiscourseConnective> la réussite du trilogue prouvent <DiscourseConnective annotation_id="3831">que</DiscourseConnective> nous sommes parvenus à élaborer une législation cohérente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3515" docOffset="23">
+      <en>In the minutes that remain, I would like to present this legislative project once again in connection with two important issues.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3894">Puisqu'</DiscourseConnective>il me reste quelques minutes, j'aimerais présenter à nouveau ce projet législatif <DiscourseConnective annotation_id="3983">en</DiscourseConnective> connexion avec deux questions importantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3644" docOffset="24">
+      <en>We have been able to ensure that, in the future, this regulation will enable Eurostat to gain faster, unrestricted access to all the statistical data which is required to collect important economic criteria.</en>
+      <fr>Nous avons pu veiller <DiscourseConnective annotation_id="4051">à</DiscourseConnective> ce <DiscourseConnective annotation_id="4056">qu'</DiscourseConnective>à l'avenir, ce règlement permette à Eurostat d'obtenir un accès plus rapide et illimité <DiscourseConnective annotation_id="4147">à</DiscourseConnective> toutes les données statistiques dont il a besoin <DiscourseConnective annotation_id="4198">pour</DiscourseConnective> collecter d'importants critères économiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3852" docOffset="25">
+      <en>In this way, we will provide a bit more transparency for statistics at European level and <Alignment alignment="9938" annotation_id="3942">
+          <DiscourseConnective annotation_id="3942" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> make the euro area that bit more competitive.</en>
+      <fr>Nous contribuerons <Alignment alignment="4190" annotation_id="4267">
+          <DiscourseConnective annotation_id="4267" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="4273">à</DiscourseConnective> rendre les statistiques au niveau européen un peu plus transparentes et la zone euro un peu plus compétitive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3998" docOffset="26">
+      <en>This is good news, particularly in the light of the financial crisis and the difficult discussions concerning the statistical system.</en>
+      <fr>Il <DiscourseConnective annotation_id="4388">s'</DiscourseConnective>agit là d'une bonne nouvelle, <DiscourseConnective annotation_id="4420">notamment</DiscourseConnective> au vu de la crise financière <DiscourseConnective annotation_id="4459">et</DiscourseConnective> des discussions difficiles concernant le système statistique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4132" docOffset="27">
+      <en>Secondly, I believe that it is very important that this report reinforces the scientific independence of statistics even more.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4524">Deuxièmement</DiscourseConnective>, je crois <DiscourseConnective annotation_id="4547">qu'</DiscourseConnective>il est essentiel <DiscourseConnective annotation_id="4567">que</DiscourseConnective> ce rapport renforce <DiscourseConnective annotation_id="4591">encore</DiscourseConnective> l'indépendance scientifique des statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4259" docOffset="28">
+      <en>This is a positive signal to the staff working in this sector.</en>
+      <fr>Il <DiscourseConnective annotation_id="4647">s'</DiscourseConnective>agit d'un signal positif <DiscourseConnective annotation_id="4674">pour</DiscourseConnective> les personnes qui travaillent dans ce secteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4322" docOffset="29">
+      <en>Finally, I am grateful that a compromise with all the Member States has been achieved.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4726">Enfin</DiscourseConnective>, je me félicite <DiscourseConnective annotation_id="4748">qu'</DiscourseConnective>un compromis ait pu être trouvé avec tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4409" docOffset="30">
+      <en>I know - even <Alignment alignment="4812" annotation_id="4423">
+          <DiscourseConnective annotation_id="4423" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> the Council's benches are empty this evening - that it was not easy for many people, <Alignment alignment="19722" annotation_id="4515">
+          <DiscourseConnective annotation_id="4515" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I believe that with this regulation proposal we are able to satisfy all those involved <Alignment alignment="20504" annotation_id="4606">
+          <DiscourseConnective annotation_id="4606" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that we can be happy with the regulation.</en>
+      <fr>
+        <Alignment alignment="1092" annotation_id="4812">
+          <DiscourseConnective annotation_id="4812" sense="Comparison.Contrast">Bien que</DiscourseConnective>
+        </Alignment> ce soir, le banc du Conseil <DiscourseConnective annotation_id="4849">soit</DiscourseConnective> vide, je sais <DiscourseConnective annotation_id="4868">que</DiscourseConnective> cela n'a pas été facile <DiscourseConnective annotation_id="4896">pour</DiscourseConnective> tout le monde, <Alignment alignment="4515" annotation_id="4916">
+          <DiscourseConnective annotation_id="4916" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je crois <DiscourseConnective annotation_id="4930">qu'</DiscourseConnective>avec cette proposition de règlement, nous sommes en mesure de satisfaire toutes les parties concernées <Alignment alignment="4606" annotation_id="5036">
+          <DiscourseConnective annotation_id="5036" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5039">que</DiscourseConnective> nous pouvons être satisfaits de ce règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4652" docOffset="31">
+      <en>I would like to thank you for listening and for the successful cooperation.</en>
+      <fr>Je vous remercie de votre attention <DiscourseConnective annotation_id="5125">et</DiscourseConnective> de votre excellente coopération.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4728" id="409" language="ES" name="Joaquín Almunia">
+    <ParallelChunk annotation_id="4728" docOffset="32">
+      <en>Mr President, ladies and gentlemen, official statistics undoubtedly play a fundamental role in today's society.</en>
+      <fr>Monsieur le Président, mesdames <DiscourseConnective annotation_id="5193">et</DiscourseConnective> messieurs les députés, les statistiques officielles jouent sans aucun doute un rôle fondamental dans la société actuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4840" docOffset="33">
+      <en>Institutions, policy makers, economic operators, markets and individuals rely heavily on statistics to describe as accurately as possible the developments in economic, social, environmental, cultural and other spheres.</en>
+      <fr>Les institutions, les responsables politiques, les opérateurs économiques, les marchés <DiscourseConnective annotation_id="5405">et</DiscourseConnective> les citoyens se basent en grande partie sur les statistiques <DiscourseConnective annotation_id="5469">pour</DiscourseConnective> décrire <DiscourseConnective annotation_id="5482">aussi</DiscourseConnective> fidèlement <DiscourseConnective annotation_id="5499">que</DiscourseConnective> possible les développements économiques, sociaux, environnementaux, culturels <DiscourseConnective annotation_id="5581">et</DiscourseConnective> autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5059" docOffset="34">
+      <en>Statistical information underpins transparency and openness of policy decisions, <Alignment alignment="12895" annotation_id="5140">
+          <DiscourseConnective annotation_id="5140" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> official statistics <Alignment alignment="15374" annotation_id="5164">
+          <DiscourseConnective annotation_id="5164" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> represent a public good providing a basis for the smooth functioning of democracy.</en>
+      <fr>Les données statistiques renforcent la transparence <DiscourseConnective annotation_id="5644">et</DiscourseConnective> l'ouverture des décisions politiques, <Alignment alignment="5140" annotation_id="5685">
+          <DiscourseConnective annotation_id="5685" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les statistiques officielles représentent <Alignment alignment="5164" annotation_id="5730">
+          <DiscourseConnective annotation_id="5730" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> un bien public qui constitue un élément essentiel au bon fonctionnement de la démocratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5257" docOffset="35">
+      <en>At European level, European Statistics are increasingly important for the development, implementation, monitoring and evaluation of policies decided here, in this Parliament, and in the Council, and that we propose from the Commission.</en>
+      <fr>Au niveau européen, les statistiques de l'Union européenne deviennent de plus <DiscourseConnective annotation_id="5903">en plus</DiscourseConnective> importantes <DiscourseConnective annotation_id="5923">pour</DiscourseConnective> le développement, l'application, le contrôle <DiscourseConnective annotation_id="5973">et</DiscourseConnective> l'évaluation des politiques que nous décidons ici, dans ce Parlement, <DiscourseConnective annotation_id="6046">ainsi</DiscourseConnective> qu'au sein du Conseil, <DiscourseConnective annotation_id="6075">et</DiscourseConnective> <DiscourseConnective annotation_id="6078">que</DiscourseConnective> propose la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5493" docOffset="36">
+      <en>The objective of the Commission proposal being debated today is to revise the basic legal framework governing the production of statistics at European level.</en>
+      <fr>L'objectif de la proposition de la Commission à l'examen aujourd'hui est de moderniser le cadre juridique de base régissant la production de statistiques au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5651" docOffset="37">
+      <en>I want to welcome the rigorous work carried out in a constructive spirit by this Parliament, and <Alignment alignment="6375" annotation_id="5748">
+          <Alignment alignment="6375" annotation_id="5748">
+            <DiscourseConnective annotation_id="5748" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment> by Mr Schwab as rapporteur and by Mrs Ferreira - who is not here today, but is represented by Mrs van den Burg - and Mrs Starkevičiūtė, who worked in cooperation with Eurostat and the Commission to arrive at this debate.</en>
+      <fr>Je voudrais saluer le travail rigoureux réalisé dans un esprit constructif par ce Parlement <DiscourseConnective annotation_id="6371">et</DiscourseConnective>, <Alignment alignment="5748" annotation_id="6375">
+          <Alignment alignment="5748" annotation_id="6375">
+            <DiscourseConnective annotation_id="6375" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, par M. Schwab en <DiscourseConnective annotation_id="6408">tant que</DiscourseConnective> rapporteur <DiscourseConnective annotation_id="6428">et</DiscourseConnective> par Mme Ferreira - qui n'est pas présente aujourd'hui, <DiscourseConnective annotation_id="6486">mais</DiscourseConnective> qui est représentée par Mme van den Burg - <DiscourseConnective annotation_id="6534">et</DiscourseConnective> Mme Starkevičiūtė, qui ont travaillé <DiscourseConnective annotation_id="6574">en</DiscourseConnective> coopération avec Eurostat <DiscourseConnective annotation_id="6603">et</DiscourseConnective> la Commission <DiscourseConnective annotation_id="6620">pour</DiscourseConnective> arriver <DiscourseConnective annotation_id="6633">à</DiscourseConnective> ce dont nous discutons aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5983" docOffset="38">
+      <en>This revision is led by changes in society and the need to more clearly define the role of the European Statistical System (ESS).</en>
+      <fr>Cette révision découle des changements survenus dans la société <DiscourseConnective annotation_id="6735">et</DiscourseConnective> de la nécessité de définir plus clairement le rôle du système statistique européen (SSE).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6113" docOffset="39">
+      <en>The previous Regulation on this subject dates from 1997 and, since then, many things have changed which have necessitated this revision.</en>
+      <fr>Le règlement actuel date de 1997. <DiscourseConnective annotation_id="6862">Depuis</DiscourseConnective> lors, beaucoup de choses ont changé, c'est pourquoi cette révision est nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6250" docOffset="40">
+      <en>This revision will give a new impetus to the established cooperation between the national statistical institutes of our 27 Member States and Eurostat and will undoubtedly lay down the foundation to address the statistical challenges of the future.</en>
+      <fr>Elle donnera un nouvel élan <DiscourseConnective annotation_id="6980">à</DiscourseConnective> la coopération établie entre Eurostat <DiscourseConnective annotation_id="7020">et</DiscourseConnective> les instituts nationaux de statistiques de nos 27 États membres <DiscourseConnective annotation_id="7087">et</DiscourseConnective> permettra, sans aucun doute, de poser les fondements <DiscourseConnective annotation_id="7143">pour</DiscourseConnective> aborder les défis statistiques de demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6498" docOffset="41">
+      <en>
+        <Alignment alignment="7190" annotation_id="6498">
+          <DiscourseConnective annotation_id="6498" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, this revision is the culmination of a series of measures undertaken by the Commission since 2005, with the support of this Parliament and the Council, to modernise the governance of the European Statistical System.</en>
+      <fr>
+        <Alignment alignment="1054" annotation_id="7190">
+          <DiscourseConnective annotation_id="7190" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+        </Alignment>, cette révision constitue l'apothéose d'une série de mesures entreprises par la Commission <DiscourseConnective annotation_id="7294">depuis</DiscourseConnective> 2005, avec le soutien de ce Parlement <DiscourseConnective annotation_id="7339">et</DiscourseConnective> du Conseil, <DiscourseConnective annotation_id="7354">en vue de</DiscourseConnective> moderniser la gouvernance du système statistique européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6726" docOffset="42">
+      <en>In this process, the European Statistical Governance Advisory Board and the European Statistical Advisory Committee have been set up and will shortly begin work.</en>
+      <fr>C'est dans ce contexte qu'ont été créés le comité consultatif de la gouvernance statistique européenne <DiscourseConnective annotation_id="7526">et</DiscourseConnective> le comité consultatif de la statistique européenne, qui entameront leurs activités dans les jours et semaines qui viennent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6888" docOffset="43">
+      <en>In this respect, <Alignment alignment="7666" annotation_id="6905">
+          <DiscourseConnective annotation_id="6905" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> proposed by the new regulation, in order to enhance trust in European Statistics, the statistical authorities must enjoy professional independence and ensure impartiality and high quality in the production of European Statistics, in accordance with the principles laid down in the European Statistics Code of Practice endorsed by the Commission in its Recommendation on the independence, integrity and accountability of national and Community statistical authorities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7653">À cet égard</DiscourseConnective>, <Alignment alignment="11533" annotation_id="7666">
+          <DiscourseConnective annotation_id="7666" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> proposé dans le nouveau règlement, <DiscourseConnective annotation_id="7707">afin d'</DiscourseConnective>augmenter la confiance dans les statistiques européennes, les autorités statistiques doivent bénéficier de l'indépendance professionnelle <DiscourseConnective annotation_id="7852">et</DiscourseConnective> assurer l'impartialité <DiscourseConnective annotation_id="7878">et</DiscourseConnective> une qualité élevée lors de la production de telles statistiques, <DiscourseConnective annotation_id="7946">en</DiscourseConnective> conformité avec les principes énoncés dans le code de bonnes pratiques de la statistique européenne, entériné par la Commission dans sa recommandation concernant l'indépendance, l'intégrité <DiscourseConnective annotation_id="8139">et</DiscourseConnective> la responsabilité des autorités statistiques nationales <DiscourseConnective annotation_id="8198">et</DiscourseConnective> communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7376" docOffset="44">
+      <en>I should <Alignment alignment="8332" annotation_id="7385">
+          <DiscourseConnective annotation_id="7385" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> mention, among the principles having guided the Commission proposal and set out in Mr Schwab's report, the objective that the proposed improved regulatory environment for European Statistics should respond to the need to minimise the response burdens on businesses and contribute to the more general objective of a reduction of administrative burdens arising at European level.</en>
+      <fr>Parmi les principes ayant guidé la proposition de la Commission <DiscourseConnective annotation_id="8280">et</DiscourseConnective> repris dans le rapport de M. Schwab, je voudrais <Alignment alignment="7385" annotation_id="8332">
+          <DiscourseConnective annotation_id="8332" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> mentionner l'objectif selon lequel l'environnement réglementaire amélioré proposé <DiscourseConnective annotation_id="8424">pour</DiscourseConnective> les statistiques européennes devrait répondre au besoin de minimiser la charge de réponse des entreprises <DiscourseConnective annotation_id="8535">et</DiscourseConnective> contribuer <DiscourseConnective annotation_id="8549">à</DiscourseConnective> l'objectif plus général d'une réduction des charges administratives occasionnées au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7768" docOffset="45">
+      <en>I must conclude, Mr President, by once again thanking the rapporteur, Mr Schwab, and the whole of the Committee on Economic and Monetary Affairs for their excellent work aimed at giving the Union a more solid and reliable statistical structure which will, in a context of total security, prove extraordinary useful in these times of crisis in which the production of statistics, particularly statistics on public accounts, will play an even more crucial role.</en>
+      <fr>Je voudrais conclure, Monsieur le Président, en remerciant encore une fois le rapporteur, M. Schwab, <DiscourseConnective annotation_id="8753">et</DiscourseConnective> l'ensemble de la commission des affaires économiques <DiscourseConnective annotation_id="8809">et</DiscourseConnective> monétaires <DiscourseConnective annotation_id="8823">pour</DiscourseConnective> leur excellent travail visant <DiscourseConnective annotation_id="8858">à</DiscourseConnective> doter l'Union d'une structure statistique plus solide <DiscourseConnective annotation_id="8914">et</DiscourseConnective> fiable, dans un contexte de totale sécurité. Celle-ci s'avèrera extrêmement utile <DiscourseConnective annotation_id="8999">en</DiscourseConnective> ces temps de crise, où la production de statistiques et, <DiscourseConnective annotation_id="9059">en particulier</DiscourseConnective>, de statistiques relatives aux comptes publics, jouera un rôle <DiscourseConnective annotation_id="9137">encore</DiscourseConnective> plus crucial.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8228" id="410" name="Ieke van den Burg">
+    <ParallelChunk annotation_id="8228" docOffset="46">
+      <en>on behalf of the PSE Group. - Mr President, there are times <DiscourseConnective annotation_id="8288" sense="Temporal.Synchrony">when</DiscourseConnective> politicians might like to influence statistics - particularly at the moment.</en>
+      <fr>au nom du groupe PSE. - (EN) Monsieur le Président, il y a des moments où les responsables politiques souhaiteraient pouvoir influencer les statistiques - c'est le cas <DiscourseConnective annotation_id="9326">en</DiscourseConnective> ce moment.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8370" docOffset="47">
+      <en>
+        <DiscourseConnective annotation_id="8370" sense="Contingency.Condition">If</DiscourseConnective> the statistics on the economy are so bad, you might wish to take them away and dream that it is different <Alignment alignment="5270" annotation_id="8479">
+          <DiscourseConnective annotation_id="8479" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that this does not influence the spirit of consumers etc.</en>
+      <fr>Les statistiques économiques sont tellement mauvaises qu'on voudrait pouvoir les effacer <DiscourseConnective annotation_id="9429">et</DiscourseConnective> rêver <DiscourseConnective annotation_id="9438">qu'</DiscourseConnective>elles sont différentes <Alignment alignment="8479" annotation_id="9464">
+          <DiscourseConnective annotation_id="9464" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9467">qu'</DiscourseConnective>elles n'influencent pas le comportement des consommateurs, etc.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8541" docOffset="48">
+      <en>I fully agree with what everyone says about this report: that decent, true and fair statistics are an important instrument for politics <Alignment alignment="9737" annotation_id="8677">
+          <DiscourseConnective annotation_id="8677" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that this is an important reason to have independent statistical bodies to present these statistics.</en>
+      <fr>Je suis complètement d'accord avec tout ce qui a été dit au sujet de ce rapport: <DiscourseConnective annotation_id="9615">que</DiscourseConnective> des statistiques correctes, fidèles <DiscourseConnective annotation_id="9655">et</DiscourseConnective> honnêtes constituent un instrument important <DiscourseConnective annotation_id="9703">pour</DiscourseConnective> l'élaboration des politiques <Alignment alignment="8677" annotation_id="9737">
+          <DiscourseConnective annotation_id="9737" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="9740">qu'</DiscourseConnective>il est indispensable d'avoir des organismes statistiques indépendants <DiscourseConnective annotation_id="9813">pour</DiscourseConnective> présenter ces statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8782" docOffset="49">
+      <en>I would <Alignment alignment="19460" annotation_id="8790">
+          <DiscourseConnective annotation_id="8790" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to congratulate the rapporteur and the Commission on the proposals on this regulation.</en>
+      <fr>Je voudrais <Alignment alignment="8790" annotation_id="9858">
+          <DiscourseConnective annotation_id="9858" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> féliciter le rapporteur <DiscourseConnective annotation_id="9892">et</DiscourseConnective> la Commission <DiscourseConnective annotation_id="9909">pour</DiscourseConnective> les propositions qu'ils ont présentées <DiscourseConnective annotation_id="9953">en</DiscourseConnective> rapport avec ce règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8887" docOffset="50">
+      <en>We had good cooperation with the Council to reach compromises on what we have stated in this document.</en>
+      <fr>Nous avons eu une excellente coopération avec le Conseil, ce qui nous a permis de dégager les compromis présentés dans ce document.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8990" docOffset="51">
+      <en>It is important to have these independent bodies to have a clear contact point for the Commission in the Member States and for this European system of statistics to include the statistics code of practice, which has been elaborated by the experts, into European legislation.</en>
+      <fr>L'existence de ces organismes indépendants est cruciale pour que la Commission dispose d'un point de contact dans les États membres <DiscourseConnective annotation_id="10247">et</DiscourseConnective> <DiscourseConnective annotation_id="10250">pour que</DiscourseConnective> ce système statistique européen intègre dans la législation européenne le code de bonnes pratiques élaboré par les experts. Je pense <DiscourseConnective annotation_id="10392">que</DiscourseConnective> nous sommes arrivés à un bon résultat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9265" docOffset="52">
+      <en>I think this is a good achievement <DiscourseConnective annotation_id="9300" sense="Expansion.Conjunction">and</DiscourseConnective> I hope that it will really work and help us to overcome the bad statistics and really try to face the recession that is coming and get clearer measures to counter it.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="10444">que</DiscourseConnective> ce système fonctionnera réellement <DiscourseConnective annotation_id="10483">et</DiscourseConnective> qu'il nous aidera <DiscourseConnective annotation_id="10504">à</DiscourseConnective> surmonter les mauvaises statistiques, <DiscourseConnective annotation_id="10544">à</DiscourseConnective> faire face à la récession qui <DiscourseConnective annotation_id="10576">s'</DiscourseConnective>annonce <DiscourseConnective annotation_id="10586">et</DiscourseConnective> à prendre de meilleures mesures <DiscourseConnective annotation_id="10621">pour</DiscourseConnective> la combattre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9471" id="411" name="Margarita Starkevičiūtė">
+    <ParallelChunk annotation_id="9471" docOffset="53">
+      <en>on behalf of the ALDE Group. - (LT) We are considering a very important document, which should help reform the European Statistical System.</en>
+      <fr>au nom du groupe ALDE. - (LT) Nous sommes en train d'examiner un document très important qui devrait nous aider à réformer le système statistique européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9611" docOffset="54">
+      <en>I would like to point out, <DiscourseConnective annotation_id="9638" sense="Temporal.Synchrony">as</DiscourseConnective> my colleagues did, that the European Parliament rapporteur, the Working Group on Statistical Reform and experts from the Council, the Presidency and the Commission were very thorough in their preparation of this document.</en>
+      <fr>À l'instar de mes collègues, je voudrais souligner <DiscourseConnective annotation_id="10847">que</DiscourseConnective> le rapporteur du Parlement européen, le groupe de travail sur la réforme statistique <DiscourseConnective annotation_id="10936">et</DiscourseConnective> les experts du Conseil, la présidence <DiscourseConnective annotation_id="10977">et</DiscourseConnective> la Commission se sont montrés très minutieux lors de la préparation de ce document.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9863" docOffset="55">
+      <en>It is a splendid example of our joint efforts.</en>
+      <fr>Il <DiscourseConnective annotation_id="11067">s'</DiscourseConnective>agit d'un superbe exemple de nos efforts conjoints.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9910" docOffset="56">
+      <en>In the last few days, weighed down by various problems, perhaps we have sometimes blamed each other, <Alignment alignment="11275" annotation_id="10011">
+          <DiscourseConnective annotation_id="10011" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="17267" annotation_id="10015">
+          <DiscourseConnective annotation_id="10015" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we all work together, we can achieve really good results.</en>
+      <fr>Ces derniers jours, alors que nous étions accablés par divers problèmes, nous avons peut-être eu tendance à nous rejeter la faute les uns sur les autres, <Alignment alignment="10011" annotation_id="11275">
+          <DiscourseConnective annotation_id="11275" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="10015" annotation_id="11280">
+          <DiscourseConnective annotation_id="11280" sense="Contingency.Condition">lorsque</DiscourseConnective>
+        </Alignment> nous travaillons tous ensemble, nous pouvons obtenir des résultats vraiment positifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10076" docOffset="57">
+      <en>The ALDE Group supports the proposal presented and hopes that it will lay out our regulations in the area of statistics.</en>
+      <fr>Le groupe ALDE soutient la proposition présentée <DiscourseConnective annotation_id="11423">et</DiscourseConnective> espère <DiscourseConnective annotation_id="11433">que</DiscourseConnective> celle-ci nous permettra de mieux aménager nos règlements dans le domaine des statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10197" docOffset="58">
+      <en>Above all, statistics must be reliable, protected from the influence of various interest groups.</en>
+      <fr>Par dessus tout, les statistiques doivent être fiables et à l'abri de toute pression émanant des différents groupes d'intérêt.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10294" docOffset="59">
+      <en>Today doubts do still occasionally arise, especially <Alignment alignment="16232" annotation_id="10347">
+          <DiscourseConnective annotation_id="10347" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> regards the quality of state financial statistics.</en>
+      <fr>À l'heure actuelle, des doutes surviennent <DiscourseConnective annotation_id="11698">encore</DiscourseConnective> occasionnellement, <Alignment alignment="10347" annotation_id="11724">
+          <DiscourseConnective annotation_id="11724" sense="Temporal.Synchrony">notamment en</DiscourseConnective>
+        </Alignment> ce qui concerne la qualité des statistiques financières nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10401" docOffset="60">
+      <en>
+        <Alignment alignment="11805" annotation_id="10401">
+          <DiscourseConnective annotation_id="10401" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> talking about financial market statistics, there are problems of confidentiality <Alignment alignment="6830" annotation_id="10487">
+          <DiscourseConnective annotation_id="10487" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> here we <Alignment alignment="21299" annotation_id="10499">
+          <DiscourseConnective annotation_id="10499" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> have to work with the European Central Bank.</en>
+      <fr>
+        <Alignment alignment="10401" annotation_id="11805">
+          <DiscourseConnective annotation_id="11805" sense="Temporal.Synchrony">S'</DiscourseConnective>
+        </Alignment>agissant des statistiques relatives aux marchés financiers, nous nous heurtons parfois à des problèmes de confidentialité <Alignment alignment="10487" annotation_id="11929">
+          <DiscourseConnective annotation_id="11929" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, sur ce point, nous devons <Alignment alignment="10499" annotation_id="11959">
+          <DiscourseConnective annotation_id="11959" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> travailler en coopération avec la Banque centrale européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10549" docOffset="61">
+      <en>The quality of statistical data depends not only on the quality of work done by specialised institutions, but also on the methods used <Alignment alignment="5482" annotation_id="10684">
+          <DiscourseConnective annotation_id="10684" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we would like academic institutions to play a more active role in the preparation of these.</en>
+      <fr>La qualité des données statistiques dépend <DiscourseConnective annotation_id="12074">non seulement</DiscourseConnective> de la qualité du travail effectué par les instituts spécialisés, <DiscourseConnective annotation_id="12153">mais</DiscourseConnective> <DiscourseConnective annotation_id="12158">également</DiscourseConnective> des méthodes utilisées <Alignment alignment="10684" annotation_id="12191">
+          <DiscourseConnective annotation_id="12191" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous voudrions que les institutions académiques jouent un rôle plus actif dans la préparation de ces dernières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10780" docOffset="62">
+      <en>The gathering of statistical data must be organised more effectively using data from existing state registers, applying generalised methods and <DiscourseConnective annotation_id="10924" sense="Contingency.Cause.Result">thereby</DiscourseConnective> reducing the administrative burden of statistical reports on business.</en>
+      <fr>La collecte de données statistiques doit être organisée de manière plus efficace, en utilisant les données contenues dans les registres nationaux existants, en appliquant des méthodes généralisées <DiscourseConnective annotation_id="12503">et</DiscourseConnective> en réduisant ainsi la charge administrative qui pèse sur les entreprises en termes de rapports statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11003" docOffset="63">
+      <en>There are certainly many untapped reserves in this area.</en>
+      <fr>Il existe certainement de nombreuses réserves inexploitées dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11060" docOffset="64">
+      <en>Economic and social development is dynamic in today's world, <Alignment alignment="12766" annotation_id="11121">
+          <DiscourseConnective annotation_id="11121" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> statistical data should be presented in a more effective manner, <Alignment alignment="12858" annotation_id="11196">
+          <Alignment alignment="12858" annotation_id="11196">
+            <DiscourseConnective annotation_id="11196" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> decisions can be taken more quickly.</en>
+      <fr>Dans le monde actuel, le développement économique <DiscourseConnective annotation_id="12741">et</DiscourseConnective> social est dynamique, <Alignment alignment="11121" annotation_id="12766">
+          <DiscourseConnective annotation_id="12766" sense="Contingency.Cause.Result">c'est pourquoi</DiscourseConnective>
+        </Alignment> les données statistiques devraient être présentées de manière plus efficace, <Alignment alignment="11196" annotation_id="12858">
+          <Alignment alignment="11196" annotation_id="12858">
+            <DiscourseConnective annotation_id="12858" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> des décisions puissent être prises plus rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11241" docOffset="65">
+      <en>Let us hope that statistical reform will <Alignment alignment="22709" annotation_id="11282">
+          <DiscourseConnective annotation_id="11282" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> help solve this problem.</en>
+      <fr>Espérons <DiscourseConnective annotation_id="12928">que</DiscourseConnective> la réforme statistique contribuera <Alignment alignment="11282" annotation_id="12967">
+          <DiscourseConnective annotation_id="12967" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à résoudre ce problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11312" docOffset="66">
+      <en>The European Statistical Programme is financed by the European Union budget.</en>
+      <fr>Le programme statistique communautaire est financé par le budget de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11389" docOffset="67">
+      <en>I would like to hope that the proposals presented will help these programmes to be better coordinated, which will allow Community capital to be used more effectively.</en>
+      <fr>J'ose espérer <DiscourseConnective annotation_id="13103">que</DiscourseConnective> les propositions présentées contribueront <DiscourseConnective annotation_id="13149">à</DiscourseConnective> améliorer la coordination de ces programmes, ce qui permettra d'utiliser le capital communautaire de façon plus efficace.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11556" id="412" language="ES" name="Joaquín Almunia">
+    <ParallelChunk annotation_id="11556" docOffset="68">
+      <en>Mr President, I simply want to reiterate my thanks to the rapporteur and the Members who have just spoken for their excellent work.</en>
+      <fr>Monsieur le Président, je voudrais <DiscourseConnective annotation_id="13308">simplement</DiscourseConnective> réitérer mes remerciements au rapporteur <DiscourseConnective annotation_id="13360">et</DiscourseConnective> aux députés qui viennent de s'exprimer <DiscourseConnective annotation_id="13402">pour</DiscourseConnective> l'excellent travail qu'ils ont réalisé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11688" docOffset="69">
+      <en>
+        <Alignment alignment="15410" annotation_id="11688">
+          <DiscourseConnective annotation_id="11688" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> said by Mrs Starkevičiūtė, working together produces results like these which are positive for everyone.</en>
+      <fr>
+        <Alignment alignment="11688" annotation_id="13447">
+          <DiscourseConnective annotation_id="13447" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> l'a dit Mme Starkevičiūtė, lorsque nous travaillons ensemble, nous pouvons obtenir des résultats positifs <DiscourseConnective annotation_id="13559">pour</DiscourseConnective> tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11796" docOffset="70">
+      <en>What I hope, <Alignment alignment="13591" annotation_id="11809">
+          <DiscourseConnective annotation_id="11809" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> do we all, is that, through these excellent statistics, we will shortly be able to offer our citizens good news on the economic situation.</en>
+      <fr>Ce que j'espère - et <Alignment alignment="11809" annotation_id="13591">
+          <DiscourseConnective annotation_id="13591" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> nous espérons tous - c'est <DiscourseConnective annotation_id="13622">que</DiscourseConnective>, grâce à ces excellentes statistiques, nous serons <DiscourseConnective annotation_id="13677">bientôt</DiscourseConnective> en mesure d'annoncer à nos concitoyens de bonnes nouvelles <DiscourseConnective annotation_id="13744">en</DiscourseConnective> ce qui concerne la situation économique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11951" id="413" name="Andreas Schwab">
+    <ParallelChunk annotation_id="11951" docOffset="71">
+      <en>rapporteur. - (DE) Mr President, Commissioner, ladies and gentlemen, many thanks for the constructive comments at the end, and above all for the constructive cooperation.</en>
+      <fr>rapporteur. - (DE) Monsieur le Président, Monsieur le Commissaire, chers collègues, je vous remercie <DiscourseConnective annotation_id="13889">pour</DiscourseConnective> vos commentaires positifs <DiscourseConnective annotation_id="13920">et</DiscourseConnective> <DiscourseConnective annotation_id="13923">pour</DiscourseConnective> la coopération constructive dont vous avez fait preuve tout au long de ce dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12122" docOffset="72">
+      <en>I do not want to repeat anything that has already been said.</en>
+      <fr>Je ne vais pas répéter ce qui a <DiscourseConnective annotation_id="14043">déjà</DiscourseConnective> été dit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12183" docOffset="73">
+      <en>
+        <Alignment alignment="14057" annotation_id="12183">
+          <DiscourseConnective annotation_id="12183" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> I would like to mention two items that, in my opinion, should be thought through as a follow-up to the discussion on this report.</en>
+      <fr>
+        <Alignment alignment="2318" annotation_id="14057">
+          <DiscourseConnective annotation_id="14057" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> je voudrais mentionner deux points qui, selon moi, devraient être examinés en complément <DiscourseConnective annotation_id="14161">à</DiscourseConnective> la discussion que nous venons d'avoir sur ce rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12323" docOffset="74">
+      <en>Firstly, the fact is that we have been dealing with Article 285 of the EU Treaty, which discusses the scientific independence of the statistical authorities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14217">Premièrement</DiscourseConnective>, <DiscourseConnective annotation_id="14231">le fait est que</DiscourseConnective> nous avons parlé de l'article 285 du traité UE, qui a trait à l'indépendance scientifique des autorités statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12481" docOffset="75">
+      <en>In this report we have now <Alignment alignment="14393" annotation_id="12508">
+          <DiscourseConnective annotation_id="12508" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> placed a strong emphasis on professional independence <Alignment alignment="8784" annotation_id="12567">
+          <DiscourseConnective annotation_id="12567" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we have discovered that there have been difficulties in this regard in the past.</en>
+      <fr>Dans ce rapport, nous avons <Alignment alignment="12508" annotation_id="14393">
+          <DiscourseConnective annotation_id="14393" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> insisté sur l'indépendance professionnelle, <Alignment alignment="12567" annotation_id="14447">
+          <DiscourseConnective annotation_id="14447" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> nous avons découvert <DiscourseConnective annotation_id="14472">que</DiscourseConnective> des difficultés avaient déjà été constatées dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12651" docOffset="76">
+      <en>It may <DiscourseConnective annotation_id="12658" sense="Expansion.Conjunction">also</DiscourseConnective> have to be enshrined appropriately in primary law at some point, to ensure long-term clarity.</en>
+      <fr>Il faudra peut-être un jour intégrer cette notion dans le droit primaire afin d'assurer une certaine clarté sur le long terme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12757" docOffset="77">
+      <en>
+        <Alignment alignment="14664" annotation_id="12757">
+          <DiscourseConnective annotation_id="12757" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would expressly like to add that, with regard to German law, this does not mean that there can be independence with respect to professional supervisory regulations.</en>
+      <fr>
+        <Alignment alignment="12757" annotation_id="14664">
+          <DiscourseConnective annotation_id="14664" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, je tiens <DiscourseConnective annotation_id="14684">à</DiscourseConnective> ajouter <DiscourseConnective annotation_id="14694">qu'en</DiscourseConnective> vertu du droit allemand, cela n'implique en aucun cas une indépendance par rapport aux règles en matière de surveillance professionnelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12933" docOffset="78">
+      <en>Secondly, this report places setting priorities for producing statistical data and recording it very much in the foreground. Mrs Starkevičiūthas <Alignment alignment="14862" annotation_id="13078">
+          <DiscourseConnective annotation_id="13078" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> pointed this out.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14838">Deuxièmement</DiscourseConnective>, comme l'a <Alignment alignment="13078" annotation_id="14862">
+          <DiscourseConnective annotation_id="14862" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> rappelé Mme Starkevičiūtė, ce rapport souligne la nécessité de fixer des priorités en ce qui concerne la production <DiscourseConnective annotation_id="14988">et</DiscourseConnective> la diffusion de données statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13101" docOffset="79">
+      <en>Commissioner Almunia, I hope that by setting these priorities we can <Alignment alignment="15109" annotation_id="13170">
+          <DiscourseConnective annotation_id="13170" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> manage to reduce the statistical burden for medium-sized companies in the medium term, <Alignment alignment="5311" annotation_id="13262">
+          <DiscourseConnective annotation_id="13262" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we will be able to search for data which we actually need for our statistics in an even more targeted way.</en>
+      <fr>Monsieur le Commissaire, j'espère <DiscourseConnective annotation_id="15063">qu'en</DiscourseConnective> fixant ces priorités, nous parviendrons <Alignment alignment="13170" annotation_id="15109">
+          <DiscourseConnective annotation_id="15109" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="15119">à</DiscourseConnective> réduire la charge administrative qui pèse sur les moyennes entreprises, <Alignment alignment="13262" annotation_id="15193">
+          <DiscourseConnective annotation_id="15193" sense="Temporal.Synchrony">puisque</DiscourseConnective>
+        </Alignment> nous serons capables de <DiscourseConnective annotation_id="15225">mieux</DiscourseConnective> cibler nos recherches afin d'obtenir les données dont nous avons vraiment besoin <DiscourseConnective annotation_id="15312">pour</DiscourseConnective> nos statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13372" docOffset="80">
+      <en>With this in mind, thank you very much.</en>
+      <fr>Et <DiscourseConnective annotation_id="15338">pour</DiscourseConnective> cela, je tiens <DiscourseConnective annotation_id="15358">à</DiscourseConnective> vous remercier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13412" docOffset="81">
+      <en>I hope that the vote is completed quickly tomorrow.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="15385">que</DiscourseConnective> le vote de demain sera rapide.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13464" id="414" name="President">
+    <ParallelChunk annotation_id="13464" docOffset="82">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13486" docOffset="83">
+      <en>The vote will take place tomorrow.</en>
+      <fr>Le vote aura lieu demain.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

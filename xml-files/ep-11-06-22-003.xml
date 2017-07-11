@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="007" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I am very pleased to welcome a delegation composed of four members of the Foreign Affairs Committee of the Parliament of the Seychelles and two senior parliamentary officers, headed by their Chair, Mr William.</en>
+      <fr>Je suis heureux d'accueillir une délégation composée de quatre membres de la commission des affaires étrangères du parlement des Seychelles <DiscourseConnective annotation_id="162">et</DiscourseConnective> de deux hauts fonctionnaires de ce parlement, conduite par son président, M. William.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="218" docOffset="2">
+      <en>The delegation is here in the European Parliament this week to take part in a four-day study visit organised by the Office for the Promotion of Parliamentary Democracy.</en>
+      <fr>Cette délégation est ici, au Parlement européen, dans le cadre d'une visite de quatre jours organisée par le Bureau de promotion de la démocratie parlementaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="387" docOffset="3">
+      <en>We hope you have a fruitful visit, ladies and gentlemen, <Alignment alignment="246766" annotation_id="444">
+          <DiscourseConnective annotation_id="444" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we know you will be following with interest the report by Mr Cadec on the fisheries partnership agreement between the European Union and the Seychelles, which will be put to the vote tomorrow.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="421">et</DiscourseConnective> Messieurs, nous espérons que votre visite sera fructueuse <Alignment alignment="504" annotation_id="482">
+          <DiscourseConnective annotation_id="482" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous savons que vous suivrez avec intérêt le débat sur le rapport de M. Cadec concernant l'accord de partenariat dans le secteur de la pêche entre l'Union européenne <DiscourseConnective annotation_id="651">et</DiscourseConnective> les Seychelles, qui sera soumis demain au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="641" docOffset="4">
+      <en>All we ask is that on your next visit you bring a little sunshine to Brussels.</en>
+      <fr>Tout ce que nous vous demandons, c'est <DiscourseConnective annotation_id="741">que</DiscourseConnective>, lors de votre prochaine visite, vous ameniez un peu de soleil <DiscourseConnective annotation_id="808">à</DiscourseConnective> Bruxelles.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

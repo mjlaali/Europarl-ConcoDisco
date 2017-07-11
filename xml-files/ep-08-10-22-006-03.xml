@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Democracy, human rights and the new EU-Vietnam Partnership and Cooperation Agreement (vote)</en>
+    <fr>Démocratie, droits de l'homme <DiscourseConnective annotation_id="33">et</DiscourseConnective> nouvel accord de partenariat <DiscourseConnective annotation_id="65">et</DiscourseConnective> de coopération entre l'Union européenne <DiscourseConnective annotation_id="108">et</DiscourseConnective> le Viêt Nam (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="95" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="130">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="114" id="130" name="Marco Cappato">
+    <ParallelChunk annotation_id="114" docOffset="3">
+      <en>(IT) Mr President, ladies and gentlemen, I would like to make a purely factual correction.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="182">et</DiscourseConnective> Messieurs, je voudrais faire une correction purement factuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="205" docOffset="4">
+      <en>Reference is made to the Unified Buddhist Church of Vietnam, saying that it was once the largest organisation of Buddhists in southern and central Vietnam.</en>
+      <fr>Ce rapport mentionne l'Église bouddhique unifiée du Viêt Nam et précise <DiscourseConnective annotation_id="321">qu'</DiscourseConnective>elle "fut la principale organisation bouddhiste dans le sud <DiscourseConnective annotation_id="384">et</DiscourseConnective> le centre du Viêt Nam".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="361" docOffset="5">
+      <en>This is, in reality, referring to the fact that free and reliable information no longer exists, <Alignment alignment="508" annotation_id="457">
+          <DiscourseConnective annotation_id="457" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it should be corrected to read: 'which is the largest organisation of Buddhists in Vietnam'.</en>
+      <fr>Ceci fait <DiscourseConnective annotation_id="421">en fait</DiscourseConnective> référence <DiscourseConnective annotation_id="439">au fait</DiscourseConnective> <DiscourseConnective annotation_id="447">que</DiscourseConnective> nous ne disposons plus d'informations libres <DiscourseConnective annotation_id="496">et</DiscourseConnective> fiables, <Alignment alignment="240" annotation_id="508">
+          <DiscourseConnective annotation_id="508" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> cette affirmation doit être corrigée comme suit: "qui est la principale organisation bouddhiste au Viêt Nam".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="554" docOffset="6">
+      <en>(Parliament accepted the oral amendment)</en>
+      <fr>(Le Parlement accepte l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

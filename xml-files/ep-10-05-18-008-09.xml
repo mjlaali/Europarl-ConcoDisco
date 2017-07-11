@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>9.</en>
+    <fr>9.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Deontological questions related to companies' management (</en>
+    <fr>Questions de déontologie liées <DiscourseConnective annotation_id="34">à</DiscourseConnective> la gestion des entreprises (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="62" docOffset="2">
+    <en>Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="67">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="79" id="109" name="Derek Roland Clark">
+    <ParallelChunk annotation_id="79" docOffset="3">
+      <en>Madam President, in anticipation of your calling the next vote on the Lehne report on deontology, may I please ask why this vote is being taken?</en>
+      <fr>(EN) Madame la Présidente, avant que vous n'appeliez le vote sur le rapport de M. Lehne relatif à la déontologie, <DiscourseConnective annotation_id="195">puis</DiscourseConnective>-je vous demander pourquoi ce vote est organisé maintenant?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="224" docOffset="4">
+      <en>It was due for debate last night under catch-the-eye.</en>
+      <fr>Ce rapport devait être débattu hier soir selon la procédure "catch-the-eye".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="278" docOffset="5">
+      <en>That was cancelled, <DiscourseConnective annotation_id="298" sense="Contingency.Cause.Result">so</DiscourseConnective> here we are voting on something which has not been debated, <Alignment alignment="1145" annotation_id="361">
+          <DiscourseConnective annotation_id="361" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> it does not say so.</en>
+      <fr>Le débat a finalement été annulé, ce qui signifie que nous allons voter sur une question qui n'a pas été débattue et <Alignment alignment="361" annotation_id="453">
+          <DiscourseConnective annotation_id="453" sense="Comparison.Contrast">sans que</DiscourseConnective>
+        </Alignment> cela ne soit signalé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="390" docOffset="6">
+      <en>For your information, Madam President, <Alignment alignment="530" annotation_id="429">
+          <DiscourseConnective annotation_id="429" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> this came before the Employment Committee a short <DiscourseConnective annotation_id="484" sense="Temporal.Synchrony">while</DiscourseConnective> ago, nobody on that committee knew what deontology meant <Alignment alignment="324707" annotation_id="547">
+          <DiscourseConnective annotation_id="547" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> I tried to explain it to them - not even the Chair!</en>
+      <fr>
+        <DiscourseConnective annotation_id="484">Pour</DiscourseConnective> votre information, Madame la Présidente, <Alignment alignment="429" annotation_id="530">
+          <DiscourseConnective annotation_id="530" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> ce rapport est arrivé devant la commission de l'emploi il y a quelque temps, personne dans cette commission - pas <DiscourseConnective annotation_id="652">même</DiscourseConnective> le président - ne savait ce qu'était la déontologie <Alignment alignment="282" annotation_id="709">
+          <DiscourseConnective annotation_id="709" sense="Temporal.Asynchronous.Precedence">jusqu'à ce que</DiscourseConnective>
+        </Alignment> je m'efforce de le leur expliquer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="605" docOffset="7">
+      <en>I think it is highly improper, <Alignment alignment="759" annotation_id="636">
+          <DiscourseConnective annotation_id="636" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, to take a vote on this unknown, undebated motion.</en>
+      <fr>
+        <Alignment alignment="431" annotation_id="759">
+          <DiscourseConnective annotation_id="759" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, je pense qu'il est vraiment mal venu de voter sur cette proposition qui n'a pas été débattue et dont le sujet n'est pas connu.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="697" id="110" name="President">
+    <ParallelChunk annotation_id="697" docOffset="8">
+      <en>I can tell you that it was debated in the Committee on Legal Affairs, from whence it comes, <Alignment alignment="2334" annotation_id="789">
+          <DiscourseConnective annotation_id="789" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it has been through all the proper procedures, <Alignment alignment="1953" annotation_id="840">
+          <DiscourseConnective annotation_id="840" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I intend to proceed with the vote.</en>
+      <fr>Je peux vous <DiscourseConnective annotation_id="915">dire que</DiscourseConnective> ce rapport a été débattu au sein de la commission des affaires juridiques, d'où il provient, <Alignment alignment="53" annotation_id="1017">
+          <DiscourseConnective annotation_id="1017" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'il a suivi toutes les procédures appropriées. <Alignment alignment="84" annotation_id="1069">
+          <DiscourseConnective annotation_id="1069" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> j'entends bien procéder au vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

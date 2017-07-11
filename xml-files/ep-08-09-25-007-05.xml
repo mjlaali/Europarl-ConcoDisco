@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Getting a grip on energy prices (vote)</en>
+    <fr>Maîtrise des prix de l'énergie (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+    <en>- Before the vote on Amendment 1</en>
+    <fr>- <DiscourseConnective annotation_id="43">Avant</DiscourseConnective> le vote de l'amendement 1</fr>
+  </ParallelChunk>
+<Speaker annotation_id="75" id="110" name="Urszula Gacek">
+    <ParallelChunk annotation_id="75" docOffset="3">
+      <en>Mr President, I have a genuine point of order with respect to the new Rules of Procedure.</en>
+      <fr>(EN) Monsieur le Président, c'est une réelle motion de procédure concernant le nouveau règlement du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="165" docOffset="4">
+      <en>We have been told that, <Alignment alignment="215" annotation_id="189">
+          <DiscourseConnective annotation_id="189" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> debate has been curtailed, we can now put in more written statements over the single written statement we were able to do <Alignment alignment="623" annotation_id="319">
+          <DiscourseConnective annotation_id="319" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> the new Rules came into effect.</en>
+      <fr>Nous avons été informés <DiscourseConnective annotation_id="210">que</DiscourseConnective>, <Alignment alignment="189" annotation_id="215">
+          <DiscourseConnective annotation_id="215" sense="Contingency.Cause.Reason">comme</DiscourseConnective>
+        </Alignment> le débat a été écourté, il nous est loisible désormais de déposer davantage de déclarations écrites, comparé <DiscourseConnective annotation_id="330">à</DiscourseConnective> la déclaration écrite unique que nous pouvions soumettre <Alignment alignment="319" annotation_id="389">
+          <DiscourseConnective annotation_id="389" sense="Temporal.Asynchronous.Precedence">avant</DiscourseConnective>
+        </Alignment> l'entrée <DiscourseConnective annotation_id="404">en</DiscourseConnective> vigueur du nouveau règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="358" docOffset="5">
+      <en>Today I tried to submit two written statements, <Alignment alignment="499" annotation_id="406">
+          <DiscourseConnective annotation_id="406" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the internet site will not allow it.</en>
+      <fr>Aujourd'hui, j'ai tenté de déposer deux déclarations écrites, <Alignment alignment="406" annotation_id="499">
+          <DiscourseConnective annotation_id="499" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le site internet ne le permet pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="447" docOffset="6">
+      <en>
+        <Alignment alignment="537" annotation_id="447">
+          <DiscourseConnective annotation_id="447" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> my voice in the debate for controlling energy has not been noted anywhere.</en>
+      <fr>
+        <Alignment alignment="258" annotation_id="537">
+          <DiscourseConnective annotation_id="537" sense="Contingency.Cause.Result">De sorte que</DiscourseConnective>
+        </Alignment> je n'ai pu faire entendre ma voix nulle part dans le débat sur la maîtrise des prix de l'énergie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="525" docOffset="7">
+      <en>Can you make sure the technical problem is solved?</en>
+      <fr>Pouvez-vous faire en sorte que le problème technique <DiscourseConnective annotation_id="701">soit</DiscourseConnective> réglé?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="576" docOffset="8">
+      <en>The revised Rules of Procedure are not being adhered to.</en>
+      <fr>Le règlement révisé n'est pas respecté.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="633" id="111" name="President">
+    <ParallelChunk annotation_id="633" docOffset="9">
+      <en>You can submit a written declaration, Mrs Gacek, <Alignment alignment="123" annotation_id="682">
+          <DiscourseConnective annotation_id="682" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that was not the right time to raise the point.</en>
+      <fr>Vous pouvez soumettre une déclaration écrite, Mme Gacek, <Alignment alignment="682" annotation_id="810">
+          <DiscourseConnective annotation_id="810" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce n'était pas le bon moment <DiscourseConnective annotation_id="844">pour</DiscourseConnective> aborder la question.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

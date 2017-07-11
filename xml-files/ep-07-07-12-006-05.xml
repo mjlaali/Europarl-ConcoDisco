@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>5.</en>
+    <fr>5.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Sustainable mobility (vote)</en>
+    <fr>Pour une Europe en mouvement - Mobilité durable pour notre continent (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="31" docOffset="2">
+    <en>- Barsi-Pataky report</en>
+    <fr>- Rapport Barsi-Pataky</fr>
+  </ParallelChunk>
+<Speaker annotation_id="53" id="086" name="Rosa Miguélez Ramos">
+    <ParallelChunk annotation_id="53" docOffset="3">
+      <en>(ES) Mr President, this report is still appearing on the monitors as Krahmer, <Alignment alignment="384" annotation_id="131">
+          <DiscourseConnective annotation_id="131" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> <Alignment alignment="187" annotation_id="136">
+          <Alignment alignment="124" annotation_id="136">
+            <DiscourseConnective annotation_id="136" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment> it is the Barsi-Pataky report.</en>
+      <fr>(ES) Monsieur le Président, les écrans indiquent toujours Cramer, <Alignment alignment="131" annotation_id="168">
+          <DiscourseConnective annotation_id="168" sense="Temporal.Synchrony">alors qu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="180">s'</DiscourseConnective>agit <Alignment alignment="136" annotation_id="187">
+          <Alignment alignment="0" annotation_id="187">
+            <DiscourseConnective annotation_id="187" sense="Expansion.Conjunction">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> du rapport Barsi-Pataky.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="175" docOffset="4">
+      <en>That may create some confusion.</en>
+      <fr>Cela peut prêter à confusion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="207" docOffset="5">
+      <en>It confused me.</en>
+      <fr>C'est l'effet que cela a eu sur moi.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="223" id="087" name="President">
+    <ParallelChunk annotation_id="223" docOffset="6">
+      <en>It is correct now.</en>
+      <fr>C'est corrigé à présent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="242" docOffset="7">
+      <en>Thank you for drawing my attention to what is happening behind the scenes.</en>
+      <fr>Merci d'avoir attiré mon attention sur ce qui se passait à l'arrière-plan.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

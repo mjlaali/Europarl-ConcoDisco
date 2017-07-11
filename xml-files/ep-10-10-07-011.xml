@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time (continuation)</en>
+    <fr>Heure des votes (suite)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="150" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>We shall continue with the vote.</en>
+      <fr>Nous allons maintenant continuer le vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="60" docOffset="2">
+      <en>(For the results <Alignment alignment="96" annotation_id="77">
+          <DiscourseConnective annotation_id="77" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> other details on the vote: see Minutes).</en>
+      <fr>(<DiscourseConnective annotation_id="67">Pour</DiscourseConnective> les résultats des votes <Alignment alignment="36" annotation_id="96">
+          <DiscourseConnective annotation_id="96" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> autres détails les concernant: voir procès-verbal).</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

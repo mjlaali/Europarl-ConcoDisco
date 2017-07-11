@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Implementation of the Research Framework Programmes (short presentation)</en>
+    <fr>Mise en œuvre des programmes-cadres de recherche (brève présentation)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="73" id="306" name="President">
+    <ParallelChunk annotation_id="73" docOffset="1">
+      <en>The next item is the report by Maria Da Graça Carvalho, on behalf of the Committee on Industry, Research and Energy, on simplifying the implementation of the Research Framework Programmes.</en>
+      <fr>L'ordre du jour appelle le rapport de Maria Da Graça Carvalho, au nom de la commission de l'industrie, de la recherche <DiscourseConnective annotation_id="189">et</DiscourseConnective> de l'énergie, sur la simplification de la mise en œuvre des programmes-cadres de recherche.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="262" id="307" language="PT" name="Maria Da Graça Carvalho">
+    <ParallelChunk annotation_id="262" docOffset="2">
+      <en>Science, education and innovation are the pillars of economic growth and job creation.</en>
+      <fr>La science, l'éducation <DiscourseConnective annotation_id="308">et</DiscourseConnective> l'innovation sont les piliers de la croissance économique <DiscourseConnective annotation_id="369">et</DiscourseConnective> de la création d'emplois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="349" docOffset="3">
+      <en>Europe needs to invest more in science, open up its scientific systems, promote the free movement of researchers, and increase and promote excellence.</en>
+      <fr>L'Europe doit investir davantage dans la science, ouvrir ses systèmes scientifiques, encourager la libre circulation des chercheurs, <DiscourseConnective annotation_id="531">et</DiscourseConnective> renforcer <DiscourseConnective annotation_id="544">et</DiscourseConnective> stimuler l'excellence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="500" docOffset="4">
+      <en>
+        <Alignment alignment="570" annotation_id="500">
+          <Alignment alignment="23369" annotation_id="500">
+            <DiscourseConnective annotation_id="500" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, today we are seeing an increasingly multi-polar world in all sectors, including science.</en>
+      <fr>
+        <Alignment alignment="10981" annotation_id="570">
+          <Alignment alignment="500" annotation_id="570">
+            <DiscourseConnective annotation_id="570" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+          </Alignment>
+        </Alignment>, aujourd'hui, le monde devient de plus <DiscourseConnective annotation_id="618">en plus</DiscourseConnective> multipolaire dans tous les secteurs, y compris la science.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="598" docOffset="5">
+      <en>A few figures are enough to demonstrate this fact: <Alignment alignment="11306" annotation_id="649">
+          <DiscourseConnective annotation_id="649" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, at a global level, 80% of researchers work outside Europe, <Alignment alignment="815" annotation_id="721">
+          <DiscourseConnective annotation_id="721" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> 69% of patents are registered outside Europe.</en>
+      <fr>Quelques chiffres suffisent <DiscourseConnective annotation_id="713">à</DiscourseConnective> le démontrer: <Alignment alignment="763" annotation_id="729">
+          <DiscourseConnective annotation_id="729" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, au niveau mondial, 80 % des chercheurs travaillent en dehors de l'Europe <Alignment alignment="11449" annotation_id="815">
+          <DiscourseConnective annotation_id="815" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> 69 % des brevets sont déposés en dehors de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="771" docOffset="6">
+      <en>Europe invests less in science and innovation than Japan, South Korea and the US, <Alignment alignment="976" annotation_id="853">
+          <DiscourseConnective annotation_id="853" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this difference is essentially due to investment from the private sector.</en>
+      <fr>L'Europe investit moins dans la science <DiscourseConnective annotation_id="911">et</DiscourseConnective> l'innovation <DiscourseConnective annotation_id="927">que</DiscourseConnective> le Japon, la Corée du Sud <DiscourseConnective annotation_id="957">et</DiscourseConnective> les États-Unis, <Alignment alignment="1292" annotation_id="976">
+          <DiscourseConnective annotation_id="976" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cette différence est principalement due aux investissements du secteur privé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="931" docOffset="7">
+      <en>Our system of science and innovation has weaknesses that need to be overcome, from underfunding to fragmentation, a lack of conditions for developing innovation, and excessive bureaucracy.</en>
+      <fr>Notre système de science <DiscourseConnective annotation_id="1082">et</DiscourseConnective> d'innovation présente des faiblesses qui doivent être surmontées, allant du sous-financement <DiscourseConnective annotation_id="1178">à</DiscourseConnective> la fragmentation, en passant par l'absence des conditions nécessaires <DiscourseConnective annotation_id="1250">pour</DiscourseConnective> assurer le développement de l'innovation <DiscourseConnective annotation_id="1296">et</DiscourseConnective> un excès de bureaucratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1120" docOffset="8">
+      <en>The European scientific system needs to be more efficient, starting with the simplification of the rules for funding.</en>
+      <fr>Le système scientifique européen doit être plus efficace, en commençant par la simplification des règles de financement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1238" docOffset="9">
+      <en>In this context, I had the honour of being appointed rapporteur for the simplification of the rules for participation in current and future European programmes for science and innovation.</en>
+      <fr>Dans ce contexte, j'ai eu l'honneur d'être nommée rapporteure <DiscourseConnective annotation_id="1508">pour</DiscourseConnective> la simplification des règles de participation aux actuels <DiscourseConnective annotation_id="1571">et</DiscourseConnective> futurs programmes européens en matière de science <DiscourseConnective annotation_id="1624">et</DiscourseConnective> d'innovation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1426" docOffset="10">
+      <en>This report may play a vital role in Europe, <Alignment alignment="1693" annotation_id="1471">
+          <DiscourseConnective annotation_id="1471" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it comes at the right time, given that we are beginning the review of the Seventh Framework Programme and the preparations for the eighth programme.</en>
+      <fr>Ce rapport pourrait jouer un rôle décisif <DiscourseConnective annotation_id="1683">en</DiscourseConnective> Europe <Alignment alignment="2124" annotation_id="1693">
+          <DiscourseConnective annotation_id="1693" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il arrive au bon moment, <DiscourseConnective annotation_id="1721">étant donné que</DiscourseConnective> nous commençons l'examen du septième programme-cadre <DiscourseConnective annotation_id="1790">et</DiscourseConnective> les préparations du huitième programme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1624" docOffset="11">
+      <en>As the rapporteur, I decided to open up the debate on this subject and hold a public consultation.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1833">En</DiscourseConnective> ma qualité de rapporteure, j'ai décidé d'ouvrir le débat sur ce thème <DiscourseConnective annotation_id="1906">et</DiscourseConnective> d'organiser une consultation publique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1723" docOffset="12">
+      <en>I sent out more than 8 000 invitations to a diverse range of bodies.</en>
+      <fr>J'ai envoyé plus de 8 000 invitations <DiscourseConnective annotation_id="1986">à</DiscourseConnective> une série d'organes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1792" docOffset="13">
+      <en>There was an immense number of contributions, which shows the importance that our institutions and the public attach to this subject.</en>
+      <fr>Les innombrables contributions <DiscourseConnective annotation_id="2040">que</DiscourseConnective> nous avons reçues montrent l'importance <DiscourseConnective annotation_id="2084">que</DiscourseConnective> nos institutions <DiscourseConnective annotation_id="2105">et</DiscourseConnective> la population accordent <DiscourseConnective annotation_id="2132">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1926" docOffset="14">
+      <en>The report proposes the simplification of financial monitoring and control and the strengthening of technical and scientific evaluation by means of peer review based on excellence.</en>
+      <fr>Le rapport propose la simplification de la surveillance <DiscourseConnective annotation_id="2200">et</DiscourseConnective> du contrôle financiers <DiscourseConnective annotation_id="2226">et</DiscourseConnective> le renforcement de l'évaluation technique <DiscourseConnective annotation_id="2271">et</DiscourseConnective> scientifique grâce à l'examen par les pairs axé sur l'excellence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2107" docOffset="15">
+      <en>The goal of this report is higher risk tolerance, simplifying the bureaucratic monitoring mechanisms and creating greater confidence in the scientific and business community.</en>
+      <fr>Ce rapport a pour objectif de rehausser le seuil de tolérance à l'égard des risques, de simplifier les mécanismes de contrôle bureaucratique <DiscourseConnective annotation_id="2481">et</DiscourseConnective> d'accroître la confiance dans la communauté scientifique <DiscourseConnective annotation_id="2541">et</DiscourseConnective> le monde des entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2282" docOffset="16">
+      <en>
+        <Alignment alignment="2570" annotation_id="2282">
+          <DiscourseConnective annotation_id="2282" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the report marks only the beginning of a process that is not simple.</en>
+      <fr>
+        <Alignment alignment="2282" annotation_id="2570">
+          <DiscourseConnective annotation_id="2570" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, ce rapport n'est <DiscourseConnective annotation_id="2598">que</DiscourseConnective> le début d'un processus qui n'est pas simple.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2360" docOffset="17">
+      <en>The Commission will be responsible for implementing the recommendations, <Alignment alignment="33640" annotation_id="2433">
+          <DiscourseConnective annotation_id="2433" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it will need monitoring and political support from Parliament and the Council <Alignment alignment="26967" annotation_id="2515">
+          <DiscourseConnective annotation_id="2515" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is to carry out this task successfully.</en>
+      <fr>La Commission sera chargée de la mise en œuvre des recommandations <Alignment alignment="2433" annotation_id="2715">
+          <DiscourseConnective annotation_id="2715" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> elle aura besoin d'une aide au suivi <DiscourseConnective annotation_id="2755">et</DiscourseConnective> d'un soutien politique du Parlement <DiscourseConnective annotation_id="2794">et</DiscourseConnective> du Conseil <Alignment alignment="2515" annotation_id="2808">
+          <DiscourseConnective annotation_id="2808" sense="Contingency.Condition">pour</DiscourseConnective>
+        </Alignment> mener cette tâche à bien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2561" docOffset="18">
+      <en>In future, the simplification process may be extended to other European programmes, notably, the structural funds.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2839">À</DiscourseConnective> l'avenir, le processus de simplification pourrait être élargi <DiscourseConnective annotation_id="2903">à</DiscourseConnective> d'autres programmes européens, <DiscourseConnective annotation_id="2936">notamment</DiscourseConnective> les fonds structurels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2676" docOffset="19">
+      <en>Programmes which have simpler rules will <Alignment alignment="3023" annotation_id="2717">
+          <DiscourseConnective annotation_id="2717" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be more transparent and efficient.</en>
+      <fr>Des programmes qui ont des règles plus simples seront <Alignment alignment="8632" annotation_id="3023">
+          <DiscourseConnective annotation_id="3023" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> plus transparents <DiscourseConnective annotation_id="3051">et</DiscourseConnective> efficaces.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2757" docOffset="20">
+      <en>I would <Alignment alignment="10821" annotation_id="2765">
+          <DiscourseConnective annotation_id="2765" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank my colleagues, the Belgian Presidency, the Commission and all those who contributed to the public consultation for their assistance.</en>
+      <fr>Je voudrais <Alignment alignment="2765" annotation_id="3077">
+          <DiscourseConnective annotation_id="3077" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> remercier mes collègues, la Présidence belge, la Commission <DiscourseConnective annotation_id="3143">et</DiscourseConnective> tous ceux qui ont contribué <DiscourseConnective annotation_id="3174">à</DiscourseConnective> la consultation publique <DiscourseConnective annotation_id="3201">pour</DiscourseConnective> leur aide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2917" docOffset="21">
+      <en>It is imperative to simplify access to funds for research and develop a culture of evaluation based on a partnership of trust between all those involved <Alignment alignment="7084" annotation_id="3070">
+          <DiscourseConnective annotation_id="3070" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="3073" sense="Temporal.Synchrony">as</DiscourseConnective> to strengthen research and innovation in Europe, <Alignment alignment="13134" annotation_id="3125">
+          <DiscourseConnective annotation_id="3125" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> making it an attractive place to live, work and be happy.</en>
+      <fr>Il est impératif de simplifier l'accès au financement de la recherche <DiscourseConnective annotation_id="3287">et</DiscourseConnective> de développer une culture de l'évaluation s'appuyant sur un partenariat de confiance entre toutes les parties concernées <Alignment alignment="7300" annotation_id="3411">
+          <DiscourseConnective annotation_id="3411" sense="Contingency.Cause.Result">afin de</DiscourseConnective>
+        </Alignment> renforcer la recherche <DiscourseConnective annotation_id="3442">et</DiscourseConnective> l'innovation <DiscourseConnective annotation_id="3458">en</DiscourseConnective> Europe, <Alignment alignment="3125" annotation_id="3469">
+          <DiscourseConnective annotation_id="3469" sense="Contingency.Cause.Result">pour</DiscourseConnective>
+        </Alignment> en faire un continent où l'on a envie de vivre, de travailler <DiscourseConnective annotation_id="3536">et</DiscourseConnective> d'être heureux.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3188" id="308" name="Ilda Figueiredo">
+    <ParallelChunk annotation_id="3188" docOffset="22">
+      <en>(PT) I would like to begin by congratulating the rapporteur on the work that she has carried out, <Alignment alignment="26214" annotation_id="3286">
+          <DiscourseConnective annotation_id="3286" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the simplification of the implementation of the research framework programmes is necessary, <Alignment alignment="40805" annotation_id="3381">
+          <DiscourseConnective annotation_id="3381" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="6865" annotation_id="3386">
+          <DiscourseConnective annotation_id="3386" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the rapporteur pointed out, this is only one of the many reforms that are needed to improve the financing of research in the EU <Alignment alignment="26434" annotation_id="3517">
+          <DiscourseConnective annotation_id="3517" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> it is more efficient and useful in promoting development and social progress.</en>
+      <fr>(PT) Je souhaite commencer par féliciter la rapporteure <DiscourseConnective annotation_id="3611">pour</DiscourseConnective> le travail <DiscourseConnective annotation_id="3627">qu'</DiscourseConnective>elle a accompli, <Alignment alignment="3286" annotation_id="3647">
+          <DiscourseConnective annotation_id="3647" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> la simplification de la mise en œuvre des programmes-cadres de recherche est nécessaire <Alignment alignment="3381" annotation_id="3739">
+          <DiscourseConnective annotation_id="3739" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="404" annotation_id="3743">
+          <DiscourseConnective annotation_id="3743" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> la rapporteure l'a signalé, il ne <DiscourseConnective annotation_id="3783">s'</DiscourseConnective>agit là <DiscourseConnective annotation_id="3793">que</DiscourseConnective> d'une des nombreuses réformes nécessaires <DiscourseConnective annotation_id="3839">à</DiscourseConnective> l'amélioration du financement de la recherche dans l'UE <Alignment alignment="1176" annotation_id="3897">
+          <DiscourseConnective annotation_id="3897" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>accroître son efficacité <DiscourseConnective annotation_id="3929">et</DiscourseConnective> son utilité <DiscourseConnective annotation_id="3944">pour</DiscourseConnective> favoriser le développement <DiscourseConnective annotation_id="3976">et</DiscourseConnective> le progrès social.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3603" docOffset="23">
+      <en>The report proposes extending the scope of the Commission's initial proposal, which we think is correct, especially in important aspects such as the financial regulation and the presentation of concrete proposals to simplify the calculation of average staff costs and to abolish time-recording mechanisms, including timesheets.</en>
+      <fr>Le rapport propose d'étendre la portée de la proposition initiale de la Commission, ce qui nous semble pertinent, particulièrement concernant d'importants aspects tels <DiscourseConnective annotation_id="4166">que</DiscourseConnective> le règlement financier <DiscourseConnective annotation_id="4193">et</DiscourseConnective> la présentation de propositions concrètes <DiscourseConnective annotation_id="4238">pour</DiscourseConnective> simplifier le calcul des coûts moyens de personnel <DiscourseConnective annotation_id="4294">et</DiscourseConnective> supprimer les mécanismes d'enregistrement du temps de travail, y compris les relevés des heures de travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3931" docOffset="24">
+      <en>In the same way, it is <Alignment alignment="9282" annotation_id="3954">
+          <DiscourseConnective annotation_id="3954" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> important for the Commission to allow the reimbursement of costs incurred after the submission of a proposal, provided it is successful, with the aim of facilitating the participation of industry partners and, in particular, small and medium-sized enterprises.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4405">De même</DiscourseConnective>, il est <Alignment alignment="3954" annotation_id="4421">
+          <DiscourseConnective annotation_id="4421" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> important <DiscourseConnective annotation_id="4441">que</DiscourseConnective> la Commission permette le remboursement des frais encourus <DiscourseConnective annotation_id="4504">après</DiscourseConnective> le dépôt d'une proposition, <DiscourseConnective annotation_id="4538">à condition qu'</DiscourseConnective>elle <DiscourseConnective annotation_id="4558">soit</DiscourseConnective> retenue, <DiscourseConnective annotation_id="4572">dans le but de</DiscourseConnective> faciliter la participation des partenaires de l'industrie <DiscourseConnective annotation_id="4645">et</DiscourseConnective>, <DiscourseConnective annotation_id="4649">en particulier</DiscourseConnective>, des petites <DiscourseConnective annotation_id="4677">et</DiscourseConnective> moyennes entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4220" docOffset="25">
+      <en>
+        <Alignment alignment="26817" annotation_id="4220">
+          <DiscourseConnective annotation_id="4220" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> science, innovation and education are to be pillars of economic growth and job creation, it is vital to bear in mind the proposals contained in this report and to focus more on science and research.</en>
+      <fr>
+        <Alignment alignment="939" annotation_id="4702">
+          <DiscourseConnective annotation_id="4702" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> l'on veut que la science, l'innovation <DiscourseConnective annotation_id="4744">et</DiscourseConnective> l'éducation soient les piliers de la croissance économique <DiscourseConnective annotation_id="4806">et</DiscourseConnective> de la création d'emplois, il est essentiel de garder <DiscourseConnective annotation_id="4862">à</DiscourseConnective> l'esprit les propositions contenues dans ce rapport <DiscourseConnective annotation_id="4916">et</DiscourseConnective> de se concentrer davantage sur la science <DiscourseConnective annotation_id="4961">et</DiscourseConnective> la recherche.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4422" id="309" name="Jean-Pierre Audy">
+    <ParallelChunk annotation_id="4422" docOffset="26">
+      <en>(FR) Mr President, I would like to thank Mrs Carvalho, who has done a tremendous job, as well as the European Commission. I would <DiscourseConnective annotation_id="4552" sense="Expansion.Conjunction">also</DiscourseConnective> ask you, Commissioner, to convey my thanks to Mrs Geoghegan-Quinn, who has understood this process of simplification and communication.</en>
+      <fr>Monsieur le Président, je voudrais remercier Mme Maria da Graça Carvalho, qui a fait un travail extraordinaire, <DiscourseConnective annotation_id="5090">mais aussi</DiscourseConnective> la Commission européenne et je vous demande, Madame la Commissaire, de transmettre mes remerciements <DiscourseConnective annotation_id="5202">à</DiscourseConnective> Mme Geoghegan-Quinn, qui a apprécié cette démarche de simplification <DiscourseConnective annotation_id="5273">et</DiscourseConnective> la communication.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4693" docOffset="27">
+      <en>We must simplify the future, but also settle the past.</en>
+      <fr>Il faut simplifier l'avenir, <DiscourseConnective annotation_id="5323">mais</DiscourseConnective> il faut <DiscourseConnective annotation_id="5336">aussi</DiscourseConnective> solder le passé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4748" docOffset="28">
+      <en>The Commission's auditors should never have applied rules that were stricter than those already approved, <Alignment alignment="14950" annotation_id="4854">
+          <DiscourseConnective annotation_id="4854" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is why we must settle the past, Commissioner.</en>
+      <fr>Les auditeurs de la Commission n'auraient jamais dû appliquer des règles plus strictes <DiscourseConnective annotation_id="5446">que</DiscourseConnective> celles qui ont <DiscourseConnective annotation_id="5465">déjà</DiscourseConnective> été approuvées <Alignment alignment="3145" annotation_id="5485">
+          <DiscourseConnective annotation_id="5485" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5488">donc</DiscourseConnective>, Madame la Commissaire, il faut solder le passé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4909" docOffset="29">We narrowly escaped disaster with research institutes that were suspicious of the European Union.</ParallelChunk>
+<ParallelChunk annotation_id="5007" docOffset="30">
+      <en>Today, with wisdom and respect for good management, and using tolerable risks of error, but also taking into account independent re-audits, <DiscourseConnective annotation_id="5147" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="5151" sense="Contingency.Condition">if</DiscourseConnective> that fails - <DiscourseConnective annotation_id="5167" sense="Temporal.Synchrony">as</DiscourseConnective> I proposed, and as was accepted - bringing in an independent mediator, we must regain the confidence of all our research institutes, with proper monitoring and European funding, of course. <DiscourseConnective annotation_id="5359" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>, on the basis of a relationship of trust between Member States and the European Union, we will begin negotiating the next financial perspective in order to better establish the focal point of our research and make it more European.</en>
+      <fr>Nous avons frôlé la catastrophe avec des instituts de recherche qui étaient en défiance de l'Union européenne et aujourd'hui, avec discernement, tout en respectant la bonne gestion et en utilisant le risque tolérable d'erreurs, mais également la prise en compte de contre-audits indépendants, et le cas échéant - comme je l'ai proposé, et comme l'a été accepté -, la mise en œuvre d'un médiateur indépendant, nous devons retrouver la confiance de l'ensemble de nos instituts de recherche, bien sûr avec de bons contrôles et des financements européens; nous irons alors à la négociation des prochaines perspectives budgétaires pour pouvoir davantage régler notre curseur de la recherche afin de mieux européaniser la recherche dans un lien de confiance entre les États membres et l'Union européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5596" id="310" name="Marisa Matias">
+    <ParallelChunk annotation_id="5596" docOffset="31">
+      <en>(PT) First of all, I would like to begin by offering my congratulations to Mrs Carvalho for the excellent report that she presented to us here today, and also for the way in which she conducted this process in such a democratic manner, both inside and outside Parliament.</en>
+      <fr>(PT) <DiscourseConnective annotation_id="6347">Tout d'abord</DiscourseConnective>, je voudrais commencer par adresser mes félicitations <DiscourseConnective annotation_id="6414">à</DiscourseConnective> Mme Carvalho <DiscourseConnective annotation_id="6429">pour</DiscourseConnective> l'excellent rapport <DiscourseConnective annotation_id="6454">qu'</DiscourseConnective>elle nous a présenté ici aujourd'hui, <DiscourseConnective annotation_id="6495">ainsi</DiscourseConnective> que <DiscourseConnective annotation_id="6505">pour</DiscourseConnective> la manière dont elle a mené ce processus de façon <DiscourseConnective annotation_id="6560">aussi</DiscourseConnective> démocratique, à l'intérieur <DiscourseConnective annotation_id="6594">comme</DiscourseConnective> à l'extérieur de ce Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5868" docOffset="32">
+      <en>I think that this should be recognised, <Alignment alignment="15428" annotation_id="5908">
+          <DiscourseConnective annotation_id="5908" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> so I would like to offer her my thanks.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="6640">qu'</DiscourseConnective>il faut le reconnaître, <Alignment alignment="1539" annotation_id="6667">
+          <DiscourseConnective annotation_id="6667" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je tiens <DiscourseConnective annotation_id="6679">donc</DiscourseConnective> <DiscourseConnective annotation_id="6684">à</DiscourseConnective> la remercier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5952" docOffset="33">
+      <en>The Seventh Framework Programme is the largest and furthest-reaching programme that we have at a global level in terms of research, and the Commission's proposed simplification is very welcome in that respect.</en>
+      <fr>Le septième programme-cadre est le programme le plus vaste <DiscourseConnective annotation_id="6759">et</DiscourseConnective> le plus ambitieux qui <DiscourseConnective annotation_id="6784">soit</DiscourseConnective> déployé au niveau mondial <DiscourseConnective annotation_id="6815">en</DiscourseConnective> matière de recherche <DiscourseConnective annotation_id="6839">et</DiscourseConnective> la simplification proposée par la Commission est vraiment bienvenue <DiscourseConnective annotation_id="6910">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6162" docOffset="34">
+      <en>
+        <Alignment alignment="6923" annotation_id="6162">
+          <DiscourseConnective annotation_id="6162" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the proposal which Parliament is presenting here greatly enhances the Commission's proposal.</en>
+      <fr>
+        <Alignment alignment="3377" annotation_id="6923">
+          <DiscourseConnective annotation_id="6923" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, la proposition <DiscourseConnective annotation_id="6949">que</DiscourseConnective> le Parlement présente ici améliore considérablement la proposition de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6264" docOffset="35">
+      <en>It does so by recognising that simplification is not enough, by making the clear and crucial distinction between research and innovation, by appreciating the different areas of research, by enhancing its clarity, transparency, participation and democracy, by ensuring equal opportunities in access to available funding, by opting for a model that is less focused on bureaucracy and bureaucratic control <DiscourseConnective annotation_id="6667" sense="Expansion.Conjunction">and</DiscourseConnective> more oriented towards excellence in research, by recognising the importance of the different scientific fields and by advocating that partners are chosen <DiscourseConnective annotation_id="6825" sense="Expansion.Conjunction">and</DiscourseConnective> alliances forged with partners under equal circumstances.</en>
+      <fr>En effet, elle reconnaît que la simplification n'est pas suffisante, elle établit une distinction nette et fondamentale entre la recherche et l'innovation, elle valorise les différents domaines de la recherche, elle renforce sa clarté, sa transparence, la participation et la démocratie, elle garantit l'égalité des chances concernant l'accès aux fonds disponibles, elle opte pour un modèle moins axé sur la bureaucratie et le contrôle bureaucratique et plus orienté vers l'excellence dans la recherche, elle reconnaît l'importance des différents domaines scientifiques et elle défend l'idée selon laquelle les partenaires doivent être choisis et que les alliances avec les partenaires doivent être formées dans des conditions d'égalité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6887" docOffset="36">
+      <en>Mr President, I would <DiscourseConnective annotation_id="6909" sense="Contingency.Cause.Result">therefore</DiscourseConnective> like to conclude by saying that the implementation of this proposal would result in a clear improvement in working conditions for all researchers in Europe, as well as greater prestige and further improvements for research in Europe.</en>
+      <fr>Monsieur le Président, en conclusion, je voudrais <DiscourseConnective annotation_id="7826">dire que</DiscourseConnective> la mise en œuvre de cette proposition conduirait <DiscourseConnective annotation_id="7884">à</DiscourseConnective> une nette amélioration des conditions de travail de tous les chercheurs <DiscourseConnective annotation_id="7958">en</DiscourseConnective> Europe, <DiscourseConnective annotation_id="7969">ainsi</DiscourseConnective> qu'à un plus grand prestige <DiscourseConnective annotation_id="8003">et</DiscourseConnective> à de nouvelles améliorations <DiscourseConnective annotation_id="8035">pour</DiscourseConnective> la recherche <DiscourseConnective annotation_id="8053">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7153" docOffset="37">
+      <en>This is why we need to work together.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8064">C'est pourquoi</DiscourseConnective> nous devons collaborer.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7191" id="311" name="Seán Kelly">
+    <ParallelChunk annotation_id="7191" docOffset="38">
+      <en>Mr President, an awful lot of the undoubtedly good work done by the European Union is ruined by stories of too much complication, and particularly of people trying to get funding and not being able to access it, despite going to huge efforts such as taking on people full-time for a number of months to make an application, and <DiscourseConnective annotation_id="7519" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> not being successful.</en>
+      <fr>(EN) Monsieur le Président, une très grande partie du travail réalisé par l'Union européenne, qui est pourtant sans nul doute du bon travail, est réduit à néant par des complications excessives, <DiscourseConnective annotation_id="8298">et</DiscourseConnective> <DiscourseConnective annotation_id="8301">notamment</DiscourseConnective> par des personnes qui essayent en vain d'obtenir des fonds, malgré d'énormes efforts tels <DiscourseConnective annotation_id="8401">que</DiscourseConnective> l'embauche de personnes à temps plein pendant plusieurs mois <DiscourseConnective annotation_id="8466">pour</DiscourseConnective> présenter une demande, <DiscourseConnective annotation_id="8494">et</DiscourseConnective> ce <DiscourseConnective annotation_id="8500">sans</DiscourseConnective> succès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7546" docOffset="39">
+      <en>I have heard a number of stories in this regard.</en>
+      <fr>J'ai entendu plusieurs récits de ce genre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7595" docOffset="40">
+      <en>The same applies to applications for funding under cultural and educational programmes.</en>
+      <fr>Il en est de même <DiscourseConnective annotation_id="8574">pour</DiscourseConnective> les demandes de fonds dans le cadre des programmes culturels <DiscourseConnective annotation_id="8640">et</DiscourseConnective> éducatifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7683" docOffset="41">
+      <en>
+        <Alignment alignment="8654" annotation_id="7683">
+          <DiscourseConnective annotation_id="7683" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we can do one thing, it is to meet the target in 2020 of reducing red tape by 25%.</en>
+      <fr>
+        <Alignment alignment="7683" annotation_id="8654">
+          <DiscourseConnective annotation_id="8654" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il y a bien une chose à faire, c'est atteindre <DiscourseConnective annotation_id="8703">en</DiscourseConnective> 2020 l'objectif de réduction des formalités administratives de 25 %.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7769" docOffset="42">
+      <en>
+        <Alignment alignment="22471" annotation_id="7769">
+          <Alignment alignment="16653" annotation_id="7769">
+            <DiscourseConnective annotation_id="7769" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, that target should be raised to a 50% reduction <Alignment alignment="8819" annotation_id="7826">
+          <DiscourseConnective annotation_id="7826" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we can because, as has been said, in application and in auditing, a lot of the good work we have done has been obliterated by stories of difficulties that arose owing to over-complication.</en>
+      <fr>
+        <Alignment alignment="8529" annotation_id="8775">
+          <Alignment alignment="7769" annotation_id="8775">
+            <DiscourseConnective annotation_id="8775" sense="Expansion.Conjunction">En fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, ce taux devrait être relevé <DiscourseConnective annotation_id="8812">à</DiscourseConnective> 50 % <Alignment alignment="7826" annotation_id="8819">
+          <DiscourseConnective annotation_id="8819" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous y parvenons, <DiscourseConnective annotation_id="8840">car</DiscourseConnective>, <DiscourseConnective annotation_id="8845">comme</DiscourseConnective> je viens de le dire, concernant les demandes <DiscourseConnective annotation_id="8896">et</DiscourseConnective> l'audit, une grande partie du bon travail que nous avons effectué a été anéanti par des difficultés rencontrées en raison de complications excessives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8018" docOffset="43">
+      <en>Simplification is the way forward.</en>
+      <fr>La simplification est la voie à suivre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8053" id="312" name="Cecilia Malmström">
+    <ParallelChunk annotation_id="8053" docOffset="44">
+      <en>Member of the Commission. - Mr President, I would like to congratulate Mrs Carvalho for this very comprehensive report.</en>
+      <fr>Monsieur le Président, je voudrais féliciter Mme Carvalho <DiscourseConnective annotation_id="9148">pour</DiscourseConnective> ce rapport très complet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8173" docOffset="45">
+      <en>She draws attention to major concerns within the field of European research: the question of the complexity of the rules for the beneficiaries and the very heavy administrative burden.</en>
+      <fr>Elle attire l'attention sur des préoccupations importantes dans le domaine de la recherche européenne: la question de la complexité des règles <DiscourseConnective annotation_id="9321">pour</DiscourseConnective> les bénéficiaires <DiscourseConnective annotation_id="9344">et</DiscourseConnective> la très lourde charge administrative.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8358" docOffset="46">
+      <en>In April this year, the Commission adopted a communication on this subject, presenting a long list of short- and long-term options for simplification.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9385">En</DiscourseConnective> avril dernier, la Commission a adopté une communication sur ce sujet, présentant une longue liste de possibilités de simplification à court <DiscourseConnective annotation_id="9528">et</DiscourseConnective> à long terme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8509" docOffset="47">
+      <en>This triggered a very important interinstitutional debate.</en>
+      <fr>Cela a lancé un débat interinstitutionnel très important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8568" docOffset="48">
+      <en>The Commission is very grateful that Parliament has dealt with this matter with such priority.</en>
+      <fr>La Commission est très reconnaissante au Parlement d'avoir traité ce dossier <DiscourseConnective annotation_id="9680">en</DiscourseConnective> lui accordant une telle priorité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8663" docOffset="49">
+      <en>The Commission is <Alignment alignment="2574" annotation_id="8681">
+          <DiscourseConnective annotation_id="8681" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> very grateful that the report supports the majority of the proposals, and even contains some of Parliament's own, which are very interesting.</en>
+      <fr>La Commission se félicite <Alignment alignment="8681" annotation_id="9743">
+          <DiscourseConnective annotation_id="9743" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de ce <DiscourseConnective annotation_id="9759">que</DiscourseConnective> le rapport soutienne la majorité des propositions <DiscourseConnective annotation_id="9813">et</DiscourseConnective> contienne <DiscourseConnective annotation_id="9826">même</DiscourseConnective> certaines des propositions du Parlement, qui sont très intéressantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8828" docOffset="50">
+      <en>Similar support was given by the Council <Alignment alignment="3958" annotation_id="8869">
+          <DiscourseConnective annotation_id="8869" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, on the basis of this very broad interinstitutional consensus, we should now turn to action.</en>
+      <fr>Le Conseil a apporté un soutien semblable <Alignment alignment="2877" annotation_id="9943">
+          <DiscourseConnective annotation_id="9943" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, sur la base de ce très large consensus interinstitutionnel, nous devrions désormais passer <DiscourseConnective annotation_id="10038">à</DiscourseConnective> l'action.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8966" docOffset="51">
+      <en>We are fully committed to achieving simplification and adhering to the simplification principles <DiscourseConnective annotation_id="9063" sense="Temporal.Synchrony">as</DiscourseConnective> stated in your report: simplicity, transparency, legal certainty, consistency, excellence and, <Alignment alignment="13722" annotation_id="9161">
+          <DiscourseConnective annotation_id="9161" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr Audy said, a more trust-based approach towards our research institutions is, of course, an important guideline for managing the activities.</en>
+      <fr>Nous nous sommes pleinement engagés en faveur des objectifs de la simplification <DiscourseConnective annotation_id="10131">et</DiscourseConnective> de l'adhésion aux principes de simplification indiqués dans votre rapport: la simplicité, la transparence, la sécurité juridique, la cohérence et l'excellence <DiscourseConnective annotation_id="10293">et</DiscourseConnective>, <Alignment alignment="3809" annotation_id="10297">
+          <DiscourseConnective annotation_id="10297" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a dit M. Audy, une approche davantage fondée sur la confiance envers nos instituts de recherche est, bien entendu, une importante ligne de conduite à adopter dans la gestion des activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9307" docOffset="52">
+      <en>Some of the proposals in your report and in the Council conclusions can be implemented within the current framework.</en>
+      <fr>Certaines des propositions formulées dans votre rapport <DiscourseConnective annotation_id="10550">et</DiscourseConnective> dans les conclusions du Conseil peuvent être mises en œuvre dans le cadre actuel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9424" docOffset="53">
+      <en>The Commission's services are now reaching out for solutions which can be swiftly implemented.</en>
+      <fr>Les services de la Commission <DiscourseConnective annotation_id="10665">s'</DiscourseConnective>efforcent de trouver des solutions pouvant être rapidement mises en œuvre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9519" docOffset="54">
+      <en>We are considering solutions for broadening the acceptance of average cost methodologies, and for a more flexible approach on interest on pre-financing and a lump sum option for the personnel costs of owner-managers of SMEs.</en>
+      <fr>Nous envisageons des solutions visant <DiscourseConnective annotation_id="10780">à</DiscourseConnective> élargir l'acceptation de méthodes des coûts moyens <DiscourseConnective annotation_id="10833">et</DiscourseConnective> en faveur d'une approche plus souple concernant les intérêts produits par le préfinancement <DiscourseConnective annotation_id="10928">et</DiscourseConnective> la possibilité d'une somme forfaitaire <DiscourseConnective annotation_id="10970">pour</DiscourseConnective> les frais de personnel des propriétaires/directeurs de PME.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9744" docOffset="55">
+      <en>We <Alignment alignment="11048" annotation_id="9747">
+          <DiscourseConnective annotation_id="9747" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> take very seriously the concerns on inconsistent interpretation of rules and procedures by the different services <DiscourseConnective annotation_id="9866" sense="Temporal.Synchrony">when</DiscourseConnective> implementing the FP7.</en>
+      <fr>Nous prenons <Alignment alignment="9747" annotation_id="11048">
+          <DiscourseConnective annotation_id="11048" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> très au sérieux les préoccupations relatives à l'interprétation incohérente des règles <DiscourseConnective annotation_id="11145">et</DiscourseConnective> des procédures par les différents services lors de la mise en œuvre du 7e PC.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9893" docOffset="56">
+      <en>We are working intensely on implementing measures that ensure a more uniform interpretation and application of the rules.</en>
+      <fr>Nous travaillons ardemment <DiscourseConnective annotation_id="11253">à</DiscourseConnective> la mise en œuvre de mesures garantissant une interprétation <DiscourseConnective annotation_id="11315">et</DiscourseConnective> une application plus uniformes des règles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10015" docOffset="57">
+      <en>We will <Alignment alignment="30129" annotation_id="10023">
+          <DiscourseConnective annotation_id="10023" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> work on further reducing delays in providing grants and payments.</en>
+      <fr>Nous travaillerons <Alignment alignment="10023" annotation_id="11380">
+          <DiscourseConnective annotation_id="11380" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11390">à</DiscourseConnective> réduire davantage les délais dans l'octroi des subventions <DiscourseConnective annotation_id="11451">et</DiscourseConnective> des paiements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10094" docOffset="58">
+      <en>We must not forget that the more profound changes do require a revision of the Financial Regulation and its implementing rules.</en>
+      <fr>Nous ne devons pas oublier <DiscourseConnective annotation_id="11496">que</DiscourseConnective> les changements plus profonds requièrent bel et bien une révision du règlement financier <DiscourseConnective annotation_id="11589">et</DiscourseConnective> de ses modalités d'exécution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10222" docOffset="59">
+      <en>Only <Alignment alignment="13495" annotation_id="10227">
+          <DiscourseConnective annotation_id="10227" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> can we really remove some of the big constraints.</en>
+      <fr>Ce n'est qu'<Alignment alignment="5274" annotation_id="11634">
+          <DiscourseConnective annotation_id="11634" sense="Temporal.Asynchronous.Precedence">alors que</DiscourseConnective>
+        </Alignment> nous pourrons réellement supprimer certaines des grosses contraintes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10282" docOffset="60">
+      <en>The current control strategy for research expenditure has been designed to detect and correct errors <Alignment alignment="2403" annotation_id="10383">
+          <DiscourseConnective annotation_id="10383" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10386" sense="Temporal.Synchrony">as</DiscourseConnective> to bring the residual error level down to below 2%.</en>
+      <fr>L'actuelle stratégie de contrôle des dépenses liées à la recherche a été conçue <DiscourseConnective annotation_id="11794">pour</DiscourseConnective> détecter <DiscourseConnective annotation_id="11808">et</DiscourseConnective> corriger les erreurs <Alignment alignment="10383" annotation_id="11832">
+          <DiscourseConnective annotation_id="11832" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>abaisser le niveau d'erreur résiduel en-dessous de 2 %.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10441" docOffset="61">
+      <en>The Commission agrees that this is costly and puts a great administrative burden both on the beneficiaries and on the Commission.</en>
+      <fr>La Commission convient <DiscourseConnective annotation_id="11918">que</DiscourseConnective> c'est coûteux <DiscourseConnective annotation_id="11936">et</DiscourseConnective> que cela constitue une lourde charge administrative <DiscourseConnective annotation_id="11991">pour</DiscourseConnective> les bénéficiaires <DiscourseConnective annotation_id="12014">et</DiscourseConnective> <DiscourseConnective annotation_id="12017">pour</DiscourseConnective> la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10571" docOffset="62">
+      <en>
+        <DiscourseConnective annotation_id="10571" sense="Contingency.Cause.Result">So</DiscourseConnective> a higher tolerable risk of errors, <Alignment alignment="9334" annotation_id="10609">
+          <DiscourseConnective annotation_id="10609" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> supported in your report, could allow the Commission to modulate the control effort, to optimise cost effectiveness and to balance the need for effective control with establishing a more trust-based relationship with researchers.</en>
+      <fr>La tolérance d'un risque d'erreur plus élevé, <Alignment alignment="10609" annotation_id="12083">
+          <DiscourseConnective annotation_id="12083" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le propose le rapport, pourrait donc permettre à la Commission de moduler les efforts de contrôle, d'optimiser le rapport coût/efficacité <DiscourseConnective annotation_id="12227">et</DiscourseConnective> d'équilibrer le besoin d'exercer un contrôle efficace <DiscourseConnective annotation_id="12284">en</DiscourseConnective> établissant une relation davantage basée sur la confiance avec les chercheurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10842" docOffset="63">
+      <en>Thank you very much for the report and to everybody who has been involved with it.</en>
+      <fr>Merci beaucoup <DiscourseConnective annotation_id="12381">pour</DiscourseConnective> ce rapport <DiscourseConnective annotation_id="12397">et</DiscourseConnective> je remercie également tous ceux qui y ont participé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10925" docOffset="64">
+      <en>It has cleared the ground for very good and important work in the future.</en>
+      <fr>Il a préparé le terrain <DiscourseConnective annotation_id="12477">pour</DiscourseConnective> permettre <DiscourseConnective annotation_id="12492">à</DiscourseConnective> l'avenir de mener de très bons <DiscourseConnective annotation_id="12525">et</DiscourseConnective> importants travaux.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10999" id="313" name="President">
+    <ParallelChunk annotation_id="10999" docOffset="65">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11021" docOffset="66">
+      <en>The vote will take place tomorrow, Thursday, 11 November 2010, at 12:00.</en>
+      <fr>Le vote aura lieu demain, jeudi 11 novembre 2010 <DiscourseConnective annotation_id="12616">à</DiscourseConnective> 12 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11094" docOffset="67">
+      <en>Written statements (Rule 149)</en>
+      <fr>Déclarations écrites (article 149)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11124" id="982" language="PT" name="Luís Paulo Alves">
+    <ParallelChunk annotation_id="11124" docOffset="68">
+      <en>Innovation and research are now the critical elements of the new development strategy for our continent: the EU 2020 strategy.</en>
+      <fr>L'innovation <DiscourseConnective annotation_id="12677">et</DiscourseConnective> la recherche sont désormais au cœur de la nouvelle stratégie de développement de notre continent: la stratégie Europe 2020.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11251" docOffset="69">
+      <en>Commitment to research and development has a concrete impact on economic activity, <Alignment alignment="26558" annotation_id="11334">
+          <DiscourseConnective annotation_id="11334" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> only innovation gives guarantees of future production with strong value added and, <Alignment alignment="29096" annotation_id="11423">
+          <DiscourseConnective annotation_id="11423" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, of increasing levels of job creation and the European Union's competitiveness at international level.</en>
+      <fr>L'engagement en faveur de la recherche <DiscourseConnective annotation_id="12843">et</DiscourseConnective> du développement a un effet concret sur l'activité économique, <Alignment alignment="14" annotation_id="12909">
+          <DiscourseConnective annotation_id="12909" sense="Contingency.Cause.Reason">étant donné que</DiscourseConnective>
+        </Alignment> seule l'innovation fournit des garanties de production future avec une forte valeur ajoutée <DiscourseConnective annotation_id="13017">et</DiscourseConnective>, <Alignment alignment="11423" annotation_id="13021">
+          <DiscourseConnective annotation_id="13021" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, d'une hausse des niveaux de création d'emplois <DiscourseConnective annotation_id="13084">et</DiscourseConnective> de compétitivité de l'Union européenne <DiscourseConnective annotation_id="13126">à</DiscourseConnective> l'échelle internationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11536" docOffset="70">
+      <en>I have always argued that the regional level is the most appropriate for stimulating research and innovation <Alignment alignment="34533" annotation_id="11645">
+          <DiscourseConnective annotation_id="11645" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it favours universities, public research bodies, large companies, small and medium-sized enterprises, and regional and local public authorities working closely together, specifically as clusters.</en>
+      <fr>J'ai toujours fait valoir <DiscourseConnective annotation_id="13180">que</DiscourseConnective> le niveau régional est le plus adéquat <DiscourseConnective annotation_id="13223">pour</DiscourseConnective> stimuler la recherche <DiscourseConnective annotation_id="13250">et</DiscourseConnective> l'innovation, <Alignment alignment="5228" annotation_id="13267">
+          <DiscourseConnective annotation_id="13267" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il favorise les universités, les établissements de recherche publics, les grandes sociétés, les petites <DiscourseConnective annotation_id="13375">et</DiscourseConnective> moyennes entreprises <DiscourseConnective annotation_id="13399">et</DiscourseConnective> une collaboration étroite entre les pouvoirs publics régionaux <DiscourseConnective annotation_id="13465">et</DiscourseConnective> locaux, particulièrement sous la forme de groupements ("clusters").</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11849" docOffset="71">
+      <en>In my region, the Azores, this fact is visible in the dominance of the oceanic and marine research undertaken by the Department of Oceanography and Fisheries of the University of the Azores.</en>
+      <fr>Dans ma région, les Açores, la dominance de la recherche océanique <DiscourseConnective annotation_id="13603">et</DiscourseConnective> marine menée par le département d'océanographie <DiscourseConnective annotation_id="13654">et</DiscourseConnective> de la pêche de l'université des Açores le montre clairement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12040" docOffset="72">
+      <en>Encouraging innovation at regional level <Alignment alignment="5638" annotation_id="12081">
+          <DiscourseConnective annotation_id="12081" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> contributes to attenuating social and regional disparities, making it essential for cohesion policy to continue to contribute to financing these activities in the outermost regions, like the Azores.</en>
+      <fr>Encourager l'innovation au niveau régional contribue <Alignment alignment="14303" annotation_id="13771">
+          <DiscourseConnective annotation_id="13771" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13781">à</DiscourseConnective> atténuer les disparités sociales <DiscourseConnective annotation_id="13816">et</DiscourseConnective> régionales, et il est donc indispensable <DiscourseConnective annotation_id="13860">que</DiscourseConnective> la politique de cohésion continue de contribuer <DiscourseConnective annotation_id="13912">à</DiscourseConnective> financer ces activités dans les régions ultrapériphériques, telles que les Açores.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12285" id="981" language="IT" name="Roberta Angelilli">
+    <ParallelChunk annotation_id="12285" docOffset="73">
+      <en>In view of the mid-term review of the Seventh Research Framework Programme and of the preparation of the future rules for the forthcoming framework programme, we need to consider and find solutions to enable us to eliminate certain obstacles that are making it difficult for interested parties to access EU funding.</en>
+      <fr>Compte tenu de l'examen à mi-parcours du septième programme-cadre de recherche <DiscourseConnective annotation_id="14076">et</DiscourseConnective> de l'élaboration des futures règles du prochain programme-cadre, nous devons tenter de trouver des solutions nous permettant d'éliminer certains obstacles qui compliquent l'accès des parties intéressées aux fonds européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12601" docOffset="74">
+      <en>
+        <Alignment alignment="5969" annotation_id="12601">
+          <DiscourseConnective annotation_id="12601" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we are to create a knowledge- and innovation-based European economy, we need to invest in research, <DiscourseConnective annotation_id="12704" sense="Contingency.Cause.Result">thus</DiscourseConnective> enabling SMEs, universities, public research bodies and regional and local authorities to benefit from the financial resources made available by the EU.</en>
+      <fr>
+        <Alignment alignment="13667" annotation_id="14303">
+          <DiscourseConnective annotation_id="14303" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous voulons créer une économie européenne fondée sur la connaissance <DiscourseConnective annotation_id="14376">et</DiscourseConnective> l'innovation, nous devons investir dans la recherche, permettant ainsi aux PME, aux universités, aux établissements de recherche publics <DiscourseConnective annotation_id="14516">et</DiscourseConnective> aux pouvoirs régionaux <DiscourseConnective annotation_id="14542">et</DiscourseConnective> locaux de bénéficier des ressources financières octroyées par l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12862" docOffset="75">
+      <en>
+        <Alignment alignment="14613" annotation_id="12862">
+          <DiscourseConnective annotation_id="12862" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, access to funding in the research sector requires a significant technical capacity and in-depth knowledge of administrative and financial procedures.</en>
+      <fr>
+        <Alignment alignment="12862" annotation_id="14613">
+          <DiscourseConnective annotation_id="14613" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, l'accès au financement dans le secteur de la recherche nécessite des capacités techniques importantes <DiscourseConnective annotation_id="14726">et</DiscourseConnective> une connaissance approfondie des procédures administratives <DiscourseConnective annotation_id="14789">et</DiscourseConnective> financières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13021" docOffset="76">
+      <en>
+        <Alignment alignment="4949" annotation_id="13021">
+          <DiscourseConnective annotation_id="13021" sense="Comparison.Contrast">Yet</DiscourseConnective>
+        </Alignment> it is <Alignment alignment="6484" annotation_id="13031">
+          <DiscourseConnective annotation_id="13031" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> characterised by a tendency to favour 'results-based' projects, meaning that there is low risk tolerance, which discourages the launch of highly innovative projects.</en>
+      <fr>
+        <Alignment alignment="13021" annotation_id="14805">
+          <DiscourseConnective annotation_id="14805" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il se caractérise <Alignment alignment="7367" annotation_id="14828">
+          <DiscourseConnective annotation_id="14828" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> par une tendance <DiscourseConnective annotation_id="14855">à</DiscourseConnective> favoriser les projets "axés sur les résultats", <DiscourseConnective annotation_id="14905">en ce sens qu'</DiscourseConnective>il existe une faible tolérance au risque, ce qui décourage le lancement de projets hautement innovants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13202" docOffset="77">
+      <en>This situation has the effect of discouraging private sector participation and making the research world little more than a collection of uninteresting projects, <DiscourseConnective annotation_id="13364" sense="Contingency.Cause.Result">thus</DiscourseConnective> reducing Europe's competitiveness in the global economy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15023">En conséquence</DiscourseConnective> de cette situation, la participation du secteur privé est découragée <DiscourseConnective annotation_id="15107">et</DiscourseConnective> le monde de la recherche n'est guère plus <DiscourseConnective annotation_id="15152">qu'</DiscourseConnective>une juxtaposition de projets inintéressants, ce qui réduit la compétitivité de l'Europe dans l'économie mondiale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13426" docOffset="78">
+      <en>I support the proposals made in the report, which call on the European Commission to encourage a 'user-centred' approach to improve access to funding and guidance documents, which should be compiled in a handbook and translated into the EU official languages, and to place more confidence in the scientific and business community.</en>
+      <fr>Je soutiens les propositions du rapport, qui invitent la Commission européenne <DiscourseConnective annotation_id="15348">à</DiscourseConnective> encourager une approche "axée sur l'utilisateur" <DiscourseConnective annotation_id="15399">pour</DiscourseConnective> améliorer l'accès au financement <DiscourseConnective annotation_id="15437">et</DiscourseConnective> aux documents d'orientation, lesquels devraient être regroupés dans un manuel <DiscourseConnective annotation_id="15518">et</DiscourseConnective> traduits dans les langues officielles de l'Union, <DiscourseConnective annotation_id="15571">et</DiscourseConnective> <DiscourseConnective annotation_id="15574">à</DiscourseConnective> accorder une plus grande confiance <DiscourseConnective annotation_id="15611">à</DiscourseConnective> la communauté scientifique <DiscourseConnective annotation_id="15640">et</DiscourseConnective> au monde des entreprises.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13757" id="314" language="RO" name="Ioan Enciu">
+    <ParallelChunk annotation_id="13757" docOffset="79">
+      <en>Research and innovation are two elements forming the basis of the Europe 2020 strategy for boosting competitiveness, promoting sustainable economic growth and creating new jobs.</en>
+      <fr>La recherche <DiscourseConnective annotation_id="15682">et</DiscourseConnective> l'innovation sont deux éléments de base de la stratégie Europe 2020 <DiscourseConnective annotation_id="15753">pour</DiscourseConnective> stimuler la compétitivité, favoriser une croissance économique durable <DiscourseConnective annotation_id="15829">et</DiscourseConnective> créer de nouveaux emplois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13935" docOffset="80">
+      <en>In this context, the implementation of the Seventh Framework Programme for research must be improved, especially by speeding up and simplifying the administrative procedures involved, by shortening waiting times and streamlining application management.</en>
+      <fr>Dans ce contexte, la mise en œuvre du septième programme-cadre de la recherche doit être améliorée, <DiscourseConnective annotation_id="15959">surtout</DiscourseConnective> <DiscourseConnective annotation_id="15967">en</DiscourseConnective> accélérant <DiscourseConnective annotation_id="15981">et</DiscourseConnective> en simplifiant les procédures administratives concernées, <DiscourseConnective annotation_id="16042">en</DiscourseConnective> raccourcissant les temps d'attente <DiscourseConnective annotation_id="16080">et</DiscourseConnective> en rationalisant la gestion des demandes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14188" docOffset="81">
+      <en>
+        <Alignment alignment="34045" annotation_id="14188">
+          <DiscourseConnective annotation_id="14188" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would like to stress that, in respect of the new Member States, the framework programme's shortcomings extend beyond the strictly administrative and management remit.</en>
+      <fr>
+        <Alignment alignment="888" annotation_id="16125">
+          <DiscourseConnective annotation_id="16125" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, je tiens <DiscourseConnective annotation_id="16145">à</DiscourseConnective> souligner <DiscourseConnective annotation_id="16157">que</DiscourseConnective>, <DiscourseConnective annotation_id="16162">pour</DiscourseConnective> ce qui est des nouveaux États membres, les lacunes du programme-cadre dépassent les compétences strictement administrative <DiscourseConnective annotation_id="16290">et</DiscourseConnective> de gestion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14366" docOffset="82">
+      <en>The main problem in these countries is linked to the lack of research infrastructure, making it structurally impossible to access the funds allocated via this programme.</en>
+      <fr>Le principal problème dans ces pays est lié au manque d'infrastructures de recherche, ce qui rend structurellement impossible l'accès aux fonds alloués par l'intermédiaire de ce programme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14536" docOffset="83">
+      <en>
+        <Alignment alignment="16494" annotation_id="14536">
+          <DiscourseConnective annotation_id="14536" sense="Contingency.Cause.Result">Consequently</DiscourseConnective>
+        </Alignment>, the Commission should <Alignment alignment="7986" annotation_id="14572">
+          <DiscourseConnective annotation_id="14572" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> incorporate in the future proposal on simplification certain specific measures with a view to establishing the development infrastructures in new Member States to provide them with an equal chance of accessing the research programmes.</en>
+      <fr>
+        <Alignment alignment="14536" annotation_id="16494">
+          <DiscourseConnective annotation_id="16494" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, la Commission devrait <Alignment alignment="4204" annotation_id="16532">
+          <DiscourseConnective annotation_id="16532" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> intégrer dans la future proposition relative à la simplification certaines mesures spécifiques visant <DiscourseConnective annotation_id="16644">à</DiscourseConnective> mettre en place les infrastructures de développement dans de nouveaux États membres <DiscourseConnective annotation_id="16730">afin de</DiscourseConnective> leur donner les mêmes possibilités d'accès aux programmes de recherche.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14812" id="980" language="HU" name="Edit Herczog">
+    <ParallelChunk annotation_id="14812" docOffset="84">
+      <en>The other day, my fellow Members and I adopted with an overwhelming majority the resolution submitted by Mrs Maria da Graça Carvalho on simplifying the financing rules of the Research Framework Programmes.</en>
+      <fr>L'autre jour, mes collègues <DiscourseConnective annotation_id="16838">et</DiscourseConnective> moi-même avons adopté <DiscourseConnective annotation_id="16863">à</DiscourseConnective> une écrasante majorité la résolution déposée par Mme Maria da Graça Carvalho sur la simplification des règles de financement des programmes-cadres de recherche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15018" docOffset="85">
+      <en>The resolution takes steps in a very good direction, <Alignment alignment="23649" annotation_id="15071">
+          <DiscourseConnective annotation_id="15071" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> even more decisive steps are needed.</en>
+      <fr>Cette résolution prend des mesures allant dans une très bonne direction, <Alignment alignment="15071" annotation_id="17099">
+          <DiscourseConnective annotation_id="17099" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> des mesures plus décisives <DiscourseConnective annotation_id="17131">encore</DiscourseConnective> sont requises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15112" docOffset="86">
+      <en>Our current regulatory system requires such a degree of bureaucratic preparation that it excludes precisely IT initiatives, small and medium-sized companies, and smaller research institutions from among those capable of obtaining funding resources.</en>
+      <fr>Notre système réglementaire actuel nécessite un tel degré de préparation bureaucratique <DiscourseConnective annotation_id="17241">qu'</DiscourseConnective>il exclut <DiscourseConnective annotation_id="17254">précisément</DiscourseConnective> les initiatives en matière de technologie de l'information, les petites <DiscourseConnective annotation_id="17338">et</DiscourseConnective> moyennes entreprises <DiscourseConnective annotation_id="17362">et</DiscourseConnective> les petits instituts de recherche des bénéficiaires de fonds potentiels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15361" docOffset="87">
+      <en>
+        <Alignment alignment="6686" annotation_id="15361">
+          <DiscourseConnective annotation_id="15361" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, financial support does not go to the best researchers but rather to the institutes with the best accountants.</en>
+      <fr>Le soutien financier ne va <Alignment alignment="15361" annotation_id="17465">
+          <DiscourseConnective annotation_id="17465" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas aux meilleurs chercheurs, <DiscourseConnective annotation_id="17500">mais</DiscourseConnective> <DiscourseConnective annotation_id="17505">plutôt</DiscourseConnective> aux instituts dotés des meilleurs comptables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15477" docOffset="88">
+      <en>Financial oversight appears currently to be unable to handle any risk, <Alignment alignment="29893" annotation_id="15548">
+          <DiscourseConnective annotation_id="15548" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this is intolerable <Alignment alignment="29239" annotation_id="15572">
+          <DiscourseConnective annotation_id="15572" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to research and development, which often involves investments with uncertain outcomes.</en>
+      <fr>La surveillance financière semble actuellement incapable de contrôler tout risque, <Alignment alignment="15548" annotation_id="17641">
+          <DiscourseConnective annotation_id="17641" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est intolérable <Alignment alignment="15572" annotation_id="17662">
+          <DiscourseConnective annotation_id="17662" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> il <DiscourseConnective annotation_id="17671">s'</DiscourseConnective>agit de recherche <DiscourseConnective annotation_id="17691">et</DiscourseConnective> de développement, qui impliquent souvent des investissements aux résultats incertains.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15673" docOffset="89">
+      <en>Risk ought to be managed, not excluded.</en>
+      <fr>Le risque doit être géré, pas exclu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15713" docOffset="90">
+      <en>There are adequate regulatory solutions to this <Alignment alignment="27198" annotation_id="15761">
+          <DiscourseConnective annotation_id="15761" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> these must be strictly complied with.</en>
+      <fr>Il existe des solutions réglementaires adéquates, <Alignment alignment="4326" annotation_id="17868">
+          <DiscourseConnective annotation_id="17868" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il faut les respecter scrupuleusement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15803" docOffset="91">
+      <en>
+        <Alignment alignment="17910" annotation_id="15803">
+          <DiscourseConnective annotation_id="15803" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, regulations that are structurally incompatible with the nature of research must be reformed.</en>
+      <fr>
+        <Alignment alignment="1886" annotation_id="17910">
+          <DiscourseConnective annotation_id="17910" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, les réglementations qui sont structurellement incompatibles avec la nature de la recherche doivent être réformées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15905" docOffset="92">
+      <en>Another, similarly major deficiency is the geographical asymmetry in the distribution of the research framework programme funds.</en>
+      <fr>Une autre faiblesse, tout <DiscourseConnective annotation_id="18062">aussi</DiscourseConnective> importante, réside dans l'asymétrie géographique de la répartition des fonds du programme-cadre de recherche.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16034" docOffset="93">
+      <en>The opportunity for researchers living in the new Member States to obtain support, <DiscourseConnective annotation_id="16117" sense="Temporal.Synchrony">as</DiscourseConnective> compared to those in the old Member States, is infinitesimal.</en>
+      <fr>La possibilité <DiscourseConnective annotation_id="18193">pour</DiscourseConnective> les chercheurs qui vivent dans les nouveaux États membres d'obtenir un soutien est infinitésimale par rapport <DiscourseConnective annotation_id="18308">à</DiscourseConnective> celle des chercheurs des anciens États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16182" docOffset="94">
+      <en>
+        <Alignment alignment="20266" annotation_id="16182">
+          <Alignment alignment="9418" annotation_id="16182">
+            <DiscourseConnective annotation_id="16182" sense="Contingency.Condition">As long as</DiscourseConnective>
+          </Alignment>
+        </Alignment> the aim of the European Union's research framework programme is to provide the opportunity to all European talent to achieve excellence, it cannot allow such differentiation in the programme's implementation.</en>
+      <fr>
+        <Alignment alignment="4121" annotation_id="18358">
+          <Alignment alignment="11883" annotation_id="18358">
+            <DiscourseConnective annotation_id="18358" sense="Contingency.Condition">Tant que</DiscourseConnective>
+          </Alignment>
+        </Alignment> l'objectif du programme-cadre de recherche de l'Union européenne est de donner la possibilité <DiscourseConnective annotation_id="18461">à</DiscourseConnective> tous les talents européens d'atteindre l'excellence, il ne peut permettre une telle différentiation dans la mise en œuvre du programme.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16402" id="315" language="DE" name="Richard Seeber">
+    <ParallelChunk annotation_id="16402" docOffset="95">
+      <en>In today's knowledge-based society, expertise has a key role to play, particularly in view of the deepest economic crisis in recent history.</en>
+      <fr>Dans la société de la connaissance d'aujourd'hui, l'expertise a un rôle clé <DiscourseConnective annotation_id="18675">à</DiscourseConnective> jouer, <DiscourseConnective annotation_id="18684">notamment</DiscourseConnective> compte tenu de la crise économique la plus profonde de l'histoire contemporaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16543" docOffset="96">
+      <en>Research, development and innovation are extremely important in order to maintain Europe's position as a global economic player as well as its competitiveness.</en>
+      <fr>La recherche, le développement <DiscourseConnective annotation_id="18806">et</DiscourseConnective> l'innovation sont extrêmement importants <DiscourseConnective annotation_id="18850">pour que</DiscourseConnective> l'Europe demeure un acteur économique mondial <DiscourseConnective annotation_id="18905">et</DiscourseConnective> conserve sa compétitivité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16703" docOffset="97">
+      <en>European initiatives for public funding of research programmes are still too bureaucratic <Alignment alignment="16305" annotation_id="16793">
+          <DiscourseConnective annotation_id="16793" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> associated with high administrative costs.</en>
+      <fr>Les initiatives européennes concernant le financement public des programmes de recherche restent trop bureaucratiques <Alignment alignment="16793" annotation_id="19053">
+          <DiscourseConnective annotation_id="19053" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> associées à des coûts administratifs élevés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16840" docOffset="98">
+      <en>Simplification of the Seventh Framework Programme (FP7), currently the largest publicly funded programme for research and technological development, is therefore essential in order to create sufficient incentive for scientific research.</en>
+      <fr>La simplification du septième programme-cadre (7e PC), actuellement le plus grand programme de recherche <DiscourseConnective annotation_id="19206">et</DiscourseConnective> de développement technologique financé par des fonds publics, est <DiscourseConnective annotation_id="19275">donc</DiscourseConnective> essentielle <DiscourseConnective annotation_id="19292">pour</DiscourseConnective> stimuler suffisamment la recherche scientifique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17077" docOffset="99">
+      <en>The research funding should be more trust-based and also more risk-tolerant towards participants in order to allow even projects with a higher risk potential to still seem attractive and to enable the pursuit of cutting edge research.</en>
+      <fr>Le financement de la recherche devrait reposer davantage sur la confiance <DiscourseConnective annotation_id="19420">et</DiscourseConnective> être <DiscourseConnective annotation_id="19428">également</DiscourseConnective> plus tolérant à l'égard du risque pour les participants <DiscourseConnective annotation_id="19494">de sorte que</DiscourseConnective> <DiscourseConnective annotation_id="19507">même</DiscourseConnective> les projets présentant un risque potentiel plus élevé puissent être attrayants <DiscourseConnective annotation_id="19591">et</DiscourseConnective> <DiscourseConnective annotation_id="19594">afin de</DiscourseConnective> permettre la poursuite de la recherche de pointe.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

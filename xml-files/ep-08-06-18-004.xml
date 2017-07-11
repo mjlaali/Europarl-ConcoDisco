@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="102" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>As President, I would today like to welcome 10 members of the Southern Sudan Legislative Assembly, led by its Speaker, Mr Wani Igga, who have travelled all the way to Strasbourg to visit the European Parliament.</en>
+      <fr>(FR) En ma qualité de Président, je voudrais aujourd'hui souhaiter la bienvenue à dix membres de l'Assemblée législative du Soudan méridional, conduite par son Président, M. Wani Igga, qui ont fait tout le chemin <DiscourseConnective annotation_id="235">jusqu'à</DiscourseConnective> Strasbourg <DiscourseConnective annotation_id="254">pour</DiscourseConnective> visiter le Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="220" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements.)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="231" docOffset="3">
+      <en>The Southern Sudan Legislative Assembly, in which they sit, was set up <Alignment alignment="379" annotation_id="302">
+          <DiscourseConnective annotation_id="302" sense="Contingency.Cause.Result">as a result</DiscourseConnective>
+        </Alignment> of the Comprehensive Peace Agreement signed in 2005 after a long and brutal civil war.</en>
+      <fr>L'Assemblée législative du Soudan méridional, où ils siègent, est le <Alignment alignment="302" annotation_id="379">
+          <DiscourseConnective annotation_id="379" sense="Contingency.Cause.Result">résultat</DiscourseConnective>
+        </Alignment> de l'accord de paix global qui a été signé <DiscourseConnective annotation_id="431">en</DiscourseConnective> 2005 <DiscourseConnective annotation_id="439">après</DiscourseConnective> une longue guerre civile brutale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="401" docOffset="4">
+      <en>The Assembly plays a crucial role in monitoring the implementation of legislation and implementation of the Peace Agreement.</en>
+      <fr>Cette assemblée joue un rôle crucial <DiscourseConnective annotation_id="516">en</DiscourseConnective> veillant à la concrétisation législative <DiscourseConnective annotation_id="560">et</DiscourseConnective> à la mise en œuvre de l'accord de paix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="526" docOffset="5">
+      <en>On behalf of the European Parliament, I wish to say that we support your Assembly, which has to cope with the challenges currently facing Sudan, especially with the prospect of the elections scheduled for next year.</en>
+      <fr>Au nom du Parlement européen, je tiens <DiscourseConnective annotation_id="642">à</DiscourseConnective> vous <DiscourseConnective annotation_id="649">dire que</DiscourseConnective> nous soutenons votre assemblée, qui doit relever les défis auxquels le Soudan est actuellement confronté, spécialement dans la perspective des élections prévues l'année prochaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="742" docOffset="6">
+      <en>We hope that your visit will help you to find a peaceful solution to the Sudan conflict <Alignment alignment="666" annotation_id="830">
+          <DiscourseConnective annotation_id="830" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it will stimulate political dialogue between the European Parliament and your Assembly on the reconstruction process following the conflict in your country.</en>
+      <fr>Nous espérons <DiscourseConnective annotation_id="852">que</DiscourseConnective> votre visite contribuera <DiscourseConnective annotation_id="881">à</DiscourseConnective> une solution pacifique dans le conflit au Soudan <Alignment alignment="257" annotation_id="932">
+          <DiscourseConnective annotation_id="932" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="935">qu'</DiscourseConnective>elle stimulera un dialogue politique entre le Parlement européen <DiscourseConnective annotation_id="1003">et</DiscourseConnective> votre assemblée quant au processus de reconstruction <DiscourseConnective annotation_id="1059">après</DiscourseConnective> le conflit dans votre pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="996" docOffset="7">
+      <en>I <Alignment alignment="648" annotation_id="998">
+          <DiscourseConnective annotation_id="998" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> welcome you to the European Parliament.</en>
+      <fr>Bienvenue <Alignment alignment="373" annotation_id="1103">
+          <DiscourseConnective annotation_id="1103" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> au Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

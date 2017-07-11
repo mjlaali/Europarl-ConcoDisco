@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="007" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I would like to welcome the President of Tajikistan, Emomali Rahmon, who is on an official visit to the European Parliament.</en>
+      <fr>Je voudrais souhaiter la bienvenue au président du Tadjikistan, M. Emomali Rahmon, qui est <DiscourseConnective annotation_id="113">en</DiscourseConnective> visite officielle au Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="133" docOffset="2">
+      <en>I met with the President a short time ago.</en>
+      <fr>J'ai eu un entretien avec M. Rahmon il y a peu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="176" docOffset="3">
+      <en>We discussed our bilateral relations and the reforms that need to be carried out in Tajikistan.</en>
+      <fr>Nous avons parlé de nos relations bilatérales <DiscourseConnective annotation_id="251">ainsi</DiscourseConnective> <DiscourseConnective annotation_id="257">que</DiscourseConnective> des réformes nécessaires au Tadjikistan.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Murder of human rights activists in Russia (vote)</en>
+    <fr>Meurtres de défenseurs des droits de l'homme <DiscourseConnective annotation_id="48">en</DiscourseConnective> Russie (vote)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="53" id="286" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="53" docOffset="2">
+      <en>(CS) I am very sorry, Mr President, I would just like it to go on record that I voted from another seat by mistake - my seat is 107 <Alignment alignment="218" annotation_id="185">
+          <DiscourseConnective annotation_id="185" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I voted from 67, <Alignment alignment="184671" annotation_id="206">
+          <DiscourseConnective annotation_id="206" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment> with another Member's card.</en>
+      <fr>(CS) Je suis désolée, Monsieur le Président, je voudrais juste qu'il soit consigné <DiscourseConnective annotation_id="148">que</DiscourseConnective> j'ai voté <DiscourseConnective annotation_id="162">depuis</DiscourseConnective> un autre siège par erreur - mon siège est le 107 <Alignment alignment="185" annotation_id="218">
+          <DiscourseConnective annotation_id="218" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai voté à partir du siège 67, <Alignment alignment="40" annotation_id="253">
+          <DiscourseConnective annotation_id="253" sense="Expansion.Restatement">autrement dit</DiscourseConnective>
+        </Alignment> avec la carte d'un autre député.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="249" docOffset="3">
+      <en>That apart, I am in favour.</en>
+      <fr>
+        <DiscourseConnective annotation_id="300">Ceci étant dit</DiscourseConnective>, je suis <DiscourseConnective annotation_id="324">pour</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="277" docOffset="4">
+      <en>I simply sat by mistake in the seat of another Member who has an inserted card <Alignment alignment="1597" annotation_id="356">
+          <DiscourseConnective annotation_id="356" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I voted from his card, which is against our rules of procedure, so please could it go on record that I am in favour of the motion <Alignment alignment="653" annotation_id="490">
+          <DiscourseConnective annotation_id="490" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the vote of my fellow Member is invalid.</en>
+      <fr>Je me suis <DiscourseConnective annotation_id="341">simplement</DiscourseConnective> assise par erreur <DiscourseConnective annotation_id="370">à la place</DiscourseConnective> d'un autre député qui a une carte insérée <Alignment alignment="343" annotation_id="423">
+          <DiscourseConnective annotation_id="423" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai voté à partir de sa carte, ce qui va à l'encontre de notre règlement, je vous prie dès lors de consigner <DiscourseConnective annotation_id="536">que</DiscourseConnective> je suis <DiscourseConnective annotation_id="548">en</DiscourseConnective> faveur de la proposition <Alignment alignment="149" annotation_id="576">
+          <DiscourseConnective annotation_id="576" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="579">que</DiscourseConnective> le vote de mon collègue est invalide.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="540" id="287" name="President">
+    <ParallelChunk annotation_id="540" docOffset="5">
+      <en>Thank you.</en>
+      <fr>Merci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="551" docOffset="6">
+      <en>That will be noted in the minutes.</en>
+      <fr>Cela sera consigné dans le procès-verbal.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

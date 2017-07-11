@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Request for the defence of parliamentary immunity</en>
+    <fr>Demande de défense d'immunité parlementaire</fr>
+  </ParallelChunk>
+<Speaker annotation_id="50" id="009" name="President">
+    <ParallelChunk annotation_id="50" docOffset="1">
+      <en>Now for some administrative announcements.</en>
+      <fr>Il est à présent l'heure de soumettre certaines communications administratives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="93" docOffset="2">
+      <en>Mr de Magistris has submitted two requests for the exercise of immunity and privileges in two court cases in which he is involved in Cosenza and Milan respectively.</en>
+      <fr>M. de Magistris a transmis deux demandes de défense de son immunité <DiscourseConnective annotation_id="192">et</DiscourseConnective> de ses privilèges dans deux affaires dans lesquelles il est impliqué, respectivement <DiscourseConnective annotation_id="280">à</DiscourseConnective> Cosenza <DiscourseConnective annotation_id="290">et</DiscourseConnective> à Milan.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="258" docOffset="3">
+      <en>Mr Uspaskich has submitted a request for the exercise of immunity and privileges in a court case in which he is currently involved in Vilnius.</en>
+      <fr>M. Uspaskich a transmis une demande de défense de son immunité <DiscourseConnective annotation_id="365">et</DiscourseConnective> de ses privilèges dans une affaire dans laquelle il est actuellement impliqué <DiscourseConnective annotation_id="446">à</DiscourseConnective> Vilnius.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="401" docOffset="4">
+      <en>Mr Tudor has submitted a request for the exercise of immunity and privileges.</en>
+      <fr>M. Tudor a transmis une demande de défense de son immunité <DiscourseConnective annotation_id="516">et</DiscourseConnective> de ses privilèges.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="479" docOffset="5">
+      <en>Pursuant to Rule 6(3), these requests will be sent to the committee responsible, the Committee on Legal Affairs.</en>
+      <fr>Conformément <DiscourseConnective annotation_id="551">à</DiscourseConnective> l'article 6, paragraphe 3, du règlement, ces demandes seront transmises <DiscourseConnective annotation_id="625">à</DiscourseConnective> la commission compétente, à savoir la commission des affaires juridiques.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="592" id="010" name="Sergio Paolo Francesco Silvestris">
+    <ParallelChunk annotation_id="592" docOffset="6">
+      <en>(IT) Mr President, this is not a point of order; I simply could not understand what you just said.</en>
+      <fr>(IT) Monsieur le Président, ce n'est pas une motion de procédure; je n'ai tout <DiscourseConnective annotation_id="780">simplement</DiscourseConnective> pas compris ce que vous venez de dire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="691" docOffset="7">
+      <en>
+        <Alignment alignment="830" annotation_id="691">
+          <DiscourseConnective annotation_id="691" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> I am right, Mr de Magistris has requested the defence of his immunity.</en>
+      <fr>
+        <Alignment alignment="296" annotation_id="830">
+          <DiscourseConnective annotation_id="830" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> je ne m'abuse, M. de Magistris a demandé la défense de son immunité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="765" docOffset="8">
+      <en>There must be some misunderstanding.</en>
+      <fr>Il doit y avoir un malentendu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="802" docOffset="9">
+      <en>
+        <Alignment alignment="459865" annotation_id="802">
+          <DiscourseConnective annotation_id="802" sense="Contingency.Cause.Reason">Since</DiscourseConnective>
+        </Alignment> Mr de Magistris is the champion of the battle against immunity in my country, it was probably misinterpreted.</en>
+      <fr>
+        <Alignment alignment="110" annotation_id="933">
+          <DiscourseConnective annotation_id="933" sense="Contingency.Cause.Reason">Étant donné que</DiscourseConnective>
+        </Alignment> M. de Magistris est le champion de la lutte contre l'immunité dans mon pays, il y a sans doute eu une erreur d'interprétation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="918" docOffset="10">
+      <en>I think it unlikely that Mr de Magistris would have requested the defence of his immunity.</en>
+      <fr>Je pense qu'il est improbable <DiscourseConnective annotation_id="1106">que</DiscourseConnective> M. de Magistris ait demandé la défense de son immunité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1009" docOffset="11">
+      <en>I must have misunderstood <Alignment alignment="1192" annotation_id="1035">
+          <DiscourseConnective annotation_id="1035" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I should <Alignment alignment="1208" annotation_id="1048">
+          <DiscourseConnective annotation_id="1048" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like some clarification on this matter.</en>
+      <fr>Je dois avoir mal compris <Alignment alignment="283" annotation_id="1192">
+          <DiscourseConnective annotation_id="1192" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> souhaiterais <Alignment alignment="401" annotation_id="1208">
+          <DiscourseConnective annotation_id="1208" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> avoir certaines explications sur ce point.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1098" id="011" name="President">
+    <ParallelChunk annotation_id="1098" docOffset="12">
+      <en>
+        <Alignment alignment="611" annotation_id="1098">
+          <DiscourseConnective annotation_id="1098" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I said, it was a request to defend his immunity.</en>
+      <fr>
+        <Alignment alignment="1098" annotation_id="1266">
+          <DiscourseConnective annotation_id="1266" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> je l'ai dit, la défense de l'immunité a été demandée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1150" docOffset="13">
+      <en>It will be decided by our committee as usual, pursuant to Rule 6(3).</en>
+      <fr>Notre commission statuera sur ce point comme d'habitude, conformément <DiscourseConnective annotation_id="1396">à</DiscourseConnective> l'article 6, paragraphe 3, du règlement.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

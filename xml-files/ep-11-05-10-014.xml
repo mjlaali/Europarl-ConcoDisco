@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Approval of the Minutes of the previous sitting</en>
+    <fr>Approbation du procès-verbal de la séance précédente</fr>
+  </ParallelChunk>
+<Speaker annotation_id="48" id="477" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="48" docOffset="1">
+      <en>(FR) Mr President, I would like to comment on point 16 of the Minutes, which quite rightly reports my request for a debate to be held on the waiver of my parliamentary immunity, something which you rejected.</en>
+      <fr>Monsieur le Président, je souhaiterais intervenir sur le point 16 de ce procès-verbal qui, très justement, rappelle que j'ai demandé qu'une discussion <DiscourseConnective annotation_id="204">soit</DiscourseConnective> ouverte sur la levée de mon immunité parlementaire, ce <DiscourseConnective annotation_id="264">que</DiscourseConnective> vous avez refusé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="256" docOffset="2">
+      <en>This <Alignment alignment="12" annotation_id="261">
+          <DiscourseConnective annotation_id="261" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> contradicts what the President of the sitting Mrs Angelilli said earlier, <DiscourseConnective annotation_id="345" sense="Temporal.Synchrony">when</DiscourseConnective> she claimed that I had been given the floor yesterday to talk about the waiver of my parliamentary immunity, which is not true.</en>
+      <fr>Ceci contredit <Alignment alignment="261" annotation_id="301">
+          <DiscourseConnective annotation_id="301" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> ce qui a été affirmé tout à l'heure par Mme la présidente de séance Angelilli, qui a prétendu <DiscourseConnective annotation_id="400">que</DiscourseConnective> j'avais eu la parole hier sur la levée de mon immunité parlementaire, ce qui est faux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="478" docOffset="3">
+      <en>This Parliament has <Alignment alignment="506" annotation_id="498">
+          <DiscourseConnective annotation_id="498" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> deprived one of its Members of a vital right to protection, without allowing either the party himself or anyone who may have spoken in his defence to speak on the subject in plenary, either during a debate or during their explanations of vote or any other occasion.</en>
+      <fr>Ce Parlement a <Alignment alignment="571" annotation_id="506">
+          <DiscourseConnective annotation_id="506" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> privé d'une protection essentielle l'un de ses membres <DiscourseConnective annotation_id="566">sans que</DiscourseConnective> personne ne soit admis <DiscourseConnective annotation_id="598">à</DiscourseConnective> s'exprimer sur ce sujet <DiscourseConnective annotation_id="624">en</DiscourseConnective> assemblée plénière, ni l'intéressé, ni ceux qui auraient pu prendre sa défense, ni <DiscourseConnective annotation_id="710">en</DiscourseConnective> débat, ni <DiscourseConnective annotation_id="723">en</DiscourseConnective> explication de vote, ni à quelque titre que ce soit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="774" docOffset="4">
+      <en>I simply wanted this to be acknowledged, so thank you for having done that.</en>
+      <fr>Je voulais <DiscourseConnective annotation_id="790">simplement</DiscourseConnective> <DiscourseConnective annotation_id="801">qu'</DiscourseConnective>il m'en <DiscourseConnective annotation_id="812">soit</DiscourseConnective> donné acte et je vous en remercie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="850" id="478" name="President">
+    <ParallelChunk annotation_id="850" docOffset="5">
+      <en>I understand that your comment is intended for the Minutes. Thank you for this comment.</en>
+      <fr>J'ai bien compris <DiscourseConnective annotation_id="870">que</DiscourseConnective> cette <DiscourseConnective annotation_id="880">remarque</DiscourseConnective> est destinée au compte rendu et je vous <DiscourseConnective annotation_id="929">en</DiscourseConnective> remercie.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

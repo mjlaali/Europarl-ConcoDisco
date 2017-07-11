@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>9.</en>
+    <fr>9.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Lisbon Strategy (European Council of 8 and 9 March 2007) (vote)</en>
+    <fr>Stratégie de Lisbonne (Conseil européen des 8 <DiscourseConnective annotation_id="49">et</DiscourseConnective> 9 mars 2007) (vote)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="67" id="146" name="Stephen Hughes">
+    <ParallelChunk annotation_id="67" docOffset="2">
+      <en>Mr President, it is a very straightforward oral amendment.</en>
+      <fr>(EN) Monsieur le Président, il <DiscourseConnective annotation_id="103">s'</DiscourseConnective>agit d'un amendement très simple.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="126" docOffset="3">
+      <en>In the second line there is a phrase beginning 'have made it clear that no source of energy must be left unused'.</en>
+      <fr>On trouve <DiscourseConnective annotation_id="149">à</DiscourseConnective> la deuxième ligne "ont montré clairement <DiscourseConnective annotation_id="192">qu'</DiscourseConnective>aucune source d'énergie ne pouvait être négligée".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="240" docOffset="4">
+      <en>We want to insert three words <Alignment alignment="134798" annotation_id="270">
+          <DiscourseConnective annotation_id="270" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> it would read, 'have made it clear that no sustainable and safe source of energy must be left unused'.</en>
+      <fr>Nous voulons insérer trois mots <Alignment alignment="0" annotation_id="278">
+          <DiscourseConnective annotation_id="278" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+        </Alignment> le libellé soit le suivant: "ont montré clairement <DiscourseConnective annotation_id="338">qu'</DiscourseConnective>aucune source d'énergie durable <DiscourseConnective annotation_id="373">et</DiscourseConnective> sûre ne pouvait être négligée".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="376" docOffset="5">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

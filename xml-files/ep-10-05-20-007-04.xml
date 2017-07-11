@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Implementation of the synergies of research and innovation earmarked funds in Regulation (EC) No 1080/2006 concerning the European Fund of Regional Development and the Seventh Framework Programme for Research and Development (</en>
+    <fr>Mise en œuvre des synergies entre les crédits affectés à la recherche <DiscourseConnective annotation_id="73">et</DiscourseConnective> à l'innovation du règlement (CE) n° 1080/2006 relatif au Fonds européen de développement régional <DiscourseConnective annotation_id="174">et</DiscourseConnective> le septième programme-cadre de recherche <DiscourseConnective annotation_id="218">et</DiscourseConnective> de développement (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="230" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="242">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="249" id="107" language="NL" name="Lambert van Nistelrooij">
+    <ParallelChunk annotation_id="249" docOffset="3">
+      <en>There are no problems with this report.</en>
+      <fr>Le présent rapport ne pose aucun problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="289" docOffset="4">
+      <en>On behalf of the Group of the European People's Party (Christian Democrats), I would like to request an electronic vote.</en>
+      <fr>Au nom du groupe du Parti populaire européen (Démocrates-Chrétiens), je voudrais demander un vote électronique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="410" id="108" name="President">
+    <ParallelChunk annotation_id="410" docOffset="5">
+      <en>The time has actually run out, <Alignment alignment="441" annotation_id="441">
+          <DiscourseConnective annotation_id="441" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, in the light of the limited transport options available this week and provided that the House has no objections, I propose that we hold a roll-call vote.</en>
+      <fr>Le temps manque <DiscourseConnective annotation_id="427">effectivement</DiscourseConnective> <Alignment alignment="441" annotation_id="441">
+          <DiscourseConnective annotation_id="441" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, vu les possibilités de transport limitées cette semaine, <DiscourseConnective annotation_id="504">et</DiscourseConnective> <DiscourseConnective annotation_id="507">dans la mesure où</DiscourseConnective> l'Assemblée n'émet pas d'objections, je propose un vote par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="600" docOffset="6">
+      <en>Does anyone wish to object?</en>
+      <fr>Avez-vous des objections?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="628" docOffset="7">
+      <en>No one has objected, <Alignment alignment="198363" annotation_id="649">
+          <DiscourseConnective annotation_id="649" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> we can vote.</en>
+      <fr>Il n'y a pas d'objections, nous pouvons <Alignment alignment="4" annotation_id="666">
+          <DiscourseConnective annotation_id="666" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> passer au vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

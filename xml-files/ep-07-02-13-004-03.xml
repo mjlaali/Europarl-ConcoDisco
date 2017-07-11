@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Community action programme to promote activities in the field of the protection of the Community's financial interests (Hercule II programme) (vote)</en>
+    <fr>Programme d'action communautaire <DiscourseConnective annotation_id="36">pour</DiscourseConnective> la promotion d'actions dans le domaine de la protection des intérêts financiers de la Communauté (programme «Hercule II») (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="152" docOffset="2">
+    <en>After the vote</en>
+    <fr>
+      <DiscourseConnective annotation_id="170">Après</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="167" id="040" language="DE" name="Herbert Bösch ">
+    <ParallelChunk annotation_id="167" docOffset="3">
+      <en>Mr President, it is not much use me speaking <Alignment alignment="236" annotation_id="212">
+          <DiscourseConnective annotation_id="212" sense="Temporal.Asynchronous.Succession">once</DiscourseConnective>
+        </Alignment> the vote has happened, <Alignment alignment="189470" annotation_id="240">
+          <DiscourseConnective annotation_id="240" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> all I want to say is that you need to keep more of an eye out in future.</en>
+      <fr>Monsieur le Président, il n'est pas utile de parler <Alignment alignment="212" annotation_id="236">
+          <DiscourseConnective annotation_id="236" sense="Temporal.Asynchronous.Succession">après que</DiscourseConnective>
+        </Alignment> le vote a eu lieu, <Alignment alignment="240" annotation_id="265">
+          <DiscourseConnective annotation_id="265" sense="Contingency.Cause.Result">et</DiscourseConnective>
+        </Alignment> tout ce je dirai, c'est donc <DiscourseConnective annotation_id="297">qu'</DiscourseConnective>il faudra être plus attentif <DiscourseConnective annotation_id="329">à</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="316" docOffset="4">
+      <en>I would like to thank both the German Presidency and its Finnish predecessor.</en>
+      <fr>Je voudrais remercier les présidences allemande <DiscourseConnective annotation_id="389">et</DiscourseConnective> finlandaise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="394" docOffset="5">
+      <en>We have wrapped up this topic in just one reading, <Alignment alignment="195776" annotation_id="445">
+          <DiscourseConnective annotation_id="445" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we will be spending some EUR 100 million on fighting fraud over the coming years.</en>
+      <fr>Nous avons expédié l'affaire <DiscourseConnective annotation_id="434">en</DiscourseConnective> une seule lecture <Alignment alignment="445" annotation_id="455">
+          <DiscourseConnective annotation_id="455" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> affecterons ces prochaines années quelque 100 millions d'euros <DiscourseConnective annotation_id="521">à</DiscourseConnective> la lutte contre la fraude.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="531" docOffset="6">
+      <en>That is what I wanted to tell the House.</en>
+      <fr>Voilà ce que je voulais dire à l'Assemblée!</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Approving the appointment of Mrs Androula Vassiliou as a Member of the Commission (</en>
+    <fr>Approbation de la désignation de Mme Androula Vassiliou en <DiscourseConnective annotation_id="62">tant que</DiscourseConnective> membre de la Commission européenne (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="87" docOffset="2">
+    <en>After the vote:</en>
+    <fr>
+      <DiscourseConnective annotation_id="108">Après</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="103" id="032" name="Bruno Gollnisch">
+    <ParallelChunk annotation_id="103" docOffset="3">
+      <en>(FR) Mr President, please excuse me, I may be mistaken <Alignment alignment="191" annotation_id="158">
+          <DiscourseConnective annotation_id="158" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I thought that <Alignment alignment="212" annotation_id="177">
+          <DiscourseConnective annotation_id="177" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> votes were about people they had to remain secret, which has not been the case.</en>
+      <fr>(FR) Monsieur le Président, veuillez m'excuser, je peux me tromper, <Alignment alignment="158" annotation_id="191">
+          <DiscourseConnective annotation_id="191" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je croyais <DiscourseConnective annotation_id="207">que</DiscourseConnective>, <Alignment alignment="177" annotation_id="212">
+          <DiscourseConnective annotation_id="212" sense="Temporal.Synchrony">quand</DiscourseConnective>
+        </Alignment> les votes portaient sur des questions de personnes, ils devaient rester secrets, ce qui n'a pas été le cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="262" docOffset="4">
+      <en>
+        <Alignment alignment="326" annotation_id="262">
+          <DiscourseConnective annotation_id="262" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, maybe <Alignment alignment="342" annotation_id="277">
+          <DiscourseConnective annotation_id="277" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> this is about members of the Commission, that is not the case.</en>
+      <fr>
+        <Alignment alignment="262" annotation_id="326">
+          <DiscourseConnective annotation_id="326" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> il se peut <Alignment alignment="277" annotation_id="342">
+          <DiscourseConnective annotation_id="342" sense="Contingency.Cause.Reason">que</DiscourseConnective>
+        </Alignment>, s'agissant des membres de la Commission, tel ne <DiscourseConnective annotation_id="395">soit</DiscourseConnective> pas le cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="348" docOffset="5">
+      <en>I do not know.</en>
+      <fr>Je ne sais pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="363" docOffset="6">
+      <en>Anyway, this has been public <Alignment alignment="464" annotation_id="392">
+          <DiscourseConnective annotation_id="392" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> my fellow Members' lights have been lit differently according to whether they voted for, against or abstained.</en>
+      <fr>
+        <DiscourseConnective annotation_id="428">En tout cas</DiscourseConnective>, celui-ci a été public, <Alignment alignment="72" annotation_id="464">
+          <DiscourseConnective annotation_id="464" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> les lampes des collègues se sont allumées différemment <DiscourseConnective annotation_id="527">selon qu'</DiscourseConnective>ils ont voté <DiscourseConnective annotation_id="549">pour</DiscourseConnective>, contre <DiscourseConnective annotation_id="562">ou</DiscourseConnective> qu'ils se sont abstenus.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="511" id="033" name="President">
+    <ParallelChunk annotation_id="511" docOffset="7">
+      <en>Mr Gollnisch, you are completely right in the second part of your conclusion: it was a roll-call vote, <Alignment alignment="724" annotation_id="614">
+          <DiscourseConnective annotation_id="614" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it is in the nature of roll-call votes that we can identify by name how each Member voted.</en>
+      <fr>(DE) M. Gollnisch, vous avez tout à fait raison dans la seconde partie de votre conclusion: il s'agissait d'un vote par appel nominal <Alignment alignment="614" annotation_id="724">
+          <DiscourseConnective annotation_id="724" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, par définition, nous pouvons donc identifier la manière dont chaque député a voté.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

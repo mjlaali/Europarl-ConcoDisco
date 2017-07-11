@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Statement by the President</en>
+    <fr>Déclaration du Président</fr>
+  </ParallelChunk>
+<Speaker annotation_id="27" id="006" name="President">
+    <ParallelChunk annotation_id="27" docOffset="1">
+      <en>On 1 December two members of the Spanish security forces were shot by the terrorist organisation ETA in Capbreton in France.</en>
+      <fr>(DE) Le 1er décembre, deux membres des forces de sécurité espagnoles ont été la cible de coups de feu tirés par l'organisation terroriste ETA <DiscourseConnective annotation_id="167">à</DiscourseConnective> Capbreton, <DiscourseConnective annotation_id="180">en</DiscourseConnective> France.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="152" docOffset="2">
+      <en>A young, 24-year-old Spanish police officer, Raúl Centeno, died instantly <Alignment alignment="275" annotation_id="226">
+          <DiscourseConnective annotation_id="226" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> a second police officer, Fernando Trapero, aged 23, was seriously injured and died last Wednesday.</en>
+      <fr>Un jeune agent de police espagnol âgé de 24 ans, Raúl Centeno, est mort sur le coup <Alignment alignment="124" annotation_id="275">
+          <DiscourseConnective annotation_id="275" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> un autre agent de police, Fernando Trapero, 23 ans, a été grièvement blessé <DiscourseConnective annotation_id="354">et</DiscourseConnective> est décédé mercredi dernier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="329" docOffset="3">
+      <en>Ladies and gentlemen, on behalf of you all I should like to convey our sincere sympathy to the members of the victims' families.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="395">et</DiscourseConnective> Messieurs, <DiscourseConnective annotation_id="409">en</DiscourseConnective> votre nom <DiscourseConnective annotation_id="422">à</DiscourseConnective> tous, j'aimerais adresser notre plus sincère sympathie aux parents et proches des victimes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="458" docOffset="4">
+      <en>I should <Alignment alignment="527" annotation_id="467">
+          <DiscourseConnective annotation_id="467" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to send a message of solidarity to the Spanish people, the Spanish authorities, the country's democratic institutions and the security forces <Alignment alignment="62" annotation_id="619">
+          <Alignment alignment="681" annotation_id="619">
+            <DiscourseConnective annotation_id="619" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>.</en>
+      <fr>J'aimerais <Alignment alignment="548" annotation_id="527">
+          <DiscourseConnective annotation_id="527" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> envoyer un message de solidarité au peuple espagnol, aux autorités espagnoles, aux institutions démocratiques du pays <DiscourseConnective annotation_id="655">et</DiscourseConnective> aux forces de sécurité <Alignment alignment="709" annotation_id="681">
+          <Alignment alignment="619" annotation_id="681">
+            <DiscourseConnective annotation_id="681" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="634" docOffset="5">
+      <en>The European Parliament denounces every kind of violence <DiscourseConnective annotation_id="691" sense="Temporal.Synchrony">as</DiscourseConnective> a means to an end.</en>
+      <fr>Le Parlement européen dénonce tout type de violence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="713" docOffset="6">
+      <en>Terrorism is an assault on freedom and democracy.</en>
+      <fr>Le terrorisme est une atteinte <DiscourseConnective annotation_id="781">à</DiscourseConnective> la liberté <DiscourseConnective annotation_id="794">et</DiscourseConnective> à la démocratie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="763" docOffset="7">
+      <en>Terrorism must be fought and eliminated using every means available under the rule of law.</en>
+      <fr>Le terrorisme doit être combattu <DiscourseConnective annotation_id="847">et</DiscourseConnective> éliminé avec tous les moyens mis à disposition par l'État de droit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="854" docOffset="8">
+      <en>There can be no justification for terror.</en>
+      <fr>Rien ne justifie le terrorisme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="896" docOffset="9">
+      <en>We must not show any weakness <DiscourseConnective annotation_id="926" sense="Temporal.Synchrony">when</DiscourseConnective> fighting terrorism.</en>
+      <fr>Nous ne devons pas montrer la moindre faiblesse dans la lutte contre le terrorisme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="951" docOffset="10">
+      <en>The terrorist threat will <Alignment alignment="1069" annotation_id="977">
+          <DiscourseConnective annotation_id="977" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> never succeed in bringing democracy to its knees!</en>
+      <fr>La menace terroriste ne parviendra <Alignment alignment="977" annotation_id="1069">
+          <DiscourseConnective annotation_id="1069" sense="Contingency.Cause.Result">alors</DiscourseConnective>
+        </Alignment> jamais <DiscourseConnective annotation_id="1082">à</DiscourseConnective> mettre <DiscourseConnective annotation_id="1091">à</DiscourseConnective> bas la démocratie!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1037" docOffset="11">
+      <en>I am sure that we are all in agreement on these principles.</en>
+      <fr>Je suis persuadé <DiscourseConnective annotation_id="1129">que</DiscourseConnective> nous sommes tous d'accord sur ces principes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1097" docOffset="12">
+      <en>Thank you.</en>
+      <fr>Merci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1108" docOffset="13">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Cross-border payments in the Community - The business of electronic money institutions (debate)</en>
+    <fr>Paiements transfrontaliers dans la Communauté - Activité des établissements de monnaie électronique (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="96" id="019" name="President">
+    <ParallelChunk annotation_id="96" docOffset="1">
+      <en>The next item is the joint debate on:</en>
+      <fr>L'ordre du jour appelle la discussion commune sur:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="134" docOffset="2">
+      <en>the report by Mrs Starkevičiūtė, on behalf of the Committee on Economic and Monetary Affairs, on the proposal for a regulation of the European Parliament and of the Council on cross-border payments in the Community - C6-0352/2008 -, and</en>
+      <fr>le rapport de Margarita Starkevičūė, au nom de la commission des affaires économiques <DiscourseConnective annotation_id="245">et</DiscourseConnective> monétaires, sur la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="314">et</DiscourseConnective> du Conseil concernant les paiements transfrontaliers dans la Communauté - C6-0352/2008 -, <DiscourseConnective annotation_id="407">et</DiscourseConnective>
+      </fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="371" docOffset="3">
+      <en>- the report by Mr Purvis, on behalf of the Committee on Economic and Monetary Affairs, on the proposal for a directive of the European Parliament and of the Council on the taking up, pursuit and prudential supervision of the business of electronic money institutions, amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC - C6-0350/2008 -.</en>
+      <fr>le rapport de John Purvis, au nom de la commission des affaires économiques <DiscourseConnective annotation_id="486">et</DiscourseConnective> monétaires, sur la proposition de directive du Parlement européen <DiscourseConnective annotation_id="555">et</DiscourseConnective> du Conseil concernant l'accès à l'activité des établissements de monnaie électronique et son exercice ainsi que la surveillance prudentielle de ces établissements, modifiant les directives 2005/60/CE <DiscourseConnective annotation_id="758">et</DiscourseConnective> 2006/48/CE <DiscourseConnective annotation_id="772">et</DiscourseConnective> abrogeant la directive 2000/46/CE - C6-0350/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="739" id="020" name="Margarita Starkevičiūtė">
+    <ParallelChunk annotation_id="739" docOffset="4">
+      <en>rapporteur. - (LT) Today, <DiscourseConnective annotation_id="765" sense="Temporal.Synchrony">as</DiscourseConnective> the European Union's economy experiences a period of recession, it is very important to stimulate economic growth.</en>
+      <fr>rapporteure. - (LT) <DiscourseConnective annotation_id="847">En</DiscourseConnective> cette période de récession économique au sein de l'Union européenne, il est primordial de stimuler la croissance économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="883" docOffset="5">
+      <en>One of the sources of the European Union's economic growth is the expansion of the common market, which is still very fragmented, especially in the area of financial services.</en>
+      <fr>Or, l'une des sources de la croissance économique de l'Union européenne est l'expansion du marché commun, qui demeure très fragmenté, <DiscourseConnective annotation_id="1109">en particulier</DiscourseConnective> dans le domaine des services financiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1059" docOffset="6">
+      <en>The proposal before us should help solve this problem and establish a common European payment area. In English this is called the Single Euro Payments Area.</en>
+      <fr>La proposition devant nous devrait nous aider à résoudre ce problème <DiscourseConnective annotation_id="1234">et</DiscourseConnective> à créer un espace de paiement européen commun, le dit espace unique de paiement en euros (SEPA).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1216" docOffset="7">
+      <en>This document already has some history.</en>
+      <fr>Ce document a <DiscourseConnective annotation_id="1348">déjà</DiscourseConnective> une histoire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1256" docOffset="8">
+      <en>
+        <Alignment alignment="1367" annotation_id="1256">
+          <Alignment alignment="1367" annotation_id="1256">
+            <DiscourseConnective annotation_id="1256" sense="Temporal.Asynchronous.Succession">As soon as</DiscourseConnective>
+          </Alignment>
+        </Alignment> the euro was introduced <Alignment alignment="1398" annotation_id="1291">
+          <DiscourseConnective annotation_id="1291" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the currency exchange rates were abolished in euro zone countries, it became clear that prices for cross-border payments still differed from prices for local payments.</en>
+      <fr>
+        <Alignment alignment="1256" annotation_id="1367">
+          <Alignment alignment="6264" annotation_id="1367">
+            <DiscourseConnective annotation_id="1367" sense="Temporal.Asynchronous.Succession">Dès que</DiscourseConnective>
+          </Alignment>
+        </Alignment> l'euro a été introduit <Alignment alignment="14580" annotation_id="1398">
+          <DiscourseConnective annotation_id="1398" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que les taux de change entre les pays de la zone euro ont été abolis, il est apparu <DiscourseConnective annotation_id="1485">que</DiscourseConnective> les coûts des paiements transfrontaliers différaient de ceux appliqués aux paiements locaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1463" docOffset="9">
+      <en>For this reason Regulation (EC) No 2560 of the European Parliament and of the Council on cross-border payments in euro was adopted and entered into force at the end of 2001.</en>
+      <fr>C'est la raison pour laquelle le règlement (CE) n° 2560/2001 du Parlement européen <DiscourseConnective annotation_id="1665">et</DiscourseConnective> du Conseil concernant les paiements transfrontaliers <DiscourseConnective annotation_id="1721">en</DiscourseConnective> euros a été adopté <DiscourseConnective annotation_id="1743">et</DiscourseConnective> est entré en vigueur fin 2001.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1637" docOffset="10">
+      <en>It set equal charges for corresponding local, national payments and cross-border payments and strengthened this principle.</en>
+      <fr>Ce règlement a introduit le principe de l'égalité des frais <DiscourseConnective annotation_id="1837">pour</DiscourseConnective> les paiements transfrontaliers <DiscourseConnective annotation_id="1873">et</DiscourseConnective> les paiements nationaux locaux équivalents <DiscourseConnective annotation_id="1919">et</DiscourseConnective> l'a renforcé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1760" docOffset="11">
+      <en>The aim of this was to reduce prices for consumers and ensure greater competition in the payment services market.</en>
+      <fr>Le but était de réduire les prix <DiscourseConnective annotation_id="1969">pour</DiscourseConnective> les consommateurs <DiscourseConnective annotation_id="1992">et</DiscourseConnective> de garantir une plus grande compétitivité au sein du marché des services de paiement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1874" docOffset="12">
+      <en>Implementing this regulation reduced payment fees; <Alignment alignment="28222" annotation_id="1925">
+          <DiscourseConnective annotation_id="1925" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, a cross-border transfer of EUR 100 used to cost an average of EUR 24 in the European Union, now it costs EUR 2.50.</en>
+      <fr>L'application de ce règlement a permis de réduire les frais de paiement. <Alignment alignment="1925" annotation_id="2154">
+          <DiscourseConnective annotation_id="2154" sense="Expansion.Instantiation">Ainsi</DiscourseConnective>
+        </Alignment>, un virement transfrontalier de 100 euros qui coûtait en moyenne 24 euros au sein de l'Union européenne, ne coûte plus que 2,50 euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2053" docOffset="13">
+      <en>
+        <Alignment alignment="24293" annotation_id="2053">
+          <Alignment alignment="2295" annotation_id="2053">
+            <DiscourseConnective annotation_id="2053" sense="Comparison.Contrast">On the other hand</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the document revealed certain deficiencies. For this reason it was decided that it should be revised.</en>
+      <fr>
+        <Alignment alignment="2053" annotation_id="2295">
+          <Alignment alignment="18354" annotation_id="2295">
+            <DiscourseConnective annotation_id="2295" sense="Comparison.Contrast">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, le document a révélé certaines déficiences, raison <DiscourseConnective annotation_id="2360">pour</DiscourseConnective> laquelle il a été décidé de le réviser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2174" docOffset="14">
+      <en>The document <DiscourseConnective annotation_id="2187" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective> us is an improved version of Regulation No 2560.</en>
+      <fr>Le règlement que nous avons sous les yeux est une version améliorée du règlement n° 2560.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2243" docOffset="15">
+      <en>What is new in the document?</en>
+      <fr>Quelles sont les nouveautés?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2272" docOffset="16">
+      <en>Firstly, the principle of equality of charges for cross-border and corresponding domestic payments has been extended to include direct debit. This was not previously available.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2524">Tout d'abord</DiscourseConnective>, le principe de l'égalité des frais <DiscourseConnective annotation_id="2573">pour</DiscourseConnective> les paiements transfrontaliers <DiscourseConnective annotation_id="2609">et</DiscourseConnective> les paiements nationaux équivalents a été étendu aux prélèvements, une mesure qui n'existait pas <DiscourseConnective annotation_id="2709">auparavant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2449" docOffset="17">
+      <en>
+        <DiscourseConnective annotation_id="2449" sense="Temporal.Asynchronous.Succession">Once</DiscourseConnective> the SEPA had been created <Alignment alignment="50794" annotation_id="2480">
+          <DiscourseConnective annotation_id="2480" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the Payment Services Directive had been adopted, the payment environment in Europe changed; <Alignment alignment="2855" annotation_id="2576">
+          <DiscourseConnective annotation_id="2576" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, it is important that from November 2009 it will be possible to use the popular electronic payment method, direct debit, on a cross-border basis.</en>
+      <fr>L'émergence du SEPA <Alignment alignment="2480" annotation_id="2741">
+          <DiscourseConnective annotation_id="2741" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'adoption de la directive sur les services de paiement ont modifié le paysage des paiements européens. Il est <Alignment alignment="2576" annotation_id="2855">
+          <DiscourseConnective annotation_id="2855" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> important <DiscourseConnective annotation_id="2880">qu'</DiscourseConnective>à partir de novembre 2009, il <DiscourseConnective annotation_id="2913">soit</DiscourseConnective> possible d'utiliser l'instrument populaire de paiement électronique, le prélèvement, sur une base transfrontalière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2732" docOffset="18">
+      <en>In order to help create that common direct debit model, the regulation states that in the absence of a bilateral agreement between the payment service providers of the payer and the payee, the level of the default interim Multilateral Interchange Fee for a direct debit will be set at EUR 0.08 for a transitional period until 2012.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3034">Afin de</DiscourseConnective> créer ce modèle commun de prélèvement, le règlement précise <DiscourseConnective annotation_id="3102">qu'en</DiscourseConnective> l'absence d'accord bilatéral entre les prestataires de services de paiement du bénéficiaire <DiscourseConnective annotation_id="3200">et</DiscourseConnective> du payeur, le niveau de la commission multilatérale d'interchange par défaut <DiscourseConnective annotation_id="3280">pour</DiscourseConnective> un prélèvement sera fixé <DiscourseConnective annotation_id="3310">à</DiscourseConnective> 0,08 euro <DiscourseConnective annotation_id="3322">pour</DiscourseConnective> une période transitoire allant jusqu'en 2012.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3064" docOffset="19">
+      <en>The document <Alignment alignment="22542" annotation_id="3077">
+          <DiscourseConnective annotation_id="3077" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> outlines how to improve the defence of consumer rights and remove obstacles to business.</en>
+      <fr>Le document explique <Alignment alignment="3077" annotation_id="3394">
+          <DiscourseConnective annotation_id="3394" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> comment améliorer la protection des droits des consommateurs <DiscourseConnective annotation_id="3465">et</DiscourseConnective> éliminer les obstacles au commerce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3171" docOffset="20">
+      <en>It is proposed that Member States appoint competent authorities to supervise the implementation of this regulation, <Alignment alignment="3397" annotation_id="3287">
+          <DiscourseConnective annotation_id="3287" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> those authorities should <DiscourseConnective annotation_id="3316" sense="Expansion.Conjunction">also</DiscourseConnective> actively cooperate across nations, <Alignment alignment="3680" annotation_id="3356">
+          <DiscourseConnective annotation_id="3356" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> there are fewer obstacles to business; they could <Alignment alignment="3930" annotation_id="3414">
+          <DiscourseConnective annotation_id="3414" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> lay down guidelines on how to assess procedures for determining compliance with the principle.</en>
+      <fr>Il propose <DiscourseConnective annotation_id="3515">que</DiscourseConnective> les États membres désignent des autorités compétentes <DiscourseConnective annotation_id="3573">pour</DiscourseConnective> superviser la mise en œuvre de ce règlement <Alignment alignment="3287" annotation_id="3622">
+          <DiscourseConnective annotation_id="3622" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que ces autorités coopèrent activement entre les pays, <Alignment alignment="1146" annotation_id="3680">
+          <DiscourseConnective annotation_id="3680" sense="Contingency.Cause.Result">afin de</DiscourseConnective>
+        </Alignment> réduire les obstacles au commerce. Elles pourraient <Alignment alignment="8629" annotation_id="3740">
+          <DiscourseConnective annotation_id="3740" sense="Expansion.Conjunction">en outre</DiscourseConnective>
+        </Alignment> établir des directives <DiscourseConnective annotation_id="3772">pour</DiscourseConnective> l'évaluation des procédures de détermination du respect du principe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3514" docOffset="21">
+      <en>Another novelty the revision of this document offers is the proposal to gradually abolish obligations imposed on banks in certain states to provide balance-of-payments statistics and the laying down of other procedures for providing balance-of-payments statistics.</en>
+      <fr>Une autre nouveauté du document révisé est la proposition de suppression progressive des obligations de déclarations statistiques imposées aux banques de certains États membres <DiscourseConnective annotation_id="4023">en vue d'</DiscourseConnective>établir la balance des paiements <DiscourseConnective annotation_id="4065">et</DiscourseConnective> la mise en place d'autres procédures <DiscourseConnective annotation_id="4105">pour</DiscourseConnective> la fourniture de ces statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3779" docOffset="22">
+      <en>I am very sorry that an agreement with the Council could not be reached on this point <Alignment alignment="43643" annotation_id="3865">
+          <DiscourseConnective annotation_id="3865" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> for the time being the balance-of-payments revision procedures and implementation procedures have still to be defined.</en>
+      <fr>Je regrette <DiscourseConnective annotation_id="4157">qu'</DiscourseConnective>un accord avec le Conseil n'ait pas pu être dégagé sur ce point <Alignment alignment="19616" annotation_id="4224">
+          <DiscourseConnective annotation_id="4224" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'à l'heure actuelle, les procédures de révision de la balance des paiements <DiscourseConnective annotation_id="4305">et</DiscourseConnective> de la mise en œuvre ne soient toujours pas définies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3988" docOffset="23">
+      <en>Parliament and the Commission have declared that a strict deadline would be set.</en>
+      <fr>Le Parlement <DiscourseConnective annotation_id="4374">et</DiscourseConnective> la Commission ont déclaré <DiscourseConnective annotation_id="4403">qu'</DiscourseConnective>une échéance stricte serait fixée.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4069" id="021" name="John Purvis">
+    <ParallelChunk annotation_id="4069" docOffset="24">
+      <en>rapporteur. - Madam President, this directive responds to the growing importance of electronic commerce and of electronic money and the need for a clear legislative framework.</en>
+      <fr>rapporteur. - (EN) Madame la Présidente, cette directive répond <DiscourseConnective annotation_id="4505">à</DiscourseConnective> l'intérêt croissant <DiscourseConnective annotation_id="4527">que</DiscourseConnective> suscitent le commerce <DiscourseConnective annotation_id="4553">et</DiscourseConnective> la monnaie électroniques <DiscourseConnective annotation_id="4581">et</DiscourseConnective> à la nécessité d'établir un cadre législatif clair.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4245" docOffset="25">
+      <en>Its aim is to facilitate the use of electronic money for on-line payments accounts, pre-paid mobile phone accounts, top-up travel cards and gift vouchers.</en>
+      <fr>Elle vise <DiscourseConnective annotation_id="4646">à</DiscourseConnective> faciliter l'utilisation de la monnaie électronique <DiscourseConnective annotation_id="4699">pour</DiscourseConnective> pouvoir recharger les comptes permettant d'effectuer des paiements en ligne, les cartes prépayées pour les téléphones mobiles, les cartes de transport <DiscourseConnective annotation_id="4855">et</DiscourseConnective> les chèques-cadeaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4400" docOffset="26">
+      <en>E-money is no different from other forms of money in that it stores monetary value and provides a convenient means of exchange.</en>
+      <fr>La monnaie électronique n'est en rien différente des autres formes de monnaie, <DiscourseConnective annotation_id="4958">dans le sens où</DiscourseConnective> elle possède une valeur monétaire <DiscourseConnective annotation_id="5008">et</DiscourseConnective> constitue un moyen d'échange plutôt commode.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4528" docOffset="27">
+      <en>
+        <Alignment alignment="18156" annotation_id="4528">
+          <DiscourseConnective annotation_id="4528" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment>, unlike account-based payment instruments, such as credit and debit cards, it works as a pre-paid bearer instrument.</en>
+      <fr>
+        <Alignment alignment="4528" annotation_id="5056">
+          <DiscourseConnective annotation_id="5056" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> à la différence des instruments de paiement liés à un compte, tels <DiscourseConnective annotation_id="5128">que</DiscourseConnective> les cartes de crédit <DiscourseConnective annotation_id="5153">et</DiscourseConnective> de débit, celle-ci fonctionne <DiscourseConnective annotation_id="5186">comme</DiscourseConnective> un instrument prépayé au porteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4649" docOffset="28">
+      <en>It is used to cover payments - usually of relatively small amounts - to undertakings other than the user, <Alignment alignment="5379" annotation_id="4755">
+          <DiscourseConnective annotation_id="4755" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> differentiating it from single purpose pre-paid cards like telephone cards.</en>
+      <fr>Elle est utilisée <DiscourseConnective annotation_id="5244">pour</DiscourseConnective> effectuer des paiements - d'un montant généralement peu élevé - <DiscourseConnective annotation_id="5313">à</DiscourseConnective> des entreprises autres <DiscourseConnective annotation_id="5338">que</DiscourseConnective> l'utilisateur, ce qui la différencie <Alignment alignment="4755" annotation_id="5379">
+          <DiscourseConnective annotation_id="5379" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> des cartes prépayées à usage unique, telles que les cartes de téléphone.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4836" docOffset="29">
+      <en>There is no need of a bank account in order to use e-money, <Alignment alignment="5566" annotation_id="4896">
+          <DiscourseConnective annotation_id="4896" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> it is particularly relevant to those in society who do not, <Alignment alignment="15132" annotation_id="4959">
+          <DiscourseConnective annotation_id="4959" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> cannot, have bank accounts.</en>
+      <fr>Il n'est pas nécessaire de posséder un compte <DiscourseConnective annotation_id="5503">en</DiscourseConnective> banque <DiscourseConnective annotation_id="5513">pour</DiscourseConnective> pouvoir utiliser la monnaie électronique. C'est <Alignment alignment="4896" annotation_id="5566">
+          <DiscourseConnective annotation_id="5566" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> particulièrement intéressant <DiscourseConnective annotation_id="5600">pour</DiscourseConnective> ceux qui ne possèdent pas, <Alignment alignment="4959" annotation_id="5632">
+          <DiscourseConnective annotation_id="5632" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> ne peuvent posséder, de compte en banque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4990" docOffset="30">
+      <en>It was all of eight years ago that a Benjamin Cohen, in his article, 'Electronic Money: New Day or False Dawn?', stated that the era of electronic money will soon be upon us.</en>
+      <fr>Il y a huit ans déjà, Benjamin Cohen avait affirmé, dans un article intitulé "La monnaie électronique: nouvelle ère <DiscourseConnective annotation_id="5793">ou</DiscourseConnective> faux espoirs?", <DiscourseConnective annotation_id="5812">que</DiscourseConnective> l'ère de la monnaie électronique arrivait à grands pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5165" docOffset="31">
+      <en>Sadly, this prediction was both over-optimistic and premature - for Europe, at least.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5872">Malheureusement</DiscourseConnective>, cette prédiction s'est avérée trop optimiste <DiscourseConnective annotation_id="5934">et</DiscourseConnective> prématurée - <DiscourseConnective annotation_id="5950">du moins</DiscourseConnective> en ce qui concerne l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5251" docOffset="32">
+      <en>Electronic money is still far from delivering, in Europe, the full benefits which were expected <Alignment alignment="6114" annotation_id="5347">
+          <DiscourseConnective annotation_id="5347" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the first e-money directive was adopted in 2001.</en>
+      <fr>Sur notre continent, la monnaie électronique est <DiscourseConnective annotation_id="6037">encore</DiscourseConnective> loin d'avoir produit tous les effets bénéfiques qui étaient escomptés <Alignment alignment="14237" annotation_id="6114">
+          <DiscourseConnective annotation_id="6114" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la première directive Monnaie électronique a été adoptée <DiscourseConnective annotation_id="6179">en</DiscourseConnective> 2001.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5401" docOffset="33">
+      <en>Probably this was because of the high initial capital requirement and other over-cautious restrictions.</en>
+      <fr>Ce semi-échec est probablement dû aux exigences élevées en matière de capital initial <DiscourseConnective annotation_id="6274">et</DiscourseConnective> autres restrictions imposées par excès de prudence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5505" docOffset="34">
+      <en>The number of e-money institutions differs remarkably from one Member State to another.</en>
+      <fr>Le nombre d'établissements de monnaie électronique varie fortement d'un État membre <DiscourseConnective annotation_id="6413">à</DiscourseConnective> l'autre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5593" docOffset="35">
+      <en>
+        <Alignment alignment="6424" annotation_id="5593">
+          <DiscourseConnective annotation_id="5593" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, the Czech Republic has over 40 EMIs, or Electronic Money Institutes, <Alignment alignment="34084" annotation_id="5675">
+          <DiscourseConnective annotation_id="5675" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> France and Germany between them have a grand total of 12.</en>
+      <fr>
+        <Alignment alignment="5593" annotation_id="6424">
+          <DiscourseConnective annotation_id="6424" sense="Expansion.Instantiation">Par exemple</DiscourseConnective>
+        </Alignment>, la République tchèque compte plus de 40 établissements de ce genre, <Alignment alignment="5675" annotation_id="6505">
+          <DiscourseConnective annotation_id="6505" sense="Comparison.Contrast">tandis que</DiscourseConnective>
+        </Alignment> la France <DiscourseConnective annotation_id="6526">et</DiscourseConnective> l'Allemagne réunies n'en comptent que douze <DiscourseConnective annotation_id="6573">au total</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5739" docOffset="36">
+      <en>
+        <Alignment alignment="9434" annotation_id="5739">
+          <Alignment alignment="21859" annotation_id="5739">
+            <DiscourseConnective annotation_id="5739" sense="Expansion.Conjunction">In fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, two German EMIs were even constrained to move to the UK jurisdiction because of major differences in regulation, even under this directive.</en>
+      <fr>
+        <Alignment alignment="1612" annotation_id="6583">
+          <Alignment alignment="19022" annotation_id="6583">
+            <DiscourseConnective annotation_id="6583" sense="Expansion.Conjunction">En réalité</DiscourseConnective>
+          </Alignment>
+        </Alignment>, deux établissements allemands ont <DiscourseConnective annotation_id="6629">même</DiscourseConnective> été contraints de s'installer au Royaume-Uni en raison des différences majeures qui subsistent dans la réglementation, malgré l'adoption de cette directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5888" docOffset="37">
+      <en>In August 2007 - two years ago - outstanding electronic money was only EUR 1 billion, <DiscourseConnective annotation_id="5974" sense="Expansion.Conjunction">and</DiscourseConnective> that compares with EUR 600 billion of cash in circulation.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6791">En</DiscourseConnective> août 2007 - il y a deux ans -, le volume de monnaie électronique <DiscourseConnective annotation_id="6859">en</DiscourseConnective> circulation s'élevait seulement à 1 milliard d'euros, contre 600 milliards d'euros pour les liquidités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6037" docOffset="38">
+      <en>So, clearly, e-money has a long way to go to become a serious alternative to cash.</en>
+      <fr>
+        <DiscourseConnective annotation_id="6966">Par conséquent</DiscourseConnective>, il est évident que la monnaie électronique a encore un long chemin <DiscourseConnective annotation_id="7049">à</DiscourseConnective> parcourir <DiscourseConnective annotation_id="7061">avant de</DiscourseConnective> devenir une alternative sérieuse aux liquidités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6120" docOffset="39">
+      <en>
+        <Alignment alignment="2545" annotation_id="6120">
+          <DiscourseConnective annotation_id="6120" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is growing significantly, despite the restrictions, <Alignment alignment="7206" annotation_id="6184">
+          <DiscourseConnective annotation_id="6184" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this new directive should enable new, innovative and secure electronic money services to operate, to provide market access possibilities for new players and to foster real and effective competition between market participants.</en>
+      <fr>
+        <Alignment alignment="2723" annotation_id="7119">
+          <DiscourseConnective annotation_id="7119" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, son importance s'accroît de manière significative, malgré les restrictions, <Alignment alignment="6184" annotation_id="7206">
+          <DiscourseConnective annotation_id="7206" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cette nouvelle directive devrait favoriser l'établissement de nouveaux services de monnaie électronique innovants <DiscourseConnective annotation_id="7323">et</DiscourseConnective> plus sûrs. Elle devrait également permettre à de nouveaux acteurs d'accéder au marché <DiscourseConnective annotation_id="7412">et</DiscourseConnective> favoriser une concurrence réelle <DiscourseConnective annotation_id="7448">et</DiscourseConnective> effective entre les divers participants à ce marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6415" docOffset="40">
+      <en>New and smaller operators will have an opportunity to enter the market, <Alignment alignment="41799" annotation_id="6487">
+          <DiscourseConnective annotation_id="6487" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the amount of initial capital needed will be reduced from EUR 1 million to EUR 350 000.</en>
+      <fr>De nouveaux opérateurs plus petits pourront pénétrer sur le marché, <Alignment alignment="8017" annotation_id="7572">
+          <DiscourseConnective annotation_id="7572" sense="Temporal.Synchrony">puisque</DiscourseConnective>
+        </Alignment> le capital initial requis sera réduit à 350 000 euros, contre 1 million d'euros actuellement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6578" docOffset="41">
+      <en>The Committee on Economic and Monetary Affairs would certainly have preferred less.</en>
+      <fr>La commission des affaires économiques <DiscourseConnective annotation_id="7713">et</DiscourseConnective> monétaires aurait <DiscourseConnective annotation_id="7734">cependant</DiscourseConnective> souhaité que ce chiffre soit encore plus bas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6662" docOffset="42">
+      <en>Providers can extend the outlets where e-payments can be made, <Alignment alignment="16243" annotation_id="6725">
+          <DiscourseConnective annotation_id="6725" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> the customer paying for his metro ticket with e-money could <Alignment alignment="7995" annotation_id="6797">
+          <DiscourseConnective annotation_id="6797" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> purchase a coffee, a newspaper or a bunch of flowers at the station kiosk, <Alignment alignment="8083" annotation_id="6877">
+          <DiscourseConnective annotation_id="6877" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> is already - and very successfully - the case in Hong Kong, <Alignment alignment="20554" annotation_id="6940">
+          <DiscourseConnective annotation_id="6940" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Les fournisseurs pourront étendre le nombre de points où de tels paiements électroniques peuvent être effectués. <Alignment alignment="6725" annotation_id="7903">
+          <DiscourseConnective annotation_id="7903" sense="Expansion.Instantiation">Par exemple</DiscourseConnective>
+        </Alignment>, le client qui paie son ticket de métro <DiscourseConnective annotation_id="7955">à</DiscourseConnective> l'aide de monnaie électronique pourra <Alignment alignment="9535" annotation_id="7995">
+          <DiscourseConnective annotation_id="7995" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> acheter un café, un journal <DiscourseConnective annotation_id="8033">ou</DiscourseConnective> un bouquet de fleurs au kiosque de la station, <Alignment alignment="6877" annotation_id="8083">
+          <DiscourseConnective annotation_id="8083" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> c'est <DiscourseConnective annotation_id="8095">déjà</DiscourseConnective> le cas, <Alignment alignment="6940" annotation_id="8108">
+          <DiscourseConnective annotation_id="8108" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="8121">à</DiscourseConnective> Hong-Kong - où cette opération a remporté un franc succès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6953" docOffset="43">
+      <en>We have been rushed through the legislative process for a first-reading agreement in order to get this measure enacted before the European elections.</en>
+      <fr>Tout au long de la procédure législative, nous avons été bousculés pour arriver à un accord <DiscourseConnective annotation_id="8274">en</DiscourseConnective> première lecture <DiscourseConnective annotation_id="8294">afin que</DiscourseConnective> cette mesure puisse entrer en vigueur <DiscourseConnective annotation_id="8341">avant</DiscourseConnective> les élections européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7103" docOffset="44">
+      <en>I thank most warmly Ivo and Melanie from the Economic Committee staff, the Socialist and Liberal shadows, Mr Pittella and Mrs Raeva, the Commission services and the Czech Presidency, notably Tomáš Trnka and his team, for their very positive cooperation.</en>
+      <fr>Je tiens à remercier tout particulièrement Ivo <DiscourseConnective annotation_id="8421">et</DiscourseConnective> Melanie, du personnel de la commission économique, ainsi que les rapporteurs fictifs socialiste <DiscourseConnective annotation_id="8520">et</DiscourseConnective> libéral, M. Pittella <DiscourseConnective annotation_id="8544">et</DiscourseConnective> Mme Raeva, les services de la Commission <DiscourseConnective annotation_id="8588">et</DiscourseConnective> la présidence tchèque, et <DiscourseConnective annotation_id="8617">notamment</DiscourseConnective> Tomáš Trnka <DiscourseConnective annotation_id="8639">et</DiscourseConnective> son équipe, <DiscourseConnective annotation_id="8654">pour</DiscourseConnective> leur contribution extrêmement positive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7357" docOffset="45">
+      <en>None of us achieved all we would have wished, <Alignment alignment="21018" annotation_id="7403">
+          <DiscourseConnective annotation_id="7403" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I believe we will have made a significant step forward, <Alignment alignment="46838" annotation_id="7463">
+          <DiscourseConnective annotation_id="7463" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would very much welcome Parliament's support for this project.</en>
+      <fr>Aucun d'entre nous n'a obtenu l'intégralité de ce qu'il souhaitait, <Alignment alignment="7403" annotation_id="8767">
+          <DiscourseConnective annotation_id="8767" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je pense que nous avons réalisé un grand pas en <DiscourseConnective annotation_id="8820">avant</DiscourseConnective>, <Alignment alignment="7463" annotation_id="8827">
+          <DiscourseConnective annotation_id="8827" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère vraiment que le Parlement soutiendra ce projet.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7532" id="022" name="Antonio Tajani">
+    <ParallelChunk annotation_id="7532" docOffset="46">
+      <en>Vice-President of the Commission. - (IT) Madam President, ladies and gentlemen, first of all I would like to express the Commission's appreciation of the speed with which Parliament has dealt with these two issues, which are so important, and on this point I would like to thank both the rapporteurs and Mrs Berès, chairman of the Committee on Economic and Monetary Affairs, for making a crucial contribution to the speed of the work.</en>
+      <fr>vice-président de la Commission. - (IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="8958">et</DiscourseConnective> Messieurs, permettez-moi, <DiscourseConnective annotation_id="8987">avant</DiscourseConnective> toute chose, d'exprimer la satisfaction de la Commission face <DiscourseConnective annotation_id="9055">à</DiscourseConnective> la vitesse <DiscourseConnective annotation_id="9068">à</DiscourseConnective> laquelle le Parlement a traité ces deux dossiers tellement importants <DiscourseConnective annotation_id="9140">et</DiscourseConnective>, sur ce point, je voudrais remercier les deux rapporteurs, <DiscourseConnective annotation_id="9202">ainsi</DiscourseConnective> que Mme Berès, la présidente de la commission des affaires économiques <DiscourseConnective annotation_id="9279">et</DiscourseConnective> monétaires, <DiscourseConnective annotation_id="9294">pour</DiscourseConnective> leur contribution cruciale au rythme soutenu de réalisation des travaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7967" docOffset="47">
+      <en>We are now only a couple of months away from the final deadline for transposition by the Member States of the directive on payment services.</en>
+      <fr>Nous ne sommes plus <DiscourseConnective annotation_id="9392">qu'</DiscourseConnective>à quelques mois de l'échéance finale <DiscourseConnective annotation_id="9432">pour</DiscourseConnective> la transposition de la directive sur les services de paiement par les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8108" docOffset="48">
+      <en>These two measures, alongside the noteworthy efforts of the payments industry to develop SEPA products, constitute a crucial and timely step towards the completion of the single market for payments.</en>
+      <fr>Ces deux mesures, <DiscourseConnective annotation_id="9540">parallèlement</DiscourseConnective> aux efforts notables du secteur des paiements <DiscourseConnective annotation_id="9600">pour</DiscourseConnective> développer des produits SEPA, constituent un pas en avant crucial <DiscourseConnective annotation_id="9671">et</DiscourseConnective> opportun <DiscourseConnective annotation_id="9683">pour</DiscourseConnective> l'achèvement du marché unique des paiements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8307" docOffset="49">
+      <en>These measures, together with the directive, will complete the legal basis which is indispensable in providing clarity, certainty and stability to the market.</en>
+      <fr>Ces mesures, <DiscourseConnective annotation_id="9746">ainsi</DiscourseConnective> que la directive, compléteront la base juridique indispensable <DiscourseConnective annotation_id="9815">pour</DiscourseConnective> offrir transparence, certitude <DiscourseConnective annotation_id="9851">et</DiscourseConnective> stabilité au marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8466" docOffset="50">
+      <en>The negotiations that have been conducted in recent weeks have made it possible to obtain a very rapid agreement concerning these two issues.</en>
+      <fr>Les négociations de ces dernières semaines ont permis d'obtenir un accord très rapide sur ces deux questions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8608" docOffset="51">
+      <en>With regard to the revised regulation on cross-border payments, I am pleased to announce that the Commission endorses the proposed amendment, which has come about as a result of a compromise.</en>
+      <fr>Concernant le règlement révisé sur les paiements transfrontaliers, j'ai le plaisir de vous annoncer <DiscourseConnective annotation_id="10085">que</DiscourseConnective> la Commission approuve la modification proposée, qui est le fruit d'un compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8800" docOffset="52">
+      <en>The Commission is particularly pleased by the inclusion in its original proposal of articles governing the matter of the multilateral interbank fee for direct debit transactions.</en>
+      <fr>La Commission se réjouit particulièrement de l'inclusion dans sa proposition d'origine d'articles régissant la question de la commission multilatérale d'interchange <DiscourseConnective annotation_id="10336">pour</DiscourseConnective> les prélèvements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8979" docOffset="53">
+      <en>The market was looking for these provisions <Alignment alignment="9695" annotation_id="9023">
+          <DiscourseConnective annotation_id="9023" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we consider them to be vital for a timely launch by European banks of the SEPA direct debit.</en>
+      <fr>Le marché attendait de telles dispositions <Alignment alignment="9023" annotation_id="10402">
+          <DiscourseConnective annotation_id="10402" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous estimons qu'elles sont vitales <DiscourseConnective annotation_id="10441">pour</DiscourseConnective> le lancement fort <DiscourseConnective annotation_id="10464">à propos</DiscourseConnective> du prélèvement SEPA par les banques européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9120" docOffset="54">
+      <en>These rules will give the payments industry three years to put forward a long-term commercial model for automated debits that abides by competition rules.</en>
+      <fr>Ces règles laisseront trois ans au secteur des paiements <DiscourseConnective annotation_id="10579">pour</DiscourseConnective> présenter un modèle commercial à long terme <DiscourseConnective annotation_id="10628">pour</DiscourseConnective> les prélèvements automatiques respectant les règles de concurrence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9275" docOffset="55">
+      <en>In a spirit of compromise, the Commission is willing to replace the unconditional removal of these obligations with a review clause, <Alignment alignment="19277" annotation_id="9408">
+          <DiscourseConnective annotation_id="9408" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> proposed by Parliament and the Council.</en>
+      <fr>Dans un esprit de compromis, la Commission est prête <DiscourseConnective annotation_id="10754">à</DiscourseConnective> remplacer la suppression inconditionnelle de ces obligations par une clause de réexamen, <Alignment alignment="9408" annotation_id="10845">
+          <DiscourseConnective annotation_id="10845" sense="Temporal.Synchrony">ainsi</DiscourseConnective>
+        </Alignment> que proposé par le Parlement <DiscourseConnective annotation_id="10880">et</DiscourseConnective> le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9451" docOffset="56">
+      <en>With regard to the revised directive on electronic money, this is a particularly ambitious piece of legislation that will offer a well-received second chance for the establishment of a market in electronic money that will be genuinely useful.</en>
+      <fr>Concernant la directive révisée sur la monnaie électronique, il <DiscourseConnective annotation_id="10959">s'</DiscourseConnective>agit là d'une législation particulièrement ambitieuse qui offrira une deuxième chance bienvenue <DiscourseConnective annotation_id="11057">à</DiscourseConnective> la création d'un marché de la monnaie électronique qui sera réellement utile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9694" docOffset="57">
+      <en>The directive aims to provide the market with a clear and balanced legal and prudential framework, removing unnecessary, disproportionate or excessive barriers to market entry and making the business of issuing electronic money more attractive.</en>
+      <fr>La directive vise <DiscourseConnective annotation_id="11155">à</DiscourseConnective> offrir au marché un cadre juridique <DiscourseConnective annotation_id="11193">et</DiscourseConnective> prudentiel clair <DiscourseConnective annotation_id="11213">et</DiscourseConnective> équilibré, en supprimant les obstacles inutiles, disproportionnés <DiscourseConnective annotation_id="11282">ou</DiscourseConnective> excessifs <DiscourseConnective annotation_id="11295">à</DiscourseConnective> l'entrée sur le marché <DiscourseConnective annotation_id="11320">et</DiscourseConnective> en renforçant l'attrait de l'activité d'émission de monnaie électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9939" docOffset="58">
+      <en>The new directive should promote genuine and effective competition between all market participants, <DiscourseConnective annotation_id="10039" sense="Expansion.Conjunction">and</DiscourseConnective> at the same time ensure equal conditions for all payment services providers and a high level of consumer protection.</en>
+      <fr>La nouvelle directive devrait promouvoir une concurrence réelle <DiscourseConnective annotation_id="11461">et</DiscourseConnective> efficace entre tous les acteurs du marché, <DiscourseConnective annotation_id="11507">de même que</DiscourseConnective> garantir des conditions équitables <DiscourseConnective annotation_id="11554">pour</DiscourseConnective> tous les prestataires de services de paiement <DiscourseConnective annotation_id="11605">et</DiscourseConnective> un niveau élevé de protection des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10160" docOffset="59">
+      <en>The compromise reached establishes an excellent balance, fully protecting our initial objectives and at the same time providing an appropriate response to the legitimate concerns expressed during the adoption process.</en>
+      <fr>Le compromis dégagé parvient à un excellent équilibre, en protégeant pleinement nos objectifs initiaux tout en fournissant une réponse appropriée aux préoccupations légitimes exprimées lors du processus d'adoption.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10378" docOffset="60">
+      <en>We <Alignment alignment="11887" annotation_id="10381">
+          <DiscourseConnective annotation_id="10381" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> fully support this proposal.</en>
+      <fr>Nous soutenons <Alignment alignment="6548" annotation_id="11887">
+          <DiscourseConnective annotation_id="11887" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> pleinement cette proposition.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10420" id="023" name="Aloyzas Sakalas">
+    <ParallelChunk annotation_id="10420" docOffset="61">
+      <en>draftsman of the opinion of the Committee on Legal Affairs. - Madam President, the Legal Affairs Committee supports the proposal for a regulation of the European Parliament and of the Council on cross-border payments in the Community.</en>
+      <fr>rapporteur pour avis de la commission des affaires juridiques. - (EN) Madame la Présidente, la commission des affaires juridiques soutient la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="12115">et</DiscourseConnective> du Conseil concernant les paiements transfrontaliers dans la Communauté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10655" docOffset="62">
+      <en>The aims of the Commission initiative are as follows: firstly, to replace the existing regulation in order to adapt it to market developments; secondly, to advance the protection of consumer rights and to provide an adequate legal framework for the development of a modern and efficient payment system within the EU; and thirdly, to achieve an internal market for payment services in euro.</en>
+      <fr>L'initiative de la Commission poursuit les objectifs suivants: <DiscourseConnective annotation_id="12254">premièrement</DiscourseConnective>, remplacer la législation existante <DiscourseConnective annotation_id="12303">afin de</DiscourseConnective> l'adapter <DiscourseConnective annotation_id="12321">à</DiscourseConnective> l'évolution du marché; <DiscourseConnective annotation_id="12346">deuxièmement</DiscourseConnective>, améliorer la protection des droits des consommateurs <DiscourseConnective annotation_id="12413">et</DiscourseConnective> mettre en place un cadre législatif approprié <DiscourseConnective annotation_id="12462">pour</DiscourseConnective> permettre le développement d'un système de paiement moderne <DiscourseConnective annotation_id="12527">et</DiscourseConnective> efficace au sein de l'Union européenne; <DiscourseConnective annotation_id="12570">et</DiscourseConnective> <DiscourseConnective annotation_id="12573">troisièmement</DiscourseConnective>, permettre la création d'un marché intérieur <DiscourseConnective annotation_id="12632">pour</DiscourseConnective> les services de paiement <DiscourseConnective annotation_id="12662">en</DiscourseConnective> euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11045" docOffset="63">
+      <en>The Legal Affairs Committee was appointed to submit an opinion to the lead Committee on Economic and Monetary Affairs.</en>
+      <fr>La commission des affaires juridiques a été chargée de rendre un avis <DiscourseConnective annotation_id="12742">à</DiscourseConnective> la commission des affaires économiques <DiscourseConnective annotation_id="12783">et</DiscourseConnective> monétaires, compétente au fond.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11164" docOffset="64">
+      <en>In the opinion it was proposed that Member States may appoint existing institutions to act as competent authorities and to utilise or extend existing procedures concerning cross-border payment services.</en>
+      <fr>Dans cet avis, nous proposons <DiscourseConnective annotation_id="12848">que</DiscourseConnective> les États membres puissent désigner des institutions existantes <DiscourseConnective annotation_id="12916">comme</DiscourseConnective> autorités compétentes <DiscourseConnective annotation_id="12944">et</DiscourseConnective> puissent avoir recours à des procédures existantes <DiscourseConnective annotation_id="12998">ou</DiscourseConnective> en étendre le champ.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11367" docOffset="65">
+      <en>It is important to apply and improve already existing measures and redress bodies to deal effectively with complaints and disputes regarding this proposal.</en>
+      <fr>Il importe d'appliquer les mesures déjà existantes, en les améliorant s'il y a lieu, <DiscourseConnective annotation_id="13107">et</DiscourseConnective> d'avoir recours aux organismes de résolution des litiges déjà en place <DiscourseConnective annotation_id="13181">pour</DiscourseConnective> traiter efficacement les réclamations <DiscourseConnective annotation_id="13224">et</DiscourseConnective> les litiges concernant cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11523" docOffset="66">
+      <en>It is important to point out that the principles of proportionality, subsidiarity and especially the extended principle of equality of charges for cross-border payments should comply with the EC Treaty, Article 95(1).</en>
+      <fr>Il convient de signaler <DiscourseConnective annotation_id="13293">que</DiscourseConnective> les principes de proportionnalité, de subsidiarité <DiscourseConnective annotation_id="13348">et</DiscourseConnective>, <DiscourseConnective annotation_id="13352">en particulier</DiscourseConnective>, le principe étendu d'égalité des frais <DiscourseConnective annotation_id="13407">pour</DiscourseConnective> les paiements transfrontaliers doivent se conformer à l'article 95, paragraphe 1, du traité CE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11741" docOffset="67">
+      <en>Cross-border payments in euro require a Community-wide approach <Alignment alignment="13621" annotation_id="11805">
+          <DiscourseConnective annotation_id="11805" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the applicable rules and principles have to be the same in all Member States in order to achieve legal certainty and a level playing field for all European payments market stakeholders.</en>
+      <fr>Les paiements transfrontaliers <DiscourseConnective annotation_id="13539">en</DiscourseConnective> euros doivent faire l'objet d'une approche identique dans toute la Communauté. <Alignment alignment="11805" annotation_id="13621">
+          <DiscourseConnective annotation_id="13621" sense="Contingency.Cause.Reason">En effet</DiscourseConnective>
+        </Alignment>, les règles <DiscourseConnective annotation_id="13642">et</DiscourseConnective> principes applicables doivent être les mêmes dans tous les États membres <DiscourseConnective annotation_id="13718">afin de</DiscourseConnective> garantir une certaine sécurité juridique <DiscourseConnective annotation_id="13767">et</DiscourseConnective> des conditions de concurrence équitables <DiscourseConnective annotation_id="13811">pour</DiscourseConnective> tous les acteurs du marché des paiements européens.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11999" id="024" name="José Manuel García-Margallo y Marfil">
+    <ParallelChunk annotation_id="11999" docOffset="68">
+      <en>on behalf of the PPE-DE Group. - (ES) Madam President, I am going to comment only on the regulation on cross-border payments and the report drawn up by Mrs Starkevičiūtė.</en>
+      <fr>au nom du groupe PPE-DE. - (ES) Madame la Présidente, je commenterai uniquement le règlement concernant les paiements transfrontaliers <DiscourseConnective annotation_id="14003">et</DiscourseConnective> le rapport élaboré par Mme Starkevičiūtė.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12170" docOffset="69">
+      <en>The regulation, <Alignment alignment="25332" annotation_id="12186">
+          <DiscourseConnective annotation_id="12186" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> she has explained very well, responds to the needs that have been perceived as a result of the introduction of the euro, and lays down a relatively clear principle: charges must be the same for domestic payments as for cross-border payments.</en>
+      <fr>Le règlement, <Alignment alignment="3246" annotation_id="14062">
+          <DiscourseConnective annotation_id="14062" sense="Temporal.Synchrony">ainsi</DiscourseConnective>
+        </Alignment> qu'elle l'a très bien expliqué, répond aux besoins qui sont apparus <DiscourseConnective annotation_id="14136">à</DiscourseConnective> la suite de l'introduction de l'euro <DiscourseConnective annotation_id="14175">et</DiscourseConnective> établit un principe relativement clair: les frais doivent être les mêmes <DiscourseConnective annotation_id="14251">pour</DiscourseConnective> les paiements nationaux et les paiements transfrontaliers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12431" docOffset="70">
+      <en>This is a common-sense rule in an internal market, but one that was far from being adhered to prior to this regulation.</en>
+      <fr>Il <DiscourseConnective annotation_id="14318">s'</DiscourseConnective>agit là d'une règle de bon sens au sein d'un marché intérieur, <DiscourseConnective annotation_id="14383">mais</DiscourseConnective> qui était loin d'être appliquée <DiscourseConnective annotation_id="14420">avant</DiscourseConnective> ce règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12551" docOffset="71">
+      <en>The regulation has <Alignment alignment="14457" annotation_id="12570">
+          <DiscourseConnective annotation_id="12570" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> become a launch-pad for the Single Euro Payments Area, to which the rapporteur <Alignment alignment="25774" annotation_id="12654">
+          <DiscourseConnective annotation_id="12654" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> referred, <Alignment alignment="16178" annotation_id="12669">
+          <DiscourseConnective annotation_id="12669" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I <Alignment alignment="14602" annotation_id="12675">
+          <DiscourseConnective annotation_id="12675" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> have some additional observations.</en>
+      <fr>Le règlement est <Alignment alignment="19481" annotation_id="14457">
+          <DiscourseConnective annotation_id="14457" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> devenu une rampe de lancement <DiscourseConnective annotation_id="14493">pour</DiscourseConnective> l'espace unique de paiements en euros, auquel la rapporteure a <Alignment alignment="9291" annotation_id="14561">
+          <DiscourseConnective annotation_id="14561" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> fait référence, <Alignment alignment="11948" annotation_id="14587">
+          <DiscourseConnective annotation_id="14587" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais <Alignment alignment="10829" annotation_id="14602">
+          <DiscourseConnective annotation_id="14602" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> faire quelques commentaires supplémentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12720" docOffset="72">
+      <en>With time, this regulation has become outdated <DiscourseConnective annotation_id="12767" sense="Expansion.Conjunction">and</DiscourseConnective> it has been necessary to revise it in order to adapt it to the changes on the financial markets and <DiscourseConnective annotation_id="12871" sense="Expansion.Conjunction">also</DiscourseConnective> to the directive on payment services.</en>
+      <fr>Avec le temps, ce règlement est devenu désuet, de sorte qu'il est devenu indispensable de le réviser <DiscourseConnective annotation_id="14763">afin de</DiscourseConnective> l'adapter <DiscourseConnective annotation_id="14781">à</DiscourseConnective> l'évolution des marchés financiers, ainsi qu'à la directive sur les services de paiement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12914" docOffset="73">
+      <en>The Commission set itself three goals in this revision: firstly, to include cross-border direct debits within the regulation's scope; secondly, to establish procedures for the out-of-court handling of problems that might arise from the application of the regulation; and, thirdly, to ease the balance-of-payments statistical reporting obligations.</en>
+      <fr>La Commission s'est fixé trois objectifs dans le cadre de cette révision: <DiscourseConnective annotation_id="14947">premièrement</DiscourseConnective>, inclure les prélèvements transfrontaliers dans le champ d'application du règlement; <DiscourseConnective annotation_id="15045">deuxièmement</DiscourseConnective>, établir des procédures <DiscourseConnective annotation_id="15082">pour</DiscourseConnective> la résolution extrajudiciaire des problèmes pouvant découler de l'application du règlement; <DiscourseConnective annotation_id="15179">et</DiscourseConnective>, <DiscourseConnective annotation_id="15183">troisièmement</DiscourseConnective>, faciliter les obligations de déclarations statistiques <DiscourseConnective annotation_id="15253">en vue d'</DiscourseConnective>établir la balance des paiements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13262" docOffset="74">
+      <en>The European Parliament has, on the whole, agreed with this approach, <Alignment alignment="8000" annotation_id="13332">
+          <DiscourseConnective annotation_id="13332" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it has made three significant changes: a clarification to the legal definitions laid down by the regulation, a warning or reminder to the Member States that they should comply with the regulation more effectively than they have done in the past and, thirdly, a call for significant cooperation between the Member States.</en>
+      <fr>Le Parlement européen a, de manière générale, approuvé cette approche, <Alignment alignment="1287" annotation_id="15367">
+          <DiscourseConnective annotation_id="15367" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> a apporté trois modifications majeures: une clarification des définitions juridiques établies par le règlement, une mise en garde <DiscourseConnective annotation_id="15502">ou</DiscourseConnective> un rappel aux États membres <DiscourseConnective annotation_id="15533">pour</DiscourseConnective> les inviter à respecter davantage le règlement <DiscourseConnective annotation_id="15585">et</DiscourseConnective>, <DiscourseConnective annotation_id="15589">troisièmement</DiscourseConnective>, un appel <DiscourseConnective annotation_id="15613">à</DiscourseConnective> une coopération étendue entre les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13657" docOffset="75">
+      <en>My concern was the issue of balance-of-payments statistical obligations, which has been resolved by agreement between the separate institutions.</en>
+      <fr>Ma plus grande préoccupation concernait la question des obligations de déclarations statistiques liées à la balance des paiements, qui a été résolue par un accord entre les différentes institutions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13802" docOffset="76">
+      <en>I can <Alignment alignment="31974" annotation_id="13808">
+          <DiscourseConnective annotation_id="13808" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> say that I am fully satisfied with the result achieved.</en>
+      <fr>Je peux <Alignment alignment="16340" annotation_id="15871">
+          <DiscourseConnective annotation_id="15871" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> affirmer <DiscourseConnective annotation_id="15889">que</DiscourseConnective> je suis pleinement satisfait du <DiscourseConnective annotation_id="15925">résultat</DiscourseConnective> atteint.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13874" id="025" language="FR" name="Pervenche Berès">
+    <ParallelChunk annotation_id="13874" docOffset="77">
+      <en>Madam President, I would like to talk about the report by Mr Purvis on electronic money.</en>
+      <fr>au nom du groupe PSE. - Madame la Présidente, je voudrais me prononcer sur le rapport de M. John Purvis sur la monnaie électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13963" docOffset="78">
+      <en>First of all, I think that <Alignment alignment="17308" annotation_id="13990">
+          <DiscourseConnective annotation_id="13990" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we consider the reasons why electronic money is less developed here than in Hong Kong, it is undoubtedly <Alignment alignment="16230" annotation_id="14098">
+          <DiscourseConnective annotation_id="14098" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> European citizens have become used to using their bank cards much more easily.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16076">D'abord</DiscourseConnective>, je crois <Alignment alignment="5520" annotation_id="16094">
+          <DiscourseConnective annotation_id="16094" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> on s'interroge sur les raisons pour lesquelles la monnaie électronique est moins développée ici <DiscourseConnective annotation_id="16197">qu'</DiscourseConnective>à Hong-Kong, c'est sans doute <Alignment alignment="14098" annotation_id="16230">
+          <DiscourseConnective annotation_id="16230" sense="Contingency.Cause.Reason">que</DiscourseConnective>
+        </Alignment> les citoyens européens ont pris l'habitude de se servir de leur carte bancaire avec beaucoup de facilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14185" docOffset="79">
+      <en>This Parliament has had two concerns in drawing up this legislation: firstly, at a time <DiscourseConnective annotation_id="14273" sense="Temporal.Synchrony">when</DiscourseConnective> the issue of supervision is on everybody's lips, we do not want to deregulate the supervision of electronic money institutions solely because of the latter's lobbying.</en>
+      <fr>Les préoccupations de ce Parlement dans l'élaboration de cette législation auront été doubles: <DiscourseConnective annotation_id="16435">premièrement</DiscourseConnective>, <DiscourseConnective annotation_id="16449">à</DiscourseConnective> un moment où les enjeux de supervision sont sur toutes les lèvres, nous ne souhaitions pas, du seul fait de l'insistance du lobby des institutions de la monnaie électronique, déréguler la supervision de ces dernières.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14446" docOffset="80">
+      <en>This is why the European Parliament has above all insisted that these institutions that issue electronic money and manage electronic money should be subject to genuine supervision, <Alignment alignment="1468" annotation_id="14627">
+          <DiscourseConnective annotation_id="14627" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I think that we have obtained a number of guarantees in this area.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16669">C'est pourquoi</DiscourseConnective> ce Parlement européen a <DiscourseConnective annotation_id="16708">surtout</DiscourseConnective> tenu à ce <DiscourseConnective annotation_id="16726">que</DiscourseConnective> ces institutions qui émettent de la monnaie électronique, qui gèrent de la monnaie électronique, puissent faire l'objet d'une véritable supervision, <Alignment alignment="14627" annotation_id="16879">
+          <DiscourseConnective annotation_id="16879" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je crois <DiscourseConnective annotation_id="16891">que</DiscourseConnective> nous avons obtenu un certain nombre de garanties dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14698" docOffset="81">
+      <en>I welcome this.</en>
+      <fr>Je m'<DiscourseConnective annotation_id="16966">en</DiscourseConnective> réjouis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14714" docOffset="82">
+      <en>In the same way, we were anxious to take into account the interests of citizens and those who use electronic money, <Alignment alignment="46140" annotation_id="14830">
+          <DiscourseConnective annotation_id="14830" sense="Expansion.Conjunction">particularly</DiscourseConnective>
+        </Alignment> <Alignment alignment="17138" annotation_id="14843">
+          <DiscourseConnective annotation_id="14843" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they want to end their contracts, <Alignment alignment="18187" annotation_id="14882">
+          <Alignment alignment="17183" annotation_id="14882">
+            <DiscourseConnective annotation_id="14882" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> they did not have restrictions and fees imposed on them by the institutions managing electronic money that we would have seen as excessive.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16978">De la même manière</DiscourseConnective>, nous avons eu la préoccupation de tenir compte des intérêts des citoyens <DiscourseConnective annotation_id="17071">et</DiscourseConnective> de ceux qui ont recours à cette monnaie électronique, <Alignment alignment="14830" annotation_id="17128">
+          <DiscourseConnective annotation_id="17128" sense="Expansion.Conjunction">notamment</DiscourseConnective>
+        </Alignment> <Alignment alignment="11469" annotation_id="17138">
+          <DiscourseConnective annotation_id="17138" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>ils veulent interrompre leur contrat, <Alignment alignment="23219" annotation_id="17183">
+          <Alignment alignment="14882" annotation_id="17183">
+            <DiscourseConnective annotation_id="17183" sense="Contingency.Cause.Result">de façon à ce qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>ils ne se voient pas imposer par les institutions gérant cette monnaie électronique des contraintes <DiscourseConnective annotation_id="17300">et</DiscourseConnective> des frais qui nous auraient semblé excessifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15030" docOffset="83">
+      <en>This is the spirit in which we have supported this proposal, in the hope that it would make our fellow citizens' lives easier through the use of electronic money, <Alignment alignment="8087" annotation_id="15193">
+          <DiscourseConnective annotation_id="15193" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that this would not result in excesses, particularly in terms of supervision mechanisms.</en>
+      <fr>Voilà l'esprit dans lequel nous avons apporté notre soutien à cette proposition, <DiscourseConnective annotation_id="17430">en</DiscourseConnective> souhaitant <DiscourseConnective annotation_id="17444">qu'</DiscourseConnective>elle facilite la vie de nos concitoyens par l'utilisation de la monnaie électronique, <Alignment alignment="15193" annotation_id="17533">
+          <DiscourseConnective annotation_id="17533" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17538">que</DiscourseConnective> cela ne conduise pas <DiscourseConnective annotation_id="17563">à</DiscourseConnective> des dérives <DiscourseConnective annotation_id="17577">notamment</DiscourseConnective> au regard des mécanismes de supervision.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15286" id="026" language="BG" name="Mariela Velichkova Baevа">
+    <ParallelChunk annotation_id="15286" docOffset="84">
+      <en>The proposal for a regulation of the European Parliament and of the Council on cross-border payments in the Community, which aims to replace the current applicable regulation, is linked to the creation of an integrated European payments market.</en>
+      <fr>au nom du groupe ALDE. - (BG) La proposition de règlement du Parlement européen <DiscourseConnective annotation_id="17708">et</DiscourseConnective> du Conseil concernant les paiements transfrontaliers dans la Communauté, qui vise <DiscourseConnective annotation_id="17793">à</DiscourseConnective> remplacer le règlement actuellement en vigueur, est liée <DiscourseConnective annotation_id="17852">à</DiscourseConnective> la création d'un marché européen intégré des paiements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15531" docOffset="85">
+      <en>The proposal is <Alignment alignment="22406" annotation_id="15547">
+          <DiscourseConnective annotation_id="15547" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> aimed at increasing the protection of consumers' interests and rights and easing the burden with regard to reporting statistics.</en>
+      <fr>La proposition vise <Alignment alignment="10537" annotation_id="17930">
+          <DiscourseConnective annotation_id="17930" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17940">à</DiscourseConnective> renforcer la protection des intérêts <DiscourseConnective annotation_id="17979">et</DiscourseConnective> des droits des consommateurs <DiscourseConnective annotation_id="18011">et</DiscourseConnective> à alléger le fardeau engendré par les déclarations statistiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15681" docOffset="86">
+      <en>Article 5 on the balance of payments and Article 12 relating to the review clause are the subject of a compromise which our rapporteur, Margarita Starkevičiūtė, is aiming for <Alignment alignment="3964" annotation_id="15856">
+          <DiscourseConnective annotation_id="15856" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> is supported by Bulgaria.</en>
+      <fr>L'article 5 relatif à la balance des paiements <DiscourseConnective annotation_id="18126">et</DiscourseConnective> l'article 12 concernant la clause de réexamen font l'objet d'un compromis recherché par notre rapporteure, Margarita Starkevičiūtė, <Alignment alignment="15856" annotation_id="18261">
+          <DiscourseConnective annotation_id="18261" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> soutenu par la Bulgarie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15886" docOffset="87">
+      <en>The compromise offers an opportunity for a timely, adequate assessment.</en>
+      <fr>Ce compromis offre en effet la possibilité de mettre en place une évaluation adéquate et opportune.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15958" docOffset="88">
+      <en>The current global financial crisis focuses attention on the need for relevant statistical data.</en>
+      <fr>La crise financière internationale actuelle attire l'attention sur l'importance d'avoir des données statistiques pertinentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16055" docOffset="89">
+      <en>Bulgaria is in favour of removing settlement-based reporting obligations on payment service providers for balance of payments statistics under a threshold of EUR 50 000.</en>
+      <fr>La Bulgarie est favorable <DiscourseConnective annotation_id="18541">à</DiscourseConnective> la suppression des obligations de déclaration des règlements imposées aux prestataires de services de paiement aux fins des statistiques de la balance des paiements pour les opérations inférieures <DiscourseConnective annotation_id="18740">à</DiscourseConnective> 50 000 euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16225" docOffset="90">
+      <en>Bulgaria supports the removal of Article 5(2) <Alignment alignment="18832" annotation_id="16271">
+          <DiscourseConnective annotation_id="16271" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the reservations which have been expressed are made in the context of the potential loss of information and a deterioration in the quality of the balance of payments statistics, as well as to do with the need for a technical period for implementing the switch to the direct reporting system.</en>
+      <fr>La Bulgarie soutient également la suppression de l'article 5, paragraphe 2, <Alignment alignment="16271" annotation_id="18832">
+          <DiscourseConnective annotation_id="18832" sense="Temporal.Synchrony">dans la mesure où</DiscourseConnective>
+        </Alignment> les réserves exprimées le sont dans le contexte de la perte potentielle d'informations <DiscourseConnective annotation_id="18937">et</DiscourseConnective> d'une détérioration de la qualité des statistiques de la balance de paiement, <DiscourseConnective annotation_id="19018">et</DiscourseConnective> sont liées <DiscourseConnective annotation_id="19032">à</DiscourseConnective> la nécessité d'une période d'adaptation technique <DiscourseConnective annotation_id="19084">pour</DiscourseConnective> le passage au système de déclaration directe.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16566" id="027" name="Antonio Tajani">
+    <ParallelChunk annotation_id="16566" docOffset="91">
+      <en>Vice-President of the Commission. - (IT) Madam President, ladies and gentlemen, once again I would like to express my appreciation for the way in which Parliament has managed these two issues.</en>
+      <fr>vice-président de la Commission. - (IT) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="19206">et</DiscourseConnective> Messieurs, je voudrais une fois de plus exprimer ma satisfaction <DiscourseConnective annotation_id="19274">quant à</DiscourseConnective> la manière dont le Parlement a géré ces deux dossiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16759" docOffset="92">
+      <en>It means that the new regulation on cross-border payments will enter into force <Alignment alignment="19433" annotation_id="16839">
+          <DiscourseConnective annotation_id="16839" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> scheduled on 1 November this year, <Alignment alignment="19476" annotation_id="16877">
+          <DiscourseConnective annotation_id="16877" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the e-money market will <Alignment alignment="52091" annotation_id="16905">
+          <DiscourseConnective annotation_id="16905" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> have a second chance to take off.</en>
+      <fr>Grâce à cela, le nouveau règlement concernant les paiements transfrontaliers entrera en vigueur <Alignment alignment="16839" annotation_id="19433">
+          <DiscourseConnective annotation_id="19433" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> prévu le 1er novembre de cette année <Alignment alignment="16877" annotation_id="19476">
+          <DiscourseConnective annotation_id="19476" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le marché de la monnaie électronique aura <Alignment alignment="12734" annotation_id="19521">
+          <DiscourseConnective annotation_id="19521" sense="Contingency.Cause.Result">alors</DiscourseConnective>
+        </Alignment> une deuxième chance de prendre son envol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16944" docOffset="93">
+      <en>In parallel with the directive on payment services, these two pieces of European legislation will make it possible to create a modern, comprehensive legal framework for the Community market in payments and will smooth the path <Alignment alignment="30501" annotation_id="17171">
+          <Alignment alignment="5301" annotation_id="17171">
+            <DiscourseConnective annotation_id="17171" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the European payments industry will be able to fully develop the Single Euro Payments Area project.</en>
+      <fr>
+        <DiscourseConnective annotation_id="19569">Parallèlement</DiscourseConnective> à la directive sur les services de paiement, ces deux actes législatifs européens permettront de créer un cadre juridique moderne complet <DiscourseConnective annotation_id="19721">pour</DiscourseConnective> le marché communautaire des paiements <DiscourseConnective annotation_id="19764">et</DiscourseConnective> aplaniront les difficultés <Alignment alignment="20596" annotation_id="19794">
+          <Alignment alignment="18013" annotation_id="19794">
+            <DiscourseConnective annotation_id="19794" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> le secteur européen des paiements puisse développer pleinement le projet d'espace unique de paiements en euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17279" docOffset="94">
+      <en>This project will offer European consumers and firms a fully integrated payments market that is efficient in terms of costs and is of the highest quality.</en>
+      <fr>Ce projet offrira aux consommateurs <DiscourseConnective annotation_id="19951">et</DiscourseConnective> entreprises européens un marché des paiements pleinement intégré, efficace <DiscourseConnective annotation_id="20029">en</DiscourseConnective> termes de coûts <DiscourseConnective annotation_id="20048">et</DiscourseConnective> de qualité optimale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17434" docOffset="95">
+      <en>The Commission <Alignment alignment="38737" annotation_id="17449">
+          <DiscourseConnective annotation_id="17449" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> thanks - and I do so with particular pleasure - the European Parliament for this latest sign of its commitment to the SEPA.</en>
+      <fr>La Commission remercie <Alignment alignment="17449" annotation_id="20095">
+          <DiscourseConnective annotation_id="20095" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> - une tâche dont je m'acquitte avec un plaisir particulier - le Parlement européen <DiscourseConnective annotation_id="20187">pour</DiscourseConnective> ce dernier témoignage de son engagement vis-à-vis du SEPA.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17583" id="028" name="Nils Lundgren">
+    <ParallelChunk annotation_id="17583" docOffset="96">
+      <en>on behalf of the IND/DEM Group. - (SV) Madam President, electronic money that can be used across borders represents considerable progress.</en>
+      <fr>au nom du groupe IND/DEM. - (SV) Madame la Présidente, la monnaie électronique utilisable à travers les frontières constitue un énorme progrès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17722" docOffset="97">
+      <en>It is important for the EU to improve the internal market in this way by promoting its use.</en>
+      <fr>Il est dès lors important <DiscourseConnective annotation_id="20421">que</DiscourseConnective> l'UE améliore le marché intérieur de cette façon <DiscourseConnective annotation_id="20474">afin de</DiscourseConnective> promouvoir son utilisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17814" docOffset="98">
+      <en>
+        <Alignment alignment="20724" annotation_id="17814">
+          <DiscourseConnective annotation_id="17814" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would like to take the opportunity to recall what it is that we are actually talking about.</en>
+      <fr>Je voudrais <Alignment alignment="4845" annotation_id="20522">
+          <DiscourseConnective annotation_id="20522" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> profiter de l'occasion <DiscourseConnective annotation_id="20555">pour</DiscourseConnective> rappeler ce dont nous parlons réellement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17917" docOffset="99">
+      <en>
+        <DiscourseConnective annotation_id="17917" sense="Temporal.Synchrony">When</DiscourseConnective> we introduced the euro in a large number of European countries, it was based on the analyses carried out on the value of a monetary union.</en>
+      <fr>L'introduction de l'euro dans un grand nombre de pays européens reposait à l'époque sur les analyses réalisées quant à l'intérêt d'une union monétaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18061" docOffset="100">
+      <en>The value is that we reduce the costs involved in exchanging money as well as other transaction costs.</en>
+      <fr>Cet intérêt réside dans le fait <DiscourseConnective annotation_id="20786">que</DiscourseConnective> l'euro nous permet de réduire les coûts liés au change, <DiscourseConnective annotation_id="20846">ainsi</DiscourseConnective> que les coûts d'autres transactions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18164" docOffset="101">
+      <en>We reduce information costs by having a common currency.</en>
+      <fr>Le fait d'avoir une monnaie commune nous permet de réduire les coûts des informations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18221" docOffset="102">
+      <en>The price that we pay for this is to have more unstable economies.</en>
+      <fr>Le prix <DiscourseConnective annotation_id="20984">que</DiscourseConnective> nous payons <DiscourseConnective annotation_id="21000">pour</DiscourseConnective> cela est une instabilité plus grande des économies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18288" docOffset="103">
+      <en>It is more difficult for us to maintain even and high rates of employment and to maintain stable state finances.</en>
+      <fr>Il est plus difficile <DiscourseConnective annotation_id="21079">pour</DiscourseConnective> nous de maintenir des taux d'emploi identiques <DiscourseConnective annotation_id="21131">et</DiscourseConnective> élevés, <DiscourseConnective annotation_id="21142">ainsi</DiscourseConnective> que des finances publiques stables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18401" docOffset="104">
+      <en>We are seeing this right now <Alignment alignment="10153" annotation_id="18430">
+          <DiscourseConnective annotation_id="18430" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> everything is going pear-shaped in this regard in countries such as Ireland, Spain, Italy and Greece.</en>
+      <fr>C'est ce que nous constatons actuellement, <Alignment alignment="10746" annotation_id="21227">
+          <DiscourseConnective annotation_id="21227" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> les choses commencent à mal tourner <DiscourseConnective annotation_id="21273">à cet égard</DiscourseConnective> dans des pays <DiscourseConnective annotation_id="21299">comme</DiscourseConnective> l'Irlande, l'Espagne, l'Italie <DiscourseConnective annotation_id="21336">et</DiscourseConnective> la Grèce.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18535" docOffset="105">
+      <en>Take note, then, that the victims should be counterbalanced by the benefits gained in lower transaction costs as a result of a common currency, <Alignment alignment="31663" annotation_id="18679">
+          <DiscourseConnective annotation_id="18679" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the benefits are continually diminishing precisely <DiscourseConnective annotation_id="18734" sense="Contingency.Cause.Reason">because</DiscourseConnective> progress with regard to the payment system is so rapid.</en>
+      <fr>Notez toutefois <DiscourseConnective annotation_id="21365">que</DiscourseConnective> les victimes devraient être contrebalancées par les avantages tirés de la diminution des coûts de transactions engendrée par une monnaie commune, <Alignment alignment="16089" annotation_id="21515">
+          <DiscourseConnective annotation_id="21515" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les avantages ne cessent de diminuer, <DiscourseConnective annotation_id="21558">précisément</DiscourseConnective> à cause de la rapidité des progrès au niveau du système de paiement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18798" docOffset="106">
+      <en>Within a short time, we will be in a position where we find that we have such an effective payment system that the costs have become negligible.</en>
+      <fr>Nous nous retrouverons sous peu dans une situation où nous aurons un système de paiement tellement efficace <DiscourseConnective annotation_id="21747">que</DiscourseConnective> les coûts seront devenus négligeables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18943" docOffset="107">
+      <en>
+        <DiscourseConnective annotation_id="18943" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective> we will have a common currency that actually only guarantees us instability in our European economy.</en>
+      <fr>Nous aurons alors une monnaie commune qui ne nous garantira plus que l'instabilité de notre économie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19049" docOffset="108">
+      <en>This is something I have said before and now you can see it happening.</en>
+      <fr>J'ai déjà tenu ces propos par le passé <DiscourseConnective annotation_id="21942">et</DiscourseConnective> vous pouvez voir aujourd'hui que la réalité me donne raison.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19120" docOffset="109">
+      <en>I urge you all to reflect on this.</en>
+      <fr>Je vous invite tous <DiscourseConnective annotation_id="22026">à</DiscourseConnective> y réfléchir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19155" id="029" name="Margarita Starkevičiūtė">
+    <ParallelChunk annotation_id="19155" docOffset="110">
+      <en>rapporteur. - (LT) I would like to say that the text before us is a compromise, which has been reached through complex negotiations between the Council, the Commission and Parliament.</en>
+      <fr>rapporteure. - (LT) Je voudrais signaler <DiscourseConnective annotation_id="22082">que</DiscourseConnective> le texte que nous avons sous les yeux est le fruit d'un compromis dégagé au terme de négociations complexes entre le Conseil, la Commission <DiscourseConnective annotation_id="22226">et</DiscourseConnective> le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19339" docOffset="111">
+      <en>
+        <Alignment alignment="31067" annotation_id="19339">
+          <DiscourseConnective annotation_id="19339" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is a positive result <Alignment alignment="24001" annotation_id="19372">
+          <DiscourseConnective annotation_id="19372" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to thank the Council representative Mr Trinka and the Commission representatives for their cooperation, and would <DiscourseConnective annotation_id="19503" sense="Expansion.Conjunction">also</DiscourseConnective> like to thank staff of the Committee on Economic and Monetary Affairs, who helped to prepare this document.</en>
+      <fr>Il <DiscourseConnective annotation_id="22246">s'</DiscourseConnective>agit <Alignment alignment="19339" annotation_id="22253">
+          <DiscourseConnective annotation_id="22253" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> d'un <DiscourseConnective annotation_id="22268">résultat</DiscourseConnective> positif <Alignment alignment="12318" annotation_id="22285">
+          <DiscourseConnective annotation_id="22285" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais remercier le représentant du Conseil, M. Trinka, <DiscourseConnective annotation_id="22349">et</DiscourseConnective> les représentants de la Commission <DiscourseConnective annotation_id="22387">pour</DiscourseConnective> leur coopération, de même que le personnel de la commission des affaires économiques <DiscourseConnective annotation_id="22477">et</DiscourseConnective> monétaires, qui a participé <DiscourseConnective annotation_id="22508">à</DiscourseConnective> la préparation de ce document.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19616" docOffset="112">
+      <en>It will answer those questions which were raised by Mr Lungren, that is, it will help to bolster the whole euro area, <Alignment alignment="4389" annotation_id="19734">
+          <DiscourseConnective annotation_id="19734" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the procedures for euro transactions will be strengthened.</en>
+      <fr>Celui-ci répondra aux questions soulevées par M. Lungren, autrement dit, il contribuera <DiscourseConnective annotation_id="22629">à</DiscourseConnective> soutenir l'ensemble de la zone euro, <Alignment alignment="8" annotation_id="22668">
+          <DiscourseConnective annotation_id="22668" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> les procédures liées aux transactions en euros seront renforcées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19801" docOffset="113">
+      <en>As a representative of a country, which is not in the euro zone, I am delighted that this regulation can <Alignment alignment="43774" annotation_id="19906">
+          <DiscourseConnective annotation_id="19906" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be applied, <Alignment alignment="22880" annotation_id="19923">
+          <DiscourseConnective annotation_id="19923" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> non-euro zone Member States wish, to payments in national currency, which in Lithuania would be the litas.</en>
+      <fr>En <DiscourseConnective annotation_id="22741">tant que</DiscourseConnective> représentante d'un pays qui ne fait pas partie de la zone euro, je suis heureuse <DiscourseConnective annotation_id="22831">que</DiscourseConnective> ce règlement puisse <Alignment alignment="6457" annotation_id="22855">
+          <DiscourseConnective annotation_id="22855" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être appliqué, <Alignment alignment="18055" annotation_id="22880">
+          <DiscourseConnective annotation_id="22880" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> tel est le souhait des États membres en dehors de la zone euro, aux paiements dans la monnaie nationale, qui, dans le cas de la Lituanie, serait le litas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20033" docOffset="114">
+      <en>For the time being, in our countries prices for cross-border payments and prices for domestic payments in the national currency still differ.</en>
+      <fr>
+        <DiscourseConnective annotation_id="23038">Pour</DiscourseConnective> l'heure, les frais appliqués aux paiements transnationaux <DiscourseConnective annotation_id="23101">et</DiscourseConnective> aux paiements nationaux dans la monnaie nationale diffèrent toujours dans nos pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20175" docOffset="115">
+      <en>This is partly determined by the fact that we are not euro zone Member States.</en>
+      <fr>Cette situation <DiscourseConnective annotation_id="23204">s'</DiscourseConnective>explique en partie <DiscourseConnective annotation_id="23225">par le fait que</DiscourseConnective> nous ne sommes pas des États membres de la zone euro.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20254" docOffset="116">
+      <en>I think that the first step and one of the steps towards the euro zone would be for us, non-euro zone Member States, to begin to apply this principle to national currencies.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="23304">que</DiscourseConnective>, <DiscourseConnective annotation_id="23309">pour</DiscourseConnective> les États membres en dehors de la zone euro, la <DiscourseConnective annotation_id="23362">première étape</DiscourseConnective> <DiscourseConnective annotation_id="23377">et</DiscourseConnective> un des pas en direction de la zone euro seraient de commencer par appliquer ce principe aux monnaies nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20428" docOffset="117">
+      <en>The other important thing is that the fostering of cross-border payments by this regulation opens the way to modernising the European banking sector, <DiscourseConnective annotation_id="20578" sense="Contingency.Cause.Reason">because</DiscourseConnective> banks have a transition period of three years to prepare a new business model, which would make payments more efficient.</en>
+      <fr>L'autre point important est <DiscourseConnective annotation_id="23521">que</DiscourseConnective> la facilitation des paiements transfrontaliers au moyen de ce règlement ouvre la voie <DiscourseConnective annotation_id="23611">à</DiscourseConnective> la modernisation du secteur bancaire européen, les banques bénéficiant d'une période transitoire de trois ans <DiscourseConnective annotation_id="23723">pour</DiscourseConnective> préparer un nouveau modèle commercial, destiné à accroître l'efficacité des paiements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20707" docOffset="118">
+      <en>This is very important <Alignment alignment="8796" annotation_id="20730">
+          <DiscourseConnective annotation_id="20730" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we often talk about innovations, new initiatives and modernisation.</en>
+      <fr>Il <DiscourseConnective annotation_id="23818">s'</DiscourseConnective>agit là d'un point très important, <Alignment alignment="20730" annotation_id="23855">
+          <DiscourseConnective annotation_id="23855" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> nous parlons souvent d'innovations, de nouvelles initiatives <DiscourseConnective annotation_id="23920">et</DiscourseConnective> de modernisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20801" docOffset="119">
+      <en>This document creates exactly the right conditions for all this.</en>
+      <fr>Ce document crée <DiscourseConnective annotation_id="23958">précisément</DiscourseConnective> les conditions appropriées <DiscourseConnective annotation_id="23997">pour</DiscourseConnective> tout cela.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20866" id="030" name="John Purvis">
+    <ParallelChunk annotation_id="20866" docOffset="120">
+      <en>rapporteur. - Madam President, just to satisfy the prudential concerns mentioned by Mrs Berès, I would point out that we have insisted in this directive and report that e-money funds are not deposits; credit cannot be created upon them.</en>
+      <fr>rapporteur. - (EN) Madame la Présidente, <DiscourseConnective annotation_id="24054">pour</DiscourseConnective> répondre aux préoccupations de nature prudentielle soulevées par Mme Berès, je voudrais souligner <DiscourseConnective annotation_id="24157">que</DiscourseConnective> nous avons insisté, dans cette directive <DiscourseConnective annotation_id="24202">et</DiscourseConnective> dans ce rapport, sur le fait <DiscourseConnective annotation_id="24234">que</DiscourseConnective> les fonds de monnaie électronique n'étaient pas des dépôts et que les établissements n'étaient pas autorisés à octroyer des crédits sur la base de ces fonds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21103" docOffset="121">
+      <en>We have opened the door for e-money only a bit wider.</en>
+      <fr>Nous avons seulement ouvert un peu plus grand la porte <DiscourseConnective annotation_id="24451">à</DiscourseConnective> la monnaie électronique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21157" docOffset="122">
+      <en>The basic capital requirement is reduced to EUR 350 000; the Committee on Economic and Monetary Affairs would have preferred EUR 200 000.</en>
+      <fr>Le capital de base nécessaire est réduit <DiscourseConnective annotation_id="24519">à</DiscourseConnective> 350 000 euros, même si la commission des affaires économiques <DiscourseConnective annotation_id="24583">et</DiscourseConnective> monétaires aurait préféré que ce chiffre ne s'élève qu'à 200 000 euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21295" docOffset="123">
+      <en>The own-funds requirement is to be 2% of outstanding e-money funds; we would have preferred 1.6%, but with the 20% flexibility up <DiscourseConnective annotation_id="21425" sense="Expansion.Alternative">or</DiscourseConnective> down that is allowed, the more liberal Member States can go down to 1.6% <Alignment alignment="24231" annotation_id="21501">
+          <DiscourseConnective annotation_id="21501" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the conservative Member States can go up to 2.4%.</en>
+      <fr>Les fonds propres requis <DiscourseConnective annotation_id="24683">s'</DiscourseConnective>élèveront <DiscourseConnective annotation_id="24695">à</DiscourseConnective> 2 % de la monnaie électronique en circulation. Nous aurions préféré 1,6 %, <DiscourseConnective annotation_id="24772">mais</DiscourseConnective> grâce à la marge de 20 % qui est autorisée, les États membres plus libéraux pourront descendre <DiscourseConnective annotation_id="24872">jusqu'à</DiscourseConnective> 1,6 %, <Alignment alignment="21501" annotation_id="24887">
+          <DiscourseConnective annotation_id="24887" sense="Expansion.Conjunction">tandis que</DiscourseConnective>
+        </Alignment> les plus conservateurs pourront aller <DiscourseConnective annotation_id="24936">jusqu'à</DiscourseConnective> 2,4 %.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21555" docOffset="124">
+      <en>It is not ideal that we still have the prospect of such an uneven playing field in the European Union, especially <Alignment alignment="40002" annotation_id="21669">
+          <DiscourseConnective annotation_id="21669" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we have insisted that e-money users' funds will be fully safeguarded <Alignment alignment="50337" annotation_id="21743">
+          <DiscourseConnective annotation_id="21743" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are <Alignment alignment="5728" annotation_id="21757">
+          <DiscourseConnective annotation_id="21757" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> other important user-friendly protections, <Alignment alignment="34885" annotation_id="21805">
+          <DiscourseConnective annotation_id="21805" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> in redemption, <Alignment alignment="7111" annotation_id="21832">
+          <DiscourseConnective annotation_id="21832" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mrs Berès mentioned.</en>
+      <fr>Il est regrettable, à cet égard, <DiscourseConnective annotation_id="24984">que</DiscourseConnective> nous n'ayons pas réussi à garantir des conditions de concurrence équitables dans l'Union européenne, <Alignment alignment="21669" annotation_id="25089">
+          <DiscourseConnective annotation_id="25089" sense="Temporal.Synchrony">d'autant plus que</DiscourseConnective>
+        </Alignment> nous avions bien insisté sur le fait <DiscourseConnective annotation_id="25144">que</DiscourseConnective> les fonds des utilisateurs de monnaie électronique seraient totalement protégés <Alignment alignment="21743" annotation_id="25228">
+          <DiscourseConnective annotation_id="25228" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'il existait <Alignment alignment="9263" annotation_id="25246">
+          <DiscourseConnective annotation_id="25246" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> d'autres moyens permettant de protéger les utilisateurs, <Alignment alignment="246" annotation_id="25313">
+          <DiscourseConnective annotation_id="25313" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> lors du remboursement, <Alignment alignment="10000" annotation_id="25348">
+          <DiscourseConnective annotation_id="25348" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'a mentionné Mme Berès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21856" docOffset="125">
+      <en>Because of the level of capital required, the waiver level has <Alignment alignment="15778" annotation_id="21919">
+          <DiscourseConnective annotation_id="21919" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> had to be set for purely national e-money operators at EUR 5 million instead of EUR 2 million.</en>
+      <fr>Compte tenu du capital requis, le niveau de l'exemption a <Alignment alignment="6531" annotation_id="25437">
+          <DiscourseConnective annotation_id="25437" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> dû être revu à la hausse <DiscourseConnective annotation_id="25472">pour</DiscourseConnective> les opérateurs de monnaie électronique opérant exclusivement au niveau national, passant de 2 à 5 millions d'euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22019" docOffset="126">
+      <en>All in all, this is a very cautious step forward.</en>
+      <fr>Au final, il <DiscourseConnective annotation_id="25606">s'</DiscourseConnective>agit d'un pas en <DiscourseConnective annotation_id="25625">avant</DiscourseConnective> réalisé avec une extrême prudence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22069" docOffset="127">
+      <en>It is not perfect.</en>
+      <fr>Ce n'est pas parfait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22088" docOffset="128">
+      <en>Compromises seldom are.</en>
+      <fr>Les compromis le sont rarement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22112" docOffset="129">
+      <en>Almost certainly it will have to be revisited in three or four years' time <Alignment alignment="25808" annotation_id="22187">
+          <DiscourseConnective annotation_id="22187" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="22192" sense="Temporal.Asynchronous.Precedence">by then</DiscourseConnective>, I hope more operators will have entered the business.</en>
+      <fr>Celui-ci devra très probablement faire l'objet d'une révision d'ici trois <DiscourseConnective annotation_id="25794">ou</DiscourseConnective> quatre ans <Alignment alignment="22187" annotation_id="25808">
+          <DiscourseConnective annotation_id="25808" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère que, d'ici là, de nombreux opérateurs seront entrés sur le marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22255" docOffset="130">
+      <en>Users and merchants will be clamouring for more choice.</en>
+      <fr>Les utilisateurs <DiscourseConnective annotation_id="25904">et</DiscourseConnective> les commerçants réclameront plus de choix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22311" docOffset="131">
+      <en>The more doubtful regulators, banks, Mrs Berès - and even the European Central Bank - will have become reconciled that this is a beneficial, user-friendly service which holds no risks to the European economy.</en>
+      <fr>Les régulateurs les plus méfiants, les banques, Mme Berès, <DiscourseConnective annotation_id="26009">et même</DiscourseConnective> la Banque centrale européenne, seront convaincus <DiscourseConnective annotation_id="26066">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="26072">s'</DiscourseConnective>agit là d'un service convivial <DiscourseConnective annotation_id="26105">et</DiscourseConnective> bénéfique pour les utilisateurs, sans aucun risque <DiscourseConnective annotation_id="26159">pour</DiscourseConnective> l'économie européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22520" docOffset="132">
+      <en>We in Europe can at last take up all the opportunities which e-money offers.</en>
+      <fr>L'Europe va <DiscourseConnective annotation_id="26199">enfin</DiscourseConnective> pouvoir tirer parti de toutes les opportunités <DiscourseConnective annotation_id="26252">qu'</DiscourseConnective>offre la monnaie électronique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="22597" id="031" name="President">
+    <ParallelChunk annotation_id="22597" docOffset="133">
+      <en>The joint debate is closed.</en>
+      <fr>La discussion commune est close.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22625" docOffset="134">
+      <en>The vote will take place today.</en>
+      <fr>Le vote aura lieu aujourd'hui.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

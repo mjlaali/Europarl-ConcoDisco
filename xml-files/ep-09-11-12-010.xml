@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="100" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>It is my pleasure to welcome a delegation of political representatives and other visitors from the Canadian Parliament and from the Canadian Mission to the European Union, who are seated in the official gallery.</en>
+      <fr>C'est avec plaisir que je souhaite la bienvenue à une délégation de représentants politiques <DiscourseConnective annotation_id="115">et</DiscourseConnective> à d'autres visiteurs du parlement canadien <DiscourseConnective annotation_id="161">et</DiscourseConnective> de la mission canadienne auprès de l'Union européenne, qui sont assis <DiscourseConnective annotation_id="234">à</DiscourseConnective> la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="220" docOffset="2">
+      <en>The members of the delegation are in Brussels to meet their counterparts in the European Parliament, on the occasion of the 32nd interparliamentary meeting between the European Parliament and Canada.</en>
+      <fr>Les membres de cette délégation sont <DiscourseConnective annotation_id="296">à</DiscourseConnective> Bruxelles <DiscourseConnective annotation_id="308">pour</DiscourseConnective> rencontrer leurs homologues du Parlement européen <DiscourseConnective annotation_id="363">à</DiscourseConnective> l'occasion de la 32e rencontre interparlementaire entre le Parlement européen <DiscourseConnective annotation_id="443">et</DiscourseConnective> le Canada.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="420" docOffset="3">
+      <en>On Monday and Tuesday of this week, they had a chance to talk with many of our Members <DiscourseConnective annotation_id="507" sense="Expansion.Conjunction">and</DiscourseConnective>, yesterday, they visited the city of Ypres for the Armistice Day commemoration.</en>
+      <fr>Lundi <DiscourseConnective annotation_id="463">et</DiscourseConnective> mardi de cette semaine, ils ont eu l'occasion de discuter avec nombre de nos députés. Hier, ils se sont rendus à Ypres <DiscourseConnective annotation_id="585">pour</DiscourseConnective> la commémoration de l'armistice.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="591" docOffset="4">
+      <en>I wish the delegation a continued enjoyable stay in the European Union.</en>
+      <fr>Je souhaite à cette délégation un séjour agréable dans l'Union européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

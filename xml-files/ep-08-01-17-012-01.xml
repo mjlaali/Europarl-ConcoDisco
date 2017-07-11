@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Arrest of Chinese dissident Hu Jia (vote)</en>
+    <fr>Arrestation du dissident chinois Hu Jia (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="45" docOffset="2">
+    <en>- After the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="52">Après</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="63" id="211" name="Bernd Posselt">
+    <ParallelChunk annotation_id="63" docOffset="3">
+      <en>(DE) Madam President, can it be that those who in recent days have been calling persistently for roll-call votes have not been doing so this afternoon <Alignment alignment="235" annotation_id="214">
+          <DiscourseConnective annotation_id="214" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> most of them are absent?</en>
+      <fr>(DE) Madame la Présidente, est-il possible <DiscourseConnective annotation_id="110">que</DiscourseConnective> ceux qui, ces derniers jours, ont demandé avec insistance des votes par appel nominal ne l'aient pas fait cet après-midi <Alignment alignment="214" annotation_id="235">
+          <DiscourseConnective annotation_id="235" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>ils étaient absents pour la plupart?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="247" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="258" id="212" name="President">
+    <ParallelChunk annotation_id="258" docOffset="5">
+      <en>- They had all been informed, Mr Posselt.</en>
+      <fr>- (EN) Ils avaient tous été informés, M. Posselt.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting opened at 10.00)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 10 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="53" id="005" name="Edward McMillan-Scott">
+    <ParallelChunk annotation_id="53" docOffset="2">
+      <en>Mr President, I rise simply to report to the House the good news that last night the President of Pakistan, who was our guest a few weeks ago, has commuted the death sentence on my constituent Mirza-Tahir Hussain, who had been on death row for 18 years but is widely regarded to be innocent of the charges against him.</en>
+      <fr>(EN) Monsieur le Président, je me lève <DiscourseConnective annotation_id="98">simplement</DiscourseConnective> <DiscourseConnective annotation_id="109">pour</DiscourseConnective> faire part <DiscourseConnective annotation_id="125">à</DiscourseConnective> cette Assemblée d'une bonne nouvelle: la nuit dernière, le président pakistanais, qui était notre invité il y a quelques semaines, a commué la condamnation à mort d'un de mes administrés, Mirza-Tahir Hussain, qui se trouvait dans le couloir de la mort <DiscourseConnective annotation_id="379">depuis</DiscourseConnective> 18 ans, <DiscourseConnective annotation_id="394">mais</DiscourseConnective> est considéré par beaucoup <DiscourseConnective annotation_id="426">comme</DiscourseConnective> innocent des charges retenues contre lui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="372" docOffset="3">
+      <en>A number of Members of the European Parliament, led by Mr Karim, were going to Pakistan next month to make a final plea.</en>
+      <fr>Plusieurs députés européens, emmenés par M. Karim, devaient se rendre au Pakistan le mois prochain <DiscourseConnective annotation_id="573">afin de</DiscourseConnective> faire une dernière demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="493" docOffset="4">
+      <en>Now, of course, we shall turn our efforts towards ensuring Mr Hussain can return to Leeds by Christmas.</en>
+      <fr>À présent, nous allons bien sûr nous efforcer de faire en sorte que M. Hussain puisse rentrer <DiscourseConnective annotation_id="703">à</DiscourseConnective> Leeds <DiscourseConnective annotation_id="711">pour</DiscourseConnective> Noël.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="597" docOffset="5">
+      <en>I am delighted at this news and hope that the President of Parliament will make a statement later today.</en>
+      <fr>Je suis ravi de cette nouvelle <DiscourseConnective annotation_id="753">et</DiscourseConnective> j'espère <DiscourseConnective annotation_id="765">que</DiscourseConnective> le président du Parlement fera une déclaration à ce sujet <DiscourseConnective annotation_id="827">plus tard</DiscourseConnective> aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="702" docOffset="6">
+      <en>I know he has worked very hard on this case, <Alignment alignment="904" annotation_id="747">
+          <DiscourseConnective annotation_id="747" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> have other Members of Parliament.</en>
+      <fr>Je sais qu'il a travaillé très dur sur cette affaire, <Alignment alignment="747" annotation_id="904">
+          <DiscourseConnective annotation_id="904" sense="Temporal.Synchrony">tout comme</DiscourseConnective>
+        </Alignment> d'autres députés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="784" docOffset="7">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

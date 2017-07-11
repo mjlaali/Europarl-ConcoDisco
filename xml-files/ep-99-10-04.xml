@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Resumption of the session</en>
+    <fr>Reprise de la session</fr>
+  </ParallelChunk>
+<Speaker annotation_id="26" id="1" name="President">
+    <ParallelChunk annotation_id="26" docOffset="1">
+      <en>I declare resumed the session of the European Parliament adjourned on Friday, 17 September.</en>
+      <fr>Je déclare reprise la session du Parlement européen, qui avait été interrompue le vendredi 17 septembre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="118" docOffset="2">
+      <en>Statement by the President</en>
+      <fr>Déclaration de la présidente</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="145" id="2" name="President">
+    <ParallelChunk annotation_id="145" docOffset="3">
+      <en>
+        <Alignment alignment="6483" annotation_id="145">
+          <DiscourseConnective annotation_id="145" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> you know, on the morning of 21 September, a terrible earthquake, measuring 7.6 on the Richter scale, struck the island of Taiwan.</en>
+      <fr>
+        <Alignment alignment="145" annotation_id="156">
+          <DiscourseConnective annotation_id="156" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> vous le savez, le matin du 21 septembre, un terrible tremblement de terre, d' amplitude de 7,6 sur l' échelle de Richter, s' est produit sur l' île de Taïwan.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="278" docOffset="4">
+      <en>Several thousand people were killed or seriously injured and there has been enormous material damage.</en>
+      <fr>Plusieurs milliers de personnes ont été tuées <DiscourseConnective annotation_id="367">ou</DiscourseConnective> gravement blessées <DiscourseConnective annotation_id="389">et</DiscourseConnective> les dégâts matériels sont énormes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="380" docOffset="5">
+      <en>I would like to express, on behalf of the European Parliament, my deepest sympathy and sincere feeling of solidarity towards the victims of this tragedy and towards their families.</en>
+      <fr>Je voudrais, au nom du Parlement européen, exprimer ma profonde sympathie <DiscourseConnective annotation_id="501">et</DiscourseConnective> ma très sincère solidarité à l' égard des victimes de cette tragédie <DiscourseConnective annotation_id="573">ainsi</DiscourseConnective> qu' envers leurs proches.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="561" docOffset="6">
+      <en>Adoption of the Minutes of the previous sitting</en>
+      <fr>Adoption du procès-verbal de la séance précédente</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="609" id="3" name="President">
+    <ParallelChunk annotation_id="609" docOffset="7">
+      <en>The Minutes of the sitting of 17 September have been distributed.</en>
+      <fr>Le procès-verbal de la séance du 17 septembre a été distribué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="675" docOffset="8">
+      <en>Are there any comments?</en>
+      <fr>Y a-t-il des observations ?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="699" id="4" language="NL" name="Maes">
+    <ParallelChunk annotation_id="699" docOffset="9">
+      <en>Madam President, Mr Van Buitenen' s fate has repeatedly come up for discussion in this Parliament <Alignment alignment="839" annotation_id="797">
+          <DiscourseConnective annotation_id="797" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there have been repeated calls for his rehabilitation.</en>
+      <fr>Madame la Présidente, le sort de M. Van Buitenen a été maintes fois évoqué dans ce Parlement <Alignment alignment="6084" annotation_id="839">
+          <DiscourseConnective annotation_id="839" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> on a maintes fois plaidé <DiscourseConnective annotation_id="867">pour</DiscourseConnective> sa réhabilitation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="856" docOffset="10">
+      <en>I want to express how delighted I am about the solution reached, whereby the action being taken against Mr Van Buitenen has been stopped. This means it is now possible for him to be taken on in another position.</en>
+      <fr>Je veux exprimer la joie que me procure la solution qui a été trouvée afin de mettre un terme à la procédure entamée contre M. Van Buitenen et de permettre son incorporation dans un autre service.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1068" docOffset="11">
+      <en>I hope he will be able to work in the Parliament.</en>
+      <fr>J'espère qu'il pourra travailler au sein du Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1118" id="5" name="President">
+    <ParallelChunk annotation_id="1118" docOffset="12">
+      <en>Thank you, Mrs Maes.</en>
+      <fr>Merci, Madame Maes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1139" docOffset="13">
+      <en>I shall take note of your statement even <Alignment alignment="16933" annotation_id="1180">
+          <DiscourseConnective annotation_id="1180" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> it does not relate to the Minutes.</en>
+      <fr>Je prends acte de votre déclaration, <Alignment alignment="4569" annotation_id="1200">
+          <DiscourseConnective annotation_id="1200" sense="Comparison.Contrast">bien qu'</DiscourseConnective>
+        </Alignment> elle n' ait pas de rapport avec le procès-verbal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1222" docOffset="14">
+      <en>
+        <Alignment alignment="7772" annotation_id="1222">
+          <DiscourseConnective annotation_id="1222" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there are no more comments, I shall submit the Minutes for your approval.</en>
+      <fr>
+        <Alignment alignment="1222" annotation_id="1259">
+          <DiscourseConnective annotation_id="1259" sense="Contingency.Condition">En</DiscourseConnective>
+        </Alignment> l' absence d' observations, je soumets le procès-verbal <DiscourseConnective annotation_id="1318">à</DiscourseConnective> votre approbation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1299" docOffset="15">
+      <en>(The Minutes were adopted)</en>
+      <fr>(Le procès-verbal est adopté)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1326" id="6" language="ES" name="Salafranca Sánchez-Neyra">
+    <ParallelChunk annotation_id="1326" docOffset="16">
+      <en>Madam President, I would simply like to make the Members aware of the fact that, last week, there was a serious earthquake in the Mexican state of Oaxaca.</en>
+      <fr>Madame la Présidente, je voudrais juste faire savoir à l'Assemblée <DiscourseConnective annotation_id="1436">qu'</DiscourseConnective>un tremblement de terre de haute intensité s'est produit dans l'État mexicain d'Oaxaca la semaine dernière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1481" docOffset="17">
+      <en>Given that the European Union is currently concluding the negotiation of an agreement with Mexico, I would be grateful <Alignment alignment="1655" annotation_id="1600">
+          <DiscourseConnective annotation_id="1600" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> this Parliament would express its solidarity and sympathy for the victims of this earthquake.</en>
+      <fr>L'Union européenne est sur le point d'achever la négociation d'un accord avec le Mexique et je souhaiterais <Alignment alignment="1600" annotation_id="1655">
+          <DiscourseConnective annotation_id="1655" sense="Contingency.Condition">que</DiscourseConnective>
+        </Alignment> l'Assemblée exprime sa solidarité <DiscourseConnective annotation_id="1693">et</DiscourseConnective> sa sympathie <DiscourseConnective annotation_id="1709">à</DiscourseConnective> l'égard des victimes de ce tremblement de terre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1697" id="7" name="President">
+    <ParallelChunk annotation_id="1697" docOffset="18">
+      <en>Absolutely, Mr Salafranca Sánchez. I shall be happy to do that on behalf of the European Parliament as a whole.</en>
+      <fr>Tout à fait, Monsieur Salafranca Sánchez, je le ferai très volontiers au nom de l' ensemble du Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="1809" id="8" language="IT" name="Speroni">
+    <ParallelChunk annotation_id="1809" docOffset="19">
+      <en>Madam President, I submitted a question for Question Time in accordance with Rule 43 of the Rules of Procedure <DiscourseConnective annotation_id="1920" sense="Expansion.Conjunction">and</DiscourseConnective> I adhered to the time frame contained in Annex II A(13) which stipulates, "Questions shall be tabled to the President at least one week <Alignment alignment="3502" annotation_id="2060">
+          <DiscourseConnective annotation_id="2060" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> Question Time begins.</en>
+      <fr>Madame la Présidente, j'ai déposé une question <DiscourseConnective annotation_id="1922">pour</DiscourseConnective> l'heure des questions conformément à l'article 43 du règlement, non sans respecter les délais prévus dans l'annexe II, point A, paragraphe 13, qui stipule que "les questions doivent être déposées dans un délai d'<DiscourseConnective annotation_id="2139">au moins</DiscourseConnective> une semaine <Alignment alignment="2060" annotation_id="2160">
+          <DiscourseConnective annotation_id="2160" sense="Temporal.Asynchronous.Precedence">avant</DiscourseConnective>
+        </Alignment> le début de l'heure des questions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2089" docOffset="20">
+      <en>Questions not tabled within this time limit may be taken during Question Time with the consent of the institution concerned." <Alignment alignment="3409" annotation_id="2215">
+          <DiscourseConnective annotation_id="2215" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the question was rejected by the competent service <Alignment alignment="13017" annotation_id="2275">
+          <DiscourseConnective annotation_id="2275" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> a term appears on the back of the form that is different to the term used in the Rules of Procedure.</en>
+      <fr>Les questions qui n'ont pas été déposées dans ce délai peuvent être traitées pendant l'heure des questions <DiscourseConnective annotation_id="2308">pour autant que</DiscourseConnective> l'institution intéressée y consente" <Alignment alignment="5383" annotation_id="2361">
+          <DiscourseConnective annotation_id="2361" sense="Comparison.Contrast">Or</DiscourseConnective>
+        </Alignment>, le service compétent a refusé ma question <Alignment alignment="10747" annotation_id="2407">
+          <DiscourseConnective annotation_id="2407" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> au verso du formulaire figure un terme différent de celui qui apparaît dans le règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2384" docOffset="21">
+      <en>Firstly, I wonder whether it is correct that a form can amend a ruling.</en>
+      <fr>Je me demande <DiscourseConnective annotation_id="2515">tout d'abord</DiscourseConnective> <DiscourseConnective annotation_id="2528">s'</DiscourseConnective>il est correct <DiscourseConnective annotation_id="2545">qu'</DiscourseConnective>un formulaire modifie un règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2456" docOffset="22">
+      <en>Secondly, in any case, the Rules of Procedure stipulates that, even <Alignment alignment="25463" annotation_id="2524">
+          <DiscourseConnective annotation_id="2524" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> a question is tabled after the deadline, the question is admissible <Alignment alignment="23321" annotation_id="2595">
+          <DiscourseConnective annotation_id="2595" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the institution concerned agrees.</en>
+      <fr>En outre, le règlement prévoit <DiscourseConnective annotation_id="2615">de toute façon</DiscourseConnective> <DiscourseConnective annotation_id="2630">que</DiscourseConnective> <Alignment alignment="8502" annotation_id="2634">
+          <DiscourseConnective annotation_id="2634" sense="Contingency.Condition">même si</DiscourseConnective>
+        </Alignment> elle n'est pas déposée dans le délai prévu, une question peut être reçue <Alignment alignment="2595" annotation_id="2715">
+          <DiscourseConnective annotation_id="2715" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> l'institution interrogée y consent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2632" docOffset="23">
+      <en>
+        <DiscourseConnective annotation_id="2632" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>, a completely different procedure has been followed.</en>
+      <fr>C'est cependant une procédure complètement différente qui a été appliquée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2693" docOffset="24">
+      <en>Given that the Rules of Procedure were approved by Parliament, <DiscourseConnective annotation_id="2756" sense="Comparison.Contrast">whereas</DiscourseConnective> the form was produced by internal bureaucracy, I am wondering whether bureaucracy should prevail, <Alignment alignment="9598" annotation_id="2862">
+          <DiscourseConnective annotation_id="2862" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> whether what the citizens' representatives voted for should prevail <DiscourseConnective annotation_id="2933" sense="Expansion.Alternative.Chosen alternative">instead</DiscourseConnective>.</en>
+      <fr>Compte tenu <DiscourseConnective annotation_id="2841">que</DiscourseConnective> le règlement est approuvé par le Parlement et que le formulaire n'est élaboré que par la bureaucratie interne, je me demande <DiscourseConnective annotation_id="2970">si</DiscourseConnective> c'est la bureaucratie qui doit prévaloir <Alignment alignment="2862" annotation_id="3014">
+          <DiscourseConnective annotation_id="3014" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> ce qui a été voté par les représentants des citoyens.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2942" id="9" name="President">
+    <ParallelChunk annotation_id="2942" docOffset="25">
+      <en>Thank you, Mr Speroni.</en>
+      <fr>Merci, Monsieur Speroni.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2965" docOffset="26">
+      <en>There is one point at least on which I can give you satisfaction straight away.</en>
+      <fr>Il y a un point, <DiscourseConnective annotation_id="3113">au moins</DiscourseConnective>, sur lequel je peux tout de suite vous donner satisfaction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3045" docOffset="27">
+      <en>Obviously, a form cannot amend a Rule of Procedure.</en>
+      <fr>Il est bien évident qu' un formulaire ne peut pas modifier un règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3097" docOffset="28">
+      <en>This being the case, we will look into the matter and see <Alignment alignment="26290" annotation_id="3155">
+          <DiscourseConnective annotation_id="3155" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we can give you a satisfactory answer, particularly on the problem of abuses.</en>
+      <fr>Ceci étant, nous allons examiner la chose <DiscourseConnective annotation_id="3297">et</DiscourseConnective> voir <Alignment alignment="1643" annotation_id="3305">
+          <DiscourseConnective annotation_id="3305" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous pouvons vous donner satisfaction, <DiscourseConnective annotation_id="3347">notamment</DiscourseConnective> sur le problème des délits.1</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3236" docOffset="29">
+      <en>Agenda</en>
+      <fr>Ordre des travaux</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3243" id="10" name="President">
+    <ParallelChunk annotation_id="3243" docOffset="30">
+      <en>The next item is the order of business.</en>
+      <fr>L' ordre du jour appelle la fixation de l' ordre des travaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3283" docOffset="31">
+      <en>The draft agenda has been distributed <Alignment alignment="26929" annotation_id="3321">
+          <DiscourseConnective annotation_id="3321" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the following amendments have been proposed or included.</en>
+      <fr>Le projet d' ordre du jour a été distribué <Alignment alignment="3321" annotation_id="3509">
+          <DiscourseConnective annotation_id="3509" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les modifications suivantes y ont été proposées <DiscourseConnective annotation_id="3560">ou</DiscourseConnective> apportées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3382" docOffset="32">
+      <en>Relating to Tuesday President.</en>
+      <fr>En ce qui concerne le mardi : La Présidente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3413" docOffset="33">
+      <en>The Group of the European Liberal, Democrat and Reform Party has requested that the Commission make a statement on the French Government' s refusal to lift the ban on British beef.</en>
+      <fr>Le groupe du parti européen des libéraux démocrates <DiscourseConnective annotation_id="3671">et</DiscourseConnective> réformateurs demande <DiscourseConnective annotation_id="3695">que</DiscourseConnective> l' on inscrive une déclaration de la Commission concernant le refus du gouvernement français de lever l' embargo sur la viande de buf britannique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3594" docOffset="34">
+      <en>This is an issue which could possibly be raised in the context of the Commission' s statement on food safety which is tabled for Tuesday morning.</en>
+      <fr>C' est une question qui pourrait éventuellement être soulevée dans le cadre de la déclaration de la Commission sur la sécurité alimentaire, programmée mardi matin.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3740" docOffset="35">
+      <en>I give the floor to Mrs Lynne, who would like to make this request.</en>
+      <fr>Je donne la parole <DiscourseConnective annotation_id="4029">à</DiscourseConnective> Mme Lynne, qui souhaite présenter cette demande.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3808" id="11" name="Lynne">
+    <ParallelChunk annotation_id="3808" docOffset="36">
+      <en>Madam President, under Rule 111 of the European Parliament' s Rules of Procedure, I propose an amendment to the agenda of this part-session to include a statement by the Commission about the French Government' s refusal to lift the beef ban and its decision to stop UK beef crossing its territory, which is a vital route into Spain and Italy.</en>
+      <fr>Madame la Présidente, conformément aux dispositions de l'article 111 du règlement du Parlement, je propose une modification <DiscourseConnective annotation_id="4204">à</DiscourseConnective> l'ordre des travaux de cette période de session <DiscourseConnective annotation_id="4254">en vue d'</DiscourseConnective>inclure une déclaration de la Commission concernant le refus du gouvernement français de lever l'embargo sur la viande de buf <DiscourseConnective annotation_id="4389">et</DiscourseConnective> sa décision d'interdire le passage de la viande de buf britannique sur son territoire, lequel constitue une voie vitale pour atteindre l'Espagne <DiscourseConnective annotation_id="4537">et</DiscourseConnective> l'Italie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4151" docOffset="37">
+      <en>I should be grateful <Alignment alignment="15531" annotation_id="4172">
+          <DiscourseConnective annotation_id="4172" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the statement could be followed by a short debate <DiscourseConnective annotation_id="4225" sense="Temporal.Synchrony">as</DiscourseConnective> provided for under Rule 37.</en>
+      <fr>Je souhaiterais <Alignment alignment="15466" annotation_id="4566">
+          <DiscourseConnective annotation_id="4566" sense="Contingency.Condition">que</DiscourseConnective>
+        </Alignment> la déclaration <DiscourseConnective annotation_id="4585">soit</DiscourseConnective> suivie d'un court débat, conformément <DiscourseConnective annotation_id="4628">à</DiscourseConnective> l'article 37.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4256" docOffset="38">
+      <en>The Commission agreed that British beef is safe.</en>
+      <fr>La Commission a reconnu <DiscourseConnective annotation_id="4668">que</DiscourseConnective> la viande de buf britannique était sûre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4305" docOffset="39">
+      <en>Scientific evidence proves that British beef is safe.</en>
+      <fr>Des études scientifiques ont prouvé <DiscourseConnective annotation_id="4749">que</DiscourseConnective> la viande de buf britannique était sûre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4359" docOffset="40">
+      <en>The French Government, as far <DiscourseConnective annotation_id="4389" sense="Temporal.Synchrony">as</DiscourseConnective> I know, has no new evidence.</en>
+      <fr>Le gouvernement français, <DiscourseConnective annotation_id="4820">que</DiscourseConnective> je sache, n'avance aucune étude prouvant le contraire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4421" docOffset="41">
+      <en>Stringent safeguards are in place in the UK, <Alignment alignment="27077" annotation_id="4466">
+          <DiscourseConnective annotation_id="4466" sense="Comparison.Contrast">yet</DiscourseConnective>
+        </Alignment> one state - France - is going to opt out of the Commission ruling.</en>
+      <fr>Le Royaume-Uni a instauré des garanties rigoureuses, <Alignment alignment="4466" annotation_id="4932">
+          <DiscourseConnective annotation_id="4932" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> un État - la France - ne respecte pas la décision de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4537" docOffset="42">
+      <en>It will damage the internal market <Alignment alignment="22640" annotation_id="4572">
+          <DiscourseConnective annotation_id="4572" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> this state of affairs is allowed to continue; it will damage the credibility of the Commission <Alignment alignment="10279" annotation_id="4670">
+          <DiscourseConnective annotation_id="4670" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it will further damage British farmers.</en>
+      <fr>
+        <Alignment alignment="4572" annotation_id="5005">
+          <DiscourseConnective annotation_id="5005" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> l'on ne met pas un terme à cette situation, cela portera atteinte au marché intérieur, à la crédibilité de la Commission <Alignment alignment="995" annotation_id="5129">
+          <DiscourseConnective annotation_id="5129" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5132">également</DiscourseConnective> aux éleveurs britanniques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4714" docOffset="43">
+      <en>BSE has already cost the UK GBP 1.5 billion in lost exports.</en>
+      <fr>L'EBS a <DiscourseConnective annotation_id="5177">déjà</DiscourseConnective> fait perdre au Royaume-Uni 1,5 milliard de livres d'exportations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4775" docOffset="44">
+      <en>British farmers have been patient for the last two-and-a-half or three years during the negotiations.</en>
+      <fr>Les éleveurs britanniques font preuve de patience <DiscourseConnective annotation_id="5298">depuis</DiscourseConnective> le début des négociations, il y a deux ans <DiscourseConnective annotation_id="5348">et</DiscourseConnective> demi <DiscourseConnective annotation_id="5356">ou</DiscourseConnective> trois ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4877" docOffset="45">
+      <en>They have abided by the rules.</en>
+      <fr>Ils se sont soumis aux règlements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4908" docOffset="46">
+      <en>They have even destroyed animals with no sign of BSE.</en>
+      <fr>Ils ont <DiscourseConnective annotation_id="5413">même</DiscourseConnective> abattu des animaux qui ne montraient aucun signe d'EBS.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4962" docOffset="47">
+      <en>At long last the beef ban was lifted. Now they are confronted with a new attack on their industry.</en>
+      <fr>On a enfin fini par lever l'embargo sur la viande bovine et les voilà <DiscourseConnective annotation_id="5544">maintenant</DiscourseConnective> confrontés <DiscourseConnective annotation_id="5566">à</DiscourseConnective> une nouvelle offensive contre leur industrie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5061" docOffset="48">
+      <en>We need an urgent statement and debate.</en>
+      <fr>Nous devons faire une déclaration <DiscourseConnective annotation_id="5648">et</DiscourseConnective> mener un débat au plus tôt.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5101" docOffset="49">
+      <en>I hope time can be made for this.</en>
+      <fr>J'espère que nous en trouverons le temps.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5135" id="12" language="DE" name="Roth-Behrendt">
+    <ParallelChunk annotation_id="5135" docOffset="50">
+      <en>Ladies and gentlemen, those of you who have been Members of this Parliament in previous years know that there are very few people in this House who have concerned themselves so labour- intensively and, one might almost say, as enthusiastically with the question of the safety of meat, particularly British beef, <DiscourseConnective annotation_id="5447" sense="Temporal.Synchrony">as</DiscourseConnective> I did <DiscourseConnective annotation_id="5456" sense="Temporal.Synchrony">when</DiscourseConnective> I was the chair of the last BSE Committee.</en>
+      <fr>Chers collègues, ceux parmi vous qui ont assisté ces dernières années aux débats au sein du Parlement savent <DiscourseConnective annotation_id="5830">qu'</DiscourseConnective>il existe peu de personnes dans cette enceinte ayant travaillé aussi intensément <DiscourseConnective annotation_id="5914">et</DiscourseConnective> je dirais même avec autant d'enthousiasme que moi sur la question de la sécurité en matière de viande, <DiscourseConnective annotation_id="6020">en particulier</DiscourseConnective> la viande bovine en provenance de Grande-Bretagne, lorsque j'étais présidente de la dernière commission sur l'ESB.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5504" docOffset="51">
+      <en>A report once said that I ought to know every single cow in Great Britain by name.</en>
+      <fr>On a même dit dans un rapport <DiscourseConnective annotation_id="6180">que</DiscourseConnective> je connaissais chaque vache de Grande-Bretagne par son nom.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5587" docOffset="52">
+      <en>That is not the case.</en>
+      <fr>Ce n'est pas vrai.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5609" docOffset="53">
+      <en>Herr Schmid thinks I know every other cow by name, well that is not true either, <Alignment alignment="26691" annotation_id="5690">
+          <DiscourseConnective annotation_id="5690" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I do know at least some of them.</en>
+      <fr>M. Schmid dit que j'<DiscourseConnective annotation_id="6283">en</DiscourseConnective> connaissais la moitié. Ce n'est pas vrai <DiscourseConnective annotation_id="6327">non plus</DiscourseConnective>, <Alignment alignment="1247" annotation_id="6337">
+          <DiscourseConnective annotation_id="6337" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> j'en connais <DiscourseConnective annotation_id="6355">au moins</DiscourseConnective> quelques-unes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5727" docOffset="54">
+      <en>I am the last person who wants to see unsafe meat anywhere in the European Union.</en>
+      <fr>Je suis la dernière à vouloir qu'il y ait, où que ce soit au sein de l'Union européenne, de la viande ne présentant pas les garanties de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5809" docOffset="55">
+      <en>This Parliament saw to it that the Committee of Enquiry was set up.</en>
+      <fr>Ce Parlement a fait <DiscourseConnective annotation_id="6546">en</DiscourseConnective> sorte <DiscourseConnective annotation_id="6555">que</DiscourseConnective> cette commission d'enquête <DiscourseConnective annotation_id="6586">soit</DiscourseConnective> mise en place.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5877" docOffset="56">
+      <en>We took care to ensure that, within the scope of the BSE debate, loopholes which still existed in many areas of legislation on foodstuffs were eliminated.</en>
+      <fr>Ensuite, nous nous sommes efforcés, dans le cadre des débats sur l'ESB, de combler les lacunes restantes dans de nombreux domaines de la législation en matière alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6032" docOffset="57">
+      <en>Parliament can be proud, on the whole, of what it has achieved in the last five years.</en>
+      <fr>Le Parlement peut être <DiscourseConnective annotation_id="6802">globalement</DiscourseConnective> fier des résultats qu'il a obtenu ces cinq dernières années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6119" docOffset="58">
+      <en>
+        <Alignment alignment="27568" annotation_id="6119">
+          <DiscourseConnective annotation_id="6119" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> we achieved it by working seriously and rationally.</en>
+      <fr>
+        <Alignment alignment="7392" annotation_id="6875">
+          <DiscourseConnective annotation_id="6875" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, ces résultats ont été obtenus grâce <DiscourseConnective annotation_id="6922">à</DiscourseConnective> un travail sérieux <DiscourseConnective annotation_id="6943">et</DiscourseConnective> raisonnable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6175" docOffset="59">
+      <en>That means, among other things, doing one thing at a time and in a well-founded way.</en>
+      <fr>Cela signifie entre autres choses, que nous avons respecté les délais impartis <DiscourseConnective annotation_id="7038">et</DiscourseConnective> que nous avons travaillé sur de bonnes bases.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6260" docOffset="60">
+      <en>I am full of sympathy for fellow Members <Alignment alignment="17229" annotation_id="6301">
+          <DiscourseConnective annotation_id="6301" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> they complain that one Member State is not complying with Union legislation.</en>
+      <fr>Je comprend très <DiscourseConnective annotation_id="7104">bien que</DiscourseConnective> des collègues se plaignent <Alignment alignment="5421" annotation_id="7140">
+          <DiscourseConnective annotation_id="7140" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> un État membre <DiscourseConnective annotation_id="7163">s'</DiscourseConnective>exempte de la législation en matière alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6383" docOffset="61">
+      <en>
+        <DiscourseConnective annotation_id="6383" sense="Expansion.Conjunction">Indeed</DiscourseConnective>, I am thankful that my own country, Germany, was not criticised some time ago for a similar attempt.</en>
+      <fr>Je me félicite <DiscourseConnective annotation_id="7230">du fait que</DiscourseConnective> mon propre pays, l'Allemagne, n'ait pas l'objet, il y a quelque temps, de critiques suite <DiscourseConnective annotation_id="7332">à</DiscourseConnective> un comportement similaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6491" docOffset="62">
+      <en>Madam President, on your interesting initiative, we will have a comprehensive debate on food safety tomorrow, that is to say, on food safety as a whole.</en>
+      <fr>Madame la Présidente, nous entamerons demain, à la suite d'une initiative intéressante <DiscourseConnective annotation_id="7448">que</DiscourseConnective> vous avez proposée, un large débat sur la sécurité alimentaire dans son ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6644" docOffset="63">
+      <en>There is so much more to it than meat; there is so much more to it than dioxins or sludge or swine fever.</en>
+      <fr>Cela couvre un champ bien plus vaste <DiscourseConnective annotation_id="7571">que</DiscourseConnective> la viande, la dioxine, les boues d'épuration <DiscourseConnective annotation_id="7620">ou</DiscourseConnective> la peste porcine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6750" docOffset="64">
+      <en>It is a debate on the safety and quality of foodstuffs.</en>
+      <fr>Il <DiscourseConnective annotation_id="7644">s'</DiscourseConnective>agit d'un débat sur la sécurité <DiscourseConnective annotation_id="7678">et</DiscourseConnective> la qualité alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6806" docOffset="65">
+      <en>This is why we <Alignment alignment="8528" annotation_id="6821">
+          <DiscourseConnective annotation_id="6821" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> wish, at some time in the future, to discuss food safety in the European Union with the President of the Commission himself, Mr Prodi.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7705">À</DiscourseConnective> l'avenir, au sein de l'Union européenne, nous voulons <Alignment alignment="6821" annotation_id="7761">
+          <DiscourseConnective annotation_id="7761" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> discuter de la sécurité alimentaire avec M. Prodi, le président de la Commission lui-même.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6961" docOffset="66">
+      <en>
+        <Alignment alignment="26966" annotation_id="6961">
+          <DiscourseConnective annotation_id="6961" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we wish to take away the comprehensive nature of the debate, <Alignment alignment="35403" annotation_id="7025">
+          <DiscourseConnective annotation_id="7025" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we wish to change this debate, then the easiest way to do so would be to add the British beef issue to the proceedings.</en>
+      <fr>
+        <Alignment alignment="14441" annotation_id="7862">
+          <DiscourseConnective annotation_id="7862" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous voulons priver ce débat de son caractère global et <Alignment alignment="15899" annotation_id="7921">
+          <DiscourseConnective annotation_id="7921" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous voulons modifier le thème du débat, le moyen le plus sûr est de se pencher une fois de plus sur la viande bovine en provenance de Grande-Bretagne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7148" docOffset="67">
+      <en>
+        <Alignment alignment="8090" annotation_id="7148">
+          <DiscourseConnective annotation_id="7148" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>
+        </Alignment> tomorrow, we will have yet another debate on BSE.</en>
+      <fr>Nous mènerons <Alignment alignment="2307" annotation_id="8090">
+          <DiscourseConnective annotation_id="8090" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> demain un débat de plus sur l'ESB.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7203" docOffset="68">
+      <en>I would happily run such a debate!</en>
+      <fr>J'y participerai volontiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7238" docOffset="69">
+      <en>I have no problem with that.</en>
+      <fr>Cela ne me pose pas de problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7267" docOffset="70">
+      <en>I even believe I know the many files almost off by heart.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="8202">également</DiscourseConnective> que je connais un grand nombre de dossiers presque par cur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7325" docOffset="71">
+      <en>I could do it.</en>
+      <fr>Je peux le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7340" docOffset="72">
+      <en>
+        <Alignment alignment="29014" annotation_id="7340">
+          <DiscourseConnective annotation_id="7340" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> I do not think that we should do that.</en>
+      <fr>
+        <Alignment alignment="4450" annotation_id="8290">
+          <DiscourseConnective annotation_id="8290" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, je ne pense pas <DiscourseConnective annotation_id="8317">que</DiscourseConnective> nous devrions le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7383" docOffset="73">
+      <en>I believe for a quite different reason that we should not do that.</en>
+      <fr>Et ce aussi <DiscourseConnective annotation_id="8357">pour</DiscourseConnective> une autre raison.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7450" docOffset="74">
+      <en>Two days ago, the French food agency expressed doubts regarding the safety of British beef.</en>
+      <fr>Il y a deux jours, l'Agence alimentaire française a émis des doutes quant au fait que la viande bovine britannique soit sûre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7542" docOffset="75">
+      <en>I have not yet read any document on the subject.</en>
+      <fr>Je n'ai <DiscourseConnective annotation_id="8514">encore</DiscourseConnective> lu aucun document <DiscourseConnective annotation_id="8539">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7591" docOffset="76">
+      <en>I have not yet seen anything in writing on the subject.</en>
+      <fr>Je n'ai <DiscourseConnective annotation_id="8559">encore</DiscourseConnective> vu aucun document écrit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7647" docOffset="77">
+      <en>The appropriate committees on agriculture or the environment have not yet had time to look into the matter.</en>
+      <fr>La commission de l'agriculture <DiscourseConnective annotation_id="8622">et</DiscourseConnective> la commission l'environnement n'ont pas <DiscourseConnective annotation_id="8665">encore</DiscourseConnective> pu s'occuper de cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7755" docOffset="78">
+      <en>I would like to have a serious debate on the matter.</en>
+      <fr>Je voudrais que l'on mène un débat sérieux <DiscourseConnective annotation_id="8747">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7808" docOffset="79">
+      <en>I <DiscourseConnective annotation_id="7810" sense="Contingency.Cause.Result">therefore</DiscourseConnective> request, Madam President, that we do not debate the question tomorrow but <Alignment alignment="8876" annotation_id="7894">
+          <DiscourseConnective annotation_id="7894" sense="Expansion.Restatement">rather</DiscourseConnective>
+        </Alignment> in two weeks time, <Alignment alignment="18595" annotation_id="7920">
+          <DiscourseConnective annotation_id="7920" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is still necessary, <Alignment alignment="11846" annotation_id="7946">
+          <Alignment alignment="8942" annotation_id="7946">
+            <DiscourseConnective annotation_id="7946" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the appropriate committees can look into the matter, <DiscourseConnective annotation_id="8007" sense="Expansion.Conjunction">and</DiscourseConnective> that tomorrow we should debate the topic on the agenda, i.e. foodstuffs ...</en>
+      <fr>C'est la raison pour laquelle je vous demande, Madame la Présidente, de ne pas débattre de cette question demain, <Alignment alignment="4864" annotation_id="8876">
+          <DiscourseConnective annotation_id="8876" sense="Expansion.Restatement">mais</DiscourseConnective>
+        </Alignment> dans deux semaines, <Alignment alignment="5278" annotation_id="8901">
+          <DiscourseConnective annotation_id="8901" sense="Contingency.Condition">lorsqu'</DiscourseConnective>
+        </Alignment>il sera <DiscourseConnective annotation_id="8916">encore</DiscourseConnective> utile de le faire, <Alignment alignment="15539" annotation_id="8942">
+          <Alignment alignment="7946" annotation_id="8942">
+            <DiscourseConnective annotation_id="8942" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les commissions responsables puissent s'en occuper. Je vous demande également de faire en sorte que nous fassions demain, ce pour quoi nous sommes ici, à savoir que les aliments...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8087" docOffset="80">
+      <en>(The President cut the speaker off)</en>
+      <fr>(La Présidente retire la parole à l'oratrice)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8123" id="13" name="Bethell, the Lord">
+    <ParallelChunk annotation_id="8123" docOffset="81">
+      <en>I understand, Madam President, that there was one speaker in favour of the suggestion, and another speaker, who has just resumed her seat, putting forward the idea that there should be a debate on this matter at the end of this month in the second October part-session.</en>
+      <fr>Si je comprends bien, Madame la Présidente, il y a un orateur favorable <DiscourseConnective annotation_id="9250">à</DiscourseConnective> cette proposition <DiscourseConnective annotation_id="9270">et</DiscourseConnective> un autre, qui vient de se rasseoir, qui suggère l'organisation d'un débat sur ce sujet <DiscourseConnective annotation_id="9360">à</DiscourseConnective> la fin de ce mois, au cours de la deuxième période de session d'octobre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8393" docOffset="82">
+      <en>Are you going to put both propositions to the vote?</en>
+      <fr>Allez-vous soumettre les deux propositions au vote ?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8445" id="14" name="President">
+    <ParallelChunk annotation_id="8445" docOffset="83">
+      <en>No, we cannot do this.</en>
+      <fr>Non, nous ne pouvons pas le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8468" docOffset="84">
+      <en>This proposal comes from the Liberal Group. It has been put forward by Mrs Lynne and aims to include in this part-session a debate on the subject which has been mentioned.</en>
+      <fr>Cette proposition émane du groupe libéral, elle a été présentée par Mme Lynne <DiscourseConnective annotation_id="9601">et</DiscourseConnective> vise <DiscourseConnective annotation_id="9609">à</DiscourseConnective> inscrire <DiscourseConnective annotation_id="9620">pour</DiscourseConnective> cette période de session un débat sur le sujet qui a été évoqué.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8640" docOffset="85">
+      <en>We have heard Mrs Lynne speak on behalf of the Liberal Group.</en>
+      <fr>Nous avons entendu Mme Lynne, au nom du groupe libéral.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8702" docOffset="86">
+      <en>We have heard one speaker against, Mrs Roth-Behrendt.</en>
+      <fr>Nous avons entendu un orateur contre, Mme Roth-Behrendt.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8756" docOffset="87">
+      <en>Now, I shall ask <Alignment alignment="295" annotation_id="8773">
+          <DiscourseConnective annotation_id="8773" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> there is a speaker in favour of the proposal.</en>
+      <fr>Et <DiscourseConnective annotation_id="9806">maintenant</DiscourseConnective> je demande <Alignment alignment="8512" annotation_id="9828">
+          <DiscourseConnective annotation_id="9828" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment> il y a un orateur <DiscourseConnective annotation_id="9849">pour</DiscourseConnective> cette proposition.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8822" id="15" name="McCartin">
+    <ParallelChunk annotation_id="8822" docOffset="88">
+      <en>Mrs Roth-Behrendt did not keep to the subject.</en>
+      <fr>Madame Roth-Behrendt s'est écartée du sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8869" docOffset="89">
+      <en>We accept the importance of a debate in Parliament on food safety <Alignment alignment="10017" annotation_id="8935">
+          <DiscourseConnective annotation_id="8935" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the proposal made was for an urgent debate on the question of whether a Member State has the right to decide for itself in accordance not with Community policy but with what suits its own political aspirations at a particular time.</en>
+      <fr>Nous reconnaissons qu'il est important de mener un débat au Parlement sur la sécurité alimentaire, <Alignment alignment="8935" annotation_id="10017">
+          <DiscourseConnective annotation_id="10017" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> la proposition qui a été avancée demandait un débat urgent sur la question suivante : un État membre a-t-il le droit de prendre individuellement des décisions contraires <DiscourseConnective annotation_id="10192">à</DiscourseConnective> la politique communautaire <DiscourseConnective annotation_id="10221">mais</DiscourseConnective> répondant à ses aspirations politiques du moment ?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9171" docOffset="90">
+      <en>This is a very urgent matter and deserves to be debated as a matter of urgency, <Alignment alignment="7477" annotation_id="9251">
+          <DiscourseConnective annotation_id="9251" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is a threat to the free market.</en>
+      <fr>Il <DiscourseConnective annotation_id="10280">s'</DiscourseConnective>agit d'un sujet extrêmement urgent qui mérite de faire l'objet d'un débat <DiscourseConnective annotation_id="10356">en</DiscourseConnective> urgence, <Alignment alignment="9251" annotation_id="10368">
+          <DiscourseConnective annotation_id="10368" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> le libre marché est menacé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9294" docOffset="91">
+      <en>
+        <Alignment alignment="7915" annotation_id="9294">
+          <DiscourseConnective annotation_id="9294" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> other Member States <DiscourseConnective annotation_id="9317" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> proceed to behave in the same sort of way, this could lead to individual items being banned in every Member State in the Community at different times, <Alignment alignment="10585" annotation_id="9473">
+          <DiscourseConnective annotation_id="9473" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there will be no guarantee that the single market, which we worked so hard in this Parliament to bring about and to consolidate, will work properly.</en>
+      <fr>
+        <Alignment alignment="6590" annotation_id="10400">
+          <DiscourseConnective annotation_id="10400" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> d'autres États membres décidaient de faire <DiscourseConnective annotation_id="10446">de même</DiscourseConnective>, nous aurions des embargos individuels dans chaque État membre de la Communauté sur certains produits et <DiscourseConnective annotation_id="10559">à</DiscourseConnective> des moments différents, <Alignment alignment="9473" annotation_id="10585">
+          <DiscourseConnective annotation_id="10585" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le bon fonctionnement du marché unique que ce Parlement s'est tant efforcé de lancer <DiscourseConnective annotation_id="10673">et</DiscourseConnective> de consolider ne serait plus assuré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9626" docOffset="92">
+      <en>I agree with the proposer of the motion that this is most urgent and should be discussed here immediately.</en>
+      <fr>Je suis favorable <DiscourseConnective annotation_id="10731">à</DiscourseConnective> la proposition selon laquelle il convient de mener un débat d'urgence sur ce problème sein de cette Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9733" docOffset="93">
+      <en>(Parliament rejected the request)</en>
+      <fr>(Le Parlement rejette la demande)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9767" id="16" name="President">
+    <ParallelChunk annotation_id="9767" docOffset="94">
+      <en>I have another request, from the Group of the Greens/European Free Alliance who would like Tuesday morning' s debate on food safety to conclude in a resolution.</en>
+      <fr>J' ai une autre demande émanant du groupe des Verts/Alliance libre européenne qui souhaiterait que le débat sur la sécurité alimentaire de mardi matin puisse se conclure par une résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9928" docOffset="95">
+      <en>The Conference of Presidents does not wish this to happen.</en>
+      <fr>La Conférence des présidents a souhaité qu' il n' en soit pas <DiscourseConnective annotation_id="11130">ainsi</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9987" docOffset="96">
+      <en>
+        <Alignment alignment="20117" annotation_id="9987">
+          <DiscourseConnective annotation_id="9987" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, I shall simply put this request to the vote.</en>
+      <fr>Je vais <Alignment alignment="9987" annotation_id="11145">
+          <DiscourseConnective annotation_id="11145" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> tout <DiscourseConnective annotation_id="11155">simplement</DiscourseConnective> mettre aux voix cette demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10043" docOffset="97">
+      <en>Who is in favour of a resolution at the conclusion of the debate on food safety?</en>
+      <fr>Qui est <DiscourseConnective annotation_id="11205">pour</DiscourseConnective> une résolution <DiscourseConnective annotation_id="11225">à</DiscourseConnective> l' issue du débat sur la sécurité alimentaire ?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10124" docOffset="98">
+      <en>(Parliament rejected the request)</en>
+      <fr>(Le Parlement rejette la demande)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10158" docOffset="99">
+      <en>Relating to Wednesday:</en>
+      <fr>En ce qui concerne le mercredi :</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10181" docOffset="100">
+      <en>President.</en>
+      <fr>La Présidente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10192" docOffset="101">
+      <en>I have received no proposals for amendment.</en>
+      <fr>Je n' ai aucune proposition de modification.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10236" docOffset="102">
+      <en>
+        <Alignment alignment="20329" annotation_id="10236">
+          <Alignment alignment="32003" annotation_id="10236">
+            <DiscourseConnective annotation_id="10236" sense="Comparison.Contrast">On the other hand</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the Group of the Greens/European Free Alliance has <DiscourseConnective annotation_id="10306" sense="Expansion.Conjunction">also</DiscourseConnective> asked me to propose to the House that the debate on the opening of the Millennium Round should <Alignment alignment="7480" annotation_id="10406">
+          <DiscourseConnective annotation_id="10406" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> end with a resolution.</en>
+      <fr>
+        <Alignment alignment="5250" annotation_id="11402">
+          <Alignment alignment="10236" annotation_id="11402">
+            <DiscourseConnective annotation_id="11402" sense="Comparison.Contrast">En revanche</DiscourseConnective>
+          </Alignment>
+        </Alignment>, le même groupe des Verts/Alliance libre européenne m' a demandé de proposer <DiscourseConnective annotation_id="11491">à</DiscourseConnective> l' Assemblée <DiscourseConnective annotation_id="11506">que</DiscourseConnective> le débat sur l' ouverture du Millenium round <DiscourseConnective annotation_id="11555">soit</DiscourseConnective> <Alignment alignment="12709" annotation_id="11560">
+          <DiscourseConnective annotation_id="11560" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> clos par une résolution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10434" docOffset="103">
+      <en>The Conference of Presidents has not accepted this proposal.</en>
+      <fr>C' est une demande que la Conférence des présidents n' a pas retenue.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10495" id="17" language="FI" name="Hautala">
+    <ParallelChunk annotation_id="10495" docOffset="104">
+      <en>Madam President, in my opinion, Parliament should not waste this opportunity of issuing a statement on the mandate for the round of talks with the World Trade Organisation, <Alignment alignment="11837" annotation_id="10668">
+          <DiscourseConnective annotation_id="10668" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the Council of Ministers will give this mandate to the Commission on 13 October, <Alignment alignment="40105" annotation_id="10757">
+          <DiscourseConnective annotation_id="10757" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it would be completely wrong <DiscourseConnective annotation_id="10790" sense="Contingency.Condition">if</DiscourseConnective> this mandate were given without knowing the European Parliament' s opinion.</en>
+      <fr>Madame la Présidente, je crois que le Parlement doit profiter de l'occasion <DiscourseConnective annotation_id="11741">pour</DiscourseConnective> émettre un communiqué sur le mandat concernant le tour de négociations de l'OMC. <Alignment alignment="7937" annotation_id="11827">
+          <DiscourseConnective annotation_id="11827" sense="Contingency.Cause.Reason">En effet</DiscourseConnective>
+        </Alignment>, le Conseil de ministres donnera un mandat <DiscourseConnective annotation_id="11879">à</DiscourseConnective> la Commission le 13 octobre <Alignment alignment="10757" annotation_id="11909">
+          <DiscourseConnective annotation_id="11909" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> il serait vraiment dommage que ce mandat <DiscourseConnective annotation_id="11953">soit</DiscourseConnective> délivré <DiscourseConnective annotation_id="11966">sans que</DiscourseConnective> le Parlement européen n'ait exprimé son avis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10869" docOffset="105">
+      <en>I would <Alignment alignment="34183" annotation_id="10877">
+          <DiscourseConnective annotation_id="10877" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to remind you all that only a few weeks ago, <DiscourseConnective annotation_id="10932" sense="Temporal.Synchrony">when</DiscourseConnective> approving the Commission, the Parliament approved a declaration in which it stressed its desire to be involved in influencing the negotiation of international agreements, at the different stages of the negotiations, <Alignment alignment="12346" annotation_id="11153">
+          <DiscourseConnective annotation_id="11153" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> it would truly be a shame <Alignment alignment="12251" annotation_id="11182">
+          <DiscourseConnective annotation_id="11182" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> Parliament neglected to take advantage of this opportunity.</en>
+      <fr>Je voudrais <Alignment alignment="39" annotation_id="12033">
+          <DiscourseConnective annotation_id="12033" sense="Expansion.Conjunction">encore</DiscourseConnective>
+        </Alignment> rappeler à tous les collègues <DiscourseConnective annotation_id="12070">qu'</DiscourseConnective>il y a quelques semaines à peine, le Parlement a accordé un mandat à la Commission, dans lequel on insistait sur le fait qu'on voulait arriver ensemble <DiscourseConnective annotation_id="12225">à</DiscourseConnective> agir sur les négociations en cours sur les accords internationaux et même <DiscourseConnective annotation_id="12301">à</DiscourseConnective> d'autres stades des pourparlers. Il serait <Alignment alignment="8239" annotation_id="12346">
+          <DiscourseConnective annotation_id="12346" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> vraiment scandaleux <Alignment alignment="5461" annotation_id="12375">
+          <DiscourseConnective annotation_id="12375" sense="Contingency.Condition">que</DiscourseConnective>
+        </Alignment> le Parlement ne profite pas de cette occasion.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11245" id="18" language="DE" name="Poettering">
+    <ParallelChunk annotation_id="11245" docOffset="106">
+      <en>Madam President, ladies and gentlemen, I am very sorry to have to contradict my honourable friend, Mrs Hautala.</en>
+      <fr>Madame la Présidente, chers collègues, je regrette vivement de devoir contredire mon estimée collègue, Mme Hautala.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11357" docOffset="107">
+      <en>At the Conference of Presidents, between the group chairmen, we agreed by a clear majority that we did not want a resolution on the WTO at the present time <Alignment alignment="11974" annotation_id="11513">
+          <DiscourseConnective annotation_id="11513" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we still need to have discussions, <DiscourseConnective annotation_id="11556" sense="Expansion.Conjunction">and</DiscourseConnective> we should not now draw up a summary motion for a resolution just to gain popularity in certain quarters.</en>
+      <fr>Nous avons déclaré <DiscourseConnective annotation_id="12561">à</DiscourseConnective> une très large majorité au sein de la Conférence des présidents, donc des présidents de groupe, <DiscourseConnective annotation_id="12659">que</DiscourseConnective> nous ne voulions pas, <DiscourseConnective annotation_id="12685">pour</DiscourseConnective> l'instant, de résolution sur l'OMC, <Alignment alignment="4316" annotation_id="12726">
+          <DiscourseConnective annotation_id="12726" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il nous faut <DiscourseConnective annotation_id="12743">encore</DiscourseConnective> <DiscourseConnective annotation_id="12750">en</DiscourseConnective> discuter. On ne devrait pas rédiger de proposition dans le cadre d'une procédure d'urgence pour se rendre populaire ça et là.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11665" docOffset="108">
+      <en>We <DiscourseConnective annotation_id="11668" sense="Contingency.Cause.Result">therefore</DiscourseConnective> abide by our decision, <Alignment alignment="12992" annotation_id="11701">
+          <DiscourseConnective annotation_id="11701" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> out of solidarity with our vote at the Conference, not to rush the job through now.</en>
+      <fr>C'est la raison pour laquelle nous maintenons notre décision de ne pas rédiger de résolution <DiscourseConnective annotation_id="12972">à</DiscourseConnective> la va-vite et ce, <Alignment alignment="2581" annotation_id="12992">
+          <DiscourseConnective annotation_id="12992" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> pour respecter notre vote au sein de la Conférence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11790" docOffset="109">
+      <en>Mrs Hautala, <Alignment alignment="5818" annotation_id="11803">
+          <DiscourseConnective annotation_id="11803" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> regards the representatives of Parliament at the WTO Conference in Seattle, we unanimously stated that the European Parliament must be represented numerically by 15 Members of Parliament just <Alignment alignment="2375" annotation_id="11998">
+          <DiscourseConnective annotation_id="11998" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the American Congress claims the right to do, that is to say, this position remains unaffected regardless of whether we adopt a resolution here <Alignment alignment="35006" annotation_id="12145">
+          <DiscourseConnective annotation_id="12145" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not.</en>
+      <fr>Madame Hautala, <Alignment alignment="11613" annotation_id="13070">
+          <DiscourseConnective annotation_id="13070" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> ce qui concerne les représentants du Parlement <DiscourseConnective annotation_id="13120">à</DiscourseConnective> la conférence de l'OMC <DiscourseConnective annotation_id="13145">à</DiscourseConnective> Seattle, nous nous sommes mis d'accord pour <DiscourseConnective annotation_id="13191">dire que</DiscourseConnective> le Parlement européen devait être représenté par quinze députés, <DiscourseConnective annotation_id="13265">précisément</DiscourseConnective> <Alignment alignment="11998" annotation_id="13277">
+          <DiscourseConnective annotation_id="13277" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le demande Congrès américain. Cela signifie que cet avis ne dépend pas <DiscourseConnective annotation_id="13354">du fait que</DiscourseConnective> nous adoptions une résolution <Alignment alignment="12583" annotation_id="13396">
+          <DiscourseConnective annotation_id="13396" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12153" docOffset="110">
+      <en>For my group I say: we wish to be represented on equal terms with the Americans <Alignment alignment="37161" annotation_id="12233">
+          <DiscourseConnective annotation_id="12233" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, at the present point in time, we are against a statement from Parliament on the matter.</en>
+      <fr>Je parle au nom de mon groupe : nous voulons être représentés <DiscourseConnective annotation_id="13466">au même titre que</DiscourseConnective> les Américains <Alignment alignment="5299" annotation_id="13499">
+          <DiscourseConnective annotation_id="13499" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> sommes <DiscourseConnective annotation_id="13511">pour</DiscourseConnective> l'instant opposés <DiscourseConnective annotation_id="13534">à</DiscourseConnective> ce que le Parlement <DiscourseConnective annotation_id="13556">s'</DiscourseConnective>exprime <DiscourseConnective annotation_id="13566">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12326" docOffset="111">
+      <en>(Parliament rejected the request)</en>
+      <fr>(Le Parlement rejette la demande)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12360" docOffset="112">
+      <en>Relating to Thursday: President.</en>
+      <fr>En ce qui concerne le jeudi : La Présidente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12393" docOffset="113">
+      <en>Relating to the topical and urgent subjects of major importance, I have received three requests from the Greens/ALE Group, the GUE/NGL Group and the ELDR Group who would like to enter a new item entitled "Nuclear Accident in Japan" .</en>
+      <fr>J' ai reçu, en ce qui concerne les problèmes d' actualité, urgents et d' importance majeure, trois demandes du groupe des Verts/ALE, du groupe GUE/NGL <DiscourseConnective annotation_id="13808">et</DiscourseConnective> du groupe ELDR qui souhaiteraient inscrire un nouveau point intitulé "Accident nucléaire au Japon".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12627" docOffset="114">
+      <en>Pursuant to our Rules of Procedure, we must, <Alignment alignment="22926" annotation_id="12672">
+          <DiscourseConnective annotation_id="12672" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, in the event that we accept this new item being registered, remove an already existing item.</en>
+      <fr>Conformément <DiscourseConnective annotation_id="13924">à</DiscourseConnective> notre règlement, <Alignment alignment="194" annotation_id="13943">
+          <DiscourseConnective annotation_id="13943" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, nous devons, dans l' hypothèse où nous retiendrions l'inscription de ce nouveau point, supprimer un point qui existe <DiscourseConnective annotation_id="14081">déjà</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12778" docOffset="115">
+      <en>
+        <Alignment alignment="31674" annotation_id="12778">
+          <DiscourseConnective annotation_id="12778" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, I shall put the first request to the vote, which proposes entering the item "Nuclear Accident in Japan" , which would mean removing the item "Earthquake in Taiwan" .</en>
+      <fr>Je vais <Alignment alignment="2884" annotation_id="14095">
+          <DiscourseConnective annotation_id="14095" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> mettre aux voix la première demande, qui propose d' inscrire le point "Accident nucléaire au Japon" supprimant ainsi le point "Séisme <DiscourseConnective annotation_id="14234">à</DiscourseConnective> Taiwan".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12955" id="19" language="ES" name="Barón Crespo">
+    <ParallelChunk annotation_id="12955" docOffset="116">
+      <en>Madam President, it seems to me that there has been some misunderstanding here, <DiscourseConnective annotation_id="13035" sense="Temporal.Synchrony">as</DiscourseConnective> there are two proposals: one which proposes that the point concerning the accident in Ustica be replaced, and another which proposes that the point concerning the earthquake in Taiwan be replaced.</en>
+      <fr>Madame la Présidente, il y a eu, me semble-t-il, un malentendu. Il y a en effet deux propositions : la première, qui tend à remplacer le point relatif à l'accident d'Ustica, <DiscourseConnective annotation_id="14419">et</DiscourseConnective> la deuxième, qui tend <DiscourseConnective annotation_id="14444">à</DiscourseConnective> remplacer le point relatif au séisme de Taïwan.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13235" docOffset="117">
+      <en>I think there has been a misunderstanding <Alignment alignment="37099" annotation_id="13277">
+          <DiscourseConnective annotation_id="13277" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> many Members of this Parliament do not know exactly which proposal they are voting for.</en>
+      <fr>Je crains qu'il n'y ait un malentendu <Alignment alignment="1349" annotation_id="14532">
+          <DiscourseConnective annotation_id="14532" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que de nombreux députés ne sachent pas exactement <DiscourseConnective annotation_id="14585">pour</DiscourseConnective> quelle proposition ils sont en train de voter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13369" docOffset="118">
+      <en>I am sorry that we are in the process of taking a vote, <Alignment alignment="14684" annotation_id="13425">
+          <DiscourseConnective annotation_id="13425" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> this is the situation.</en>
+      <fr>Je regrette <DiscourseConnective annotation_id="14649">que</DiscourseConnective> cela arrive au moment du vote, <Alignment alignment="5616" annotation_id="14684">
+          <DiscourseConnective annotation_id="14684" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> telle est la situation.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13452" id="20" name="President">
+    <ParallelChunk annotation_id="13452" docOffset="119">
+      <en>Perhaps I have not made myself sufficiently clear, Mr Barón Crespo, <DiscourseConnective annotation_id="13520" sense="Expansion.Conjunction">and</DiscourseConnective> I apologise.</en>
+      <fr>Je n' ai peut-être pas été suffisamment claire, Monsieur Baron Crespo, je m' en excuse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13537" docOffset="120">
+      <en>I was talking about the first proposal which aims to replace the item "Earthquake in Taiwan" with a new item titled "Nuclear Accident in Japan" .</en>
+      <fr>Il <DiscourseConnective annotation_id="14804">s'</DiscourseConnective> agit de la première proposition qui tend <DiscourseConnective annotation_id="14848">à</DiscourseConnective> remplacer le point "Séisme <DiscourseConnective annotation_id="14877">à</DiscourseConnective> Taiwan" par un nouveau point intitulé "Accident nucléaire au Japon". Est-ce que maintenant c' est bien clair ?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13683" docOffset="121">
+      <en>(Parliament gave its assent)</en>
+      <fr>(Le Parlement marque son accord)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13712" id="21" language="DA" name="Bonde">
+    <ParallelChunk annotation_id="13712" docOffset="122">
+      <en>I, too, am pleased about the decision that has been made not to fire Mr Van Buitenen, <Alignment alignment="40924" annotation_id="13798">
+          <DiscourseConnective annotation_id="13798" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I would ask you to put the matter on the agenda for the next meeting of the Conference of Presidents, <Alignment alignment="15234" annotation_id="13904">
+          <DiscourseConnective annotation_id="13904" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the grounds for the decision are completely unacceptable.</en>
+      <fr>Je me réjouis <DiscourseConnective annotation_id="15037">également</DiscourseConnective> de l'accord trouvé <DiscourseConnective annotation_id="15066">afin de</DiscourseConnective> ne pas sanctionner M. Van Buitenen <Alignment alignment="6550" annotation_id="15109">
+          <DiscourseConnective annotation_id="15109" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je voudrais vous demander d'inscrire ce point <DiscourseConnective annotation_id="15160">à</DiscourseConnective> l'ordre du jour de la prochaine réunion de la Conférence des présidents <Alignment alignment="10246" annotation_id="15234">
+          <DiscourseConnective annotation_id="15234" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> les conditions énoncées dans la décision sont totalement inacceptables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13965" docOffset="123">
+      <en>Mr Van Buitenen' s crime consists in having given documentation to a President of the EU Parliament.</en>
+      <fr>Il a commis le crime d'avoir transmis de la documentation <DiscourseConnective annotation_id="15368">à</DiscourseConnective> un président du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14066" docOffset="124">
+      <en>That can hardly be a crime!</en>
+      <fr>Cela n'a rien d'un crime!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14094" docOffset="125">
+      <en>These grounds must <Alignment alignment="15455" annotation_id="14113">
+          <DiscourseConnective annotation_id="14113" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be changed, <Alignment alignment="15480" annotation_id="14135">
+          <DiscourseConnective annotation_id="14135" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that is why I would ask you to put the issue on the agenda for the Conference of Presidents.</en>
+      <fr>Ces conditions doivent <Alignment alignment="1060" annotation_id="15455">
+          <DiscourseConnective annotation_id="15455" sense="Contingency.Cause.Result">également</DiscourseConnective>
+        </Alignment> être modifiées <Alignment alignment="14135" annotation_id="15480">
+          <DiscourseConnective annotation_id="15480" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="15483">c'est pourquoi</DiscourseConnective> je vous demande de les inscrire <DiscourseConnective annotation_id="15530">à</DiscourseConnective> l'ordre du jour de la Conférence des présidents.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14232" id="22" name="MacCormick">
+    <ParallelChunk annotation_id="14232" docOffset="126">
+      <en>Madam President, I have a request for information about a matter of order.</en>
+      <fr>Madame la Présidente, c'est <DiscourseConnective annotation_id="15609">pour</DiscourseConnective> une information concernant un problème de procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14307" docOffset="127">
+      <en>I am not sure <Alignment alignment="38528" annotation_id="14321">
+          <DiscourseConnective annotation_id="14321" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> one is entitled to make an explanation of vote at this stage in this debate, <Alignment alignment="40217" annotation_id="14401">
+          <DiscourseConnective annotation_id="14401" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="15760" annotation_id="14405">
+          <DiscourseConnective annotation_id="14405" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> so, I would like to say that I think, from the point of view of people in Scotland, it is a great pity that we will debate food safety tomorrow, without including a case where a Member State is defying the Community judgement on food safety.</en>
+      <fr>Je ne sais pas <Alignment alignment="14321" annotation_id="15682">
+          <DiscourseConnective annotation_id="15682" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il convient de procéder à une explication de vote <DiscourseConnective annotation_id="15734">à</DiscourseConnective> ce stade du débat, <Alignment alignment="14401" annotation_id="15755">
+          <DiscourseConnective annotation_id="15755" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="14405" annotation_id="15760">
+          <DiscourseConnective annotation_id="15760" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> tel est le cas, je souhaiterais préciser <DiscourseConnective annotation_id="15804">que</DiscourseConnective> je pense qu'il est vraiment dommage <DiscourseConnective annotation_id="15844">pour</DiscourseConnective> le peuple d'Écosse <DiscourseConnective annotation_id="15868">que</DiscourseConnective> nous débattions de la sécurité alimentaire demain <DiscourseConnective annotation_id="15922">sans</DiscourseConnective> y inclure le problème de la violation par un État membre d'une décision communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14650" docOffset="128">
+      <en>That is why I voted for that motion.</en>
+      <fr>C'est pour cette raison que j'ai voté <DiscourseConnective annotation_id="16052">pour</DiscourseConnective> cette proposition.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14687" id="23" name="President">
+    <ParallelChunk annotation_id="14687" docOffset="129">
+      <en>Thank you, Mr MacCormick.</en>
+      <fr>Merci, Monsieur MacCormick.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14713" docOffset="130">
+      <en>I think that you will have ample opportunity to raise that point during the debate.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="16113">que</DiscourseConnective> vous aurez toute latitude de soulever ce point au cours du débat.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="14797" id="24" language="DE" name="Pack">
+    <ParallelChunk annotation_id="14797" docOffset="131">
+      <en>Madam President, I wanted to express my deepest thanks for dealing promptly with the difficulties which we reported to you during the last part-session.</en>
+      <fr>Madame la Présidente, je voudrais exprimer mes remerciements sincères <DiscourseConnective annotation_id="16253">pour</DiscourseConnective> la résolution rapide des problèmes <DiscourseConnective annotation_id="16293">que</DiscourseConnective> nous avons décrits au cour de la période de session précédente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14950" docOffset="132">
+      <en>I can now use my fax machine <DiscourseConnective annotation_id="14979" sense="Temporal.Synchrony">as</DiscourseConnective> it is located in a position appropriate to my height.</en>
+      <fr>Je peux à présent utiliser mon télécopieur qui se trouve <DiscourseConnective annotation_id="16418">à</DiscourseConnective> une hauteur correspondant <DiscourseConnective annotation_id="16446">à</DiscourseConnective> ma taille.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15036" docOffset="133">
+      <en>Thank you very much.</en>
+      <fr>Merci beaucoup !</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15057" id="25" language="FR" name="Berthu">
+    <ParallelChunk annotation_id="15057" docOffset="134">
+      <en>Madam President, I would like to a propose a procedural motion on the layout of the new Chamber.</en>
+      <fr>Madame la Présidente, je voudrais déposer une motion de procédure sur la disposition du nouvel hémicycle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15154" docOffset="135">
+      <en>In the old Chamber, the President sat in front of a display of flags which symbolised all the countries of the European Union.</en>
+      <fr>Dans l' ancien hémicycle, le Président siégeait devant un bouquet de drapeaux qui symbolisait tous les pays de l' Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15281" docOffset="136">
+      <en>I see that in the new Chamber, this display has disappeared.</en>
+      <fr>Je vois <DiscourseConnective annotation_id="16722">que</DiscourseConnective>, dans le nouvel hémicycle, ce bouquet a disparu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15342" docOffset="137">
+      <en>We can all notice it.</en>
+      <fr>Chacun peut le constater.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15364" docOffset="138">
+      <en>I would <Alignment alignment="9130" annotation_id="15372">
+          <DiscourseConnective annotation_id="15372" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like to ask the following question: Has our House thought carefully about this matter, or has it been quite the contrary, a case of the services taking a decision on their own on a matter which strikes me as extremely symbolic and important?</en>
+      <fr>Je souhaiterais <Alignment alignment="3934" annotation_id="16817">
+          <DiscourseConnective annotation_id="16817" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> poser la question suivante : notre Assemblée a-t-elle délibéré sur cette question <DiscourseConnective annotation_id="16904">ou</DiscourseConnective>, dans le cas contraire, a-t-on laissé les services décider tous seuls d' un point qui me paraît hautement symbolique <DiscourseConnective annotation_id="17024">et</DiscourseConnective> important ?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15624" id="26" name="President">
+    <ParallelChunk annotation_id="15624" docOffset="139">
+      <en>Mr Berthu, I can reassure you straight away in a way which I am sure will satisfy you. I have ordered this display which, unfortunately, has been delayed.</en>
+      <fr>Monsieur Berthu, je <DiscourseConnective annotation_id="17059">puis</DiscourseConnective> tout de suite vous rassurer <DiscourseConnective annotation_id="17092">et</DiscourseConnective> vous donner toute satisfaction : j' ai commandé ce bouquet qui, <DiscourseConnective annotation_id="17159">malheureusement</DiscourseConnective>, a un peu de retard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15779" docOffset="140">
+      <en>It will be here tomorrow.</en>
+      <fr>Il sera là demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15805" docOffset="141">
+      <en>(The sitting was closed at 5.35 p.m.)</en>
+      <fr>(La séance est levée <DiscourseConnective annotation_id="17236">à</DiscourseConnective> 17h35)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

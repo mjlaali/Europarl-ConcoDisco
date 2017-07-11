@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="058" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I have been asked to welcome a visiting delegation in the gallery from the region of Piedmont.</en>
+      <fr>On m'a demandé de souhaiter la bienvenue à une délégation piémontaise dans la tribune des visiteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="103" docOffset="2">
+      <en>Normally, we only welcome delegations from nation States <Alignment alignment="198" annotation_id="160">
+          <DiscourseConnective annotation_id="160" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="89186" annotation_id="165">
+          <DiscourseConnective annotation_id="165" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> we do wish to bolster the regions, I will make an exception and wish a warm welcome to the delegation from Piedmont.</en>
+      <fr>Nous ne souhaitons normalement la bienvenue qu'aux délégations nationales, <Alignment alignment="160" annotation_id="198">
+          <DiscourseConnective annotation_id="198" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="16" annotation_id="203">
+          <DiscourseConnective annotation_id="203" sense="Contingency.Cause.Reason">étant donné que</DiscourseConnective>
+        </Alignment> nous souhaitons renforcer le rôle des régions, je me permets de faire exception à la règle <DiscourseConnective annotation_id="310">et</DiscourseConnective> de souhaiter chaleureusement la bienvenue <DiscourseConnective annotation_id="355">à</DiscourseConnective> la délégation du Piémont.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

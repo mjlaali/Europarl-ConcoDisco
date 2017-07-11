@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2. (</en>
+    <fr>2. (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="5" docOffset="1">
+    <en>- After the vote on Amendment 62:</en>
+    <fr>- <DiscourseConnective annotation_id="7">Après</DiscourseConnective> le vote sur l'amendement 62:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="39" id="063" name="Alexander Alvaro">
+    <ParallelChunk annotation_id="39" docOffset="2">
+      <en>(DE) Mr President, <Alignment alignment="70" annotation_id="58">
+          <Alignment alignment="70" annotation_id="58">
+            <DiscourseConnective annotation_id="58" sense="Contingency.Cause.Reason">now that</DiscourseConnective>
+          </Alignment>
+        </Alignment> Parliament in its infinite wisdom has adopted compromise Amendment 62, Amendment 61 <DiscourseConnective annotation_id="151" sense="Temporal.Synchrony">as</DiscourseConnective> proposed by the ALDE Group is now superfluous and is therefore withdrawn.</en>
+      <fr>(DE) Monsieur le Président, <Alignment alignment="12" annotation_id="70">
+          <Alignment alignment="60" annotation_id="70">
+            <DiscourseConnective annotation_id="70" sense="Contingency.Cause.Reason">maintenant que</DiscourseConnective>
+          </Alignment>
+        </Alignment> le Parlement, dans son infinie sagesse, a adopté l'amendement de compromis 62, l'amendement 61 tel que proposé par le groupe ALDE devient superflu <DiscourseConnective annotation_id="232">et</DiscourseConnective> est retiré <DiscourseConnective annotation_id="246">en conséquence</DiscourseConnective>.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

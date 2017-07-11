@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="108" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I am delighted to inform you that a delegation from the National Assembly of Kuwait is present in the House in the public gallery.</en>
+      <fr>Je suis ravi de vous informer <DiscourseConnective annotation_id="52">qu'</DiscourseConnective>une délégation de l'Assemblée nationale du Koweït est présente dans la tribune officielle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="139" docOffset="2">
+      <en>We would like to extend a warm welcome to the Kuwaiti Delegation.</en>
+      <fr>Nous souhaitons chaleureusement la bienvenue <DiscourseConnective annotation_id="191">à</DiscourseConnective> la délégation koweïtienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="205" docOffset="3">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="216" docOffset="4">
+      <en>The Delegation is led by Mr Ali Al-Debaqbasi and has come to Strasbourg to meet with Members of our House.</en>
+      <fr>Cette délégation, conduite par M. Ali Al-Debaqbasi, est venue <DiscourseConnective annotation_id="301">à</DiscourseConnective> Strasbourg tout spécialement <DiscourseConnective annotation_id="332">pour</DiscourseConnective> rencontrer les membres de notre Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="323" docOffset="5">
+      <en>Relations between the European Union and the member countries of the Gulf Cooperation Council, which this year is chaired by Kuwait, are very important for our Parliament.</en>
+      <fr>Les relations entre l'Union européenne <DiscourseConnective annotation_id="419">et</DiscourseConnective> les États membres du Conseil de coopération du Golfe, dont la présidence est cette année assurée par le Koweït, sont très importantes <DiscourseConnective annotation_id="556">pour</DiscourseConnective> notre Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="495" docOffset="6">
+      <en>We are convinced that a fruitful dialogue between the European Parliament and the Parliaments of the member countries of the Gulf Cooperation Council will serve to strengthen cooperation between the European Union and the Gulf Cooperation Council and <Alignment alignment="924" annotation_id="746">
+          <DiscourseConnective annotation_id="746" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> encourage a swift and successful conclusion to the free trade agreement negotiations.</en>
+      <fr>Nous sommes convaincus <DiscourseConnective annotation_id="601">qu'</DiscourseConnective>un dialogue fructueux entre le Parlement européen <DiscourseConnective annotation_id="654">et</DiscourseConnective> les parlements des États membres du Conseil de coopération du Golfe contribuera <DiscourseConnective annotation_id="737">à</DiscourseConnective> renforcer la coopération entre l'Union européenne <DiscourseConnective annotation_id="789">et</DiscourseConnective> le Conseil de coopération du Golfe, <Alignment alignment="462" annotation_id="828">
+          <DiscourseConnective annotation_id="828" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> qu'à promouvoir la conclusion rapide <DiscourseConnective annotation_id="871">et</DiscourseConnective> positive des négociations relatives <DiscourseConnective annotation_id="910">à</DiscourseConnective> l'accord de libre-échange.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="837" docOffset="7">
+      <en>We <Alignment alignment="311368" annotation_id="840">
+          <DiscourseConnective annotation_id="840" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> wish Mr Al-Debaqbasi and his colleagues a fruitful stay with us.</en>
+      <fr>
+        <Alignment alignment="518" annotation_id="939">
+          <DiscourseConnective annotation_id="939" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, nous souhaitons à M. Al-Debaqbasi <DiscourseConnective annotation_id="989">et</DiscourseConnective> à ses collègues de passer un séjour fructueux parmi nous.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

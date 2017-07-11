@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Opening of the sitting</en>
+    <fr>Ouverture de la séance</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="23" docOffset="1">
+    <en>(The sitting was opened at 10 a.m.)</en>
+    <fr>(La séance est ouverte <DiscourseConnective annotation_id="46">à</DiscourseConnective> 10 heures)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="59" id="005" name="President">
+    <ParallelChunk annotation_id="59" docOffset="2">
+      <en>I declare the session open.</en>
+      <fr>Je déclare la session ouverte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="87" docOffset="3">
+      <en>I am very pleased to have been elected: this is my first time as President of this House.</en>
+      <fr>Je suis très heureuse d'avoir été élue: c'est la première fois que j'officie en <DiscourseConnective annotation_id="170">tant que</DiscourseConnective> présidente de cette Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="177" docOffset="4">
+      <en>I regard it as absolutely crucial and highly symbolic that I am opening this session with a debate on gender parity and equality.</en>
+      <fr>Je considère qu'il est très important <DiscourseConnective annotation_id="248">et</DiscourseConnective> hautement symbolique <DiscourseConnective annotation_id="272">que</DiscourseConnective> j'ouvre cette session par un débat sur la parité <DiscourseConnective annotation_id="325">et</DiscourseConnective> l'égalité des genres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="307" docOffset="5">
+      <en>It must be said that our Parliament has made some significant progress, <Alignment alignment="420" annotation_id="379">
+          <DiscourseConnective annotation_id="379" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that it continues to do so.</en>
+      <fr>Il faut <DiscourseConnective annotation_id="358">dire que</DiscourseConnective> notre Parlement a accompli des progrès significatifs <Alignment alignment="379" annotation_id="420">
+          <DiscourseConnective annotation_id="420" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="432">qu'</DiscourseConnective>il continuera sur cette voie.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

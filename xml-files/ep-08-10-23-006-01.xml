@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Draft general budget of the European Union - 2009 budget (vote)</en>
+    <fr>Projet de budget général de l'Union européenne - Exercice 2009 (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="67" docOffset="2">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="75">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="85" id="049" name="Jutta Haug">
+    <ParallelChunk annotation_id="85" docOffset="3">
+      <en>rapporteur. - (DE) Mr President, the explanation process is the same <DiscourseConnective annotation_id="154" sense="Temporal.Synchrony">as</DiscourseConnective> it is every year.</en>
+      <fr>rapporteure. - (DE) Monsieur le Président, la démarche explicative reste la <DiscourseConnective annotation_id="165">même</DiscourseConnective> chaque année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="175" docOffset="4">
+      <en>Before the vote I need to inform Parliament about some technical adjustments.</en>
+      <fr>
+        <DiscourseConnective annotation_id="184">Avant</DiscourseConnective> le vote, je dois informer le Parlement de certaines adaptations techniques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="253" docOffset="5">
+      <en>I know that this is not very interesting for my fellow Members, <Alignment alignment="323" annotation_id="317">
+          <DiscourseConnective annotation_id="317" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we need to record it in the Minutes.</en>
+      <fr>Je sais <DiscourseConnective annotation_id="274">que</DiscourseConnective> cela n'intéresse pas beaucoup mes collègues, <Alignment alignment="1384" annotation_id="323">
+          <DiscourseConnective annotation_id="323" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons les enregistrer dans le procès-verbal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="358" docOffset="6">
+      <en>Firstly, <Alignment alignment="393" annotation_id="367">
+          <DiscourseConnective annotation_id="367" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> already indicated in the voting list, the vote on amendment 783 to budget line 22 02 04 02 only concerns payment appropriations.</en>
+      <fr>
+        <DiscourseConnective annotation_id="379">Premièrement</DiscourseConnective>, <Alignment alignment="2305" annotation_id="393">
+          <DiscourseConnective annotation_id="393" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="399">déjà</DiscourseConnective> signalé dans la liste des votes, le vote sur l'amendement 783 concernant le poste budgétaire 22 02 04 02 ne concerne que les crédits de paiement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="499" docOffset="7">
+      <en>Secondly, the explanations concerning the global energy assessment do not belong on budget line 08 03 01, where they have mistakenly been included, but on line 08 05 01.</en>
+      <fr>
+        <DiscourseConnective annotation_id="550">Deuxièmement</DiscourseConnective>, les explications relatives à l'évaluation énergétique mondiale ne font pas partie du poste budgétaire 08 03 01, où elles ont été incluses par erreur, <DiscourseConnective annotation_id="714">mais</DiscourseConnective> du poste 08 05 01.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="669" docOffset="8">
+      <en>
+        <Alignment alignment="738" annotation_id="669">
+          <DiscourseConnective annotation_id="669" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> the vote on amendment 936 to line 08 03 01 must be made without the comments on the global energy assessment.</en>
+      <fr>
+        <Alignment alignment="669" annotation_id="738">
+          <DiscourseConnective annotation_id="738" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, l'amendement 936 sur le poste 08 03 01 doit être voté <DiscourseConnective annotation_id="808">sans</DiscourseConnective> les commentaires sur l'évaluation énergétique mondiale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="789" docOffset="9">
+      <en>These will be included <Alignment alignment="888" annotation_id="812">
+          <DiscourseConnective annotation_id="812" sense="Expansion.Alternative.Chosen alternative">instead</DiscourseConnective>
+        </Alignment> in amendment 938 to line 08 05 01.</en>
+      <fr>Ceux-ci figureront <Alignment alignment="812" annotation_id="888">
+          <DiscourseConnective annotation_id="888" sense="Expansion.Alternative.Chosen alternative">plutôt</DiscourseConnective>
+        </Alignment> dans l'amendement 938 sur le poste 08 05 01.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="855" docOffset="10">
+      <en>I know how enthusiastic everyone is about this.</en>
+      <fr>Je sais à quel point ceci vous enthousiasme tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="903" docOffset="11">
+      <en>Thirdly, the reinstatement of resources in the Preliminary Draft Budget for the decentralised agencies with their titles in lines 1 and 2 <Alignment alignment="1138" annotation_id="1041">
+          <DiscourseConnective annotation_id="1041" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> includes, of course, the reinstatement of their establishment plans.</en>
+      <fr>
+        <DiscourseConnective annotation_id="990">Troisièmement</DiscourseConnective>, la réinscription de crédits dans l'avant-projet de budget <DiscourseConnective annotation_id="1063">pour</DiscourseConnective> les agences décentralisées avec leurs titres aux lignes 1 <DiscourseConnective annotation_id="1126">et</DiscourseConnective> 2 inclut <Alignment alignment="1041" annotation_id="1138">
+          <DiscourseConnective annotation_id="1138" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment>, bien entendu, le rétablissement de leurs tableaux des effectifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1115" docOffset="12">
+      <en>This applies to the European Medicines Agency, the European Chemicals Agency, the European Aviation Safety Agency, the European Maritime Safety Agency, the European Railway Agency, the European Environment Agency, the European Centre for the Development of Vocational Training, the European Food Safety Authority, the Community Fisheries Control Agency and the Community Plant Variety Office, whose establishment plans are not specifically included in the documents accompanying the amendments.</en>
+      <fr>Ceci concerne l'Agence européenne des médicaments, l'Agence européenne des produits chimiques, l'Agence européenne de la sécurité aérienne, l'Agence européenne pour la sécurité maritime, l'Agence ferroviaire européenne, l'Agence européenne pour l'environnement, le Cedefop (Centre européen <DiscourseConnective annotation_id="1500">pour</DiscourseConnective> le développement de la formation professionnelle), l'Autorité européenne de sécurité des aliments, l'Agence communautaire de contrôle des pêches <DiscourseConnective annotation_id="1650">et</DiscourseConnective> l'Office communautaire des variétés végétales dont les tableaux des effectifs ne figurent pas explicitement dans les documents d'accompagnement des amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1610" docOffset="13">
+      <en>Fourthly, as the result of a comment from the Legal Services an explanation included on several budget lines must be slightly modified.</en>
+      <fr>Quatrièmement, <DiscourseConnective annotation_id="1829">à</DiscourseConnective> la suite d'un commentaire des services juridiques, une explication figurant sur plusieurs lignes budgétaires doit être légèrement modifiée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1746" docOffset="14">
+      <en>This concerns the sentence which begins 'The Commission may' up to 'and to transfer to the internal auditor of the Commission' in the following amendments: Amendment 994 to line 19 04 01, amendment 1011 to line 21 02 01, amendment 1015 to line 21 03 01, amendment 1016 to line 21 04 01, amendment 1026 to line 23 02 01 and amendment 785 to line 23 02 02.</en>
+      <fr>Cela concerne la phrase qui commence par "La Commission peut" <DiscourseConnective annotation_id="2033">jusqu'à</DiscourseConnective> "<DiscourseConnective annotation_id="2042">à</DiscourseConnective> l'auditeur interne de la Commission" dans les amendements suivants: amendement 994 sur la ligne 19 04 01, amendement 1011 sur la ligne 21 02 01, amendement 1015 sur la ligne 21 03 01, amendement 1016 sur la ligne 21 04 01, amendement 1026 sur la ligne 23 02 01 <DiscourseConnective annotation_id="2305">et</DiscourseConnective> amendement 785 sur la ligne 23 02 02.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2101" docOffset="15">
+      <en>The correct version of the explanation is detailed in the voting list.</en>
+      <fr>La version correcte de l'explication figure en détail dans la liste des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2172" docOffset="16">
+      <en>Fifthly and finally, the budget line 19 06 06 with the title 'Consular cooperation' is not included in the amendments, <Alignment alignment="2554" annotation_id="2291">
+          <DiscourseConnective annotation_id="2291" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> it was adopted as part of the amending letter No 1/2009.</en>
+      <fr>Cinquièmement <DiscourseConnective annotation_id="2439">enfin</DiscourseConnective>, la ligne budgétaire 19 06 06 dont le titre est "Coopération consulaire" ne figure pas dans les amendements, <Alignment alignment="2291" annotation_id="2554">
+          <DiscourseConnective annotation_id="2554" sense="Comparison.Contrast">bien qu'</DiscourseConnective>
+        </Alignment>elle ait été adoptée en <DiscourseConnective annotation_id="2586">tant que</DiscourseConnective> partie de la lettre rectificative n° 1/2009.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2357" docOffset="17">
+      <en>This new budget line will <Alignment alignment="2677" annotation_id="2383">
+          <DiscourseConnective annotation_id="2383" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be included using a token entry (p.m.).</en>
+      <fr>Cette nouvelle ligne budgétaire sera <Alignment alignment="2383" annotation_id="2677">
+          <DiscourseConnective annotation_id="2677" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> intégrée avec la mention "pour mémoire" (p.m.).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2433" docOffset="18">
+      <en>
+        <Alignment alignment="2730" annotation_id="2433">
+          <DiscourseConnective annotation_id="2433" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> none of my fellow members have any objections to all of this, the sittings service will include it all <Alignment alignment="2845" annotation_id="2539">
+          <DiscourseConnective annotation_id="2539" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we have decided.</en>
+      <fr>
+        <Alignment alignment="2433" annotation_id="2730">
+          <DiscourseConnective annotation_id="2730" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> aucun de mes collègues n'a d'objections <DiscourseConnective annotation_id="2773">à</DiscourseConnective> tout ceci, les services de la séance incluront tout conformément à ce <Alignment alignment="2539" annotation_id="2845">
+          <DiscourseConnective annotation_id="2845" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> nous avons décidé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2559" id="050" name="President">
+    <ParallelChunk annotation_id="2559" docOffset="19">
+      <en>Mrs Haug, <Alignment alignment="2881" annotation_id="2569">
+          <DiscourseConnective annotation_id="2569" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we have great confidence in you, we can now vote on this.</en>
+      <fr>Madame Haug, <Alignment alignment="3049" annotation_id="2881">
+          <DiscourseConnective annotation_id="2881" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous avons toute confiance <DiscourseConnective annotation_id="2914">en</DiscourseConnective> vous, nous pouvons <DiscourseConnective annotation_id="2936">maintenant</DiscourseConnective> passer au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2630" docOffset="20">
+      <en>(Parliament approved the rapporteur's proposal)</en>
+      <fr>(Le Parlement approuve la proposition de la rapporteure)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2678" docOffset="21">
+      <en>Before the vote on Amendment 111</en>
+      <fr>
+        <DiscourseConnective annotation_id="3020">Avant</DiscourseConnective> le vote sur l'amendement 111</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2711" id="051" name="Catherine Guy-Quint">
+    <ParallelChunk annotation_id="2711" docOffset="22">
+      <en>- (FR) Mr President, I do not believe we have voted on the second part of 106.</en>
+      <fr>- Monsieur le Président, nous n'avons pas voté la seconde partie du 106, je pense.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2790" docOffset="23">
+      <en>Please could you check?</en>
+      <fr>Si vous pouviez vérifier.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2814" id="052" name="President">
+    <ParallelChunk annotation_id="2814" docOffset="24">
+      <en>Yes we have, Mrs Guy-Quint.</en>
+      <fr>Oui, nous l'avons fait, Madame Guy-Quint.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2842" docOffset="25">
+      <en>Mr Dunstan has just told me that the first part has lapsed <Alignment alignment="3271" annotation_id="2901">
+          <DiscourseConnective annotation_id="2901" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have already voted on the second part.</en>
+      <fr>M. Dunstan vient de me <DiscourseConnective annotation_id="3229">dire que</DiscourseConnective> la première partie était caduque <Alignment alignment="1338" annotation_id="3271">
+          <DiscourseConnective annotation_id="3271" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que nous avons <DiscourseConnective annotation_id="3289">déjà</DiscourseConnective> voté <DiscourseConnective annotation_id="3299">pour</DiscourseConnective> la deuxième partie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2947" docOffset="26">
+      <en>Before the vote on Block 8</en>
+      <fr>
+        <DiscourseConnective annotation_id="3324">Avant</DiscourseConnective> le vote sur le bloc 8</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="2974" id="053" name="Janusz Lewandowski">
+    <ParallelChunk annotation_id="2974" docOffset="27">
+      <en>rapporteur. - Mr President, there are no technical adjustments this time, <Alignment alignment="3458" annotation_id="3048">
+          <DiscourseConnective annotation_id="3048" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> we can vote.</en>
+      <fr>rapporteur. - (EN) Monsieur le Président, il n'y a pas d'adaptation technique cette fois-ci, nous pouvons <Alignment alignment="3048" annotation_id="3458">
+          <DiscourseConnective annotation_id="3458" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> voter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3064" docOffset="28">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3075" id="054" name="President">
+    <ParallelChunk annotation_id="3075" docOffset="29">
+      <en>
+        <Alignment alignment="3489" annotation_id="3075">
+          <DiscourseConnective annotation_id="3075" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective>
+        </Alignment> we can only congratulate the rapporteur.</en>
+      <fr>
+        <Alignment alignment="3075" annotation_id="3489">
+          <DiscourseConnective annotation_id="3489" sense="Temporal.Asynchronous.Precedence">Alors</DiscourseConnective>
+        </Alignment> nous ne pouvons <DiscourseConnective annotation_id="3511">que</DiscourseConnective> féliciter le rapporteur.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Situation in Gaza (vote)</en>
+    <fr>Situation <DiscourseConnective annotation_id="13">à</DiscourseConnective> Gaza (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="28" docOffset="2">
+    <en>- before the vote on paragraph 4:</en>
+    <fr>
+      <DiscourseConnective annotation_id="27">Avant</DiscourseConnective> le vote sur le paragraphe 4</fr>
+  </ParallelChunk>
+<Speaker annotation_id="62" id="071" name="Pasqualina Napoletano">
+    <ParallelChunk annotation_id="62" docOffset="3">
+      <en>(IT) Mr President, at the end of paragraph 4, the following phrase would need to be added: 'Condemns the recent rocket attack in Sderot and the killing of innocent Israeli civilians'.</en>
+      <fr>(IT) Monsieur le Président, <DiscourseConnective annotation_id="89">à</DiscourseConnective> la fin du paragraphe 4, il conviendrait d'ajouter la phrase suivante: "Condamne la récente attaque à la roquette <DiscourseConnective annotation_id="204">à</DiscourseConnective> Sderot <DiscourseConnective annotation_id="213">et</DiscourseConnective> le massacre de civils israéliens innocents".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="246" docOffset="4">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(Le Parlement marque son accord <DiscourseConnective annotation_id="293">pour</DiscourseConnective> l'adoption de l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

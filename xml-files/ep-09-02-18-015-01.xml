@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>1.</en>
+    <fr>1.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Role of the European Union in the Middle East (vote)</en>
+    <fr>Rôle de l'Union européenne au Moyen-Orient (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="56" docOffset="2">
+    <en>Before the vote on paragraph 5:</en>
+    <fr>- <DiscourseConnective annotation_id="55">Avant</DiscourseConnective> le vote sur le paragraphe 5:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="88" id="052" name="Pasqualina Napoletano">
+    <ParallelChunk annotation_id="88" docOffset="3">
+      <en>(IT) Mr President, at the beginning of paragraph 5, <Alignment alignment="144" annotation_id="140">
+          <DiscourseConnective annotation_id="140" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> the word 'believes', the following phrase would be added:</en>
+      <fr>(IT) Monsieur le Président, au début du paragraphe 5, <Alignment alignment="140" annotation_id="144">
+          <DiscourseConnective annotation_id="144" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> l'expression "est convaincu que", l'expression suivante serait ajoutée:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="204" docOffset="4">
+      <en>'inter alia with a view to the International Conference in support of the Palestinian Economy for the Reconstruction of Gaza to be held in Sharm el-Sheikh on 2 March 2009'.</en>
+      <fr>(EN) "<DiscourseConnective annotation_id="228">notamment</DiscourseConnective> dans la perspective de la conférence internationale visant <DiscourseConnective annotation_id="297">à</DiscourseConnective> soutenir l'économie palestinienne <DiscourseConnective annotation_id="333">pour</DiscourseConnective> la reconstruction de Gaza qui aura lieu le 2 mars 2009 <DiscourseConnective annotation_id="393">à</DiscourseConnective> Sharm El Sheikh".</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="377" id="055" name="Pasqualina Napoletano">
+    <ParallelChunk annotation_id="377" docOffset="5">
+      <en>(IT) Mr President, the amendment is the same.</en>
+      <fr>(IT) Monsieur le Président, cet amendement est identique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="423" docOffset="6">
+      <en>It refers to the International Conference in support of the Palestinian Economy, to be held in Sharm el-Sheikh on 2 March, and would be added to the recital.</en>
+      <fr>Il fait référence <DiscourseConnective annotation_id="489">à</DiscourseConnective> la conférence internationale visant <DiscourseConnective annotation_id="527">à</DiscourseConnective> soutenir l'économie palestinienne, qui aura lieu le 2 mars 2009 <DiscourseConnective annotation_id="593">à</DiscourseConnective> Sharm El Sheikh, <DiscourseConnective annotation_id="612">et</DiscourseConnective> serait ajouté au considérant.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

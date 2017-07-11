@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Corrections to votes and voting intentions: see Minutes</en>
+    <fr>Corrections <DiscourseConnective annotation_id="12">et</DiscourseConnective> intentions de vote: voir procès-verbal</fr>
+  </ParallelChunk>
+<Speaker annotation_id="56" id="199" name="President">
+    <ParallelChunk annotation_id="56" docOffset="1">
+      <en>We have finished our work for the afternoon.</en>
+      <fr>Nous avons terminé nos travaux <DiscourseConnective annotation_id="85">pour</DiscourseConnective> cet après-midi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="101" docOffset="2">
+      <en>The sitting is suspended.</en>
+      <fr>La séance est suspendue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="127" docOffset="3">
+      <en>It will resume at 3 p.m. for a formal sitting to celebrate the 50th anniversary of the European Parliament.</en>
+      <fr>Elle reprendra <DiscourseConnective annotation_id="146">à</DiscourseConnective> 15 heures par une séance solennelle qui célébrera le cinquantième anniversaire du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="235" docOffset="4">
+      <en>(The sitting was suspended at 1.05 p.m. and resumed at 3 p.m.)</en>
+      <fr>(La séance, suspendue à 13 h 05, est reprise <DiscourseConnective annotation_id="295">à</DiscourseConnective> 15 heures)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

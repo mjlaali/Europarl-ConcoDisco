@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>European Aviation Safety Agency (debate)</en>
+    <fr>Agence européenne de la sécurité aérienne (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="41" id="363" name="President">
+    <ParallelChunk annotation_id="41" docOffset="1">
+      <en>The next item is the recommendation for second reading, on behalf of the Committee on Transport and Tourism, on the Council common position for adopting a regulation of the European Parliament and of the Council on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (10537/3/2007 - C6-0353/2007 - (Rapporteur: Jörg Leichtfried).</en>
+      <fr>(EN) L'ordre du jour appelle la recommandation pour la deuxième lecture, de la part de la commission des transports et du tourisme, relative à la position commune arrêtée par le Conseil en vue de l'adoption du règlement du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne, et abrogeant la directive 91/670/CEE du Conseil, le règlement (CE) n° 1592/2002 et la directive 2004/36/CE (10537/3/2007 - C6-0353/2007 - (Rapporteur: Jörg Leichtfried).</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="513" id="364" name="Jörg Leichtfried">
+    <ParallelChunk annotation_id="513" docOffset="2">
+      <en>rapporteur. - (DE) Madam President, Mr Vice-President, ladies and gentlemen, as a postscript to this report, since the process is apparently drawing to a close, let me take the opportunity to express my sincere thanks to all those Members who have supported me in this work over a period of more than one and a half years.</en>
+      <fr>rapporteur. - (DE) Madame la Présidente, Monsieur le Vice-président, Mesdames <DiscourseConnective annotation_id="683">et</DiscourseConnective> Messieurs, à titre de post-scriptum <DiscourseConnective annotation_id="722">à</DiscourseConnective> ce rapport, <DiscourseConnective annotation_id="736">puisqu'</DiscourseConnective>apparemment le processus tire <DiscourseConnective annotation_id="773">à</DiscourseConnective> sa fin, permettez-moi de saisir cette occasion <DiscourseConnective annotation_id="822">pour</DiscourseConnective> exprimer mes remerciements les plus sincères <DiscourseConnective annotation_id="872">à</DiscourseConnective> tous les membres qui m'ont appuyé dans ce travail pendant plus d'un an <DiscourseConnective annotation_id="945">et</DiscourseConnective> demi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="836" docOffset="3">
+      <en>My special thanks go to Mr Becsey, Mr Degutis, Mrs Lichtenberger and Mr Kohlíček, to the Commission for its strong support and to our Secretariat, and particularly Mr Vervloet.</en>
+      <fr>Je remercie <DiscourseConnective annotation_id="966">en particulier</DiscourseConnective> M. Becsey, M. Degutis, Mme Lichtenberger <DiscourseConnective annotation_id="1022">et</DiscourseConnective> M. Kohlíček, la Commission <DiscourseConnective annotation_id="1052">pour</DiscourseConnective> son soutien vigoureux ainsi que notre secrétariat, <DiscourseConnective annotation_id="1108">et</DiscourseConnective> plus précisément M. Vervloet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1013" docOffset="4">
+      <en>It was certainly very interesting to see how colleagues truly became friends in the course of that year and a half as a result of working together.</en>
+      <fr>J'ai suivi avec beaucoup d'intérêt la naissance d'amitiés entre collègues qui a résulté de cette collaboration d'un an <DiscourseConnective annotation_id="1260">et</DiscourseConnective> demi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1161" docOffset="5">
+      <en>That is <Alignment alignment="1292" annotation_id="1169">
+          <DiscourseConnective annotation_id="1169" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> reflected in the report we have produced.</en>
+      <fr>Ces liens se reflètent <Alignment alignment="13109" annotation_id="1292">
+          <DiscourseConnective annotation_id="1292" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> dans le rapport que nous avons élaboré ensemble.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1216" docOffset="6">
+      <en>Thank you all very much.</en>
+      <fr>Un très grand merci à tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1241" docOffset="7">
+      <en>On the report itself, we are confronted with a paradox with regard to European airspace.</en>
+      <fr>Concernant le rapport proprement dit, nous sommes devant un paradoxe <DiscourseConnective annotation_id="1448">pour</DiscourseConnective> ce qui est de l'espace aérien européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1330" docOffset="8">
+      <en>On the one hand, Europe's airspace has been completely liberalised for the aviation industry and air carriers, <Alignment alignment="1604" annotation_id="1441">
+          <DiscourseConnective annotation_id="1441" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment>, <Alignment alignment="57146" annotation_id="1448">
+          <Alignment alignment="1615" annotation_id="1448">
+            <Alignment alignment="1615" annotation_id="1448">
+              <DiscourseConnective annotation_id="1448" sense="Comparison.Contrast">on the other hand</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, there are still 27 different civil aviation authorities with 27 sets of rules and ways of thinking which sometimes diverge.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1493">D'une part</DiscourseConnective>, celui-ci a été entièrement libéralisé <DiscourseConnective annotation_id="1543">pour</DiscourseConnective> l'industrie de l'aviation <DiscourseConnective annotation_id="1574">et</DiscourseConnective> les transporteurs aériens, <Alignment alignment="1441" annotation_id="1604">
+          <DiscourseConnective annotation_id="1604" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment>, <Alignment alignment="1448" annotation_id="1615">
+          <Alignment alignment="1448" annotation_id="1615">
+            <Alignment alignment="1448" annotation_id="1615">
+              <DiscourseConnective annotation_id="1615" sense="Comparison.Contrast">d'autre part</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, il existe <DiscourseConnective annotation_id="1639">encore</DiscourseConnective> 27 autorités de l'aviation civile appliquant 27 ensembles de règles <DiscourseConnective annotation_id="1714">et</DiscourseConnective> des modes de travail qui divergent parfois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1591" docOffset="9">
+      <en>
+        <DiscourseConnective annotation_id="1591" sense="Contingency.Cause.Result">As a result</DiscourseConnective>, the skies above Europe have not become any safer but are actually less safe than they were.</en>
+      <fr>Conséquence de cette situation, le ciel de l'Europe n'est pas devenu plus sûr qu'avant, au contraire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1696" docOffset="10">
+      <en>This has led certain airlines to engage in a kind of licence shopping, in which they have tried to obtain their licences in countries where licences can be got more easily <Alignment alignment="2089" annotation_id="1868">
+          <DiscourseConnective annotation_id="1868" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> where the rules may not be quite so strictly applied.</en>
+      <fr>Cela a poussé certaines compagnies aériennes, <DiscourseConnective annotation_id="1909">en</DiscourseConnective> quelque sorte, à faire leurs achats sur le marché des licences. Ainsi, ces compagnies ont tâché d'obtenir leurs licences dans des pays où celles-ci <DiscourseConnective annotation_id="2060">s'</DiscourseConnective>obtiennent plus facilement <Alignment alignment="1868" annotation_id="2089">
+          <DiscourseConnective annotation_id="2089" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> où les règles sont parfois appliquées avec moins de rigueur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1926" docOffset="11">
+      <en>The consequence has been very many minor incidents, some accidents and some disasters in Europe's airspace.</en>
+      <fr>Il en a résulté un grand nombre d'incidents mineurs, quelques accidents <DiscourseConnective annotation_id="2225">et</DiscourseConnective> quelques catastrophes dans l'espace aérien de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2034" docOffset="12">
+      <en>The idea behind this report - an idea I fully support - was to create uniform rules governing air operations, certification of aircraft and aircraft parts and licensing of pilots.</en>
+      <fr>L'idée à l'origine de ce rapport - une idée que j'approuve entièrement - était de créer des règles uniformes pour régir les activités aériennes, établir la certification des aéronefs <DiscourseConnective annotation_id="2467">et</DiscourseConnective> des pièces d'aéronefs, <DiscourseConnective annotation_id="2493">et</DiscourseConnective> octroyer les licences aux pilotes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2214" docOffset="13">
+      <en>The aim was not only to create uniform rules but also to ensure that they were <DiscourseConnective annotation_id="2293" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> jointly and simultaneously implemented.</en>
+      <fr>Le but recherché était <DiscourseConnective annotation_id="2554">non seulement</DiscourseConnective> de créer des règles uniformes <DiscourseConnective annotation_id="2598">mais aussi</DiscourseConnective> de veiller à ce <DiscourseConnective annotation_id="2625">qu'</DiscourseConnective>elles soient mises en œuvre de façon conjointe <DiscourseConnective annotation_id="2675">et</DiscourseConnective> simultanée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2338" docOffset="14">
+      <en>That was the Commission's original intention, <DiscourseConnective annotation_id="2384" sense="Expansion.Conjunction">and</DiscourseConnective> a large majority of the European Parliament endorsed that intention.</en>
+      <fr>Cette intention initiale de la Commission a bénéficié du soutien d'une grande majorité du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2457" docOffset="15">
+      <en>Our aspiration, <Alignment alignment="2818" annotation_id="2473">
+          <DiscourseConnective annotation_id="2473" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, was to go further and make it easier to achieve the desired aim.</en>
+      <fr>Notre aspiration, <Alignment alignment="8711" annotation_id="2818">
+          <DiscourseConnective annotation_id="2818" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment>, consistait <DiscourseConnective annotation_id="2840">à</DiscourseConnective> aller plus loin <DiscourseConnective annotation_id="2858">et</DiscourseConnective> à faciliter l'atteinte de l'objectif poursuivi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2547" docOffset="16">
+      <en>We wanted EASA, the European Aviation Safety Agency, to become more efficient, to be able to act more swiftly and to be more responsive.</en>
+      <fr>Nous voulions que l'AESA, l'Agence européenne de la sécurité aérienne, <DiscourseConnective annotation_id="2980">soit</DiscourseConnective> capable d'agir <DiscourseConnective annotation_id="3000">et</DiscourseConnective> de réagir plus rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2684" docOffset="17">
+      <en>It was the wish of Parliament that the controlling body of EASA, the Management Board, which still reflected and asserted the national interests of the Member States or the national agencies to some extent in its deliberations and activities, should be given a somewhat more independent position.</en>
+      <fr>Le Parlement souhaitait <DiscourseConnective annotation_id="3054">qu'</DiscourseConnective>un statut un peu plus indépendant <DiscourseConnective annotation_id="3091">soit</DiscourseConnective> accordé à l'organisme de contrôle de l'AESA, le conseil d'administration, qui continuait à refléter <DiscourseConnective annotation_id="3196">et</DiscourseConnective> à affirmer, dans une certaine mesure, les intérêts nationaux des États membres <DiscourseConnective annotation_id="3278">ou</DiscourseConnective> des agences nationales dans ses délibérations <DiscourseConnective annotation_id="3327">et</DiscourseConnective> activités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2981" docOffset="18">
+      <en>The second idea was that, <Alignment alignment="3427" annotation_id="3007">
+          <DiscourseConnective annotation_id="3007" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> only two options had hitherto been available to EASA for dealing with errors and problems, namely to do nothing or to withdraw an operator's licence altogether, there was a need to find intermediate responses.</en>
+      <fr>La deuxième idée était <DiscourseConnective annotation_id="3364">qu'</DiscourseConnective>il était nécessaire de trouver des réponses intermédiaires, <Alignment alignment="9641" annotation_id="3427">
+          <DiscourseConnective annotation_id="3427" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> l'AESA n'a disposé <DiscourseConnective annotation_id="3454">jusqu'à</DiscourseConnective> présent <DiscourseConnective annotation_id="3470">que</DiscourseConnective> de deux options <DiscourseConnective annotation_id="3490">pour</DiscourseConnective> résoudre les erreurs <DiscourseConnective annotation_id="3516">et</DiscourseConnective> les problèmes, l'inaction <DiscourseConnective annotation_id="3545">ou</DiscourseConnective> le retrait <DiscourseConnective annotation_id="3559">total</DiscourseConnective> de la licence de l'opérateur concerné</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3223" docOffset="19">
+      <en>The third point, which I consider essential, was that one group of staff employed in air operations with special responsibility for safety, namely cabin crews, was still the only uncertificated category of personnel in the entire field of aviation <DiscourseConnective annotation_id="3471" sense="Expansion.Conjunction">and</DiscourseConnective> that this had to be changed.</en>
+      <fr>Selon le troisième point, <DiscourseConnective annotation_id="3629">que</DiscourseConnective> je juge capital, dans tout le domaine de l'aviation, il y a une catégorie de personnel employée dans les activités aériennes et assumant une responsabilité de sécurité spécifique, à savoir l'équipage de cabine, qui reste <DiscourseConnective annotation_id="3854">encore</DiscourseConnective> sans certification, une situation qui doit changer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3504" docOffset="20">
+      <en>What has been achieved?</en>
+      <fr>Qu'est-ce qui a été réalisé?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3528" docOffset="21">
+      <en>With regard to the Management Board, we succeeded in improving the situation by securing an obligation on its members to submit a report to the competent committee of the European Parliament.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3942">Pour</DiscourseConnective> ce qui du conseil d'administration, nous avons réussi <DiscourseConnective annotation_id="4001">à</DiscourseConnective> améliorer la situation <DiscourseConnective annotation_id="4026">en</DiscourseConnective> instaurant <DiscourseConnective annotation_id="4040">pour</DiscourseConnective> ses membres l'obligation de présenter un rapport <DiscourseConnective annotation_id="4094">à</DiscourseConnective> la commission compétente du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3720" docOffset="22">
+      <en>We <Alignment alignment="4156" annotation_id="3723">
+          <DiscourseConnective annotation_id="3723" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> managed to introduce a system of penalties which enables EASA to respond flexibly instead of having to choose between the so-called 'nuclear option' and no action at all.</en>
+      <fr>Nous sommes <Alignment alignment="3723" annotation_id="4156">
+          <DiscourseConnective annotation_id="4156" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> parvenus <DiscourseConnective annotation_id="4175">à</DiscourseConnective> introduire un système de sanctions qui permet à l'AESA de réagir avec souplesse sans plus devoir choisir entre l'"option nucléaire" <DiscourseConnective annotation_id="4309">ou</DiscourseConnective> l'inaction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3899" docOffset="23">
+      <en>Above all, we <DiscourseConnective annotation_id="3913" sense="Expansion.Conjunction">also</DiscourseConnective> succeeded in finding a means of ensuring that cabin staff will henceforth be licensed.</en>
+      <fr>Par-dessus tout, nous avons réussi <DiscourseConnective annotation_id="4359">à</DiscourseConnective> trouver le moyen de veiller à ce <DiscourseConnective annotation_id="4394">que</DiscourseConnective> le personnel de cabine <DiscourseConnective annotation_id="4421">soit</DiscourseConnective> désormais soumis à l'obtention d'une licence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4005" docOffset="24">
+      <en>
+        <Alignment alignment="4472" annotation_id="4005">
+          <DiscourseConnective annotation_id="4005" sense="Expansion.Restatement">In other words</DiscourseConnective>
+        </Alignment>, a uniformly high level of training, safety standards and all the accompanying attributes will now be found among cabin crews too.</en>
+      <fr>
+        <Alignment alignment="7863" annotation_id="4472">
+          <DiscourseConnective annotation_id="4472" sense="Expansion.Restatement">En</DiscourseConnective>
+        </Alignment> d'autre termes, le personnel de cabine se caractérisera lui <DiscourseConnective annotation_id="4535">aussi</DiscourseConnective> par une uniformité dans le niveau élevé de formation, les règles de sécurité <DiscourseConnective annotation_id="4618">et</DiscourseConnective> tous les attributs qui vont de pair avec cette catégorie professionnelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4151" docOffset="25">
+      <en>We have managed to deliver a report that has largely won the acceptance of all parties.</en>
+      <fr>Nous avons réussi <DiscourseConnective annotation_id="4713">à</DiscourseConnective> produire un rapport qui a largement remporté l'adhésion de toutes les parties.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4239" docOffset="26">
+      <en>The industry was content with the report, the trade union was content, the employees were content, our House was content, <Alignment alignment="4894" annotation_id="4361">
+          <DiscourseConnective annotation_id="4361" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> all but a few of the Member States were content with it.</en>
+      <fr>L'industrie a été satisfaite de ce rapport, tout comme les syndicats, les salariés, notre Parlement <Alignment alignment="4361" annotation_id="4894">
+          <DiscourseConnective annotation_id="4894" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> presque tous les États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4422" docOffset="27">
+      <en>The most important success, <Alignment alignment="4959" annotation_id="4450">
+          <DiscourseConnective annotation_id="4450" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, lies in the fact that passengers in Europe's aircraft will be safer in future.</en>
+      <fr>La plus grande réussite reste <Alignment alignment="14365" annotation_id="4959">
+          <DiscourseConnective annotation_id="4959" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> le fait <DiscourseConnective annotation_id="4977">que</DiscourseConnective> les passagers aériens de l'Europe voyageront <DiscourseConnective annotation_id="5026">à</DiscourseConnective> l'avenir dans de meilleures conditions de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4538" docOffset="28">
+      <en>That was the most important thing we could have achieved, <Alignment alignment="5132" annotation_id="4596">
+          <DiscourseConnective annotation_id="4596" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have achieved it.</en>
+      <fr>Telle était la chose la plus importante à réaliser, <Alignment alignment="4596" annotation_id="5132">
+          <DiscourseConnective annotation_id="5132" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous y sommes parvenus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4621" docOffset="29">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4632" id="365" name="Jacques Barrot">
+    <ParallelChunk annotation_id="4632" docOffset="30">
+      <en>Vice-President of the Commission. - (FR) Madam President, Mr Leichtfried, ladies and gentlemen, we are now on the verge of obtaining agreement at second reading with the Council on an extremely important proposal.</en>
+      <fr>vice-président de la Commission. - (FR) Madame la Présidente, Monsieur le rapporteur, Mesdames <DiscourseConnective annotation_id="5273">et</DiscourseConnective> Messieurs les membres du Parlement, nous sommes aujourd'hui sur le point d'obtenir un accord <DiscourseConnective annotation_id="5369">en</DiscourseConnective> deuxième lecture avec le Conseil sur une proposition très importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4846" docOffset="31">
+      <en>We owe this especially to the fine work by the rapporteur, Mr Leichtfried, who I wish to congratulate specifically.</en>
+      <fr>Nous le devons, <DiscourseConnective annotation_id="5458">notamment</DiscourseConnective>, <DiscourseConnective annotation_id="5469">à</DiscourseConnective> l'excellent travail de votre rapporteur, M. Leichtfried, <DiscourseConnective annotation_id="5528">que</DiscourseConnective> je veux féliciter particulièrement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4962" docOffset="32">
+      <en>We <Alignment alignment="5583" annotation_id="4965">
+          <DiscourseConnective annotation_id="4965" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> owe this result to the spirit of compromise among all the shadow rapporteurs, <Alignment alignment="5652" annotation_id="5048">
+          <DiscourseConnective annotation_id="5048" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wish to express my thanks to them <DiscourseConnective annotation_id="5088" sense="Expansion.Conjunction">also</DiscourseConnective>.</en>
+      <fr>Nous le devons <Alignment alignment="12776" annotation_id="5583">
+          <DiscourseConnective annotation_id="5583" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5589">à</DiscourseConnective> l'esprit de compromis de l'ensemble des rapporteurs fictifs, <Alignment alignment="6242" annotation_id="5652">
+          <DiscourseConnective annotation_id="5652" sense="Expansion.Conjunction">que</DiscourseConnective>
+        </Alignment> je remercie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5094" docOffset="33">
+      <en>I wish to remind you of the approach underlying this proposal for a regulation.</en>
+      <fr>Je rappelle, à mon tour, la démarche qui sous-tend la proposition de règlement dont nous discutons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5174" docOffset="34">
+      <en>On adopting Regulation (EC) No 1592/2002, laying down common rules in relation to airworthiness and establishing the European Aviation Safety Agency, it was agreed that an optimum and uniform level of safety could only be secured by extending the scope of this text and, <Alignment alignment="6087" annotation_id="5445">
+          <DiscourseConnective annotation_id="5445" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, extending the powers of the European Aviation Safety Agency to air operations, pilots' licences and safety of airline companies in third countries: this is the purpose of the amendment to Regulation (EC) No 1592/2002.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5769">En</DiscourseConnective> approuvant le règlement (CE) n° 1592/2002, qui instaure des règles communes <DiscourseConnective annotation_id="5848">en</DiscourseConnective> matière de navigabilité des aéronefs <DiscourseConnective annotation_id="5888">et</DiscourseConnective> institue l'Agence européenne de sécurité aérienne, il avait été convenu <DiscourseConnective annotation_id="5963">qu'</DiscourseConnective>un niveau optimal <DiscourseConnective annotation_id="5984">et</DiscourseConnective> uniforme de sécurité ne pourrait être atteint <DiscourseConnective annotation_id="6033">qu'en</DiscourseConnective> étendant le champ d'application de ce texte <DiscourseConnective annotation_id="6083">et</DiscourseConnective>, <Alignment alignment="20786" annotation_id="6087">
+          <DiscourseConnective annotation_id="6087" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, en étendant les compétences de l'Agence européenne de sécurité aérienne aux opérations aériennes, aux licences de pilote <DiscourseConnective annotation_id="6214">et</DiscourseConnective> également à la sécurité des compagnies aériennes des pays tiers: c'est bien l'objet de la modification du règlement (CE) n° 1592/2002.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5674" docOffset="35">
+      <en>
+        <Alignment alignment="6352" annotation_id="5674">
+          <DiscourseConnective annotation_id="5674" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, this proposal intends to step up controls and penalties in the event of non-compliance with these rules and, in the light of experience, to improve the functioning of the European Aviation Safety Agency.</en>
+      <fr>
+        <Alignment alignment="7335" annotation_id="6352">
+          <DiscourseConnective annotation_id="6352" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, cette proposition entend renforcer les contrôles <DiscourseConnective annotation_id="6411">et</DiscourseConnective> les sanctions <DiscourseConnective annotation_id="6428">en</DiscourseConnective> cas de non-respect de ces règles <DiscourseConnective annotation_id="6464">et</DiscourseConnective>, <DiscourseConnective annotation_id="6468">à</DiscourseConnective> la lumière de l'expérience, améliorer le fonctionnement de l'Agence de sécurité aérienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5891" docOffset="36">
+      <en>The Council's common position generally follows the proposal made by the Commission, even <Alignment alignment="6649" annotation_id="5981">
+          <DiscourseConnective annotation_id="5981" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> a number of provisions, such as those relating to the Agency's governance, have been reduced.</en>
+      <fr>La position commune du Conseil suit, de façon générale, la proposition de la Commission, <Alignment alignment="10553" annotation_id="6649">
+          <DiscourseConnective annotation_id="6649" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> certaines dispositions telles <DiscourseConnective annotation_id="6687">que</DiscourseConnective> celles liées <DiscourseConnective annotation_id="6704">à</DiscourseConnective> la gouvernance de l'Agence ont été réduites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6082" docOffset="37">
+      <en>The common position <Alignment alignment="6790" annotation_id="6102">
+          <DiscourseConnective annotation_id="6102" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> takes account of a number of amendments tabled by Parliament at first reading.</en>
+      <fr>Cette position commune prend en compte <Alignment alignment="6102" annotation_id="6790">
+          <DiscourseConnective annotation_id="6790" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> certains amendements du Parlement européen <DiscourseConnective annotation_id="6843">en</DiscourseConnective> première lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6186" docOffset="38">
+      <en>Our three institutions have worked hard in recent months to reach an agreement at second reading.</en>
+      <fr>Ces derniers mois, un travail intense a été mené par nos trois institutions <DiscourseConnective annotation_id="6940">afin de</DiscourseConnective> parvenir à un accord <DiscourseConnective annotation_id="6969">en</DiscourseConnective> deuxième lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6284" docOffset="39">
+      <en>Some major improvements were made thanks to amendments by Parliament.</en>
+      <fr>Des améliorations significatives ont été apportées grâce aux amendements du Parlement européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6354" docOffset="40">
+      <en>This has produced a system of fines, <Alignment alignment="7135" annotation_id="6391">
+          <DiscourseConnective annotation_id="6391" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr Leichtfried has just told us, which will allow the Commission to give a tailored response in the event of minor infringements of the safety rules.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7086">Ainsi</DiscourseConnective>, la mise en place d'un système d'amendes - <Alignment alignment="3333" annotation_id="7135">
+          <DiscourseConnective annotation_id="7135" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous venez de le dire, Monsieur le rapporteur - qui donnera à la Commission la possibilité d'apporter une réponse adaptée <DiscourseConnective annotation_id="7263">en</DiscourseConnective> cas d'infraction moins grave aux règles de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6544" docOffset="41">
+      <en>This option is in addition to the withdrawal of certificates and will add flexibility to relations between the Agency and the entities it administers.</en>
+      <fr>C'est une option qui <DiscourseConnective annotation_id="7340">s'</DiscourseConnective>ajoute <DiscourseConnective annotation_id="7349">à</DiscourseConnective> celle du retrait du certificat <DiscourseConnective annotation_id="7382">et</DiscourseConnective> qui apportera plus de souplesse dans les relations entre l'Agence <DiscourseConnective annotation_id="7451">et</DiscourseConnective> ses administrés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6695" docOffset="42">
+      <en>Thanks to the persistence of Parliament, the initial Commission proposal concerning cabin crew attestations was reintroduced.</en>
+      <fr>Grâce <DiscourseConnective annotation_id="7477">à</DiscourseConnective> l'opiniâtreté du Parlement européen, la proposition initiale de la Commission concernant les attestations pour le personnel de cabine a été réintroduite.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6821" docOffset="43">
+      <en>This is a major step forward in acknowledgement of this profession.</en>
+      <fr>C'est une avancée importante <DiscourseConnective annotation_id="7662">pour</DiscourseConnective> la reconnaissance de cette profession.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6889" docOffset="44">
+      <en>The added value of well-trained cabin crew is quite obvious.</en>
+      <fr>La valeur ajoutée d'un personnel de cabine bien formé est évidente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6950" docOffset="45">
+      <en>They have solved delicate situations on a great many occasions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7774">À</DiscourseConnective> plusieurs reprises, cela a permis de gérer des situations délicates.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7014" docOffset="46">
+      <en>Cabin crew perform a major safety function.</en>
+      <fr>Ce personnel de cabine joue un rôle important dans la sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7058" docOffset="47">
+      <en>A pragmatic solution was <Alignment alignment="7936" annotation_id="7083">
+          <DiscourseConnective annotation_id="7083" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> found to flight time limitations.</en>
+      <fr>Une solution pragmatique a <Alignment alignment="20307" annotation_id="7936">
+          <DiscourseConnective annotation_id="7936" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> été trouvée concernant les dérogations au schéma de limitation des temps de vol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7122" docOffset="48">
+      <en>
+        <Alignment alignment="8027" annotation_id="7122">
+          <DiscourseConnective annotation_id="7122" sense="Expansion.Conjunction">Additionally</DiscourseConnective>
+        </Alignment>, in specific discussions on the Agency's budget in relation to fees and charges, the Commission undertook to take account of the specific situation of small and medium-sized enterprises <Alignment alignment="12921" annotation_id="7321">
+          <DiscourseConnective annotation_id="7321" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> reviewing the Regulation on fees and charges, especially the impact on their economic feasibility.</en>
+      <fr>
+        <Alignment alignment="7122" annotation_id="8027">
+          <DiscourseConnective annotation_id="8027" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+        </Alignment>, dans les discussions qui ont eu lieu sur le budget de l'Agence, plus spécifiquement sur les redevances <DiscourseConnective annotation_id="8144">et</DiscourseConnective> les honoraires, la Commission s'est engagée, <Alignment alignment="7321" annotation_id="8192">
+          <DiscourseConnective annotation_id="8192" sense="Temporal.Synchrony">au moment de</DiscourseConnective>
+        </Alignment> réviser le règlement sur les redevances <DiscourseConnective annotation_id="8245">et</DiscourseConnective> honoraires, <DiscourseConnective annotation_id="8260">à</DiscourseConnective> tenir compte de la situation spécifique des petites <DiscourseConnective annotation_id="8314">et</DiscourseConnective> moyennes entreprises, et <DiscourseConnective annotation_id="8342">en particulier</DiscourseConnective> de l'impact sur leur viabilité économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7425" docOffset="49">
+      <en>In relation to the definition of complex aircraft, I feel the compromise is balanced.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8400">Enfin</DiscourseConnective>, sur la définition d'aéronef complexe, le compromis me semble équilibré.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7511" docOffset="50">
+      <en>I understand the concerns of some Members not to overburden certain sectors of the market with requirements.</en>
+      <fr>Je comprends le souci de certains d'entre vous de ne pas faire peser des exigences excessives sur certains secteurs du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7620" docOffset="51">
+      <en>Here the Commission will <DiscourseConnective annotation_id="7645" sense="Expansion.Conjunction">also</DiscourseConnective> assess the economic impact of including aircraft with one or more turbojet engines or turboprops.</en>
+      <fr>Là-aussi, la Commission évaluera l'impact économique de l'inclusion des aéronefs équipés d'un <DiscourseConnective annotation_id="8700">ou</DiscourseConnective> de plusieurs turboréacteurs <DiscourseConnective annotation_id="8731">ou</DiscourseConnective> turbopropulseurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7748" docOffset="52">
+      <en>Concerning possible changes to the system for ultralight aircraft, the Commission will ask the Agency for its opinion on this matter.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8752">Quant à</DiscourseConnective> l'éventuel changement de régime <DiscourseConnective annotation_id="8792">pour</DiscourseConnective> les aéronefs ultralégers, la Commission demandera à l'Agence d'émettre un avis sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7882" docOffset="53">
+      <en>Madam President, ladies and gentlemen, I think I have covered all the major points in the compromise.</en>
+      <fr>Madame la Présidente, Mesdames <DiscourseConnective annotation_id="8927">et</DiscourseConnective> Messieurs les parlementaires, je pense avoir fait le tour des points majeurs qui font l'objet du compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7984" docOffset="54">
+      <en>The Commission can <Alignment alignment="9057" annotation_id="8003">
+          <DiscourseConnective annotation_id="8003" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> easily accommodate these amendments which reflect a negotiated compromise between the three institutions.</en>
+      <fr>La Commission peut <Alignment alignment="8003" annotation_id="9057">
+          <DiscourseConnective annotation_id="9057" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> accueillir sans difficulté les amendements qui reflètent le compromis négocié entre nos trois institutions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8119" docOffset="55">
+      <en>I again thank Parliament and the Council for allowing a rapid second reading.</en>
+      <fr>Je remercie à nouveau le Parlement <DiscourseConnective annotation_id="9205">et</DiscourseConnective> le Conseil d'avoir permis de réaliser une deuxième lecture rapide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8197" docOffset="56">
+      <en>Rapid adoption of this text will <Alignment alignment="14222" annotation_id="8230">
+          <DiscourseConnective annotation_id="8230" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> guarantee the Agency's reserve for the year 2007.</en>
+      <fr>Une adoption rapide de ce texte permettra <Alignment alignment="8230" annotation_id="9317">
+          <DiscourseConnective annotation_id="9317" sense="Expansion.Conjunction">en outre</DiscourseConnective>
+        </Alignment> de garantir la réserve de l'Agence <DiscourseConnective annotation_id="9361">pour</DiscourseConnective> l'année 2007 également.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8285" docOffset="57">
+      <en>
+        <Alignment alignment="9390" annotation_id="8285">
+          <DiscourseConnective annotation_id="8285" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, the last phase of implementation in the EU of a coherent and uniform set of safety rules will be completed with the proposal that I will make to the College in June 2008 on extending the powers of the European Aviation Safety Agency to safety of airport infrastructure, air traffic control and air navigation services.</en>
+      <fr>
+        <Alignment alignment="14715" annotation_id="9390">
+          <DiscourseConnective annotation_id="9390" sense="Contingency.Cause.Result">Ainsi</DiscourseConnective>
+        </Alignment>, la dernière étape vers la mise en place dans la Communauté d'un ensemble cohérent <DiscourseConnective annotation_id="9479">et</DiscourseConnective> uniforme de règles de sécurité sera franchie avec la proposition <DiscourseConnective annotation_id="9547">que</DiscourseConnective> je présenterai au Collège, <DiscourseConnective annotation_id="9578">en</DiscourseConnective> juin 2008, sur l'extension des compétences de l'AESA <DiscourseConnective annotation_id="9634">à</DiscourseConnective> la sécurité des infrastructures aéroportuaires, de la gestion du trafic aérien <DiscourseConnective annotation_id="9715">et</DiscourseConnective> des services de navigation aérienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8610" docOffset="58">
+      <en>
+        <Alignment alignment="9761" annotation_id="8610">
+          <DiscourseConnective annotation_id="8610" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, ladies and gentlemen, thanks to your determination and, I repeat, of your rapporteur in particular, we can move European skies closer to maximum safety.</en>
+      <fr>C'est <Alignment alignment="8610" annotation_id="9761">
+          <DiscourseConnective annotation_id="9761" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment>, Mesdames <DiscourseConnective annotation_id="9777">et</DiscourseConnective> Messieurs les parlementaires, que grâce <DiscourseConnective annotation_id="9820">à</DiscourseConnective> votre détermination <DiscourseConnective annotation_id="9842">et</DiscourseConnective>, je le répète, <DiscourseConnective annotation_id="9860">à</DiscourseConnective> celle de votre rapporteur, nous pourrons faire avancer le ciel européen vers le maximum de sécurité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8774" id="366" name="Zsolt László Becsey">
+    <ParallelChunk annotation_id="8774" docOffset="59">
+      <en>on behalf of the PPE-DE Group. - (HU) Thank you, Madam President.</en>
+      <fr>au nom du groupe PPE-DE. - (HU) Je vous remercie, Madame la Présidente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8840" docOffset="60">
+      <en>I would like to congratulate the rapporteur and shadow rapporteurs on my own behalf too, <DiscourseConnective annotation_id="8929" sense="Expansion.Conjunction">and</DiscourseConnective> I think that perhaps in this way we will manage to close this chapter tomorrow at the second reading.</en>
+      <fr>Je voudrais personnellement féliciter le rapporteur <DiscourseConnective annotation_id="10087">et</DiscourseConnective> les rapporteurs fictifs. Je pense <DiscourseConnective annotation_id="10124">que</DiscourseConnective> nous pourrons peut-être refermer ce chapitre demain <DiscourseConnective annotation_id="10180">en</DiscourseConnective> deuxième lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9035" docOffset="61">
+      <en>To touch briefly upon the compromises for the second reading, which are important for my group: the first is the issue of punishment, which has cropped up many times.</en>
+      <fr>Permettez-moi d'évoquer brièvement les compromis de la deuxième lecture, qui sont importants <DiscourseConnective annotation_id="10294">pour</DiscourseConnective> mon groupe: le premier concerne la question des sanctions, qui a souvent été mise sur le tapis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9202" docOffset="62">
+      <en>The current text has already improved a lot, <DiscourseConnective annotation_id="9247" sense="Expansion.Conjunction">and</DiscourseConnective> I think that there is a lot of protection in it for those concerned.</en>
+      <fr>Le texte actuel a <DiscourseConnective annotation_id="10413">déjà</DiscourseConnective> été considérablement amélioré; je pense <DiscourseConnective annotation_id="10458">qu'</DiscourseConnective>il prévoit beaucoup de protections <DiscourseConnective annotation_id="10496">pour</DiscourseConnective> les parties concernées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9320" docOffset="63">
+      <en>It truly is progress that the licence does not have to be taken away immediately, <DiscourseConnective annotation_id="9402" sense="Expansion.Conjunction">and</DiscourseConnective> I <DiscourseConnective annotation_id="9408" sense="Expansion.Conjunction">also</DiscourseConnective> hope that the built-in system of an appeals authority established by the Commission really will work and not destroy small businesses.</en>
+      <fr>C'est un réel progrès <DiscourseConnective annotation_id="10547">que</DiscourseConnective> la licence ne doive pas être retirée immédiatement. De même, j'espère <DiscourseConnective annotation_id="10621">que</DiscourseConnective> le système intégré d'autorité <DiscourseConnective annotation_id="10655">en</DiscourseConnective> matière d'appel qui a été établi par la Commission fonctionnera vraiment <DiscourseConnective annotation_id="10731">et</DiscourseConnective> ne détruira pas les petites entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9548" docOffset="64">
+      <en>The other big question for my group was tariffs, mainly on the part of the British and Czechs.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10775">Pour</DiscourseConnective> mon groupe, l'autre grande question est celle des tarifs, <DiscourseConnective annotation_id="10838">surtout</DiscourseConnective> <DiscourseConnective annotation_id="10846">pour</DiscourseConnective> les Britanniques <DiscourseConnective annotation_id="10868">et</DiscourseConnective> les Tchèques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9643" docOffset="65">
+      <en>It is still too expensive for small businesses <DiscourseConnective annotation_id="9690" sense="Expansion.Conjunction">and</DiscourseConnective> - I think - my British colleagues will say so, <DiscourseConnective annotation_id="9741" sense="Expansion.Conjunction">and</DiscourseConnective> I <Alignment alignment="11020" annotation_id="9747">
+          <DiscourseConnective annotation_id="9747" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> hope that the obligation, undertaken by the Commission, that we will mention the situation of small businesses even more at the time of the audit, will be noticeable.</en>
+      <fr>Ces tarifs sont <DiscourseConnective annotation_id="10901">encore</DiscourseConnective> trop élevés <DiscourseConnective annotation_id="10920">pour</DiscourseConnective> les petites entreprises, ce que - j'espère - mes collègues britanniques diront <DiscourseConnective annotation_id="11004">aussi</DiscourseConnective>. J'espère <Alignment alignment="8520" annotation_id="11020">
+          <DiscourseConnective annotation_id="11020" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11026">que</DiscourseConnective> nous verrons le respect de l'obligation, contractée par la Commission, de prendre en compte la situation des petites entreprises <DiscourseConnective annotation_id="11159">encore</DiscourseConnective> plus <DiscourseConnective annotation_id="11171">au moment de</DiscourseConnective> l'audit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9919" docOffset="66">
+      <en>I considered the composition of the management authority and management administration to be very important, <DiscourseConnective annotation_id="10028" sense="Expansion.Conjunction">and</DiscourseConnective> Parliament really has been given a role of political control here, which I feel is a very important step forward <Alignment alignment="11407" annotation_id="10145">
+          <Alignment alignment="11407" annotation_id="10145">
+            <DiscourseConnective annotation_id="10145" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the Member States do not send to the administration whatever <Alignment alignment="11486" annotation_id="10214">
+          <DiscourseConnective annotation_id="10214" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> whoever they want.</en>
+      <fr>J'ai jugé très importante la composition de l'autorité de gestion <DiscourseConnective annotation_id="11259">et</DiscourseConnective> de l'administration. Le Parlement a vraiment reçu un rôle de contrôle politique dans ce domaine, ce qui, pour moi, est un progrès très important <Alignment alignment="32111" annotation_id="11407">
+          <Alignment alignment="34622" annotation_id="11407">
+            <DiscourseConnective annotation_id="11407" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> les États membres n'envoient pas <DiscourseConnective annotation_id="11449">à</DiscourseConnective> l'administration ce qu'ils veulent <Alignment alignment="10214" annotation_id="11486">
+          <DiscourseConnective annotation_id="11486" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui ils veulent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10237" docOffset="67">
+      <en>Financial independence is <Alignment alignment="11538" annotation_id="10263">
+          <DiscourseConnective annotation_id="10263" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> important for this authority <DiscourseConnective annotation_id="10297" sense="Contingency.Cause.Result">so that</DiscourseConnective> we can put the revenue into different categories depending on where it was taken from.</en>
+      <fr>L'indépendance financière étant <Alignment alignment="7468" annotation_id="11538">
+          <DiscourseConnective annotation_id="11538" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> importante <DiscourseConnective annotation_id="11559">pour</DiscourseConnective> cette autorité, nous devons pouvoir ranger les recettes dans différentes catégories en fonction de leur provenance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10392" docOffset="68">
+      <en>To summarise, I would <DiscourseConnective annotation_id="10414" sense="Contingency.Cause.Result">therefore</DiscourseConnective> like to congratulate all my colleagues, and to say that I hope the responsibility has filtered through to everyone.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11680">Pour résumer</DiscourseConnective>, je voudrais féliciter tous mes collègues, <DiscourseConnective annotation_id="11736">et</DiscourseConnective> dire mon espoir que chacun finisse par assumer ses responsabilités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10540" docOffset="69">
+      <en>It <DiscourseConnective annotation_id="10543" sense="Expansion.Conjunction">also</DiscourseConnective> shows that by joining forces we have, with the Council, been able to bring the issue of cabin crews back to the original Commission level, <Alignment alignment="12934" annotation_id="10687">
+          <DiscourseConnective annotation_id="10687" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> it shows that we have been able to find a very good compromise on restrictions of flying time. I would like to thank the Council, the Commission and the rapporteur again for their work.</en>
+      <fr>Nous avons montré <DiscourseConnective annotation_id="11825">que</DiscourseConnective>, ensemble et avec le Conseil, nous sommes parvenus à replacer la question du personnel de cabine au niveau initial de la Commission, <Alignment alignment="17809" annotation_id="11962">
+          <DiscourseConnective annotation_id="11962" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11965">que</DiscourseConnective> nous avons pu trouver un très bon compromis sur les restrictions du temps de vol. Je tiens encore une fois <DiscourseConnective annotation_id="12076">à</DiscourseConnective> remercier le Conseil, la Commission <DiscourseConnective annotation_id="12114">et</DiscourseConnective> le rapporteur <DiscourseConnective annotation_id="12131">pour</DiscourseConnective> leur travail.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10877" id="367" name="Inés Ayala Sender">
+    <ParallelChunk annotation_id="10877" docOffset="70">
+      <en>on behalf of the PSE Group. - (ES) Madam President, I wish to congratulate my colleague Jörg Leichtfried on his human qualities and on his ability to make friends in a complex parliamentary confrontation on such a technical issue, but also so vital an issue, in order to ensure safety in such an important sector for European economic development as aviation.</en>
+      <fr>au nom du groupe PSE. - (ES) Madame la Présidente, je souhaite féliciter mon collègue Jörg Leichtfried <DiscourseConnective annotation_id="12253">pour</DiscourseConnective> ses qualifications humaines <DiscourseConnective annotation_id="12286">et</DiscourseConnective> sa capacité <DiscourseConnective annotation_id="12301">à</DiscourseConnective> susciter des amitiés dans le cadre d'une confrontation parlementaire complexe sur une question <DiscourseConnective annotation_id="12398">si</DiscourseConnective> technique <DiscourseConnective annotation_id="12411">mais aussi</DiscourseConnective> <DiscourseConnective annotation_id="12422">si</DiscourseConnective> vitale, une confrontation qui a <DiscourseConnective annotation_id="12457">pour</DiscourseConnective> but d'assurer la sécurité dans l'aviation, un secteur très important <DiscourseConnective annotation_id="12531">pour</DiscourseConnective> le développement économique européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11237" docOffset="71">
+      <en>I <Alignment alignment="12586" annotation_id="11239">
+          <DiscourseConnective annotation_id="11239" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> wish to state my satisfaction at the progress made in relation to safety, a difficult and complex issue <Alignment alignment="12707" annotation_id="11348">
+          <DiscourseConnective annotation_id="11348" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> ever there were one, with some areas that are totally clear, <Alignment alignment="12765" annotation_id="11412">
+          <DiscourseConnective annotation_id="11412" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> today's report shows, and others rather darker, <Alignment alignment="12821" annotation_id="11463">
+          <DiscourseConnective annotation_id="11463" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> I prefer not to say which areas occur to me.</en>
+      <fr>Je voudrais <Alignment alignment="11239" annotation_id="12586">
+          <DiscourseConnective annotation_id="12586" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> exprimer ma satisfaction devant les progrès accomplis <DiscourseConnective annotation_id="12650">en</DiscourseConnective> matière de sécurité, un domaine difficile <DiscourseConnective annotation_id="12695">et</DiscourseConnective> complexe <Alignment alignment="11348" annotation_id="12707">
+          <DiscourseConnective annotation_id="12707" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il en est. Certains aspects <DiscourseConnective annotation_id="12737">en</DiscourseConnective> sont tout à fait clairs, <Alignment alignment="11412" annotation_id="12765">
+          <DiscourseConnective annotation_id="12765" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le montre ce rapport, <DiscourseConnective annotation_id="12793">et</DiscourseConnective> d'autres <DiscourseConnective annotation_id="12805">plutôt</DiscourseConnective> obscurs, <Alignment alignment="11463" annotation_id="12821">
+          <DiscourseConnective annotation_id="12821" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je préfère ne pas préciser lesquels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11517" docOffset="72">
+      <en>Today we have certainly taken another stride towards finalising a long and complicated process, at least part of which began many years ago with the transfer of JAR-OPS requirements to EU-OPS requirements; I refer <Alignment alignment="13102" annotation_id="11731">
+          <Alignment alignment="13102" annotation_id="11731">
+            <DiscourseConnective annotation_id="11731" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment> to the progress made concerning rest and flight time.</en>
+      <fr>Aujourd'hui, nous avons certainement accompli <DiscourseConnective annotation_id="12909">encore</DiscourseConnective> un grand pas vers l'achèvement d'un processus long <DiscourseConnective annotation_id="12967">et</DiscourseConnective> compliqué, qui a commencé <DiscourseConnective annotation_id="12996">en</DiscourseConnective> partie voici de nombreuses années avec le passage des exigences JAR-OPS aux exigences EU-OPS; je pense <Alignment alignment="18495" annotation_id="13102">
+          <Alignment alignment="11731" annotation_id="13102">
+            <DiscourseConnective annotation_id="13102" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment> aux progrès réalisés concernant le temps de repos <DiscourseConnective annotation_id="13167">et</DiscourseConnective> <DiscourseConnective annotation_id="13170">le temps de</DiscourseConnective> vol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11799" docOffset="73">
+      <en>At that time both Parliament and the Commission committed ourselves to charging the Agency with moving forward on an issue which, <Alignment alignment="13318" annotation_id="11929">
+          <DiscourseConnective annotation_id="11929" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> difficult, ultimately filled an inexplicable gap and, at that particular time, required updating.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13187">À</DiscourseConnective> cette époque, au Parlement <DiscourseConnective annotation_id="13216">et</DiscourseConnective> à la Commission, nous nous étions engagés <DiscourseConnective annotation_id="13261">à</DiscourseConnective> charger l'Agence de faire progresser une question qui, <Alignment alignment="11929" annotation_id="13318">
+          <DiscourseConnective annotation_id="13318" sense="Comparison.Contrast">bien que</DiscourseConnective>
+        </Alignment> difficile, allait combler un vide inexplicable <DiscourseConnective annotation_id="13374">et</DiscourseConnective>, <DiscourseConnective annotation_id="13378">à</DiscourseConnective> ce moment précis, nécessitait une actualisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12034" docOffset="74">
+      <en>
+        <Alignment alignment="13443" annotation_id="12034">
+          <DiscourseConnective annotation_id="12034" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment> I am pleased that those involved were able to accept this commitment, which I feel was important and was what Parliament was bound to do.</en>
+      <fr>Je me réjouis <Alignment alignment="9275" annotation_id="13443">
+          <DiscourseConnective annotation_id="13443" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="13448">que</DiscourseConnective> les parties concernées aient pu accepter cet engagement qui, selon moi, était important <DiscourseConnective annotation_id="13540">et</DiscourseConnective> représentait une obligation du Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12177" docOffset="75">
+      <en>All in all, I feel these issues will have to be reviewed following the study <Alignment alignment="13690" annotation_id="12254">
+          <DiscourseConnective annotation_id="12254" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the proposals now being drawn up by the Commission on the situation of the aviation sector in terms of social and employment issues, an important concern.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13585">Tout bien considéré</DiscourseConnective>, je crois que ces questions devront être réexaminées <DiscourseConnective annotation_id="13658">après</DiscourseConnective> la publication de l'étude <Alignment alignment="12254" annotation_id="13690">
+          <DiscourseConnective annotation_id="13690" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> des propositions que la Commission élabore pour l'instant concernant la situation sociale <DiscourseConnective annotation_id="13783">et</DiscourseConnective> de l'emploi du secteur de l'aviation, un thème important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12413" docOffset="76">
+      <en>I am <Alignment alignment="13858" annotation_id="12418">
+          <DiscourseConnective annotation_id="12418" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> very pleased at the agreement on cabin crew, whose professionalism and certification must be recognised.</en>
+      <fr>Je me réjouis <Alignment alignment="19864" annotation_id="13858">
+          <DiscourseConnective annotation_id="13858" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> de l'accord sur le personnel de cabine, dont il faut reconnaître le professionnalisme <DiscourseConnective annotation_id="13950">et</DiscourseConnective> la certification.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12528" docOffset="77">
+      <en>
+        <Alignment alignment="13971" annotation_id="12528">
+          <DiscourseConnective annotation_id="12528" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> the Commissioner rightly said, it is in everyone's interest from the point of view of safety for training to be improved.</en>
+      <fr>
+        <Alignment alignment="6317" annotation_id="13971">
+          <DiscourseConnective annotation_id="13971" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> le commissaire l'a dit à juste titre, du point de vue de la sécurité, tout le monde a intérêt <DiscourseConnective annotation_id="14071">à</DiscourseConnective> ce que l'on améliore la formation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12653" docOffset="78">
+      <en>I am <Alignment alignment="14108" annotation_id="12658">
+          <DiscourseConnective annotation_id="12658" sense="Expansion.Conjunction">likewise</DiscourseConnective>
+        </Alignment> very pleased at the positive outcome of the definition of helicopters, which at one point had created cause for concern in the production sector.</en>
+      <fr>
+        <Alignment alignment="18200" annotation_id="14108">
+          <DiscourseConnective annotation_id="14108" sense="Expansion.Conjunction">De même</DiscourseConnective>
+        </Alignment>, je me félicite du <DiscourseConnective annotation_id="14135">résultat</DiscourseConnective> positif atteint concernant la définition des hélicoptères, un sujet qui avait <DiscourseConnective annotation_id="14222">à</DiscourseConnective> un moment suscité des préoccupations dans le secteur de la production.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12813" docOffset="79">
+      <en>I <Alignment alignment="14304" annotation_id="12815">
+          <DiscourseConnective annotation_id="12815" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> feel the solutions provided on penalties are extremely important, as <Alignment alignment="14360" annotation_id="12889">
+          <DiscourseConnective annotation_id="12889" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> Parliament's control not only in relation to comitology, in the case of flight time, but also in relation to the right to information, in the case of the Management Board.</en>
+      <fr>Je pense <Alignment alignment="9173" annotation_id="14304">
+          <DiscourseConnective annotation_id="14304" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> que les solutions trouvées au sujet des sanctions <Alignment alignment="18229" annotation_id="14360">
+          <DiscourseConnective annotation_id="14360" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> du contrôle du Parlement sont extrêmement importantes, concernant <DiscourseConnective annotation_id="14429">non seulement</DiscourseConnective> la comitologie, dans le cas du temps de vol, <DiscourseConnective annotation_id="14488">mais aussi</DiscourseConnective> le droit d'information, dans le cas du conseil d'administration.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13066" docOffset="80">
+      <en>I wish to congratulate the rapporteur on his flexibility and clarity in connection with the Agency's budget, since, as a member of the Committee on Budgetary Control, I feel it is essential for this kind of Agency.</en>
+      <fr>Je souhaite féliciter le rapporteur <DiscourseConnective annotation_id="14600">pour</DiscourseConnective> la souplesse <DiscourseConnective annotation_id="14618">et</DiscourseConnective> la clarté qu'il a démontrées concernant le budget de l'Agence. <DiscourseConnective annotation_id="14684">En effet</DiscourseConnective>, en <DiscourseConnective annotation_id="14697">tant que</DiscourseConnective> membre de la commission du contrôle budgétaire, j'estime que ces qualités sont essentielles <DiscourseConnective annotation_id="14798">pour</DiscourseConnective> ce type d'agence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13281" docOffset="81">
+      <en>To end, I wish to express the hope that the Agency can develop without clashing with Eurocontrol.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14821">Pour conclure</DiscourseConnective>, je voudrais exprimer mon espoir <DiscourseConnective annotation_id="14868">que</DiscourseConnective> l'Agence puisse se développer <DiscourseConnective annotation_id="14902">sans</DiscourseConnective> conflit avec Eurocontrol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13379" docOffset="82">
+      <en>In my opinion European and worldwide aviation safety needs both bodies, <DiscourseConnective annotation_id="13451" sense="Expansion.Conjunction">and</DiscourseConnective> it needs both to be equally effective.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14933">À</DiscourseConnective> mon sens, la sécurité aérienne en Europe <DiscourseConnective annotation_id="14976">et</DiscourseConnective> dans le monde entier a besoin de ces deux organismes, qui doivent tous deux être <DiscourseConnective annotation_id="15060">également</DiscourseConnective> efficaces.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13494" id="368" name="Arūnas Degutis">
+    <ParallelChunk annotation_id="13494" docOffset="83">
+      <en>on behalf of the ALDE Group. - (LT) My thanks to the rapporteur <Alignment alignment="15137" annotation_id="13558">
+          <DiscourseConnective annotation_id="13558" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> shadow rapporteurs, the Commission and the Council.</en>
+      <fr>au nom du groupe ALDE. - (LT) Je remercie le rapporteur <Alignment alignment="15279" annotation_id="15137">
+          <DiscourseConnective annotation_id="15137" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les rapporteurs fictifs, la Commission <DiscourseConnective annotation_id="15179">et</DiscourseConnective> le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13614" docOffset="84">
+      <en>I have found this subject <Alignment alignment="15215" annotation_id="13640">
+          <DiscourseConnective annotation_id="13640" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> all the work done on it not only interesting, but also useful.</en>
+      <fr>J'ai trouvé ce thème <Alignment alignment="7719" annotation_id="15215">
+          <DiscourseConnective annotation_id="15215" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> tout le travail qu'il a suscité <DiscourseConnective annotation_id="15250">non seulement</DiscourseConnective> intéressants <DiscourseConnective annotation_id="15277">mais aussi</DiscourseConnective> très utiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13707" docOffset="85">
+      <en>Despite the fact that after lengthy discussions an acceptable compromise has been achieved on nearly all issues, the Commission's position regarding the classification of aircraft types up to 7 500 kg according to weight gives cause for concern.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15301">Malgré le fait que</DiscourseConnective>, <DiscourseConnective annotation_id="15321">après</DiscourseConnective> de longues discussions, un compromis acceptable a été atteint sur presque tous les points, la position de la Commission concernant la classification des types d'aéronefs <DiscourseConnective annotation_id="15497">jusqu'à</DiscourseConnective> 7 500 kg selon le poids suscite des préoccupations. Le commissaire en a brièvement parlé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13953" docOffset="86">
+      <en>The Commissioner has briefly touched upon the subject.</en>
+      <fr>Ce sujet apparemment très technique revêt une grande importance pour l'industrie de l'aviation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14008" docOffset="87">
+      <en>This apparently very technical subject is of great importance to the aviation industry and happens to be very complex; <Alignment alignment="15725" annotation_id="14127">
+          <DiscourseConnective annotation_id="14127" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, it would have a significant impact on the development of new technologies and their implementation in the aviation industry.</en>
+      <fr>Il s'avère très complexe. Il aura <Alignment alignment="14127" annotation_id="15725">
+          <DiscourseConnective annotation_id="15725" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> un impact considérable sur le développement de nouvelles technologies <DiscourseConnective annotation_id="15800">et</DiscourseConnective> leur mise en œuvre dans l'industrie de l'aviation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14263" docOffset="88">
+      <en>Unfortunately, discussions on this directive have been used not for the first time, to my understanding, to promote internal competition without much consideration being given to the damage caused to the whole of the European Union in terms of outside competition.</en>
+      <fr>
+        <DiscourseConnective annotation_id="15854">Malheureusement</DiscourseConnective>, les discussions sur cette directive ont servi - et ce n'est pas la première fois, <DiscourseConnective annotation_id="15953">à</DiscourseConnective> mon avis - <DiscourseConnective annotation_id="15966">à</DiscourseConnective> promouvoir la concurrence interne <DiscourseConnective annotation_id="16002">sans</DiscourseConnective> guère accorder de considération aux dommages causés <DiscourseConnective annotation_id="16059">à</DiscourseConnective> l'ensemble de l'Union européenne <DiscourseConnective annotation_id="16094">en</DiscourseConnective> termes de concurrence externe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14528" docOffset="89">
+      <en>I have in mind competition with the United States, Brazil and possibly very soon with China.</en>
+      <fr>Je pense notamment <DiscourseConnective annotation_id="16147">à</DiscourseConnective> la concurrence avec les États-Unis, le Brésil <DiscourseConnective annotation_id="16195">et</DiscourseConnective>, peut-être d'ici peu, avec la Chine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14621" docOffset="90">
+      <en>Personally I am disappointed with the Commissioner's position on this issue.</en>
+      <fr>À titre personnel, je suis déçu par la position du commissaire sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14698" docOffset="91">
+      <en>To some extent I can appreciate the positions of Individual Member States being protected in the European Council.</en>
+      <fr>Je peux comprendre dans une certaine mesure les positions de certains États membres qui sont protégés au Conseil européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14813" docOffset="92">
+      <en>
+        <Alignment alignment="16441" annotation_id="14813">
+          <DiscourseConnective annotation_id="14813" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the European Commission should not have considered this issue from the narrow point of view of the corporate interests of individual countries.</en>
+      <fr>
+        <Alignment alignment="14462" annotation_id="16441">
+          <DiscourseConnective annotation_id="16441" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, la Commission européenne n'aurait pas dû considérer cette question du point de vue étroit des intérêts commerciaux de pays précis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14966" docOffset="93">
+      <en>The benefits for the Union and possible harm caused by the implementation of such decisions should have been given serious consideration.</en>
+      <fr>Les bénéfices <DiscourseConnective annotation_id="16597">pour</DiscourseConnective> l'Union <DiscourseConnective annotation_id="16610">et</DiscourseConnective> les éventuels effets négatifs de la mise en œuvre de telles décisions auraient dû être pris sérieusement en considération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15104" docOffset="94">
+      <en>In order to avoid bureaucracy, small companies and individual aircraft owners would be forced to use single-engine aircraft produced using obsolete technologies instead of modern twin-engine ones with modern jet technology.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16736">Afin d'</DiscourseConnective>éviter la bureaucratie, les petites entreprises <DiscourseConnective annotation_id="16791">et</DiscourseConnective> les propriétaires individuels d'aéronefs seraient obligés d'employer des aéronefs monomoteurs produits au moyen de technologies obsolètes, <DiscourseConnective annotation_id="16933">au lieu d'</DiscourseConnective>appareils bimoteurs dotés de technologies à réaction modernes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15328" docOffset="95">
+      <en>The worst thing about it is the fact that this decision has been made under the disguise of aviation safety.</en>
+      <fr>Le pire, c'est <DiscourseConnective annotation_id="17021">que</DiscourseConnective> cette décision a été prise sous couvert de la sécurité aérienne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15437" docOffset="96">
+      <en>Who has ever heard of a single-engine aircraft being safer than a twin-engine one?</en>
+      <fr>Qui oserait dire qu'un aéronef monomoteur est plus sûr <DiscourseConnective annotation_id="17145">qu'</DiscourseConnective>un appareil bimoteur?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15520" docOffset="97">
+      <en>Regretfully, this is the understanding of aviation safety shared by the Council and, alas, the Commission today.</en>
+      <fr>Telle est <DiscourseConnective annotation_id="17180">malheureusement</DiscourseConnective> la conception de la sécurité aérienne prônée aujourd'hui par le Conseil <DiscourseConnective annotation_id="17268">et</DiscourseConnective> hélas! la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15633" docOffset="98">
+      <en>Today I am not afraid to sound very categorical <Alignment alignment="17354" annotation_id="15681">
+          <DiscourseConnective annotation_id="15681" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment>, as a pilot myself, I know what I am talking about.</en>
+      <fr>Aujourd'hui, je n'ai pas peur d'avoir l'air très catégorique <Alignment alignment="18707" annotation_id="17354">
+          <DiscourseConnective annotation_id="17354" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment>, étant moi-même pilote, je sais de quoi je parle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15741" docOffset="99">
+      <en>I am interested not in the declarative, departmental side of the issue, but merely the practical side.</en>
+      <fr>Ce qui m'intéresse, ce n'est pas le côté administratif de la question, <DiscourseConnective annotation_id="17485">mais</DiscourseConnective> ses aspects pratiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15844" docOffset="100">
+      <en>I am sure it will not be long <DiscourseConnective annotation_id="15874" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective> we start to feel the consequences of this, to my true belief, very wrong position and will <DiscourseConnective annotation_id="15972" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> unavoidably have to declare the names of its creators to the aviation community.</en>
+      <fr>Je suis convaincu que nous commencerons <DiscourseConnective annotation_id="17553">à</DiscourseConnective> voir d'ici peu les conséquences de cette position qui, <DiscourseConnective annotation_id="17610">à</DiscourseConnective> mon avis, est complètement erronée. À ce moment, nous devrons immanquablement donner <DiscourseConnective annotation_id="17697">à</DiscourseConnective> la communauté de l'aviation les noms des personnes à l'origine de cette position.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16058" docOffset="101">
+      <en>
+        <Alignment alignment="17781" annotation_id="16058">
+          <DiscourseConnective annotation_id="16058" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, I believe in the efficiency of the Aviation Safety Agency and in its position enough to be prepared to undertake another study with a view to assessing these conclusions and perhaps negating them.</en>
+      <fr>
+        <Alignment alignment="16058" annotation_id="17781">
+          <DiscourseConnective annotation_id="17781" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, j'ai suffisamment foi dans l'efficacité de l'Agence de la sécurité aérienne <DiscourseConnective annotation_id="17868">et</DiscourseConnective> dans sa position <DiscourseConnective annotation_id="17888">pour</DiscourseConnective> être prêt <DiscourseConnective annotation_id="17903">à</DiscourseConnective> entreprendre une autre étude <DiscourseConnective annotation_id="17934">dans le but d'</DiscourseConnective>évaluer ces conclusions <DiscourseConnective annotation_id="17972">et</DiscourseConnective>, peut-être, de les réfuter.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16269" id="369" name="Mieczysław Edmund Janowski">
+    <ParallelChunk annotation_id="16269" docOffset="102">
+      <en>on behalf of the UEN Group. - (PL) Madam President, Mr Leichtfried has done excellent work on the task with which he was entrusted.</en>
+      <fr>au nom du groupe UEN. - (PL) Madame la Présidente, M. Leichtfried a fait de l'excellent travail dans le cadre de la tâche qui lui avait été assignée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16401" docOffset="103">
+      <en>I should <Alignment alignment="18162" annotation_id="16410">
+          <DiscourseConnective annotation_id="16410" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like to offer him my personal congratulations and those of the Union for Europe of the Nations Group.</en>
+      <fr>Je tiens <Alignment alignment="16410" annotation_id="18162">
+          <DiscourseConnective annotation_id="18162" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="18167">à</DiscourseConnective> lui présenter des félicitations à titre personnel <DiscourseConnective annotation_id="18219">et</DiscourseConnective> au nom du groupe de l'Union <DiscourseConnective annotation_id="18250">pour</DiscourseConnective> l'Europe des nations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16522" docOffset="104">
+      <en>Sensible compromise should allow us to finalise work on the rules relating to civil aviation in the Union and the safety of air transport.</en>
+      <fr>Un compromis sensé devrait nous permettre d'achever le travail sur les règles relatives <DiscourseConnective annotation_id="18365">à</DiscourseConnective> l'aviation civile dans l'Union <DiscourseConnective annotation_id="18398">et</DiscourseConnective> à la sécurité du transport aérien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16661" docOffset="105">
+      <en>Air transport operations, licences, training, crew and aircraft of countries outside the Union are <Alignment alignment="18554" annotation_id="16760">
+          <DiscourseConnective annotation_id="16760" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> affected.</en>
+      <fr>Les activités, licences, formations, personnels <DiscourseConnective annotation_id="18484">et</DiscourseConnective> aéronefs des transports aériens des pays extérieurs à l'Union sont <Alignment alignment="5294" annotation_id="18554">
+          <DiscourseConnective annotation_id="18554" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16775" docOffset="106">
+      <en>The work we are today involved in is a continuation of the initial 2002 Regulation.</en>
+      <fr>Le travail qui nous occupe aujourd'hui est la continuation du règlement initial de 2002.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16859" docOffset="107">
+      <en>In my view, we are dealing with a sensible expansion of the competences of the European Aviation Safety Agency (EASA) and improving many financial and management procedures.</en>
+      <fr>Selon moi, nous avons affaire <DiscourseConnective annotation_id="18694">à</DiscourseConnective> une expansion considérable des compétences de l'Agence européenne de la sécurité aérienne (AESA) <DiscourseConnective annotation_id="18793">et</DiscourseConnective> à l'amélioration de nombreuses procédures financières <DiscourseConnective annotation_id="18850">et</DiscourseConnective> de gestion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17033" docOffset="108">
+      <en>The question as to whether this is necessary and useful is bound to arise in such a situation.</en>
+      <fr>Dans une telle situation, la question de savoir <DiscourseConnective annotation_id="18913">si</DiscourseConnective> ces mesures sont nécessaires <DiscourseConnective annotation_id="18945">et</DiscourseConnective> utiles va forcément se poser.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17128" docOffset="109">
+      <en>The answer has to be yes, in view of the dramatic increase in aircraft movements over Europe and the need to coordinate connections whilst retaining maximum safety levels.</en>
+      <fr>La réponse doit être affirmative, <DiscourseConnective annotation_id="19012">si</DiscourseConnective> l'on considère la forte augmentation des mouvements d'aéronefs au-dessus de l'Europe <DiscourseConnective annotation_id="19100">et</DiscourseConnective> la nécessité de coordonner les correspondances <DiscourseConnective annotation_id="19150">tout en</DiscourseConnective> conservant un niveau maximal de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17300" docOffset="110">
+      <en>These unifying measures do not really involve restricting the sovereignty of Member States.</en>
+      <fr>Ces mesures d'harmonisation ne représentent pas nécessairement une réduction de la souveraineté des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17392" docOffset="111">
+      <en>
+        <Alignment alignment="23551" annotation_id="17392">
+          <DiscourseConnective annotation_id="17392" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>
+        </Alignment>, they amount to an acceptance by these countries of the highest possible standards in the field of civil aviation.</en>
+      <fr>Elles reviennent <Alignment alignment="17392" annotation_id="19332">
+          <DiscourseConnective annotation_id="19332" sense="Expansion.Alternative.Chosen alternative">plutôt</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="19339">à</DiscourseConnective> l'acceptation par ces pays des normes les plus élevées dans le domaine de l'aviation civile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17515" docOffset="112">
+      <en>Safety in terms of all stages of the flight itself and <Alignment alignment="30618" annotation_id="17570">
+          <DiscourseConnective annotation_id="17570" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> of conditions at airports has to be deemed a priority and must not be allowed to be the subject of conflicts of competence with national authorities.</en>
+      <fr>La sécurité à assurer à tous les stades du vol à proprement parler <Alignment alignment="17570" annotation_id="19501">
+          <DiscourseConnective annotation_id="19501" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+        </Alignment> dans les aéroports doit être considérée comme une priorité <DiscourseConnective annotation_id="19571">et</DiscourseConnective> ne peut faire l'objet de conflit de compétences avec les autorités nationales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17725" docOffset="113">
+      <en>I <Alignment alignment="19662" annotation_id="17727">
+          <DiscourseConnective annotation_id="17727" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> anticipate that the competence of the European Agency will be broadened to include matters currently dealt with by Eurocontrol.</en>
+      <fr>Je crois <Alignment alignment="17727" annotation_id="19662">
+          <DiscourseConnective annotation_id="19662" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="19668">que</DiscourseConnective> la compétence de l'Agence européenne sera élargie <DiscourseConnective annotation_id="19722">à</DiscourseConnective> certaines matières actuellement couvertes par Eurocontrol.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17860" docOffset="114">
+      <en>There is <Alignment alignment="19792" annotation_id="17869">
+          <DiscourseConnective annotation_id="17869" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> no need for a proliferation of standards.</en>
+      <fr>Il n'est <Alignment alignment="7442" annotation_id="19792">
+          <DiscourseConnective annotation_id="19792" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas utile de voir une prolifération des normes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17921" docOffset="115">
+      <en>In this context, including third-country aircraft in the scope of EASA actions is particularly important.</en>
+      <fr>Dans ce contexte, l'inclusion des aéronefs des pays tiers dans le champ d'action des activités de l'AESA prend une importance toute particulière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18027" docOffset="116">
+      <en>It will allow checks to be made to establish ex-ante whether an operator from a specific country meets safety standards <Alignment alignment="20145" annotation_id="18147">
+          <DiscourseConnective annotation_id="18147" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> being authorised to fly within the Union or to fly into the Union from outside.</en>
+      <fr>Grâce à cette mesure, les vérifications <DiscourseConnective annotation_id="20031">à</DiscourseConnective> effectuer permettront d'établir au préalable <DiscourseConnective annotation_id="20078">si</DiscourseConnective> un opérateur d'un pays spécifique répond aux normes de sécurité <Alignment alignment="18147" annotation_id="20145">
+          <DiscourseConnective annotation_id="20145" sense="Temporal.Asynchronous.Precedence">avant d'</DiscourseConnective>
+        </Alignment>être autorisé <DiscourseConnective annotation_id="20167">à</DiscourseConnective> voler à l'intérieur de l'Union <DiscourseConnective annotation_id="20200">ou</DiscourseConnective> <DiscourseConnective annotation_id="20203">à</DiscourseConnective> pénétrer dans l'espace aérien de l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18234" docOffset="117">
+      <en>The Convention on International Civil Aviation signed in Chicago on 7 December 1944 plays a key role in this area.</en>
+      <fr>La convention relative à l'aviation civile internationale, signée <DiscourseConnective annotation_id="20313">à</DiscourseConnective> Chicago le 7 décembre 1944, joue un rôle clé dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18349" docOffset="118">
+      <en>
+        <DiscourseConnective annotation_id="18349" sense="Expansion.Conjunction">Indeed</DiscourseConnective>, we marked its anniversary only four days ago <Alignment alignment="20441" annotation_id="18402">
+          <DiscourseConnective annotation_id="18402" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we celebrated International Civil Aviation Day.</en>
+      <fr>Nous en avons marqué l'anniversaire voici à peine quatre jours, <Alignment alignment="18402" annotation_id="20441">
+          <DiscourseConnective annotation_id="20441" sense="Temporal.Synchrony">au moment de</DiscourseConnective>
+        </Alignment> célébrer la Journée de l'aviation civile internationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18455" docOffset="119">
+      <en>I would remind the House that the 2007 slogan for this day was: 'Global Air Transport - a driver of sustainable economic, social and cultural development'.</en>
+      <fr>Je voudrais rappeler à notre Parlement <DiscourseConnective annotation_id="20550">que</DiscourseConnective> le slogan de l'édition 2007 de cette journée était: "Le travail aérien mondial - moteur de développement durable sur les plans économique, social <DiscourseConnective annotation_id="20700">et</DiscourseConnective> culturel".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18611" docOffset="120">
+      <en>I trust that it will not be long <DiscourseConnective annotation_id="18644" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective> the EASA assumes a role within the ICAO (International Civil Aviation Organization), which is a UN body dealing with issues pertaining to aviation at global level.</en>
+      <fr>Je suis convaincu <DiscourseConnective annotation_id="20732">que</DiscourseConnective> nous verrons d'ici peu l'AESA assumer un rôle au sein de l'OACI (Organisation de l'aviation civile internationale), un organisme de l'ONU qui traite des questions relatives <DiscourseConnective annotation_id="20909">à</DiscourseConnective> l'aviation au niveau mondial.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18815" docOffset="121">
+      <en>After all, this is a problem affecting the entire world.</en>
+      <fr>Nous parlons <DiscourseConnective annotation_id="20954">en effet</DiscourseConnective> d'un problème qui concerne le monde entier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18872" docOffset="122">
+      <en>The issue of fees and charges requires clarification.</en>
+      <fr>La question des honoraires <DiscourseConnective annotation_id="21034">et</DiscourseConnective> redevances appelle des éclaircissements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18926" docOffset="123">
+      <en>I very much hope that the Commission will take account of the interests of small and medium-sized enterprises in this regard.</en>
+      <fr>J'espère beaucoup <DiscourseConnective annotation_id="21096">que</DiscourseConnective> la Commission tiendra compte des intérêts des petites <DiscourseConnective annotation_id="21154">et</DiscourseConnective> moyennes entreprises <DiscourseConnective annotation_id="21178">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19052" docOffset="124">
+      <en>The Member from Hungary has already spoken to this effect.</en>
+      <fr>Notre collègue député de Hongrie s'est <DiscourseConnective annotation_id="21230">déjà</DiscourseConnective> exprimé <DiscourseConnective annotation_id="21243">à</DiscourseConnective> cet effet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19111" docOffset="125">
+      <en>We are dealing with a very important issue that will benefit our citizens.</en>
+      <fr>Nous avons affaire <DiscourseConnective annotation_id="21275">à</DiscourseConnective> une question très importante qui bénéficiera à nos citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19186" docOffset="126">
+      <en>We <Alignment alignment="21349" annotation_id="19189">
+          <DiscourseConnective annotation_id="19189" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> trust this venture will be crowned with success.</en>
+      <fr>Nous avons <Alignment alignment="19189" annotation_id="21349">
+          <DiscourseConnective annotation_id="21349" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> bon espoir que cette initiative sera couronnée de succès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19248" docOffset="127">
+      <en>
+        <Alignment alignment="67574" annotation_id="19248">
+          <Alignment alignment="21412" annotation_id="19248">
+            <DiscourseConnective annotation_id="19248" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, we hope the details of its implementation will not prove irritating to passengers <DiscourseConnective annotation_id="19343" sense="Temporal.Synchrony">as</DiscourseConnective> is unfortunately sometimes the case in such situations.</en>
+      <fr>
+        <Alignment alignment="19248" annotation_id="21412">
+          <Alignment alignment="18383" annotation_id="21412">
+            <DiscourseConnective annotation_id="21412" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+          </Alignment>
+        </Alignment>, nous espérons que les détails de sa mise en œuvre ne se révéleront pas dérangeants <DiscourseConnective annotation_id="21504">pour</DiscourseConnective> les passagers, ce qui <DiscourseConnective annotation_id="21531">malheureusement</DiscourseConnective> arrive parfois dans de telles situations.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19402" id="370" name="Eva Lichtenberger">
+    <ParallelChunk annotation_id="19402" docOffset="128">
+      <en>on behalf of the Verts/ALE Group. - (DE) Madam President, I would <Alignment alignment="21663" annotation_id="19468">
+          <DiscourseConnective annotation_id="19468" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to begin my speech with a word of thanks to the rapporteur, Mr Leichtfried.</en>
+      <fr>au nom du groupe des Verts/ALE. - (DE) Madame la Présidente, je tiens moi <Alignment alignment="35801" annotation_id="21663">
+          <DiscourseConnective annotation_id="21663" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="21669">à</DiscourseConnective> commencer mon intervention par un mot de remerciement au rapporteur, M. Leichtfried.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19554" docOffset="129">
+      <en>He cooperated closely with us and always kept us informed.</en>
+      <fr>Celui-ci a étroitement coopéré avec nous <DiscourseConnective annotation_id="21797">et</DiscourseConnective> nous a toujours gardés informés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19613" docOffset="130">
+      <en>That was a good starting point, for the subject was not the purely technical and administrative matter it might seem at first sight.</en>
+      <fr>Cette attitude était une bonne façon de commencer <DiscourseConnective annotation_id="21883">car</DiscourseConnective> le sujet n'était pas purement technique <DiscourseConnective annotation_id="21927">et</DiscourseConnective> administratif, comme il pourrait sembler <DiscourseConnective annotation_id="21971">à</DiscourseConnective> première vue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19746" docOffset="131">
+      <en>It ultimately became very clear that, <Alignment alignment="22040" annotation_id="19784">
+          <DiscourseConnective annotation_id="19784" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> is so often the case, this was a struggle involving numerous competing interests.</en>
+      <fr>Il est d'ailleurs <DiscourseConnective annotation_id="22005">finalement</DiscourseConnective> apparu très clairement, <Alignment alignment="19784" annotation_id="22040">
+          <DiscourseConnective annotation_id="22040" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> c'est <DiscourseConnective annotation_id="22052">si</DiscourseConnective> souvent le cas, qu'il s'agissait d'une lutte impliquant de nombreux intérêts rivaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19869" docOffset="132">
+      <en>Let me deal now with the individual points.</en>
+      <fr>Permettez-moi à présent d'aborder chaque point de façon individuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19913" docOffset="133">
+      <en>I believe - and I hope this reflects a widespread conviction - that a single airspace needs strict and uniform supervision.</en>
+      <fr>Je crois - <DiscourseConnective annotation_id="22221">et</DiscourseConnective> je pense que ma conviction est partagée par beaucoup - <DiscourseConnective annotation_id="22279">qu'</DiscourseConnective>un espace aérien unique nécessite une supervision stricte <DiscourseConnective annotation_id="22340">et</DiscourseConnective> uniforme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20037" docOffset="134">
+      <en>Divergent investigation standards must become a thing of the past, <DiscourseConnective annotation_id="20104" sense="Expansion.Conjunction">and</DiscourseConnective> at the end of the day we must have an instrument - an instrument with teeth - to properly implement and enforce the blacklisting rules for aircraft based outside as well as inside the European Economic Area.</en>
+      <fr>Les normes d'enquête divergentes doivent être reléguées au passé; <DiscourseConnective annotation_id="22419">en fin de compte</DiscourseConnective>, nous devrons disposer d'un instrument - un instrument puissant - qui nous permette de correctement mettre en œuvre <DiscourseConnective annotation_id="22552">et</DiscourseConnective> imposer les règles relatives aux listes noires <DiscourseConnective annotation_id="22602">pour</DiscourseConnective> les aéronefs qui ont leur base tant à l'intérieur qu'à l'extérieur de l'Espace économique européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20316" docOffset="135">
+      <en>We learned at a hearing that blacklisted aircraft cause far more accidents than all the others.</en>
+      <fr>Lors d'une audition, nous avons appris <DiscourseConnective annotation_id="22746">que</DiscourseConnective> les aéronefs mis sur liste noire causent beaucoup plus d'accidents <DiscourseConnective annotation_id="22817">que</DiscourseConnective> tous les autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20412" docOffset="136">
+      <en>It is, <Alignment alignment="22838" annotation_id="20419">
+          <DiscourseConnective annotation_id="20419" sense="Expansion.Restatement">in short</DiscourseConnective>
+        </Alignment>, clearly apparent that European rules make very good sense.</en>
+      <fr>
+        <Alignment alignment="29672" annotation_id="22838">
+          <DiscourseConnective annotation_id="22838" sense="Expansion.Restatement">Bref</DiscourseConnective>
+        </Alignment>, il est très clair <DiscourseConnective annotation_id="22862">que</DiscourseConnective> les règles européennes ont toute raison d'être.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20488" docOffset="137">
+      <en>We all hope, of course, that we shall now make equally rapid progress on the issue of functional airspace blocks, which continues to be thwarted, <Alignment alignment="25475" annotation_id="20634">
+          <DiscourseConnective annotation_id="20634" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know, by the national interests of some Member States.</en>
+      <fr>Bien sûr, nous espérons tous <DiscourseConnective annotation_id="22943">que</DiscourseConnective> nous allons <DiscourseConnective annotation_id="22959">maintenant</DiscourseConnective> faire des progrès tout <DiscourseConnective annotation_id="22993">aussi</DiscourseConnective> rapides sur la question des blocs fonctionnels d'espace aérien, qui continue <DiscourseConnective annotation_id="23076">à</DiscourseConnective> être contrecarrée, <Alignment alignment="30293" annotation_id="23097">
+          <DiscourseConnective annotation_id="23097" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez par les intérêts nationaux de certains États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20696" docOffset="138">
+      <en>That is a great pity as well as being highly detrimental in the long run to efforts to reduce the volume of emissions from air traffic.</en>
+      <fr>Cette situation est très déplorable et, en même temps, <DiscourseConnective annotation_id="23226">à</DiscourseConnective> long terme, elle nuit considérablement aux efforts visant <DiscourseConnective annotation_id="23286">à</DiscourseConnective> réduire le volume d'émissions du trafic aérien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20832" docOffset="139">
+      <en>Whether there should be penalties or fines was one of the most complex questions.</en>
+      <fr>La nécessité éventuelle d'imposer des sanctions <DiscourseConnective annotation_id="23384">ou</DiscourseConnective> amendes a été l'une des questions les plus complexes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20914" docOffset="140">
+      <en>Yes, I am afraid there is no alternative in our world.</en>
+      <fr>Oui, je crains que dans le monde où nous vivons, il n'y a pas d'alternative à cette solution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20969" docOffset="141">
+      <en>We saw that intermediate measures were needed for an efficient system, <Alignment alignment="23623" annotation_id="21040">
+          <DiscourseConnective annotation_id="21040" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> these have now been put in place.</en>
+      <fr>Nous avons <DiscourseConnective annotation_id="23546">vu que</DiscourseConnective> des mesures intermédiaires s'imposaient <DiscourseConnective annotation_id="23593">pour</DiscourseConnective> l'efficacité du système, <Alignment alignment="21040" annotation_id="23623">
+          <DiscourseConnective annotation_id="23623" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ces mesures ont <DiscourseConnective annotation_id="23642">maintenant</DiscourseConnective> été mises <DiscourseConnective annotation_id="23663">en</DiscourseConnective> place.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21078" docOffset="142">
+      <en>One final word on cabin crews: I am very pleased that we have now come up with a sound arrangement.</en>
+      <fr>Je terminerai par un mot sur le personnel de cabine: je me réjouis <DiscourseConnective annotation_id="23740">que</DiscourseConnective> nous soyons parvenus à dégager un arrangement sensé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21178" docOffset="143">
+      <en>It was high time we did.</en>
+      <fr>Il était temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21203" docOffset="144">
+      <en>The recognition of that occupational group must be taken further, <DiscourseConnective annotation_id="21269" sense="Expansion.Conjunction">and</DiscourseConnective> another task on the agenda will be to cut emissions and to make aviation less harmful to the climate than it has been to date.</en>
+      <fr>Nous devrons veiller à promouvoir la reconnaissance de cette catégorie de personnel. D'autres tâches nous attendent cependant: réduire les émissions <DiscourseConnective annotation_id="23962">et</DiscourseConnective> rendre l'aviation moins nuisible <DiscourseConnective annotation_id="23998">pour</DiscourseConnective> le climat.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21400" id="371" name="Jaromír Kohlíček">
+    <ParallelChunk annotation_id="21400" docOffset="145">
+      <en>on behalf of the GUE/NGL Group. - (CS) Ladies and gentlemen, allow me to express my thanks to all those whose hard work has brought about the outcome of the conciliation procedure, namely Mr Leichtfried and Mr Props of the European Aviation Safety Agency (EASA).</en>
+      <fr>au nom du groupe GUE/NGL. - (CS) Mesdames <DiscourseConnective annotation_id="24056">et</DiscourseConnective> Messieurs, permettez-moi de remercier tous ceux dont le travail intensif a permis de faire aboutir la procédure de concertation. Je pense notamment à M. Leichtfried <DiscourseConnective annotation_id="24224">et</DiscourseConnective> à M. Props, de l'Agence européenne de la sécurité aérienne (AESA).</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21663" docOffset="146">
+      <en>I welcome the ambitious plan of the EASA to simplify testing procedures for aircraft under 1 tonne and for aircraft with a maximum take-off mass under 2 tonnes.</en>
+      <fr>Je salue le plan ambitieux de l'AESA visant <DiscourseConnective annotation_id="24338">à</DiscourseConnective> simplifier les procédures d'essai des aéronefs de moins d'une tonne <DiscourseConnective annotation_id="24408">et</DiscourseConnective> des aéronefs dont la masse maximale au décollage est inférieure à deux tonnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21824" docOffset="147">
+      <en>The debate so far leads me to believe that Annex 2 will be retained in its present form.</en>
+      <fr>Le débat mené jusqu'à présent me donne <DiscourseConnective annotation_id="24529">à</DiscourseConnective> penser <DiscourseConnective annotation_id="24538">que</DiscourseConnective> l'annexe 2 sera conservée dans sa forme actuelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21913" docOffset="148">
+      <en>I hope that together we will soon open the door to the LSA category - Light Sport Aircraft - in the internal market for all manufacturers in the EU countries.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="24601">qu'</DiscourseConnective>ensemble nous ouvrirons <DiscourseConnective annotation_id="24628">bientôt</DiscourseConnective> la porte du marché intérieur <DiscourseConnective annotation_id="24665">à</DiscourseConnective> la catégorie LSA- Light Sport Aircraft - <DiscourseConnective annotation_id="24708">pour</DiscourseConnective> tous les fabricants des États membres de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22072" docOffset="149">
+      <en>I do not believe that any of the parties involved would like to see the demise of this promising and developing sector, which has several dozen small and medium-sized enterprises operating within it.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="24769">qu'</DiscourseConnective>aucune des parties concernées n'aimerait voir la mort de ce secteur prometteur <DiscourseConnective annotation_id="24851">et</DiscourseConnective> en plein essor, qui compte plusieurs douzaines de petites <DiscourseConnective annotation_id="24912">et</DiscourseConnective> moyennes entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22272" docOffset="150">
+      <en>We urgently need a set of temporary rules for these enterprises, which are situated mainly in Germany, the Czech Republic, Italy and France.</en>
+      <fr>Nous devons de toute urgence établir un ensemble de règles temporaires <DiscourseConnective annotation_id="25008">pour</DiscourseConnective> ces entreprises, qui se situent principalement <DiscourseConnective annotation_id="25060">en</DiscourseConnective> Allemagne, <DiscourseConnective annotation_id="25074">en</DiscourseConnective> République tchèque, en Italie <DiscourseConnective annotation_id="25107">et</DiscourseConnective> en France.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22413" docOffset="151">
+      <en>I <Alignment alignment="27211" annotation_id="22415">
+          <DiscourseConnective annotation_id="22415" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> hope that, following Parliament's accommodating approach, representatives of the Commission and EASA will show similar flexibility and vision in regard to the present position of this rapidly developing segment of the world market.</en>
+      <fr>J'espère <Alignment alignment="38118" annotation_id="25130">
+          <DiscourseConnective annotation_id="25130" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="25136">que</DiscourseConnective>, grâce à l'approche conciliante du Parlement, les représentants de la Commission <DiscourseConnective annotation_id="25221">et</DiscourseConnective> de l'ASEA montreront autant de souplesse <DiscourseConnective annotation_id="25265">et</DiscourseConnective> d'esprit d'avenir concernant la position actuelle de ce segment du marché mondial qui se développe de façon si rapide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22652" docOffset="152">
+      <en>I believe that their decision will support further development of the light aircraft sector in the European Union by using the recognised testing and certification procedures, mechanisms and organisations.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="25396">que</DiscourseConnective> la décision de ces deux organes contribuera à la poursuite du développement du secteur des aéronefs légers dans l'Union européenne <DiscourseConnective annotation_id="25531">en</DiscourseConnective> favorisant l'utilisation des procédures d'essai <DiscourseConnective annotation_id="25582">et</DiscourseConnective> de certification, des mécanismes <DiscourseConnective annotation_id="25618">et</DiscourseConnective> des organisations reconnus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22858" docOffset="153">
+      <en>I hope that the representatives of the Commission and of the Council will, in accordance with the Lisbon Strategy, support further development of this branch of the aviation industry, which is so progressive both in technical and technological terms.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="25658">que</DiscourseConnective> les représentants de la Commission <DiscourseConnective annotation_id="25697">et</DiscourseConnective> du Conseil soutiendront, <DiscourseConnective annotation_id="25725">en</DiscourseConnective> accord avec la stratégie de Lisbonne, la poursuite du développement de cette branche de l'industrie de l'aviation, un développement qui est progressif du point de vue technique <DiscourseConnective annotation_id="25905">et</DiscourseConnective> technologique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23109" docOffset="154">
+      <en>At this particular stage of development, premature decisions, just as much as prolonged hesitation, could have fatal consequences for the sector.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25923">À</DiscourseConnective> ce stade précis de développement, des décisions prématurées pourraient, tout <DiscourseConnective annotation_id="26002">autant</DiscourseConnective> qu'une hésitation prolongée, avoir des conséquences fatales <DiscourseConnective annotation_id="26069">pour</DiscourseConnective> le secteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23255" docOffset="155">
+      <en>I look forward to further debate and to the proposal on the progressive lowering of contributions of small manufacturers in aviation engineering.</en>
+      <fr>J'attends avec impatience la poursuite des débats <DiscourseConnective annotation_id="26136">et</DiscourseConnective> la proposition sur l'abaissement progressif des contributions des petits fabricants <DiscourseConnective annotation_id="26223">à</DiscourseConnective> l'ingénierie aéronautique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23401" docOffset="156">
+      <en>I would like to thank you in advance for your support and understanding in this area as well.</en>
+      <fr>Je voudrais vous remercier <DiscourseConnective annotation_id="26279">à</DiscourseConnective> l'avance <DiscourseConnective annotation_id="26290">pour</DiscourseConnective> votre soutien <DiscourseConnective annotation_id="26309">et</DiscourseConnective> votre compréhension <DiscourseConnective annotation_id="26332">aussi</DiscourseConnective> dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23495" docOffset="157">
+      <en>As a goodwill gesture, I would like to express my full support for the compromise achieved.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26355">Pour</DiscourseConnective> montrer ma bonne volonté, je tiens <DiscourseConnective annotation_id="26395">à</DiscourseConnective> exprimer mon soutien inconditionnel au compromis atteint.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23587" id="372" name="Philip Bradbourn">
+    <ParallelChunk annotation_id="23587" docOffset="158">
+      <en>Madam President, there is no doubt that aviation safety is a vitally important issue and one that we cannot afford to ignore.</en>
+      <fr>(EN) Madame la Présidente, il ne fait aucun doute <DiscourseConnective annotation_id="26505">que</DiscourseConnective> la sécurité dans les avions est un problème vital <DiscourseConnective annotation_id="26559">que</DiscourseConnective> nous ne pouvons pas nous permettre d'ignorer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23713" docOffset="159">
+      <en>
+        <Alignment alignment="26609" annotation_id="23713">
+          <DiscourseConnective annotation_id="23713" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the European Aviation Safety Agency continues to display many failings, especially with regard to its ability to run in an efficient and cost-effective manner.</en>
+      <fr>
+        <Alignment alignment="17075" annotation_id="26609">
+          <DiscourseConnective annotation_id="26609" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, l'Agence européenne de la sécurité aérienne continue de présenter de nombreux manquements, <DiscourseConnective annotation_id="26711">surtout</DiscourseConnective> <DiscourseConnective annotation_id="26719">en</DiscourseConnective> ce qui concerne sa capacité <DiscourseConnective annotation_id="26750">à</DiscourseConnective> fonctionner d'une manière efficace <DiscourseConnective annotation_id="26787">et</DiscourseConnective> rentable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23882" docOffset="160">
+      <en>As a result of these inefficiencies, Parliament has in the past decided to suspend funding from the Agency.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26800">Résultat</DiscourseConnective> de cette inefficacité, le Parlement a décidé par le passé de suspendre le financement de l'agence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23990" docOffset="161">
+      <en>I am therefore alarmed that, despite these problems, Parliament now appears happy to oversee an extension of the Agency's powers.</en>
+      <fr>Je m'alarme <DiscourseConnective annotation_id="26920">dès lors qu'</DiscourseConnective>en dépit de ces problèmes, le Parlement semble désormais heureux d'envisager une extension des pouvoirs de l'agence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24120" docOffset="162">
+      <en>In order to highlight the impact that the EASA is having on businesses across the EU, I wish to draw Parliament's and the Commission's attention to the case of a company in my constituency.</en>
+      <fr>
+        <DiscourseConnective annotation_id="27049">Pour</DiscourseConnective> souligner l'impact de l'AESA sur les entreprises au sein de l'UE, j'aimerais attirer l'attention du Parlement <DiscourseConnective annotation_id="27164">et</DiscourseConnective> de la Commission sur le cas d'une compagnie de ma circonscription.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24310" docOffset="163">
+      <en>This company, with whom I have much correspondence, will see charges for the issue <DiscourseConnective annotation_id="24393" sense="Expansion.Conjunction">and</DiscourseConnective> renewal of maintenance approvals soar as a result of these new regulations.</en>
+      <fr>Cette compagnie, avec laquelle j'entretiens un contact fréquent, va voir ses charges liées au renouvellement des agréments de maintenance exploser du fait de ces nouvelles réglementations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24473" docOffset="164">
+      <en>According to my constituent - whose cost increases I have in writing - maintenance costs will rise from GBP 1 206 this year to in excess of GBP 3 000 next year.</en>
+      <fr>Selon le membre de ma circonscription - dont je dispose par écrit des augmentations de coûts -, les coûts de maintenance vont passer de 1 206 livres cette année <DiscourseConnective annotation_id="27584">à</DiscourseConnective> plus de 3 000 livres l'année prochaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24634" docOffset="165">
+      <en>This represents an increase of 150%.</en>
+      <fr>Ce qui représente une hausse de 150 %.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24671" docOffset="166">
+      <en>I am worried, to say the least, that an extension of powers to EASA will represent only an increase in terms of the burden of extra red tape and not the extra gain in safety that we all desire.</en>
+      <fr>Je m'inquiète, c'est le moins qu'on puisse dire, <DiscourseConnective annotation_id="27714">du fait qu'</DiscourseConnective>une extension des compétences de l'AESA ne représentera <DiscourseConnective annotation_id="27781">qu'</DiscourseConnective>une augmentation <DiscourseConnective annotation_id="27801">en</DiscourseConnective> termes de lourdeur bureaucratique <DiscourseConnective annotation_id="27838">et</DiscourseConnective> pas un bénéfice supplémentaire <DiscourseConnective annotation_id="27872">en</DiscourseConnective> matière de sécurité, ce <DiscourseConnective annotation_id="27899">que</DiscourseConnective> nous désirons tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24865" docOffset="167">
+      <en>Until such time that EASA can prove that it is fit for purpose in a manner that is not harmful, especially to small businesses, and in a manner that does not represent yet more red tape, I, along with my British Conservative colleagues, must oppose any further extension of powers to this Agency.</en>
+      <fr>
+        <DiscourseConnective annotation_id="27923">En attendant</DiscourseConnective> <DiscourseConnective annotation_id="27936">que</DiscourseConnective> l'AESA puisse prouver <DiscourseConnective annotation_id="27962">qu'</DiscourseConnective>elle est adaptée <DiscourseConnective annotation_id="27982">à</DiscourseConnective> sa mission <DiscourseConnective annotation_id="27995">sans</DiscourseConnective> être nuisible, particulièrement <DiscourseConnective annotation_id="28032">pour</DiscourseConnective> les petites entreprises, <DiscourseConnective annotation_id="28062">et</DiscourseConnective> sans représenter une charge administrative supplémentaire, je m'oppose, aux côtés de mes collègues britanniques conservateurs, à toute forme d'extension supplémentaire des compétences de cette agence.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25162" id="373" name="Ulrich Stockmann">
+    <ParallelChunk annotation_id="25162" docOffset="168">
+      <en>(DE) Madam President, Commissioner, ladies and gentlemen, my opinion is the exact opposite to that of Mr Bradbourn, <Alignment alignment="28398" annotation_id="25278">
+          <DiscourseConnective annotation_id="25278" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="24869" annotation_id="25283">
+          <DiscourseConnective annotation_id="25283" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> I proceed, may I add my thanks to Mr Leichtfried for the report and, of course, for the skilfully negotiated compromise.</en>
+      <fr>(DE) Madame la Présidente, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="28327">et</DiscourseConnective> Messieurs, mon opinion est l'exact opposé de celui de M. Bradbourn. <Alignment alignment="25278" annotation_id="28398">
+          <DiscourseConnective annotation_id="28398" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, <Alignment alignment="25283" annotation_id="28409">
+          <DiscourseConnective annotation_id="28409" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> m'exprimer, permettez-moi de remercier M. Leichtfried <DiscourseConnective annotation_id="28472">pour</DiscourseConnective> son rapport <DiscourseConnective annotation_id="28489">et</DiscourseConnective>, bien sûr, <DiscourseConnective annotation_id="28503">pour</DiscourseConnective> ce compromis si habilement négocié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25411" docOffset="169">
+      <en>Extending the powers of the European Aviation Safety Agency (EASA) is a step towards guaranteeing the highest possible standards of aviation safety, uniform pilots' licences with equivalent training standards, licensing of airlines from countries outside the European Economic Area and uniform training of cabin crew as well as responsibility for the implementation of EU-OPS.</en>
+      <fr>L'élargissement des compétences de l'Agence européenne de sécurité aérienne (AESA) est un pas de plus fait <DiscourseConnective annotation_id="28651">pour</DiscourseConnective> garantir le respect des normes les plus élevées possibles en matière de sécurité aérienne, l'uniformité des licences de pilotage <DiscourseConnective annotation_id="28785">et</DiscourseConnective> l'équivalence des formations, l'octroi des licences aux compagnies aériennes des pays extérieurs à l'Espace économique européen, l'uniformité de la formation du personnel de cabine <DiscourseConnective annotation_id="28969">ainsi</DiscourseConnective> que la responsabilité de la mise en œuvre des exigences EU-OPS.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25788" docOffset="170">
+      <en>By enabling EASA to impose fines for non-compliance with safety regulations, I believe we are considerably enhancing its enforcement powers.</en>
+      <fr>À mon avis, <DiscourseConnective annotation_id="29051">en</DiscourseConnective> permettant à l'AESA d'imposer des amendes <DiscourseConnective annotation_id="29096">pour</DiscourseConnective> non-respect de la réglementation en matière de sécurité, nous renforçons considérablement ses moyens de coercition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25929" docOffset="171">
+      <en>This, I hope, will soon put a stop to the sometimes unnecessary and unproductive rivalries and power struggles between the national authorities and EASA.</en>
+      <fr>J'espère qu'il sera ainsi possible de mettre fin aux rivalités <DiscourseConnective annotation_id="29280">et</DiscourseConnective> luttes de pouvoir parfois superflues <DiscourseConnective annotation_id="29320">et</DiscourseConnective> improductives que se livrent les autorités <DiscourseConnective annotation_id="29366">et</DiscourseConnective> l'AESA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26083" docOffset="172">
+      <en>The rapid growth of aviation in Europe makes it essential that EASA should be a strong body with centralised responsibility for overseeing technical safety.</en>
+      <fr>Le développement rapide de l'aviation <DiscourseConnective annotation_id="29415">en</DiscourseConnective> Europe rend essentiel le fait pour l'Agence d'être un organe fort, doté d'une responsabilité centralisée <DiscourseConnective annotation_id="29523">pour</DiscourseConnective> la supervision de la sécurité technique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26240" docOffset="173">
+      <en>In my view, this <Alignment alignment="29588" annotation_id="26257">
+          <DiscourseConnective annotation_id="26257" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> means that the funding of EASA must be put on a stable long-term basis.</en>
+      <fr>Selon moi, il faut <Alignment alignment="23028" annotation_id="29588">
+          <DiscourseConnective annotation_id="29588" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> pour cela <DiscourseConnective annotation_id="29604">que</DiscourseConnective> le financement de l'AESA <DiscourseConnective annotation_id="29633">soit</DiscourseConnective> inscrit dans un cadre stable à long terme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26334" docOffset="174">
+      <en>I believe that one of the next steps will be to ensure not only that the work of the national air accident investigation authorities in Europe is coordinated but also that their findings are analysed by EASA.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="29690">que</DiscourseConnective> l'une des étapes suivantes sera de veiller <DiscourseConnective annotation_id="29737">non seulement</DiscourseConnective> à ce <DiscourseConnective annotation_id="29756">que</DiscourseConnective> le travail des autorités nationales d'enquête sur les accidents aériens <DiscourseConnective annotation_id="29832">en</DiscourseConnective> Europe <DiscourseConnective annotation_id="29842">soit</DiscourseConnective> coordonné <DiscourseConnective annotation_id="29857">mais aussi</DiscourseConnective> <DiscourseConnective annotation_id="29868">que</DiscourseConnective> les conclusions de ces autorités soient analysées par l'AESA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26543" docOffset="175">
+      <en>That will enhance safety in Europe and prevent whitewashing by the affected Member States.</en>
+      <fr>Cela améliorera la sécurité <DiscourseConnective annotation_id="29962">en</DiscourseConnective> Europe <DiscourseConnective annotation_id="29972">et</DiscourseConnective> empêchera les États membres concernés d'étouffer les faits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26634" docOffset="176">
+      <en>In the long term, and I emphasise the long term, we need a model in Europe that will not only make the national tier superfluous but will <Alignment alignment="27249" annotation_id="26772">
+          <DiscourseConnective annotation_id="26772" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> deal jointly with matters relating to safety and accident prevention, <Alignment alignment="30286" annotation_id="26847">
+          <DiscourseConnective annotation_id="26847" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the Federal Aviation Administration does in the United States.</en>
+      <fr>
+        <DiscourseConnective annotation_id="30035">À</DiscourseConnective> long terme - <DiscourseConnective annotation_id="30050">et</DiscourseConnective> je dis bien à long terme - l'Europe aura besoin d'un modèle qui <DiscourseConnective annotation_id="30117">non seulement</DiscourseConnective> rendra superflu le niveau national <DiscourseConnective annotation_id="30166">mais</DiscourseConnective> <Alignment alignment="26772" annotation_id="30171">
+          <DiscourseConnective annotation_id="30171" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> permettra de gérer conjointement les questions relatives <DiscourseConnective annotation_id="30238">à</DiscourseConnective> la sécurité <DiscourseConnective annotation_id="30252">et</DiscourseConnective> à la prévention des accidents, <Alignment alignment="4758" annotation_id="30286">
+          <DiscourseConnective annotation_id="30286" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'administration fédérale de l'aviation le fait aux États-Unis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26913" docOffset="177">
+      <en>That is my vision.</en>
+      <fr>
+        <DiscourseConnective annotation_id="30356">C'est ainsi que</DiscourseConnective> je conçois l'évolution de la situation.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="26932" id="374" name="Kyriacos Triantaphyllides">
+    <ParallelChunk annotation_id="26932" docOffset="178">
+      <en>(EL) Madam President, the three-day discussion of this topic has already been completed <Alignment alignment="30494" annotation_id="27020">
+          <DiscourseConnective annotation_id="27020" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we are simply called upon here to agree on a complex issue: complex <Alignment alignment="30575" annotation_id="27092">
+          <DiscourseConnective annotation_id="27092" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it tries to provide a global solution to problems which are specific in their extent.</en>
+      <fr>(EL) Madame la Présidente, le débat de trois jours mené à ce sujet <DiscourseConnective annotation_id="30479">s'</DiscourseConnective>achève <DiscourseConnective annotation_id="30488">déjà</DiscourseConnective>, <Alignment alignment="27020" annotation_id="30494">
+          <DiscourseConnective annotation_id="30494" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous voilà appelés à nous mettre d'accord sur une question complexe: complexe <Alignment alignment="2200" annotation_id="30575">
+          <DiscourseConnective annotation_id="30575" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elle cherche <DiscourseConnective annotation_id="30597">à</DiscourseConnective> trouver une solution globale <DiscourseConnective annotation_id="30628">à</DiscourseConnective> des problèmes qui sont spécifiques dans leur étendue.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27186" docOffset="179">
+      <en>
+        <Alignment alignment="30700" annotation_id="27186">
+          <DiscourseConnective annotation_id="27186" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, it is proposed that the Commission should be able to impose fines, as an alternative to EASA's power to withhold an airline's certificate in the event of a contravention.</en>
+      <fr>On nous propose <Alignment alignment="27186" annotation_id="30700">
+          <DiscourseConnective annotation_id="30700" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> d'autoriser la Commission <DiscourseConnective annotation_id="30731">à</DiscourseConnective> infliger des amendes, <DiscourseConnective annotation_id="30755">comme</DiscourseConnective> alternative au pouvoir de l'AESA de refuser le certificat d'une compagnie aérienne <DiscourseConnective annotation_id="30844">en</DiscourseConnective> cas d'infraction.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27363" docOffset="180">
+      <en>Note that under this regulation, the agency in question will be responsible for issuing certificates.</en>
+      <fr>Notons <DiscourseConnective annotation_id="30872">que</DiscourseConnective>, aux termes de ce règlement, l'agence <DiscourseConnective annotation_id="30914">en</DiscourseConnective> question sera responsable de l'émission des certificats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27465" docOffset="181">
+      <en>This will entail thorough technocratic restructuring <DiscourseConnective annotation_id="27518" sense="Expansion.Conjunction">and</DiscourseConnective>, for this reason, the proposed regulation provides for an independent budget for the agency, <Alignment alignment="31129" annotation_id="27615">
+          <Alignment alignment="31129" annotation_id="27615">
+            <DiscourseConnective annotation_id="27615" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> it does not lose its independence in relation to the Member States.</en>
+      <fr>Ce changement entraînera une restructuration technocratique profonde. <DiscourseConnective annotation_id="31044">Pour</DiscourseConnective> cette raison, le règlement prévoit l'octroi d'un budget indépendant <DiscourseConnective annotation_id="31117">à</DiscourseConnective> l'agence, <Alignment alignment="4271" annotation_id="31129">
+          <Alignment alignment="27615" annotation_id="31129">
+            <DiscourseConnective annotation_id="31129" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> celle-ci garde son indépendance par rapport aux États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27691" docOffset="182">
+      <en>
+        <Alignment alignment="31201" annotation_id="27691">
+          <DiscourseConnective annotation_id="27691" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> this ambitious scheme seems to have fitted into a proper technocratic mould, I wonder who will bear the political responsibility for possible future mistakes, a responsibility which is currently borne by the competent national minister or administrator of the Civil Aviation Authority.</en>
+      <fr>
+        <Alignment alignment="7142" annotation_id="31201">
+          <DiscourseConnective annotation_id="31201" sense="Comparison.Concession">Bien que</DiscourseConnective>
+        </Alignment> ce projet ambitieux semble entrer dans un moule technocratique adéquat, je me demande qui assumera la responsabilité politique des éventuelles erreurs futures, une responsabilité prise actuellement par le ministre national compétent <DiscourseConnective annotation_id="31443">ou</DiscourseConnective> l'administrateur de l'autorité de l'aviation civile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27986" docOffset="183">
+      <en>In this case, then, we are creating, in the name of political unification, an agency which has no reason to exist <Alignment alignment="31597" annotation_id="28100">
+          <DiscourseConnective annotation_id="28100" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> these matters could very easily have been organised at multilateral level within the framework of existing mechanisms such as the ICAO.</en>
+      <fr>
+        <DiscourseConnective annotation_id="31499">Ainsi</DiscourseConnective>, <DiscourseConnective annotation_id="31506">dans ce cas</DiscourseConnective>, nous créons, au nom de l'unification politique, une agence <DiscourseConnective annotation_id="31578">sans</DiscourseConnective> raison d'être <Alignment alignment="28100" annotation_id="31597">
+          <DiscourseConnective annotation_id="31597" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> cette matière pourrait très bien être organisée au niveau multilatéral, dans le cadre de mécanismes existants tels <DiscourseConnective annotation_id="31720">que</DiscourseConnective> l'OACI.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28242" docOffset="184">
+      <en>
+        <Alignment alignment="31732" annotation_id="28242">
+          <DiscourseConnective annotation_id="28242" sense="Expansion.Conjunction">Besides</DiscourseConnective>
+        </Alignment>, <Alignment alignment="31744" annotation_id="28251">
+          <DiscourseConnective annotation_id="28251" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> there is a problem with flight safety, there is no one to blame but the European Commission, which pushed liberalisation of the sector to the limit, with the result that small private airlines are springing up like mushrooms, without the necessary infrastructure or know-how.</en>
+      <fr>
+        <Alignment alignment="29254" annotation_id="31732">
+          <DiscourseConnective annotation_id="31732" sense="Expansion.Conjunction">D'ailleurs</DiscourseConnective>
+        </Alignment>, <Alignment alignment="28251" annotation_id="31744">
+          <DiscourseConnective annotation_id="31744" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il y a un problème avec la sécurité des vols, la seule instance <DiscourseConnective annotation_id="31810">à</DiscourseConnective> blâmer est la Commission européenne, qui a poussé au maximum la libéralisation du secteur, avec pour <DiscourseConnective annotation_id="31913">résultat</DiscourseConnective> <DiscourseConnective annotation_id="31922">que</DiscourseConnective> les petites compagnies aériennes privées poussent comme des champignons, <DiscourseConnective annotation_id="31999">sans</DiscourseConnective> les infrastructures <DiscourseConnective annotation_id="32024">ou</DiscourseConnective> le savoir-faire nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28530" docOffset="185">
+      <en>Let us not start trying to salvage our mistakes by wasting taxpayers' money!</en>
+      <fr>N'essayons pas de récupérer nos erreurs <DiscourseConnective annotation_id="32096">en</DiscourseConnective> gaspillant l'argent du contribuable!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28607" docOffset="186">
+      <en>We now have 22 external agencies of the European Union.</en>
+      <fr>L'Union européenne compte <DiscourseConnective annotation_id="32162">maintenant</DiscourseConnective> 22 agences externes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28663" docOffset="187">
+      <en>At some point we will have to limit ourselves to the ones that are essential.</en>
+      <fr>
+        <DiscourseConnective annotation_id="32194">À</DiscourseConnective> un certain point, nous devrons nous limiter aux agences vraiment essentielles.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="28741" id="375" name="Reinhard Rack">
+    <ParallelChunk annotation_id="28741" docOffset="188">
+      <en>(DE) Madam President, Mr Vice-President, ladies and gentlemen, the oft-invoked 'European sky' is still far from being a genuine common airspace, even after more than 50 years of the European Communities.</en>
+      <fr>(DE) Madame la Présidente, Monsieur le Vice-président, Mesdames <DiscourseConnective annotation_id="32339">et</DiscourseConnective> Messieurs, souvent évoqué, le "ciel européen" est <DiscourseConnective annotation_id="32392">encore</DiscourseConnective> loin d'être un véritable espace aérien commun, <DiscourseConnective annotation_id="32446">même</DiscourseConnective> <DiscourseConnective annotation_id="32451">après</DiscourseConnective> 50 ans d'existence des Communautés européennes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28945" docOffset="189">
+      <en>The Member States remain fundamentally unwilling to give up their sovereign airspace for the sake of a united Europe or even to share their sovereignty with Europe.</en>
+      <fr>Les États membres continuent <DiscourseConnective annotation_id="32534">pour</DiscourseConnective> l'essentiel à refuser d'abandonner la souveraineté sur leur espace aérien, une décision qu'ils seraient censés prendre au nom de l'Europe unifiée, voire <DiscourseConnective annotation_id="32692">pour</DiscourseConnective> partager leur souveraineté avec l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29110" docOffset="190">
+      <en>
+        <Alignment alignment="32739" annotation_id="29110">
+          <DiscourseConnective annotation_id="29110" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, common European legislation is lacking in many specific technical areas too.</en>
+      <fr>
+        <Alignment alignment="15910" annotation_id="32739">
+          <DiscourseConnective annotation_id="32739" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, une législation européenne commune fait défaut dans de nombreux domaines techniques spécifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29197" docOffset="191">
+      <en>Our aim in establishing the European Aviation Safety Agency, or <Alignment alignment="32928" annotation_id="29261">
+          <DiscourseConnective annotation_id="29261" sense="Expansion.Restatement">rather</DiscourseConnective>
+        </Alignment> in extending its remit, is to forge ahead with a small but important regulatory package.</en>
+      <fr>Le but que nous visons <DiscourseConnective annotation_id="32868">en</DiscourseConnective> établissant l'Agence européenne de sécurité aérienne, <DiscourseConnective annotation_id="32925">ou</DiscourseConnective> <Alignment alignment="29261" annotation_id="32928">
+          <DiscourseConnective annotation_id="32928" sense="Expansion.Restatement">plutôt</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="32935">en</DiscourseConnective> étendant ses attributions, est de prendre de l'avance avec un paquet réglementaire limité <DiscourseConnective annotation_id="33028">mais</DiscourseConnective> important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29357" docOffset="192">
+      <en>The Commission presented a balanced proposal.</en>
+      <fr>La Commission a présenté une proposition équilibrée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29403" docOffset="193">
+      <en>The Committee on Transport and Tourism and its rapporteur have, we hope, improved it.</en>
+      <fr>Nous espérons que la commission des transports <DiscourseConnective annotation_id="33144">et</DiscourseConnective> du tourisme <DiscourseConnective annotation_id="33159">et</DiscourseConnective> son rapporteur ont amélioré cette proposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29489" docOffset="194">
+      <en>In the next step of the process, the report has been the subject of successful consultation with the Council, which means that we can now be hopeful of its adoption at second reading tomorrow.</en>
+      <fr>
+        <DiscourseConnective annotation_id="33209">Pour</DiscourseConnective> la phase suivante du processus, le rapport a fait l'objet d'une consultation réussie avec le Conseil. Nous pouvons <DiscourseConnective annotation_id="33329">donc</DiscourseConnective> espérer son adoption <DiscourseConnective annotation_id="33355">en</DiscourseConnective> deuxième lecture demain.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29682" docOffset="195">
+      <en>Lastly, <Alignment alignment="33390" annotation_id="29690">
+          <DiscourseConnective annotation_id="29690" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> many other Members have done before me, I should <Alignment alignment="33460" annotation_id="29742">
+          <DiscourseConnective annotation_id="29742" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to mention the rapporteur and thank him for his good work.</en>
+      <fr>
+        <DiscourseConnective annotation_id="33383">Enfin</DiscourseConnective>, <Alignment alignment="9368" annotation_id="33390">
+          <DiscourseConnective annotation_id="33390" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> beaucoup d'autres membres l'ont fait <DiscourseConnective annotation_id="33433">avant</DiscourseConnective> moi, je voudrais moi <Alignment alignment="9799" annotation_id="33460">
+          <DiscourseConnective annotation_id="33460" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> remercier le rapporteur pour la qualité de son travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29811" docOffset="196">
+      <en>Together with his shadows, Mr Leichtfried has done a really good job.</en>
+      <fr>Avec ses rapporteurs fictifs, M. Leichtfried a vraiment fait du bon travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29881" docOffset="197">
+      <en>Let me remind the House, <Alignment alignment="33616" annotation_id="29906">
+          <DiscourseConnective annotation_id="29906" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that there is still a very great deal to do.</en>
+      <fr>Je me permettrai <Alignment alignment="29906" annotation_id="33616">
+          <DiscourseConnective annotation_id="33616" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> de rappeler à notre Assemblée <DiscourseConnective annotation_id="33656">qu'</DiscourseConnective>il nous reste <DiscourseConnective annotation_id="33673">encore</DiscourseConnective> beaucoup <DiscourseConnective annotation_id="33689">à</DiscourseConnective> faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29960" docOffset="198">
+      <en>Yesterday and today we discussed many unresolved issues relating to air safety.</en>
+      <fr>Hier <DiscourseConnective annotation_id="33703">et</DiscourseConnective> aujourd'hui, nous avons discuté de nombreuses questions de sécurité aérienne demeurées sans solution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30040" docOffset="199">
+      <en>I hope we shall manage to reach a consensus on the remaining key issues of funding, comitology and liquids - a buzzword, perhaps, but one with deeper implications.</en>
+      <fr>J'espère que nous parviendrons <DiscourseConnective annotation_id="33839">à</DiscourseConnective> dégager un consensus sur les questions clés qui restent en matière de financement, de comitologie <DiscourseConnective annotation_id="33939">et</DiscourseConnective> de liquidités, un terme à la mode, sans doute, <DiscourseConnective annotation_id="33989">mais</DiscourseConnective> qui évoque un sujet aux implications profondes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30204" docOffset="200">
+      <en>We need a consensus on these matters <Alignment alignment="34095" annotation_id="30241">
+          <DiscourseConnective annotation_id="30241" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the dream of a common European open sky is to become a reality.</en>
+      <fr>Nous devons atteindre un consensus sur ces questions <Alignment alignment="30241" annotation_id="34095">
+          <DiscourseConnective annotation_id="34095" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous tenons à ce que le ciel commun européen devienne une réalité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="30308" id="376" name="Silvia-Adriana Ţicău">
+    <ParallelChunk annotation_id="30308" docOffset="201">
+      <en>(RO) Madam. President, the objective of the proposal for amending the Regulation on common rules in the field of civil aviation and establishing the European Aviation Safety Agency is to improve civil aviation safety in Europe.</en>
+      <fr>(RO) Madame la Présidente, l'objectif de la proposition visant <DiscourseConnective annotation_id="34228">à</DiscourseConnective> modifier le règlement concernant des règles communes dans le domaine de l'aviation civile <DiscourseConnective annotation_id="34320">et</DiscourseConnective> à instituer l'Agence européenne de la sécurité aérienne consiste <DiscourseConnective annotation_id="34388">à</DiscourseConnective> améliorer la sécurité aérienne civile <DiscourseConnective annotation_id="34428">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30536" docOffset="202">
+      <en>These amendments aim at extending the initial applicability of the regulation to the aircrafts used in the Community airspace as well, obviously within the limits imposed by the Chicago Convention.</en>
+      <fr>Ces amendements ont pour but d'étendre le champ d'application initial de ce règlement aux aéronefs utilisés dans l'espace aérien communautaire, en respectant évidemment les limites imposées par la convention de Chicago.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30734" docOffset="203">
+      <en>One of the subjects that have created controversies is related to the certification of the on-board personnel.</en>
+      <fr>La certification du personnel de bord est l'un des sujets qui ont prêté <DiscourseConnective annotation_id="34731">à</DiscourseConnective> controverse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30845" docOffset="204">
+      <en>The Commission has continuously taken actions to improve aviation safety; it has regularly published a black list of companies that do not meet the safety standards imposed by the European Union.</en>
+      <fr>La Commission n'a cessé d'agir <DiscourseConnective annotation_id="34777">pour</DiscourseConnective> améliorer la sécurité aérienne; elle a régulièrement publié la liste noire des compagnies qui ne répondent pas aux normes de sécurité imposées par l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31041" docOffset="205">
+      <en>There is already a sixth list published.</en>
+      <fr>Une sixième liste a <DiscourseConnective annotation_id="34969">déjà</DiscourseConnective> été publiée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31082" docOffset="206">
+      <en>The field of air transport has experienced strong development <Alignment alignment="35041" annotation_id="31144">
+          <DiscourseConnective annotation_id="31144" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this development cannot be achieved without meeting the security standards.</en>
+      <fr>Le domaine des transports aériens est en plein essor, <Alignment alignment="3963" annotation_id="35041">
+          <DiscourseConnective annotation_id="35041" sense="Expansion.Conjunction">mais</DiscourseConnective>
+        </Alignment> cet essor doit aller de pair avec le respect des normes de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31224" docOffset="207">
+      <en>Low-cost companies are <Alignment alignment="36027" annotation_id="31247">
+          <DiscourseConnective annotation_id="31247" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> part of this development <DiscourseConnective annotation_id="31277" sense="Expansion.Conjunction">and</DiscourseConnective> we should specify that, in 2006 alone, approximately 300 new routes were created, which represented approximately 1,800 flights every week.</en>
+      <fr>Les compagnies à bas coûts participent <Alignment alignment="25527" annotation_id="35154">
+          <DiscourseConnective annotation_id="35154" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="35160">à</DiscourseConnective> cet essor. À cet égard, il faut savoir <DiscourseConnective annotation_id="35201">que</DiscourseConnective>, rien <DiscourseConnective annotation_id="35211">qu'en</DiscourseConnective> 2006, environ 300 nouvelles routes ont été créées, ce qui représente quelque 1 800 vols par semaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31421" docOffset="208">
+      <en>According to a recent survey, in 2006 alone, low-cost companies transported 140 million passengers, such companies being present in 280 European airports.</en>
+      <fr>Selon une étude récente, également <DiscourseConnective annotation_id="35353">en</DiscourseConnective> 2006, les compagnies à bas coûts, qui sont présentes dans 280 aéroports européens, ont transporté 140 millions de passagers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31576" docOffset="209">
+      <en>Low-cost companies provide 427,000 jobs directly or indirectly.</en>
+      <fr>Ces compagnies donnent de l'emploi, de façon directe <DiscourseConnective annotation_id="35534">ou</DiscourseConnective> indirecte, à 427 000 personnes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31640" docOffset="210">
+      <en>I believe this regulation is extremely important for air transport safety.</en>
+      <fr>Je crois que ce règlement est extrêmement important <DiscourseConnective annotation_id="35621">pour</DiscourseConnective> la sécurité des transports aériens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31715" docOffset="211">
+      <en>
+        <Alignment alignment="35662" annotation_id="31715">
+          <DiscourseConnective annotation_id="31715" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> there is a possibility to punish non-observance of security rules, we must not create a bureaucratic system, but a flexible one, which would contribute to the air transport improvement.</en>
+      <fr>
+        <Alignment alignment="31715" annotation_id="35662">
+          <DiscourseConnective annotation_id="35662" sense="Comparison.Concession">Même s'</DiscourseConnective>
+        </Alignment>il est possible de sanctionner la non-observation des règles de sécurité, nous ne devons pas créer un système bureaucratique <DiscourseConnective annotation_id="35794">mais</DiscourseConnective> un système flexible, capable de contribuer <DiscourseConnective annotation_id="35842">à</DiscourseConnective> l'amélioration des transports aériens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31910" docOffset="212">
+      <en>I <Alignment alignment="36746" annotation_id="31912">
+          <DiscourseConnective annotation_id="31912" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> consider it important to acknowledge certificates for on-board personnel.</en>
+      <fr>Je juge <Alignment alignment="31912" annotation_id="35891">
+          <DiscourseConnective annotation_id="35891" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> important de reconnaître la certification du personnel de bord.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31991" docOffset="213">
+      <en>I congratulate the rapporteur.</en>
+      <fr>Toutes mes félicitations au rapporteur.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="32022" id="377" name="Timothy Kirkhope">
+    <ParallelChunk annotation_id="32022" docOffset="214">
+      <en>Madam President, since its inception in 2003, the European Aviation Safety Agency (EASA) has, sadly, been a benchmark for incompetence.</en>
+      <fr>(EN) Madame la Présidente, <DiscourseConnective annotation_id="36032">depuis</DiscourseConnective> son introduction <DiscourseConnective annotation_id="36056">en</DiscourseConnective> 2003, l'Agence européenne de la sécurité aérienne (AESA) rime avec incompétence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32158" docOffset="215">
+      <en>Now it is time to look at the agency carefully.</en>
+      <fr>L'heure est venue de se pencher avec attention sur cette agence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32206" docOffset="216">
+      <en>Evidence suggests that safety standards have sometimes been neglected <Alignment alignment="36280" annotation_id="32276">
+          <DiscourseConnective annotation_id="32276" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, after all, the EASA is meant to be a safety agency.</en>
+      <fr>Les éléments montrent <DiscourseConnective annotation_id="36227">que</DiscourseConnective> les normes de sécurité ont parfois été négligées <Alignment alignment="15588" annotation_id="36280">
+          <DiscourseConnective annotation_id="36280" sense="Expansion.Conjunction">alors que</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="36291">après tout</DiscourseConnective>, l'AESA est censée être l'agence de la sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32333" docOffset="217">
+      <en>What is more important than safety?</en>
+      <fr>
+        <DiscourseConnective annotation_id="36351">Qu'</DiscourseConnective>y a-t-il <DiscourseConnective annotation_id="36363">de plus</DiscourseConnective> important <DiscourseConnective annotation_id="36381">que</DiscourseConnective> la sécurité?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32369" docOffset="218">
+      <en>It is clear the agency has experienced significant difficulties in setting up and operating in a satisfactory way.</en>
+      <fr>Il est clair que l'agence a rencontré d'importantes difficultés d'établissement <DiscourseConnective annotation_id="36478">et</DiscourseConnective> de fonctionnement adéquat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32484" docOffset="219">
+      <en>Unaccountable delays still exist in its procedures.</en>
+      <fr>Des retards injustifiés subsistent dans ses procédures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32536" docOffset="220">
+      <en>It is still not meeting its own objectives <Alignment alignment="36626" annotation_id="32579">
+          <DiscourseConnective annotation_id="32579" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the confusion and disruption are putting the EU at a competitive disadvantage.</en>
+      <fr>Elle ne parvient toujours pas à remplir ses propres objectifs <Alignment alignment="3532" annotation_id="36626">
+          <DiscourseConnective annotation_id="36626" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la confusion <DiscourseConnective annotation_id="36642">ainsi</DiscourseConnective> que la désorganisation placent l'UE dans une position de désavantage concurrentiel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32662" docOffset="221">
+      <en>In the UK, regulatory costs are, of course, high <Alignment alignment="36803" annotation_id="32711">
+          <DiscourseConnective annotation_id="32711" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the Civil Aviation Authority is required to recover its costs from the services it provides.</en>
+      <fr>Au Royaume-Uni, les coûts de réglementation sont élevés, bien entendu, <Alignment alignment="8430" annotation_id="36803">
+          <DiscourseConnective annotation_id="36803" sense="Contingency.Cause.Reason">puisque</DiscourseConnective>
+        </Alignment> l'autorité de l'aviation civile doit couvrir les coûts <DiscourseConnective annotation_id="36866">pour</DiscourseConnective> les services qu'elle fournit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32812" docOffset="222">
+      <en>
+        <Alignment alignment="36901" annotation_id="32812">
+          <DiscourseConnective annotation_id="32812" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> this does not take into account the new increases in maintenance costs and negative impacts on the repair sector caused by EASA.</en>
+      <fr>
+        <Alignment alignment="32812" annotation_id="36901">
+          <DiscourseConnective annotation_id="36901" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> cela ne prend pas en compte les nouvelles hausses des coûts de maintenance ni les impacts négatifs sur le secteur des réparations occasionnés par l'AESA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32945" docOffset="223">
+      <en>
+        <Alignment alignment="37060" annotation_id="32945">
+          <DiscourseConnective annotation_id="32945" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> this agency is not just affecting big commercial airlines or businesses. It is affecting private pilots like myself.</en>
+      <fr>
+        <Alignment alignment="32945" annotation_id="37060">
+          <DiscourseConnective annotation_id="37060" sense="Comparison.Contrast">Et</DiscourseConnective>
+        </Alignment> cette agence ne touche pas <DiscourseConnective annotation_id="37090">que</DiscourseConnective> les grandes compagnies aériennes <DiscourseConnective annotation_id="37127">ou</DiscourseConnective> les grandes entreprises, elle touche aussi des pilotes privés tels que moi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33066" docOffset="224">
+      <en>I am worried.</en>
+      <fr>Je suis inquiet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33080" docOffset="225">
+      <en>Take the instrument meteorological conditions (IMC) rating, which I myself hold: the certification that allows UK private pilots to fly by using a plane's instruments to fly in more unfavourable weather conditions - well, I understand that is now under threat from EASA.</en>
+      <fr>Prenez la certification des conditions météorologiques de vol aux instruments (IMC), <DiscourseConnective annotation_id="37308">que</DiscourseConnective> je possède: le certificat qui permet aux pilotes britanniques de voler <DiscourseConnective annotation_id="37383">en</DiscourseConnective> utilisant les instruments de l'avion <DiscourseConnective annotation_id="37423">en</DiscourseConnective> cas de conditions météo plus défavorables. Eh bien, j'ai cru comprendre <DiscourseConnective annotation_id="37498">qu'</DiscourseConnective>elle était aujourd'hui menacée par l'AESA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33351" docOffset="226">
+      <en>Flyer magazine in the UK writes that the IMC's case is not helped by the fact that it is designed for peculiarly British conditions.</en>
+      <fr>Le magazine britannique Flyer a écrit <DiscourseConnective annotation_id="37582">que</DiscourseConnective> le cas de l'IMC n'était pas aidé <DiscourseConnective annotation_id="37619">par le fait que</DiscourseConnective> cet instrument avait été conçu <DiscourseConnective annotation_id="37666">pour</DiscourseConnective> la météo britannique particulière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33484" docOffset="227">
+      <en>The UK weather means pilots need more of an IMC rating than others.</en>
+      <fr>La météo britannique oblige les pilotes <DiscourseConnective annotation_id="37746">à</DiscourseConnective> utiliser l'IMC plus souvent <DiscourseConnective annotation_id="37776">que</DiscourseConnective> les autres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33552" docOffset="228">
+      <en>The scrapping of this would be disastrous for the light aviation industry in the UK and might lead to thousands of pilots like myself having their certificates effectively revoked.</en>
+      <fr>Le retrait de l'IMC serait désastreux <DiscourseConnective annotation_id="37830">pour</DiscourseConnective> l'industrie de l'aviation légère au Royaume-Uni <DiscourseConnective annotation_id="37883">et</DiscourseConnective> pourrait mener à la révocation effective du certificat de milliers de pilotes <DiscourseConnective annotation_id="37964">comme</DiscourseConnective> moi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33733" docOffset="229">
+      <en>I must ask, whatever else the Commission looks at, please reassure me and so many other pilots about this important issue.</en>
+      <fr>Je dois demander à la Commission, quel que soit son point de vue, de me rassurer, moi <DiscourseConnective annotation_id="38061">et</DiscourseConnective> tant d'autres pilotes, au sujet de cet épineux problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33856" docOffset="230">
+      <en>The EASA's performance has been unacceptable.</en>
+      <fr>Les performances de l'AESA sont inacceptables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33902" docOffset="231">
+      <en>I am afraid it is not yet fit for purpose.</en>
+      <fr>Je crains qu'elle ne <DiscourseConnective annotation_id="38189">soit</DiscourseConnective> pas <DiscourseConnective annotation_id="38198">encore</DiscourseConnective> adaptée <DiscourseConnective annotation_id="38213">à</DiscourseConnective> sa mission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33945" docOffset="232">
+      <en>A single aviation market is not going to be achieved <Alignment alignment="38948" annotation_id="33998">
+          <DiscourseConnective annotation_id="33998" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> distortions remain, <Alignment alignment="38300" annotation_id="34024">
+          <DiscourseConnective annotation_id="34024" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> delays in procedure persist and <Alignment alignment="38342" annotation_id="34062">
+          <DiscourseConnective annotation_id="34062" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> common sense is not applied to the aviation sector.</en>
+      <fr>On ne parviendra pas <DiscourseConnective annotation_id="38248">à</DiscourseConnective> un marché de l'aviation unique <Alignment alignment="21623" annotation_id="38281">
+          <DiscourseConnective annotation_id="38281" sense="Temporal.Synchrony">si</DiscourseConnective>
+        </Alignment> les distorsions <Alignment alignment="34024" annotation_id="38300">
+          <DiscourseConnective annotation_id="38300" sense="Comparison.Contrast">et</DiscourseConnective>
+        </Alignment> les retards de procédure persistent <DiscourseConnective annotation_id="38339">et</DiscourseConnective> <Alignment alignment="34062" annotation_id="38342">
+          <DiscourseConnective annotation_id="38342" sense="Comparison.Contrast">si</DiscourseConnective>
+        </Alignment> on n'applique pas le bon sens au secteur de l'aviation.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="34120" id="378" name="Jacques Barrot">
+    <ParallelChunk annotation_id="34120" docOffset="233">
+      <en>Vice-President of the Commission. - (FR) Madam President, I am at the disposal of Mr Kirkhope, who is an excellent pilot.</en>
+      <fr>vice-président de la Commission. - (FR) Madame la Présidente, je suis tout à fait <DiscourseConnective annotation_id="38483">à</DiscourseConnective> la disposition de M. Timothy Kirkhope, qui est un pilote de grande qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34242" docOffset="234">
+      <en>
+        <Alignment alignment="38561" annotation_id="34242">
+          <DiscourseConnective annotation_id="34242" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> he encounters any difficulties with the European Aviation Safety Agency (EASA) - and I do not believe the Agency has made any controversial moves recently - <Alignment alignment="40958" annotation_id="34402">
+          <DiscourseConnective annotation_id="34402" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="62326" annotation_id="34407">
+          <DiscourseConnective annotation_id="34407" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> this were the case, I would be the first to protest and would be at your disposal.</en>
+      <fr>
+        <Alignment alignment="34242" annotation_id="38561">
+          <DiscourseConnective annotation_id="38561" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> jamais il rencontrait des difficultés avec l'Agence européenne de sécurité aérienne, <DiscourseConnective annotation_id="38649">et</DiscourseConnective> je ne crois pas qu'en ce domaine, l'Agence ait, dans un passé récent, fait preuve d'un arbitraire qui serait condamnable, <Alignment alignment="34402" annotation_id="38774">
+          <DiscourseConnective annotation_id="38774" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <Alignment alignment="34407" annotation_id="38779">
+          <DiscourseConnective annotation_id="38779" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> tel était le cas, je serais le premier <DiscourseConnective annotation_id="38821">à</DiscourseConnective> protester <DiscourseConnective annotation_id="38833">et</DiscourseConnective> serais <DiscourseConnective annotation_id="38843">à</DiscourseConnective> votre disposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34493" docOffset="235">
+      <en>Having said that, I <Alignment alignment="38886" annotation_id="34513">
+          <DiscourseConnective annotation_id="34513" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> wish to reassure you that the Agency's regulation and control function will not involve any tasks requiring additional financial resources, <Alignment alignment="39068" annotation_id="34658">
+          <DiscourseConnective annotation_id="34658" sense="Contingency.Cause.Reason">insofar as</DiscourseConnective>
+        </Alignment> these tasks are financed by public funds.</en>
+      <fr>
+        <DiscourseConnective annotation_id="38864">Cela dit</DiscourseConnective>, je voudrais <Alignment alignment="34513" annotation_id="38886">
+          <DiscourseConnective annotation_id="38886" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> vous rassurer sur le fait <DiscourseConnective annotation_id="38918">que</DiscourseConnective> l'Agence ne trouvera pas dans ses fonctions de réglementation <DiscourseConnective annotation_id="38984">et</DiscourseConnective> de contrôle des tâches qui impliqueraient des moyens financiers supplémentaires, <Alignment alignment="34658" annotation_id="39068">
+          <DiscourseConnective annotation_id="39068" sense="Contingency.Cause.Reason">dans la mesure où</DiscourseConnective>
+        </Alignment> les tâches sont financées au titre de fonds publics.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34711" docOffset="236">
+      <en>I simply ask Parliament to ensure that the Agency has the necessary resources so that, <Alignment alignment="39254" annotation_id="34798">
+          <DiscourseConnective annotation_id="34798" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr Bradbourn told us, it is not obliged to seek charges which could be excessive in certain cases.</en>
+      <fr>
+        <DiscourseConnective annotation_id="39139">Simplement</DiscourseConnective>, je demanderai au Parlement de veiller à ce <DiscourseConnective annotation_id="39194">que</DiscourseConnective> l'Agence soit dotée des moyens nécessaires <DiscourseConnective annotation_id="39241">pour</DiscourseConnective> éviter, <Alignment alignment="34798" annotation_id="39254">
+          <DiscourseConnective annotation_id="39254" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> cela a été indiqué par M. Bradbourn, qu'elle ne soit obligée de demander des redevances qui pourraient être trop lourdes dans certains cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34900" docOffset="237">
+      <en>I honestly believe the EASA's track record has been positive.</en>
+      <fr>Je crois honnêtement que le bilan de l'Agence européenne de sécurité aérienne est positif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34962" docOffset="238">
+      <en>It is of course understood that the Agency's means of action must be perfected, <Alignment alignment="39581" annotation_id="35042">
+          <DiscourseConnective annotation_id="35042" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I feel we must not underestimate the potential of the EASA for European aviation as a whole.</en>
+      <fr>Qu'il faille encore perfectionner les moyens d'action de l'Agence est une chose entendue, <Alignment alignment="35042" annotation_id="39581">
+          <DiscourseConnective annotation_id="39581" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je crois qu'il ne faut pas sous-estimer l'intérêt que présente l'Agence <DiscourseConnective annotation_id="39658">pour</DiscourseConnective> toute l'aviation européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35139" docOffset="239">
+      <en>As proof of this, I can tell you that Mrs Marion Blakey, a former Administrator of the FAA in the United States, held meetings with the Agency in Cologne to discuss cooperation <DiscourseConnective annotation_id="35316" sense="Contingency.Cause.Reason">since</DiscourseConnective> she felt EASA was a high-quality agency.</en>
+      <fr>J'en veux <DiscourseConnective annotation_id="39702">pour preuve</DiscourseConnective> le fait <DiscourseConnective annotation_id="39722">que</DiscourseConnective> Mme Marion Blakey, qui était la présidente de la FAA aux États-Unis, est venue voir l'Agence <DiscourseConnective annotation_id="39819">à</DiscourseConnective> Cologne et a essayé de voir comment on pouvait coopérer, l'Agence de sécurité aérienne étant à ses yeux une Agence de grande qualité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35363" docOffset="240">
+      <en>Mrs Blakey told me this personally.</en>
+      <fr>Mme Marion Blakey me l'a dit personnellement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35399" docOffset="241">
+      <en>I listened very carefully to the comments by Mr Degutis.</en>
+      <fr>J'ai bien écouté ce qui a été dit par M. Degutis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35456" docOffset="242">
+      <en>
+        <Alignment alignment="40051" annotation_id="35456">
+          <DiscourseConnective annotation_id="35456" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> I said, the Commission has not ignored your arguments.</en>
+      <fr>
+        <Alignment alignment="35456" annotation_id="40051">
+          <DiscourseConnective annotation_id="40051" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> je l'ai dit dans mon intervention, la Commission n'est pas restée insensible à vos arguments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35514" docOffset="243">
+      <en>It will assess the economic impact on the aircraft market, whether <Alignment alignment="40251" annotation_id="35581">
+          <DiscourseConnective annotation_id="35581" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not aircraft are defined as complex, <Alignment alignment="40259" annotation_id="35621">
+          <DiscourseConnective annotation_id="35621" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I wish to tell you that we have taken due note of your request.</en>
+      <fr>Elle évaluera l'impact économique sur le marché des aéronefs, <DiscourseConnective annotation_id="40213">qu'</DiscourseConnective>ils soient définis <DiscourseConnective annotation_id="40235">comme</DiscourseConnective> complexes <Alignment alignment="35581" annotation_id="40251">
+          <DiscourseConnective annotation_id="40251" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non, <Alignment alignment="35621" annotation_id="40259">
+          <DiscourseConnective annotation_id="40259" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, évidemment, je puis vous <DiscourseConnective annotation_id="40288">dire que</DiscourseConnective> nous avons bien entendu votre appel.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35689" docOffset="244">
+      <en>I note that you are <Alignment alignment="40339" annotation_id="35709">
+          <DiscourseConnective annotation_id="35709" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a pilot, <Alignment alignment="42209" annotation_id="35723">
+          <DiscourseConnective annotation_id="35723" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we will not bring this matter to a conclusion without studying it carefully and taking appropriate action.</en>
+      <fr>Vous <Alignment alignment="35709" annotation_id="40339">
+          <DiscourseConnective annotation_id="40339" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment>, vous êtes pilote, je l'ai bien noté, <Alignment alignment="35723" annotation_id="40383">
+          <DiscourseConnective annotation_id="40383" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous n'allons pas régler cette affaire <DiscourseConnective annotation_id="40425">sans</DiscourseConnective> procéder <DiscourseConnective annotation_id="40439">à</DiscourseConnective> un examen attentif ni prendre des mesures appropriées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35834" docOffset="245">
+      <en>You were right to persist.</en>
+      <fr>Vous avez eu raison d'insister.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35861" docOffset="246">
+      <en>Madam President, it would be bad form for me to prolong the debate excessively.</en>
+      <fr>Alors, Madame la Présidente, j'aurais mauvaise grâce de prolonger trop longtemps le débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35941" docOffset="247">
+      <en>I particularly wish to thank Parliament.</en>
+      <fr>J'ai <DiscourseConnective annotation_id="40624">surtout</DiscourseConnective> <DiscourseConnective annotation_id="40632">à</DiscourseConnective> remercier le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35982" docOffset="248">
+      <en>I feel we have made good progress on safety and, <Alignment alignment="40734" annotation_id="36031">
+          <DiscourseConnective annotation_id="36031" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Mr Rack said, on a single European sky imposed in functional airspace blocks.</en>
+      <fr>Je crois que nous avons avancé sur la voie de la sécurité, sur celle aussi, <Alignment alignment="36031" annotation_id="40734">
+          <DiscourseConnective annotation_id="40734" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> disait M. Rack à l'instant, d'un ciel unique européen qui s'imposera avec des blocs fonctionnels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36112" docOffset="249">
+      <en>Mrs Lichtenberger is right to say that the blocks are essential for a much more efficient and environmentally friendly sky.</en>
+      <fr>Mme Lichtenberger a raison de <DiscourseConnective annotation_id="40868">dire que</DiscourseConnective> ces blocs fonctionnels sont indispensables <DiscourseConnective annotation_id="40920">pour que</DiscourseConnective> nous ayons vraiment un ciel beaucoup plus efficace <DiscourseConnective annotation_id="40980">et</DiscourseConnective> aussi plus environnementalement correct.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36236" docOffset="250">
+      <en>
+        <DiscourseConnective annotation_id="36236" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>, Madam President, I thank Parliament for its extremely positive work on this issue.</en>
+      <fr>Voilà, Madame la Présidente, je remercie beaucoup le Parlement qui a fait un travail très positif.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36330" docOffset="251">
+      <en>There will be subsequent stages in this process - everything in due course - <Alignment alignment="41197" annotation_id="36407">
+          <DiscourseConnective annotation_id="36407" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I believe we now have a regulation that will make European skies even safer.</en>
+      <fr>Nous aurons encore d'autres étapes <DiscourseConnective annotation_id="41158">à</DiscourseConnective> franchir, chaque chose <DiscourseConnective annotation_id="41183">en</DiscourseConnective> son temps, <Alignment alignment="23991" annotation_id="41197">
+          <DiscourseConnective annotation_id="41197" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je crois que nous disposons à présent d'une réglementation qui va <DiscourseConnective annotation_id="41268">encore</DiscourseConnective> mieux sécuriser le ciel européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36488" docOffset="252">
+      <en>Once again I wish to express my thanks to the House.</en>
+      <fr>Merci au Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="36541" id="379" name="President">
+    <ParallelChunk annotation_id="36541" docOffset="253">
+      <en>The debate is closed.</en>
+      <fr>(EN) Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36563" docOffset="254">
+      <en>The vote will take place tomorrow, Wednesday 12 December 2007.</en>
+      <fr>Le vote aura lieu demain, mercredi 12 décembre 2007.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36626" docOffset="255">
+      <en>Written statements (Rule 142)</en>
+      <fr>Déclarations écrites (article 142)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="36656" id="380" name="Christine De Veyrac ">
+    <ParallelChunk annotation_id="36656" docOffset="256">
+      <en>in writing. - (FR) I am glad we have secured a balanced agreement with the Council.</en>
+      <fr>par écrit. - (FR) Je me réjouis que nous soyons arrivés à un accord équilibré avec le Conseil.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36740" docOffset="257">
+      <en>This ought to allow us to rapidly implement the text, which definitely represents progress for the EU and passenger safety.</en>
+      <fr>Cela devrait nous permettre de mettre en œuvre rapidement ce texte qui est un progrès certain <DiscourseConnective annotation_id="41630">pour</DiscourseConnective> l'Union européenne <DiscourseConnective annotation_id="41654">et</DiscourseConnective> la sécurité des passagers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="36864" docOffset="258">
+      <en>Now all aircraft from third countries will be inspected and must obtain certification to transport passengers within the EU, <DiscourseConnective annotation_id="36989" sense="Expansion.Conjunction">and</DiscourseConnective> this <Alignment alignment="41842" annotation_id="36998">
+          <DiscourseConnective annotation_id="36998" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> represents progress in terms of harmonising the protection of European citizens.</en>
+      <fr>Désormais, chaque aéronef des pays tiers sera inspecté <DiscourseConnective annotation_id="41739">et</DiscourseConnective> devra recevoir une certification <DiscourseConnective annotation_id="41775">pour</DiscourseConnective> être autorisé à transporter des voyageurs dans l'Union, c'est <Alignment alignment="36453" annotation_id="41842">
+          <DiscourseConnective annotation_id="41842" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> une avancée <DiscourseConnective annotation_id="41860">pour</DiscourseConnective> l'harmonisation de la protection des citoyens européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37084" docOffset="259">
+      <en>This extends the process that began with the European blacklist, allowing all passengers to be protected in the same way regardless of which airport they use within the EU.</en>
+      <fr>Cela prolonge le processus amorcé avec la liste noire européenne, qui permet à chaque passager d'être protégé <DiscourseConnective annotation_id="42032">de la même façon</DiscourseConnective> quel que soit l'aéroport qu'il emprunte sur le territoire communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37257" docOffset="260">
+      <en>
+        <Alignment alignment="42122" annotation_id="37257">
+          <DiscourseConnective annotation_id="37257" sense="Temporal.Asynchronous.Precedence">Before</DiscourseConnective>
+        </Alignment> I finish, I wish to mention another point that I feel is important.</en>
+      <fr>
+        <Alignment alignment="37257" annotation_id="42122">
+          <DiscourseConnective annotation_id="42122" sense="Temporal.Asynchronous.Precedence">Avant de</DiscourseConnective>
+        </Alignment> conclure, je voudrais évoquer un autre point qui me semble important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37332" docOffset="261">
+      <en>In the recent adoption of the Galileo project, 50 million euros were taken from the budgets of several European agencies, <DiscourseConnective annotation_id="37454" sense="Expansion.Conjunction">and</DiscourseConnective> the European Aviation Safety Agency (EASA) was one of them.</en>
+      <fr>Dans le financement de Galileo adopté récemment, il est prévu que 50 millions soient prélevés sur le budget de plusieurs agences européennes, dont l'AESA.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37518" docOffset="262">
+      <en>I have always supported the Galileo project <DiscourseConnective annotation_id="37562" sense="Contingency.Cause.Reason">because</DiscourseConnective> it is especially important in my region, <Alignment alignment="42449" annotation_id="37611">
+          <DiscourseConnective annotation_id="37611" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am very glad an agreement has been reached on how it will be financed.</en>
+      <fr>J'ai toujours soutenu le projet Galileo qui revêt une importance particulière <DiscourseConnective annotation_id="42434">pour</DiscourseConnective> ma région <Alignment alignment="1882" annotation_id="42449">
+          <DiscourseConnective annotation_id="42449" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis très heureuse qu'on soit enfin parvenu à un accord sur son financement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37688" docOffset="263">
+      <en>I wish to point out, <Alignment alignment="42532" annotation_id="37709">
+          <DiscourseConnective annotation_id="37709" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, that we cannot simultaneously increase the powers of an agency and reduce its budget.</en>
+      <fr>
+        <Alignment alignment="9090" annotation_id="42532">
+          <DiscourseConnective annotation_id="42532" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> je voudrais souligner <DiscourseConnective annotation_id="42559">qu'</DiscourseConnective>on ne peut pas à la fois augmenter les compétences d'une agence <DiscourseConnective annotation_id="42626">et</DiscourseConnective> diminuer son budget.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="37804" docOffset="264">
+      <en>EASA must not be affected by this levy.</en>
+      <fr>L'AESA ne doit pas être concernée par cette ponction.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Guantánamo: imminent death penalty decision (</en>
+    <fr>Guantánamo: décision imminente en matière de peine de mort (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="49" id="296" name="Marie-Christine Vergiat">
+    <ParallelChunk annotation_id="49" docOffset="2">
+      <en>(FR) Mr President, ladies and gentlemen, I apologise for intervening in this vote. I would just like to ask for Amendment 9 to be placed in paragraph 7 and not in paragraph 4.</en>
+      <fr>Monsieur le Président, chers collègues, je vous prie de m'excuser d'intervenir dans ce vote juste <DiscourseConnective annotation_id="162">pour</DiscourseConnective> demander de mettre l'amendement 9, non pas au paragraphe 4, mais au paragraphe 7.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="225" docOffset="3">
+      <en>I think there has been a mistake.</en>
+      <fr>Je pense que c'est une erreur de notre part.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="259" docOffset="4">
+      <en>Amendment 9 concerns the right to a fair trial <Alignment alignment="435" annotation_id="306">
+          <DiscourseConnective annotation_id="306" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="767" annotation_id="311">
+          <DiscourseConnective annotation_id="311" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it is adopted - which would surprise me, but anyway - that would mean that Amendment 12, which is about another topic altogether, will fall.</en>
+      <fr>L'amendement 9 concerne le droit <DiscourseConnective annotation_id="327">à</DiscourseConnective> un procès équitable <Alignment alignment="306" annotation_id="349">
+          <DiscourseConnective annotation_id="349" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="250" annotation_id="353">
+          <DiscourseConnective annotation_id="353" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il était adopté - ce qui m'étonnerait, <DiscourseConnective annotation_id="394">mais</DiscourseConnective> enfin <DiscourseConnective annotation_id="405">quand même</DiscourseConnective> - il ferait tomber l'amendement 12 qui concerne un tout autre sujet.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

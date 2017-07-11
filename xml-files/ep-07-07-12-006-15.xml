@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>15.</en>
+    <fr>15.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Negotiation mandate: enhanced EC-Ukraine agreement (vote)</en>
+    <fr>Mandat de négociation relatif à un nouvel accord renforcé entre la Communauté européenne <DiscourseConnective annotation_id="93">et</DiscourseConnective> ses États membres, d'une part, et l'Ukraine, d'autre part (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="62" docOffset="2">
+    <en>- Kamiński report</en>
+    <fr>- Rapport Kamiński</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="80" docOffset="3">
+    <en>- Before the vote on Amendment 4:</en>
+    <fr>- <DiscourseConnective annotation_id="182">Avant</DiscourseConnective> le vote sur l'amendement 4:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="114" id="125" name="Elmar Brok">
+    <ParallelChunk annotation_id="114" docOffset="4">
+      <en>(DE) Mr President, it is with a heavy heart that I move this compromise amendment, <Alignment alignment="320" annotation_id="197">
+          <DiscourseConnective annotation_id="197" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it may be the key to a clear majority.</en>
+      <fr>(DE) Monsieur le Président, ce n'est pas de gaieté de cœur <DiscourseConnective annotation_id="275">que</DiscourseConnective> je présente cet amendement de compromis, <Alignment alignment="197" annotation_id="320">
+          <DiscourseConnective annotation_id="320" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il pourrait jouer un rôle décisif dans l'obtention d'une majorité nette.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="240" docOffset="5">
+      <en>At the end of the amendment, after 'open the corresponding process', should be added the words 'including the possibility of membership'.</en>
+      <fr>
+        <DiscourseConnective annotation_id="398">À</DiscourseConnective> la fin de l'amendement, <DiscourseConnective annotation_id="424">après</DiscourseConnective> "open the corresponding process", il s'agirait d'ajouter "including the possibility of membership".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="378" docOffset="6">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="412" id="127" name="Elmar Brok">
+    <ParallelChunk annotation_id="412" docOffset="7">
+      <en>(DE) The revised Amendment 6 has been withdrawn.</en>
+      <fr>(DE) L'amendement 6 révisé a été retiré.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="461" id="128" name="President">
+    <ParallelChunk annotation_id="461" docOffset="8">
+      <en>(DE) <DiscourseConnective annotation_id="466" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective> paragraph 11 will stay <DiscourseConnective annotation_id="494" sense="Temporal.Synchrony">as</DiscourseConnective> it was.</en>
+      <fr>Le paragraphe 11 conservera donc sa forme actuelle.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

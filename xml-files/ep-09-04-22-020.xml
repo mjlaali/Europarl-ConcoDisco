@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Second 'Marco Polo' programme (debate)</en>
+    <fr>Programme Marco Polo II (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="39" id="512" name="President">
+    <ParallelChunk annotation_id="39" docOffset="1">
+      <en>The next item is the report by Ulrich Stockmann, on behalf of the Committee on Transport and Tourism, on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EC) No 1692/2006 establishing the second 'Marco Polo' programme for the granting of Community financial assistance to improve the environmental performance of the freight transport system ('Marco Polo II') - C6-0482/2008 -.</en>
+      <fr>L'ordre du jour appelle le rapport de M. Stockmann, au nom de la commission des transports <DiscourseConnective annotation_id="123">et</DiscourseConnective> du tourisme, sur la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="193">et</DiscourseConnective> du Conseil modifiant le règlement (CE) n° 1692/2006 du Parlement européen et du Conseil établissant le deuxième programme " Marco Polo " <DiscourseConnective annotation_id="333">pour</DiscourseConnective> l'octroi d'un concours financier communautaire visant <DiscourseConnective annotation_id="392">à</DiscourseConnective> améliorer les performances environnementales du système de transport de marchandises (" Marco Polo II ") - C6-0482/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="465" id="513" name="Ulrich Stockmann">
+    <ParallelChunk annotation_id="465" docOffset="2">
+      <en>rapporteur. - (DE) Madam President, Commissioner, the displacement of freight from road to rail and internal waterways or short sea shipping is a slow burner in our transport debates and has been for decades.</en>
+      <fr>Madame la Présidente, Monsieur le Commissaire, le déplacement des marchandises du transport routier au transport ferroviaire <DiscourseConnective annotation_id="642">et</DiscourseConnective> aux voies navigables internes <DiscourseConnective annotation_id="675">ou</DiscourseConnective> au transport maritime à courte distance est un thème lent dans nos débats sur les transports depuis des décennies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="674" docOffset="3">
+      <en>Now, in the context of the climate debate, this debate has naturally taken on new importance.</en>
+      <fr>Aujourd'hui, dans le contexte du débat sur le climat, ce débat a naturellement pris une nouvelle importance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="768" docOffset="4">
+      <en>In the meantime, we have arrived at this shift via various political approaches and instruments.</en>
+      <fr>Entre-temps, nous sommes parvenus <DiscourseConnective annotation_id="936">à</DiscourseConnective> ce changement par l'intermédiaire de diverses approches <DiscourseConnective annotation_id="994">et</DiscourseConnective> instruments politiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="865" docOffset="5">
+      <en>
+        <Alignment alignment="1021" annotation_id="865">
+          <DiscourseConnective annotation_id="865" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="18722" annotation_id="874">
+          <DiscourseConnective annotation_id="874" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we look at it carefully, traffic is very difficult to shift in practice <Alignment alignment="31295" annotation_id="949">
+          <DiscourseConnective annotation_id="949" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this is only achieved in very rare cases.</en>
+      <fr>
+        <Alignment alignment="865" annotation_id="1021">
+          <DiscourseConnective annotation_id="1021" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, <Alignment alignment="8272" annotation_id="1032">
+          <DiscourseConnective annotation_id="1032" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous l'examinons attentivement, le trafic est très difficile <DiscourseConnective annotation_id="1096">à</DiscourseConnective> modifier dans la pratique <Alignment alignment="949" annotation_id="1124">
+          <DiscourseConnective annotation_id="1124" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le passage d'un moyen de transport à l'autre n'a lieu que dans de très rares cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="995" docOffset="6">
+      <en>Firstly, <Alignment alignment="1218" annotation_id="1004">
+          <DiscourseConnective annotation_id="1004" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> connections between the modes of transport are still not sufficiently harmonised; secondly, <Alignment alignment="1328" annotation_id="1104">
+          <DiscourseConnective annotation_id="1104" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> rail and inland waterways are still not sufficiently established as European service providers, and thirdly, <Alignment alignment="35915" annotation_id="1221">
+          <DiscourseConnective annotation_id="1221" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the environmentally-friendly forms of transport obviously cannot essentially provide a door-to-door service.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1209">D'abord</DiscourseConnective>, <Alignment alignment="717" annotation_id="1218">
+          <DiscourseConnective annotation_id="1218" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les connexions entre les modes de transport ne sont toujours pas suffisamment harmonisées, <DiscourseConnective annotation_id="1319">ensuite</DiscourseConnective>, <Alignment alignment="2286" annotation_id="1328">
+          <DiscourseConnective annotation_id="1328" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> les voies ferroviaires <DiscourseConnective annotation_id="1361">et</DiscourseConnective> navigables intérieures ne sont toujours pas suffisamment installées en <DiscourseConnective annotation_id="1435">tant que</DiscourseConnective> prestataires de services européens; <DiscourseConnective annotation_id="1480">enfin</DiscourseConnective>, <Alignment alignment="5659" annotation_id="1487">
+          <DiscourseConnective annotation_id="1487" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> manifestement les formes de transports écologiques ne peuvent fournir un service de porte-à-porte par essence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1338" docOffset="7">
+      <en>All these difficulties are being further exacerbated in the present recession by plummeting prices in road freight transport.</en>
+      <fr>Toutes ces difficultés sont <DiscourseConnective annotation_id="1636">encore</DiscourseConnective> exacerbées par la récession actuelle, car les prix du transport routier de marchandises se sont effondrés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1464" docOffset="8">
+      <en>Marco Polo II has <Alignment alignment="1779" annotation_id="1482">
+          <DiscourseConnective annotation_id="1482" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> felt the impact of all these problems.</en>
+      <fr>Le programme Marco Polo II a <Alignment alignment="1482" annotation_id="1779">
+          <DiscourseConnective annotation_id="1779" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> ressenti l'impact de tous ces problèmes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1526" docOffset="9">
+      <en>That is why we transport politicians are urgently interested in a solution, <Alignment alignment="16350" annotation_id="1602">
+          <DiscourseConnective annotation_id="1602" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> our stated target, namely that Marco Polo should help to displace 60% of the increase in road freight traffic, is now a long way away.</en>
+      <fr>C'est la raison pour laquelle les décideurs politiques en matière de transports sont intéressés par une solution de toute urgence, <Alignment alignment="1602" annotation_id="1961">
+          <DiscourseConnective annotation_id="1961" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> notre objectif exprimé, à savoir <DiscourseConnective annotation_id="1998">que</DiscourseConnective> Marco Polo contribue <DiscourseConnective annotation_id="2023">à</DiscourseConnective> déplacer vers d'autres moyens de transport 60 % de l'augmentation du trafic des marchandises sur les routes se trouve aujourd'hui bien loin de nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1745" docOffset="10">
+      <en>We <Alignment alignment="2182" annotation_id="1748">
+          <DiscourseConnective annotation_id="1748" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> need to switch direction before the end of this parliamentary term <Alignment alignment="2247" annotation_id="1825">
+          <DiscourseConnective annotation_id="1825" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we have <DiscourseConnective annotation_id="1837" sense="Contingency.Cause.Result">therefore</DiscourseConnective> found a most reasonable compromise.</en>
+      <fr>Il faut <Alignment alignment="1748" annotation_id="2182">
+          <DiscourseConnective annotation_id="2182" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que nous changions de cap <DiscourseConnective annotation_id="2213">avant</DiscourseConnective> la fin de cette législature <Alignment alignment="14558" annotation_id="2247">
+          <DiscourseConnective annotation_id="2247" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous avons trouvé pour cela un compromis des plus raisonnables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1883" docOffset="11">
+      <en>What is to happen?</en>
+      <fr>
+        <DiscourseConnective annotation_id="2314">Que</DiscourseConnective> va-t-il se passer?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1902" docOffset="12">
+      <en>Firstly, the Commission instructed an agency to take over the administration of the programme and to simplify the administration procedure even <Alignment alignment="2475" annotation_id="2046">
+          <DiscourseConnective annotation_id="2046" sense="Temporal.Asynchronous.Precedence">before</DiscourseConnective>
+        </Alignment> this regulation was proposed.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2337">D'abord</DiscourseConnective>, la Commission a enjoint à un organisme de reprendre l'administration du programme <DiscourseConnective annotation_id="2428">et</DiscourseConnective> de simplifier la procédure d'administration <Alignment alignment="2046" annotation_id="2475">
+          <DiscourseConnective annotation_id="2475" sense="Temporal.Asynchronous.Precedence">avant même que</DiscourseConnective>
+        </Alignment> ce règlement n'ait été proposé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2083" docOffset="13">
+      <en>That makes sense.</en>
+      <fr>C'est logique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2101" docOffset="14">
+      <en>We have found and jointly negotiated a whole series of points in the compromise in order to make the programme more attractive.</en>
+      <fr>Nous avons trouvé <DiscourseConnective annotation_id="2555">et</DiscourseConnective> négocié ensemble toute une série de points dans le compromis <DiscourseConnective annotation_id="2619">afin de</DiscourseConnective> rendre le programme plus attrayant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2229" docOffset="15">
+      <en>Firstly, the threshold for Motorways of the Sea has been reduced from 250 to 200 million tonne-kilometres a year; secondly, the threshold for traffic displacement projects has been reduced from 80 to 60 million tonne-kilometres, <Alignment alignment="2923" annotation_id="2458">
+          <DiscourseConnective annotation_id="2458" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> has the threshold for inland waterway projects, where Parliament pushed through a reduction from 17 to 13 million tonne-kilometres.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2663">D'abord</DiscourseConnective>, le seuil <DiscourseConnective annotation_id="2681">pour</DiscourseConnective> les "autoroutes de la mer" a reculé et est passé de 250 <DiscourseConnective annotation_id="2742">à</DiscourseConnective> 200 millions de tonnes-kilomètres par an; <DiscourseConnective annotation_id="2786">ensuite</DiscourseConnective>, le seuil <DiscourseConnective annotation_id="2804">pour</DiscourseConnective> les projets de déplacement du trafic a lui aussi reculé et est passé de 80 <DiscourseConnective annotation_id="2884">à</DiscourseConnective> 60 millions de tonnes-kilomètres. Il <Alignment alignment="2458" annotation_id="2923">
+          <DiscourseConnective annotation_id="2923" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> a été de même pour le seuil des projets relatifs aux voies navigables intérieures, pour lequel le Parlement a fait voter une réduction de 17 <DiscourseConnective annotation_id="3067">à</DiscourseConnective> 13 millions de tonnes-kilomètres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2593" docOffset="16">
+      <en>We have <Alignment alignment="3114" annotation_id="2601">
+          <DiscourseConnective annotation_id="2601" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> increased the permissible funding level for additional infrastructures from 10% to 20%.</en>
+      <fr>Nous avons <Alignment alignment="2601" annotation_id="3114">
+          <DiscourseConnective annotation_id="3114" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> augmenté le niveau de financement admissible <DiscourseConnective annotation_id="3165">pour</DiscourseConnective> les infrastructures supplémentaires en le faisant passer de 10 % <DiscourseConnective annotation_id="3235">à</DiscourseConnective> 20 %.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2694" docOffset="17">
+      <en>That makes sense.</en>
+      <fr>C'est logique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2712" docOffset="18">
+      <en>Finally, we <DiscourseConnective annotation_id="2724" sense="Expansion.Conjunction">also</DiscourseConnective> successfully argued that economic crises such as we are experiencing now can <Alignment alignment="3388" annotation_id="2806">
+          <DiscourseConnective annotation_id="2806" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be cited as grounds for extending the term of contracts.</en>
+      <fr>
+        <DiscourseConnective annotation_id="3258">Finalement</DiscourseConnective>, nous avons fait valoir avec succès <DiscourseConnective annotation_id="3305">que</DiscourseConnective> les crises économiques telles <DiscourseConnective annotation_id="3339">que</DiscourseConnective> celle que nous connaissons à présent peuvent <Alignment alignment="45" annotation_id="3388">
+          <DiscourseConnective annotation_id="3388" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être invoquées <DiscourseConnective annotation_id="3413">pour</DiscourseConnective> la prolongation de la durée des contrats.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2868" docOffset="19">
+      <en>
+        <Alignment alignment="3460" annotation_id="2868">
+          <DiscourseConnective annotation_id="2868" sense="Contingency.Cause.Result">So</DiscourseConnective>
+        </Alignment> we have made the programme considerably more attractive.</en>
+      <fr>
+        <Alignment alignment="2868" annotation_id="3460">
+          <DiscourseConnective annotation_id="3460" sense="Contingency.Cause.Result">Ainsi</DiscourseConnective>
+        </Alignment>, nous avons considérablement augmenté le caractère attrayant du programme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2928" docOffset="20">
+      <en>This compromise which we reached was <Alignment alignment="4596" annotation_id="2965">
+          <DiscourseConnective annotation_id="2965" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> made possible by a high degree of consensus between all parliamentarians, who put aside justifiable considerations and fundamental debate at this point, in order to quickly get the programme started again.</en>
+      <fr>Ce compromis <DiscourseConnective annotation_id="3554">que</DiscourseConnective> nous avons atteint a <Alignment alignment="2965" annotation_id="3579">
+          <DiscourseConnective annotation_id="3579" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> vu le jour grâce <DiscourseConnective annotation_id="3602">à</DiscourseConnective> un degré élevé de consensus entre tous les députés, qui ont mis de côté les considérations justifiables <DiscourseConnective annotation_id="3708">et</DiscourseConnective> le débat fondamental <DiscourseConnective annotation_id="3732">à</DiscourseConnective> ce stade, <DiscourseConnective annotation_id="3744">dans le but de</DiscourseConnective> faire redémarrer le programme rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3176" docOffset="21">
+      <en>That is why, before the Commission tables a Marco Polo III proposal, we really need a general debate <Alignment alignment="27121" annotation_id="3277">
+          <DiscourseConnective annotation_id="3277" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can reintroduce all these points which are necessary to our future orientation.</en>
+      <fr>C'est la raison pour laquelle, <DiscourseConnective annotation_id="3832">avant que</DiscourseConnective> la Commission ne fasse une proposition de programme Marco Polo III, nous avons vraiment besoin d'un débat général, <Alignment alignment="3277" annotation_id="3957">
+          <DiscourseConnective annotation_id="3957" sense="Contingency.Cause.Result">de manière à</DiscourseConnective>
+        </Alignment> pouvoir réintroduire tous les points qui sont nécessaires <DiscourseConnective annotation_id="4028">à</DiscourseConnective> notre future orientation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3368" docOffset="22">
+      <en>
+        <Alignment alignment="4056" annotation_id="3368">
+          <DiscourseConnective annotation_id="3368" sense="Expansion.Conjunction">Moreover</DiscourseConnective>
+        </Alignment>, we naturally want to know how the adjustment we have made now will work out.</en>
+      <fr>
+        <Alignment alignment="3368" annotation_id="4056">
+          <DiscourseConnective annotation_id="4056" sense="Expansion.Conjunction">De plus</DiscourseConnective>
+        </Alignment>, nous voulons naturellement savoir de quelle manière l'ajustement auquel nous avons procédé va <DiscourseConnective annotation_id="4159">maintenant</DiscourseConnective> fonctionner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3455" docOffset="23">
+      <en>This is the subject of the vote <Alignment alignment="17862" annotation_id="3487">
+          <DiscourseConnective annotation_id="3487" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope I shall have your support tomorrow.</en>
+      <fr>Ceci est l'objet du vote <Alignment alignment="12085" annotation_id="4208">
+          <DiscourseConnective annotation_id="4208" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère que j'aurai votre appui demain.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3534" id="514" language="IT" name="Antonio Tajani">
+    <ParallelChunk annotation_id="3534" docOffset="24">
+      <en>Madam President, honourable Members, I would like to thank Mr Stockmann for the work he has done.</en>
+      <fr>Madame la Présidente, Mesdames et Messieurs les députés, je tiens <DiscourseConnective annotation_id="4318">à</DiscourseConnective> remercier M. Stockmann <DiscourseConnective annotation_id="4343">pour</DiscourseConnective> le travail qu'il a accompli.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3632" docOffset="25">
+      <en>Since 2003, the Marco Polo programme has aimed to create a more sustainable transport system in Europe by shifting a substantial part of the annual increase in road freight transport to other, more environmentally friendly modes of transport such as inland waterways, rail transport and short sea shipping.</en>
+      <fr>
+        <DiscourseConnective annotation_id="4377">Depuis</DiscourseConnective> 2003, le programme Marco Polo vise <DiscourseConnective annotation_id="4419">à</DiscourseConnective> créer un système de transports plus viable <DiscourseConnective annotation_id="4464">en</DiscourseConnective> Europe <DiscourseConnective annotation_id="4474">en</DiscourseConnective> transférant une partie importante de l'augmentation annuelle du transport routier de marchandises vers d'autres modes de transport plus écologiques <DiscourseConnective annotation_id="4625">comme</DiscourseConnective> les voies navigables intérieures, le transport ferroviaire <DiscourseConnective annotation_id="4690">et</DiscourseConnective> le transport maritime à courte distance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3939" docOffset="26">
+      <en>The first Marco Polo programme, which aimed to shift 48 billon tonne-kilometres from the roads in four years, ended in 2006, <Alignment alignment="4871" annotation_id="4064">
+          <DiscourseConnective annotation_id="4064" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> the external assessment has shown that only 64% of this figure was achieved.</en>
+      <fr>Le premier programme Marco Polo, qui visait <DiscourseConnective annotation_id="4778">à</DiscourseConnective> transférer 48 milliards de tonnes-kilomètres des routes <DiscourseConnective annotation_id="4836">en</DiscourseConnective> quatre ans, a pris fin <DiscourseConnective annotation_id="4862">en</DiscourseConnective> 2006, <Alignment alignment="10568" annotation_id="4871">
+          <DiscourseConnective annotation_id="4871" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> l'évaluation externe a montré <DiscourseConnective annotation_id="4909">que</DiscourseConnective> seuls 64 % de ce chiffre avaient été atteints.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4150" docOffset="27">
+      <en>The experience gained with the second Marco Polo programme shows that, unfortunately, it is not becoming more effective, <Alignment alignment="5082" annotation_id="4271">
+          <DiscourseConnective annotation_id="4271" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that Europe is not making full use of this important tool for achieving a transport system more suited to the evolution of the market.</en>
+      <fr>L'expérience acquise avec le second programme Marco Polo montre <DiscourseConnective annotation_id="5024">malheureusement</DiscourseConnective> que celui-ci ne devient pas plus efficace <Alignment alignment="12526" annotation_id="5082">
+          <DiscourseConnective annotation_id="5082" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="5085">que</DiscourseConnective> l'Europe n'utilise pas pleinement cet outil important <DiscourseConnective annotation_id="5143">pour</DiscourseConnective> parvenir à un système de transports plus adapté <DiscourseConnective annotation_id="5196">à</DiscourseConnective> l'évolution du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4410" docOffset="28">
+      <en>Last year, I sent a series of letters to all EU transport ministers, urging them to use Marco Polo.</en>
+      <fr>L'an dernier, j'ai envoyé une multitude de lettres <DiscourseConnective annotation_id="5272">à</DiscourseConnective> tous les ministres des transports de l'Union européenne, en les exhortant <DiscourseConnective annotation_id="5348">à</DiscourseConnective> utiliser Marco Polo.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4510" docOffset="29">
+      <en>I <Alignment alignment="7082" annotation_id="4512">
+          <DiscourseConnective annotation_id="4512" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> believe - and it looks as though Parliament shares my view - that the time has come to amend the regulation, to change the rules on access to this project, or programme, which must be granting funds that are not always used.</en>
+      <fr>Je crois <Alignment alignment="17743" annotation_id="5380">
+          <DiscourseConnective annotation_id="5380" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> - <DiscourseConnective annotation_id="5387">et</DiscourseConnective> on dirait <DiscourseConnective annotation_id="5400">que</DiscourseConnective> le Parlement partage mon avis - <DiscourseConnective annotation_id="5436">que</DiscourseConnective> le moment est venu d'amender le règlement, <DiscourseConnective annotation_id="5483">pour</DiscourseConnective> modifier les règles d'accès <DiscourseConnective annotation_id="5516">à</DiscourseConnective> ce projet <DiscourseConnective annotation_id="5528">ou</DiscourseConnective> programme qui doit octroyer des fonds qui ne sont pas toujours utilisés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4747" docOffset="30">
+      <en>We are definitely moving in the right direction, <Alignment alignment="3696" annotation_id="4796">
+          <DiscourseConnective annotation_id="4796" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we are trying to help small and medium-sized enterprises to benefit from a Community project.</en>
+      <fr>Nous avançons clairement dans la bonne direction, <Alignment alignment="4796" annotation_id="5654">
+          <DiscourseConnective annotation_id="5654" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous essayons d'aider les petites <DiscourseConnective annotation_id="5692">et</DiscourseConnective> moyennes entreprises <DiscourseConnective annotation_id="5716">à</DiscourseConnective> bénéficier d'un projet communautaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4898" docOffset="31">
+      <en>SMEs have, up to now, faced quite a lot of difficulty in accessing the European funds granted through the Marco Polo programme.</en>
+      <fr>
+        <DiscourseConnective annotation_id="5756">Jusqu'à</DiscourseConnective> présent, les PME ont fait face à bon nombre de difficultés <DiscourseConnective annotation_id="5823">pour</DiscourseConnective> accéder aux fonds européens octroyés par l'intermédiaire du programme Marco Polo.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5026" docOffset="32">
+      <en>The message we are sending out today is not only directed at those who use Marco Polo.</en>
+      <fr>Le message que nous transmettons aujourd'hui ne <DiscourseConnective annotation_id="5958">s'</DiscourseConnective>adresse pas seulement <DiscourseConnective annotation_id="5982">à</DiscourseConnective> ceux qui utilisent Marco Polo.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5113" docOffset="33">
+      <en>It is, I believe, a call for many European regulations to be amended, <Alignment alignment="23804" annotation_id="5183">
+          <DiscourseConnective annotation_id="5183" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> the same is true of other sectors and of national regulations involving European funds; they are not always written in such a way <DiscourseConnective annotation_id="5319" sense="Temporal.Synchrony">as</DiscourseConnective> to make them easy to access.</en>
+      <fr>Il est, je crois, une invitation <DiscourseConnective annotation_id="6048">à</DiscourseConnective> amender de nombreux règlements européens, <Alignment alignment="5183" annotation_id="6092">
+          <DiscourseConnective annotation_id="6092" sense="Contingency.Cause.Reason">puisqu'</DiscourseConnective>
+        </Alignment>il en va <DiscourseConnective annotation_id="6108">de même</DiscourseConnective> pour d'autres secteurs <DiscourseConnective annotation_id="6139">et</DiscourseConnective> <DiscourseConnective annotation_id="6142">pour</DiscourseConnective> les règlements nationaux concernant les fonds européens. Ces règlements ne sont pas toujours rédigés pour être faciles d'accès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5351" docOffset="34">
+      <en>This is a very real problem in all Member States, <Alignment alignment="8709" annotation_id="5401">
+          <DiscourseConnective annotation_id="5401" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would emphasise again that it concerns not only our regulations, but also national regulations that involve European funds.</en>
+      <fr>Ce problème est bien réel dans tous les États membres, <Alignment alignment="5401" annotation_id="6330">
+          <DiscourseConnective annotation_id="6330" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je souhaite insister encore une fois sur le fait <DiscourseConnective annotation_id="6382">qu'</DiscourseConnective>il concerne <DiscourseConnective annotation_id="6397">non seulement</DiscourseConnective> nos règlements, <DiscourseConnective annotation_id="6427">mais aussi</DiscourseConnective> les règlements nationaux qui concernent les fonds européens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5531" docOffset="35">
+      <en>So <DiscourseConnective annotation_id="5534" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>, I feel that today we are not only working on the Marco Polo programme, <Alignment alignment="34298" annotation_id="5611">
+          <DiscourseConnective annotation_id="5611" sense="Expansion.Restatement">rather</DiscourseConnective>
+        </Alignment> we are sending a message on good law-making for the benefit of citizens and on simplifying access to Community projects.</en>
+      <fr>J'ai <DiscourseConnective annotation_id="6504">donc</DiscourseConnective> l'impression <DiscourseConnective annotation_id="6522">que</DiscourseConnective> nous ne travaillons pas seulement aujourd'hui sur le programme Marco Polo, <Alignment alignment="5611" annotation_id="6601">
+          <DiscourseConnective annotation_id="6601" sense="Expansion.Restatement">mais</DiscourseConnective>
+        </Alignment> que nous envoyons plutôt un message visant <DiscourseConnective annotation_id="6649">à</DiscourseConnective> bien légiférer au profit des citoyens <DiscourseConnective annotation_id="6689">et</DiscourseConnective> sur la simplification de l'accès aux projets communautaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5739" docOffset="36">
+      <en>I <Alignment alignment="21051" annotation_id="5741">
+          <DiscourseConnective annotation_id="5741" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> think, of course, that Mr Stockmann's work is worthy of support <Alignment alignment="33505" annotation_id="5815">
+          <DiscourseConnective annotation_id="5815" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the proposed text should be adopted, <Alignment alignment="6869" annotation_id="5861">
+          <Alignment alignment="20089" annotation_id="5861">
+            <DiscourseConnective annotation_id="5861" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> Parliament, I repeat, can send out a positive message tomorrow to the entire European Union.</en>
+      <fr>Je pense <Alignment alignment="1717" annotation_id="6762">
+          <DiscourseConnective annotation_id="6762" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, bien sûr, <DiscourseConnective annotation_id="6778">que</DiscourseConnective> le travail de M. Stockmann mérite un soutien <Alignment alignment="4067" annotation_id="6827">
+          <DiscourseConnective annotation_id="6827" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="6830">que</DiscourseConnective> le texte proposé doit être adopté, <Alignment alignment="5861" annotation_id="6869">
+          <Alignment alignment="14869" annotation_id="6869">
+            <DiscourseConnective annotation_id="6869" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> le Parlement, je le répète, puisse faire passer un message positif demain <DiscourseConnective annotation_id="6952">à</DiscourseConnective> l'Union européenne tout entière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5962" docOffset="37">
+      <en>Let me say again, this is not just a matter that concerns Marco Polo; it is a much broader issue.</en>
+      <fr>Permettez-moi de dire une fois de plus que ce n'est pas une affaire qui concerne seulement Marco Polo; cette question est beaucoup plus vaste.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6060" docOffset="38">
+      <en>Starting with Marco Polo, I believe that we will be doing a service to other sectors that are particularly conscious of the use of Community funds and the take-up of the various programmes that the Commission offers to the 27 EU states and their businesses.</en>
+      <fr>En commençant par Marco Polo, je crois <DiscourseConnective annotation_id="7169">que</DiscourseConnective> nous rendrons service <DiscourseConnective annotation_id="7195">à</DiscourseConnective> d'autres secteurs qui sont particulièrement conscients de l'utilisation des fonds communautaires <DiscourseConnective annotation_id="7294">et</DiscourseConnective> de l'adoption des différents programmes offerts par la Commission aux 27 États membres de l'Union <DiscourseConnective annotation_id="7395">et</DiscourseConnective> à leurs entreprises.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6318" id="515" name="Anne E. Jensen">
+    <ParallelChunk annotation_id="6318" docOffset="39">
+      <en>draftsman of the opinion of the Committee on Budgets. - (DA) Madam President, <Alignment alignment="7500" annotation_id="6396">
+          <DiscourseConnective annotation_id="6396" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the Committee on Budgets decided to issue a statement on the Marco Polo programme, its precise reason for doing so was that it had found it difficult to ensure that the funding was being used for its designated purpose.</en>
+      <fr>rapporteure pour avis de la commission des budgets. - (DK) Madame la Présidente, <Alignment alignment="4540" annotation_id="7500">
+          <DiscourseConnective annotation_id="7500" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la commission des budgets a décidé de faire une déclaration sur le programme Marco Polo, sa raison de faire cette déclaration était <DiscourseConnective annotation_id="7640">qu'</DiscourseConnective>elle avait éprouvé des difficultés <DiscourseConnective annotation_id="7678">à</DiscourseConnective> s'assurer <DiscourseConnective annotation_id="7690">que</DiscourseConnective> le financement était utilisé aux fins prévues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6621" docOffset="40">
+      <en>We, <Alignment alignment="38886" annotation_id="6625">
+          <DiscourseConnective annotation_id="6625" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, obviously welcome the fact that action is now being taken.</en>
+      <fr>
+        <Alignment alignment="12737" annotation_id="7741">
+          <DiscourseConnective annotation_id="7741" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+        </Alignment>, nous saluons le fait <DiscourseConnective annotation_id="7772">que</DiscourseConnective> des mesures aient désormais été prises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6695" docOffset="41">
+      <en>The Commission deserves praise for this.</en>
+      <fr>La Commission mérite des félicitations <DiscourseConnective annotation_id="7855">pour</DiscourseConnective> ces progrès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6736" docOffset="42">
+      <en>We are trying to simplify the administration and tighten up the rules, in order to make it easier for funding to be used for its designated purpose.</en>
+      <fr>Nous tentons de simplifier l'administration <DiscourseConnective annotation_id="7917">et</DiscourseConnective> de renforcer les règles <DiscourseConnective annotation_id="7944">afin de</DiscourseConnective> faciliter l'utilisation du financement aux fins prévues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6885" docOffset="43">
+      <en>In response, we on the Committee on Budgets have <DiscourseConnective annotation_id="6934" sense="Expansion.Conjunction">also</DiscourseConnective> agreed that, <Alignment alignment="8087" annotation_id="6952">
+          <DiscourseConnective annotation_id="6952" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we fail to improve the implementation of the programme, <Alignment alignment="14371" annotation_id="7011">
+          <DiscourseConnective annotation_id="7011" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we fail to ensure that funding is being used for its designated purpose, we will need to rethink whether so much money should be allocated to Marco Polo <Alignment alignment="8315" annotation_id="7167">
+          <DiscourseConnective annotation_id="7167" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> whether some of the funding should be rechannelled into other programmes, where it can be better used.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8009">En</DiscourseConnective> réponse, nous nous sommes entendus <DiscourseConnective annotation_id="8047">à</DiscourseConnective> la commission des budgets sur le fait <Alignment alignment="6952" annotation_id="8087">
+          <DiscourseConnective annotation_id="8087" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> nous ne parvenions pas à mettre le programme en œuvre, <Alignment alignment="7011" annotation_id="8149">
+          <DiscourseConnective annotation_id="8149" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous ne parvenions pas <DiscourseConnective annotation_id="8175">à</DiscourseConnective> nous assurer <DiscourseConnective annotation_id="8190">que</DiscourseConnective> le financement est utilisé aux fins prévues, nous devrions reconsidérer l'octroi d'une telle somme d'argent <DiscourseConnective annotation_id="8302">à</DiscourseConnective> Marco Polo <Alignment alignment="7167" annotation_id="8315">
+          <DiscourseConnective annotation_id="8315" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> prévoir la réorientation d'une partie du financement vers d'autres programmes dans lesquels les fonds seront <DiscourseConnective annotation_id="8427">mieux</DiscourseConnective> utilisés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7274" docOffset="44">
+      <en>Of course, we need to carry out a mid-term review of the budget after the 2010 elections <Alignment alignment="39337" annotation_id="7363">
+          <DiscourseConnective annotation_id="7363" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> one of the things we will obviously need to get to grips with then is an assessment of which programmes are working <Alignment alignment="8710" annotation_id="7483">
+          <DiscourseConnective annotation_id="7483" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which are not.</en>
+      <fr>Évidemment, nous devons mener à bien une révision à mi-parcours du budget <DiscourseConnective annotation_id="8517">après</DiscourseConnective> les élections de 2010 <Alignment alignment="7363" annotation_id="8545">
+          <DiscourseConnective annotation_id="8545" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'une des choses que nous devrons manifestement mettre en place <DiscourseConnective annotation_id="8612">à ce moment-là</DiscourseConnective> sera une évaluation visant <DiscourseConnective annotation_id="8654">à</DiscourseConnective> déterminer quels sont les programmes qui fonctionnent <Alignment alignment="7483" annotation_id="8710">
+          <DiscourseConnective annotation_id="8710" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ceux qui ne fonctionnent pas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7502" docOffset="45">
+      <en>Where we see that there is more acute need, we will obviously divert money away from projects where it cannot be used and redirect it, <Alignment alignment="31609" annotation_id="7637">
+          <Alignment alignment="8931" annotation_id="7637">
+            <DiscourseConnective annotation_id="7637" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> it is not merely wasted as a grant.</en>
+      <fr>Là où nous constaterons des besoins plus profonds, nous retirerons bien sûr l'argent affecté aux projets dans lesquels il ne peut être utilisé <DiscourseConnective annotation_id="8886">et</DiscourseConnective> nous le réaffecterons à d'autres besoins, <Alignment alignment="7637" annotation_id="8931">
+          <Alignment alignment="7637" annotation_id="8931">
+            <DiscourseConnective annotation_id="8931" sense="Contingency.Cause.Result">afin qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>il ne <DiscourseConnective annotation_id="8945">soit</DiscourseConnective> pas <DiscourseConnective annotation_id="8954">simplement</DiscourseConnective> gaspillé <DiscourseConnective annotation_id="8974">comme</DiscourseConnective> une subvention.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7681" id="516" name="Dieter-Lebrecht Koch">
+    <ParallelChunk annotation_id="7681" docOffset="46">
+      <en>on behalf of the PPE-DE Group. - (DE) Madam President, plenary will vote tomorrow on the Marco Polo II programme to improve the environmental performance of freight transport.</en>
+      <fr>au nom du groupe PPE-DE. - (DE) Madame la Présidente, la plénière votera demain sur le programme Marco Polo <DiscourseConnective annotation_id="9104">afin d'</DiscourseConnective>améliorer la performance environnementale du transport de marchandises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7857" docOffset="47">
+      <en>Marco Polo II offers improved planning security, <Alignment alignment="9258" annotation_id="7906">
+          <DiscourseConnective annotation_id="7906" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is timetabled to run until 31 December 2013.</en>
+      <fr>Marco Polo II propose une amélioration de la planification de la sécurité, <Alignment alignment="7906" annotation_id="9258">
+          <DiscourseConnective annotation_id="9258" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il est prévu <DiscourseConnective annotation_id="9275">pour</DiscourseConnective> fonctionner <DiscourseConnective annotation_id="9292">jusqu'au</DiscourseConnective> 31 décembre 2013.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7962" docOffset="48">
+      <en>It has a budget of EUR 450 million.</en>
+      <fr>Il a un budget de 450 millions d'euros.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7998" docOffset="49">
+      <en>The eligibility thresholds for the proposed projects are to be lowered in comparison with Marco Polo I and are equal to utilisation by small and medium-sized enterprises.</en>
+      <fr>Les seuils d'admissibilité <DiscourseConnective annotation_id="9386">pour</DiscourseConnective> les projets proposés doivent être diminués par rapport <DiscourseConnective annotation_id="9446">à</DiscourseConnective> Marco Polo I <DiscourseConnective annotation_id="9461">et</DiscourseConnective> ils équivalent <DiscourseConnective annotation_id="9479">à</DiscourseConnective> l'utilisation des petites <DiscourseConnective annotation_id="9507">et</DiscourseConnective> moyennes entreprises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8169" docOffset="50">
+      <en>I am particularly grateful to the rapporteur for that.</en>
+      <fr>Je suis particulièrement reconnaissant <DiscourseConnective annotation_id="9571">à</DiscourseConnective> la rapporteure <DiscourseConnective annotation_id="9588">à cet égard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8224" docOffset="51">
+      <en>In light of the current financial situation of many small and medium-sized enterprises, this is a very citizen-friendly policy to which I can give my unconditional support.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9601">À</DiscourseConnective> la lumière de la situation financière actuelle de nombreuses PME, il <DiscourseConnective annotation_id="9672">s'</DiscourseConnective>agit d'une politique très favorable aux citoyens <DiscourseConnective annotation_id="9723">à</DiscourseConnective> laquelle je <DiscourseConnective annotation_id="9737">puis</DiscourseConnective> accorder un soutien sans réserve.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8397" docOffset="52">
+      <en>The programme is based on displacing traffic and reducing the overload on road transport.</en>
+      <fr>Le programme se fonde sur le transfert du trafic <DiscourseConnective annotation_id="9825">et</DiscourseConnective> sur la réduction de la congestion du réseau routier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8487" docOffset="53">
+      <en>It will <Alignment alignment="9895" annotation_id="8495">
+          <DiscourseConnective annotation_id="8495" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> strengthen co-modality and hence contribute towards an efficient and sustainable transport system.</en>
+      <fr>Il renforcera <Alignment alignment="8495" annotation_id="9895">
+          <DiscourseConnective annotation_id="9895" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> les transports combinés <DiscourseConnective annotation_id="9929">et</DiscourseConnective> contribuera <DiscourseConnective annotation_id="9944">ainsi</DiscourseConnective> à un système de transports efficace <DiscourseConnective annotation_id="9986">et</DiscourseConnective> durable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8599" docOffset="54">
+      <en>With a positive vote, which I recommend for tomorrow, the legislative procedure will be closed at first reading.</en>
+      <fr>Avec un vote positif, <DiscourseConnective annotation_id="10020">que</DiscourseConnective> je préconise <DiscourseConnective annotation_id="10037">pour</DiscourseConnective> demain, la procédure législative sera close <DiscourseConnective annotation_id="10086">en</DiscourseConnective> première lecture.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8712" id="517" language="PL" name="Zbigniew Krzysztof Kuźmiuk">
+    <ParallelChunk annotation_id="8712" docOffset="55">
+      <en>Madam President, Commissioner, speaking on behalf of the Union for Europe of the Nations Group, I would like to draw attention to the following matters.</en>
+      <fr>Madame la Présidente, Monsieur le Commissaire, au nom du groupe Union <DiscourseConnective annotation_id="10177">pour</DiscourseConnective> l'Europe des Nations, je voudrais attirer votre attention sur les affaires suivantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8865" docOffset="56">
+      <en>Despite commendable objectives, such as reducing overload in road transport, reducing the effects of road transport on the environment, and preferring short sea shipping, rail, inland waterway or a combination of transport modes for goods transport, barely half of the financial means available for realisation of the Marco Polo programme are used each year, <Alignment alignment="10744" annotation_id="9224">
+          <DiscourseConnective annotation_id="9224" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> only 60% of the programme's planned activities are executed.</en>
+      <fr>Malgré des objectifs louables <DiscourseConnective annotation_id="10298">comme</DiscourseConnective> la réduction de la congestion du réseau routier, la réduction des effets du transport routier sur l'environnement <DiscourseConnective annotation_id="10418">et</DiscourseConnective> la préférence accordée au transport maritime à courte distance, au transport ferroviaire, aux voies navigables intérieures <DiscourseConnective annotation_id="10544">ou</DiscourseConnective> à une combinaison de modes de transport <DiscourseConnective annotation_id="10587">pour</DiscourseConnective> le transport de marchandises, à peine la moitié des moyens financiers disponibles <DiscourseConnective annotation_id="10674">pour</DiscourseConnective> la réalisation du programme Marco Polo est utilisée chaque année <Alignment alignment="9224" annotation_id="10744">
+          <DiscourseConnective annotation_id="10744" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> 60 % seulement des activités planifiées du programme sont exécutés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9289" docOffset="57">
+      <en>The European Commission's proposals to simplify the programme should, <Alignment alignment="15490" annotation_id="9359">
+          <DiscourseConnective annotation_id="9359" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, be supported, and <Alignment alignment="23394" annotation_id="9388">
+          <Alignment alignment="10930" annotation_id="9388">
+            <DiscourseConnective annotation_id="9388" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>: participation in the programme of small and single-person businesses without having to form consortia; a clear reduction in the tonne-kilometre threshold required for eligibility for the programme; raising funding intensity by increasing financial aid, which has grown from EUR 1 to EUR 2 per 500 tonne-kilometres of shifted goods transport; and simplifying the procedures for granting financial aid.</en>
+      <fr>Les propositions de la Commission européenne visant la simplification du programme doivent <Alignment alignment="11011" annotation_id="10906">
+          <DiscourseConnective annotation_id="10906" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> être soutenues, <DiscourseConnective annotation_id="10927">et</DiscourseConnective> <Alignment alignment="2501" annotation_id="10930">
+          <Alignment alignment="11879" annotation_id="10930">
+            <DiscourseConnective annotation_id="10930" sense="Expansion.Restatement">plus précisément</DiscourseConnective>
+          </Alignment>
+        </Alignment> les points suivants: la participation au programme des petites entreprises <DiscourseConnective annotation_id="11022">et</DiscourseConnective> des entreprises individuelles <DiscourseConnective annotation_id="11055">sans</DiscourseConnective> obligation de former un consortium, une réduction claire du seuil de tonnes-kilomètres exigé <DiscourseConnective annotation_id="11153">pour</DiscourseConnective> l'admissibilité au programme, l'augmentation de l'intensité de financement par l'augmentation de l'aide financière, qui est passée d'un <DiscourseConnective annotation_id="11294">à</DiscourseConnective> deux euros par 500 tonnes-kilomètres de transport de marchandises transférées, la simplification des procédures d'octroi d'une aide financière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9804" docOffset="58">
+      <en>I would like to express the hope that all these measures will help to ensure that the best use is made of the financial means available in the programme.</en>
+      <fr>J'ose espérer <DiscourseConnective annotation_id="11454">que</DiscourseConnective> toutes ces mesures contribueront <DiscourseConnective annotation_id="11491">à</DiscourseConnective> faire en sorte <DiscourseConnective annotation_id="11508">que</DiscourseConnective> les moyens financiers mis à disposition dans le programme seront utilisés de manière optimale.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9958" id="518" name="Johannes Blokland">
+    <ParallelChunk annotation_id="9958" docOffset="59">
+      <en>on behalf of the IND/DEM Group. - (NL) This evening, we are discussing the changes to the Marco Polo II programme.</en>
+      <fr>au nom du groupe IND/DEM. - (NL) Ce soir, nous discutons des modifications du programme Marco Polo II.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10073" docOffset="60">
+      <en>I am indebted to the European Commission for coming up with proposals to lower the thresholds for this fund, <Alignment alignment="6304" annotation_id="10182">
+          <DiscourseConnective annotation_id="10182" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am pleased that Mr Stockmann has embraced these proposals with the necessary dynamism.</en>
+      <fr>Je suis redevable <DiscourseConnective annotation_id="11728">à</DiscourseConnective> la Commission européenne <DiscourseConnective annotation_id="11755">pour</DiscourseConnective> ses propositions de diminution des seuils <DiscourseConnective annotation_id="11802">pour</DiscourseConnective> ce financement <Alignment alignment="5941" annotation_id="11822">
+          <DiscourseConnective annotation_id="11822" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je suis heureux <DiscourseConnective annotation_id="11841">que</DiscourseConnective> M. Stockmann ait adopté ces propositions avec le dynamisme nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10275" docOffset="61">
+      <en>The extra reduction in the threshold for inland shipping, in particular, can count on my support.</en>
+      <fr>La réduction supplémentaire du seuil <DiscourseConnective annotation_id="11953">pour</DiscourseConnective> la navigation intérieure, <DiscourseConnective annotation_id="11984">en particulier</DiscourseConnective>, peut compter sur mon soutien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10373" docOffset="62">
+      <en>There is a problem, <Alignment alignment="8393" annotation_id="10393">
+          <DiscourseConnective annotation_id="10393" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>
+        <Alignment alignment="9900" annotation_id="12030">
+          <DiscourseConnective annotation_id="12030" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, il y a un problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10401" docOffset="63">
+      <en>This reduction is not enough.</en>
+      <fr>Cette réduction n'est pas suffisante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10431" docOffset="64">
+      <en>In the Committee on Transport and Tourism, Mrs Wortmann-Kool and I successfully remedied this mistake.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12099">À</DiscourseConnective> la commission des transports <DiscourseConnective annotation_id="12130">et</DiscourseConnective> du tourisme, Mme Wortmann-Kool <DiscourseConnective annotation_id="12164">et</DiscourseConnective> moi avons remédié à cette erreur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10534" docOffset="65">
+      <en>I regret, <DiscourseConnective annotation_id="10544" sense="Comparison.Contrast">though</DiscourseConnective>, that Mr Stockmann deems our amendment - number 24 - undesirable.</en>
+      <fr>Je regrette que malgré cela M. Stockmann juge notre amendement - numéro 24 - peu souhaitable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10617" docOffset="66">
+      <en>I know him, after all, as a staunch supporter of inland shipping <Alignment alignment="19423" annotation_id="10682">
+          <DiscourseConnective annotation_id="10682" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I had hoped that such amendments would have been agreeable to him.</en>
+      <fr>Je sais <DiscourseConnective annotation_id="12303">qu'en</DiscourseConnective> fin de compte, c'est un fervent défenseur de la navigation intérieure <Alignment alignment="1812" annotation_id="12379">
+          <DiscourseConnective annotation_id="12379" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'avais espéré <DiscourseConnective annotation_id="12397">qu'</DiscourseConnective>il serait d'accord sur lesdits amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10753" docOffset="67">
+      <en>After all, the threshold proposed by the Commission is still far too high for the small entrepreneur, which the canal shipping trader is, almost by definition.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12444">Après tout</DiscourseConnective>, le seuil proposé par la Commission est <DiscourseConnective annotation_id="12495">encore</DiscourseConnective> beaucoup trop élevé <DiscourseConnective annotation_id="12522">pour</DiscourseConnective> le petit entrepreneur <DiscourseConnective annotation_id="12549">qu'</DiscourseConnective>est le négociant en navigation sur canaux, presque par définition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10913" docOffset="68">
+      <en>I cannot understand why the other institutions should wish to pick holes in Amendment 24.</en>
+      <fr>Je n'arrive pas à comprendre pourquoi les autres institutions souhaitent trouver des failles dans l'amendement 24.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11003" docOffset="69">
+      <en>We have a well-stocked fund for sustainable transport.</en>
+      <fr>Nous disposons d'un financement bien approvisionné <DiscourseConnective annotation_id="12785">pour</DiscourseConnective> le transport durable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11058" docOffset="70">
+      <en>Inland shipping is the cleanest modality by far.</en>
+      <fr>La navigation intérieure est de loin la modalité la plus propre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11107" docOffset="71">
+      <en>Why should we not lower the threshold more for this sector?</en>
+      <fr>Pourquoi ne diminuerions-nous pas davantage le seuil <DiscourseConnective annotation_id="12930">pour</DiscourseConnective> ce secteur?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11167" docOffset="72">
+      <en>The European Commission is, in my view, scared that such proposals will prompt a few Member States in the Council to demand reductions in other areas.</en>
+      <fr>D'après moi, la Commission européenne craint <DiscourseConnective annotation_id="12992">que</DiscourseConnective> de telles propositions incitent quelques États membres au Conseil <DiscourseConnective annotation_id="13062">à</DiscourseConnective> demander des réductions dans d'autres domaines.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11318" docOffset="73">
+      <en>I should like to ask the European Commission to stand firm and explicitly recognise in this House the importance of inland shipping as the cleanest mode of transport.</en>
+      <fr>Je voudrais demander à la Commission européenne d'être ferme <DiscourseConnective annotation_id="13173">et</DiscourseConnective> de reconnaître ouvertement devant cette Assemblée l'importance de la navigation intérieure en <DiscourseConnective annotation_id="13270">tant que</DiscourseConnective> mode de transport le plus propre.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11485" id="519" name="Rodi Kratsa-Tsagaropoulou">
+    <ParallelChunk annotation_id="11485" docOffset="74">
+      <en>(EL) Madam President, Commissioner, ladies and gentlemen, we shall be investing EUR 400 million in the Marco Polo II programme up to 2013, together with a great many hopes and prospects for a more efficient and viable transport system that will guarantee added environmental value in the European Union, <Alignment alignment="2167" annotation_id="11789">
+          <DiscourseConnective annotation_id="11789" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> at the same time combining economic, social and territorial cohesion.</en>
+      <fr>(EL) Madame la Présidente, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="13374">et</DiscourseConnective> Messieurs, nous allons investir 400 millions d'euros dans le programme Marco Polo II jusqu'en 2013. Nous avons un grand nombre d'espoirs <DiscourseConnective annotation_id="13514">et</DiscourseConnective> de perspectives <DiscourseConnective annotation_id="13533">pour</DiscourseConnective> un système de transports plus efficace <DiscourseConnective annotation_id="13577">et</DiscourseConnective> plus viable qui garantira la valeur ajoutée de l'environnement dans l'Union européenne, <Alignment alignment="11789" annotation_id="13668">
+          <DiscourseConnective annotation_id="13668" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> combinant <DiscourseConnective annotation_id="13686">en même temps</DiscourseConnective> la cohésion économique, sociale <DiscourseConnective annotation_id="13732">et</DiscourseConnective> territoriale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11865" docOffset="75">
+      <en>The results of the call for submission of proposals for the Marco Polo II programme published in 2008 and the conclusions of the evaluation of the first Marco Polo programme have shown that this programme can bring about a discernible shift in transport.</en>
+      <fr>Les résultats de l'appel <DiscourseConnective annotation_id="13774">à</DiscourseConnective> propositions <DiscourseConnective annotation_id="13789">pour</DiscourseConnective> le programme Marco Polo II publié <DiscourseConnective annotation_id="13828">en</DiscourseConnective> 2008 <DiscourseConnective annotation_id="13836">et</DiscourseConnective> les conclusions de l'évaluation du premier programme Marco Polo ont montré <DiscourseConnective annotation_id="13914">que</DiscourseConnective> ce programme peut entraîner un changement perceptible <DiscourseConnective annotation_id="13972">en</DiscourseConnective> matière de transport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12120" docOffset="76">
+      <en>
+        <Alignment alignment="13997" annotation_id="12120">
+          <DiscourseConnective annotation_id="12120" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is highly probable that the aim laid down in its legal basis, namely of avoiding congestion or displacing a substantial part of the overall growth forecast for international freight road transport in Europe, will not be achieved.</en>
+      <fr>
+        <Alignment alignment="12633" annotation_id="13997">
+          <DiscourseConnective annotation_id="13997" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, il est fort probable <DiscourseConnective annotation_id="14029">que</DiscourseConnective> l'objectif présenté dans son fondement juridique, à savoir la prévention de l'encombrement du trafic <DiscourseConnective annotation_id="14134">ou</DiscourseConnective> le déplacement d'une partie importante de la croissance mondiale prévue <DiscourseConnective annotation_id="14209">pour</DiscourseConnective> le transport routier international de marchandises <DiscourseConnective annotation_id="14265">en</DiscourseConnective> Europe, ne <DiscourseConnective annotation_id="14279">soit</DiscourseConnective> pas atteint.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12362" docOffset="77">
+      <en>For the programme to achieve its aims, Marco Polo II must be made more attractive.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14297">Pour que</DiscourseConnective> le programme atteigne ses objectifs, il faut que Marco Polo II devienne plus attrayant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12445" docOffset="78">
+      <en>The legal basis needs to be changed <Alignment alignment="20611" annotation_id="12481">
+          <DiscourseConnective annotation_id="12481" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> verification procedures need to be simpler and clearer.</en>
+      <fr>Le fondement juridique doit être modifié <Alignment alignment="10247" annotation_id="14435">
+          <DiscourseConnective annotation_id="14435" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les procédures de vérification doivent être plus simples <DiscourseConnective annotation_id="14495">et</DiscourseConnective> plus claires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12541" docOffset="79">
+      <en>
+        <Alignment alignment="14512" annotation_id="12541">
+          <Alignment alignment="14512" annotation_id="12541">
+            <DiscourseConnective annotation_id="12541" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the conditions and requirements for funding need adjusting to the real aim and the changes need to be made as fast as possible to secure the greatest possible effect.</en>
+      <fr>
+        <Alignment alignment="12541" annotation_id="14512">
+          <Alignment alignment="12541" annotation_id="14512">
+            <DiscourseConnective annotation_id="14512" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les conditions <DiscourseConnective annotation_id="14537">et</DiscourseConnective> exigences en matière de financement doivent être ajustées au but réel <DiscourseConnective annotation_id="14610">et</DiscourseConnective> les modifications doivent être opérées <DiscourseConnective annotation_id="14652">aussi</DiscourseConnective> rapidement <DiscourseConnective annotation_id="14669">que</DiscourseConnective> possible <DiscourseConnective annotation_id="14682">pour</DiscourseConnective> assurer le meilleur effet possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12721" docOffset="80">
+      <en>We in the European Parliament support and are hoping for easier access to the programme for small businesses, lower and simpler thresholds for the eligibility of projects and an increase in grants; <Alignment alignment="5569" annotation_id="12919">
+          <Alignment alignment="30355" annotation_id="12919">
+            <Alignment alignment="14949" annotation_id="12919">
+              <DiscourseConnective annotation_id="12919" sense="Expansion.Restatement">in other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, a programme which is more functional and directly effective.</en>
+      <fr>Au Parlement européen, nous soutenons <DiscourseConnective annotation_id="14761">et</DiscourseConnective> espérons un accès plus facile au programme <DiscourseConnective annotation_id="14807">pour</DiscourseConnective> les petites entreprises, des seuils plus bas <DiscourseConnective annotation_id="14857">et</DiscourseConnective> plus simples <DiscourseConnective annotation_id="14873">pour</DiscourseConnective> l'admissibilité des projets <DiscourseConnective annotation_id="14906">ainsi</DiscourseConnective> qu'une augmentation des subventions; <Alignment alignment="2214" annotation_id="14949">
+          <Alignment alignment="12919" annotation_id="14949">
+            <Alignment alignment="12919" annotation_id="14949">
+              <DiscourseConnective annotation_id="14949" sense="Expansion.Restatement">en d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, un programme plus fonctionnel <DiscourseConnective annotation_id="14999">et</DiscourseConnective> efficace directement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12996" docOffset="81">
+      <en>These changes and adjustments can be used as an example of a vital, dynamic and effective Europe, which is something we need to make citizens understand and experience on the eve of the European elections.</en>
+      <fr>Ces modifications <DiscourseConnective annotation_id="15042">et</DiscourseConnective> ajustements peuvent être utilisés <DiscourseConnective annotation_id="15079">comme</DiscourseConnective> un exemple d'une Europe pleine de vie, dynamique <DiscourseConnective annotation_id="15134">et</DiscourseConnective> efficace, ce que nous devons faire comprendre <DiscourseConnective annotation_id="15183">et</DiscourseConnective> expérimenter aux citoyens <DiscourseConnective annotation_id="15212">à</DiscourseConnective> la veille des élections européennes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13202" id="520" language="IT" name="Antonio Tajani">
+    <ParallelChunk annotation_id="13202" docOffset="82">
+      <en>Madam President, honourable Members, <DiscourseConnective annotation_id="13239" sense="Temporal.Synchrony">as</DiscourseConnective> we close I would like to answer some of the questions you have asked, <Alignment alignment="15395" annotation_id="13312">
+          <DiscourseConnective annotation_id="13312" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> thanking you for the support given to this agreement at first reading, which will definitely help to improve the effectiveness of the second Marco Polo programme.</en>
+      <fr>Madame la Présidente, Mesdames et Messieurs les députés, avant de conclure, j'aimerais répondre à certaines des questions que vous avez posées, <Alignment alignment="7260" annotation_id="15395">
+          <DiscourseConnective annotation_id="15395" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> vous remerciant <DiscourseConnective annotation_id="15419">pour</DiscourseConnective> le soutien accordé <DiscourseConnective annotation_id="15443">à</DiscourseConnective> cet accord <DiscourseConnective annotation_id="15456">en</DiscourseConnective> première lecture; celui-ci contribuera sans aucun doute <DiscourseConnective annotation_id="15515">à</DiscourseConnective> améliorer l'efficacité du second programme Marco Polo.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13481" docOffset="83">
+      <en>I would like to say that in recent years my staff - whom I thank again for their work - have already begun to reflect on the Marco Polo programme beyond 2013, <Alignment alignment="31463" annotation_id="13640">
+          <DiscourseConnective annotation_id="13640" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that this assessment will focus, among other things, on the points set out in the compromise agreement.</en>
+      <fr>Je voudrais <DiscourseConnective annotation_id="15584">dire que</DiscourseConnective> ces dernières années, mon personnel - <DiscourseConnective annotation_id="15631">que</DiscourseConnective> je remercie encore une fois <DiscourseConnective annotation_id="15663">pour</DiscourseConnective> son travail - a <DiscourseConnective annotation_id="15684">déjà</DiscourseConnective> commencé <DiscourseConnective annotation_id="15698">à</DiscourseConnective> réfléchir au programme Marco Polo au-delà de 2013, <Alignment alignment="13640" annotation_id="15751">
+          <DiscourseConnective annotation_id="15751" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="15754">que</DiscourseConnective> cette évaluation sera axée, entre autres, sur les éléments définis dans le compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13748" docOffset="84">
+      <en>
+        <Alignment alignment="35963" annotation_id="13748">
+          <Alignment alignment="15844" annotation_id="13748">
+            <DiscourseConnective annotation_id="13748" sense="Expansion.Restatement">In particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I would like to emphasise the need to differentiate between transport modes in the conditions for funding, on the basis of safety, environmental performance and energy efficiency, the need to set up demand-driven assistance at the application stage, taking account of the needs of small and medium-sized enterprises, the recognition of economic recession as an exceptional reason for extending the duration of projects, and product-specific lowering of eligibility thresholds.</en>
+      <fr>
+        <Alignment alignment="3630" annotation_id="15844">
+          <Alignment alignment="13748" annotation_id="15844">
+            <DiscourseConnective annotation_id="15844" sense="Expansion.Restatement">Plus précisément</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je tiens <DiscourseConnective annotation_id="15871">à</DiscourseConnective> insister sur le fait que nous devons différencier les modes de transport dans les conditions de financement, d'après la sécurité, la performance environnementale <DiscourseConnective annotation_id="16035">et</DiscourseConnective> l'efficacité énergétique, la nécessité d'organiser une assistance axée sur la demande au stade de la candidature, la prise en compte des besoins des petites <DiscourseConnective annotation_id="16195">et</DiscourseConnective> moyennes entreprises, la reconnaissance de la récession économique en <DiscourseConnective annotation_id="16268">tant que</DiscourseConnective> raison exceptionnelle de prolongation de la durée des projets, <DiscourseConnective annotation_id="16340">ainsi</DiscourseConnective> que la réduction des seuils d'admissibilité en fonction des produits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14240" docOffset="85">
+      <en>With regard to lowering thresholds, I would like to reassure Mr Blokland that the text we are adopting already provides a lower threshold for inland waterways.</en>
+      <fr>Concernant la diminution des seuils, je voudrais rassurer M. Blokland sur le fait <DiscourseConnective annotation_id="16498">que</DiscourseConnective> le texte que nous adoptons fournit <DiscourseConnective annotation_id="16537">déjà</DiscourseConnective> un seuil inférieur <DiscourseConnective annotation_id="16561">pour</DiscourseConnective> les voies navigables intérieures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14400" docOffset="86">
+      <en>I do not think we could have done any more than we have, <Alignment alignment="18828" annotation_id="14457">
+          <DiscourseConnective annotation_id="14457" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the administrative costs would increase, <Alignment alignment="31666" annotation_id="14501">
+          <DiscourseConnective annotation_id="14501" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I believe we have certainly sent the signal you called for.</en>
+      <fr>Je ne pense pas que nous aurions pu faire plus <DiscourseConnective annotation_id="16647">que</DiscourseConnective> cela, <Alignment alignment="14457" annotation_id="16657">
+          <DiscourseConnective annotation_id="16657" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> les coûts administratifs auraient augmenté, <Alignment alignment="14501" annotation_id="16705">
+          <DiscourseConnective annotation_id="16705" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je crois que nous avons certainement envoyé le signal que vous aviez demandé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14565" docOffset="87">
+      <en>Going back to our reflections on the Marco Polo programme beyond 2013: <Alignment alignment="18052" annotation_id="14636">
+          <DiscourseConnective annotation_id="14636" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I was saying, the themes will <Alignment alignment="9023" annotation_id="14669">
+          <DiscourseConnective annotation_id="14669" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> include the possibility of indicating the targets for minimum funding thresholds for proposed projects in terms of energy efficiency and environmental benefits in addition to tonne-kilometres shifted.</en>
+      <fr>Revenons <DiscourseConnective annotation_id="16797">à</DiscourseConnective> nos réflexions sur le programme Marco Polo au-delà de 2013: <Alignment alignment="14636" annotation_id="16859">
+          <DiscourseConnective annotation_id="16859" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je le disais, les thèmes comprendront <Alignment alignment="7615" annotation_id="16903">
+          <DiscourseConnective annotation_id="16903" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> la possibilité d'indiquer les cibles <DiscourseConnective annotation_id="16946">pour</DiscourseConnective> les seuils de financement minimaux <DiscourseConnective annotation_id="16986">pour</DiscourseConnective> les projets proposés <DiscourseConnective annotation_id="17012">en</DiscourseConnective> matière d'efficacité énergétique <DiscourseConnective annotation_id="17048">et</DiscourseConnective> d'avantages pour l'environnement <DiscourseConnective annotation_id="17084">en plus</DiscourseConnective> des tonnes-kilomètres déplacées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14875" docOffset="88">
+      <en>
+        <DiscourseConnective annotation_id="14875" sense="Expansion.Conjunction">In addition</DiscourseConnective>, the possibility of ensuring consistency between the Marco Polo Programme, the Logistics Action Plan and the TEN-T programme by taking the appropriate measures in order to coordinate the allocation of Community funds, in particular for Motorways of the Sea; and the need to take into account the specific characteristics of the inland waterway sector and its small and medium-sized enterprises, <Alignment alignment="35199" annotation_id="15282">
+          <DiscourseConnective annotation_id="15282" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment> by way of a dedicated programme for the inland waterway sector.</en>
+      <fr>On peut ajouter à cela la possibilité d'assurer la cohérence entre le programme Marco Polo, le plan d'action pour la logistique <DiscourseConnective annotation_id="17253">et</DiscourseConnective> le programme RTE-T, <DiscourseConnective annotation_id="17276">en</DiscourseConnective> prenant les mesures appropriées <DiscourseConnective annotation_id="17311">pour</DiscourseConnective> coordonner l'affectation des fonds communautaires, <DiscourseConnective annotation_id="17367">surtout</DiscourseConnective> <DiscourseConnective annotation_id="17375">pour</DiscourseConnective> les autoroutes de la mer, <DiscourseConnective annotation_id="17406">ainsi</DiscourseConnective> que la nécessité de prendre en compte les caractéristiques spécifiques du secteur de la navigation intérieure <DiscourseConnective annotation_id="17522">et</DiscourseConnective> de ses petites <DiscourseConnective annotation_id="17540">et</DiscourseConnective> moyennes entreprises, <Alignment alignment="16084" annotation_id="17565">
+          <DiscourseConnective annotation_id="17565" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17577">à</DiscourseConnective> travers un programme consacré au secteur de la navigation intérieure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15358" docOffset="89">
+      <en>In any case, the Commission intends to present its communication on the future of the programme, possibly with a proposal for a third Marco Polo programme, during the course of 2011.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17649">En tout cas</DiscourseConnective>, la Commission a l'intention de présenter sa communication sur l'avenir du programme, éventuellement avec une proposition de troisième programme Marco Polo, dans le courant de l'année 2011.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15541" id="521" name="Ulrich Stockmann">
+    <ParallelChunk annotation_id="15541" docOffset="90">
+      <en>rapporteur. - (DE) Madam President, Commissioner, I agree with you.</en>
+      <fr>Madame la Présidente, Monsieur le Commissaire, je suis d'accord avec vous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15609" docOffset="91">
+      <en>We can send out a positive message tomorrow, namely that we are able to make citizen-friendly and sensible amendments to our legislation <Alignment alignment="24296" annotation_id="15746">
+          <DiscourseConnective annotation_id="15746" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it is necessary to do so.</en>
+      <fr>Nous pouvons faire passer un message positif demain, à savoir <DiscourseConnective annotation_id="17988">que</DiscourseConnective> nous sommes en mesure d'apporter <DiscourseConnective annotation_id="18025">à</DiscourseConnective> notre législation des amendements sensés <DiscourseConnective annotation_id="18068">et</DiscourseConnective> favorables aux citoyens <Alignment alignment="15746" annotation_id="18095">
+          <DiscourseConnective annotation_id="18095" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> c'est nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15777" docOffset="92">
+      <en>We should not only send out this message; we should <Alignment alignment="4123" annotation_id="15829">
+          <DiscourseConnective annotation_id="15829" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> start up an information campaign in the countries of Europe, <Alignment alignment="9179" annotation_id="15895">
+          <DiscourseConnective annotation_id="15895" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can capitalise on the attractiveness of this programme, <Alignment alignment="33772" annotation_id="15962">
+          <DiscourseConnective annotation_id="15962" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we really have made all the necessary adjustments.</en>
+      <fr>Nous devons <DiscourseConnective annotation_id="18133">non seulement</DiscourseConnective> faire passer ce message, <Alignment alignment="983" annotation_id="18172">
+          <DiscourseConnective annotation_id="18172" sense="Expansion.Conjunction">mais aussi</DiscourseConnective>
+        </Alignment> entamer une campagne d'information dans les pays d'Europe, <Alignment alignment="12017" annotation_id="18242">
+          <DiscourseConnective annotation_id="18242" sense="Contingency.Cause.Result">de manière à</DiscourseConnective>
+        </Alignment> pouvoir tirer parti de l'attractivité de ce programme, <Alignment alignment="14437" annotation_id="18310">
+          <DiscourseConnective annotation_id="18310" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous avons réellement apporté tous les ajustements nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16021" docOffset="93">
+      <en>Now there are real deals to be had at bargain prices.</en>
+      <fr>On peut <DiscourseConnective annotation_id="18386">maintenant</DiscourseConnective> faire de véritables affaires <DiscourseConnective annotation_id="18426">à</DiscourseConnective> des prix dérisoires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16075" docOffset="94">
+      <en>
+        <Alignment alignment="18449" annotation_id="16075">
+          <DiscourseConnective annotation_id="16075" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we cannot manage to shift anything now, then we really do need to question the entire programme.</en>
+      <fr>
+        <Alignment alignment="13325" annotation_id="18449">
+          <DiscourseConnective annotation_id="18449" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous ne parvenons pas <DiscourseConnective annotation_id="18474">à</DiscourseConnective> faire des changements <DiscourseConnective annotation_id="18498">maintenant</DiscourseConnective>, <DiscourseConnective annotation_id="18510">alors</DiscourseConnective> nous devrons vraiment remettre en question le programme tout entier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16175" docOffset="95">
+      <en>I hope, Mrs Jensen, that we shall not have to put the money into other programmes, <Alignment alignment="8755" annotation_id="16258">
+          <DiscourseConnective annotation_id="16258" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> this is an important concern.</en>
+      <fr>J'espère, Madame Jensen, <DiscourseConnective annotation_id="18610">que</DiscourseConnective> nous ne devrons pas affecter l'argent <DiscourseConnective annotation_id="18652">à</DiscourseConnective> d'autres programmes, <Alignment alignment="1757" annotation_id="18675">
+          <DiscourseConnective annotation_id="18675" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il <DiscourseConnective annotation_id="18682">s'</DiscourseConnective>agit d'une préoccupation importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16296" docOffset="96">
+      <en>We must and will displace traffic wherever possible, <Alignment alignment="13145" annotation_id="16349">
+          <DiscourseConnective annotation_id="16349" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is difficult.</en>
+      <fr>Nous devons déplacer <DiscourseConnective annotation_id="18742">et</DiscourseConnective> nous déplacerons le trafic dans la mesure du possible, <Alignment alignment="16349" annotation_id="18800">
+          <DiscourseConnective annotation_id="18800" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> c'est difficile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16370" docOffset="97">
+      <en>Mr Blokland, you have already had an answer.</en>
+      <fr>Monsieur Blokland, vous avez <DiscourseConnective annotation_id="18851">déjà</DiscourseConnective> eu une réponse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16415" docOffset="98">
+      <en>We re-negotiated inland waterway transport and forced an additional compromise on the Council, <Alignment alignment="18986" annotation_id="16510">
+          <DiscourseConnective annotation_id="16510" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it were.</en>
+      <fr>Nous avons renégocié le transport par voie navigable intérieure <DiscourseConnective annotation_id="18936">et</DiscourseConnective> imposé un compromis supplémentaire au Conseil, <Alignment alignment="16510" annotation_id="18986">
+          <DiscourseConnective annotation_id="18986" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> quelque sorte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16522" docOffset="99">
+      <en>Our concern was to finish at first reading.</en>
+      <fr>Notre inquiétude était de terminer <DiscourseConnective annotation_id="19039">en</DiscourseConnective> première lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16566" docOffset="100">
+      <en>That is why we could not take too radical an approach and had to negotiate with one eye on compromise and consensus.</en>
+      <fr>C'est la raison pour laquelle nous n'avons pas pu avoir une approche trop radicale <DiscourseConnective annotation_id="19143">et</DiscourseConnective> nous avons dû négocier avec un œil sur le compromis <DiscourseConnective annotation_id="19198">et</DiscourseConnective> le consensus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16683" docOffset="101">
+      <en>
+        <Alignment alignment="19215" annotation_id="16683">
+          <Alignment alignment="19568" annotation_id="16683">
+            <DiscourseConnective annotation_id="16683" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+          </Alignment>
+        </Alignment>, we achieved a great deal.</en>
+      <fr>
+        <Alignment alignment="16683" annotation_id="19215">
+          <Alignment alignment="2798" annotation_id="19215">
+            <DiscourseConnective annotation_id="19215" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+          </Alignment>
+        </Alignment>, nous avons fait beaucoup de progrès.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16722" docOffset="102">
+      <en>I look forward to the fundamental debate which we shall have shortly on the third programme, on the basis of a communication which the Commission has promised, <Alignment alignment="4138" annotation_id="16882">
+          <DiscourseConnective annotation_id="16882" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> we can discuss all the fundamental questions, everything that we have listed in a joint motion for a compromise, such as whether we should split up the programme for individual modes of transport <DiscourseConnective annotation_id="17086" sense="Expansion.Conjunction">and</DiscourseConnective> so on.</en>
+      <fr>J'attends impatiemment le débat fondamental <DiscourseConnective annotation_id="19312">que</DiscourseConnective> nous aurons d'ici peu sur le troisième programme, sur base d'une communication <DiscourseConnective annotation_id="19395">que</DiscourseConnective> la Commission a promise, <Alignment alignment="7572" annotation_id="19424">
+          <DiscourseConnective annotation_id="19424" sense="Contingency.Cause.Result">de manière à</DiscourseConnective>
+        </Alignment> pouvoir discuter de toutes les questions fondamentales, de tout ce dont nous avons fait la liste dans une proposition de compromis commune, <DiscourseConnective annotation_id="19577">notamment</DiscourseConnective> la question de savoir <DiscourseConnective annotation_id="19609">si</DiscourseConnective> nous devons scinder le programme en fonction de chaque mode de transport, etc. Alors la situation redeviendra intéressante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17097" docOffset="103">
+      <en>
+        <DiscourseConnective annotation_id="17097" sense="Temporal.Asynchronous.Precedence">Then</DiscourseConnective> it will become exciting again. Now it just has to work, <Alignment alignment="11895" annotation_id="17158">
+          <DiscourseConnective annotation_id="17158" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+        </Alignment> it does not grind to a halt <Alignment alignment="19835" annotation_id="17194">
+          <DiscourseConnective annotation_id="17194" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> projects already under way possibly fall by the way-side in this crisis.</en>
+      <fr>À présent, il faut juste que ce compromis fonctionne, en sorte <Alignment alignment="9665" annotation_id="19799">
+          <DiscourseConnective annotation_id="19799" sense="Contingency.Cause.Result">que</DiscourseConnective>
+        </Alignment> le processus ne soit pas freiné <Alignment alignment="17194" annotation_id="19835">
+          <DiscourseConnective annotation_id="19835" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que les projets <DiscourseConnective annotation_id="19854">déjà</DiscourseConnective> <DiscourseConnective annotation_id="19859">en</DiscourseConnective> cours ne soient pas laissés pour compte dans cette crise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17271" docOffset="104">
+      <en>That really would be a pity, hence this compromise.</en>
+      <fr>Ce serait vraiment dommage, d'où ce compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17323" docOffset="105">
+      <en>My thanks once again to everyone for their input.</en>
+      <fr>Je remercie chacun une fois <DiscourseConnective annotation_id="19995">de plus</DiscourseConnective> <DiscourseConnective annotation_id="20003">pour</DiscourseConnective> sa contribution.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17373" id="522" name="President">
+    <ParallelChunk annotation_id="17373" docOffset="106">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17395" docOffset="107">
+      <en>The vote will take place tomorrow.</en>
+      <fr>Le vote aura lieu demain.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

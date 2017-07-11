@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>12.</en>
+    <fr>12.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Financial services policy (2005-2010) - White Paper (vote)</en>
+    <fr>Politique des services financiers 2005-2010 - Livre blanc (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="63" docOffset="2">
+    <en>- Report: van den Burg</en>
+    <fr>- Rapport van den Burg</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="86" docOffset="3">
+    <en>- Before the vote on paragraph 26</en>
+    <fr>- <DiscourseConnective annotation_id="94">Avant</DiscourseConnective> le vote sur le paragraphe 26</fr>
+  </ParallelChunk>
+<Speaker annotation_id="120" id="128" name="Ieke van den Burg ">
+    <ParallelChunk annotation_id="120" docOffset="4">
+      <en>rapporteur. - On this paragraph, I propose withdrawing the oral amendments but asking the PPE-DE Group <Alignment alignment="251614" annotation_id="223">
+          <DiscourseConnective annotation_id="223" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they can agree that both amendment 5 from their side and amendment 17 from the ALDE Group are compatible <Alignment alignment="347" annotation_id="331">
+          <DiscourseConnective annotation_id="331" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that we can vote on both of them.</en>
+      <fr>À propos de ce paragraphe, je propose qu'on retire les amendements oraux, <DiscourseConnective annotation_id="203">mais</DiscourseConnective> qu'on demande au groupe PPE-DE <Alignment alignment="223" annotation_id="239">
+          <DiscourseConnective annotation_id="239" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il estime <DiscourseConnective annotation_id="251">que</DiscourseConnective> l'amendement 5 qu'il a déposé <DiscourseConnective annotation_id="285">et</DiscourseConnective> l'amendement 17 déposé par le groupe ALDE sont compatibles <Alignment alignment="331" annotation_id="347">
+          <DiscourseConnective annotation_id="347" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> s'il accepte que nous votions sur ces deux amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="369" docOffset="5">
+      <en>
+        <Alignment alignment="256044" annotation_id="369">
+          <DiscourseConnective annotation_id="369" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> that is the case, we will vote in favour of your amendment as well.</en>
+      <fr>
+        <Alignment alignment="369" annotation_id="406">
+          <DiscourseConnective annotation_id="406" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> tel est le cas, nous voterons <DiscourseConnective annotation_id="439">également</DiscourseConnective> <DiscourseConnective annotation_id="449">en</DiscourseConnective> faveur de votre amendement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="440" docOffset="6">
+      <en>If not, we will vote against it <Alignment alignment="508" annotation_id="472">
+          <DiscourseConnective annotation_id="472" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I can <Alignment alignment="522" annotation_id="482">
+          <DiscourseConnective annotation_id="482" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> withdraw my amendment 23.</en>
+      <fr>
+        <DiscourseConnective annotation_id="480">Sinon</DiscourseConnective>, nous voterons contre <Alignment alignment="472" annotation_id="508">
+          <DiscourseConnective annotation_id="508" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je pourrai <Alignment alignment="880" annotation_id="522">
+          <DiscourseConnective annotation_id="522" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> retirer mon amendement 23.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="513" docOffset="7">
+      <en>- Before the vote on paragraph 34</en>
+      <fr>- <DiscourseConnective annotation_id="557">Avant</DiscourseConnective> le vote sur le paragraphe 34</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="547" id="130" name="Ieke van den Burg ">
+    <ParallelChunk annotation_id="547" docOffset="8">
+      <en>rapporteur. - I should simply like to add 'group' to paragraph 34, <Alignment alignment="263379" annotation_id="614">
+          <Alignment alignment="651" annotation_id="614">
+            <DiscourseConnective annotation_id="614" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> it is the 'European Investment Bank Group' instead of just the bank.</en>
+      <fr>Je voudrais juste ajouter le mot "groupe" au paragraphe 34 <Alignment alignment="614" annotation_id="651">
+          <Alignment alignment="668" annotation_id="651">
+            <DiscourseConnective annotation_id="651" sense="Contingency.Cause.Result">de sorte que</DiscourseConnective>
+          </Alignment>
+        </Alignment> la formulation serait "groupe de la Banque européenne d'investissement" <DiscourseConnective annotation_id="736">plutôt que</DiscourseConnective> <DiscourseConnective annotation_id="747">simplement</DiscourseConnective> la Banque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="691" docOffset="9">
+      <en>(Parliament accepted the oral amendment)</en>
+      <fr>(Le Parlement a adopté l'amendement oral)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

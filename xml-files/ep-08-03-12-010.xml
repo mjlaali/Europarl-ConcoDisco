@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Announcement by the President</en>
+    <fr>Communication de la Présidence</fr>
+  </ParallelChunk>
+<Speaker annotation_id="30" id="212" name="President">
+    <ParallelChunk annotation_id="30" docOffset="1">
+      <en>Ladies and gentlemen, I should like to make an important announcement regarding this afternoon's vote.</en>
+      <fr>(EN) Mesdames <DiscourseConnective annotation_id="45">et</DiscourseConnective> Messieurs, je voudrais vous faire une communication importante concernant le vote de cet après-midi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="133" docOffset="2">
+      <en>For technical reasons, the results of roll-call votes displayed and announced by the president of the sitting do not correspond exactly to the actual number recorded by the voting system.</en>
+      <fr>
+        <DiscourseConnective annotation_id="149">Pour</DiscourseConnective> des raisons techniques, les résultats des votes par appel nominal qui ont été affichés <DiscourseConnective annotation_id="241">et</DiscourseConnective> annoncés par le président de la séance ne correspondent pas exactement au nombre <DiscourseConnective annotation_id="325">effectivement</DiscourseConnective> enregistré par le système de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="321" docOffset="3">
+      <en>In no case has the result of a vote been affected, <DiscourseConnective annotation_id="372" sense="Temporal.Synchrony">as</DiscourseConnective> the majorities have not changed.</en>
+      <fr>Le <DiscourseConnective annotation_id="377">résultat</DiscourseConnective> d'un vote donné n'<DiscourseConnective annotation_id="404">en</DiscourseConnective> est aucunement affecté, les majorités n'ayant pas changé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="408" docOffset="4">
+      <en>That being the case, today's midday votes cannot be called into question and are deemed approved.</en>
+      <fr>
+        <DiscourseConnective annotation_id="465">En ce cas</DiscourseConnective>, les votes de ce midi ne peuvent être remis <DiscourseConnective annotation_id="519">en</DiscourseConnective> cause <DiscourseConnective annotation_id="528">et</DiscourseConnective> sont donc considérés comme approuvés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="506" docOffset="5">
+      <en>The results that will be published as an annex to the minutes of today's sitting will be the actual results.</en>
+      <fr>Les résultats qui seront publiés <DiscourseConnective annotation_id="602">en</DiscourseConnective> annexe au procès-verbal de la séance d'aujourd'hui seront les résultats effectifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="615" docOffset="6">
+      <en>It is understood that the technical services are making every effort to determine the reason for this malfunction <Alignment alignment="804" annotation_id="729">
+          <DiscourseConnective annotation_id="729" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that all functions will be restored for tomorrow's votes.</en>
+      <fr>Il est entendu <DiscourseConnective annotation_id="703">que</DiscourseConnective> les services techniques font tout leur possible <DiscourseConnective annotation_id="755">pour</DiscourseConnective> déterminer la cause de ce dysfonctionnement <Alignment alignment="729" annotation_id="804">
+          <DiscourseConnective annotation_id="804" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="807">que</DiscourseConnective> toutes les fonctions seront rétablies <DiscourseConnective annotation_id="849">pour</DiscourseConnective> les votes de demain.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

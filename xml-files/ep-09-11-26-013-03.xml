@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>3.</en>
+    <fr>3.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>China: Minority rights and application of the death penalty (vote)</en>
+    <fr>Chine: droits des minorités <DiscourseConnective annotation_id="31">et</DiscourseConnective> application de la peine de mort (vote)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="70" id="291" name="Bernd Posselt">
+    <ParallelChunk annotation_id="70" docOffset="2">
+      <en>(DE) Mr President, excuse me, <Alignment alignment="114" annotation_id="100">
+          <DiscourseConnective annotation_id="100" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> there is an error in paragraph 3 of the German version <Alignment alignment="179" annotation_id="159">
+          <DiscourseConnective annotation_id="159" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would like to ask you to have it corrected there and, <Alignment alignment="286" annotation_id="219">
+          <DiscourseConnective annotation_id="219" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> necessary, in all the other language versions.</en>
+      <fr>(DE) Monsieur le Président, excusez-moi, <Alignment alignment="436" annotation_id="114">
+          <DiscourseConnective annotation_id="114" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> il y a une erreur au paragraphe 3 dans la version allemande <Alignment alignment="159" annotation_id="179">
+          <DiscourseConnective annotation_id="179" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je voudrais vous demander de la faire corriger, <DiscourseConnective annotation_id="230">ainsi</DiscourseConnective> que dans toutes les autres versions linguistiques <Alignment alignment="219" annotation_id="286">
+          <DiscourseConnective annotation_id="286" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="269" docOffset="3">
+      <en>The German version reads: 'Condemns the execution of the two Tibetans <Alignment alignment="368" annotation_id="339">
+          <DiscourseConnective annotation_id="339" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> another nine Uighurs'.</en>
+      <fr>La version allemande dit: "Condamne l'exécution des deux Tibétains <Alignment alignment="0" annotation_id="368">
+          <DiscourseConnective annotation_id="368" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> de neuf autres Ouïgours".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="366" docOffset="4">
+      <en>Of course, this is incorrect.</en>
+      <fr>C'est bien sûr une erreur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="396" docOffset="5">
+      <en>Uighurs are not other Tibetans and Tibetans are not other Uighurs.</en>
+      <fr>Les Ouïgours ne sont pas d'autres Tibétains <DiscourseConnective annotation_id="468">et</DiscourseConnective> les Tibétains ne sont pas d'autres Ouïgours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="463" docOffset="6">
+      <en>I would like to ask you to have this corrected in all the language versions.</en>
+      <fr>Je voudrais vous demander de corriger cela dans toutes les versions linguistiques.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="540" id="292" name="President">
+    <ParallelChunk annotation_id="540" docOffset="7">
+      <en>Mr Posselt, thank you, that will be corrected.</en>
+      <fr>Merci, Monsieur Posselt, cela sera corrigé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="587" id="293" name="President">
+    <ParallelChunk annotation_id="587" docOffset="8">
+      <en>That concludes the vote.</en>
+      <fr>Le vote est clos.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

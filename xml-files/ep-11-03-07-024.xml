@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Reducing health inequalities (short presentation)</en>
+    <fr>Réduction des inégalités dans le domaine de la santé (brève présentation)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="50" id="206" name="President">
+    <ParallelChunk annotation_id="50" docOffset="1">
+      <en>The next item is the report by Mrs Estrela, on behalf of the Committee on the Environment, Public Health and Food Safety, on reducing health inequalities in the EU.</en>
+      <fr>L'ordre du jour appelle le rapport de Edite Estrela, au nom de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="192">et</DiscourseConnective> de la sécurité alimentaire, sur la réduction des inégalités de santé dans l'Union européenne.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="215" id="207" language="PT" name="Edite Estrela">
+    <ParallelChunk annotation_id="215" docOffset="2">
+      <en>Mr President, I should like to begin by thanking the shadow rapporteurs for their cooperation and the work that we did together, as well as thanking the rapporteurs for the opinions of the Committee on the Internal Market and Consumer Protection, and of the Committee on Women's Rights and Gender Equality.</en>
+      <fr>Monsieur le Président, je souhaiterais commencer par remercier les rapporteurs fictifs <DiscourseConnective annotation_id="376">pour</DiscourseConnective> leur coopération <DiscourseConnective annotation_id="398">et</DiscourseConnective> pour le travail réalisé ensemble, <DiscourseConnective annotation_id="435">de même que</DiscourseConnective> les rapporteurs <DiscourseConnective annotation_id="463">pour</DiscourseConnective> avis de la commission du marché intérieur <DiscourseConnective annotation_id="510">et</DiscourseConnective> de la protection des consommateurs et ceux de la commission des droits de la femme <DiscourseConnective annotation_id="596">et</DiscourseConnective> de l'égalité des genres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="522" docOffset="3">
+      <en>All the contributions were very useful.</en>
+      <fr>Toutes les contributions ont été très utiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="562" docOffset="4">
+      <en>Health inequalities vary from country to country and from region to region.</en>
+      <fr>Les inégalités en matière de santé varient d'un pays <DiscourseConnective annotation_id="723">et</DiscourseConnective> d'une région <DiscourseConnective annotation_id="739">à</DiscourseConnective> l'autre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="638" docOffset="5">
+      <en>They are linked to economic and social conditions and can be exacerbated because of gender or culture.</en>
+      <fr>Elles résultent des conditions économiques <DiscourseConnective annotation_id="793">et</DiscourseConnective> sociales <DiscourseConnective annotation_id="805">et</DiscourseConnective> sont exacerbées par le genre <DiscourseConnective annotation_id="837">et</DiscourseConnective> la culture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="741" docOffset="6">
+      <en>
+        <Alignment alignment="33578" annotation_id="741">
+          <DiscourseConnective annotation_id="741" sense="Expansion.Restatement">In other words</DiscourseConnective>
+        </Alignment>, health inequalities are not just related to access to healthcare, but also to factors as different as living conditions, housing, education, profession, income and lifestyle.</en>
+      <fr>
+        <Alignment alignment="6060" annotation_id="852">
+          <DiscourseConnective annotation_id="852" sense="Expansion.Restatement">Autrement dit</DiscourseConnective>
+        </Alignment>, les inégalités de santé ne sont pas <DiscourseConnective annotation_id="903">simplement</DiscourseConnective> liées <DiscourseConnective annotation_id="920">à</DiscourseConnective> l'accès aux soins de santé, <DiscourseConnective annotation_id="950">mais</DiscourseConnective> <DiscourseConnective annotation_id="955">également</DiscourseConnective> <DiscourseConnective annotation_id="965">à</DiscourseConnective> des facteurs <DiscourseConnective annotation_id="980">aussi</DiscourseConnective> divers <DiscourseConnective annotation_id="993">que</DiscourseConnective> les conditions de vie, le logement, l'éducation, la profession, les revenus <DiscourseConnective annotation_id="1073">et</DiscourseConnective> le style de vie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="932" docOffset="7">
+      <en>
+        <DiscourseConnective annotation_id="932" sense="Comparison.Concession">Although</DiscourseConnective> there has been some progress, major inequalities within the 27 Member States still persist.</en>
+      <fr>Malgré certains progrès, des inégalités majeures persistent au sein des 27 États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1033" docOffset="8">
+      <en>
+        <Alignment alignment="18108" annotation_id="1033">
+          <DiscourseConnective annotation_id="1033" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, according to Eurostat, life expectancy at birth for men varied by 14.2 years between EU Member States in 2007, <Alignment alignment="18628" annotation_id="1157">
+          <DiscourseConnective annotation_id="1157" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> among women it was 8.3 years.</en>
+      <fr>D'après Eurostat <Alignment alignment="1033" annotation_id="1200">
+          <DiscourseConnective annotation_id="1200" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, l'espérance de vie <DiscourseConnective annotation_id="1232">à</DiscourseConnective> la naissance des hommes était différente de 14,2 ans entre les États membres de l'Union européenne, <Alignment alignment="1157" annotation_id="1334">
+          <DiscourseConnective annotation_id="1334" sense="Comparison.Contrast">tandis que</DiscourseConnective>
+        </Alignment> le chiffre correspondant <DiscourseConnective annotation_id="1370">pour</DiscourseConnective> les femmes était de 8,3 ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1193" docOffset="9">
+      <en>Health and life expectancy are still linked to social conditions and poverty, and <Alignment alignment="29045" annotation_id="1275">
+          <DiscourseConnective annotation_id="1275" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> poverty is combined with other forms of vulnerability, such as childhood or old age, disability or minority background, the risks of health inequalities increase further.</en>
+      <fr>La santé <DiscourseConnective annotation_id="1413">et</DiscourseConnective> l'espérance de vie restent liées <DiscourseConnective annotation_id="1449">à</DiscourseConnective> l'environnement social <DiscourseConnective annotation_id="1474">et</DiscourseConnective> à la pauvreté, <DiscourseConnective annotation_id="1492">et</DiscourseConnective> <Alignment alignment="1275" annotation_id="1495">
+          <DiscourseConnective annotation_id="1495" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la pauvreté est associée à d'autres facteurs de vulnérabilité, <DiscourseConnective annotation_id="1566">comme</DiscourseConnective> l'enfance <DiscourseConnective annotation_id="1582">ou</DiscourseConnective> la vieillesse, le handicap <DiscourseConnective annotation_id="1612">ou</DiscourseConnective> l'appartenance à une minorité, les risques d'inégalités en termes de santé s'accroissent <DiscourseConnective annotation_id="1704">encore</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1451" docOffset="10">
+      <en>Health inequalities can start during childhood, continue until old age and be passed from generation to generation, hence, the importance of this matter and the urgent need to find a solution.</en>
+      <fr>Les inégalités dans le domaine de la santé peuvent débuter durant l'enfance, persister <DiscourseConnective annotation_id="1799">jusqu'à</DiscourseConnective> la vieillesse <DiscourseConnective annotation_id="1821">et</DiscourseConnective> se transmettre d'une génération <DiscourseConnective annotation_id="1856">à</DiscourseConnective> l'autre, d'où l'importance de cette question <DiscourseConnective annotation_id="1903">et</DiscourseConnective> l'urgence d'y apporter une solution.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1644" docOffset="11">
+      <en>The current situation of global crisis tends to make the situation worse.</en>
+      <fr>La crise mondiale actuelle a tendance <DiscourseConnective annotation_id="1981">à</DiscourseConnective> aggraver la situation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1718" docOffset="12">
+      <en>
+        <DiscourseConnective annotation_id="1718" sense="Temporal.Synchrony">As</DiscourseConnective> is obvious, the crisis is having a severe impact on the health sector in a number of Member States, in terms of both supply and demand.</en>
+      <fr>Il est évident que la crise a de graves répercussions sur le secteur de la santé dans plusieurs États membres, à la fois <DiscourseConnective annotation_id="2127">en</DiscourseConnective> termes d'offre <DiscourseConnective annotation_id="2145">et</DiscourseConnective> de demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1857" docOffset="13">
+      <en>On the supply side, the crisis may lead to a reduction in the level of funding for public health, at the same time <Alignment alignment="30729" annotation_id="1972">
+          <DiscourseConnective annotation_id="1972" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it may lead to increased demand for health services.</en>
+      <fr>Au niveau de l'offre, la crise peut donner lieu <DiscourseConnective annotation_id="2208">à</DiscourseConnective> une réduction du niveau de financement accordé à la santé publique <Alignment alignment="4429" annotation_id="2277">
+          <DiscourseConnective annotation_id="2277" sense="Temporal.Synchrony">tout en</DiscourseConnective>
+        </Alignment> engendrant une demande accrue de services de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2028" docOffset="14">
+      <en>The crisis has revealed that the earnings of some have no limits <Alignment alignment="2416" annotation_id="2093">
+          <DiscourseConnective annotation_id="2093" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that this lack of fairness has contributed to increasing the gap between the rich minority and the poor majority.</en>
+      <fr>La crise a révélé <DiscourseConnective annotation_id="2355">que</DiscourseConnective> les salaires de certains pouvaient n'avoir aucune limite <Alignment alignment="2093" annotation_id="2416">
+          <DiscourseConnective annotation_id="2416" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> cette absence de justice a contribué <DiscourseConnective annotation_id="2456">à</DiscourseConnective> accroître le fossé qui sépare la minorité des riches de la majorité des pauvres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2211" docOffset="15">
+      <en>The crisis can <Alignment alignment="21570" annotation_id="2226">
+          <DiscourseConnective annotation_id="2226" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> <Alignment alignment="39344" annotation_id="2236">
+          <DiscourseConnective annotation_id="2236" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be an opportunity to combat inequalities through bold measures promoting equality.</en>
+      <fr>Elle peut <Alignment alignment="1413" annotation_id="2549">
+          <DiscourseConnective annotation_id="2549" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <Alignment alignment="2236" annotation_id="2554">
+          <DiscourseConnective annotation_id="2554" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> créer une occasion de lutter contre les inégalités en prenant des mesures audacieuses favorisant l'égalité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2324" docOffset="16">
+      <en>
+        <Alignment alignment="2672" annotation_id="2324">
+          <DiscourseConnective annotation_id="2324" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we do not learn the lesson <Alignment alignment="2707" annotation_id="2354">
+          <DiscourseConnective annotation_id="2354" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="26334" annotation_id="2358">
+          <DiscourseConnective annotation_id="2358" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we limit ourselves to changing a few things <DiscourseConnective annotation_id="2405" sense="Contingency.Cause.Result">so that</DiscourseConnective> everything stays the same, we will be increasing inequality.</en>
+      <fr>
+        <Alignment alignment="6786" annotation_id="2672">
+          <DiscourseConnective annotation_id="2672" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous n'en tirons pas les leçons <Alignment alignment="4789" annotation_id="2707">
+          <DiscourseConnective annotation_id="2707" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <Alignment alignment="4331" annotation_id="2710">
+          <DiscourseConnective annotation_id="2710" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous nous contentons de quelques changements visant à laisser les choses en l'état, nous augmenterons les inégalités.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2474" docOffset="17">
+      <en>
+        <Alignment alignment="7280" annotation_id="2474">
+          <DiscourseConnective annotation_id="2474" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> we have been seeing, unequal societies are unstable societies.</en>
+      <fr>
+        <Alignment alignment="4749" annotation_id="2831">
+          <DiscourseConnective annotation_id="2831" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> nous le constatons actuellement, les sociétés inégalitaires sont des sociétés instables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2540" docOffset="18">
+      <en>Several Member States have included measures to mitigate the impact of the economic crisis on the healthcare sector within their recovery packages by investing in health infrastructure, optimising funding to the healthcare sector, and restructuring and reorganising the healthcare system.</en>
+      <fr>Plusieurs États membres ont intégré, dans leurs plans de relance, des mesures visant <DiscourseConnective annotation_id="3011">à</DiscourseConnective> atténuer l'impact de la crise économique sur le secteur des soins de santé par le biais d'investissements dans les infrastructures de santé et d'une optimisation des financements accordés au secteur des soins de santé, <DiscourseConnective annotation_id="3232">ainsi</DiscourseConnective> que d'une restructuration <DiscourseConnective annotation_id="3264">et</DiscourseConnective> d'une réorganisation du système de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2829" docOffset="19">
+      <en>It is essential that reducing inequalities be considered a priority at all levels of political action.</en>
+      <fr>Il est essentiel de considérer la réduction des inégalités <DiscourseConnective annotation_id="3377">comme</DiscourseConnective> une priorité <DiscourseConnective annotation_id="3396">à</DiscourseConnective> tous les niveaux de l'action politique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2932" docOffset="20">
+      <en>I <DiscourseConnective annotation_id="2934" sense="Contingency.Cause.Result">therefore</DiscourseConnective> welcome the Commission's proposals.</en>
+      <fr>C'est la raison pour laquelle je me félicite des propositions de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2980" docOffset="21">
+      <en>
+        <Alignment alignment="30566" annotation_id="2980">
+          <DiscourseConnective annotation_id="2980" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I should like to draw attention to some of my report's proposals, specifically those aiming to step up the attention given to the needs of people in situations of poverty, disadvantaged migrant groups, including irregular migrants and ethnic minorities, people with disabilities, older people and poor children.</en>
+      <fr>Je souhaiterais <Alignment alignment="2980" annotation_id="3534">
+          <DiscourseConnective annotation_id="3534" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> attirer votre attention sur certaines des propositions du rapport, <DiscourseConnective annotation_id="3611">en particulier</DiscourseConnective> celles visant <DiscourseConnective annotation_id="3640">à</DiscourseConnective> mettre l'accent sur les personnes vivant dans la pauvreté, les groupes défavorisés de migrants, y compris les migrants en situation irrégulière <DiscourseConnective annotation_id="3786">et</DiscourseConnective> les minorités ethniques, les personnes handicapées, les personnes âgées <DiscourseConnective annotation_id="3861">et</DiscourseConnective> les enfants pauvres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3301" docOffset="22">
+      <en>I advocate measures to mitigate the impact of the economic crisis on the health sector by investing in infrastructure.</en>
+      <fr>Je préconise des mesures visant <DiscourseConnective annotation_id="3917">à</DiscourseConnective> atténuer l'impact de la crise économique sur le secteur de la santé <DiscourseConnective annotation_id="3987">en</DiscourseConnective> investissant dans l'infrastructure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3420" docOffset="23">
+      <en>I consider it essential to guarantee children and pregnant women good health conditions.</en>
+      <fr>J'estime capital de garantir de bonnes conditions de santé aux enfants <DiscourseConnective annotation_id="4097">et</DiscourseConnective> aux femmes enceintes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3509" docOffset="24">
+      <en>I <Alignment alignment="22700" annotation_id="3511">
+          <DiscourseConnective annotation_id="3511" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> think it is desirable for the Cohesion Fund and Structural Funds to support projects related to factors that contribute to the existence of health inequalities.</en>
+      <fr>Il est <Alignment alignment="5663" annotation_id="4129">
+          <DiscourseConnective annotation_id="4129" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souhaitable <DiscourseConnective annotation_id="4151">que</DiscourseConnective> le Fonds de cohésion <DiscourseConnective annotation_id="4176">et</DiscourseConnective> les Fonds structurels soutiennent des projets liés aux facteurs qui contribuent <DiscourseConnective annotation_id="4259">à</DiscourseConnective> l'existence des inégalités en matière de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3677" docOffset="25">
+      <en>
+        <DiscourseConnective annotation_id="3677" sense="Expansion.Restatement">In other words</DiscourseConnective>: we have to build a better, fairer future for later generations.</en>
+      <fr>Autrement dit: nous devons construire un avenir meilleur et plus juste <DiscourseConnective annotation_id="4380">pour</DiscourseConnective> les générations à venir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3757" id="208" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="3757" docOffset="26">
+      <en>(CS) Mr President, in recent years, we have been actively involved in supporting innovative medicine.</en>
+      <fr>(CS) Monsieur le Président, nous nous sommes activement impliqués dans le soutien à la médecine innovante ces dernières années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3859" docOffset="27">
+      <en>
+        <Alignment alignment="24722" annotation_id="3859">
+          <DiscourseConnective annotation_id="3859" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, I welcome this report, which focuses on vulnerable groups and their access to treatment and preventative care; I consider this to be vitally important.</en>
+      <fr>Je me réjouis <Alignment alignment="3859" annotation_id="4552">
+          <DiscourseConnective annotation_id="4552" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> de ce rapport qui se focalise sur les groupes vulnérables <DiscourseConnective annotation_id="4615">et</DiscourseConnective> leur accès aux traitements <DiscourseConnective annotation_id="4645">et</DiscourseConnective> aux soins préventifs; cela revêt une importance capitale <DiscourseConnective annotation_id="4705">à</DiscourseConnective> mes yeux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4022" docOffset="28">
+      <en>Of course, many points in the report infringe the principle of subsidiarity of Member States.</en>
+      <fr>De nombreux points du rapport portent, bien sûr, atteinte au principe de subsidiarité des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4116" docOffset="29">
+      <en>I strongly reject the wording of point 25, <Alignment alignment="8811" annotation_id="4159">
+          <DiscourseConnective annotation_id="4159" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, <Alignment alignment="4884" annotation_id="4172">
+          <DiscourseConnective annotation_id="4172" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> abortion should not be used as a method of birth control.</en>
+      <fr>Je rejette fermement la formulation du point 25, <Alignment alignment="4159" annotation_id="4871">
+          <DiscourseConnective annotation_id="4871" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, <Alignment alignment="4042" annotation_id="4884">
+          <DiscourseConnective annotation_id="4884" sense="Temporal.Synchrony">étant donné que</DiscourseConnective>
+        </Alignment> l'avortement ne devrait pas être utilisé <DiscourseConnective annotation_id="4941">comme</DiscourseConnective> méthode de contraception.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4233" docOffset="30">
+      <en>Points 26, 29 and 53 are <Alignment alignment="3431" annotation_id="4258">
+          <DiscourseConnective annotation_id="4258" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> contentious.</en>
+      <fr>Les points 26, 29 <DiscourseConnective annotation_id="4991">et</DiscourseConnective> 53 sont <Alignment alignment="3808" annotation_id="5002">
+          <DiscourseConnective annotation_id="5002" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> litigieux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4276" docOffset="31">
+      <en>I <Alignment alignment="5035" annotation_id="4278">
+          <DiscourseConnective annotation_id="4278" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> want to point out that differences in the average life expectancy in the 27 Member States are only partly caused by differing standards of healthcare and access to it.</en>
+      <fr>Je souhaite <Alignment alignment="4278" annotation_id="5035">
+          <DiscourseConnective annotation_id="5035" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souligner <DiscourseConnective annotation_id="5055">que</DiscourseConnective> les différences concernant l'espérance de vie moyenne dans les 27 États membres ne sont <DiscourseConnective annotation_id="5147">que</DiscourseConnective> partiellement dues aux disparités concernant les niveaux de santé <DiscourseConnective annotation_id="5217">et</DiscourseConnective> l'accès aux soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4451" docOffset="32">
+      <en>There are <Alignment alignment="13314" annotation_id="4461">
+          <DiscourseConnective annotation_id="4461" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> differences in people's overall standard of living or lifestyle and the level of development of the country they live in, <DiscourseConnective annotation_id="4588" sense="Expansion.Conjunction">and</DiscourseConnective> this has a greater impact in this respect.</en>
+      <fr>Les différences de conditions générales de vie <DiscourseConnective annotation_id="5295">ou</DiscourseConnective> de mode de vie et de niveau de développement des pays ont <Alignment alignment="4461" annotation_id="5356">
+          <DiscourseConnective annotation_id="5356" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> de lourdes conséquences <DiscourseConnective annotation_id="5390">à</DiscourseConnective> ce niveau.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4635" docOffset="33">
+      <en>These differences should be rectified with the help of development programmes financed by the EU.</en>
+      <fr>Ces disparités devraient être comblées au moyen des programmes de développement financés par l'UE.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="4733" id="209" name="Silvia-Adriana Ţicău">
+    <ParallelChunk annotation_id="4733" docOffset="34">
+      <en>(RO) Mr President, the current economic and financial crisis has hit healthcare services hard, with many Member States cutting the budgets allocated to public health.</en>
+      <fr>(RO) Monsieur le Président, la crise économique <DiscourseConnective annotation_id="5550">et</DiscourseConnective> financière actuelle a durement touché les services de santé, <DiscourseConnective annotation_id="5614">étant donné que</DiscourseConnective> de nombreux États membres réduisent les budgets alloués <DiscourseConnective annotation_id="5686">à</DiscourseConnective> la santé publique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4900" docOffset="35">
+      <en>Some have even decided to close hospitals in smaller towns or to carry out a small number of surgical operations.</en>
+      <fr>Certains ont <DiscourseConnective annotation_id="5720">même</DiscourseConnective> décidé de fermer des hôpitaux dans des villes de petite taille <DiscourseConnective annotation_id="5788">ou</DiscourseConnective> de diminuer le nombre d'opérations chirurgicales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5014" docOffset="36">
+      <en>
+        <Alignment alignment="24181" annotation_id="5014">
+          <DiscourseConnective annotation_id="5014" sense="Expansion.Restatement">In particular</DiscourseConnective>
+        </Alignment>, patients living in rural areas or isolated locations are forced to travel tens of kilometres to receive specialist healthcare services.</en>
+      <fr>Les patients vivant <DiscourseConnective annotation_id="5861">en</DiscourseConnective> zone rurale <DiscourseConnective annotation_id="5876">ou</DiscourseConnective> dans des lieux isolés sont <Alignment alignment="6796" annotation_id="5906">
+          <DiscourseConnective annotation_id="5906" sense="Expansion.Restatement">notamment</DiscourseConnective>
+        </Alignment> obligés de parcourir des dizaines de kilomètres <DiscourseConnective annotation_id="5964">pour</DiscourseConnective> recevoir des soins de santé spécialisés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5165" docOffset="37">
+      <en>
+        <Alignment alignment="6020" annotation_id="5165">
+          <DiscourseConnective annotation_id="5165" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, there are health inequalities not only between Member States, but also between regions in these states.</en>
+      <fr>Il existe <Alignment alignment="17671" annotation_id="6020">
+          <DiscourseConnective annotation_id="6020" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="6025">non seulement</DiscourseConnective> des inégalités sanitaires entre les États membres, <DiscourseConnective annotation_id="6090">mais aussi</DiscourseConnective> entre les régions dans ces États.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5280" docOffset="38">
+      <en>Reducing the budgets for national healthcare programmes jeopardises access to the newest and most effective treatments.</en>
+      <fr>La réduction des budgets dédiés aux programmes nationaux de santé compromet l'accès aux traitements les plus récents <DiscourseConnective annotation_id="6252">et</DiscourseConnective> les plus efficaces.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5400" docOffset="39">
+      <en>
+        <Alignment alignment="10487" annotation_id="5400">
+          <Alignment alignment="30893" annotation_id="5400">
+            <DiscourseConnective annotation_id="5400" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, reducing subsidies for some treatments means that patients are unable to continue with the treatment, entailing a much heavier price and consequences for their health.</en>
+      <fr>
+        <Alignment alignment="20598" annotation_id="6275">
+          <Alignment alignment="5400" annotation_id="6275">
+            <DiscourseConnective annotation_id="6275" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, la réduction des subventions <DiscourseConnective annotation_id="6318">pour</DiscourseConnective> certains traitements implique l'arrêt du traitement <DiscourseConnective annotation_id="6375">pour</DiscourseConnective> certains patients, entraînant une forte augmentation du prix <DiscourseConnective annotation_id="6441">et</DiscourseConnective> des conséquences <DiscourseConnective annotation_id="6461">pour</DiscourseConnective> leur santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5581" docOffset="40">
+      <en>Inequalities in the European healthcare system <Alignment alignment="26889" annotation_id="5628">
+          <DiscourseConnective annotation_id="5628" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> cause medical staff to emigrate to other Member States to practise their profession.</en>
+      <fr>Les inégalités du système de santé européen poussent <Alignment alignment="9871" annotation_id="6531">
+          <DiscourseConnective annotation_id="6531" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> les membres du personnel médical <DiscourseConnective annotation_id="6574">à</DiscourseConnective> émigrer vers d'autres États membres <DiscourseConnective annotation_id="6612">pour</DiscourseConnective> pratiquer leur métier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5718" docOffset="41">
+      <en>This is why the Commission ...</en>
+      <fr>C'est la raison pour laquelle la Commission...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5749" docOffset="42">
+      <en>(The President cut off the speaker)</en>
+      <fr>(Le Président retire la parole à l'oratrice)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5785" id="210" name="Ilda Figueiredo">
+    <ParallelChunk annotation_id="5785" docOffset="43">
+      <en>(PT) Mr President, the current situation, with austerity policies that are, above all, anti-social policies, and cuts in public healthcare investment <Alignment alignment="18969" annotation_id="5935">
+          <Alignment alignment="1477" annotation_id="5935">
+            <DiscourseConnective annotation_id="5935" sense="Expansion.Restatement">in particular</DiscourseConnective>
+          </Alignment>
+        </Alignment>, is clearly increasing problems in the area of health <DiscourseConnective annotation_id="6003" sense="Temporal.Synchrony">when</DiscourseConnective>, in the name of reducing the budgetary deficit, the cost of accessing public health services is increasing, the cost of medicines is increasing, even for chronic diseases, <Alignment alignment="31414" annotation_id="6180">
+          <DiscourseConnective annotation_id="6180" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> support for the transportation of patients in areas where there is no public transport to treatment and consultations is being removed through the reduction of subsidies.</en>
+      <fr>(PT) Monsieur le Président, la situation actuelle, avec ses politiques d'austérité, qui sont essentiellement des politiques antisociales, <DiscourseConnective annotation_id="6870">et</DiscourseConnective> les diminutions des investissements <DiscourseConnective annotation_id="6909">en</DiscourseConnective> faveur des soins de santé publique <Alignment alignment="5935" annotation_id="6947">
+          <Alignment alignment="617" annotation_id="6947">
+            <DiscourseConnective annotation_id="6947" sense="Expansion.Restatement">en particulier</DiscourseConnective>
+          </Alignment>
+        </Alignment>, alourdit de toute évidence les problèmes dans le secteur de la santé où, sous prétexte de réduire le déficit budgétaire, le coût d'accès aux services de santé publique augmente, le coût des médicaments également, <DiscourseConnective annotation_id="7176">même</DiscourseConnective> <DiscourseConnective annotation_id="7181">pour</DiscourseConnective> les maladies chroniques, <Alignment alignment="485" annotation_id="7211">
+          <DiscourseConnective annotation_id="7211" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> le soutien au transport des patients dans les zones dépourvues de transports publics pour les traitements et les consultations est supprimé via une réduction des subventions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6355" docOffset="44">
+      <en>Inequalities in health are increasing <Alignment alignment="35220" annotation_id="6393">
+          <DiscourseConnective annotation_id="6393" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this is happening in some countries of the European Union, specifically in my country, Portugal.</en>
+      <fr>Les inégalités <DiscourseConnective annotation_id="7404">en</DiscourseConnective> matière de santé <DiscourseConnective annotation_id="7424">s'</DiscourseConnective>accroissent, <Alignment alignment="6393" annotation_id="7439">
+          <DiscourseConnective annotation_id="7439" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce dans certains pays de l'Union européenne, <DiscourseConnective annotation_id="7487">en particulier</DiscourseConnective> dans mon pays, le Portugal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6494" docOffset="45">
+      <en>The people who are worse off are finding it increasingly difficult to access healthcare, which is why, Commissioner, ladies and gentlemen, words are not enough: what we need ...</en>
+      <fr>Les personnes les plus défavorisées éprouvent des difficultés grandissantes <DiscourseConnective annotation_id="7606">à</DiscourseConnective> avoir accès aux soins de santé, c'est la raison pour laquelle, Madame la Commissaire, Mesdames <DiscourseConnective annotation_id="7703">et</DiscourseConnective> Messieurs, les paroles ne suffisent plus: ce dont nous avons besoin...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6672" docOffset="46">
+      <en>(The President cut off the speaker)</en>
+      <fr>(Le Président retire la parole à l'oratrice)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6708" id="211" name="Nicole Sinclaire">
+    <ParallelChunk annotation_id="6708" docOffset="47">
+      <en>Mr President, healthcare should be the primary concern of every Member State, but, of course, this Chamber purports to make laws for the whole of the European Union.</en>
+      <fr>(EN) Monsieur le Président, les soins de santé devraient représenter la première priorité de chaque État membre <DiscourseConnective annotation_id="7934">mais</DiscourseConnective> cette Assemblée prétend bien évidemment faire passer des lois destinées à l'ensemble de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6874" docOffset="48">
+      <en>
+        <Alignment alignment="8062" annotation_id="6874">
+          <DiscourseConnective annotation_id="6874" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> it does not seem to be able to lead by example.</en>
+      <fr>Elle ne semble <Alignment alignment="11926" annotation_id="8062">
+          <DiscourseConnective annotation_id="8062" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> pas être en mesure de montrer l'exemple.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6926" docOffset="49">
+      <en>Some of you may - and many of you will not - have seen the London Sunday Times yesterday, which talked about MEPs' health benefits.</en>
+      <fr>Certains d'entre vous - <DiscourseConnective annotation_id="8137">sans</DiscourseConnective> doute pas la majorité - ont peut-être lu l'édition londonienne du Sunday Times hier, qui mentionnait les avantages dont jouissent les eurodéputés en matière de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7058" docOffset="50">
+      <en>My colleague, Mrs Figueiredo, has just talked about budget cuts and how they have caused further inequalities in healthcare.</en>
+      <fr>Ma collègue, Mme Figueiredo, vient juste d'évoquer les réductions budgétaires <DiscourseConnective annotation_id="8387">et</DiscourseConnective> la façon dont elles génèrent de nouvelles inégalités dans le domaine de la santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7183" docOffset="51">
+      <en>Yet the European Union - and MEPs - gave themselves a 36% increase in healthcare last year, paying for things such as anti-ageing treatments, thermal spas, etc. <DiscourseConnective annotation_id="7344" sense="Comparison.Contrast">But</DiscourseConnective> in this week <DiscourseConnective annotation_id="7361" sense="Temporal.Synchrony">when</DiscourseConnective> we are talking about women's inequality, one statistic stands out.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8472">Or</DiscourseConnective>, l'Union européenne - <DiscourseConnective annotation_id="8497">et</DiscourseConnective> les députés - <DiscourseConnective annotation_id="8514">s'</DiscourseConnective>est accordé une hausse de 36 % des soins de santé pour le paiement de traitements anti-âge, de soins thermaux, etc. Mais, alors que nous parlons cette semaine des inégalités qui touchent les femmes, une statistique sort du lot.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7433" docOffset="52">
+      <en>In the UK, <Alignment alignment="13081" annotation_id="7444">
+          <DiscourseConnective annotation_id="7444" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, IVF treatment can be given only once to women - one cycle - <Alignment alignment="8854" annotation_id="7517">
+          <DiscourseConnective annotation_id="7517" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> women MEPs <Alignment alignment="16904" annotation_id="7532">
+          <DiscourseConnective annotation_id="7532" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> their relatives can have five cycles.</en>
+      <fr>Au Royaume-Uni <Alignment alignment="9160" annotation_id="8759">
+          <DiscourseConnective annotation_id="8759" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, la fécondation in vitro peut être accordée une seule fois aux femmes - un cycle - <Alignment alignment="7517" annotation_id="8854">
+          <DiscourseConnective annotation_id="8854" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> les députées <Alignment alignment="7532" annotation_id="8872">
+          <DiscourseConnective annotation_id="8872" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les membres de leur famille ont droit à cinq cycles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7574" docOffset="53">
+      <en>Come on, <Alignment alignment="7565" annotation_id="7583">
+          <DiscourseConnective annotation_id="7583" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you are going to have equality ...</en>
+      <fr>Allons, <Alignment alignment="7583" annotation_id="8936">
+          <DiscourseConnective annotation_id="8936" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous voulons l'égalité...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7621" docOffset="54">
+      <en>(The President cut off the speaker)</en>
+      <fr>(Le Président retire la parole à l'oratrice)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="7657" id="212" name="Anna Záborská">
+    <ParallelChunk annotation_id="7657" docOffset="55">
+      <en>(SK) Mr President, all individuals are unique, with their own abilities, priorities and ways of living.</en>
+      <fr>(SK) Monsieur le Président, tous les individus sont uniques et dotés de capacités, priorités <DiscourseConnective annotation_id="9103">et</DiscourseConnective> modes de vie propres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7761" docOffset="56">
+      <en>From this natural inequality is born the motivation to do better - a motivation which is the driving force of the economy.</en>
+      <fr>De cette inégalité naturelle est née l'envie de <DiscourseConnective annotation_id="9176">s'</DiscourseConnective>améliorer - une envie qui représente le moteur de l'économie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7884" docOffset="57">
+      <en>The attempt to eliminate inequality in the area of healthcare, <Alignment alignment="16448" annotation_id="7947">
+          <DiscourseConnective annotation_id="7947" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, has more to do with humanity than the economy.</en>
+      <fr>Cette tentative d'éliminer l'inégalité dans le domaine des soins de santé est <Alignment alignment="11705" annotation_id="9318">
+          <DiscourseConnective annotation_id="9318" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> davantage liée <DiscourseConnective annotation_id="9343">à</DiscourseConnective> l'humanité <DiscourseConnective annotation_id="9356">qu'</DiscourseConnective>à l'économie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8003" docOffset="58">
+      <en>This is <Alignment alignment="27361" annotation_id="8011">
+          <DiscourseConnective annotation_id="8011" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> people are equal in sickness and suffering.</en>
+      <fr>
+        <Alignment alignment="13984" annotation_id="9373">
+          <DiscourseConnective annotation_id="9373" sense="Contingency.Cause.Reason">En effet</DiscourseConnective>
+        </Alignment>, tout le monde est égal devant la maladie <DiscourseConnective annotation_id="9424">et</DiscourseConnective> la souffrance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8063" docOffset="59">
+      <en>We should not make business out of suffering.</en>
+      <fr>Nous ne devrions pas tirer parti de la souffrance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8109" docOffset="60">
+      <en>That is why doctors take the Hippocratic Oath, and not, <Alignment alignment="9594" annotation_id="8165">
+          <DiscourseConnective annotation_id="8165" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, entrepreneurs.</en>
+      <fr>C'est la raison pour laquelle les médecins prêtent le serment d'Hippocrate, <DiscourseConnective annotation_id="9569">et</DiscourseConnective> pas les entrepreneurs <Alignment alignment="8165" annotation_id="9594">
+          <DiscourseConnective annotation_id="9594" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8193" docOffset="61">
+      <en>The idea of levelling out inequalities in the area of health is based on the value of human life.</en>
+      <fr>L'idée de résorber les inégalités dans le domaine de la santé repose sur la valeur de la vie humaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8291" docOffset="62">
+      <en>
+        <Alignment alignment="9709" annotation_id="8291">
+          <DiscourseConnective annotation_id="8291" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, an absolute right to abortion, which the submitted report <DiscourseConnective annotation_id="8358" sense="Expansion.Conjunction">also</DiscourseConnective> defends, undermines this value.</en>
+      <fr>
+        <Alignment alignment="3452" annotation_id="9709">
+          <DiscourseConnective annotation_id="9709" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, un droit absolu <DiscourseConnective annotation_id="9736">à</DiscourseConnective> l'avortement, <DiscourseConnective annotation_id="9752">que</DiscourseConnective> défend le rapport présenté, ébranle cette valeur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8395" docOffset="63">
+      <en>The mandatory funding of abortions from the public purse deprives healthcare of its moral imperative and debases it to the level of a luxury that cannot be withheld.</en>
+      <fr>Le financement obligatoire des avortements au moyen des fonds publics prive les soins de santé de leur impératif moral <DiscourseConnective annotation_id="9925">et</DiscourseConnective> les relègue au statut de luxe <DiscourseConnective annotation_id="9958">que</DiscourseConnective> l'on ne saurait se refuser.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8561" id="213" name="Mario Pirillo">
+    <ParallelChunk annotation_id="8561" docOffset="64">
+      <en>(IT) Mr President, ladies and gentlemen, even today in the European Union, health inequalities still persist over access to services, treatment and social factors, <DiscourseConnective annotation_id="8725" sense="Expansion.Conjunction">and</DiscourseConnective> this necessitates an integrated response.</en>
+      <fr>(IT) Monsieur le Président, Mesdames <DiscourseConnective annotation_id="10027">et</DiscourseConnective> Messieurs, aujourd'hui <DiscourseConnective annotation_id="10053">encore</DiscourseConnective>, les inégalités sanitaires subsistent au sein de l'Union européenne en termes d'accès aux services, de traitements <DiscourseConnective annotation_id="10175">et</DiscourseConnective> de déterminants sociaux, ce qui nécessite une réponse intégrée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8771" docOffset="65">
+      <en>The reasons for these differences are, in many cases, avoidable and unjust, <Alignment alignment="10345" annotation_id="8847">
+          <DiscourseConnective annotation_id="8847" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> they are due to discriminatory factors such as the reduced economic capacity of individuals.</en>
+      <fr>Les raisons de ces inégalités de santé sont, dans bon nombre de cas, injustes <DiscourseConnective annotation_id="10320">et</DiscourseConnective> peuvent être évitées, <Alignment alignment="8847" annotation_id="10345">
+          <DiscourseConnective annotation_id="10345" sense="Contingency.Cause.Reason">parce qu'</DiscourseConnective>
+        </Alignment>elles sont dues <DiscourseConnective annotation_id="10370">à</DiscourseConnective> des facteurs discriminatoires, tels <DiscourseConnective annotation_id="10408">que</DiscourseConnective> les moyens économiques réduits des individus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8948" docOffset="66">
+      <en>I believe that reducing health inequalities should become a fundamental priority for Europe, with an approach based on 'health in all policies', enhancing the quality of care for all.</en>
+      <fr>J'estime <DiscourseConnective annotation_id="10467">que</DiscourseConnective> la réduction des inégalités en matière de santé devrait être une priorité essentielle <DiscourseConnective annotation_id="10557">pour</DiscourseConnective> l'Europe, en adoptant une approche fondée sur le principe de "la santé dans toutes les politiques" qui améliorera la qualité des soins <DiscourseConnective annotation_id="10697">pour</DiscourseConnective> tous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9132" docOffset="67">
+      <en>In the coming months, the European Parliament will discuss the revision of the directive on recognition of professional qualifications.</en>
+      <fr>Dans les mois qui viennent, le Parlement européen discutera de la révision de la directive relative à la reconnaissance des qualifications professionnelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9268" docOffset="68">
+      <en>It is an appropriate opportunity to achieve an improved mechanism capable of dealing effectively with emergencies without any discrimination.</en>
+      <fr>C'est l'occasion tout indiquée de parvenir à un mécanisme amélioré capable de traiter les urgences de manière efficace et <DiscourseConnective annotation_id="10987">sans</DiscourseConnective> discrimination.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="9410" id="214" name="Seán Kelly">
+    <ParallelChunk annotation_id="9410" docOffset="69">
+      <en>Mr President, there are a number of aspects here.</en>
+      <fr>(EN) Monsieur le Président, cette question présente plusieurs aspects.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9460" docOffset="70">
+      <en>One I would like to home in on is that the best way to eliminate inequalities in health is actually to make people more healthy.</en>
+      <fr>Je souhaiterais m'attarder sur celui-ci: le meilleur moyen d'éliminer les inégalités <DiscourseConnective annotation_id="11164">en</DiscourseConnective> matière de santé consiste, <DiscourseConnective annotation_id="11194">en fait</DiscourseConnective>, <DiscourseConnective annotation_id="11203">à</DiscourseConnective> améliorer la santé de la population.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9589" docOffset="71">
+      <en>I am pleased that, prior to Christmas, a number of colleagues <Alignment alignment="33339" annotation_id="9651">
+          <DiscourseConnective annotation_id="9651" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> myself were successful in steering through Parliament a written declaration aimed at making 100 million people in the European Union more active by 2020, through sport, etc.</en>
+      <fr>Je suis heureux <DiscourseConnective annotation_id="11258">que</DiscourseConnective>, <DiscourseConnective annotation_id="11263">avant</DiscourseConnective> Noël, plusieurs de mes collègues <Alignment alignment="13954" annotation_id="11302">
+          <DiscourseConnective annotation_id="11302" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> moi-même soyons parvenus <DiscourseConnective annotation_id="11330">à</DiscourseConnective> faire passer au Parlement une déclaration écrite visant <DiscourseConnective annotation_id="11388">à</DiscourseConnective> rendre 100 millions de personnes plus actives à l'horizon 2020 au sein de l'Union européenne, <DiscourseConnective annotation_id="11484">notamment</DiscourseConnective> grâce au sport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9829" docOffset="72">
+      <en>I look forward to the European Commission's proposals on that.</en>
+      <fr>J'attends avec impatience les propositions de la Commission européenne <DiscourseConnective annotation_id="11581">à ce propos</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9892" docOffset="73">
+      <en>Secondly, I am pleased to say that a new government has been formed in my country - an EPP government with Socialists - with one of its primary aims being universal health insurance.</en>
+      <fr>
+        <DiscourseConnective annotation_id="11594">Deuxièmement</DiscourseConnective>, j'ai le plaisir d'annoncer <DiscourseConnective annotation_id="11635">qu'</DiscourseConnective>un nouveau gouvernement a été formé dans mon pays - un gouvernement PPE comprenant des socialistes -, dont l'un des objectifs prioritaires réside dans l'assurance santé universelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10075" docOffset="74">
+      <en>The idea is that money should follow the patient, <Alignment alignment="14062" annotation_id="10125">
+          <DiscourseConnective annotation_id="10125" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the patient should have access to healthcare, regardless of status or wealth or anything else, based on need.</en>
+      <fr>L'idée est <DiscourseConnective annotation_id="11831">que</DiscourseConnective> l'argent suive le patient <Alignment alignment="14598" annotation_id="11861">
+          <DiscourseConnective annotation_id="11861" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11864">que</DiscourseConnective> le patient ait accès aux soins de santé selon ses besoins, quels que soient son statut, ses moyens financiers <DiscourseConnective annotation_id="11978">ou</DiscourseConnective> autre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10244" docOffset="75">
+      <en>I believe that this will be very successful.</en>
+      <fr>Je crois <DiscourseConnective annotation_id="11997">que</DiscourseConnective> ce projet portera ses fruits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10289" docOffset="76">
+      <en>It is based on the Dutch model <Alignment alignment="20077" annotation_id="10320">
+          <DiscourseConnective annotation_id="10320" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we are very pleased with it.</en>
+      <fr>Il repose sur le modèle néerlandais <Alignment alignment="10320" annotation_id="12067">
+          <DiscourseConnective annotation_id="12067" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous en sommes très satisfaits.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="10353" id="215" name="Karin Kadenbach">
+    <ParallelChunk annotation_id="10353" docOffset="77">
+      <en>(DE) Mr President, Commissioner, the topic today is 'Reducing health inequalities'.</en>
+      <fr>(DE) Monsieur le Président, Madame la Commissaire, le sujet qui nous occupe aujourd'hui est "la réduction des inégalités dans le domaine de la santé".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10437" docOffset="78">
+      <en>It is a highly ambitious task.</en>
+      <fr>Il <DiscourseConnective annotation_id="12256">s'</DiscourseConnective>agit d'une mission extrêmement ambitieuse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10468" docOffset="79">
+      <en>In the current situation, I tend to fear that at European level, we are contributing in every area to increasing these differences, these inequalities, yet further in the coming years and decades.</en>
+      <fr>Dans la situation actuelle, j'ai tendance <DiscourseConnective annotation_id="12343">à</DiscourseConnective> redouter <DiscourseConnective annotation_id="12354">que</DiscourseConnective>, <DiscourseConnective annotation_id="12359">à</DiscourseConnective> l'échelon européen, nous ne contribuions dans tous les domaines <DiscourseConnective annotation_id="12425">à</DiscourseConnective> accroître <DiscourseConnective annotation_id="12437">encore</DiscourseConnective> davantage ces disparités, ces inégalités, au cours des années <DiscourseConnective annotation_id="12506">et</DiscourseConnective> des décennies à venir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10665" docOffset="80">
+      <en>It is not just about actual regression in healthcare provision; it is <Alignment alignment="29083" annotation_id="10735">
+          <DiscourseConnective annotation_id="10735" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> about declining social standards, reduced access to education and making education more difficult.</en>
+      <fr>Il ne <DiscourseConnective annotation_id="12538">s'</DiscourseConnective>agit pas uniquement de la régression actuelle des services de santé; il <DiscourseConnective annotation_id="12612">s'</DiscourseConnective>agit <Alignment alignment="20146" annotation_id="12619">
+          <DiscourseConnective annotation_id="12619" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> de la baisse du niveau social, de l'accès réduit <DiscourseConnective annotation_id="12674">à</DiscourseConnective> l'éducation <DiscourseConnective annotation_id="12688">et</DiscourseConnective> des difficultés croissantes dans le domaine de l'éducation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10839" docOffset="81">
+      <en>After all, we know that where we find a lower level of education and greater social difficulties, there is greater poverty.</en>
+      <fr>Nous savons, <DiscourseConnective annotation_id="12764">après tout</DiscourseConnective>, <DiscourseConnective annotation_id="12776">que</DiscourseConnective> là où il y a un plus faible niveau d'éducation <DiscourseConnective annotation_id="12827">et</DiscourseConnective> de plus grandes difficultés sociales, il y a une plus grande pauvreté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10963" docOffset="82">
+      <en>We <Alignment alignment="12913" annotation_id="10966">
+          <DiscourseConnective annotation_id="10966" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> know that poverty makes people sick.</en>
+      <fr>Nous savons <Alignment alignment="4328" annotation_id="12913">
+          <DiscourseConnective annotation_id="12913" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="12923">que</DiscourseConnective> la pauvreté favorise la maladie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11008" docOffset="83">
+      <en>I call on the Commission to make it clear - even <Alignment alignment="30518" annotation_id="11057">
+          <DiscourseConnective annotation_id="11057" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it is necessary to consolidate the European budget and the national budgets - that our failure to invest in health, in social services and in education today will cost us in the future in terms of the health system.</en>
+      <fr>J'invite la Commission <DiscourseConnective annotation_id="12983">à</DiscourseConnective> affirmer clairement - <DiscourseConnective annotation_id="13007">même</DiscourseConnective> <Alignment alignment="11057" annotation_id="13012">
+          <DiscourseConnective annotation_id="13012" sense="Temporal.Synchrony">lorsqu'</DiscourseConnective>
+        </Alignment>il est nécessaire de consolider le budget européen <DiscourseConnective annotation_id="13070">et</DiscourseConnective> les budgets nationaux - <DiscourseConnective annotation_id="13097">que</DiscourseConnective> notre incapacité <DiscourseConnective annotation_id="13118">à</DiscourseConnective> investir dans la santé, dans les services sociaux <DiscourseConnective annotation_id="13170">et</DiscourseConnective> l'éducation aujourd'hui nous coûtera cher demain au niveau du système de santé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11278" id="216" name="Elena Oana Antonescu">
+    <ParallelChunk annotation_id="11278" docOffset="84">
+      <en>(RO) Mr President, health inequalities pose a challenge to the European Union's commitment to solidarity, social and economic cohesion, human rights and equal opportunities.</en>
+      <fr>(RO) Monsieur le Président, les inégalités sanitaires compromettent l'engagement de l'Union européenne envers la solidarité, la cohésion sociale <DiscourseConnective annotation_id="13398">et</DiscourseConnective> économique, les droits de l'homme <DiscourseConnective annotation_id="13435">et</DiscourseConnective> l'égalité des chances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11452" docOffset="85">
+      <en>This is why the health factor must feature in all EU policies.</en>
+      <fr>C'est la raison pour laquelle le facteur de la santé doit figurer dans toutes les politiques de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11515" docOffset="86">
+      <en>Member States must be encouraged to include health <DiscourseConnective annotation_id="11566" sense="Temporal.Synchrony">as</DiscourseConnective> a principle in every policy and in devising new action plans in any area, <Alignment alignment="25810" annotation_id="11643">
+          <DiscourseConnective annotation_id="11643" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="11646" sense="Temporal.Synchrony">as</DiscourseConnective> to help reduce the inequalities and create a high level of health protection.</en>
+      <fr>Les États membres doivent être encouragés <DiscourseConnective annotation_id="13605">à</DiscourseConnective> faire de la santé un principe dans toutes leurs politiques <DiscourseConnective annotation_id="13666">et</DiscourseConnective> <DiscourseConnective annotation_id="13669">à</DiscourseConnective> inventer de nouveaux plans d'action dans tous les domaines <Alignment alignment="11643" annotation_id="13730">
+          <DiscourseConnective annotation_id="13730" sense="Contingency.Cause.Result">afin de</DiscourseConnective>
+        </Alignment> réduire les inégalités <DiscourseConnective annotation_id="13761">et</DiscourseConnective> de créer un niveau élevé de protection sociale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11727" docOffset="87">
+      <en>I support the need to produce a set of specific indicators which will monitor health inequalities, as well as comparable indicators which could enable national authorities to assess the progress made in this area, with a view to improving healthcare systems.</en>
+      <fr>Je soutiens la nécessité d'élaborer un ensemble d'indicateurs de suivi des inégalités en matière de santé <DiscourseConnective annotation_id="13918">ainsi</DiscourseConnective> que des indicateurs comparables qui pourraient permettre aux autorités nationales d'évaluer les progrès accomplis dans ce domaine, <DiscourseConnective annotation_id="14055">en vue d'</DiscourseConnective>améliorer les systèmes de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11986" docOffset="88">
+      <en>As yet another aspect of the efforts to resolve the problem of health inequalities, consideration must <DiscourseConnective annotation_id="12089" sense="Expansion.Conjunction">also</DiscourseConnective> be given to creating a strategic labour planning mechanism to ensure that we can recruit and retain healthcare professionals.</en>
+      <fr>Il convient de prendre en considération un autre aspect des efforts visant <DiscourseConnective annotation_id="14172">à</DiscourseConnective> remédier au problème des inégalités dans le domaine de la santé, à savoir la création d'un mécanisme de planification stratégique de la main-d'œuvre afin de veiller à ce <DiscourseConnective annotation_id="14344">que</DiscourseConnective> nous puissions recruter <DiscourseConnective annotation_id="14372">et</DiscourseConnective> conserver les professionnels de la santé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="12220" id="217" name="Petru Constantin Luhan">
+    <ParallelChunk annotation_id="12220" docOffset="89">
+      <en>(RO) Mr President, the World Health Organisation estimates that smoking, alcohol consumption, lack of exercise and poor diet will cause 70% of all illnesses and premature deaths by 2020.</en>
+      <fr>(RO) Monsieur le Président, l'Organisation mondiale de la santé estime <DiscourseConnective annotation_id="14488">que</DiscourseConnective> le tabac, la consommation d'alcool, le manque d'activité physique <DiscourseConnective annotation_id="14558">et</DiscourseConnective> une alimentation inadaptée causeront 70 % des maladies <DiscourseConnective annotation_id="14616">et</DiscourseConnective> des décès prématurés à l'horizon 2020.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12407" docOffset="90">
+      <en>The fact that there is a systematic correlation between state of health and social class shows that these differences arise from the inadequate conditions for accessing basic social services.</en>
+      <fr>Le lien systématique entre l'état de santé <DiscourseConnective annotation_id="14701">et</DiscourseConnective> le niveau social montre <DiscourseConnective annotation_id="14728">que</DiscourseConnective> ces différences résultent de conditions inappropriées d'accès aux services sociaux de base.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12599" docOffset="91">
+      <en>This indicates that health inequalities are not the result of an individual choice but are avoidable and unfair.</en>
+      <fr>Cela indique <DiscourseConnective annotation_id="14837">que</DiscourseConnective> les inégalités en matière de santé ne découlent pas du choix d'un individu, <DiscourseConnective annotation_id="14917">mais</DiscourseConnective> sont injustes <DiscourseConnective annotation_id="14936">et</DiscourseConnective> peuvent être évitées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12712" docOffset="92">
+      <en>For the first time in the 2007-2013 budgetary planning, health was proposed as one of the first 10 Structural Fund priorities.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14961">Pour</DiscourseConnective> la première fois au cours de la programmation budgétaire 2007-2013, la santé a été proposée parmi les dix premières priorités des Fonds structurels.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12839" docOffset="93">
+      <en>
+        <Alignment alignment="11101" annotation_id="12839">
+          <DiscourseConnective annotation_id="12839" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the European Commission must include in the procedures for monitoring the Europe 2020 strategy differentiated comparative indicators, based on socio-economic status, and take into account age-based discrimination.</en>
+      <fr>La Commission européenne doit <Alignment alignment="12839" annotation_id="15145">
+          <DiscourseConnective annotation_id="15145" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> inclure des indicateurs comparatifs classés en fonction du statut socio-économique dans les procédures de suivi de la stratégie Europe 2020 <DiscourseConnective annotation_id="15295">et</DiscourseConnective> prendre en considération la discrimination liée à l'âge.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13062" id="218" name="Maria Damanaki">
+    <ParallelChunk annotation_id="13062" docOffset="94">
+      <en>Member of the Commission. - Mr President, the Commission is grateful to Parliament for its support for our action to bridge health inequalities and for its recommendations on this important issue.</en>
+      <fr>Monsieur le Président, la Commission est reconnaissante envers le Parlement <DiscourseConnective annotation_id="15431">pour</DiscourseConnective> son soutien <DiscourseConnective annotation_id="15448">à</DiscourseConnective> notre action visant <DiscourseConnective annotation_id="15470">à</DiscourseConnective> réduire les inégalités dans le domaine de la santé <DiscourseConnective annotation_id="15523">et</DiscourseConnective> <DiscourseConnective annotation_id="15526">pour</DiscourseConnective> ses recommandations sur cette question importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13259" docOffset="95">
+      <en>I would like <DiscourseConnective annotation_id="13272" sense="Expansion.Conjunction">also</DiscourseConnective> to thank, in particular, the rapporteur, Ms Estrela, for her commitment to this cause.</en>
+      <fr>Je souhaiterais remercier <DiscourseConnective annotation_id="15608">en particulier</DiscourseConnective> la rapporteure, Mme Estrela, <DiscourseConnective annotation_id="15652">pour</DiscourseConnective> son engagement <DiscourseConnective annotation_id="15672">à</DiscourseConnective> cette cause.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13364" docOffset="96">
+      <en>Disparities in health between countries, between regions, between rich and poor, between different ethnic minorities, affect each and every EU Member State <Alignment alignment="1161" annotation_id="13520">
+          <DiscourseConnective annotation_id="13520" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, in many places, they are getting wider.</en>
+      <fr>Les disparités sanitaires entre les pays, entre les régions, entre les riches <DiscourseConnective annotation_id="15765">et</DiscourseConnective> les pauvres, entre les différentes minorités ethniques, touchent tous les États membres de l'UE <Alignment alignment="1758" annotation_id="15864">
+          <DiscourseConnective annotation_id="15864" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> s'accroissent <DiscourseConnective annotation_id="15881">en</DiscourseConnective> bien des endroits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13565" docOffset="97">
+      <en>I would like to be sincere on this issue.</en>
+      <fr>Je voudrais être sincère sur cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13607" docOffset="98">
+      <en>We are now beginning to see the full effects of the economic crisis on people's health and on the health services.</en>
+      <fr>Nous commençons <DiscourseConnective annotation_id="15964">à</DiscourseConnective> constater les répercussions de la crise économique sur la santé de la population <DiscourseConnective annotation_id="16047">et</DiscourseConnective> sur les services de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13722" docOffset="99">
+      <en>We are now beginning to see the effects of unemployment and of deficits, <Alignment alignment="16181" annotation_id="13795">
+          <DiscourseConnective annotation_id="13795" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> there is a risk that such inequalities will grow worse.</en>
+      <fr>Nous commençons actuellement <DiscourseConnective annotation_id="16106">à</DiscourseConnective> constater les effets du chômage <DiscourseConnective annotation_id="16140">et</DiscourseConnective> des déficits, ces inégalités risquent <Alignment alignment="16368" annotation_id="16181">
+          <DiscourseConnective annotation_id="16181" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> de s'aggraver.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13854" docOffset="100">
+      <en>Reducing health inequalities is important both for our citizens' wellbeing and for Europe's economic recovery.</en>
+      <fr>La réduction des inégalités en matière de santé est importante tant pour le bien-être de nos concitoyens que <DiscourseConnective annotation_id="16310">pour</DiscourseConnective> la relance économique de l'Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13965" docOffset="101">
+      <en>It is a major challenge which, <Alignment alignment="29650" annotation_id="13996">
+          <DiscourseConnective annotation_id="13996" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> Parliament's report points out, requires action across policy areas and levels of government.</en>
+      <fr>C'est un défi majeur qui, <Alignment alignment="16270" annotation_id="16376">
+          <DiscourseConnective annotation_id="16376" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> le montre le rapport du Parlement, nécessite une action dans tous les domaines politiques <DiscourseConnective annotation_id="16472">et</DiscourseConnective> à tous les niveaux de gouvernement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14093" docOffset="102">
+      <en>Your report gives important pointers for the future.</en>
+      <fr>Votre rapport fournit des indicateurs non négligeables <DiscourseConnective annotation_id="16566">pour</DiscourseConnective> l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14146" docOffset="103">
+      <en>You underline the need to improve access to promotion, preventive care and effective healthcare services.</en>
+      <fr>Vous soulignez la nécessité d'améliorer l'accès <DiscourseConnective annotation_id="16629">à</DiscourseConnective> la promotion, aux soins préventifs <DiscourseConnective annotation_id="16666">et</DiscourseConnective> à des services de santé efficaces.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14252" docOffset="104">
+      <en>You further emphasise the need to pay particular attention to vulnerable groups and to use new technologies, such as telemedicine, in a way that reduces disparities in healthcare.</en>
+      <fr>Vous insistez également sur la nécessité d'accorder une attention particulière aux groupes vulnérables <DiscourseConnective annotation_id="16807">et</DiscourseConnective> d'utiliser les nouvelles technologies, <DiscourseConnective annotation_id="16849">comme</DiscourseConnective> la télémédecine, <DiscourseConnective annotation_id="16872">de manière à</DiscourseConnective> réduire les disparités <DiscourseConnective annotation_id="16908">en</DiscourseConnective> matière de soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14432" docOffset="105">
+      <en>The Commission fully shares your concern.</en>
+      <fr>La Commission partage entièrement vos préoccupations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14474" docOffset="106">
+      <en>You <Alignment alignment="21059" annotation_id="14478">
+          <DiscourseConnective annotation_id="14478" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> highlight gender inequality as an important element contributing to social health inequalities.</en>
+      <fr>Vous avez <Alignment alignment="14478" annotation_id="17002">
+          <DiscourseConnective annotation_id="17002" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> relevé que les inégalités liées au sexe représentaient un facteur important contribuant aux inégalités de santé sociales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14579" docOffset="107">
+      <en>I personally agree fully with you on this.</en>
+      <fr>Je suis, personnellement, entièrement d'accord avec vous sur ce point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14622" docOffset="108">
+      <en>The Commission is vigorously taking forward its programme of action to help reduce health inequalities, <Alignment alignment="6979" annotation_id="14726">
+          <DiscourseConnective annotation_id="14726" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> set out in the Communication on solidarity in health, by working across policies and in partnership with Member States and stakeholders.</en>
+      <fr>La Commission fait progresser fortement son programme d'action visant <DiscourseConnective annotation_id="17275">à</DiscourseConnective> contribuer à la réduction des inégalités en matière de santé, <Alignment alignment="15426" annotation_id="17339">
+          <DiscourseConnective annotation_id="17339" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> cela a été défini dans la communication intitulée "Solidarité <DiscourseConnective annotation_id="17407">en</DiscourseConnective> matière de santé", <DiscourseConnective annotation_id="17429">en</DiscourseConnective> travaillant sur toutes les politiques <DiscourseConnective annotation_id="17470">et</DiscourseConnective> <DiscourseConnective annotation_id="17473">en</DiscourseConnective> partenariat avec les États membres <DiscourseConnective annotation_id="17511">et</DiscourseConnective> les acteurs concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14866" docOffset="109">
+      <en>To make such partnerships operational, Member States are now beginning a joint action on health inequalities, funded through the EU health programme.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17537">Pour</DiscourseConnective> faire en sorte que ces partenariats soient opérationnels, les États membres entament actuellement une action commune sur les inégalités sanitaires, financée au moyen du programme de l'UE dans le domaine de la santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15016" docOffset="110">
+      <en>This action includes work on health inequality impact assessment, regional and scientific networks and stakeholder initiatives.</en>
+      <fr>Cette action comprend des travaux d'évaluation de l'impact des inégalités de santé, des réseaux régionaux <DiscourseConnective annotation_id="17864">et</DiscourseConnective> scientifiques <DiscourseConnective annotation_id="17881">et</DiscourseConnective> des initiatives d'acteurs concernés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15144" docOffset="111">
+      <en>Action across policies starts with our work on public health, <Alignment alignment="7391" annotation_id="15206">
+          <DiscourseConnective annotation_id="15206" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, on tobacco control and nutrition and through action on active and healthy ageing.</en>
+      <fr>Nous commencerons notre action multidisciplinaire en travaillant sur la santé publique, la lutte antitabac <DiscourseConnective annotation_id="18028">ou</DiscourseConnective> la nutrition <Alignment alignment="6688" annotation_id="18044">
+          <DiscourseConnective annotation_id="18044" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="18057">et</DiscourseConnective> en lançant des actions sur le vieillissement actif <DiscourseConnective annotation_id="18111">et</DiscourseConnective> en bonne santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15301" docOffset="112">
+      <en>
+        <Alignment alignment="35255" annotation_id="15301">
+          <DiscourseConnective annotation_id="15301" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> our strategy <Alignment alignment="50660" annotation_id="15318">
+          <DiscourseConnective annotation_id="15318" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> includes commitments in areas such as employment and social policy, agriculture, research and regional policy.</en>
+      <fr>
+        <Alignment alignment="8142" annotation_id="18130">
+          <DiscourseConnective annotation_id="18130" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> notre stratégie comporte <Alignment alignment="15318" annotation_id="18160">
+          <DiscourseConnective annotation_id="18160" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> des engagements dans des domaines tels <DiscourseConnective annotation_id="18209">que</DiscourseConnective> l'emploi <DiscourseConnective annotation_id="18222">et</DiscourseConnective> la politique sociale, l'agriculture, la recherche <DiscourseConnective annotation_id="18275">et</DiscourseConnective> la politique régionale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15434" docOffset="113">
+      <en>Clearly, more action is needed.</en>
+      <fr>Il est évident que davantage d'actions sont requises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15466" docOffset="114">
+      <en>Equally clearly, this will not happen overnight.</en>
+      <fr>Il est tout <DiscourseConnective annotation_id="18368">aussi</DiscourseConnective> évident que cela ne se fera pas en <DiscourseConnective annotation_id="18409">un jour</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15515" docOffset="115">
+      <en>It will take years to fully succeed, <Alignment alignment="8602" annotation_id="15552">
+          <DiscourseConnective annotation_id="15552" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> together we can - <Alignment alignment="12538" annotation_id="15574">
+          <DiscourseConnective annotation_id="15574" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="15578" sense="Expansion.Conjunction">indeed</DiscourseConnective> we must - make a lasting and tangible difference <Alignment alignment="18561" annotation_id="15634">
+          <Alignment alignment="13435" annotation_id="15634">
+            <DiscourseConnective annotation_id="15634" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> all Europeans have a chance of living in good health.</en>
+      <fr>Il faudra des années avant que tout soit mené <DiscourseConnective annotation_id="18464">à</DiscourseConnective> bien, <Alignment alignment="17571" annotation_id="18472">
+          <DiscourseConnective annotation_id="18472" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ensemble, nous pouvons - <Alignment alignment="18507" annotation_id="18502">
+          <DiscourseConnective annotation_id="18502" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous devons - faire une différence durable <DiscourseConnective annotation_id="18548">et</DiscourseConnective> tangible, <Alignment alignment="8443" annotation_id="18561">
+          <Alignment alignment="15634" annotation_id="18561">
+            <DiscourseConnective annotation_id="18561" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> tous les Européens aient une chance de vivre <DiscourseConnective annotation_id="18615">en</DiscourseConnective> bonne santé.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15696" id="219" name="President">
+    <ParallelChunk annotation_id="15696" docOffset="116">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15718" docOffset="117">
+      <en>The vote will take place at midday on Tuesday, 8 March.</en>
+      <fr>Le vote aura lieu mardi 8 mars <DiscourseConnective annotation_id="18681">à</DiscourseConnective> 12 heures.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15774" docOffset="118">
+      <en>Written statements (Rule 149)</en>
+      <fr>Déclarations écrites (article 149)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15804" id="220" language="PL" name="Elżbieta Katarzyna Łukacijewska">
+    <ParallelChunk annotation_id="15804" docOffset="119">
+      <en>Common objectives relating to the reduction of inequalities in health status and access to healthcare are among the priorities of the EU.</en>
+      <fr>Les objectifs communs de réduction des inégalités <DiscourseConnective annotation_id="18779">en</DiscourseConnective> matière de santé <DiscourseConnective annotation_id="18799">et</DiscourseConnective> d'accès aux soins de santé font partie des priorités de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15942" docOffset="120">
+      <en>We know that there are visible differences in health between countries and between people with different levels of education or income or different professions.</en>
+      <fr>Nous savons <DiscourseConnective annotation_id="18876">qu'</DiscourseConnective>il existe des disparités visibles dans le secteur de la santé entre les pays <DiscourseConnective annotation_id="18956">ainsi</DiscourseConnective> qu'entre les personnes de niveaux d'éducation <DiscourseConnective annotation_id="19008">ou</DiscourseConnective> de revenus différents <DiscourseConnective annotation_id="19033">ou</DiscourseConnective> de professions différentes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16103" docOffset="121">
+      <en>The inequalities <Alignment alignment="23632" annotation_id="16120">
+          <DiscourseConnective annotation_id="16120" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> relate to gender and, characteristically, appear early in life and often continue throughout the following years and even generations.</en>
+      <fr>Les inégalités se fondent <Alignment alignment="2252" annotation_id="19090">
+          <DiscourseConnective annotation_id="19090" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> sur le sexe <DiscourseConnective annotation_id="19112">et</DiscourseConnective> débutent généralement tôt dans la vie, persistent souvent dans les années suivantes <DiscourseConnective annotation_id="19199">et</DiscourseConnective> se transmettent <DiscourseConnective annotation_id="19218">même</DiscourseConnective> d'une génération à l'autre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16260" docOffset="122">
+      <en>I would like to point out that the report by Mrs Estrela deals with many aspects of health issues.</en>
+      <fr>Je souhaiterais souligner le fait <DiscourseConnective annotation_id="19285">que</DiscourseConnective> le rapport de Mme Estrela aborde de nombreux aspects des questions de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16359" docOffset="123">
+      <en>
+        <Alignment alignment="43094" annotation_id="16359">
+          <DiscourseConnective annotation_id="16359" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it is worth noting that currently, there is <Alignment alignment="19409" annotation_id="16412">
+          <DiscourseConnective annotation_id="16412" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a problem related to the migration of medical staff, which leads to inequalities in access to their services.</en>
+      <fr>Il est <Alignment alignment="3993" annotation_id="19373">
+          <DiscourseConnective annotation_id="19373" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> bon de noter <DiscourseConnective annotation_id="19396">qu'</DiscourseConnective>il existe <Alignment alignment="16412" annotation_id="19409">
+          <DiscourseConnective annotation_id="19409" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> actuellement un problème lié <DiscourseConnective annotation_id="19444">à</DiscourseConnective> la migration du personnel médical, entraînant des inégalités en termes d'accès aux services.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16527" docOffset="124">
+      <en>We <Alignment alignment="10686" annotation_id="16530">
+          <DiscourseConnective annotation_id="16530" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> need a common, comprehensive European strategy, which would draw attention to resource management, the registration of professionals, education and training, <DiscourseConnective annotation_id="16698" sense="Expansion.Conjunction">and</DiscourseConnective> which, <DiscourseConnective annotation_id="16709" sense="Temporal.Asynchronous.Precedence">in turn</DiscourseConnective>, should contribute to increasing quality and safety, not only in national but also in cross-border healthcare.</en>
+      <fr>Nous avons <Alignment alignment="6528" annotation_id="19550">
+          <DiscourseConnective annotation_id="19550" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> besoin d'une stratégie européenne commune et globale qui attirerait l'attention sur la gestion des ressources, l'enregistrement des professionnels, leur éducation <DiscourseConnective annotation_id="19718">et</DiscourseConnective> leur formation, ce qui ensuite contribuerait <DiscourseConnective annotation_id="19766">à</DiscourseConnective> accroître la qualité <DiscourseConnective annotation_id="19789">et</DiscourseConnective> la sécurité des soins de santé nationaux <DiscourseConnective annotation_id="19833">et</DiscourseConnective> transfrontaliers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16828" docOffset="125">
+      <en>
+        <Alignment alignment="19854" annotation_id="16828">
+          <Alignment alignment="19854" annotation_id="16828">
+            <DiscourseConnective annotation_id="16828" sense="Expansion.Conjunction">In addition</DiscourseConnective>
+          </Alignment>
+        </Alignment>, I always emphasise that we should talk more about prevention, and invest in it above all else.</en>
+      <fr>
+        <Alignment alignment="16828" annotation_id="19854">
+          <Alignment alignment="16828" annotation_id="19854">
+            <DiscourseConnective annotation_id="19854" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+          </Alignment>
+        </Alignment>, j'insiste toujours sur le fait <DiscourseConnective annotation_id="19899">que</DiscourseConnective> nous devons davantage évoquer la prévention <DiscourseConnective annotation_id="19947">et</DiscourseConnective>, <DiscourseConnective annotation_id="19951">surtout</DiscourseConnective>, investir dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16936" docOffset="126">
+      <en>It is necessary to develop diagnostics, promote healthy lifestyles, exchange information effectively and invest in modern technologies, <Alignment alignment="22979" annotation_id="17072">
+          <DiscourseConnective annotation_id="17072" sense="Contingency.Cause.Reason">since</DiscourseConnective>
+        </Alignment> it is better to prevent in advance.</en>
+      <fr>Il est nécessaire de développer des diagnostics, de promouvoir des modes de vie sains, d'échanger des informations de manière efficace <DiscourseConnective annotation_id="20121">et</DiscourseConnective> d'investir dans des technologies modernes, <Alignment alignment="17072" annotation_id="20167">
+          <DiscourseConnective annotation_id="20167" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> il vaut <DiscourseConnective annotation_id="20179">mieux</DiscourseConnective> prévenir que guérir.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17114" id="220" language="IT" name="Tiziano Motti">
+    <ParallelChunk annotation_id="17114" docOffset="127">
+      <en>Health inequalities within the European Union are a matter of fact and must be overcome.</en>
+      <fr>Les inégalités en matière de santé au sein de l'Union européenne sont bien réelles <DiscourseConnective annotation_id="20289">et</DiscourseConnective> doivent être surmontées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17203" docOffset="128">
+      <en>Differences <Alignment alignment="20342" annotation_id="17215">
+          <DiscourseConnective annotation_id="17215" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> exist within each Member State between the elderly, immigrants, the unemployed and the poor.</en>
+      <fr>Des différences existent <Alignment alignment="17215" annotation_id="20342">
+          <DiscourseConnective annotation_id="20342" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> au sein de chaque État membre entre les personnes âgées, les immigrants, les chômeurs <DiscourseConnective annotation_id="20438">et</DiscourseConnective> les plus démunis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17313" docOffset="129">
+      <en>They must all be guaranteed the right to health and the necessary care.</en>
+      <fr>Tous doivent se voir garantir le droit <DiscourseConnective annotation_id="20498">à</DiscourseConnective> la santé <DiscourseConnective annotation_id="20509">et</DiscourseConnective> aux soins indispensables.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17385" docOffset="130">
+      <en>Citizens should be guaranteed access to all the necessary information about health, including by means of new information and communications technologies, and the repayment of expenses incurred: economic hardship cannot, and must not, result in a limit to the possibilities of care.</en>
+      <fr>Les citoyens devraient automatiquement obtenir un accès <DiscourseConnective annotation_id="20594">à</DiscourseConnective> toutes les informations nécessaires sur la santé, y compris au moyen des nouvelles technologies de l'information <DiscourseConnective annotation_id="20709">et</DiscourseConnective> de la communication, <DiscourseConnective annotation_id="20733">et</DiscourseConnective> au remboursement des frais encourus: les difficultés économiques ne peuvent <DiscourseConnective annotation_id="20812">et</DiscourseConnective> ne doivent pas limiter les possibilités de soins.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17668" docOffset="131">
+      <en>In this specific area, the simplistic approach to the issue of abortion, seen as a contraceptive or treatment measure, but always necessary, is a matter of concern.</en>
+      <fr>Dans ce domaine particulier, l'approche simpliste adoptée concernant la question de l'avortement, considéré <DiscourseConnective annotation_id="20973">comme</DiscourseConnective> un moyen de contraception <DiscourseConnective annotation_id="21005">ou</DiscourseConnective> une mesure de traitement, <DiscourseConnective annotation_id="21034">néanmoins</DiscourseConnective> toujours nécessaire, soulève des inquiétudes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17833" docOffset="132">
+      <en>A woman who finds it necessary to terminate a pregnancy is often alone and lacking adequate resources, afraid of facing a choice that brings her face to face with one of the primary themes of her existence.</en>
+      <fr>Une femme qui estime nécessaire de mettre fin à une grossesse est souvent seule <DiscourseConnective annotation_id="21170">et</DiscourseConnective> manque de ressources adéquates, et elle redoute d'opérer un choix qui la confronte <DiscourseConnective annotation_id="21256">à</DiscourseConnective> l'un des thèmes essentiels de son existence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18040" docOffset="133">
+      <en>For this reason, rather than relegating abortion to the role of a guaranteed contraceptive measure, I would prefer adequate facilities to be made available to ensure all women a welcome, support and specific social and welfare policies that help them to overcome, wherever possible, the causes that lead them to choose an abortion.</en>
+      <fr>
+        <DiscourseConnective annotation_id="21303">Pour</DiscourseConnective> cette raison, <DiscourseConnective annotation_id="21322">au lieu de</DiscourseConnective> rabaisser l'avortement <DiscourseConnective annotation_id="21356">à</DiscourseConnective> un moyen de contraception garanti, je préférerais que des installations appropriées soient mises à disposition afin de proposer à toutes les femmes un accueil, un soutien <DiscourseConnective annotation_id="21529">et</DiscourseConnective> des politiques sociales spécifiques les aidant <DiscourseConnective annotation_id="21579">à</DiscourseConnective> surmonter, <DiscourseConnective annotation_id="21592">lorsque</DiscourseConnective> c'est possible, les causes qui les incitent <DiscourseConnective annotation_id="21644">à</DiscourseConnective> opter pour un avortement.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18372" id="220" language="RO" name="Daciana Octavia Sârbu">
+    <ParallelChunk annotation_id="18372" docOffset="134">
+      <en>There are major differences between healthcare systems both inside and between Member States.</en>
+      <fr>Il existe des différences majeures entre les soins de santé au sein des États membres <DiscourseConnective annotation_id="21758">et</DiscourseConnective> entre eux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18466" docOffset="135">
+      <en>I want to stress that during an economic crisis, no government should have the right to make drastic cuts to the budget allocated to healthcare.</en>
+      <fr>Je souhaite souligner <DiscourseConnective annotation_id="21794">que</DiscourseConnective>, en période de crise économique, aucun gouvernement ne devrait avoir le droit de réduire de manière radicale le budget alloué aux soins de santé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18611" docOffset="136">
+      <en>I would like to draw your attention to the situation of the healthcare system in Romania.</en>
+      <fr>Je voudrais attirer votre attention sur la situation du système de soins de santé <DiscourseConnective annotation_id="22026">en</DiscourseConnective> Roumanie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18701" docOffset="137">
+      <en>Thanks to the budget cuts made by the current government, a significant number of Romanian specialist doctors are emigrating, chronic patients no longer have access to healthcare services and reimbursed medication, <Alignment alignment="22273" annotation_id="18916">
+          <DiscourseConnective annotation_id="18916" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the equipment in hospitals is obsolete.</en>
+      <fr>En raison des compressions budgétaires réalisées par le gouvernement actuel, un nombre important de spécialistes roumains émigrent, les patients chroniques n'ont plus accès aux services de soins de santé <DiscourseConnective annotation_id="22243">et</DiscourseConnective> aux médicaments remboursés <Alignment alignment="10805" annotation_id="22273">
+          <DiscourseConnective annotation_id="22273" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> l'équipement des hôpitaux est obsolète.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18960" docOffset="138">
+      <en>
+        <Alignment alignment="34760" annotation_id="18960">
+          <DiscourseConnective annotation_id="18960" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, the right-wing government is proposing the merger of hospitals, even <Alignment alignment="31995" annotation_id="19042">
+          <DiscourseConnective annotation_id="19042" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> some wards do not have sufficient beds for all the patients and always need to be supplemented.</en>
+      <fr>
+        <Alignment alignment="13429" annotation_id="22316">
+          <DiscourseConnective annotation_id="22316" sense="Expansion.Conjunction">Par ailleurs</DiscourseConnective>
+        </Alignment>, le gouvernement de droite propose de fusionner les hôpitaux, <Alignment alignment="16211" annotation_id="22391">
+          <DiscourseConnective annotation_id="22391" sense="Comparison.Contrast">alors même que</DiscourseConnective>
+        </Alignment> certains services ne sont pas dotés de suffisamment de lits <DiscourseConnective annotation_id="22466">pour</DiscourseConnective> soigner tous les patients <DiscourseConnective annotation_id="22497">et</DiscourseConnective> qu'ils doivent toujours être complétés par des lits supplémentaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19145" docOffset="139">
+      <en>This is why I want to appeal to the European Commission to make greater efforts to align healthcare service standards and to exert pressure on Member States to allocate appropriate budgets to guarantee citizens accessible, high quality healthcare services.</en>
+      <fr>C'est la raison pour laquelle j'appelle la Commission européenne <DiscourseConnective annotation_id="22634">à</DiscourseConnective> redoubler d'efforts <DiscourseConnective annotation_id="22656">pour</DiscourseConnective> aligner les normes des services de santé <DiscourseConnective annotation_id="22702">et</DiscourseConnective> exercer une pression sur les États membres <DiscourseConnective annotation_id="22748">afin qu'</DiscourseConnective>ils allouent des budgets appropriés garantissant aux citoyens des services de santé accessibles et de qualité.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19402" id="221" language="FR" name="Bernadette Vergnaud">
+    <ParallelChunk annotation_id="19402" docOffset="140">
+      <en>Having been rapporteur for the Group of the Progressive Alliance of Socialists and Democrats in the European Parliament on the opinion of the Committee on the Internal Market and Consumer Protection, I am delighted with the text that the Committee on the Environment, Public Health and Food Safety has adopted, which contains many of the proposals we and other associated committees made.</en>
+      <fr>par écrit. - Monsieur le Président, chers collègues, ayant été rapporteure <DiscourseConnective annotation_id="22942">pour</DiscourseConnective> le groupe S&amp;D sur l'avis de la commission IMCO, je me félicite du texte adopté <DiscourseConnective annotation_id="23026">en</DiscourseConnective> commission de l'environnement, qui reprend beaucoup de nos propositions ainsi que celles des commissions associées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19791" docOffset="141">
+      <en>In this respect, I think Edite Estrela's report is excellent, <DiscourseConnective annotation_id="19853" sense="Temporal.Synchrony">as</DiscourseConnective> it places the emphasis on some of the crucial aspects of our European social and healthcare model: equality of access to high quality healthcare for everyone in Europe, better management of reproductive health, monitoring of the efficacy and quality of drugs through independent pharmacovigilance systems and, above all, the necessity of high levels of public funding for healthcare during this period of economic crisis.</en>
+      <fr>Ce faisant, le rapport d'Edite Estrela est à mon sens un excellent rapport, qui met l'accent sur des éléments essentiels de notre modèle social <DiscourseConnective annotation_id="23289">et</DiscourseConnective> de santé européen: égalité de l'accès <DiscourseConnective annotation_id="23330">à</DiscourseConnective> des soins de qualité <DiscourseConnective annotation_id="23353">pour</DiscourseConnective> tous sur l'ensemble du territoire, meilleure prise en charge de la santé reproductive, contrôle de l'efficacité <DiscourseConnective annotation_id="23470">et</DiscourseConnective> de la qualité des médicaments par des systèmes de pharmacovigilance indépendants, <DiscourseConnective annotation_id="23555">et</DiscourseConnective> <DiscourseConnective annotation_id="23558">avant</DiscourseConnective> tout la nécessité d'un financement public conséquent <DiscourseConnective annotation_id="23617">pour</DiscourseConnective> la santé, <DiscourseConnective annotation_id="23632">en</DiscourseConnective> cette période de crise.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20278" docOffset="142">
+      <en>Health is not a general good like other goods, <Alignment alignment="30181" annotation_id="20325">
+          <DiscourseConnective annotation_id="20325" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> our welfare systems have the duty to ensure that the most disadvantaged have access to healthcare.</en>
+      <fr>La santé n'est pas un bien <DiscourseConnective annotation_id="23686">comme</DiscourseConnective> un autre <Alignment alignment="2884" annotation_id="23701">
+          <DiscourseConnective annotation_id="23701" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> c'est un devoir de nos systèmes sociaux <DiscourseConnective annotation_id="23744">que</DiscourseConnective> d'assurer l'accès aux soins aux plus démunis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20428" docOffset="143">
+      <en>I am naturally astounded <Alignment alignment="23805" annotation_id="20453">
+          <DiscourseConnective annotation_id="20453" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> at the votes to remove some of the abovementioned points requested by the Group of the European People's Party (Christian Democrats) and the Europe of Freedom and Democracy Group.</en>
+      <fr>Je ne puis <Alignment alignment="22422" annotation_id="23805">
+          <DiscourseConnective annotation_id="23805" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que trouver effarants les votes de suppression demandés par les groupes du PPE <DiscourseConnective annotation_id="23889">et</DiscourseConnective> de l'EFD sur les points précédemment évoqués.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20643" docOffset="144">
+      <en>This step smacks of reactionary neoliberalism, <Alignment alignment="2422" annotation_id="20690">
+          <DiscourseConnective annotation_id="20690" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that the final vote will preserve the spirit of this report and be a credit to this Parliament.</en>
+      <fr>Cette démarche a un parfum de néolibéralisme réactionnaire, <Alignment alignment="12409" annotation_id="23998">
+          <DiscourseConnective annotation_id="23998" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="24010">que</DiscourseConnective> le vote final sauvegardera l'esprit de ce rapport <DiscourseConnective annotation_id="24064">et</DiscourseConnective> fera honneur au Parlement.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

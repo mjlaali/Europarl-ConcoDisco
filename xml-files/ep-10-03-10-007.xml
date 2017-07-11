@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="087" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is the vote.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="39" docOffset="2">
+      <en>(For the results and other details on the vote: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="89">et</DiscourseConnective> autres détails les concernant: voir procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="100" id="088" name="Robert Atkins">
+    <ParallelChunk annotation_id="100" docOffset="3">
+      <en>Mr President, on a point of order, I think you would find that <Alignment alignment="563" annotation_id="163">
+          <DiscourseConnective annotation_id="163" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> you took the first vote at 12.00, people would <DiscourseConnective annotation_id="213" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> sit down and participate, rather than waiting for them to sit down and participate and <Alignment alignment="369" annotation_id="305">
+          <DiscourseConnective annotation_id="305" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> taking the vote.</en>
+      <fr>(EN) Monsieur le Président, c'est une motion de procédure, je pense <Alignment alignment="296" annotation_id="211">
+          <DiscourseConnective annotation_id="211" sense="Contingency.Condition">que si</DiscourseConnective>
+        </Alignment> vous lanciez le premier vote <DiscourseConnective annotation_id="247">à</DiscourseConnective> 12 heures, les gens s'assiéraient <DiscourseConnective annotation_id="283">pour</DiscourseConnective> y participer, <DiscourseConnective annotation_id="302">au lieu de</DiscourseConnective> devoir attendre qu'ils s'asseyent <DiscourseConnective annotation_id="347">et</DiscourseConnective> qu'ils participent <Alignment alignment="815" annotation_id="369">
+          <DiscourseConnective annotation_id="369" sense="Temporal.Asynchronous.Precedence">avant de</DiscourseConnective>
+        </Alignment> procéder au vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="327" docOffset="4">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="338" id="089" name="President">
+    <ParallelChunk annotation_id="338" docOffset="5">
+      <en>I am very considerate.</en>
+      <fr>Je suis très prévenant.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="361" id="090" name="Sergio Paolo Francesco Silvestris">
+    <ParallelChunk annotation_id="361" docOffset="6">
+      <en>(IT) Mr President, I apologise for this intervention <Alignment alignment="1107" annotation_id="414">
+          <DiscourseConnective annotation_id="414" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <Alignment alignment="1596" annotation_id="418">
+          <DiscourseConnective annotation_id="418" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> an MEP elected in Italy, I consider it my duty to offer, from this Chamber, a respectful and deferential greeting to my country's President, Giorgio Napolitano, custodian of Italy's constitutional values and national unity.</en>
+      <fr>(IT) Monsieur le Président, je vous prie de m'excuser <DiscourseConnective annotation_id="493">pour</DiscourseConnective> cette intervention, <Alignment alignment="255" annotation_id="518">
+          <DiscourseConnective annotation_id="518" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> en <Alignment alignment="418" annotation_id="526">
+          <DiscourseConnective annotation_id="526" sense="Temporal.Synchrony">tant que</DiscourseConnective>
+        </Alignment> député élu <DiscourseConnective annotation_id="546">en</DiscourseConnective> Italie, je considère qu'il est de mon devoir de présenter, <DiscourseConnective annotation_id="608">depuis</DiscourseConnective> cette Assemblée, mes salutations respectueuses au président de mon pays, Giorgio Napolitano, gardien des valeurs constitutionnelles de l'Italie <DiscourseConnective annotation_id="759">et</DiscourseConnective> de l'unité nationale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="645" docOffset="7">
+      <en>In this Chamber, the Italian President should only ever be referred to with respect and deference.</en>
+      <fr>Dans cette enceinte, le président italien doit toujours être traité avec respect.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="744" docOffset="8">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="755" id="091" name="President">
+    <ParallelChunk annotation_id="755" docOffset="9">
+      <en>We shall now proceed to the vote.</en>
+      <fr>Nous allons <DiscourseConnective annotation_id="897">maintenant</DiscourseConnective> passer au vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

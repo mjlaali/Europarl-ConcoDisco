@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>17.</en>
+    <fr>17.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Voluntary modulation of direct payments under the CAP (vote)</en>
+    <fr>Modulation facultative des paiements directs dans le cadre de la PAC (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="65" docOffset="2">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="82">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="83" id="102" name="President">
+    <ParallelChunk annotation_id="83" docOffset="3">
+      <en>The Committee on Agriculture and Rural Development proposes that Parliament reject the proposal for a regulation.</en>
+      <fr>La commission de l'agriculture propose au Parlement de rejeter la proposition de règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="197" docOffset="4">
+      <en>(Parliament rejected the proposal for a regulation)</en>
+      <fr>(Le Parlement rejette la proposition de règlement)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="249" docOffset="5">
+      <en>The proposal having been rejected, I give the floor to the Commissioner.</en>
+      <fr>La proposition ayant été rejetée, je donne la parole au commissaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="322" id="103" name="Charlie McCreevy">
+    <ParallelChunk annotation_id="322" docOffset="6">
+      <en>Member of the Commission. Mr President, <Alignment alignment="278123" annotation_id="362">
+          <DiscourseConnective annotation_id="362" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> the Commission regrets the outcome of the vote, it has taken good note of the position expressed by the majority of Members.</en>
+      <fr>membre de la Commission. - (EN) Monsieur le Président, <Alignment alignment="362" annotation_id="363">
+          <DiscourseConnective annotation_id="363" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> regrettant le <DiscourseConnective annotation_id="385">résultat</DiscourseConnective> du vote, la Commission a pris bonne note de la position exprimée par la majorité des députés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="493" docOffset="7">
+      <en>In accordance with the framework agreement between Parliament and the Commission, the issue will be raised in the college of Commissioners <Alignment alignment="285339" annotation_id="632">
+          <Alignment alignment="610" annotation_id="632">
+            <DiscourseConnective annotation_id="632" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the Commission's position can be considered carefully in the light of these circumstances.</en>
+      <fr>Conformément à l'accord-cadre entre le Parlement <DiscourseConnective annotation_id="537">et</DiscourseConnective> la Commission, la question sera soulevée au collège des commissaires, <Alignment alignment="632" annotation_id="610">
+          <Alignment alignment="632" annotation_id="610">
+            <DiscourseConnective annotation_id="610" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> la position de la Commission puisse être examinée de manière approfondie <DiscourseConnective annotation_id="692">à</DiscourseConnective> la lumière de ces circonstances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="731" docOffset="8">
+      <en>The Commission will inform Parliament, in due course and in an appropriate manner, of the outcome of those deliberations.</en>
+      <fr>La Commission informera le Parlement <DiscourseConnective annotation_id="764">en</DiscourseConnective> temps utile <DiscourseConnective annotation_id="779">et</DiscourseConnective> de manière appropriée quant au <DiscourseConnective annotation_id="813">résultat</DiscourseConnective> de ces discussions.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="853" id="104" name="President">
+    <ParallelChunk annotation_id="853" docOffset="9">
+      <en>Very well, Commissioner.</en>
+      <fr>Très bien, Monsieur le Commissaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="878" docOffset="10">
+      <en>The report shall <Alignment alignment="893" annotation_id="895">
+          <DiscourseConnective annotation_id="895" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be forwarded on to the committee concerned, in anticipation of proposals by the Commission.</en>
+      <fr>Le rapport est <Alignment alignment="895" annotation_id="893">
+          <DiscourseConnective annotation_id="893" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> renvoyé en commission compétente dans l'attente des propositions de la Commission.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

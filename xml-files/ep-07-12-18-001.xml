@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Resumption of the session</en>
+    <fr>Reprise de la session</fr>
+  </ParallelChunk>
+<Speaker annotation_id="26" id="999" name="President">
+    <ParallelChunk annotation_id="26" docOffset="1">
+      <en>I declare resumed the session of the European Parliament adjourned on Thursday 13 December.</en>
+      <fr>Je déclare la reprise de la session du Parlement européen suspendue le jeudi 13 décembre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="118" docOffset="2">
+      <en>Ladies and gentlemen, I would like give a warm welcome to the President-in-Office of the Council, José Sócrates, and <Alignment alignment="232" annotation_id="235">
+          <DiscourseConnective annotation_id="235" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> to the President of the European Commission, José Manuel Durão Barroso.</en>
+      <fr>Mesdames, Messieurs, je souhaiterais faire un accueil chaleureux au président <DiscourseConnective annotation_id="190">en</DiscourseConnective> exercice du Conseil, José Sócrates, <DiscourseConnective annotation_id="229">et</DiscourseConnective> <Alignment alignment="235" annotation_id="232">
+          <DiscourseConnective annotation_id="232" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> au Président de la Commission européenne, José Manuel Durão Barroso.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="312" docOffset="3">
+      <en>
+        <Alignment alignment="311" annotation_id="312">
+          <DiscourseConnective annotation_id="312" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I particularly welcome you, ladies and gentlemen.</en>
+      <fr>
+        <Alignment alignment="312" annotation_id="311">
+          <DiscourseConnective annotation_id="311" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, je souhaite <DiscourseConnective annotation_id="334">surtout</DiscourseConnective> la bienvenue à vous tous, Mesdames <DiscourseConnective annotation_id="377">et</DiscourseConnective> Messieurs.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

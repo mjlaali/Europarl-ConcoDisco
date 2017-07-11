@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>12.</en>
+    <fr>12.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>EU-Africa relations (vote)</en>
+    <fr>État des relations entre l'Union européenne <DiscourseConnective annotation_id="48">et</DiscourseConnective> l'Afrique (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="31" docOffset="2">
+    <en>- Martens report</en>
+    <fr>- Rapport Martens</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="48" docOffset="3">
+    <en>- Before the vote on Amendment 1</en>
+    <fr>- Préalablement au vote sur l'amendement 1</fr>
+  </ParallelChunk>
+<Speaker annotation_id="81" id="107" name="Alain Hutchinson">
+    <ParallelChunk annotation_id="81" docOffset="4">
+      <en>(FR) Mr President, colleagues, I should like very briefly to propose an oral amendment to the new Article 61a in Amendment 1, which would introduce the following wording in the second part: 'therefore calls on the Commission [...] to find solutions <Alignment alignment="379" annotation_id="330">
+          <DiscourseConnective annotation_id="330" sense="Temporal.Synchrony">while</DiscourseConnective>
+        </Alignment> continuing negotiations'.</en>
+      <fr>Monsieur le Président, très rapidement, chers collègues, un amendement oral au nouvel article 61bis, à l'amendement 1, qui consisterait à lire la deuxième partie de la manière suivante: "... et demande encore <DiscourseConnective annotation_id="338">à</DiscourseConnective> la Commission de trouver des solutions <Alignment alignment="330" annotation_id="379">
+          <DiscourseConnective annotation_id="379" sense="Temporal.Synchrony">tout en</DiscourseConnective>
+        </Alignment> continuant les négociations."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="362" docOffset="5">
+      <en>I believe I have the support of my ALDE and PPE colleagues.</en>
+      <fr>Je pense avoir l'accord de mes collègues de l'ALDE <DiscourseConnective annotation_id="468">et</DiscourseConnective> du PPE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="422" docOffset="6">
+      <en>(The oral amendment was adopted.)</en>
+      <fr>(L'amendement oral est adopté.)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

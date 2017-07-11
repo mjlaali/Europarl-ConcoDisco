@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="250" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>Ladies and gentlemen, It was on 15 April that I invited Garri Kasparov to come to the European Parliament, at a time <Alignment alignment="113" annotation_id="125">
+          <DiscourseConnective annotation_id="125" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> he was being held under arrest for eleven hours, <Alignment alignment="157" annotation_id="179">
+          <DiscourseConnective annotation_id="179" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> a member of my staff had other reasons - to do, <Alignment alignment="244" annotation_id="231">
+          <Alignment alignment="244" annotation_id="231">
+            <DiscourseConnective annotation_id="231" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, with the legacy of Andrej Sakharov - to be in Moscow.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="31">et</DiscourseConnective> Messieurs, le 15 avril, j'ai invité M. Kasparov <DiscourseConnective annotation_id="82">à</DiscourseConnective> venir au Parlement européen, <Alignment alignment="125" annotation_id="113">
+          <DiscourseConnective annotation_id="113" sense="Temporal.Synchrony">alors qu'</DiscourseConnective>
+        </Alignment>il était détenu <DiscourseConnective annotation_id="138">depuis</DiscourseConnective> onze heures <Alignment alignment="179" annotation_id="157">
+          <DiscourseConnective annotation_id="157" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qu'un membre de mon personnel se trouvait <DiscourseConnective annotation_id="202">à</DiscourseConnective> Moscou <DiscourseConnective annotation_id="211">pour</DiscourseConnective> d'autres raisons - qui ont, <Alignment alignment="231" annotation_id="244">
+          <Alignment alignment="231" annotation_id="244">
+            <DiscourseConnective annotation_id="244" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment>, à voir avec l'héritage d'Andreï Sakharov.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="294" docOffset="2">
+      <en>I am glad that Mr Kasparov has been here yesterday and today, <Alignment alignment="368" annotation_id="356">
+          <DiscourseConnective annotation_id="356" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I rejoice in the great support that you have expressed for him and for his friends in Russia.</en>
+      <fr>Je suis heureux <DiscourseConnective annotation_id="311">que</DiscourseConnective> M. Kasparov ait été présent ici hier <DiscourseConnective annotation_id="352">et</DiscourseConnective> aujourd'hui, <Alignment alignment="356" annotation_id="368">
+          <DiscourseConnective annotation_id="368" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je me réjouis du soutien important <DiscourseConnective annotation_id="406">que</DiscourseConnective> vous lui avez manifesté, <DiscourseConnective annotation_id="435">à</DiscourseConnective> lui <DiscourseConnective annotation_id="441">et</DiscourseConnective> <DiscourseConnective annotation_id="444">à</DiscourseConnective> ses amis <DiscourseConnective annotation_id="455">en</DiscourseConnective> Russie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="454" docOffset="3">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="465" id="059" name="Kyriacos Triantaphyllides">
+    <ParallelChunk annotation_id="465" docOffset="4">
+      <en>Mr President, I would like to inform the House that last night the Israeli authorities arrested a number of elected representatives of the PLC, including a Minister of the Abbas Government.</en>
+      <fr>(EN) Monsieur le Président, je voudrais informer cette Assemblée <DiscourseConnective annotation_id="550">que</DiscourseConnective> les autorités israéliennes ont arrêté la nuit dernière plusieurs représentants élus du Conseil législatif palestinien, dont un ministre du gouvernement Abbas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="655" docOffset="5">
+      <en>I would <Alignment alignment="732" annotation_id="663">
+          <DiscourseConnective annotation_id="663" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> ask you, President, to condemn this Israeli action and to make a strong statement against their practice of arresting elected representatives of the Palestinian people.</en>
+      <fr>Je vous demanderai <Alignment alignment="608" annotation_id="732">
+          <DiscourseConnective annotation_id="732" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, Monsieur le Président, de condamner cette action <DiscourseConnective annotation_id="787">et</DiscourseConnective> de rédiger une déclaration sévère à l'encontre de cette pratique consistant à arrêter des représentants élus du peuple palestinien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="842" docOffset="6">
+      <en>This is not the way to go forward with the peace process.</en>
+      <fr>Ce n'est pas la solution <DiscourseConnective annotation_id="947">pour</DiscourseConnective> faire progresser le processus de paix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="900" docOffset="7">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="911" id="060" name="President">
+    <ParallelChunk annotation_id="911" docOffset="8">
+      <en>We have just been discussing this in the Conference of Presidents, too.</en>
+      <fr>Nous venons juste d'<DiscourseConnective annotation_id="1030">en</DiscourseConnective> discuter <DiscourseConnective annotation_id="1042">en</DiscourseConnective> conférence des présidents <DiscourseConnective annotation_id="1071">également</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="983" docOffset="9">
+      <en>
+        <DiscourseConnective annotation_id="983" sense="Expansion.Alternative">Unless</DiscourseConnective> there are unavoidable changes to my schedule, I shall be flying to the Middle East on Sunday and seeking suitable means to express this.</en>
+      <fr>Sauf changements impératifs <DiscourseConnective annotation_id="1110">à</DiscourseConnective> mon emploi du temps, je m'envolerai <DiscourseConnective annotation_id="1148">pour</DiscourseConnective> le Moyen-Orient dimanche <DiscourseConnective annotation_id="1178">et</DiscourseConnective> chercherai les moyens adéquats d'intégrer ce sujet à la discussion.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

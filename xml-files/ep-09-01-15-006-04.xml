@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>4.</en>
+    <fr>4.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Situation in the Horn of Africa (vote)</en>
+    <fr>Situation dans la Corne de l'Afrique (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="49">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="61" id="081" name="Ana Maria Gomes">
+    <ParallelChunk annotation_id="61" docOffset="3">
+      <en>(PT) I would like to propose a new paragraph before paragraph 1 that states as follows:</en>
+      <fr>(PT) Je voudrais proposer l'insertion d'un nouveau paragraphe <DiscourseConnective annotation_id="125">avant</DiscourseConnective> le paragraphe 1, qui expose ce qui suit:</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="149" docOffset="4">
+      <en>'Notes that the current situation in the countries of the Horn of Africa is not in conformity with the essential elements of cooperation stated in Article 9 of the Cotonou Agreement;'.</en>
+      <fr>(EN) "Note <DiscourseConnective annotation_id="183">que</DiscourseConnective> la situation actuelle dans les pays de la Corne de l'Afrique ne correspond pas aux paramètres essentiels de la coopération mentionnés <DiscourseConnective annotation_id="321">à</DiscourseConnective> l'article 9 de l'accord de Cotonou;"</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="334" docOffset="5">
+      <en>This is a sentence that was already in the report that our three colleagues, who visited the region, recently gave to us.</en>
+      <fr>Cette phrase est tirée du rapport <DiscourseConnective annotation_id="394">que</DiscourseConnective> nos trois collègues qui se sont rendus dans la région nous ont remis récemment.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>8.</en>
+    <fr>8.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Combating racism and xenophobia (vote)</en>
+    <fr>Lutte contre certaines formes et expressions de racisme <DiscourseConnective annotation_id="59">et</DiscourseConnective> de xénophobie au moyen du droit pénal (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+    <en>- Report: Martine Roure</en>
+    <fr>- Rapport Martine Roure</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="66" docOffset="3">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="133">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="84" id="077" name="Martine Roure">
+    <ParallelChunk annotation_id="84" docOffset="4">
+      <en>(FR) Mr President, I would just like to say that the European Parliament has once again demonstrated its maturity and sense of responsibility, <Alignment alignment="500" annotation_id="227">
+          <DiscourseConnective annotation_id="227" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would point out to the Council, which is not here, that it should follow our example: we have produced a text which has the unanimous approval of practically the whole of our committee, <Alignment alignment="507" annotation_id="419">
+          <DiscourseConnective annotation_id="419" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> this is something we can be proud of.</en>
+      <fr>(FR) Monsieur le Président, je voudrais <DiscourseConnective annotation_id="187">simplement</DiscourseConnective> <DiscourseConnective annotation_id="198">dire que</DiscourseConnective> le Parlement européen a <DiscourseConnective annotation_id="231">encore</DiscourseConnective> fait la preuve de sa maturité, de son sens des responsabilités <Alignment alignment="158" annotation_id="301">
+          <DiscourseConnective annotation_id="301" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je m'adresse au Conseil, qui est absent, pour lui <DiscourseConnective annotation_id="354">dire qu'</DiscourseConnective>il faudrait prendre exemple sur nous: nous sommes vraiment arrivés à un texte qui fait pratiquement l'unanimité de notre commission <DiscourseConnective annotation_id="494">en tout cas</DiscourseConnective>, <Alignment alignment="419" annotation_id="507">
+          <DiscourseConnective annotation_id="507" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous pouvons en être fiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="461" docOffset="5">
+      <en>My thanks go to all my fellow committee members.</en>
+      <fr>Je remercie tous mes collègues.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

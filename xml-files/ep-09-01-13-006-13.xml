@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>13.</en>
+    <fr>13.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Public finances in the EMU - 2007-2008 (</en>
+    <fr>Les finances publiques dans l'UEM - 2007 <DiscourseConnective annotation_id="45">et</DiscourseConnective> 2008 (</fr>
+  </ParallelChunk>
+<Speaker annotation_id="45" id="069" name="Reinhard Rack">
+    <ParallelChunk annotation_id="45" docOffset="2">
+      <en>(DE) Madam President, I have the following request.</en>
+      <fr>(DE) Madame la Présidente, je voudrais présenter la requête suivante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="97" docOffset="3">
+      <en>
+        <Alignment alignment="125" annotation_id="97">
+          <DiscourseConnective annotation_id="97" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> we have formal sittings here, there is always a camera in the middle of the seating area.</en>
+      <fr>
+        <Alignment alignment="600" annotation_id="125">
+          <DiscourseConnective annotation_id="125" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> nous organisons des séances solennelles au sein de cet hémicycle, une caméra est toujours positionnée au milieu des places assises.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="192" docOffset="4">
+      <en>It is not always exactly easy for the camera operators to work there; it is <Alignment alignment="372" annotation_id="268">
+          <DiscourseConnective annotation_id="268" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="274" sense="Comparison.Contrast">however</DiscourseConnective>, a problem for Members <DiscourseConnective annotation_id="305" sense="Contingency.Condition">if</DiscourseConnective> there is a camera where we want to work.</en>
+      <fr>Outre le fait qu'il n'est pas toujours facile <DiscourseConnective annotation_id="311">pour</DiscourseConnective> les caméramans de travailler là, ce positionnement pose <Alignment alignment="268" annotation_id="372">
+          <DiscourseConnective annotation_id="372" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> problème aux députés qui veulent travailler à cet endroit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="349" docOffset="5">
+      <en>Could we not amend the allocation of seats <Alignment alignment="497" annotation_id="392">
+          <DiscourseConnective annotation_id="392" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we want to have the cameras here?</en>
+      <fr>Ne pourrions-nous pas modifier l'attribution des sièges <Alignment alignment="392" annotation_id="497">
+          <DiscourseConnective annotation_id="497" sense="Contingency.Condition">pour</DiscourseConnective>
+        </Alignment> pouvoir avoir les caméras ici?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="429" docOffset="6">
+      <en>If not, someone really needs to come up with a better technical solution.</en>
+      <fr>
+        <DiscourseConnective annotation_id="533">Sinon</DiscourseConnective>, quelqu'un devra trouver une solution un peu plus technique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="503" id="998" name="President">
+    <ParallelChunk annotation_id="503" docOffset="7">
+      <en>We will consult the competent authorities.</en>
+      <fr>Nous saisirons les autorités compétentes.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="546" id="997" name="Christopher Heaton-Harris">
+    <ParallelChunk annotation_id="546" docOffset="8">
+      <en>Madam President, I have been trying to wave to an usher throughout the voting procedure in order to give explanations of vote, <Alignment alignment="788" annotation_id="673">
+          <DiscourseConnective annotation_id="673" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="677" sense="Contingency.Cause.Reason">because</DiscourseConnective> you conducted votes so brilliantly <Alignment alignment="379666" annotation_id="720">
+          <DiscourseConnective annotation_id="720" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we got through them so quickly, an usher has not quite made it too me yet.</en>
+      <fr>(EN) Madame la Présidente, j'ai essayé de faire signe <DiscourseConnective annotation_id="696">à</DiscourseConnective> un huissier tout au long de la procédure de vote <DiscourseConnective annotation_id="747">afin de</DiscourseConnective> donner des explications de vote, <Alignment alignment="33" annotation_id="788">
+          <DiscourseConnective annotation_id="788" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> vous avez mené les mises aux voix <DiscourseConnective annotation_id="827">si</DiscourseConnective> brillamment <Alignment alignment="720" annotation_id="842">
+          <DiscourseConnective annotation_id="842" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous les avons terminées <DiscourseConnective annotation_id="870">si</DiscourseConnective> rapidement qu'aucun huissier n'a eu <DiscourseConnective annotation_id="909">le temps de</DiscourseConnective> venir à moi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="799" docOffset="9">
+      <en>I am holding a piece of paper asking to give two oral explanations of vote on the McGuinness and Breyer reports.</en>
+      <fr>Je tiens une feuille de papier <DiscourseConnective annotation_id="965">pour</DiscourseConnective> demander deux explications de vote orales sur les rapports McGuinness <DiscourseConnective annotation_id="1040">et</DiscourseConnective> Breyer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="912" docOffset="10">
+      <en>I would appreciate it <DiscourseConnective annotation_id="934" sense="Contingency.Condition">if</DiscourseConnective> you would allow me to do that.</en>
+      <fr>Je vous serais reconnaissant de me permettre de le faire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="968" id="996" name="Avril Doyle">
+    <ParallelChunk annotation_id="968" docOffset="11">
+      <en>Madam President, <DiscourseConnective annotation_id="985" sense="Expansion.Conjunction">likewise</DiscourseConnective>, <DiscourseConnective annotation_id="995" sense="Contingency.Condition">if</DiscourseConnective> I could have the same forbearance.</en>
+      <fr>(EN) Madame la Présidente, je vous adresse la <DiscourseConnective annotation_id="1155">même</DiscourseConnective> demande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1033" docOffset="12">
+      <en>My request is on its way to you as well.</en>
+      <fr>Ma requête est sur le point de vous parvenir.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

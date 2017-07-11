@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="117" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>I am delighted to inform you that there is an official delegation in the Chamber made up of religious leaders, in particular, from the Christian world in the Middle East, from Iraq and Lebanon.</en>
+      <fr>J'ai le plaisir de vous informer <DiscourseConnective annotation_id="55">qu'</DiscourseConnective>une délégation officielle composée de chefs religieux provenant <DiscourseConnective annotation_id="122">notamment</DiscourseConnective> du monde chrétien du Proche-Orient, de l'Irak <DiscourseConnective annotation_id="178">et</DiscourseConnective> du Liban, est présente dans cette Assemblée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="202" docOffset="2">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="213" docOffset="3">
+      <en>We are aware of the difficult situation in the region for many Christian communities, <Alignment alignment="148" annotation_id="299">
+          <DiscourseConnective annotation_id="299" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="167" annotation_id="303">
+          <DiscourseConnective annotation_id="303" sense="Contingency.Cause.Result">consequently</DiscourseConnective>
+        </Alignment> we are delighted to express our support.</en>
+      <fr>Nous sommes conscients de la situation difficile de nombreuses communautés chrétiennes dans la région <Alignment alignment="0" annotation_id="347">
+          <DiscourseConnective annotation_id="347" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous sommes <Alignment alignment="303" annotation_id="362">
+          <DiscourseConnective annotation_id="362" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> heureux de leur exprimer notre soutien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="357" docOffset="4">
+      <en>You are <DiscourseConnective annotation_id="365" sense="Contingency.Cause.Result">therefore</DiscourseConnective> very welcome to the European Parliament.</en>
+      <fr>Soyez les bienvenus au Parlement européen.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

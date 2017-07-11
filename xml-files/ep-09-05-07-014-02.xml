@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Madagascar</en>
+    <fr>Madagascar</fr>
+  </ParallelChunk>
+<Speaker annotation_id="14" id="300" name="Glyn Ford">
+    <ParallelChunk annotation_id="14" docOffset="2">
+      <en>author. - Madam President, concerning the next vote, on 'Venezuela: the case of Manuel Rosales', the Socialist Group, of course, has withdrawn its signature from the compromise resolution.</en>
+      <fr>Madame la Présidente, concernant le prochain vote, sur le "Venezuela: le cas de Manuel Rosales", le groupe socialiste a bien entendu retiré sa signature de la résolution de compromis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="203" docOffset="3">
+      <en>We have not taken part in the debate <Alignment alignment="234" annotation_id="240">
+          <DiscourseConnective annotation_id="240" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we will not take part in the vote.</en>
+      <fr>Nous n'avons pas participé au débat <Alignment alignment="88" annotation_id="234">
+          <DiscourseConnective annotation_id="234" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous ne participerons pas au vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

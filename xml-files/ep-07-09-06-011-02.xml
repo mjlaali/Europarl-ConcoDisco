@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>2.</en>
+    <fr>2.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="3" docOffset="1">
+    <en>Bangladesh (vote)</en>
+    <fr>Bangladesh (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="21" docOffset="2">
+    <en>Resolution on Bangladesh - After the vote on Amendment 2 to recital F:</en>
+    <fr>Résolution: Bangladesh - <DiscourseConnective annotation_id="46">Après</DiscourseConnective> le vote sur l'amendement 2 au considérant F:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="92" id="164" name="Charles Tannock">
+    <ParallelChunk annotation_id="92" docOffset="3">
+      <en>Mr President, did you take my oral amendment to add the name of the third former prime minister, Mr Moudud Ahmed, to the original text?</en>
+      <fr>(EN) Monsieur le Président, avez-vous pris en considération mon amendement formulé oralement visant <DiscourseConnective annotation_id="197">à</DiscourseConnective> ajouter le nom du troisième ancien Premier ministre, Monsieur Moudoud Ahmed, au texte original?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="228" docOffset="4">
+      <en>It should have been taken first.</en>
+      <fr>Cela aurait dû être fait en premier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="261" docOffset="5">
+      <en>It was a technical adjustment.</en>
+      <fr>Il s'agissait d'une rectification technique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="292" docOffset="6">
+      <en>I am not sure whether the voting order precluded doing so, <Alignment alignment="1689" annotation_id="351">
+          <DiscourseConnective annotation_id="351" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it should have been taken first in my view, and then the split vote.</en>
+      <fr>Je ne suis pas certain <DiscourseConnective annotation_id="400">que</DiscourseConnective> l'ordre de vote l'excluait <DiscourseConnective annotation_id="431">en ce sens</DiscourseConnective>, <Alignment alignment="351" annotation_id="443">
+          <DiscourseConnective annotation_id="443" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="448">à</DiscourseConnective> mon avis, cet aspect aurait dû être abordé en premier, <DiscourseConnective annotation_id="505">avant</DiscourseConnective> le vote en division.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="424" id="165" name="President">
+    <ParallelChunk annotation_id="424" docOffset="7">
+      <en>According to the indications of the Sittings Service, Mr Tannock, your oral amendment was tabled in case of Amendment 2 being rejected.</en>
+      <fr>(FR) Selon les indications du service de la séance, Monsieur Tannock, votre amendement oral était présenté <DiscourseConnective annotation_id="639">en</DiscourseConnective> cas de rejet de l'amendement 2.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="560" docOffset="8">
+      <en>Amendment 2 was adopted, <Alignment alignment="674" annotation_id="585">
+          <DiscourseConnective annotation_id="585" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>
+        <Alignment alignment="585" annotation_id="674">
+          <DiscourseConnective annotation_id="674" sense="Comparison.Contrast">Or</DiscourseConnective>
+        </Alignment>, cet amendement 2 a été adopté.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="594" docOffset="9">
+      <en>
+        <Alignment alignment="709" annotation_id="594">
+          <DiscourseConnective annotation_id="594" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, in principle, your oral amendment lapses.</en>
+      <fr>
+        <Alignment alignment="181" annotation_id="709">
+          <DiscourseConnective annotation_id="709" sense="Contingency.Cause.Result">Donc</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="715">en</DiscourseConnective> principe, votre amendement oral tombe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="642" docOffset="10">
+      <en>Having said that, <Alignment alignment="767" annotation_id="660">
+          <DiscourseConnective annotation_id="660" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the Members feel that we can add Mr Moudud Ahmed's name to the list in recital F, I have no objections.</en>
+      <fr>
+        <DiscourseConnective annotation_id="757">Cela dit</DiscourseConnective>, <Alignment alignment="0" annotation_id="767">
+          <DiscourseConnective annotation_id="767" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> les collègues considèrent <DiscourseConnective annotation_id="796">que</DiscourseConnective> l'on peut ajouter <DiscourseConnective annotation_id="818">à</DiscourseConnective> la liste contenue au considérant F le nom de Moudud Ahmed, je n'y vois pour ma part aucune objection.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="767" docOffset="11">
+      <en>Are there any objections to this oral amendment?</en>
+      <fr>Y a-t-il des objections <DiscourseConnective annotation_id="946">à</DiscourseConnective> la prise en compte de cet amendement oral?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="816" docOffset="12">
+      <en>(Parliament agreed to accept the oral amendment)</en>
+      <fr>(L'amendement oral est retenu)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

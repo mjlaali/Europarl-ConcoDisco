@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>16.</en>
+    <fr>16.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Institutional balance of the European Union (</en>
+    <fr>Incidence du traité de Lisbonne sur le développement de l'équilibre institutionnel de l'UE (</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="50" docOffset="2">
+    <en>- Before the vote</en>
+    <fr>- <DiscourseConnective annotation_id="99">Avant</DiscourseConnective> le vote</fr>
+  </ParallelChunk>
+<Speaker annotation_id="68" id="133" language="NL" name="Jean-Luc Dehaene">
+    <ParallelChunk annotation_id="68" docOffset="3">
+      <en>Mr President, first of all, I would like to make a technical remark.</en>
+      <fr>Monsieur le Président, <DiscourseConnective annotation_id="136">tout d'abord</DiscourseConnective>, je voudrais faire une <DiscourseConnective annotation_id="172">remarque</DiscourseConnective> technique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="137" docOffset="4">
+      <en>
+        <DiscourseConnective annotation_id="137" sense="Temporal.Synchrony">As</DiscourseConnective> I understood it, Amendment 1 was not intended to replace the text but, <Alignment alignment="275" annotation_id="211">
+          <DiscourseConnective annotation_id="211" sense="Expansion.Restatement">rather</DiscourseConnective>
+        </Alignment>, be a complement to it.</en>
+      <fr>Il me semblait que l'amendement 1 n'avait pas pour but de remplacer le texte, <DiscourseConnective annotation_id="270">mais</DiscourseConnective> <Alignment alignment="211" annotation_id="275">
+          <DiscourseConnective annotation_id="275" sense="Expansion.Restatement">plutôt</DiscourseConnective>
+        </Alignment> de le compléter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="242" docOffset="5">
+      <en>It was in that sense that I agreed to this amendment.</en>
+      <fr>C'est <DiscourseConnective annotation_id="305">en ce sens que</DiscourseConnective> j'ai accepté cet amendement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="296" docOffset="6">
+      <en>I would like to take this opportunity to thank the entire Commission for their very close cooperation and to point out how important it is that, under the Treaty of Lisbon, we have close interinstitutional cooperation from the very beginning.</en>
+      <fr>Je voudrais profiter de cette occasion <DiscourseConnective annotation_id="388">pour</DiscourseConnective> remercier tout le personnel de la Commission <DiscourseConnective annotation_id="438">pour</DiscourseConnective> leur étroite collaboration, <DiscourseConnective annotation_id="471">et</DiscourseConnective> <DiscourseConnective annotation_id="474">pour</DiscourseConnective> souligner à quel point il importe <DiscourseConnective annotation_id="513">qu'en</DiscourseConnective> vertu du traité de Lisbonne, nous établissions dès le départ une étroite coopération institutionnelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="539" docOffset="7">
+      <en>That is why I would <Alignment alignment="649" annotation_id="559">
+          <DiscourseConnective annotation_id="559" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> stress that, in the period of transition from Nice to Lisbon, we need to remain in close consultation with the European Council as well <Alignment alignment="840" annotation_id="700">
+          <DiscourseConnective annotation_id="700" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we want to avoid beginning the next term in a state of absolute confusion.</en>
+      <fr>
+        <DiscourseConnective annotation_id="622">C'est pourquoi</DiscourseConnective> je voudrais <Alignment alignment="415" annotation_id="649">
+          <DiscourseConnective annotation_id="649" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souligner <DiscourseConnective annotation_id="669">que</DiscourseConnective>, pendant cette période de transition qui mène du traité de Nice <DiscourseConnective annotation_id="737">à</DiscourseConnective> celui de Lisbonne, nous devons <DiscourseConnective annotation_id="770">également</DiscourseConnective> maintenir une étroite consultation avec le Conseil européen <Alignment alignment="700" annotation_id="840">
+          <DiscourseConnective annotation_id="840" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> nous voulons éviter de démarrer la prochaine législature dans la confusion la plus totale.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="778" id="134" name="President">
+    <ParallelChunk annotation_id="778" docOffset="8">
+      <en>I can <Alignment alignment="946" annotation_id="784">
+          <DiscourseConnective annotation_id="784" sense="Expansion.Conjunction">in fact</DiscourseConnective>
+        </Alignment> confirm that Amendment 1 is tabled as an addition.</en>
+      <fr>Je confirme <Alignment alignment="195" annotation_id="946">
+          <DiscourseConnective annotation_id="946" sense="Expansion.Conjunction">effectivement</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="960">que</DiscourseConnective> l'amendement 1 se présente sous forme d'ajout.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

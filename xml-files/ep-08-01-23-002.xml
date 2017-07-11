@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Welcome</en>
+    <fr>Souhaits de bienvenue</fr>
+  </ParallelChunk>
+<Speaker annotation_id="8" id="998" name="President">
+    <ParallelChunk annotation_id="8" docOffset="1">
+      <en>We welcome the ACP members of the Presidency of the ΑCP-ΕU Joint Parliamentary Assembly and their delegations.</en>
+      <fr>Nous accueillons les membres ACP de la présidence de l'Assemblée parlementaire paritaire de l'ACP-UE <DiscourseConnective annotation_id="123">ainsi</DiscourseConnective> que leurs délégations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="119" docOffset="2">
+      <en>At this extraordinary sitting we are to debate an issue of global importance, <DiscourseConnective annotation_id="197" sense="Contingency.Cause.Reason">since</DiscourseConnective> climate change and the energy issues associated with it are common challenges for the European Union as well as for all the peoples of the world.</en>
+      <fr>Lors de cette séance extraordinaire, nous débattrons d'un sujet d'envergure mondiale, les changements climatiques <DiscourseConnective annotation_id="266">et</DiscourseConnective> les questions en matière d'énergie qui y sont liées représentant des défis communs <DiscourseConnective annotation_id="352">à</DiscourseConnective> l'Union européenne <DiscourseConnective annotation_id="373">comme</DiscourseConnective> <DiscourseConnective annotation_id="379">à</DiscourseConnective> tous les peuples du monde.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

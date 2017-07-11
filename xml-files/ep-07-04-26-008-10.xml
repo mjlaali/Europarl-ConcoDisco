@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>10.</en>
+    <fr>10.</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="4" docOffset="1">
+    <en>Moratorium on the death penalty (vote)</en>
+    <fr>Moratoire sur la peine de mort (vote)</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="43" docOffset="2">
+    <en>- Motion for a resolution:</en>
+    <fr>- Proposition de résolution</fr>
+  </ParallelChunk>
+<ParallelChunk annotation_id="70" docOffset="3">
+    <en>- Before the vote:</en>
+    <fr>- <DiscourseConnective annotation_id="72">Avant</DiscourseConnective> le vote:</fr>
+  </ParallelChunk>
+<Speaker annotation_id="89" id="078" name="Marco Cappato">
+    <ParallelChunk annotation_id="89" docOffset="4">
+      <en>(IT) Mr President, in the fourth citation, where it says that the statement was signed by 85 countries, I should like to add the word 'initially', <Alignment alignment="258" annotation_id="236">
+          <Alignment alignment="258" annotation_id="236">
+            <DiscourseConnective annotation_id="236" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the citation will read 'which was initially signed by 85 countries'.</en>
+      <fr>(IT) Monsieur le Président, <DiscourseConnective annotation_id="115">à</DiscourseConnective> la quatrième citation, où il est indiqué <DiscourseConnective annotation_id="158">que</DiscourseConnective> la déclaration a été signée par 85 pays, je souhaiterais que soit ajouté le mot "initialement", <Alignment alignment="236" annotation_id="258">
+          <Alignment alignment="236" annotation_id="258">
+            <DiscourseConnective annotation_id="258" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> le libellé dise "déclaration qui a été signée initialement par 85 pays".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="313" docOffset="5">
+      <en>(The oral amendment was accepted)</en>
+      <fr>(L'amendement oral est approuvé.)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

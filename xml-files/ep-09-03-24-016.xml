@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Novel foods (debate)</en>
+    <fr>Nouveaux aliments (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="21" id="492" name="President">
+    <ParallelChunk annotation_id="21" docOffset="1">
+      <en>The next item is the report by Mrs Liotard, on behalf of the Committee on the Environment, Public Health and Food Safety, on the proposal for a regulation of the European Parliament and of the Council on novel foods and amending Regulation (EC) No xxx/xxxx (common procedure) - C6-0027/2008 -.</en>
+      <fr>L'ordre du jour appelle le débat sur le rapport de Kartika Tamara Liotard, au nom de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="166">et</DiscourseConnective> de la sécurité alimentaire, sur la proposition de règlement du Parlement européen <DiscourseConnective annotation_id="251">et</DiscourseConnective> du Conseil concernant les nouveaux aliments <DiscourseConnective annotation_id="298">et</DiscourseConnective> modifiant le règlement (CE) no xxx/xxxx (procédure uniforme) - C6-0027/2008 -.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="315" id="493" name="Kartika Tamara Liotard">
+    <ParallelChunk annotation_id="315" docOffset="2">
+      <en>rapporteur. - (NL) Madam President, first of all, I would like to thank the shadow rapporteurs, <DiscourseConnective annotation_id="411" sense="Temporal.Synchrony">as</DiscourseConnective> they helped me a great deal in improving the Commission report.</en>
+      <fr>rapporteure. - (NL) Madame la Présidente, je voudrais <DiscourseConnective annotation_id="434">tout d'abord</DiscourseConnective> remercier les rapporteurs fictifs qui m'ont beaucoup aidée <DiscourseConnective annotation_id="506">à</DiscourseConnective> améliorer le rapport de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="478" docOffset="3">
+      <en>I must <Alignment alignment="575" annotation_id="485">
+          <DiscourseConnective annotation_id="485" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> mention the cooperation with the Czech Presidency.</en>
+      <fr>Permettez-moi de mentionner <Alignment alignment="485" annotation_id="575">
+          <DiscourseConnective annotation_id="575" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> la présidence tchèque avec qui la collaboration a été très positive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="541" docOffset="4">
+      <en>They, too, had a good deal of positive input to offer <DiscourseConnective annotation_id="595" sense="Expansion.Conjunction">and</DiscourseConnective> we were only a couple of small unresolved issues away from reaching an agreement at first reading, <Alignment alignment="755" annotation_id="698">
+          <DiscourseConnective annotation_id="698" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> it is, in any case, that bit more democratic to have a vote in the House first.</en>
+      <fr>Il ne nous restait <DiscourseConnective annotation_id="669">que</DiscourseConnective> deux petits points à résoudre <DiscourseConnective annotation_id="703">avant d'</DiscourseConnective>en arriver à un accord <DiscourseConnective annotation_id="734">en</DiscourseConnective> première lecture, <Alignment alignment="958" annotation_id="755">
+          <DiscourseConnective annotation_id="755" sense="Comparison.Contrast">bien qu'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="766">soit</DiscourseConnective> <DiscourseConnective annotation_id="771">de toute façon</DiscourseConnective> un peu plus démocratique de voter <DiscourseConnective annotation_id="820">d'abord</DiscourseConnective> au Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="787" docOffset="5">
+      <en>
+        <Alignment alignment="842" annotation_id="787">
+          <DiscourseConnective annotation_id="787" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> I first heard that the Commission was putting forward a proposal for a regulation on novel foods, I did wonder what was meant by 'novel foods'.</en>
+      <fr>
+        <Alignment alignment="787" annotation_id="842">
+          <DiscourseConnective annotation_id="842" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> j'ai entendu <DiscourseConnective annotation_id="863">que</DiscourseConnective> la Commission présentait une proposition de règlement sur les nouveaux aliments, je me suis demandé ce qu'étaient les "nouveaux aliments".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="936" docOffset="6">
+      <en>I was <Alignment alignment="1020" annotation_id="942">
+          <DiscourseConnective annotation_id="942" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> surprised that the Commission proposal took the internal market as its starting point.</en>
+      <fr>J'ai été tout <Alignment alignment="807" annotation_id="1020">
+          <DiscourseConnective annotation_id="1020" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> surprise <DiscourseConnective annotation_id="1035">que</DiscourseConnective>, dans cette proposition, la Commission prenne le marché intérieur <DiscourseConnective annotation_id="1105">comme</DiscourseConnective> point de départ.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1034" docOffset="7">
+      <en>I will begin with that point.</en>
+      <fr>C'est par là que je commencerai.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1064" docOffset="8">
+      <en>Like so many topics in this Parliament, this topic, too, can be approached from the perspective of the internal market, the producer or the economy.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1161">Comme</DiscourseConnective> bon nombre de sujets débattus au Parlement, cette question peut être abordée sous l'angle du marché intérieur, du point de vue du producteur <DiscourseConnective annotation_id="1308">ou</DiscourseConnective> sous un éclairage économique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1213" docOffset="9">
+      <en>It can <Alignment alignment="1356" annotation_id="1220">
+          <DiscourseConnective annotation_id="1220" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be approached, <DiscourseConnective annotation_id="1240" sense="Comparison.Contrast">however</DiscourseConnective>, from the point of view of food safety, consumers, health and the environment: <DiscourseConnective annotation_id="1327" sense="Expansion.Restatement">in other words</DiscourseConnective>, on the basis of the welfare of the European citizen.</en>
+      <fr>Mais elle peut <Alignment alignment="1220" annotation_id="1356">
+          <DiscourseConnective annotation_id="1356" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> être prise du point de vue de la sécurité alimentaire, des consommateurs, de la santé <DiscourseConnective annotation_id="1452">ou</DiscourseConnective> de l'environnement. C'est alors du bien-être des citoyens européens qu'il est question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1396" docOffset="10">
+      <en>In the EU, there is much talk about the environment and animal welfare <DiscourseConnective annotation_id="1467" sense="Expansion.Conjunction">and</DiscourseConnective> my thought was that this report should be more than just words: we should have action too.</en>
+      <fr>Dans l'UE, on parle beaucoup d'environnement <DiscourseConnective annotation_id="1588">et</DiscourseConnective> de bien-être animal. J'ai pensé <DiscourseConnective annotation_id="1623">que</DiscourseConnective> ce rapport devait aller au-delà des mots pour se traduire par des actes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1562" docOffset="11">
+      <en>
+        <DiscourseConnective annotation_id="1562" sense="Contingency.Cause.Result">So</DiscourseConnective> <Alignment alignment="53988" annotation_id="1565">
+          <DiscourseConnective annotation_id="1565" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> there was a choice to be made in my report on novel foods, in the first instance I opted for food safety, consumer welfare, the environment and animal welfare.</en>
+      <fr>
+        <Alignment alignment="10966" annotation_id="1700">
+          <DiscourseConnective annotation_id="1700" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment>, dans mon rapport sur les nouveaux aliments, des choix ont dû être faits, j'ai opté <DiscourseConnective annotation_id="1792">pour</DiscourseConnective> la sécurité alimentaire, le bien-être des consommateurs, l'environnement <DiscourseConnective annotation_id="1870">et</DiscourseConnective> le bien-être animal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1730" docOffset="12">
+      <en>I sincerely hope, <Alignment alignment="1920" annotation_id="1748">
+          <DiscourseConnective annotation_id="1748" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> indeed the shadow rapporteurs have already informed me that it will be the case, that they support me on this point in the vote.</en>
+      <fr>J'espère très sincèrement <Alignment alignment="3552" annotation_id="1920">
+          <DiscourseConnective annotation_id="1920" sense="Expansion.Conjunction">que</DiscourseConnective>
+        </Alignment> les rapporteurs fictifs me suivront sur cette voie. Ils m'ont d'ailleurs <DiscourseConnective annotation_id="1997">déjà</DiscourseConnective> assurée de leur soutien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1881" docOffset="13">
+      <en>Innovation is, of course, tremendously important.</en>
+      <fr>Il va sans dire que l'innovation est extrêmement importante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1931" docOffset="14">
+      <en>That brings me on to my second point, namely what are 'novel foods', actually?</en>
+      <fr>Ceci m'amène <DiscourseConnective annotation_id="2101">à</DiscourseConnective> mon deuxième point: <DiscourseConnective annotation_id="2123">que</DiscourseConnective> sont, <DiscourseConnective annotation_id="2133">en fait</DiscourseConnective>, ces "nouveaux aliments"?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2010" docOffset="15">
+      <en>That was never really made clear in the Commission proposal. The Commission informed me that what we were talking about was, <Alignment alignment="5036" annotation_id="2135">
+          <DiscourseConnective annotation_id="2135" sense="Expansion.Instantiation">for instance</DiscourseConnective>
+        </Alignment>, nanotechnology and meat from cloned animals.</en>
+      <fr>La Commission ne le précise jamais vraiment dans sa proposition mais, selon la réponse qu'elle m'a donnée, ce concept désigne, <Alignment alignment="13311" annotation_id="2294">
+          <DiscourseConnective annotation_id="2294" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, les nanotechnologies <DiscourseConnective annotation_id="2328">et</DiscourseConnective> la viande provenant d'animaux clonés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2194" docOffset="16">
+      <en>Let me deal with nanotechnology first.</en>
+      <fr>Commençons par les nanotechnologies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2233" docOffset="17">
+      <en>I had absolutely no idea what it was. I think that lots of consumers are in the same position, <Alignment alignment="2525" annotation_id="2328">
+          <DiscourseConnective annotation_id="2328" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it appears that it already occurs in our food more than we might think: in energy drinks, in packaging materials for fruit and vegetables, but also in the likes of certain oils and teas.</en>
+      <fr>Je n'avais pas la moindre idée de ce dont il s'agissait, et je pense <DiscourseConnective annotation_id="2475">que</DiscourseConnective> bien des consommateurs sont dans le <DiscourseConnective annotation_id="2515">même</DiscourseConnective> cas, <Alignment alignment="2328" annotation_id="2525">
+          <DiscourseConnective annotation_id="2525" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> apparemment, elles sont <DiscourseConnective annotation_id="2554">déjà</DiscourseConnective> bien plus présentes dans notre alimentation <DiscourseConnective annotation_id="2603">que</DiscourseConnective> nous ne le soupçonnons: boissons énergisantes, matériaux d'emballage <DiscourseConnective annotation_id="2676">pour</DiscourseConnective> fruits <DiscourseConnective annotation_id="2688">et</DiscourseConnective> légumes, <DiscourseConnective annotation_id="2700">mais</DiscourseConnective> on les trouve <DiscourseConnective annotation_id="2719">aussi</DiscourseConnective> dans des produits comme les huiles <DiscourseConnective annotation_id="2760">et</DiscourseConnective> les thés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2519" docOffset="18">
+      <en>Regulation is <Alignment alignment="2780" annotation_id="2533">
+          <DiscourseConnective annotation_id="2533" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> needed very urgently, <Alignment alignment="6589" annotation_id="2565">
+          <DiscourseConnective annotation_id="2565" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> technology is all well and good, and can be a boon for the consumer, <Alignment alignment="2899" annotation_id="2637">
+          <DiscourseConnective annotation_id="2637" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> we do need to know for sure that the food on our tables is safe.</en>
+      <fr>Il est <Alignment alignment="2533" annotation_id="2780">
+          <DiscourseConnective annotation_id="2780" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> urgent de légiférer <Alignment alignment="2565" annotation_id="2805">
+          <DiscourseConnective annotation_id="2805" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> les technologies, c'est très bien, elles peuvent être un avantage <DiscourseConnective annotation_id="2875">pour</DiscourseConnective> les consommateurs, <Alignment alignment="2637" annotation_id="2899">
+          <DiscourseConnective annotation_id="2899" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons avoir l'assurance que ce qui se trouve dans nos assiettes est sûr.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2706" docOffset="19">
+      <en>It <Alignment alignment="2991" annotation_id="2709">
+          <DiscourseConnective annotation_id="2709" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> needs to come within the scope of the regulation.</en>
+      <fr>Il faut <Alignment alignment="28843" annotation_id="2991">
+          <DiscourseConnective annotation_id="2991" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que ces aliments nouveaux soient réglementés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2769" docOffset="20">
+      <en>Turning to meat from cloned animals, Parliament has already stated in a resolution to the Commission that it did not want meat from cloned animals on the market as food.</en>
+      <fr>Passons maintenant <DiscourseConnective annotation_id="3061">à</DiscourseConnective> la viande provenant d'animaux clonés. Dans une résolution adressée <DiscourseConnective annotation_id="3130">à</DiscourseConnective> la Commission, le Parlement a <DiscourseConnective annotation_id="3162">déjà</DiscourseConnective> annoncé <DiscourseConnective annotation_id="3175">qu'</DiscourseConnective>il refusait que la viande d'animaux clonés soit commercialisée <DiscourseConnective annotation_id="3241">comme</DiscourseConnective> denrée alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2939" docOffset="21">
+      <en>
+        <Alignment alignment="3267" annotation_id="2939">
+          <DiscourseConnective annotation_id="2939" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> meat from cloned animals were to come within the scope of this regulation, we, as Parliament, would be admitting indirectly that we would, <Alignment alignment="3378" annotation_id="3081">
+          <DiscourseConnective annotation_id="3081" sense="Expansion.Restatement">in fact</DiscourseConnective>
+        </Alignment>, approve of meat of this nature coming onto our market.</en>
+      <fr>
+        <Alignment alignment="2939" annotation_id="3267">
+          <DiscourseConnective annotation_id="3267" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> la viande d'animaux clonés devait tomber sous le coup de ce règlement, cela reviendrait, <DiscourseConnective annotation_id="3359">pour</DiscourseConnective> le Parlement, <Alignment alignment="14807" annotation_id="3378">
+          <DiscourseConnective annotation_id="3378" sense="Expansion.Restatement">à</DiscourseConnective>
+        </Alignment> accepter implicitement <DiscourseConnective annotation_id="3403">que</DiscourseConnective> ce type de viande soit mis sur nos marchés, ce qui est inadmissible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3145" docOffset="22">
+      <en>That is not acceptable, <DiscourseConnective annotation_id="3169" sense="Expansion.Conjunction">and</DiscourseConnective> meat from cloned animals must <Alignment alignment="3494" annotation_id="3203">
+          <DiscourseConnective annotation_id="3203" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> be left outside the scope of this regulation.</en>
+      <fr>Cette viande doit <Alignment alignment="16178" annotation_id="3494">
+          <DiscourseConnective annotation_id="3494" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> rester en-dehors du champ d'application du règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3259" docOffset="23">
+      <en>This is not really a safety issue.</en>
+      <fr>Ce n'est pas vraiment une question de sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3294" docOffset="24">
+      <en>Cloning for meat is usually associated with a great deal of animal suffering, <Alignment alignment="61193" annotation_id="3372">
+          <DiscourseConnective annotation_id="3372" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> many of these cloned animals do not even live for long.</en>
+      <fr>Le clonage à des fins alimentaires est généralement synonyme de grandes souffrances animales <Alignment alignment="19774" annotation_id="3694">
+          <DiscourseConnective annotation_id="3694" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> souvent, ces bêtes ne vivent pas longtemps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3432" docOffset="25">
+      <en>It <Alignment alignment="14039" annotation_id="3435">
+          <DiscourseConnective annotation_id="3435" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> has no added value for food supply at this point in time.</en>
+      <fr>La technique n'a <Alignment alignment="13640" annotation_id="3758">
+          <DiscourseConnective annotation_id="3758" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> actuellement aucune valeur ajoutée <DiscourseConnective annotation_id="3798">pour</DiscourseConnective> la production alimentaire.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="3503" id="494" name="Androulla Vassiliou">
+    <ParallelChunk annotation_id="3503" docOffset="26">
+      <en>Member of the Commission. - Madam President, on 15 January 2008, the Commission submitted its proposal on novel foods to the Council and the European Parliament, with the aim of simplifying the administrative burden for food-business operators <Alignment alignment="4098" annotation_id="3747">
+          <DiscourseConnective annotation_id="3747" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> requesting pre-market approval for innovative food products.</en>
+      <fr>membre de la Commission. - (EN) Madame la Présidente, la Commission a soumis le 15 janvier 2008 sa proposition sur les nouveaux aliments au Conseil <DiscourseConnective annotation_id="3978">et</DiscourseConnective> au Parlement européen, <DiscourseConnective annotation_id="4004">dans le but de</DiscourseConnective> simplifier la charge administrative <DiscourseConnective annotation_id="4055">pour</DiscourseConnective> les opérateurs du secteur alimentaire <Alignment alignment="4506" annotation_id="4098">
+          <DiscourseConnective annotation_id="4098" sense="Temporal.Synchrony">en</DiscourseConnective>
+        </Alignment> exigeant une autorisation préalable à la mise sur le marché <DiscourseConnective annotation_id="4161">pour</DiscourseConnective> les produits alimentaires innovants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3813" docOffset="27">
+      <en>The current proposal maintains the principle of the need for pre-market authorisation for innovative products, to reassure consumers that new breeding or new production techniques are safe for humans and animals and respect the environment and consumers' interests.</en>
+      <fr>La proposition actuelle maintient la nécessité d'obtenir une autorisation préalable à la mise sur le marché <DiscourseConnective annotation_id="4311">pour</DiscourseConnective> les produits innovants, de sorte <DiscourseConnective annotation_id="4349">à</DiscourseConnective> rassurer le consommateur sur le fait <DiscourseConnective annotation_id="4388">que</DiscourseConnective> les nouvelles techniques d'élevage <DiscourseConnective annotation_id="4427">ou</DiscourseConnective> de production sont sans danger <DiscourseConnective annotation_id="4461">pour</DiscourseConnective> les humains <DiscourseConnective annotation_id="4478">et</DiscourseConnective> les animaux <DiscourseConnective annotation_id="4493">et</DiscourseConnective> qu'elles respectent l'environnement <DiscourseConnective annotation_id="4532">et</DiscourseConnective> les intérêts des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4079" docOffset="28">
+      <en>The proposal streamlines and speeds up the authorisation process through a centralised food safety evaluation by EFSA and sets precise deadlines at every stage of the procedure.</en>
+      <fr>La proposition rationalise <DiscourseConnective annotation_id="4594">et</DiscourseConnective> accélère le processus d'autorisation au moyen d'une évaluation centralisée de la sécurité alimentaire par l'EFSA, de même qu'elle définit des délais précis <DiscourseConnective annotation_id="4753">à</DiscourseConnective> chaque étape de la procédure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4257" docOffset="29">
+      <en>It <Alignment alignment="4798" annotation_id="4260">
+          <DiscourseConnective annotation_id="4260" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> includes an improved safety assessment, tailor-made to different types of foods, <Alignment alignment="4909" annotation_id="4346">
+          <DiscourseConnective annotation_id="4346" sense="Contingency.Cause.Result">thereby</DiscourseConnective>
+        </Alignment> allowing safe traditional food from third countries to enter the EU more easily.</en>
+      <fr>Elle prévoit <Alignment alignment="14937" annotation_id="4798">
+          <DiscourseConnective annotation_id="4798" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> une évaluation améliorée de la sécurité, adaptée aux différents types de denrées alimentaires, et permet <Alignment alignment="35602" annotation_id="4909">
+          <DiscourseConnective annotation_id="4909" sense="Contingency.Cause.Result">ainsi</DiscourseConnective>
+        </Alignment> aux aliments traditionnels sans danger en provenance de pays tiers d'entrer dans l'UE plus facilement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4435" docOffset="30">
+      <en>I would like to welcome the work of Parliament, whose report addresses major issues concerning the development of a safe food sector.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="5027">à</DiscourseConnective> saluer le travail du Parlement, dont le rapport aborde les principales questions relatives au développement d'un secteur alimentaire sûr.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4569" docOffset="31">
+      <en>I would particularly like to confirm my support for the following principles: the need for a definition of engineered nanomaterials and the clarification that all such products require a case-by-case authorisation by the EU institutions; and the confirmation of the fact that food products from cloned animals are novel foods and <Alignment alignment="5521" annotation_id="4899">
+          <DiscourseConnective annotation_id="4899" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> cannot be placed on the market without having been assessed by EFSA and authorised through a regulatory procedure.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="5176">en particulier</DiscourseConnective> <DiscourseConnective annotation_id="5191">à</DiscourseConnective> confirmer mon soutien aux principes suivants: la nécessité de définir les nanomatériaux fabriqués <DiscourseConnective annotation_id="5291">et</DiscourseConnective> de préciser <DiscourseConnective annotation_id="5306">que</DiscourseConnective> tous ces produits requièrent une autorisation au cas par cas par les institutions européennes. Je confirme <DiscourseConnective annotation_id="5417">également</DiscourseConnective> <DiscourseConnective annotation_id="5427">que</DiscourseConnective> les produits alimentaires issus d'animaux clonés sont des aliments nouveaux <DiscourseConnective annotation_id="5507">et</DiscourseConnective> ne peuvent <Alignment alignment="12780" annotation_id="5521">
+          <DiscourseConnective annotation_id="5521" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> être mis sur le marché <DiscourseConnective annotation_id="5549">sans</DiscourseConnective> avoir été évalués par l'EFSA <DiscourseConnective annotation_id="5583">et</DiscourseConnective> autorité au terme d'une procédure réglementaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5024" docOffset="32">
+      <en>I look forward to hearing your opinions on these sensitive issues and would like to thank the rapporteur, Ms Liotard, and the shadow rapporteurs for their valuable work on this important report.</en>
+      <fr>J'ai hâte d'entendre vos points de vue sur ces questions délicates <DiscourseConnective annotation_id="5702">et</DiscourseConnective> je tiens <DiscourseConnective annotation_id="5714">à</DiscourseConnective> remercier la rapporteure, Mme Liotard, <DiscourseConnective annotation_id="5755">ainsi</DiscourseConnective> que les rapporteurs fictifs <DiscourseConnective annotation_id="5789">pour</DiscourseConnective> leur travail de qualité sur cet important rapport.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="5219" id="495" name="Zuzana Roithová">
+    <ParallelChunk annotation_id="5219" docOffset="33">
+      <en>rapporteur of the Committee on Internal Market and Consumer Protection. - (CS) Mr President, I would like to thank my fellow Members for supporting the proposals I set out as rapporteur.</en>
+      <fr>rapporteure de la commission du marché intérieur <DiscourseConnective annotation_id="5894">et</DiscourseConnective> de la protection des consommateurs. - (CS) Madame la Présidente, je voudrais remercier mes collègues d'avoir soutenu les propositions que j'ai faites en ma qualité de rapporteure.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5406" docOffset="34">
+      <en>These include, <Alignment alignment="6106" annotation_id="5421">
+          <DiscourseConnective annotation_id="5421" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, the submission of disputed cases to the European Group on Ethics in Science and Technology and also a reduction in the data protection period to 5 years, which will speed up innovation.</en>
+      <fr>Parmi celles-ci, je citerai, <Alignment alignment="5421" annotation_id="6106">
+          <DiscourseConnective annotation_id="6106" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, la soumission des cas litigieux au Groupe européen des sciences <DiscourseConnective annotation_id="6183">et</DiscourseConnective> des nouvelles technologies <DiscourseConnective annotation_id="6213">et</DiscourseConnective> la réduction de la durée de protection des données <DiscourseConnective annotation_id="6267">à</DiscourseConnective> 5 ans, ce qui accélérera le rythme des innovations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5620" docOffset="35">
+      <en>I fully agree that it is essential to uphold the precautionary principle. <DiscourseConnective annotation_id="5694" sense="Comparison.Contrast">However</DiscourseConnective>, I would <DiscourseConnective annotation_id="5711" sense="Expansion.Conjunction">also</DiscourseConnective> like to point out that in 12 years only 86 applications have been submitted, 28 new food products have been licensed <Alignment alignment="17" annotation_id="5833">
+          <DiscourseConnective annotation_id="5833" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> 3 rejected.</en>
+      <fr>Je suis tout à fait d'accord pour <DiscourseConnective annotation_id="6355">dire qu'</DiscourseConnective>il faut respecter le principe de précaution mais je signale toutefois <DiscourseConnective annotation_id="6433">qu'en</DiscourseConnective> 12 ans, 86 demandes seulement ont été introduites; 28 nouveaux aliments ont été brevetés <Alignment alignment="5833" annotation_id="6528">
+          <DiscourseConnective annotation_id="6528" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> 3 demandes ont été refusées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5849" docOffset="36">
+      <en>The legislation which has applied to date is not very transparent <DiscourseConnective annotation_id="5915" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="8727" annotation_id="5919">
+          <DiscourseConnective annotation_id="5919" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> we are now integrating the procedure for all Member States in this area, <DiscourseConnective annotation_id="6002" sense="Contingency.Cause.Result">thereby</DiscourseConnective> simplifying the approval and placing of novel foods onto the market.</en>
+      <fr>La législation appliquée jusqu'ici n'est pas fort transparente. <Alignment alignment="8897" annotation_id="6624">
+          <DiscourseConnective annotation_id="6624" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> nous procédons actuellement à l'harmonisation des procédures de tous les États membres, ce qui permet de simplifier les procédures d'approbation <DiscourseConnective annotation_id="6784">et</DiscourseConnective> de mise sur le marché de nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6079" docOffset="37">
+      <en>
+        <Alignment alignment="6831" annotation_id="6079">
+          <DiscourseConnective annotation_id="6079" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I do not consider the draft report to be very satisfactory.</en>
+      <fr>
+        <Alignment alignment="6079" annotation_id="6831">
+          <DiscourseConnective annotation_id="6831" sense="Comparison.Contrast">Ceci dit</DiscourseConnective>
+        </Alignment>, le projet de rapport ne me satisfait pas pleinement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6148" docOffset="38">
+      <en>I am sorry that my fellow Members are unfamiliar with the link to the regulation on genetically modified food products and animal feed.</en>
+      <fr>Je déplore le fait <DiscourseConnective annotation_id="6913">que</DiscourseConnective> mes collègues ne soient pas informés du lien existant avec le règlement concernant les denrées alimentaires <DiscourseConnective annotation_id="7025">et</DiscourseConnective> les aliments pour animaux génétiquement modifiés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6284" docOffset="39">
+      <en>Genetically modified food products were exempted from the effects of this regulation because at the present time they fall under a separate regulation <Alignment alignment="7237" annotation_id="6435">
+          <DiscourseConnective annotation_id="6435" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there is no reason for duplication here.</en>
+      <fr>Jusqu'ici, les produits alimentaires génétiquement modifiés ont été exonérés des effets de ce règlement <DiscourseConnective annotation_id="7182">parce qu'</DiscourseConnective>ils tombent sous le coup d'un autre règlement <Alignment alignment="16329" annotation_id="7237">
+          <DiscourseConnective annotation_id="7237" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> que les redondances sont inutiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6480" docOffset="40">
+      <en>I am <DiscourseConnective annotation_id="6485" sense="Contingency.Cause.Result">therefore</DiscourseConnective> opposed to the proposals concerning the protection of animals and the environment, animal feeds and genetically modified food products.</en>
+      <fr>C'est la raison pour laquelle je suis contre les propositions relatives à la protection des animaux <DiscourseConnective annotation_id="7375">et</DiscourseConnective> de l'environnement et les propositions sur l'alimentation pour bétail <DiscourseConnective annotation_id="7448">et</DiscourseConnective> les denrées alimentaires génétiquement modifiées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6631" docOffset="41">
+      <en>They simply do not belong in this regulation and tend to complicate the proposal, even <Alignment alignment="7605" annotation_id="6718">
+          <DiscourseConnective annotation_id="6718" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> they represent a very important area.</en>
+      <fr>Elles n'ont tout bonnement rien <DiscourseConnective annotation_id="7533">à</DiscourseConnective> voir avec le règlement qui nous occupe <DiscourseConnective annotation_id="7574">et</DiscourseConnective> compliquent la proposition, <Alignment alignment="315" annotation_id="7605">
+          <DiscourseConnective annotation_id="7605" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> ces questions relèvent d'un domaine très important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6763" docOffset="42">
+      <en>
+        <Alignment alignment="7665" annotation_id="6763">
+          <Alignment alignment="7665" annotation_id="6763">
+            <DiscourseConnective annotation_id="6763" sense="Comparison.Contrast">On the other hand</DiscourseConnective>
+          </Alignment>
+        </Alignment> I am in favour of a regulation which sets out the rules for food produced using nanotechnology <Alignment alignment="7799" annotation_id="6876">
+          <DiscourseConnective annotation_id="6876" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which will ensure definite food safety for the people of Europe.</en>
+      <fr>
+        <Alignment alignment="7304" annotation_id="7665">
+          <Alignment alignment="6763" annotation_id="7665">
+            <DiscourseConnective annotation_id="7665" sense="Comparison.Contrast">Par contre</DiscourseConnective>
+          </Alignment>
+        </Alignment>, je suis favorable <DiscourseConnective annotation_id="7695">à</DiscourseConnective> un règlement qui fixe les règles de production des denrées alimentaires à l'aide des nanotechnologies <Alignment alignment="6876" annotation_id="7799">
+          <DiscourseConnective annotation_id="7799" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui assure effectivement la sécurité alimentaire des citoyens européens.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="6945" id="496" name="Philip Bushill-Matthews">
+    <ParallelChunk annotation_id="6945" docOffset="43">
+      <en>on behalf of the PPE-DE Group. - Madam President, this is a complicated dossier on which there are many differing views, <Alignment alignment="8017" annotation_id="7066">
+          <DiscourseConnective annotation_id="7066" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> I would like to start by thanking the rapporteur for going along with some views in the spirit of compromise, <Alignment alignment="5239" annotation_id="7179">
+          <DiscourseConnective annotation_id="7179" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> she may have personally preferred <DiscourseConnective annotation_id="7218" sense="Expansion.Alternative">otherwise</DiscourseConnective>.</en>
+      <fr>au nom du groupe PPE-DE. - (EN) Madame la Présidente, nous avons là un dossier complexe, sur lequel les avis divergent fortement. Je voudrais <Alignment alignment="28919" annotation_id="8017">
+          <DiscourseConnective annotation_id="8017" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> commencer par remercier la rapporteure <DiscourseConnective annotation_id="8061">pour</DiscourseConnective> avoir accepté certains points de vue dans un esprit de consensus, <Alignment alignment="11601" annotation_id="8132">
+          <DiscourseConnective annotation_id="8132" sense="Temporal.Synchrony">alors qu'</DiscourseConnective>
+        </Alignment>elle aurait pu avoir à titre personnel d'autres préférences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7229" docOffset="44">
+      <en>There is, <Alignment alignment="8202" annotation_id="7239">
+          <DiscourseConnective annotation_id="7239" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, general recognition amongst all political groups that there needs to be clear regulation for novel foods, both to protect the consumer and give legal certainty to producers.</en>
+      <fr>
+        <Alignment alignment="34883" annotation_id="8202">
+          <DiscourseConnective annotation_id="8202" sense="Comparison.Contrast">Néanmoins</DiscourseConnective>
+        </Alignment>, tous les groupes politiques ou presque <DiscourseConnective annotation_id="8252">s'</DiscourseConnective>accordent à reconnaître <DiscourseConnective annotation_id="8278">qu'</DiscourseConnective>une réglementation claire des nouveaux aliments s'impose, à la fois <DiscourseConnective annotation_id="8349">pour</DiscourseConnective> protéger le consommateur <DiscourseConnective annotation_id="8379">et</DiscourseConnective> pour garantir une certitude juridique aux producteurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7422" docOffset="45">
+      <en>I would now like to thank the Commissioner for not just her work but her introduction, making it so very clear that the aim is to simplify and streamline this whole process.</en>
+      <fr>Je tiens à présent <DiscourseConnective annotation_id="8456">à</DiscourseConnective> remercier la commissaire <DiscourseConnective annotation_id="8483">pour</DiscourseConnective> son travail, <DiscourseConnective annotation_id="8501">mais aussi</DiscourseConnective> pour ses remarques liminaires, dans lesquelles elle a indiqué très clairement <DiscourseConnective annotation_id="8590">que</DiscourseConnective> l'objectif était de simplifier <DiscourseConnective annotation_id="8625">et</DiscourseConnective> de rationaliser tout ce processus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7596" docOffset="46">
+      <en>
+        <Alignment alignment="8663" annotation_id="7596">
+          <DiscourseConnective annotation_id="7596" sense="Expansion.Conjunction">Indeed</DiscourseConnective>
+        </Alignment>, one of the important principles for our group is that such regulation should help to facilitate the development of such foods and not put so many restrictions in the way that they never see the light of day.</en>
+      <fr>
+        <Alignment alignment="16284" annotation_id="8663">
+          <DiscourseConnective annotation_id="8663" sense="Expansion.Conjunction">En effet</DiscourseConnective>
+        </Alignment>, un des principes fondamentaux <DiscourseConnective annotation_id="8703">pour</DiscourseConnective> notre groupe est <DiscourseConnective annotation_id="8725">que</DiscourseConnective> ce règlement contribue <DiscourseConnective annotation_id="8752">à</DiscourseConnective> faciliter le développement de ces aliments <DiscourseConnective annotation_id="8797">et</DiscourseConnective> <DiscourseConnective annotation_id="8800">qu'</DiscourseConnective>il n'impose pas trop de restrictions <DiscourseConnective annotation_id="8840">au point de</DiscourseConnective> les empêcher de voir le jour.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7812" docOffset="47">
+      <en>For this reason we have asked for a roll-call vote on Amendment 30 to confirm support for this key objective.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8882">C'est pourquoi</DiscourseConnective> nous avons réclamé un vote par appel nominal sur l'amendement 30, <DiscourseConnective annotation_id="8963">afin de</DiscourseConnective> confirmer notre soutien en faveur de cet objectif clé.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7922" docOffset="48">
+      <en>We <Alignment alignment="10739" annotation_id="7925">
+          <Alignment alignment="28933" annotation_id="7925">
+            <DiscourseConnective annotation_id="7925" sense="Expansion.Conjunction">also</DiscourseConnective>
+          </Alignment>
+        </Alignment> believe that any regulation should be proportionate and practical.</en>
+      <fr>Nous estimons <Alignment alignment="16738" annotation_id="9040">
+          <DiscourseConnective annotation_id="9040" sense="Expansion.Conjunction">en outre</DiscourseConnective>
+        </Alignment> que le règlement devrait être proportionné <DiscourseConnective annotation_id="9092">et</DiscourseConnective> pratique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7997" docOffset="49">
+      <en>For this reason we are against the suggestion that any product made with the aid of nanomaterials should have this separately stated on the label.</en>
+      <fr>Nous nous opposons <DiscourseConnective annotation_id="9124">par conséquent</DiscourseConnective> à ce que le fait <DiscourseConnective annotation_id="9156">qu'</DiscourseConnective>un produit soit fabriqué <DiscourseConnective annotation_id="9184">à</DiscourseConnective> l'aide de nanomatériaux doive être indiqué séparément sur l'étiquette.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8144" docOffset="50">
+      <en>We are <Alignment alignment="9276" annotation_id="8151">
+          <DiscourseConnective annotation_id="8151" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> against the suggestion that a novel food cannot be approved <Alignment alignment="9332" annotation_id="8216">
+          <DiscourseConnective annotation_id="8216" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> 'it has a negative impact on the environment <Alignment alignment="51529" annotation_id="8264">
+          <DiscourseConnective annotation_id="8264" sense="Temporal.Asynchronous.Succession">after</DiscourseConnective>
+        </Alignment> being consumed or becoming waste'.</en>
+      <fr>Nous nous opposons <Alignment alignment="31981" annotation_id="9276">
+          <DiscourseConnective annotation_id="9276" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> à ce <DiscourseConnective annotation_id="9287">qu'</DiscourseConnective>un nouvel aliment ne puisse être autorisé <Alignment alignment="3313" annotation_id="9332">
+          <DiscourseConnective annotation_id="9332" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>"il a un impact négatif sur l'environnement <Alignment alignment="26749" annotation_id="9378">
+          <DiscourseConnective annotation_id="9378" sense="Temporal.Asynchronous.Succession">après</DiscourseConnective>
+        </Alignment> avoir été consommé <DiscourseConnective annotation_id="9403">ou</DiscourseConnective> être devenu un déchet".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8305" docOffset="51">
+      <en>That may sound reasonable, but who is to establish such a fact and based upon what evidence?</en>
+      <fr>Cette restriction peut sembler raisonnable, <DiscourseConnective annotation_id="9474">mais</DiscourseConnective> qui va établir ce fait <DiscourseConnective annotation_id="9502">et</DiscourseConnective> sur la base de quels éléments de preuve?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8398" docOffset="52">
+      <en>Would not some existing products <Alignment alignment="12106" annotation_id="8431">
+          <DiscourseConnective annotation_id="8431" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> be banned under such an edict?</en>
+      <fr>Certains produits existants ne devraient-ils pas être <Alignment alignment="30684" annotation_id="9600">
+          <DiscourseConnective annotation_id="9600" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> interdits conformément à cette disposition?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8467" docOffset="53">
+      <en>We agree with the need for the Commission to present a legislative proposal on cloning. We <DiscourseConnective annotation_id="8558" sense="Expansion.Conjunction">also</DiscourseConnective> agree with the need to strengthen data protection for a certain period.</en>
+      <fr>Nous reconnaissons qu'il est nécessaire <DiscourseConnective annotation_id="9690">que</DiscourseConnective> la Commission présente une proposition législative sur le clonage et qu'il faille renforcer la protection des données durant une certaine période.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8635" docOffset="54">
+      <en>We are grateful that a number of our amendments have been accepted in committee and hope that those of our amendments which narrowly lost in committee will finally be passed in the full plenary tomorrow.</en>
+      <fr>Nous sommes ravis <DiscourseConnective annotation_id="9859">que</DiscourseConnective> plusieurs de nos amendements aient été acceptés <DiscourseConnective annotation_id="9911">en</DiscourseConnective> commission <DiscourseConnective annotation_id="9925">et</DiscourseConnective> nous espérons <DiscourseConnective annotation_id="9942">que</DiscourseConnective> ces amendements qui ont été rejetés de peu <DiscourseConnective annotation_id="9989">en</DiscourseConnective> commission seront <DiscourseConnective annotation_id="10010">finalement</DiscourseConnective> adoptés demain <DiscourseConnective annotation_id="10036">en</DiscourseConnective> plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8839" docOffset="55">
+      <en>
+        <Alignment alignment="10057" annotation_id="8839">
+          <DiscourseConnective annotation_id="8839" sense="Comparison.Contrast">But</DiscourseConnective>
+        </Alignment> I can confirm that, as a sign of our general support, we will propose to vote in favour of the report at the end and to get the show on the road.</en>
+      <fr>Je peux <Alignment alignment="21543" annotation_id="10057">
+          <DiscourseConnective annotation_id="10057" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> vous confirmer <DiscourseConnective annotation_id="10082">qu'en</DiscourseConnective> signe de notre soutien général, nous proposerons de voter <DiscourseConnective annotation_id="10146">pour</DiscourseConnective> le rapport au final <DiscourseConnective annotation_id="10171">et</DiscourseConnective> de passer enfin <DiscourseConnective annotation_id="10190">à</DiscourseConnective> l'action.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="8989" id="497" name="Åsa Westlund">
+    <ParallelChunk annotation_id="8989" docOffset="56">
+      <en>on behalf of the PSE Group. - (SV) Madam President, I would like to thank the Commission very much for this proposal.</en>
+      <fr>au nom du groupe du PSE. - (SV) Madame la Présidente, je voudrais vraiment remercier la Commission <DiscourseConnective annotation_id="10301">pour</DiscourseConnective> sa proposition et Mme Liotard pour son excellent rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9107" docOffset="57">
+      <en>I would <DiscourseConnective annotation_id="9115" sense="Expansion.Conjunction">also</DiscourseConnective> like to thank Mrs Liotard for an extremely good report, which, compared to the Commission's proposal, has substantially enhanced the parts that I think are particularly important, those being public health and consumer protection.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10364">En</DiscourseConnective> regard de la proposition de la Commission, le rapport de Mme Liotard apporte des améliorations substantielles aux chapitres qui sont, <DiscourseConnective annotation_id="10501">à</DiscourseConnective> mes yeux, les plus importants: la santé publique <DiscourseConnective annotation_id="10552">et</DiscourseConnective> la protection des consommateurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9351" docOffset="58">
+      <en>I <Alignment alignment="10601" annotation_id="9353">
+          <DiscourseConnective annotation_id="9353" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> recognise many of the questions that we have worked on together on a previous occasion with regard to food additives.</en>
+      <fr>J'y retrouve <Alignment alignment="25112" annotation_id="10601">
+          <DiscourseConnective annotation_id="10601" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> plusieurs questions relatives aux additifs alimentaires sur lesquelles nous avons travaillé ensemble <DiscourseConnective annotation_id="10712">auparavant</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9476" docOffset="59">
+      <en>It relates to questions regarding nanoparticles and nanomaterial.</en>
+      <fr>Il s'agit de questions portant sur les nanoparticules <DiscourseConnective annotation_id="10778">et</DiscourseConnective> les nanomatériaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9542" docOffset="60">
+      <en>They are dealt with extremely well in the rapporteur's proposal, but also in an amendment by Mrs Breyer, which I recognise from the work on the Cosmetics Directive.</en>
+      <fr>Ces questions sont fort bien développées dans la proposition de la rapporteure <DiscourseConnective annotation_id="10879">et</DiscourseConnective> dans un amendement soumis par Mme Breyer, <DiscourseConnective annotation_id="10924">que</DiscourseConnective> je reconnais <DiscourseConnective annotation_id="10941">pour</DiscourseConnective> son travail sur la directive "cosmétiques".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9707" docOffset="61">
+      <en>In that connection we submitted almost the same proposal, which has now been taken up in the directive <Alignment alignment="11096" annotation_id="9810">
+          <DiscourseConnective annotation_id="9810" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which, of course, should <DiscourseConnective annotation_id="9839" sense="Expansion.Conjunction">also</DiscourseConnective> be included here.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10990">À ce propos</DiscourseConnective>, nous avons soumis une proposition presque identique qui figure aujourd'hui dans la directive <Alignment alignment="16251" annotation_id="11096">
+          <DiscourseConnective annotation_id="11096" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui devrait naturellement être reprise ici aussi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9862" docOffset="62">
+      <en>It relates to the labelling of nanomaterials and the fact that the contents must always be evident to the consumer <Alignment alignment="53051" annotation_id="9977">
+          <Alignment alignment="11277" annotation_id="9977">
+            <DiscourseConnective annotation_id="9977" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> anyone who wishes to do so is able to choose to avoid foodstuffs containing nanoparticles or nanomaterials.</en>
+      <fr>Elle porte sur l'étiquetage des nanomatériaux <DiscourseConnective annotation_id="11195">et</DiscourseConnective> sur le fait <DiscourseConnective annotation_id="11210">que</DiscourseConnective> le contenu doit toujours être clair aux yeux des consommateurs <Alignment alignment="5537" annotation_id="11277">
+          <Alignment alignment="9977" annotation_id="11277">
+            <DiscourseConnective annotation_id="11277" sense="Contingency.Cause.Result">de manière à ce qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>ils puissent, en connaissance de cause, éviter les aliments contenant des nanoparticules <DiscourseConnective annotation_id="11385">ou</DiscourseConnective> des nanomatériaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10093" docOffset="63">
+      <en>Other aspects that I recognise and welcome include the fact that we must be able to take account of how the food affects the environment.</en>
+      <fr>Parmi les autres points familiers <DiscourseConnective annotation_id="11441">que</DiscourseConnective> je suis heureuse de retrouver ici figure le fait <DiscourseConnective annotation_id="11494">que</DiscourseConnective> nous devons être à <DiscourseConnective annotation_id="11517">même</DiscourseConnective> d'examiner l'impact de l'alimentation sur l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10231" docOffset="64">
+      <en>This is an extremely important issue <Alignment alignment="10360" annotation_id="10268">
+          <DiscourseConnective annotation_id="10268" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> its importance is growing.</en>
+      <fr>C'est une question fondamentale qui gagne en importance <Alignment alignment="6469" annotation_id="11637">
+          <DiscourseConnective annotation_id="11637" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> revêt des aspects éthiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10299" docOffset="65">
+      <en>There are <DiscourseConnective annotation_id="10309" sense="Expansion.Conjunction">also</DiscourseConnective> ethical aspects to this, <DiscourseConnective annotation_id="10339" sense="Expansion.Instantiation">for example</DiscourseConnective> with regard to cloning, which has now been included in the report in a constructive and clear manner.</en>
+      <fr>C'est le cas du clonage, <DiscourseConnective annotation_id="11693">maintenant</DiscourseConnective> repris de façon positive <DiscourseConnective annotation_id="11729">et</DiscourseConnective> claire dans le rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10453" docOffset="66">
+      <en>It is not about how consumers are affected by eating cloned meat, but above all it is about ethical aspects that we really must take into account <Alignment alignment="11949" annotation_id="10599">
+          <DiscourseConnective annotation_id="10599" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> taking decisions on this sort of legislation.</en>
+      <fr>Cette question ne porte pas sur l'influence de la consommation de viande clonée sur les consommateurs, <DiscourseConnective annotation_id="11859">mais</DiscourseConnective> <DiscourseConnective annotation_id="11864">plutôt</DiscourseConnective> sur les aspects éthiques qui doivent impérativement entrer en ligne de compte <Alignment alignment="9110" annotation_id="11949">
+          <DiscourseConnective annotation_id="11949" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> ce type de texte législatif est soumis <DiscourseConnective annotation_id="11996">à</DiscourseConnective> décision.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10650" docOffset="67">
+      <en>I would <DiscourseConnective annotation_id="10658" sense="Expansion.Conjunction">also</DiscourseConnective> like to say that I agree with the rapporteur that approval must <DiscourseConnective annotation_id="10727" sense="Expansion.Conjunction">also</DiscourseConnective> be required in respect of nanomaterials in packaging that comes into contact with food.</en>
+      <fr>J'ajouterai <DiscourseConnective annotation_id="12020">que</DiscourseConnective> je partage l'avis de la rapporteure: il faut exiger l'approbation des nanomatériaux entrant dans la fabrication d'emballages qui sont <DiscourseConnective annotation_id="12158">en</DiscourseConnective> contact avec les aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10820" docOffset="68">
+      <en>The Socialist Group in the European Parliament is of the opinion that the rapporteur's proposal is an extremely good one.</en>
+      <fr>Le groupe socialiste au Parlement européen trouve la proposition de la rapporteure excellente.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10942" docOffset="69">
+      <en>We will <Alignment alignment="12298" annotation_id="10950">
+          <DiscourseConnective annotation_id="10950" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> support some of the amendments. We hope that we can still reach an agreement with the Commission fairly soon.</en>
+      <fr>Nous soutenons <Alignment alignment="10950" annotation_id="12298">
+          <DiscourseConnective annotation_id="12298" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> certains amendements et espérons pouvoir conclure un accord avec la Commission sous peu.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11065" id="498" name="Magor Imre Csibi">
+    <ParallelChunk annotation_id="11065" docOffset="70">
+      <en>on behalf of the ALDE Group. - Madam President, novel food regulations should provide for the diversification of food products on the European market, <Alignment alignment="6646" annotation_id="11216">
+          <DiscourseConnective annotation_id="11216" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> ensuring that these new products are safe for the consumer.</en>
+      <fr>au nom du groupe ALDE. - (EN) Madame la Présidente, le règlement sur les nouveaux aliments devrait permettre la diversification des produits alimentaires sur le marché européen <Alignment alignment="13257" annotation_id="12574">
+          <DiscourseConnective annotation_id="12574" sense="Comparison.Contrast">tout en</DiscourseConnective>
+        </Alignment> veillant à ce <DiscourseConnective annotation_id="12596">que</DiscourseConnective> ces nouveaux produits soient sans danger <DiscourseConnective annotation_id="12641">pour</DiscourseConnective> le consommateur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11282" docOffset="71">
+      <en>
+        <Alignment alignment="12663" annotation_id="11282">
+          <DiscourseConnective annotation_id="11282" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, under the current regulation very few novel foods are approved on the EU market due to highly complex application and assessment procedures.</en>
+      <fr>
+        <Alignment alignment="17781" annotation_id="12663">
+          <DiscourseConnective annotation_id="12663" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, en vertu du règlement actuel, très peu de nouveaux aliments sont approuvés sur le marché communautaire en raison des procédures de demande <DiscourseConnective annotation_id="12813">et</DiscourseConnective> d'évaluation très complexes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11432" docOffset="72">
+      <en>
+        <Alignment alignment="39247" annotation_id="11432">
+          <DiscourseConnective annotation_id="11432" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we had applied the current procedures to the authorisation of the potato or the kiwi fruit we might not have them on our table today.</en>
+      <fr>
+        <Alignment alignment="11432" annotation_id="12845">
+          <DiscourseConnective annotation_id="12845" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous avions appliqué les procédures actuelles <DiscourseConnective annotation_id="12894">à</DiscourseConnective> la pomme de terre <DiscourseConnective annotation_id="12914">ou</DiscourseConnective> au kiwi, il y a fort à parier que nous n'en aurions pas dans nos assiettes aujourd'hui.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11569" docOffset="73">
+      <en>The revision of the current regulation should aim to set up a more efficient and practicable system for the authorisation of novel foods.</en>
+      <fr>La révision de l'actuel règlement devrait tenter de mettre en place un système plus efficace <DiscourseConnective annotation_id="13098">et</DiscourseConnective> plus réalisable <DiscourseConnective annotation_id="13117">pour</DiscourseConnective> l'autorisation des nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11707" docOffset="74">
+      <en>I understand some of my colleagues' concerns about allowing on the market new products that might present a danger or mislead the consumer.</en>
+      <fr>Je comprends les réticences de certains de mes collègues <DiscourseConnective annotation_id="13217">quant à</DiscourseConnective> l'autorisation de mise sur le marché de nouveaux produits susceptibles de présenter un danger <DiscourseConnective annotation_id="13319">ou</DiscourseConnective> d'induire le consommateur en erreur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11847" docOffset="75">
+      <en>
+        <Alignment alignment="13371" annotation_id="11847">
+          <DiscourseConnective annotation_id="11847" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we should not fall into the trap of safety hysteria and kill innovation, <DiscourseConnective annotation_id="11929" sense="Expansion.Conjunction">and</DiscourseConnective> we should not discriminate against novel food, placing it a less favourable position than products already on the market that do not necessarily have a nutritional advantage for consumers; <Alignment alignment="49123" annotation_id="12122">
+          <DiscourseConnective annotation_id="12122" sense="Comparison.Contrast">nevertheless</DiscourseConnective>
+        </Alignment>, consumers have freedom of choice.</en>
+      <fr>Nous devons <Alignment alignment="8439" annotation_id="13371">
+          <DiscourseConnective annotation_id="13371" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> prendre garde à ne pas tomber dans le piège de l'hystérie sécuritaire <DiscourseConnective annotation_id="13451">et</DiscourseConnective> à ne pas tuer l'innovation. De même, nous ne devrions pas traiter de manière discriminatoire les nouveaux produits en les mettant dans une position moins favorable <DiscourseConnective annotation_id="13618">que</DiscourseConnective> les produits <DiscourseConnective annotation_id="13635">déjà</DiscourseConnective> sur le marché et qui ne présentent pas nécessaire d'avantage nutritionnel <DiscourseConnective annotation_id="13714">pour</DiscourseConnective> les consommateurs; les consommateurs ont <Alignment alignment="12122" annotation_id="13760">
+          <DiscourseConnective annotation_id="13760" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> une liberté de choix.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12170" docOffset="76">
+      <en>My group is generally satisfied with the outcome of the vote in the Committee on the Environment, Public Health and Food Safety.</en>
+      <fr>Dans l'ensemble, mon groupe est satisfait du <DiscourseConnective annotation_id="13837">résultat</DiscourseConnective> du vote au sein de la commission de l'environnement, de la santé publique <DiscourseConnective annotation_id="13920">et</DiscourseConnective> de la sécurité alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12299" docOffset="77">
+      <en>
+        <Alignment alignment="13976" annotation_id="12299">
+          <DiscourseConnective annotation_id="12299" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, there are certain issues that go far beyond the scope of this regulation, <Alignment alignment="62007" annotation_id="12382">
+          <DiscourseConnective annotation_id="12382" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="14052" annotation_id="12386">
+          <DiscourseConnective annotation_id="12386" sense="Contingency.Cause.Result">consequently</DiscourseConnective>
+        </Alignment> we will not be able to support it.</en>
+      <fr>Plusieurs questions vont <Alignment alignment="2398" annotation_id="13976">
+          <DiscourseConnective annotation_id="13976" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> beaucoup plus loin que le champ d'application de ce règlement <Alignment alignment="3032" annotation_id="14048">
+          <DiscourseConnective annotation_id="14048" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="12829" annotation_id="14052">
+          <DiscourseConnective annotation_id="14052" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment>, nous ne pourrons pas le soutenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12434" docOffset="78">
+      <en>
+        <Alignment alignment="15365" annotation_id="12434">
+          <DiscourseConnective annotation_id="12434" sense="Expansion.Instantiation">For example</DiscourseConnective>
+        </Alignment>, we cannot demand that a novel food has no negative impact on the environment.</en>
+      <fr>
+        <Alignment alignment="12434" annotation_id="14102">
+          <DiscourseConnective annotation_id="14102" sense="Expansion.Instantiation">Par exemple</DiscourseConnective>
+        </Alignment>, nous ne pouvons exiger <DiscourseConnective annotation_id="14138">qu'</DiscourseConnective>un nouvel aliment n'ait pas d'impact négatif sur l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12525" docOffset="79">
+      <en>Whether we like it <Alignment alignment="14228" annotation_id="12544">
+          <DiscourseConnective annotation_id="12544" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not, all human activities have an impact on the environment, <DiscourseConnective annotation_id="12608" sense="Expansion.Conjunction">and</DiscourseConnective> such a provision is disproportionate in this context.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14207">Que</DiscourseConnective> nous le voulions <Alignment alignment="3829" annotation_id="14228">
+          <DiscourseConnective annotation_id="14228" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> pas, toutes les activités humaines ont un impact négatif sur l'environnement; <DiscourseConnective annotation_id="14309">aussi</DiscourseConnective> cette disposition est-elle disproportionnée dans ce contexte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12666" docOffset="80">
+      <en>
+        <DiscourseConnective annotation_id="12666" sense="Expansion.Alternative.Chosen alternative">Instead</DiscourseConnective>, my group believes we need to strike the right balance between encouraging innovation and applying the precautionary principle concerning food safety, consumer and environmental protection and animal welfare.</en>
+      <fr>En lieu et place, mon groupe estime que nous devons trouver un juste équilibre entre encourager l'innovation <DiscourseConnective annotation_id="14486">et</DiscourseConnective> appliquer le principe de précaution concernant la sécurité alimentaire, la protection des consommateurs <DiscourseConnective annotation_id="14593">et</DiscourseConnective> de l'environnement <DiscourseConnective annotation_id="14615">et</DiscourseConnective> le bien-être des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12883" docOffset="81">
+      <en>Our approach was to ease the long and bureaucratic procedures for putting novel foods on the market and protecting the industry's investments by means of reinforced data protection.</en>
+      <fr>Notre approche consistait <DiscourseConnective annotation_id="14670">à</DiscourseConnective> faciliter les procédures longues <DiscourseConnective annotation_id="14705">et</DiscourseConnective> bureaucratiques <DiscourseConnective annotation_id="14724">pour</DiscourseConnective> pouvoir mettre des nouveaux aliments sur le marché <DiscourseConnective annotation_id="14780">et</DiscourseConnective> à protéger les investissements consentis par l'industrie grâce <DiscourseConnective annotation_id="14846">à</DiscourseConnective> une protection renforcée des données.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13065" docOffset="82">
+      <en>To that end, for the plenary vote we have retabled a set of amendments to facilitate the procedure for products that are similar to foods or ingredients already existing on the market <Alignment alignment="56123" annotation_id="13249">
+          <DiscourseConnective annotation_id="13249" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> where the authorisation procedure has already started under the old Regulation.</en>
+      <fr>C'est <DiscourseConnective annotation_id="14892">à</DiscourseConnective> cet effet que nous avons reproposé en vue du vote en plénière toute une série d'amendements destinés <DiscourseConnective annotation_id="14995">à</DiscourseConnective> faciliter la procédure <DiscourseConnective annotation_id="15020">pour</DiscourseConnective> les produits similaires <DiscourseConnective annotation_id="15049">à</DiscourseConnective> des aliments <DiscourseConnective annotation_id="15064">ou</DiscourseConnective> ingrédients <DiscourseConnective annotation_id="15079">déjà</DiscourseConnective> présents sur le marché <Alignment alignment="16431" annotation_id="15107">
+          <DiscourseConnective annotation_id="15107" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="15110">lorsque</DiscourseConnective> la procédure d'autorisation a <DiscourseConnective annotation_id="15148">déjà</DiscourseConnective> été entamée conformément à l'ancien règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13333" docOffset="83">
+      <en>Applications pending under the old Regulation should be completed according to the rules in force at the time of the submission of the dossier.</en>
+      <fr>Les demandes en suspens au titre de l'ancien règlement devraient être achevées conformément aux règles <DiscourseConnective annotation_id="15303">en</DiscourseConnective> vigueur <DiscourseConnective annotation_id="15314">au moment de</DiscourseConnective> la présentation du dossier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13477" docOffset="84">
+      <en>Reintroducing the application under the revised Regulation would only mean further delays and costs for the industry.</en>
+      <fr>Réintroduire la demande conformément au règlement révisé n'entraînerait <DiscourseConnective annotation_id="15427">que</DiscourseConnective> des retards <DiscourseConnective annotation_id="15443">et</DiscourseConnective> des coûts supplémentaires <DiscourseConnective annotation_id="15472">pour</DiscourseConnective> l'industrie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13595" docOffset="85">
+      <en>At the same time, we <Alignment alignment="80712" annotation_id="13616">
+          <DiscourseConnective annotation_id="13616" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> tried to promote the interests of consumers by reinforcing implementing measures on, <Alignment alignment="15633" annotation_id="13706">
+          <DiscourseConnective annotation_id="13706" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, marketing and monitoring, supporting the exclusion of cloned animals from the food chain, and specific labelling provisions.</en>
+      <fr>Dans le <DiscourseConnective annotation_id="15498">même</DiscourseConnective> temps, nous avons <Alignment alignment="4914" annotation_id="15521">
+          <DiscourseConnective annotation_id="15521" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> essayé de promouvoir les intérêts des consommateurs <DiscourseConnective annotation_id="15579">en</DiscourseConnective> renforçant les mesures de mise en œuvre relatives, <Alignment alignment="11993" annotation_id="15633">
+          <DiscourseConnective annotation_id="15633" sense="Expansion.Instantiation">notamment</DiscourseConnective>
+        </Alignment>, à la commercialisation <DiscourseConnective annotation_id="15667">et</DiscourseConnective> au contrôle, ainsi qu'en soutenant l'exclusion des animaux clonés de la chaîne alimentaire <DiscourseConnective annotation_id="15761">et</DiscourseConnective> des dispositions spécifiques en matière d'étiquetage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13844" docOffset="86">
+      <en>On the issue of cloning, I strongly support the exclusion of foods from cloned animals and their descendants from the scope of this Regulation, and call on the Commission to ban cloned animals in the food chain.</en>
+      <fr>S'agissant du clonage, je soutiens de façon inconditionnelle l'exclusion des aliments issus d'animaux clonés <DiscourseConnective annotation_id="15927">et</DiscourseConnective> de leurs descendants du champ d'application de ce règlement, <DiscourseConnective annotation_id="15991">et</DiscourseConnective> j'invite la Commission <DiscourseConnective annotation_id="16017">à</DiscourseConnective> bannir les animaux clonés de la chaîne alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14056" docOffset="87">
+      <en>In September 2008 the European Parliament adopted by a large majority a resolution asking for a ban on cloned animals from the food supply.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16071">En</DiscourseConnective> septembre 2008, le Parlement a adopté <DiscourseConnective annotation_id="16112">à</DiscourseConnective> une large majorité une résolution réclamant l'interdiction des animaux clonés de la chaîne alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14196" docOffset="88">
+      <en>We must be consistent in the political message we send to the Commission and to citizens.</en>
+      <fr>Nous devons être cohérents dans le message politique que nous envoyons <DiscourseConnective annotation_id="16289">à</DiscourseConnective> la Commission <DiscourseConnective annotation_id="16305">et</DiscourseConnective> aux citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14286" docOffset="89">
+      <en>There are still fundamental questions to be addressed regarding the ethical implications of cloning animals for food supply, and even the implication of animal cloning on human health and animal welfare.</en>
+      <fr>Il reste des questions fondamentales <DiscourseConnective annotation_id="16359">en</DiscourseConnective> suspens concernant les implications éthiques du clonage d'animaux <DiscourseConnective annotation_id="16428">pour</DiscourseConnective> la chaîne alimentaire, <DiscourseConnective annotation_id="16456">et même</DiscourseConnective> l'implication du clonage d'animaux sur la santé humaine <DiscourseConnective annotation_id="16520">et</DiscourseConnective> le bien-être des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14490" docOffset="90">
+      <en>
+        <Alignment alignment="21475" annotation_id="14490">
+          <DiscourseConnective annotation_id="14490" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, the novel food regulation is not an appropriate framework for such a complex issue.</en>
+      <fr>
+        <Alignment alignment="4985" annotation_id="16549">
+          <DiscourseConnective annotation_id="16549" sense="Contingency.Cause.Result">En conséquence</DiscourseConnective>
+        </Alignment>, le règlement sur les nouveaux aliments n'est pas le cadre approprié <DiscourseConnective annotation_id="16633">pour</DiscourseConnective> traiter une question <DiscourseConnective annotation_id="16659">aussi</DiscourseConnective> complexe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14585" docOffset="91">
+      <en>
+        <Alignment alignment="57403" annotation_id="14585">
+          <DiscourseConnective annotation_id="14585" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment>, in the future, food products derived from cloned animals are to be introduced on the European market, it should be done by means of a specific regulation submitted for public consultation and <Alignment alignment="51401" annotation_id="14781">
+          <DiscourseConnective annotation_id="14781" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> democratically adopted.</en>
+      <fr>
+        <Alignment alignment="12983" annotation_id="16675">
+          <DiscourseConnective annotation_id="16675" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="16679">à</DiscourseConnective> l'avenir, les produits alimentaires dérivés d'animaux clonés devaient être introduits sur le marché européen, il faudrait les y introduire au moyen d'un règlement spécifique soumis <DiscourseConnective annotation_id="16862">à</DiscourseConnective> la consultation publique <Alignment alignment="2758" annotation_id="16889">
+          <DiscourseConnective annotation_id="16889" sense="Temporal.Asynchronous.Precedence">puis</DiscourseConnective>
+        </Alignment> adopté de manière démocratique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14810" docOffset="92">
+      <en>I believe Parliament needs to take a strong stand and, by means of a majority vote, put pressure on the Commission to find solutions that echo the will of the citizens.</en>
+      <fr>J'estime que le Parlement doit adopter une position ferme <DiscourseConnective annotation_id="16984">et</DiscourseConnective>, par un vote à la majorité, exercer une pression sur la Commission <DiscourseConnective annotation_id="17054">pour qu'</DiscourseConnective>elle trouve des solutions qui reflètent la volonté des citoyens.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14979" docOffset="93">
+      <en>We will <Alignment alignment="17145" annotation_id="14987">
+          <DiscourseConnective annotation_id="14987" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> support labelling of nano-ingredients.</en>
+      <fr>Nous soutiendrons <Alignment alignment="3000" annotation_id="17145">
+          <DiscourseConnective annotation_id="17145" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> l'étiquetage des nano-ingrédients.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15031" docOffset="94">
+      <en>People have the right to know what they eat and make their choices <Alignment alignment="17999" annotation_id="15098">
+          <DiscourseConnective annotation_id="15098" sense="Contingency.Cause.Result">accordingly</DiscourseConnective>
+        </Alignment>.</en>
+      <fr>Les citoyens ont le droit de savoir ce qu'ils mangent <DiscourseConnective annotation_id="17244">et</DiscourseConnective> de poser leurs choix <Alignment alignment="29010" annotation_id="17268">
+          <DiscourseConnective annotation_id="17268" sense="Contingency.Cause.Result">en conséquence</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15111" docOffset="95">
+      <en>
+        <Alignment alignment="17284" annotation_id="15111">
+          <DiscourseConnective annotation_id="15111" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> some people are concerned about nanotechnology, then they should be able to make a different choice.</en>
+      <fr>
+        <Alignment alignment="29695" annotation_id="17284">
+          <DiscourseConnective annotation_id="17284" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> certaines personnes sont préoccupées par la nanotechnologie, elles devraient pouvoir choisir différemment.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15215" docOffset="96">
+      <en>
+        <Alignment alignment="21408" annotation_id="15215">
+          <DiscourseConnective annotation_id="15215" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we believe that labelling of foods produced from animals fed with genetically modified feedingstuffs is simply not realistic and feasible.</en>
+      <fr>Nous estimons <Alignment alignment="18857" annotation_id="17408">
+          <DiscourseConnective annotation_id="17408" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="17418">qu'</DiscourseConnective>il n'est tout <DiscourseConnective annotation_id="17435">simplement</DiscourseConnective> ni réaliste ni faisable d'étiqueter les aliments produits avec des animaux nourris aux aliments pour animaux génétiquement modifiés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15363" docOffset="97">
+      <en>I personally am strongly against GMOs, <Alignment alignment="17630" annotation_id="15402">
+          <DiscourseConnective annotation_id="15402" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I cannot imagine how we could trace efficiently which animals were fed with GMOs <Alignment alignment="26112" annotation_id="15487">
+          <DiscourseConnective annotation_id="15487" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which were not.</en>
+      <fr>Personnellement, je suis fermement opposé aux OMG, <Alignment alignment="12764" annotation_id="17630">
+          <DiscourseConnective annotation_id="17630" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je ne vois pas comment nous pourrions tracer efficacement quels animaux ont été nourris aux OGM <Alignment alignment="13456" annotation_id="17731">
+          <DiscourseConnective annotation_id="17731" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> quels ne l'ont pas été.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15507" id="499" name="Zdzisław Zbigniew Podkański">
+    <ParallelChunk annotation_id="15507" docOffset="98">
+      <en>on behalf of the UEN Group. - (PL) Madam President, Regulation (EC) No 258/97 on novel foods is good occasion for clarifying what we are actually dealing with.</en>
+      <fr>au nom du Groupe UEN. - (PL) Madame la Présidente, le règlement (CE) no 258/97 du Parlement européen et du Conseil du 27 janvier 1997 relatif aux nouveaux aliments et aux nouveaux ingrédients alimentaires est une excellente occasion de préciser notre sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15667" docOffset="99">
+      <en>Are we really promoting healthy, safe food products and protecting the health of consumers, <Alignment alignment="18116" annotation_id="15759">
+          <DiscourseConnective annotation_id="15759" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> are we protecting the interests of certain pressure groups and persons for whom not people and human health, but money, is paramount?</en>
+      <fr>Promouvons-nous des produits alimentaires sains et sûrs? Protégeons-nous la santé des consommateurs <Alignment alignment="15738" annotation_id="18116">
+          <DiscourseConnective annotation_id="18116" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> plutôt les intérêts de certains groupes de pression <DiscourseConnective annotation_id="18171">et</DiscourseConnective> ceux d'individus <DiscourseConnective annotation_id="18191">pour</DiscourseConnective> qui l'argent prime sur les personnes <DiscourseConnective annotation_id="18233">et</DiscourseConnective> sur la santé humaine?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15896" docOffset="100">
+      <en>
+        <Alignment alignment="19493" annotation_id="15896">
+          <DiscourseConnective annotation_id="15896" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we are concerned about people and their health, we need to make sure that there is honest information for consumers about the origins and ingredients of food products.</en>
+      <fr>
+        <Alignment alignment="29715" annotation_id="18258">
+          <DiscourseConnective annotation_id="18258" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous nous préoccupons avant tout des personnes <DiscourseConnective annotation_id="18308">et</DiscourseConnective> leur santé, assurons-nous que les consommateurs disposent d'informations objectives sur l'origine des aliments <DiscourseConnective annotation_id="18422">et</DiscourseConnective> sur leurs ingrédients. L'étiquette d'un aliment doit reprendre, entre autres données, les ingrédients et leurs proportions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16067" docOffset="101">
+      <en>The information labels must include, amongst others: the ingredients and the quantities; whether the food is environmentally sound or based on GMO products; the additives it contains, <Alignment alignment="52825" annotation_id="16251">
+          <DiscourseConnective annotation_id="16251" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> any, such as food enzymes and flavourings; the country of origin <DiscourseConnective annotation_id="16319" sense="Expansion.Conjunction">and</DiscourseConnective> whether it comes from cloned livestock, which in my opinion should be completely forbidden.</en>
+      <fr>Elle doit spécifier <Alignment alignment="5265" annotation_id="18569">
+          <DiscourseConnective annotation_id="18569" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> un produit alimentaire est respectueux de l'environnement <DiscourseConnective annotation_id="18630">ou</DiscourseConnective> s'il est produit à partir d'OGM, la présence éventuelle d'additifs tels <DiscourseConnective annotation_id="18705">que</DiscourseConnective> des enzymes <DiscourseConnective annotation_id="18721">ou</DiscourseConnective> arômes. L'étiquette doit aussi mentionner le pays d'origine <DiscourseConnective annotation_id="18784">et</DiscourseConnective> préciser <DiscourseConnective annotation_id="18796">si</DiscourseConnective> l'aliment est produit à partir de viande d'animaux clonés, ce qui selon moi devrait être formellement interdit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16415" docOffset="102">
+      <en>Essentially, the necessity of implementing appropriate procedures for issuing permits for the production and marketing of novel foods is something that should not require discussion.</en>
+      <fr>Plus fondamentalement, il ne faudrait même pas discuter de la nécessité d'appliquer des procédures appropriées d'octroi de licences de production <DiscourseConnective annotation_id="19057">et</DiscourseConnective> de commercialisation des nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16598" docOffset="103">
+      <en>The procedures must protect consumers from the danger of unhealthy food and from being misled.</en>
+      <fr>Les procédures doivent protéger les consommateurs des dangers d'une alimentation malsaine <DiscourseConnective annotation_id="19194">et</DiscourseConnective> éviter qu'on les induise en erreur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16693" docOffset="104">
+      <en>The rapporteur, Mrs Liotard, agreed with the Commission's report on the need for transparent authorisation procedures for new food products, even <Alignment alignment="18860" annotation_id="16839">
+          <DiscourseConnective annotation_id="16839" sense="Comparison.Contrast">though</DiscourseConnective>
+        </Alignment> she has submitted numerous amendments, which shows her engagement with the work on the report, <DiscourseConnective annotation_id="16941" sense="Expansion.Conjunction">and</DiscourseConnective> which must definitely be commended.</en>
+      <fr>La rapporteure, Mme Liotard, est d'accord avec la Commission pour <DiscourseConnective annotation_id="19299">dire qu'</DiscourseConnective>il faut adopter des procédures transparentes d'autorisation des nouveaux aliments, <Alignment alignment="15828" annotation_id="19390">
+          <DiscourseConnective annotation_id="19390" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> elle a soumis de nombreux amendements qui prouvent son engagement envers le travail qui fait l'objet de ce rapport, un engagement des plus louable.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="16981" id="500" name="Hiltrud Breyer">
+    <ParallelChunk annotation_id="16981" docOffset="105">
+      <en>on behalf of the Verts/ALE Group. - (DE) Madam President, Mrs Liotard, ladies and gentlemen, we need new regulations for novel foods.</en>
+      <fr>au nom du groupe des Verts/ALE. - (DE) Madame la Présidente, chers collègues, nous devons nous doter de règlements sur les nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17115" docOffset="106">
+      <en>
+        <DiscourseConnective annotation_id="17115" sense="Expansion.Restatement">In particular</DiscourseConnective> in the case of nanotechnologies, our requirements for foodstuffs should not be less strict than those for cosmetics.</en>
+      <fr>Et, en matière de nanotechnologies, nos exigences par rapport aux denrées alimentaires devraient être <DiscourseConnective annotation_id="19790">aussi</DiscourseConnective> strictes <DiscourseConnective annotation_id="19805">que</DiscourseConnective> celles qui s'appliquent aux cosmétiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17246" docOffset="107">
+      <en>We need a definition of nanomaterials and clear labelling.</en>
+      <fr>Il faut définir les nanomatériaux <DiscourseConnective annotation_id="19884">et</DiscourseConnective> établir un étiquetage clair.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17305" docOffset="108">
+      <en>
+        <Alignment alignment="19916" annotation_id="17305">
+          <DiscourseConnective annotation_id="17305" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, nanofoods must not be approved <Alignment alignment="31971" annotation_id="17345">
+          <DiscourseConnective annotation_id="17345" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective>
+        </Alignment> specific risk analysis methods have been put in place, <DiscourseConnective annotation_id="17406" sense="Expansion.Alternative">otherwise</DiscourseConnective> we will be turning consumers into guinea pigs, which I hope no one wants to do.</en>
+      <fr>
+        <Alignment alignment="33550" annotation_id="19916">
+          <DiscourseConnective annotation_id="19916" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, les nano-aliments ne peuvent pas être approuvés <Alignment alignment="17345" annotation_id="19975">
+          <DiscourseConnective annotation_id="19975" sense="Temporal.Asynchronous.Precedence">tant que</DiscourseConnective>
+        </Alignment> nous ne disposons pas de méthodes spécifiques d'évaluation des risques car, <DiscourseConnective annotation_id="20060">en</DiscourseConnective> leur absence, les consommateurs risquent d'être pris comme cobayes, ce qui n'est pas notre intention, du moins je l'espère.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17496" docOffset="109">
+      <en>In the case of gene technology, we must close the labelling loophole as quickly as possible.</en>
+      <fr>Dans le domaine des technologies génétiques, les lacunes de l'étiquetage doivent être comblées <DiscourseConnective annotation_id="20282">aussi</DiscourseConnective> rapidement <DiscourseConnective annotation_id="20299">que</DiscourseConnective> possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17589" docOffset="110">
+      <en>Foods which come from animals that have been fed GMO feedstuffs must be labelled.</en>
+      <fr>Les denrées alimentaires produites à partir d'animaux ayant consommé des aliments à base d'OGM doivent être étiquetées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17671" docOffset="111">
+      <en>We have traceability on paper, <Alignment alignment="39525" annotation_id="17702">
+          <DiscourseConnective annotation_id="17702" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> it will be possible.</en>
+      <fr>C'est faisable, <Alignment alignment="17702" annotation_id="20449">
+          <DiscourseConnective annotation_id="20449" sense="Contingency.Cause.Result">puisque</DiscourseConnective>
+        </Alignment> la traçabilité existe déjà sur papier.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17726" docOffset="112">
+      <en>We will see tomorrow how the Members from Germany have voted, <Alignment alignment="20559" annotation_id="17788">
+          <DiscourseConnective annotation_id="17788" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> there is a labelling loophole here.</en>
+      <fr>Nous verrons demain le résultat du vote des députés allemands, <Alignment alignment="17788" annotation_id="20559">
+          <DiscourseConnective annotation_id="20559" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> l'étiquetage laisse à désirer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17832" docOffset="113">
+      <en>We do not want to take away the consumers' right to choose for themselves.</en>
+      <fr>Nous ne voulons pas priver le consommateur de son droit <DiscourseConnective annotation_id="20650">à</DiscourseConnective> choisir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17907" docOffset="114">
+      <en>They should have freedom of choice and the opportunity to make their own decisions.</en>
+      <fr>Il doit avoir la liberté de poser des choix <DiscourseConnective annotation_id="20705">et</DiscourseConnective> la possibilité de prendre ses propres décisions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17991" docOffset="115">
+      <en>We must be quite clear about the fact that we do not want cloned meat to be approved in Europe, for both animal welfare and ethical reasons.</en>
+      <fr>Soyons clairs: au nom du bien-être animal <DiscourseConnective annotation_id="20799">et</DiscourseConnective> <DiscourseConnective annotation_id="20802">pour</DiscourseConnective> des raisons éthiques, nous refusons que la viande clonée <DiscourseConnective annotation_id="20864">soit</DiscourseConnective> autorisée <DiscourseConnective annotation_id="20879">en</DiscourseConnective> Europe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18132" docOffset="116">
+      <en>We should make this very clear in this regulation.</en>
+      <fr>Cela devrait figurer noir sur blanc dans le règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18183" docOffset="117">
+      <en>My final point is that animals should not be subjected to unnecessary suffering.</en>
+      <fr>Et, <DiscourseConnective annotation_id="20949">pour finir</DiscourseConnective>, les animaux ne devraient pas souffrir inutilement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18264" docOffset="118">
+      <en>For this reason, we are calling for a ban on duplicating animal testing.</en>
+      <fr>Nous demandons <DiscourseConnective annotation_id="21027">donc</DiscourseConnective> l'interdiction de la multiplication des essais sur animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18337" docOffset="119">
+      <en>Thank you.</en>
+      <fr>Merci!</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="18348" id="501" name="Renate Sommer">
+    <ParallelChunk annotation_id="18348" docOffset="120">
+      <en>(DE) Madam President, it would be good <DiscourseConnective annotation_id="18387" sense="Contingency.Condition">if</DiscourseConnective> you could allow me the additional half a minute which Mrs Breyer from the Group of the Greens/European Free Alliance has just had.</en>
+      <fr>(DE) Madame la Présidente, je vous serais reconnaissante de m'accorder la minute et demie dont mon prédécesseur, Mme Breyer du groupe des Verts/ALE, a bénéficié.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18521" docOffset="121">
+      <en>The Commission has submitted a good proposal for updating the regulation on novel foods. Unfortunately, some amendments have been tabled with the aim of adding objectives to this proposal which are not compatible with the goals of the regulation <Alignment alignment="28692" annotation_id="18767">
+          <DiscourseConnective annotation_id="18767" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> which even interfere with existing case law.</en>
+      <fr>La proposition d'actualisation du règlement sur les nouveaux aliments de la Commission est bonne mais, <DiscourseConnective annotation_id="21364">malheureusement</DiscourseConnective>, certains amendements sont présentés <DiscourseConnective annotation_id="21417">dans l'intention d'</DiscourseConnective>ajouter <DiscourseConnective annotation_id="21444">à</DiscourseConnective> cette proposition des objectifs qui sont incompatibles avec ceux de ce règlement <Alignment alignment="14132" annotation_id="21527">
+          <DiscourseConnective annotation_id="21527" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> qui empiètent sur la jurisprudence existante.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18815" docOffset="122">
+      <en>The obligation on food suppliers to monitor novel foods in terms of the health and welfare of animals would impose too great a burden on retailers.</en>
+      <fr>Obliger les fournisseurs alimentaires <DiscourseConnective annotation_id="21614">à</DiscourseConnective> contrôler les nouveaux aliments <DiscourseConnective annotation_id="21648">en</DiscourseConnective> vertu de paramètres de santé <DiscourseConnective annotation_id="21680">et</DiscourseConnective> de bien-être animal ferait peser un fardeau bien trop lourd sur les épaules des détaillants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18963" docOffset="123">
+      <en>Once again an attempt is being made to undermine existing GMO legislation, in this case the call for special labelling for novel foods which come from animals that have been fed genetically modified feedstuffs.</en>
+      <fr>À nouveau, on essaye de miner la législation OGM existante. Il s'agit, dans ce cas-ci, de la demande d'étiquetage spécial des nouveaux aliments provenant d'animaux nourris avec des produits génétiquement modifiés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19174" docOffset="124">
+      <en>We have already heard about all of this.</en>
+      <fr>Il n'y a là rien de neuf.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19215" docOffset="125">
+      <en>Anything which involves GMO legislation should not be included in the regulation on novel foods.</en>
+      <fr>Tout ce qui touche à la législation sur les OGM devrait rester en dehors du règlement relatif aux nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19312" docOffset="126">
+      <en>I say this, <Alignment alignment="22146" annotation_id="19324">
+          <DiscourseConnective annotation_id="19324" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I myself tabled an amendment to distinguish between new plant types and the definition of novel foods.</en>
+      <fr>Je dis cela, <Alignment alignment="19324" annotation_id="22146">
+          <DiscourseConnective annotation_id="22146" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> j'ai moi-même soumis un amendement <DiscourseConnective annotation_id="22186">afin de</DiscourseConnective> pouvoir établir une distinction entre les nouveaux types de plantes <DiscourseConnective annotation_id="22262">et</DiscourseConnective> la définition des nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19431" docOffset="127">
+      <en>
+        <Alignment alignment="26271" annotation_id="19431">
+          <DiscourseConnective annotation_id="19431" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, interested parties in this House must not be allowed to misuse the regulation on novel foods for electioneering purposes.</en>
+      <fr>
+        <Alignment alignment="15744" annotation_id="22302">
+          <DiscourseConnective annotation_id="22302" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, ne laissons pas les parties intéressées de cette Assemblée détourner le règlement sur les nouveaux aliments <DiscourseConnective annotation_id="22421">à</DiscourseConnective> des fins électorales.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19562" docOffset="128">
+      <en>Amendments 62 and 90, for which the Greens have requested a vote by roll call, are obviously an attempt of this kind.</en>
+      <fr>C'est ce qu'on a tenté de faire avec les amendements 62 <DiscourseConnective annotation_id="22501">et</DiscourseConnective> 90 <DiscourseConnective annotation_id="22507">pour</DiscourseConnective> lesquels les Verts ont demandé un vote par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19680" docOffset="129">
+      <en>Who are you aiming to pillory for this?</en>
+      <fr>Qui pensez-vous mettre au pilori?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19720" docOffset="130">
+      <en>My group has always supported the right of the consumer to know what foods contain.</en>
+      <fr>Mon groupe a toujours défendu le droit des consommateurs <DiscourseConnective annotation_id="22661">à</DiscourseConnective> savoir ce qu'il y a dans leur assiette.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19804" docOffset="131">
+      <en>Why should there not be a reference to nanosubstances in the list of ingredients?</en>
+      <fr>Pourquoi la liste des ingrédients ne mentionnerait-elle pas les nanosubstances?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19886" docOffset="132">
+      <en>
+        <Alignment alignment="81816" annotation_id="19886">
+          <DiscourseConnective annotation_id="19886" sense="Comparison.Concession">Although</DiscourseConnective>
+        </Alignment> amendment 62 makes a rather clumsy attempt to anticipate my report on food labelling, I must say that I believe that the labelling of novel foods is fully compatible with my report.</en>
+      <fr>
+        <Alignment alignment="21403" annotation_id="22783">
+          <DiscourseConnective annotation_id="22783" sense="Comparison.Concession">Bien que</DiscourseConnective>
+        </Alignment> l'amendement 62 <DiscourseConnective annotation_id="22808">soit</DiscourseConnective> une tentative <DiscourseConnective annotation_id="22827">plutôt</DiscourseConnective> maladroite de devancer mon rapport sur l'étiquetage alimentaire, je dois admettre <DiscourseConnective annotation_id="22916">que</DiscourseConnective> l'étiquetage des nouveaux aliments est tout à fait compatible avec mon rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20077" docOffset="133">
+      <en>
+        <Alignment alignment="36639" annotation_id="20077">
+          <DiscourseConnective annotation_id="20077" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> I recommend that my group votes in favour of the amendments.</en>
+      <fr>J'invite <Alignment alignment="27544" annotation_id="23009">
+          <DiscourseConnective annotation_id="23009" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> mon groupe à voter <DiscourseConnective annotation_id="23033">en</DiscourseConnective> faveur des amendements.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20148" docOffset="134">
+      <en>In my report on food labelling regulations, I will refer to the part of the regulation on novel foods which concerns labelling.</en>
+      <fr>Dans mon rapport sur la législation relative à l'étiquetage alimentaire, je ferai référence au passage du règlement sur les nouveaux aliments qui aborde cette question.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20276" docOffset="135">
+      <en>This will be possible <Alignment alignment="23248" annotation_id="20298">
+          <DiscourseConnective annotation_id="20298" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the first reading on the labelling of foods has been postponed to the next parliamentary term, against the Greens' wishes.</en>
+      <fr>C'est envisageable <Alignment alignment="23439" annotation_id="23248">
+          <DiscourseConnective annotation_id="23248" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> la première lecture portant sur l'étiquetage des aliments a été reportée <DiscourseConnective annotation_id="23325">à</DiscourseConnective> la prochaine législature, contrairement aux souhaits des Verts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20429" docOffset="136">
+      <en>
+        <Alignment alignment="23391" annotation_id="20429">
+          <DiscourseConnective annotation_id="20429" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, it has now become clear how beneficial this postponement was for them.</en>
+      <fr>
+        <Alignment alignment="20429" annotation_id="23391">
+          <DiscourseConnective annotation_id="23391" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, nous comprenons mieux <DiscourseConnective annotation_id="23424">maintenant</DiscourseConnective> combien ce report a joué en leur faveur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20509" docOffset="137">
+      <en>A brief remark on cloning. It is animal cruelty <Alignment alignment="2488" annotation_id="20557">
+          <DiscourseConnective annotation_id="20557" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we are opposed to it.</en>
+      <fr>Encore une brève <DiscourseConnective annotation_id="23493">remarque</DiscourseConnective> sur le clonage: c'est cruel envers les animaux <Alignment alignment="2455" annotation_id="23549">
+          <DiscourseConnective annotation_id="23549" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous nous y opposons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20583" docOffset="138">
+      <en>
+        <Alignment alignment="23574" annotation_id="20583">
+          <DiscourseConnective annotation_id="20583" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment> foods must be included in this regulation, <Alignment alignment="23636" annotation_id="20639">
+          <DiscourseConnective annotation_id="20639" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> <Alignment alignment="55553" annotation_id="20647">
+          <DiscourseConnective annotation_id="20647" sense="Expansion.Alternative">otherwise</DiscourseConnective>
+        </Alignment> ...</en>
+      <fr>
+        <Alignment alignment="9637" annotation_id="23574">
+          <DiscourseConnective annotation_id="23574" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, les aliments doivent être inclus dans ce règlement <Alignment alignment="20639" annotation_id="23636">
+          <DiscourseConnective annotation_id="23636" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> <Alignment alignment="9996" annotation_id="23646">
+          <DiscourseConnective annotation_id="23646" sense="Expansion.Alternative">sinon</DiscourseConnective>
+        </Alignment>...</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20661" docOffset="139">
+      <en>(The President cut off the speaker)</en>
+      <fr>(La Présidente retire la parole à l'oratrice)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="20697" id="502" name="Csaba Sándor Tabajdi">
+    <ParallelChunk annotation_id="20697" docOffset="140">
+      <en>(HU) It is very reassuring to European consumers that they can have every confidence in the EU foodstuffs on their plates.</en>
+      <fr>() Il est très rassurant <DiscourseConnective annotation_id="23726">pour</DiscourseConnective> les consommateurs européens de savoir qu'ils peuvent avoir toute confiance dans les produits alimentaires de l'UE qui aboutissent dans leur assiette.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20820" docOffset="141">
+      <en>In the medium and long terms, this is one of the most important reasons for maintaining the common agricultural policy.</en>
+      <fr>C'est une des raisons majeures du maintien de la politique agricole commune <DiscourseConnective annotation_id="23957">à</DiscourseConnective> moyen <DiscourseConnective annotation_id="23965">et</DiscourseConnective> à long terme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20940" docOffset="142">
+      <en>We have to compensate European producers for the fact that we impose stricter food safety and environmental protection rules than our competitors outside the European Union.</en>
+      <fr>Nous devons indemniser les producteurs européens <DiscourseConnective annotation_id="24031">à</DiscourseConnective> qui nous imposons des règles européennes de sécurité alimentaire <DiscourseConnective annotation_id="24098">et</DiscourseConnective> de protection environnementale plus strictes <DiscourseConnective annotation_id="24146">que</DiscourseConnective> celles qui sont appliquées à leurs concurrents en dehors de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21114" docOffset="143">
+      <en>It would be good <Alignment alignment="24253" annotation_id="21131">
+          <DiscourseConnective annotation_id="21131" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we were to succeed, at the WTO negotiations, in asserting our rightful demand that our global competitors should observe equally strict norms and standards for stringent food safety, animal and plant health and environmental protection.</en>
+      <fr>Pour y parvenir, il serait judicieux <Alignment alignment="14570" annotation_id="24253">
+          <DiscourseConnective annotation_id="24253" sense="Contingency.Condition">que</DiscourseConnective>
+        </Alignment>, lors des négociations à l'OMC, nous parvenions à présenter cette requête justifiée, <DiscourseConnective annotation_id="24342">en</DiscourseConnective> vertu de laquelle nos concurrents internationaux devraient être tenus de suivre des règles <DiscourseConnective annotation_id="24436">et</DiscourseConnective> normes tout <DiscourseConnective annotation_id="24451">aussi</DiscourseConnective> strictes <DiscourseConnective annotation_id="24466">afin de</DiscourseConnective> protéger rigoureusement la sécurité alimentaire, la santé animale <DiscourseConnective annotation_id="24540">et</DiscourseConnective> végétale <DiscourseConnective annotation_id="24552">et</DiscourseConnective> l'environnement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21371" docOffset="144">
+      <en>The regulation on novel foods and the amendment presented in this report are <Alignment alignment="67207" annotation_id="21448">
+          <DiscourseConnective annotation_id="21448" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> intended to serve increased food safety.</en>
+      <fr>Le règlement sur les nouveaux aliments <DiscourseConnective annotation_id="24611">et</DiscourseConnective> l'amendement présenté dans le présent rapport visent <Alignment alignment="29315" annotation_id="24667">
+          <DiscourseConnective annotation_id="24667" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="24673">à</DiscourseConnective> offrir une plus grande sécurité alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21494" docOffset="145">
+      <en>At the same time, the challenges presented by the current global food crisis and the steady increase in population heighten the importance of, and indeed render essential, the search for new solutions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24720">Parallèlement</DiscourseConnective>, les défis que pose actuellement la crise alimentaire mondiale <DiscourseConnective annotation_id="24797">et</DiscourseConnective> l'augmentation démographique constante font qu'il est important, <DiscourseConnective annotation_id="24865">et même</DiscourseConnective> indispensable, de trouver de nouvelles solutions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21696" docOffset="146">
+      <en>In order for the earth to be able to feed 9 billion people in 2050, the opportunities presented by technological advances, and primarily the use of biotechnologies, are indispensable.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24923">Pour que</DiscourseConnective> la terre puisse nourrir les 9 milliards d'êtres humains qu'elle abritera <DiscourseConnective annotation_id="25005">en</DiscourseConnective> 2050, il faut exploiter les pistes ouvertes par les progrès technologiques <DiscourseConnective annotation_id="25083">et</DiscourseConnective>, <DiscourseConnective annotation_id="25087">surtout</DiscourseConnective>, par les biotechnologies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21880" docOffset="147">
+      <en>To avoid misunderstanding, this report does not address genetically modified foods.</en>
+      <fr>
+        <DiscourseConnective annotation_id="25121">Pour</DiscourseConnective> éviter tout malentendu, le rapport ne parle pas des aliments génétiquement modifiés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21964" docOffset="148">
+      <en>In accordance with the Commission's intentions, <Alignment alignment="25211" annotation_id="22012">
+          <DiscourseConnective annotation_id="22012" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, foods prepared with nanotechnologies do fall within the scope of novel foods.</en>
+      <fr>
+        <Alignment alignment="22012" annotation_id="25211">
+          <DiscourseConnective annotation_id="25211" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, conformément aux intentions de la Commission, les aliments obtenus par le biais des nanotechnologies sont repris dans la catégorie des nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22099" docOffset="149">
+      <en>Some of my fellow Members have concerns, which I understand up to a point, <Alignment alignment="27298" annotation_id="22174">
+          <DiscourseConnective annotation_id="22174" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is important for us to recognise that nanotechnology is one of the keys to the future.</en>
+      <fr>Certains députés sont inquiets, <DiscourseConnective annotation_id="25408">et</DiscourseConnective> je les comprends dans une certaine mesure, <Alignment alignment="19654" annotation_id="25454">
+          <DiscourseConnective annotation_id="25454" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> nous devons reconnaître <DiscourseConnective annotation_id="25483">que</DiscourseConnective> les nanotechnologies sont l'une des clés de l'avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22268" docOffset="150">
+      <en>Europe would suffer a serious competitive disadvantage <Alignment alignment="25600" annotation_id="22323">
+          <DiscourseConnective annotation_id="22323" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it were left out of developments in this area.</en>
+      <fr>L'Europe souffrirait d'un énorme désavantage concurrentiel <Alignment alignment="22323" annotation_id="25600">
+          <DiscourseConnective annotation_id="25600" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> elle ne participait pas aux progrès dans ce domaine.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22373" docOffset="151">
+      <en>The key is the scientific, comprehensive testing that accompanies the licensing process, guaranteed by the proposed regulation.</en>
+      <fr>Les essais scientifiques exhaustifs qui accompagnent la procédure de brevetage sont l'élément clé, garanti par la proposition de règlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22501" docOffset="152">
+      <en>A major consideration is the strict regulatory system of labelling.</en>
+      <fr>La réglementation stricte du système d'étiquetage est cruciale.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22569" docOffset="153">
+      <en>We must not allow the foods in question to be open to misleading consumers.</en>
+      <fr>Nous ne pouvons tolérer que les denrées alimentaires induisent les consommateurs <DiscourseConnective annotation_id="25941">en</DiscourseConnective> erreur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22645" docOffset="154">
+      <en>There is <Alignment alignment="4359" annotation_id="22654">
+          <DiscourseConnective annotation_id="22654" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> a significant debate concerning cloned animals.</en>
+      <fr>Les animaux clonés sont <Alignment alignment="22654" annotation_id="25976">
+          <DiscourseConnective annotation_id="25976" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> au cœur d'un débat considérable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22707" docOffset="155">
+      <en>It would be more appropriate to regulate cloning in a separate regulation.</en>
+      <fr>Il vaudrait <DiscourseConnective annotation_id="26027">mieux</DiscourseConnective> que le clonage fasse l'objet d'une réglementation distincte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22782" docOffset="156">
+      <en>Following the opinion of the European Food Safety Authority, we should not consider the offspring of cloned animals to be clones, <Alignment alignment="29988" annotation_id="22912">
+          <DiscourseConnective annotation_id="22912" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the regulation should <Alignment alignment="22771" annotation_id="22938">
+          <DiscourseConnective annotation_id="22938" sense="Comparison.Concession">nonetheless</DiscourseConnective>
+        </Alignment> refer to the offspring of cloned animals as well.</en>
+      <fr>Selon l'Autorité européenne de sécurité des aliments, la progéniture d'animaux clonés ne peut être qualifiée de clone <Alignment alignment="10860" annotation_id="26212">
+          <DiscourseConnective annotation_id="26212" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le règlement devrait <Alignment alignment="973" annotation_id="26238">
+          <DiscourseConnective annotation_id="26238" sense="Comparison.Concession">néanmoins</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="26248">aussi</DiscourseConnective> la mentionner.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23000" docOffset="157">
+      <en>We need to make this absolutely clear to consumers.</en>
+      <fr>Cela doit être présenté sans aucune ambiguïté aux consommateurs.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23052" id="503" name="Mojca Drčar Marko">
+    <ParallelChunk annotation_id="23052" docOffset="158">
+      <en>Madam President, last year we voted with a persuasive majority in favour of the resolution proposing to ban the cloning of animals for food and the sale of any products from cloned animals and their offspring.</en>
+      <fr>(EN) Madame la Présidente, l'année dernière, nous avons voté <DiscourseConnective annotation_id="26395">à</DiscourseConnective> une majorité persuasive la résolution proposant d'interdire le clonage d'animaux destinés à la consommation <DiscourseConnective annotation_id="26505">et</DiscourseConnective> la vente de produits issus d'animaux clonés <DiscourseConnective annotation_id="26552">et</DiscourseConnective> de leur descendance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23262" docOffset="159">
+      <en>Ahead of voting on the legislation on novel foods we should recall the reasons for having been prudent and aware of risks for the health and welfare of animals.</en>
+      <fr>
+        <DiscourseConnective annotation_id="26576">Avant de</DiscourseConnective> voter la législation sur les nouveaux aliments, nous devions nous rappeler les raisons qui nous ont poussés à être prudents <DiscourseConnective annotation_id="26709">et</DiscourseConnective> conscients des risques pour la santé <DiscourseConnective annotation_id="26749">et</DiscourseConnective> pour le bien-être des animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23423" docOffset="160">
+      <en>We know, from our past experience with similar issues that tackle both food safety and ethical relations between humans, as the dominant species, and nature, that public perception depends very much on specific knowledge of the matter.</en>
+      <fr>Notre expérience avec d'autres problématiques qui touchent à la sécurité alimentaire <DiscourseConnective annotation_id="26868">et</DiscourseConnective> aux relations éthiques entre les hommes, en <DiscourseConnective annotation_id="26915">tant qu'</DiscourseConnective>espèce dominante, <DiscourseConnective annotation_id="26941">et</DiscourseConnective> la nature nous a appris <DiscourseConnective annotation_id="26968">que</DiscourseConnective> la perception publique dépend dans une large mesure des connaissances spécifiques en la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23659" docOffset="161">
+      <en>Consumers are increasingly sensitive about suffering and injuries to farm animals <Alignment alignment="58312" annotation_id="23741">
+          <DiscourseConnective annotation_id="23741" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <Alignment alignment="27191" annotation_id="23745">
+          <DiscourseConnective annotation_id="23745" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> they have the right to be informed about the potential of cloning to cause pain and to waste natural resources.</en>
+      <fr>Les consommateurs sont de plus <DiscourseConnective annotation_id="27100">en plus</DiscourseConnective> sensibles <DiscourseConnective annotation_id="27118">à</DiscourseConnective> la souffrance <DiscourseConnective annotation_id="27134">et</DiscourseConnective> aux dommages causés aux animaux d'élevage, <Alignment alignment="4928" annotation_id="27180">
+          <DiscourseConnective annotation_id="27180" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ils ont <Alignment alignment="34200" annotation_id="27191">
+          <DiscourseConnective annotation_id="27191" sense="Contingency.Cause.Result">par conséquent</DiscourseConnective>
+        </Alignment> le droit d'être informés du risque que le clonage <DiscourseConnective annotation_id="27256">soit</DiscourseConnective> douloureux <DiscourseConnective annotation_id="27272">et</DiscourseConnective> gaspille des ressources naturelles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23867" docOffset="162">
+      <en>
+        <Alignment alignment="27311" annotation_id="23867">
+          <DiscourseConnective annotation_id="23867" sense="Comparison.Contrast">Yet</DiscourseConnective>
+        </Alignment> the development of animal cloning as a method of food production is being pursued without public awareness.</en>
+      <fr>
+        <Alignment alignment="425" annotation_id="27311">
+          <DiscourseConnective annotation_id="27311" sense="Comparison.Contrast">Or</DiscourseConnective>
+        </Alignment> le développement du clonage d'animaux <DiscourseConnective annotation_id="27352">comme</DiscourseConnective> méthode de production alimentaire se poursuit <DiscourseConnective annotation_id="27404">sans que</DiscourseConnective> le public en soit conscient.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23979" docOffset="163">
+      <en>The problems with cloning do not concern just the welfare of animals, but also consumer confidence in food <DiscourseConnective annotation_id="24086" sense="Contingency.Cause.Reason">since</DiscourseConnective> it is believed that in Europe food is produced to a very high standard.</en>
+      <fr>La problématique du clonage ne concerne pas seulement le bien-être des animaux, <DiscourseConnective annotation_id="27522">mais aussi</DiscourseConnective> la confiance des consommateurs dans les aliments, qui croient <DiscourseConnective annotation_id="27595">qu'en</DiscourseConnective> Europe, les aliments sont produits selon des normes très élevées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24164" docOffset="164">
+      <en>The Eurobarometer study from last October documented serious public concerns with regard to hypothetical future use of food products from clones.</en>
+      <fr>L'étude Eurobaromètre d'octobre dernier a mis en lumière de sérieuses préoccupations publiques concernant l'hypothétique utilisation future de produits alimentaires issus de clones.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24310" docOffset="165">
+      <en>This is linked to the sale of imported food, which could eventually be sold in Europe without being labelled as a product from cloned animals.</en>
+      <fr>Ces préoccupations sont <DiscourseConnective annotation_id="27873">à</DiscourseConnective> mettre en rapport avec la vente d'aliments importés qui pourraient <DiscourseConnective annotation_id="27942">finalement</DiscourseConnective> être vendus <DiscourseConnective annotation_id="27965">en</DiscourseConnective> Europe <DiscourseConnective annotation_id="27975">sans</DiscourseConnective> être étiquetés en <DiscourseConnective annotation_id="27998">tant que</DiscourseConnective> produits issus d'animaux clonés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24453" docOffset="166">
+      <en>I <Alignment alignment="75719" annotation_id="24455">
+          <DiscourseConnective annotation_id="24455" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> agree with the rapporteur's approach urging the Commission to come up with a separate piece of legislation on clones.</en>
+      <fr>Je rejoins <Alignment alignment="39388" annotation_id="28051">
+          <DiscourseConnective annotation_id="28051" sense="Contingency.Cause.Result">dès lors</DiscourseConnective>
+        </Alignment> l'approche de la rapporteure, qui invite la Commission <DiscourseConnective annotation_id="28115">à</DiscourseConnective> présenter une réglementation séparée sur les clones.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24583" docOffset="167">
+      <en>Among other problems which have been covered by the amendments tabled by my political group, I wish particularly to support the sharing of information from animal testing <Alignment alignment="58511" annotation_id="24754">
+          <DiscourseConnective annotation_id="24754" sense="Contingency.Cause.Result">so</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="24757" sense="Temporal.Synchrony">as</DiscourseConnective> to avoid the need for new tests involving animals.</en>
+      <fr>Parmi les autres problèmes couverts par les amendements déposés par mon groupe politique, je tiens <DiscourseConnective annotation_id="28269">en particulier</DiscourseConnective> <DiscourseConnective annotation_id="28284">à</DiscourseConnective> soutenir le partage d'information sur les tests réalisés sur les animaux, <Alignment alignment="11929" annotation_id="28360">
+          <DiscourseConnective annotation_id="28360" sense="Contingency.Cause.Result">afin d'</DiscourseConnective>
+        </Alignment>éviter que de nouveaux tests impliquant des animaux soient nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24811" docOffset="168">
+      <en>Finally, many thanks to the rapporteur for her thorough work on this important piece of European legislation tackling food safety, as well as consumer protection, and animal health and welfare.</en>
+      <fr>
+        <DiscourseConnective annotation_id="28439">Pour terminer</DiscourseConnective>, je remercie sincèrement la rapporteure <DiscourseConnective annotation_id="28493">pour</DiscourseConnective> son travail approfondi sur cet important règlement européen, qui traite de la sécurité alimentaire, de la protection des consommateurs, <DiscourseConnective annotation_id="28634">ainsi</DiscourseConnective> que de la santé <DiscourseConnective annotation_id="28656">et</DiscourseConnective> du bien-être des animaux.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25005" id="504" name="Satu Hassi">
+    <ParallelChunk annotation_id="25005" docOffset="169">
+      <en>(FI) Madam President, ladies and gentlemen, my many thanks go to Mrs Liotard for her fine work and excellent report.</en>
+      <fr>(FI) Madame la Présidente, Mesdames <DiscourseConnective annotation_id="28721">et</DiscourseConnective> Messieurs, je commencerai par remercier vivement Mme Liotard <DiscourseConnective annotation_id="28785">pour</DiscourseConnective> ce travail de qualité <DiscourseConnective annotation_id="28812">et</DiscourseConnective> cet excellent rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25122" docOffset="170">
+      <en>I am especially pleased that the committee took the risks of nanomaterials seriously and wants to ban the use of meat from cloned animals.</en>
+      <fr>Je me réjouis <DiscourseConnective annotation_id="28852">surtout que</DiscourseConnective> la commission ait pris au sérieux les risques que présentent les nanomatériaux <DiscourseConnective annotation_id="28943">et</DiscourseConnective> veuille interdire l'utilisation de viande d'animaux clonés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25261" docOffset="171">
+      <en>After all, cloning causes great distress to animals.</en>
+      <fr>
+        <DiscourseConnective annotation_id="29006">Après tout</DiscourseConnective>, le clonage les fait souffrir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25314" docOffset="172">
+      <en>I <DiscourseConnective annotation_id="25316" sense="Expansion.Conjunction">also</DiscourseConnective> regard Amendment 60 as important.</en>
+      <fr>Je considère que l'amendement 60 est <DiscourseConnective annotation_id="29085">aussi</DiscourseConnective> important.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25355" docOffset="173">
+      <en>The intention is that products from animals that have been fed with genetically modified feeding stuffs, that is to say milk, eggs and meat, must be labelled, <DiscourseConnective annotation_id="25514" sense="Expansion.Conjunction">and</DiscourseConnective> I hope this receives the support of Parliament as a whole.</en>
+      <fr>Il demande l'étiquetage obligatoire des produits provenant d'animaux ayant consommé des aliments génétiquement modifiés: lait, œufs, viande. J'espère que l'Assemblée tout entière soutiendra cet amendement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25577" docOffset="174">
+      <en>European consumers shun genetically modified food, <Alignment alignment="29381" annotation_id="25628">
+          <DiscourseConnective annotation_id="25628" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> plant-derived genetically modified food that has to be labelled is hardly found in the shops at all.</en>
+      <fr>Les consommateurs européens refusent les aliments génétiquement modifiés <Alignment alignment="16832" annotation_id="29381">
+          <DiscourseConnective annotation_id="29381" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, dans les magasins, on ne trouve presque pas d'aliments d'origine végétale génétiquement modifiés qui doivent être étiquetés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25733" docOffset="175">
+      <en>With feed, <Alignment alignment="29510" annotation_id="25744">
+          <DiscourseConnective annotation_id="25744" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, there is a gaping loophole, which makes it possible to bring genetically modified feed to our dining tables.</en>
+      <fr>
+        <Alignment alignment="37532" annotation_id="29510">
+          <DiscourseConnective annotation_id="29510" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment>, pour ce qui est des aliments pour animaux, nous sommes devant un trou béant par lequel les aliments génétiquement modifiés pourraient se frayer un chemin <DiscourseConnective annotation_id="29670">jusqu'à</DiscourseConnective> nos assiettes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25862" docOffset="176">
+      <en>A good deal of European feed is imported from elsewhere in the world, and mainly from Brazil and Argentina, where the share of genetically modified feeding stuffs is huge.</en>
+      <fr>En Europe, une large part des aliments pour bétail est importée d'autres régions du monde, principalement du Brésil <DiscourseConnective annotation_id="29809">et</DiscourseConnective> de l'Argentine où le pourcentage d'aliments pour bétail génétiquement modifiés est énorme.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26034" docOffset="177">
+      <en>It is time we extended the principle of transparency to feed and the idea of genetically modified labelling to animal products.</en>
+      <fr>L'heure est venue d'étendre le principe de transparence <DiscourseConnective annotation_id="29959">à</DiscourseConnective> l'alimentation animale <DiscourseConnective annotation_id="29984">et</DiscourseConnective> l'idée de l'étiquetage des organismes génétiquement modifiés aux produits animaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26162" docOffset="178">
+      <en>The Prime Minister in my country supported this idea two years ago, <Alignment alignment="30129" annotation_id="26230">
+          <DiscourseConnective annotation_id="26230" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I hope that Finland will <DiscourseConnective annotation_id="26259" sense="Expansion.Conjunction">also</DiscourseConnective> support it in the Council of Ministers.</en>
+      <fr>Mon Premier ministre a soutenu cette idée il y a deux ans, <Alignment alignment="26230" annotation_id="30129">
+          <DiscourseConnective annotation_id="30129" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'espère <DiscourseConnective annotation_id="30141">que</DiscourseConnective> la Finlande la soutiendra au Conseil de ministres.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="26304" id="505" name="Avril Doyle">
+    <ParallelChunk annotation_id="26304" docOffset="179">
+      <en>Madam President, I welcome the revision of the Novel Food Regulation, which must stimulate innovation in the food and drink industry.</en>
+      <fr>(EN) Madame la Présidente, je salue la révision du règlement sur les nouveaux aliments, qui doit stimuler l'innovation dans l'industrie des denrées alimentaires <DiscourseConnective annotation_id="30357">et</DiscourseConnective> des boissons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26438" docOffset="180">
+      <en>It must protect the functioning of the internal market and public health and, at the same time, facilitate market access for novel foods.</en>
+      <fr>Il doit aussi protéger le fonctionnement du marché intérieur <DiscourseConnective annotation_id="30435">et</DiscourseConnective> la santé publique, <DiscourseConnective annotation_id="30457">ainsi</DiscourseConnective> que faciliter l'accès au marché <DiscourseConnective annotation_id="30495">pour</DiscourseConnective> les nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26576" docOffset="181">
+      <en>
+        <Alignment alignment="30528" annotation_id="26576">
+          <DiscourseConnective annotation_id="26576" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I have some concerns generally about what I will call the scientific antipathy and distrust of this European Parliament - and, indeed, of our national parliaments - which has become a matter of serious concern on a whole range of areas at this stage.</en>
+      <fr>J'ai <Alignment alignment="33786" annotation_id="30528">
+          <DiscourseConnective annotation_id="30528" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> certaines préoccupations générales <DiscourseConnective annotation_id="30573">quant à</DiscourseConnective> ce que j'appellerais l'antipathie <DiscourseConnective annotation_id="30615">et</DiscourseConnective> la méfiance scientifique de ce Parlement européen - <DiscourseConnective annotation_id="30670">et</DiscourseConnective> <DiscourseConnective annotation_id="30673">aussi</DiscourseConnective> de nos parlements nationaux -, qui commence à susciter bien des préoccupations dans tout un éventail de domaines <DiscourseConnective annotation_id="30792">à</DiscourseConnective> ce stade.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26836" docOffset="182">
+      <en>We do not do justice to ourselves with emotive, hysterical or populist responses to the latest peer-reviewed scientific developments, <Alignment alignment="30963" annotation_id="26970">
+          <DiscourseConnective annotation_id="26970" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we do not do justice to our democratic mandate.</en>
+      <fr>Nous ne nous rendons pas service avec des réactions émotives, hystériques <DiscourseConnective annotation_id="30878">ou</DiscourseConnective> populistes face aux derniers développements scientifiques reconnus par les pairs, <Alignment alignment="26970" annotation_id="30963">
+          <DiscourseConnective annotation_id="30963" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> nous ne faisons pas honneur <DiscourseConnective annotation_id="30994">à</DiscourseConnective> notre mandat démocratique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27022" docOffset="183">
+      <en>
+        <Alignment alignment="30088" annotation_id="27022">
+          <DiscourseConnective annotation_id="27022" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> GM products, cloning and nanotechnology are mentioned in this House, then it is belt-and-braces <Alignment alignment="31172" annotation_id="27123">
+          <DiscourseConnective annotation_id="27123" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the answer is 'no'; <Alignment alignment="19717" annotation_id="27147">
+          <DiscourseConnective annotation_id="27147" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment>, we slowly open up and delay authorisation.</en>
+      <fr>
+        <Alignment alignment="19261" annotation_id="31023">
+          <DiscourseConnective annotation_id="31023" sense="Temporal.Synchrony">Dès que</DiscourseConnective>
+        </Alignment> les produits génétiquement modifiés, le clonage <DiscourseConnective annotation_id="31079">et</DiscourseConnective> les nanotechnologies sont mentionnés dans cette Assemblée, la prudence est le mot d'ordre <Alignment alignment="12841" annotation_id="31172">
+          <DiscourseConnective annotation_id="31172" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la réponse est "non"; <Alignment alignment="7817" annotation_id="31197">
+          <DiscourseConnective annotation_id="31197" sense="Temporal.Asynchronous.Precedence">ensuite</DiscourseConnective>
+        </Alignment> seulement, nous nous tranquillisons lentement <DiscourseConnective annotation_id="31251">et</DiscourseConnective> nous retardons l'autorisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27196" docOffset="184">
+      <en>I am concerned with EFSA, Madam Commissioner, and whether it has the resource capacity to process dossiers under this regulation in a timely but thorough way.</en>
+      <fr>Je suis préoccupée au sujet de l'EFSA, Madame la Commissaire, <DiscourseConnective annotation_id="31347">et</DiscourseConnective> de sa capacité <DiscourseConnective annotation_id="31365">à</DiscourseConnective> traiter les dossiers conformément à ce règlement <DiscourseConnective annotation_id="31416">en</DiscourseConnective> temps utile, <DiscourseConnective annotation_id="31432">mais</DiscourseConnective> d'une manière approfondie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27355" docOffset="185">
+      <en>
+        <Alignment alignment="34201" annotation_id="27355">
+          <DiscourseConnective annotation_id="27355" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> our embarrassing experience with the GM food and feed authorisations and rate of progress thereon are anything to go by, the answer must be 'no'.</en>
+      <fr>
+        <Alignment alignment="32154" annotation_id="31464">
+          <DiscourseConnective annotation_id="31464" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il faut se fier à notre expérience embarrassante avec les autorisations de denrées alimentaires <DiscourseConnective annotation_id="31562">et</DiscourseConnective> d'aliments pour animaux génétiquement modifiés <DiscourseConnective annotation_id="31612">et</DiscourseConnective> à la vitesse des progrès <DiscourseConnective annotation_id="31640">en</DiscourseConnective> la matière, la réponse doit être "non".</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27504" docOffset="186">
+      <en>Why do we respond <Alignment alignment="31747" annotation_id="27522">
+          <Alignment alignment="20253" annotation_id="27522">
+            <DiscourseConnective annotation_id="27522" sense="Expansion.Conjunction">as if</DiscourseConnective>
+          </Alignment>
+        </Alignment> we are scientific illiterates on any new aspect of this area?</en>
+      <fr>Pourquoi réagissons-nous <DiscourseConnective annotation_id="31708">à</DiscourseConnective> chaque nouvel aspect dans ce domaine <Alignment alignment="19905" annotation_id="31747">
+          <Alignment alignment="27030" annotation_id="31747">
+            <DiscourseConnective annotation_id="31747" sense="Expansion.Conjunction">comme si</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous n'y connaissions rien en sciences?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27590" docOffset="187">
+      <en>Why do we distrust peer-reviewed science to such an extent?</en>
+      <fr>Pourquoi nous méfions-nous autant des avis scientifiques révisés par les pairs?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27650" docOffset="188">
+      <en>Have none of us, or very few of us, scientific backgrounds in this Parliament at all?</en>
+      <fr>Est-ce que personne <DiscourseConnective annotation_id="31896">ou</DiscourseConnective> presque dans ce Parlement n'a reçu une formation scientifique?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27736" docOffset="189">
+      <en>The same question can be asked of national parliaments.</en>
+      <fr>La <DiscourseConnective annotation_id="31965">même</DiscourseConnective> question peut être posée aux parlements nationaux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27792" docOffset="190">
+      <en>We must base legislation on thorough, serious science and accept that.</en>
+      <fr>Nous devons fonder la législation sur des avis scientifiques approfondis et sérieux <DiscourseConnective annotation_id="32105">et</DiscourseConnective> l'accepter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27863" docOffset="191">
+      <en>If not, our credibility as legislators is in question.</en>
+      <fr>
+        <DiscourseConnective annotation_id="32120">Faute de quoi</DiscourseConnective>, notre crédibilité en <DiscourseConnective annotation_id="32156">tant que</DiscourseConnective> législateurs est <DiscourseConnective annotation_id="32182">en</DiscourseConnective> cause.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="27918" id="506" name="Czesław Adam Siekierski">
+    <ParallelChunk annotation_id="27918" docOffset="192">
+      <en>(PL) Madam President, guided by what is good for consumers, and taking into account the great extent to which the food we consume affects our health, I agree with the rapporteur's view that we need to clearly define the purpose of the regulations on novel foods.</en>
+      <fr>(PL) Madame la Présidente, animé par la recherche de ce qui est bon <DiscourseConnective annotation_id="32260">pour</DiscourseConnective> le consommateur <DiscourseConnective annotation_id="32281">et</DiscourseConnective> vu la forte influence de notre alimentation sur notre santé, <DiscourseConnective annotation_id="32345">comme</DiscourseConnective> Madame la rapporteure, je suis d'avis <DiscourseConnective annotation_id="32389">que</DiscourseConnective> nous devons définir clairement le but des règlements sur les nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28181" docOffset="193">
+      <en>We should make all efforts to ensure that the transparency and effectiveness of the system of issuing permits for novel foods will ensure consumer safety and improve the functioning of the internal market.</en>
+      <fr>Nous devons faire notre possible <DiscourseConnective annotation_id="32506">pour que</DiscourseConnective> la transparence <DiscourseConnective annotation_id="32531">et</DiscourseConnective> l'efficacité du système d'octroi d'autorisations <DiscourseConnective annotation_id="32583">pour</DiscourseConnective> les nouveaux aliments garantissent la sécurité des consommateurs <DiscourseConnective annotation_id="32653">et</DiscourseConnective> améliorent le fonctionnement du marché intérieur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28387" docOffset="194">
+      <en>In my opinion, the current definition of novel food must be refined, taking into account the general principles and requirements of food legislation.</en>
+      <fr>J'estime qu'il faut peaufiner la définition actuelle des nouveaux aliments <DiscourseConnective annotation_id="32781">en</DiscourseConnective> vertu des principes généraux <DiscourseConnective annotation_id="32813">et</DiscourseConnective> des exigences de la législation alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28537" docOffset="195">
+      <en>I believe that a food product should only be marketed <DiscourseConnective annotation_id="28591" sense="Temporal.Synchrony">when</DiscourseConnective> it does not mislead the consumer, it is completely safe <Alignment alignment="10727" annotation_id="28652">
+          <DiscourseConnective annotation_id="28652" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the nutritional value of the product has not been impaired.</en>
+      <fr>À mes yeux, un produit alimentaire qui trompe le consommateur ne doit pas être commercialisé; il ne peut être mis sur le marché que s'il est totalement sûr <Alignment alignment="28652" annotation_id="33017">
+          <DiscourseConnective annotation_id="33017" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> si sa valeur nutritionnelle n'a pas été altérée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28716" docOffset="196">
+      <en>As the substances or compounds thereof have not yet been used for human consumption, particular care should be taken in making any decisions relating to their legal regulation.</en>
+      <fr>Ces substances <DiscourseConnective annotation_id="33084">ou</DiscourseConnective> les composés de ces substances n'ayant <DiscourseConnective annotation_id="33126">encore</DiscourseConnective> jamais servi à des fins d'alimentation humaine, une attention toute particulière doit être portée aux initiatives législatives <DiscourseConnective annotation_id="33260">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28893" docOffset="197">
+      <en>I support all activities that will help maintain a high level of food safety, and those who talk about ...</en>
+      <fr>Je soutiens toute initiative qui contribuera à garantir un haut niveau de sécurité alimentaire <DiscourseConnective annotation_id="33370">et</DiscourseConnective> ceux qui parlent de (...).</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="29000" id="507" name="Androulla Vassiliou">
+    <ParallelChunk annotation_id="29000" docOffset="198">
+      <en>Member of the Commission. - Madam President, I would like to elaborate on a few very important points which were made by honourable Members.</en>
+      <fr>membre de la Commission. - (EN) Madame la Présidente, je voudrais me pencher sur certaines remarques très importantes <DiscourseConnective annotation_id="33518">qu'</DiscourseConnective>ont formulées les députés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29141" docOffset="199">
+      <en>Concerning nanotechnologies, I have taken note of recent scientific opinions <Alignment alignment="30138" annotation_id="29218">
+          <DiscourseConnective annotation_id="29218" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I am convinced by the related documents in Mrs Liotard's report.</en>
+      <fr>Concernant les nanotechnologies, j'ai pris note des derniers avis scientifiques <Alignment alignment="15090" annotation_id="33628">
+          <DiscourseConnective annotation_id="33628" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai été convaincus par les documents afférents au rapport de Mme Liotard.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29287" docOffset="200">
+      <en>The European Union will be first in the world to have a regulatory definition of engineered nanomaterials and a coherent and flexible approach to this technology.</en>
+      <fr>L'Union européenne sera la première au mode <DiscourseConnective annotation_id="33750">à</DiscourseConnective> se doter d'une définition réglementaire des nanomatériaux fabriqués <DiscourseConnective annotation_id="33820">et</DiscourseConnective> d'une approche cohérente <DiscourseConnective annotation_id="33848">et</DiscourseConnective> flexible vis-à-vis de cette technologie.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29450" docOffset="201">
+      <en>In order to clarify the Commission's position on the definition of nanotechnologies, I would like to make the following statement on behalf of the Commission.</en>
+      <fr>
+        <DiscourseConnective annotation_id="33892">Afin de</DiscourseConnective> préciser la position de la Commission sur la définition des nanotechnologies, je tiens <DiscourseConnective annotation_id="33987">à</DiscourseConnective> faire la déclaration suivante au nom de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29609" docOffset="202">
+      <en>The Commission notes that work towards a common definition of nanomaterials is still evolving.</en>
+      <fr>La Commission constate <DiscourseConnective annotation_id="34067">que</DiscourseConnective> les travaux sur une définition commune des nanomatériaux sont toujours en cours.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29704" docOffset="203">
+      <en>The Commission <Alignment alignment="80940" annotation_id="29719">
+          <DiscourseConnective annotation_id="29719" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> confirms that, in future Community legislation, progress on the common definition should be taken into account, <Alignment alignment="37440" annotation_id="29841">
+          <DiscourseConnective annotation_id="29841" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> notes that the comitology procedures included in this proposal <Alignment alignment="38910" annotation_id="29908">
+          <DiscourseConnective annotation_id="29908" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> enable the definition in this proposal to be updated.</en>
+      <fr>Elle confirme <Alignment alignment="7994" annotation_id="34166">
+          <DiscourseConnective annotation_id="34166" sense="Contingency.Cause.Result">dès lors que</DiscourseConnective>
+        </Alignment>, dans la future législation communautaire, il faudra tenir compte des progrès réalisés au niveau de la définition commune, <Alignment alignment="6558" annotation_id="34302">
+          <DiscourseConnective annotation_id="34302" sense="Expansion.Conjunction">de même qu'</DiscourseConnective>
+        </Alignment>elle note <DiscourseConnective annotation_id="34323">que</DiscourseConnective> les procédures de comitologie visées dans cette proposition permettent <Alignment alignment="6949" annotation_id="34398">
+          <DiscourseConnective annotation_id="34398" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> une mise à jour de cette définition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29967" docOffset="204">
+      <en>Regarding the mandatory labelling of all food produced with the aid of nanotechnology, I would like to note that the Commission is <Alignment alignment="45297" annotation_id="30098">
+          <DiscourseConnective annotation_id="30098" sense="Expansion.Conjunction">indeed</DiscourseConnective>
+        </Alignment> in favour of consumer information about the presence of nanomaterials in food.</en>
+      <fr>
+        <DiscourseConnective annotation_id="34441">Quant à</DiscourseConnective> l'étiquetage obligatoire de tous les aliments produits <DiscourseConnective annotation_id="34504">à</DiscourseConnective> l'aide des nanotechnologies, je voudrais souligner <DiscourseConnective annotation_id="34557">que</DiscourseConnective> la Commission est <Alignment alignment="1642" annotation_id="34579">
+          <DiscourseConnective annotation_id="34579" sense="Expansion.Conjunction">en effet</DiscourseConnective>
+        </Alignment> favorable à ce que le consommateur soit informé de la présence de nanomatériaux dans les aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30184" docOffset="205">
+      <en>
+        <Alignment alignment="34734" annotation_id="30184">
+          <DiscourseConnective annotation_id="30184" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, under the Novel Food Regulation we have a case-by-case authorisation which <DiscourseConnective annotation_id="30268" sense="Expansion.Conjunction">also</DiscourseConnective> lays down conditions for use of such products, including the labelling requirements.</en>
+      <fr>Le règlement sur les nouveaux aliments prévoit <Alignment alignment="3450" annotation_id="34734">
+          <DiscourseConnective annotation_id="34734" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> une autorisation au cas par cas qui définit les conditions <DiscourseConnective annotation_id="34803">à</DiscourseConnective> l'utilisation de ces produits, en ce compris les exigences en matière d'étiquetage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30358" docOffset="206">
+      <en>Labelling will <Alignment alignment="34907" annotation_id="30373">
+          <DiscourseConnective annotation_id="30373" sense="Contingency.Cause.Result">thus</DiscourseConnective>
+        </Alignment> be examined on a case-by-case basis.</en>
+      <fr>L'étiquetage sera <Alignment alignment="8776" annotation_id="34907">
+          <DiscourseConnective annotation_id="34907" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> examiné au cas par cas.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30415" docOffset="207">
+      <en>Let me now clarify my position on the important issue of cloning.</en>
+      <fr>Permettez-moi <DiscourseConnective annotation_id="34950">maintenant</DiscourseConnective> de clarifier ma position concernant l'importante problématique du clonage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30481" docOffset="208">
+      <en>I have already stated that I consider that the Novel Food Regulation is not the most suitable instrument for managing all the issues of cloning.</en>
+      <fr>J'ai <DiscourseConnective annotation_id="35041">déjà</DiscourseConnective> indiqué <DiscourseConnective annotation_id="35054">que</DiscourseConnective> je ne pensais pas <DiscourseConnective annotation_id="35076">que</DiscourseConnective> le règlement sur les nouveaux aliments était l'instrument le plus approprié <DiscourseConnective annotation_id="35156">pour</DiscourseConnective> gérer toutes les questions du clonage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30626" docOffset="209">
+      <en>Novel Food only deals with food safety and market authorisation.</en>
+      <fr>Le règlement sur les nouveaux aliments ne concerne que la sécurité alimentaire <DiscourseConnective annotation_id="35279">et</DiscourseConnective> l'autorisation de mise sur le marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30691" docOffset="210">
+      <en>
+        <Alignment alignment="59713" annotation_id="30691">
+          <DiscourseConnective annotation_id="30691" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment> the use of clones in breeding programmes - semen, embryos and ova - cannot be regulated under the Novel Food Regulation, <DiscourseConnective annotation_id="30822" sense="Expansion.Conjunction">nor</DiscourseConnective> can issues linked to animal health and welfare be addressed here.</en>
+      <fr>
+        <Alignment alignment="2737" annotation_id="35320">
+          <DiscourseConnective annotation_id="35320" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, l'utilisation de clones dans les programmes d'élevage - le sperme, les embryons <DiscourseConnective annotation_id="35416">et</DiscourseConnective> les ovules - ne peut être réglementée dans le cadre du règlement sur les denrées alimentaires, de même que les questions liées <DiscourseConnective annotation_id="35546">à</DiscourseConnective> la santé <DiscourseConnective annotation_id="35557">et</DiscourseConnective> au bien-être des aliments ne peuvent être abordées ici.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30892" docOffset="211">
+      <en>On 13 January, the College of Commissioners held an orientation debate on the cloning of farm animals for food production.</en>
+      <fr>Le 13 janvier, le Collège des commissaires a eu un débat d'orientation sur le clonage d'animaux de ferme à des fins de production alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31015" docOffset="212">
+      <en>The Commission agreed that there remain a number of unanswered questions.</en>
+      <fr>La Commission a reconnu <DiscourseConnective annotation_id="35783">que</DiscourseConnective> plusieurs questions demeuraient sans réponse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31089" docOffset="213">
+      <en>In this respect the Commission is working closely with EFSA and ensuring that related scientific research is conducted.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35833">À cet égard</DiscourseConnective>, la Commission travaille en étroite collaboration avec l'EFSA <DiscourseConnective annotation_id="35907">et</DiscourseConnective> veille à ce <DiscourseConnective annotation_id="35922">que</DiscourseConnective> des recherches scientifiques soient effectuées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31209" docOffset="214">
+      <en>At the same time, I launched discussions with our main trading partners: the United States, Canada, Japan, Australia and New Zealand.</en>
+      <fr>Dans le <DiscourseConnective annotation_id="35982">même</DiscourseConnective> temps, j'ai lancé des discussions avec nos principaux partenaires commerciaux: les États-Unis, le Canada, le Japon, l'Australie <DiscourseConnective annotation_id="36115">et</DiscourseConnective> la Nouvelle-Zélande.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31343" docOffset="215">
+      <en>Yes, we need more information and data on cloning techniques and the way in which progenies of cloned animals should be handled from a regulatory perspective.</en>
+      <fr>Oui, nous avons besoin <DiscourseConnective annotation_id="36162">de plus</DiscourseConnective> d'informations <DiscourseConnective annotation_id="36185">et</DiscourseConnective> de données sur les techniques de clonage <DiscourseConnective annotation_id="36229">et</DiscourseConnective> sur la façon dont la progéniture d'animaux clonés devrait être considérée dans une perspective réglementaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31502" docOffset="216">
+      <en>
+        <Alignment alignment="90328" annotation_id="31502">
+          <DiscourseConnective annotation_id="31502" sense="Temporal.Synchrony">As</DiscourseConnective>
+        </Alignment> some of you have mentioned, in July last year the European Food Safety Authority delivered its opinion covering the scientific aspects of cloning for food in the EU.</en>
+      <fr>
+        <Alignment alignment="16914" annotation_id="36342">
+          <DiscourseConnective annotation_id="36342" sense="Temporal.Synchrony">Comme</DiscourseConnective>
+        </Alignment> certains d'entre vous l'ont indiqué, l'Autorité européenne de sécurité des aliments a rendu <DiscourseConnective annotation_id="36440">en</DiscourseConnective> juillet dernier son avis sur les aspects scientifiques du clonage <DiscourseConnective annotation_id="36509">à</DiscourseConnective> des fins alimentaires au sein de l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31671" docOffset="217">
+      <en>The general conclusion of the opinion is that the risk assessment is insufficient due to the limited data available.</en>
+      <fr>La conclusion générale de cet avis est <DiscourseConnective annotation_id="36589">que</DiscourseConnective> l'évaluation des risques est insuffisante en raison de la disponibilité limitée des données.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31788" docOffset="218">
+      <en>With regard to the health and welfare of animals, the opinion makes it clear that a significant proportion of clones have been found to be adversely affected, often severely, and with a fatal outcome both for cloned animals and for the surrogate animal.</en>
+      <fr>Concernant la santé <DiscourseConnective annotation_id="36706">et</DiscourseConnective> le bien-être des animaux, l'avis indique clairement qu'il a été constaté qu'une proportion significative de clones avait été négativement affectée, souvent sévèrement, avec une issue fatale <DiscourseConnective annotation_id="36899">pour</DiscourseConnective> les animaux clonés <DiscourseConnective annotation_id="36923">et</DiscourseConnective> <DiscourseConnective annotation_id="36926">pour</DiscourseConnective> l'animal porteur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32042" docOffset="219">
+      <en>The opinion of the European Group on Ethics <Alignment alignment="36993" annotation_id="32086">
+          <DiscourseConnective annotation_id="32086" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> highlights a number of scientific questions that need to be answered, and research that needs to be carried out, on food safety, animal health and welfare, traceability and labelling.</en>
+      <fr>L'avis du Groupe européen d'étique souligne <Alignment alignment="34412" annotation_id="36993">
+          <DiscourseConnective annotation_id="36993" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> plusieurs questions scientifiques qui doivent trouver réponse <DiscourseConnective annotation_id="37061">et</DiscourseConnective> des recherches <DiscourseConnective annotation_id="37079">à</DiscourseConnective> effectuer sur la sécurité alimentaire, la santé <DiscourseConnective annotation_id="37129">et</DiscourseConnective> le bien-être des animaux, la traçabilité <DiscourseConnective annotation_id="37173">et</DiscourseConnective> l'étiquetage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32275" docOffset="220">
+      <en>In conclusion, I wish to acknowledge that, with regard to cloning, there is certainly an issue to be addressed, <Alignment alignment="37306" annotation_id="32387">
+          <DiscourseConnective annotation_id="32387" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> the Novel Food Regulation is not the right place to regulate all the questions surrounding this sensitive matter.</en>
+      <fr>
+        <DiscourseConnective annotation_id="37190">En</DiscourseConnective> conclusion, je souhaite reconnaître <DiscourseConnective annotation_id="37229">que</DiscourseConnective>, concernant le clonage, il y a certainement une problématique <DiscourseConnective annotation_id="37295">à</DiscourseConnective> aborder, <Alignment alignment="7805" annotation_id="37306">
+          <DiscourseConnective annotation_id="37306" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> le règlement sur les nouveaux aliments n'est pas l'instrument approprié <DiscourseConnective annotation_id="37383">pour</DiscourseConnective> réglementer toutes les questions afférentes à ce sujet sensible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32505" docOffset="221">
+      <en>
+        <Alignment alignment="37465" annotation_id="32505">
+          <DiscourseConnective annotation_id="32505" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, I would like to make a commitment, on behalf of the Commission, to produce, as soon as possible, a comprehensive report on all aspects of cloning techniques with a view to the production of foodstuffs, including animal health and welfare in relation to clones and their offspring, accompanied, <DiscourseConnective annotation_id="32813" sense="Contingency.Condition">if</DiscourseConnective> appropriate, by legislative proposals.</en>
+      <fr>Je voudrais <Alignment alignment="11194" annotation_id="37465">
+          <DiscourseConnective annotation_id="37465" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> m'engager, au nom de la Commission, <DiscourseConnective annotation_id="37511">à</DiscourseConnective> produire <DiscourseConnective annotation_id="37522">dès que</DiscourseConnective> possible un rapport complet sur tous les aspects des techniques de clonage <DiscourseConnective annotation_id="37605">à</DiscourseConnective> des fins de production alimentaire, en ce compris la santé <DiscourseConnective annotation_id="37666">et</DiscourseConnective> le bien-être des animaux concernant les clones <DiscourseConnective annotation_id="37716">et</DiscourseConnective> leur progéniture, lequel rapport sera accompagné, le cas échéant, de propositions législatives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32855" docOffset="222">
+      <en>Let me stress that I believe that a solution can be found on the issue <Alignment alignment="34990" annotation_id="32926">
+          <DiscourseConnective annotation_id="32926" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, in this respect, I thank Parliament for its understanding and cooperation.</en>
+      <fr>Permettez-moi de souligner qu'une solution peut selon moi être trouvée <DiscourseConnective annotation_id="37886">à</DiscourseConnective> ce problème <Alignment alignment="13414" annotation_id="37900">
+          <DiscourseConnective annotation_id="37900" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="37904">à cet égard</DiscourseConnective>, je remercie le Parlement <DiscourseConnective annotation_id="37942">pour</DiscourseConnective> sa compréhension <DiscourseConnective annotation_id="37964">et</DiscourseConnective> sa coopération.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33006" docOffset="223">
+      <en>Liotard report</en>
+      <fr>Rapport Liotard</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33021" docOffset="224">
+      <en>The Commission can accept Amendments 7, 12, 34, 35, 41, 42, 44, 45, 53 and 63.</en>
+      <fr>La Commission peut accepter les amendements 7, 12, 34, 35, 41, 42, 44, 45, 53 <DiscourseConnective annotation_id="38077">et</DiscourseConnective> 63.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33100" docOffset="225">
+      <en>Amendments 3, 8, 15, 20, 58, 64, 65, 76, 87, 88 and 89 can be accepted in principle.</en>
+      <fr>Les amendements 3, 8, 15, 20, 58, 64, 65, 76, 87, 88 <DiscourseConnective annotation_id="38137">et</DiscourseConnective> 89 peuvent être acceptés <DiscourseConnective annotation_id="38165">en</DiscourseConnective> principe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33185" docOffset="226">
+      <en>Amendments 1, 6, 10, 25, 30, 31, 36, 40, 66, 67, 69, 77, 82, 84, 85 and 93 are acceptable subject to rewording.</en>
+      <fr>Les amendements 1, 6, 10, 25, 30, 31, 36, 40, 66, 67, 69, 77, 82, 84, 85 <DiscourseConnective annotation_id="38251">et</DiscourseConnective> 93 sont acceptables moyennant leur reformulation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33297" docOffset="227">
+      <en>The Commission cannot accept Amendments 2, 4, 5, 9, 11, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32, 33, 37, 38, 39, 43, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 59, 60, 61, 62, 68, 70, 71, 72, 73, 74, 75, 78, 79, 80, 81, 83, 86, 90, 91 and 92.</en>
+      <fr>La Commission ne peut pas accepter les amendements 2, 4, 5, 9, 11, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32, 33, 37, 38, 39, 43, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 59, 60, 61, 62, 68, 70, 71, 72, 73, 74, 75, 78, 79, 80, 81, 83, 86, 90, 91 et 92.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="33564" id="509" name="Kartika Tamara Liotard">
+    <ParallelChunk annotation_id="33564" docOffset="228">
+      <en>rapporteur. - (NL) Madam President, I would like to express my sincere thanks to my fellow Members for their input into the debate <Alignment alignment="35797" annotation_id="33695">
+          <DiscourseConnective annotation_id="33695" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> for the support I have received for various points in my report.</en>
+      <fr>rapporteure. - (NL) Madame la Présidente, permettez-moi d'adresser mes plus sincères remerciements aux députés qui ont contribué au débat <Alignment alignment="4219" annotation_id="38719">
+          <DiscourseConnective annotation_id="38719" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> qui m'ont soutenue sur plusieurs points du rapport.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33764" docOffset="229">
+      <en>There were some critical comments too, of course. That, too, I am happy with, <Alignment alignment="26526" annotation_id="33842">
+          <DiscourseConnective annotation_id="33842" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> it can only be good for the debate.</en>
+      <fr>Il y a bien sûr <DiscourseConnective annotation_id="38790">aussi</DiscourseConnective> eu quelques critiques, dont je me réjouis <Alignment alignment="12712" annotation_id="38838">
+          <DiscourseConnective annotation_id="38838" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> elles ne peuvent <DiscourseConnective annotation_id="38859">que</DiscourseConnective> faire avancer le débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33881" docOffset="230">
+      <en>Our aim is to guarantee to consumers that food produced on the back of new technologies or new food coming onto the market is safe.</en>
+      <fr>Nous voulons garantir aux consommateurs <DiscourseConnective annotation_id="38927">que</DiscourseConnective> les aliments produits grâce aux nouvelles technologies <DiscourseConnective annotation_id="38986">ou</DiscourseConnective> les nouveaux aliments mis sur le marché sont sûrs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34013" docOffset="231">
+      <en>Through our input and our proposals, we will succeed in achieving this aim.</en>
+      <fr>Notre travail <DiscourseConnective annotation_id="39054">et</DiscourseConnective> nos propositions nous permettront d'y parvenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34089" docOffset="232">
+      <en>This will <Alignment alignment="39125" annotation_id="34099">
+          <DiscourseConnective annotation_id="34099" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> provide certainty for those producers looking to innovate, in that they will now know what is allowed <Alignment alignment="39225" annotation_id="34206">
+          <DiscourseConnective annotation_id="34206" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what is not.</en>
+      <fr>Nous pourrons alors <Alignment alignment="1395" annotation_id="39125">
+          <DiscourseConnective annotation_id="39125" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> rassurer les producteurs qui souhaitent innover et qui sauront <DiscourseConnective annotation_id="39198">dès lors</DiscourseConnective> ce qu'ils peuvent <Alignment alignment="3883" annotation_id="39225">
+          <DiscourseConnective annotation_id="39225" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ne peuvent pas faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34223" docOffset="233">
+      <en>The report <Alignment alignment="1205" annotation_id="34234">
+          <DiscourseConnective annotation_id="34234" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> covers data protection in relation to those producers, something that <DiscourseConnective annotation_id="34309" sense="Expansion.Conjunction">also</DiscourseConnective> promotes innovation in the field of food safety.</en>
+      <fr>Le rapport aborde <Alignment alignment="4921" annotation_id="39268">
+          <DiscourseConnective annotation_id="39268" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+        </Alignment> la question de la protection des données de ces producteurs, ce qui stimule l'innovation dans le domaine de la sécurité alimentaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34363" docOffset="234">
+      <en>I would, <Alignment alignment="39423" annotation_id="34372">
+          <DiscourseConnective annotation_id="34372" sense="Expansion.Conjunction">in addition</DiscourseConnective>
+        </Alignment>, like to offer my heartfelt thanks to the Commissioner for what she said about nanotechnology.</en>
+      <fr>Je tiens <Alignment alignment="18716" annotation_id="39423">
+          <DiscourseConnective annotation_id="39423" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="39429">à</DiscourseConnective> remercier du fond du cœur Mme la commissaire <DiscourseConnective annotation_id="39476">pour</DiscourseConnective> ses propos sur les nanotechnologies.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34479" docOffset="235">
+      <en>In this field it is true that there is still much change to come, <DiscourseConnective annotation_id="34545" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="39600" annotation_id="34549">
+          <DiscourseConnective annotation_id="34549" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we lay down a definition now, at the beginning, it must be possible to revise it <DiscourseConnective annotation_id="34633" sense="Temporal.Synchrony">as</DiscourseConnective> the science moves on.</en>
+      <fr>Il est vrai <DiscourseConnective annotation_id="39530">que</DiscourseConnective>, dans ce domaine, nous assisterons <DiscourseConnective annotation_id="39569">encore</DiscourseConnective> à bien des changements. <Alignment alignment="15210" annotation_id="39600">
+          <DiscourseConnective annotation_id="39600" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous fixons une définition dès le départ, il faudra pouvoir la modifier au fil des progrès scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34658" docOffset="236">
+      <en>I would <Alignment alignment="39721" annotation_id="34666">
+          <DiscourseConnective annotation_id="34666" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to thank the Commissioner for what she said about animal cloning.</en>
+      <fr>Je remercie <Alignment alignment="7491" annotation_id="39721">
+          <DiscourseConnective annotation_id="39721" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment> Mme la commissaire <DiscourseConnective annotation_id="39746">pour</DiscourseConnective> son intervention sur le clonage animal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34742" docOffset="237">
+      <en>I would, <Alignment alignment="39791" annotation_id="34751">
+          <DiscourseConnective annotation_id="34751" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, like to point out to you that Parliament has already adopted a resolution in which we make clear that we do not want meat from cloned animals on the market as a foodstuff.</en>
+      <fr>
+        <Alignment alignment="16313" annotation_id="39791">
+          <DiscourseConnective annotation_id="39791" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, j'attirerais votre attention sur le fait <DiscourseConnective annotation_id="39843">que</DiscourseConnective> le Parlement a <DiscourseConnective annotation_id="39862">déjà</DiscourseConnective> adopté une résolution dans laquelle il est clairement dit <DiscourseConnective annotation_id="39925">que</DiscourseConnective> nous refusons que la viande d'animaux clonés soit vendue <DiscourseConnective annotation_id="39986">comme</DiscourseConnective> denrée alimentaire sur nos marchés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34932" docOffset="238">
+      <en>This point, too, comes up again in this report, <Alignment alignment="63103" annotation_id="34980">
+          <DiscourseConnective annotation_id="34980" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I would urge that the cloning of animals be excluded from the regulation on novel foods.</en>
+      <fr>C'est un point qui apparaît aussi dans mon rapport, <Alignment alignment="18166" annotation_id="40080">
+          <DiscourseConnective annotation_id="40080" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> je demanderai <DiscourseConnective annotation_id="40097">que</DiscourseConnective> le clonage animal <DiscourseConnective annotation_id="40119">soit</DiscourseConnective> exclu du règlement sur les nouveaux aliments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35073" docOffset="239">
+      <en>The report calls for that to happen <Alignment alignment="40227" annotation_id="35109">
+          <DiscourseConnective annotation_id="35109" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, <Alignment alignment="38658" annotation_id="35114">
+          <DiscourseConnective annotation_id="35114" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you have just heard, this House is strongly behind the idea.</en>
+      <fr>Le rapport insiste <DiscourseConnective annotation_id="40189">pour que</DiscourseConnective> ce soit effectivement le cas <Alignment alignment="18823" annotation_id="40227">
+          <DiscourseConnective annotation_id="40227" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <Alignment alignment="26981" annotation_id="40231">
+          <DiscourseConnective annotation_id="40231" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous venez de l'entendre, l'Assemblée soutient pleinement cette suggestion.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35178" docOffset="240">
+      <en>Finally, I would like to take this opportunity to offer my sincere thanks to my staff, Thomas, Vivian and Jan-Jaap, who worked very hard alongside us in order to produce this report.</en>
+      <fr>J'en profite aussi pour remercier chaleureusement les membres de mon équipe, Thomas, Vivian <DiscourseConnective annotation_id="40405">et</DiscourseConnective> Jan-Jaap, qui ont travaillé très dur à nos côtés pour que ce rapport puisse voir le jour.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="35361" id="510" name="President">
+    <ParallelChunk annotation_id="35361" docOffset="241">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35383" docOffset="242">
+      <en>The vote will take place on Wednesday.</en>
+      <fr>Le vote aura lieu mercredi.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

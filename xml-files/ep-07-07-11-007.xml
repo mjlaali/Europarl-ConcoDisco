@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Voting time</en>
+    <fr>Heure des votes</fr>
+  </ParallelChunk>
+<Speaker annotation_id="12" id="089" name="President">
+    <ParallelChunk annotation_id="12" docOffset="1">
+      <en>The next item is voting time.</en>
+      <fr>L'ordre du jour appelle l'heure des votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="42" docOffset="2">
+      <en>(For results of the vote and other voting information: see Minutes)</en>
+      <fr>(<DiscourseConnective annotation_id="60">Pour</DiscourseConnective> les résultats des votes <DiscourseConnective annotation_id="89">et</DiscourseConnective> autres détails les concernant, cf. procès-verbal)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="110" id="090" name="Robert Atkins">
+    <ParallelChunk annotation_id="110" docOffset="3">
+      <en>Mr President, it is a ludicrous state of affairs to commence voting at 12.40 on 48 pages of votes.</en>
+      <fr>(EN) Monsieur le Président, il est ridicule de commencer à voter à 12 h 40 sur 48 pages de votes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="209" docOffset="4">
+      <en>You, Sir, have been doing remarkably well in organising Parliament <Alignment alignment="177334" annotation_id="276">
+          <Alignment alignment="305" annotation_id="276">
+            <DiscourseConnective annotation_id="276" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> we vote at proper times in order to deal with these large voting lists.</en>
+      <fr>Vous avez remarquablement bien organisé les travaux du Parlement <Alignment alignment="276" annotation_id="305">
+          <Alignment alignment="276" annotation_id="305">
+            <DiscourseConnective annotation_id="305" sense="Contingency.Cause.Result">pour que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nous votions <DiscourseConnective annotation_id="327">en</DiscourseConnective> temps utile sur ces longues listes de vote.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="356" docOffset="5">
+      <en>We should have started at 11.00, not at 12.40.</en>
+      <fr>Nous aurions dû commencer <DiscourseConnective annotation_id="400">à</DiscourseConnective> 11 heures, et non <DiscourseConnective annotation_id="420">à</DiscourseConnective> 12h40.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="403" docOffset="6">
+      <en>I urge you to revert to type and ensure we do not do this again.</en>
+      <fr>Je vous invite instamment <DiscourseConnective annotation_id="455">à</DiscourseConnective> respecter l'horaire prévu <DiscourseConnective annotation_id="483">et</DiscourseConnective> à veiller <DiscourseConnective annotation_id="496">à</DiscourseConnective> ce qu'une telle situation ne se reproduise plus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="468" docOffset="7">
+      <en>(Applause)</en>
+      <fr>(Applaudissements)</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

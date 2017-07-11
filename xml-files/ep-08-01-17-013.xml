@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Explanations of vote (continuation)</en>
+    <fr>Explications de vote (suite)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="36" id="216" name="President">
+    <ParallelChunk annotation_id="36" docOffset="1">
+      <en>- We shall now continue with the explanations of vote from midday.</en>
+      <fr>- (EN) Nous allons <DiscourseConnective annotation_id="48">maintenant</DiscourseConnective> poursuivre les explications de vote de midi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="103" docOffset="2">
+      <en>Mrs Roithová, Mr Helmer, Mr Whittaker, Mr Clark, Mr Nattrass, Mr Wise, Mr Deva, Mr Hannan and Mr Kamall had asked to explain their vote on the remaining reports from this afternoon.</en>
+      <fr>Mme Roithová et MM. Helmer, Whittaker, Clark, Nattrass, Wise, Deva, Hannan <DiscourseConnective annotation_id="179">et</DiscourseConnective> Kamall ont demandé <DiscourseConnective annotation_id="201">à</DiscourseConnective> expliquer leur vote sur les rapports restants de cet après-midi.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="285" docOffset="3">
+      <en>I note that these Members are not present, <Alignment alignment="313" annotation_id="328">
+          <DiscourseConnective annotation_id="328" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> they may, <Alignment alignment="332" annotation_id="342">
+          <DiscourseConnective annotation_id="342" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> they wish, submit explanations of vote in writing.</en>
+      <fr>Je note <DiscourseConnective annotation_id="276">que</DiscourseConnective> ces membres ne sont pas présents <Alignment alignment="328" annotation_id="313">
+          <DiscourseConnective annotation_id="313" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ils pourront, <Alignment alignment="342" annotation_id="332">
+          <DiscourseConnective annotation_id="332" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>ils le souhaitent, soumettre par écrit leurs explications de vote.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>

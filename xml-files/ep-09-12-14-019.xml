@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="translator.xsl"?>
+
+<DOCUMENT>
+  <ParallelChunk annotation_id="0" docOffset="0">
+    <en>Toy safety (debate)</en>
+    <fr>Sécurité des jouets (débat)</fr>
+  </ParallelChunk>
+<Speaker annotation_id="20" id="204" name="President">
+    <ParallelChunk annotation_id="20" docOffset="1">
+      <en>The next item is the statement from the Commission on toy safety.</en>
+      <fr>L'ordre du jour appelle la déclaration de la Commission sur la sécurité des jouets.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="86" id="205" name="Günter Verheugen">
+    <ParallelChunk annotation_id="86" docOffset="2">
+      <en>Vice-President of the Commission. - (DE) Madam President, honourable Members, we always discuss toys just before Christmas, and quite rightly so, <DiscourseConnective annotation_id="232" sense="Temporal.Synchrony">as</DiscourseConnective> this is the time <Alignment alignment="324" annotation_id="252">
+          <DiscourseConnective annotation_id="252" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> people are most interested in toys.</en>
+      <fr>vice-président de la Commission. - (DE) Madame la Présidente, Mesdames et Messieurs les députés, le sujet des jouets est traditionnellement abordé <DiscourseConnective annotation_id="259">avant</DiscourseConnective> la période de Noël, <DiscourseConnective annotation_id="285">et</DiscourseConnective> à juste titre: c'est à cette époque <Alignment alignment="252" annotation_id="324">
+          <DiscourseConnective annotation_id="324" sense="Temporal.Synchrony">que</DiscourseConnective>
+        </Alignment> tout un chacun <DiscourseConnective annotation_id="343">s'</DiscourseConnective>intéresse le plus aux jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="293" docOffset="3">
+      <en>I am grateful that we are doing so once again this year, <Alignment alignment="438" annotation_id="350">
+          <DiscourseConnective annotation_id="350" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the safety of toys is a matter that is of interest to Parliament, the Council and the Commission <Alignment alignment="544" annotation_id="450">
+          <DiscourseConnective annotation_id="450" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> for which we all set the highest requirements.</en>
+      <fr>Je suis reconnaissant <DiscourseConnective annotation_id="397">que</DiscourseConnective> nous l'abordions cette année <DiscourseConnective annotation_id="430">encore</DiscourseConnective>, <Alignment alignment="27190" annotation_id="438">
+          <DiscourseConnective annotation_id="438" sense="Temporal.Synchrony">car</DiscourseConnective>
+        </Alignment> la sécurité des jouets est un domaine qui intéresse tant le Parlement que le Conseil <DiscourseConnective annotation_id="527">et</DiscourseConnective> la Commission <Alignment alignment="30038" annotation_id="544">
+          <DiscourseConnective annotation_id="544" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="547">pour</DiscourseConnective> lequel nous fixons tous le plus haut niveau d'exigences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="501" docOffset="4">
+      <en>The debate this evening has been triggered by media reports in one particular Member State - Germany.</en>
+      <fr>Le débat ce soir trouve son origine dans des informations publiées par la presse d'un État membre, à savoir l'Allemagne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="603" docOffset="5">
+      <en>They originate from the Federal Institute for Risk Assessment and from the Technical Supervisory Association (Technischer Überwachungsverein).</en>
+      <fr>Ces informations proviennent de l'Institut fédéral <DiscourseConnective annotation_id="781">pour</DiscourseConnective> l'analyse des risques <DiscourseConnective annotation_id="808">et</DiscourseConnective> du service de contrôle technique (Technischer Überwachungsverein) de ce pays.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="746" docOffset="6">
+      <en>Neither institution has approached the Commission directly.</en>
+      <fr>Aucune de ces deux institutions ne s'est adressée directement à la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="806" docOffset="7">
+      <en>The German Government has not, as yet, come to the Commission with regard to this matter either.</en>
+      <fr>Le gouvernement allemand, lui non plus, n'a pas <DiscourseConnective annotation_id="1016">encore</DiscourseConnective> pris contact avec la Commission dans cette affaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="903" docOffset="8">
+      <en>
+        <Alignment alignment="1092" annotation_id="903">
+          <DiscourseConnective annotation_id="903" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, we do not know any more than what was stated by these two institutions in their press releases and what could be read in the German media.</en>
+      <fr>Nous n'en savons <Alignment alignment="6403" annotation_id="1092">
+          <DiscourseConnective annotation_id="1092" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas plus <DiscourseConnective annotation_id="1106">que</DiscourseConnective> les déclarations faites par ces deux institutions dans leurs communiqués de presse, dont le contenu a été relayé par les médias allemands.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1048" docOffset="9">
+      <en>
+        <Alignment alignment="11441" annotation_id="1048">
+          <DiscourseConnective annotation_id="1048" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment>, it is a subject that needs to be taken so seriously that, even <Alignment alignment="1346" annotation_id="1125">
+          <DiscourseConnective annotation_id="1125" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> all we have to go on is reports in the press, we still need to address the matter.</en>
+      <fr>Il <DiscourseConnective annotation_id="1252">s'</DiscourseConnective>agit <Alignment alignment="12941" annotation_id="1259">
+          <DiscourseConnective annotation_id="1259" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> d'un sujet qui doit être considéré avec énormément de sérieux, <DiscourseConnective annotation_id="1332">au point que</DiscourseConnective>, <Alignment alignment="33073" annotation_id="1346">
+          <DiscourseConnective annotation_id="1346" sense="Contingency.Condition">même si</DiscourseConnective>
+        </Alignment> nous ne disposons que de comptes rendus médiatiques, nous devons nous <DiscourseConnective annotation_id="1424">en</DiscourseConnective> préoccuper.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1211" docOffset="10">
+      <en>The analysis in the reports we have before us indicates that we need to deal with four different issues.</en>
+      <fr>L'analyse des comptes rendus médiatiques soulève quatre questions différentes, auxquelles nous devons répondre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1316" docOffset="11">
+      <en>The first is a question that is very easy to answer.</en>
+      <fr>La première appelle une réponse très simple.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1369" docOffset="12">
+      <en>According to the statement by the German Technical Supervisory Association, a considerable proportion of the toys on the German market that were tested did not comply with the European Union's current legal provisions.</en>
+      <fr>Le service allemand de contrôle technique affirme dans son communiqué <DiscourseConnective annotation_id="1666">qu'</DiscourseConnective>une partie considérable des jouets testés sur le marché allemand ne répond pas aux dispositions juridiques actuellement en vigueur au niveau européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1588" docOffset="13">
+      <en>In this case, ladies and gentlemen, the rules are perfectly clear.</en>
+      <fr>
+        <DiscourseConnective annotation_id="1820">Dans ce cas</DiscourseConnective>, Mesdames <DiscourseConnective annotation_id="1842">et</DiscourseConnective> Messieurs, les règles sont parfaitement claires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1655" docOffset="14">
+      <en>
+        <Alignment alignment="1894" annotation_id="1655">
+          <DiscourseConnective annotation_id="1655" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> a Member State makes such a discovery, it is obliged to inform all the other Member States and the European Commission of this immediately and put the necessary measures in place.</en>
+      <fr>
+        <Alignment alignment="3974" annotation_id="1894">
+          <DiscourseConnective annotation_id="1894" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> un État membre fait une telle constatation, il a l'obligation d'<DiscourseConnective annotation_id="1961">en</DiscourseConnective> informer immédiatement tous les autres États membres <DiscourseConnective annotation_id="2017">et</DiscourseConnective> la Commission européenne <DiscourseConnective annotation_id="2045">et</DiscourseConnective> de prendre les mesures nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="1838" docOffset="15">
+      <en>They can go as far as taking these products off the market immediately, <DiscourseConnective annotation_id="1910" sense="Expansion.Conjunction">and</DiscourseConnective> indeed this means throughout Europe, <Alignment alignment="2182" annotation_id="1951">
+          <DiscourseConnective annotation_id="1951" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="1955" sense="Expansion.Conjunction">also</DiscourseConnective> imposing an import ban <DiscourseConnective annotation_id="1983" sense="Contingency.Condition">if</DiscourseConnective> these products are manufactured outside the European Union.</en>
+      <fr>Ces mesures peuvent aller <DiscourseConnective annotation_id="2110">jusqu'au</DiscourseConnective> retrait immédiat de ces produits du marché, partout en Europe, <Alignment alignment="1951" annotation_id="2182">
+          <DiscourseConnective annotation_id="2182" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> à la mise en place d'une interdiction d'importation de ces produits s'ils sont fabriqués à l'extérieur de l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2046" docOffset="16">
+      <en>I hope that the German authorities will very quickly notify the other Member States and the Commission <DiscourseConnective annotation_id="2149" sense="Contingency.Cause.Result">accordingly</DiscourseConnective> via RAPEX.</en>
+      <fr>Dans le cas qui nous occupe, j'espère que les autorités allemandes ne tarderont pas à avertir les autres États membres <DiscourseConnective annotation_id="2430">et</DiscourseConnective> la Commission via RAPEX.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2172" docOffset="17">
+      <en>Should import bans be necessary, then I assure you here and <Alignment alignment="12876" annotation_id="2232">
+          <Alignment alignment="2527" annotation_id="2232">
+            <DiscourseConnective annotation_id="2232" sense="Contingency.Cause.Reason">now that</DiscourseConnective>
+          </Alignment>
+        </Alignment> the Commission will approve such bans directly and without delay.</en>
+      <fr>
+        <DiscourseConnective annotation_id="2458">Si</DiscourseConnective> un blocage des importations <DiscourseConnective annotation_id="2489">s'</DiscourseConnective>impose, je peux vous assurer ici <DiscourseConnective annotation_id="2524">et</DiscourseConnective> <Alignment alignment="7392" annotation_id="2527">
+          <Alignment alignment="2232" annotation_id="2527">
+            <DiscourseConnective annotation_id="2527" sense="Contingency.Cause.Reason">maintenant qu'</DiscourseConnective>
+          </Alignment>
+        </Alignment>il sera avalisé d'emblée <DiscourseConnective annotation_id="2566">et</DiscourseConnective> <DiscourseConnective annotation_id="2569">sans</DiscourseConnective> la moindre tergiversation par la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2307" docOffset="18">
+      <en>
+        <Alignment alignment="2619" annotation_id="2307">
+          <DiscourseConnective annotation_id="2307" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, <Alignment alignment="74847" annotation_id="2316">
+          <DiscourseConnective annotation_id="2316" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I said, as yet, no such information has been submitted to us by the German authorities.</en>
+      <fr>
+        <Alignment alignment="17775" annotation_id="2619">
+          <DiscourseConnective annotation_id="2619" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, <Alignment alignment="2316" annotation_id="2630">
+          <DiscourseConnective annotation_id="2630" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> je l'ai déjà dit, aucune information allant dans ce sens n'a encore été portée <DiscourseConnective annotation_id="2715">à</DiscourseConnective> notre connaissance par les autorités allemandes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2407" docOffset="19">
+      <en>Market surveillance - and I have to say this very clearly at this point - is the sole responsibility of the Member States.</en>
+      <fr>La surveillance du marché, soyons clairs, relève de la compétence exclusive des États membres.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2530" docOffset="20">
+      <en>Neither the European Commission, Parliament nor the Council have any market surveillance instruments at their disposal.</en>
+      <fr>Ni la Commission européenne, ni le Parlement, ni le Conseil n'ont d'instruments de surveillance du marché <DiscourseConnective annotation_id="2967">à</DiscourseConnective> leur disposition.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2650" docOffset="21">
+      <en>These are the sole preserve of the Member States.</en>
+      <fr>Seuls les États membres disposent de tels instruments.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2700" docOffset="22">
+      <en>
+        <Alignment alignment="24879" annotation_id="2700">
+          <DiscourseConnective annotation_id="2700" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, they are obliged under law, including under the current Toys Directive, to carry out this market surveillance.</en>
+      <fr>Ils sont <Alignment alignment="5194" annotation_id="3051">
+          <DiscourseConnective annotation_id="3051" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> tenus légalement, y compris en vertu de l'actuelle directive relative à la sécurité des jouets, d'exercer cette surveillance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="2820" docOffset="23">
+      <en>
+        <Alignment alignment="3187" annotation_id="2820">
+          <DiscourseConnective annotation_id="2820" sense="Temporal.Synchrony">When</DiscourseConnective>
+        </Alignment> I read news from Germany that it is doubtful that the country's market surveillance is in a position to meet the requirements of the new Toys Directive, then there is only one thing I can say, <DiscourseConnective annotation_id="3018" sense="Expansion.Conjunction">and</DiscourseConnective> that is that the German Government is under obligation to ensure that the German market surveillance authorities can meet these requirements.</en>
+      <fr>
+        <Alignment alignment="34766" annotation_id="3187">
+          <DiscourseConnective annotation_id="3187" sense="Temporal.Synchrony">Lorsque</DiscourseConnective>
+        </Alignment> je lis, dans les journaux allemands, <DiscourseConnective annotation_id="3232">qu'</DiscourseConnective>il existe des doutes sur la capacité du système national de surveillance du marché de rencontrer les exigences de la nouvelle directive relative à la sécurité des jouets, que <DiscourseConnective annotation_id="3410">puis</DiscourseConnective>-je dire, <DiscourseConnective annotation_id="3424">sinon que</DiscourseConnective> le gouvernement allemand est tenu de s'assurer <DiscourseConnective annotation_id="3481">que</DiscourseConnective> les autorités de surveillance sont <DiscourseConnective annotation_id="3520">en</DiscourseConnective> mesure d'imposer ces exigences?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3164" docOffset="24">
+      <en>
+        <Alignment alignment="20097" annotation_id="3164">
+          <DiscourseConnective annotation_id="3164" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, I think the answer to this question is fairly clear.</en>
+      <fr>Je pense <Alignment alignment="3164" annotation_id="3564">
+          <DiscourseConnective annotation_id="3564" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> que la réponse <DiscourseConnective annotation_id="3584">à</DiscourseConnective> la question évoquée ici est relativement claire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3223" docOffset="25">
+      <en>The second question is simple, too.</en>
+      <fr>La deuxième question appelle une réponse simple <DiscourseConnective annotation_id="3683">également</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3259" docOffset="26">
+      <en>It is an old topic on which Parliament has had intensive debates in connection with the adoption of the Toys Directive <DiscourseConnective annotation_id="3378" sense="Expansion.Conjunction">and</DiscourseConnective> where the crucial vote in this Parliament resulted in a clear and unambiguous majority decision in a roll-call vote.</en>
+      <fr>Elle renvoie à un sujet qui n'est pas neuf et qui a fait l'objet de débats intensifs au sein du Parlement dans le cadre de l'adoption de la directive sur la sécurité des jouets. En la matière, le Parlement s'est, dans un vote décisif, prononcé clairement <DiscourseConnective annotation_id="3949">et</DiscourseConnective> sans ambiguïté à la majorité, dans un vote par appel nominal.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3499" docOffset="27">
+      <en>It related to the question of mandatory certification of toys by a third body.</en>
+      <fr>Je me réfère ici <DiscourseConnective annotation_id="4031">à</DiscourseConnective> la question de l'obligation de faire certifier les jouets par un organisme indépendant.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3578" docOffset="28">
+      <en>This proposal was put forward by Germany.</en>
+      <fr>Il s'agissait d'une proposition formulée par l'Allemagne et à l'origine de laquelle se trouvait le service de contrôle technique allemand.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3620" docOffset="29">
+      <en>The German Technical Supervisory Association was behind the proposal, which was quite rightly rejected <Alignment alignment="68362" annotation_id="3723">
+          <DiscourseConnective annotation_id="3723" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> certification by a third body would not provide any additional safety at all in the case of toys, which are normally not technically complicated, <DiscourseConnective annotation_id="3877" sense="Temporal.Synchrony">as</DiscourseConnective> it would be the prototype that would be certified in this case.</en>
+      <fr>Elle a été rejetée, <DiscourseConnective annotation_id="4280">et</DiscourseConnective> à juste titre, <Alignment alignment="7365" annotation_id="4298">
+          <DiscourseConnective annotation_id="4298" sense="Contingency.Cause.Reason">parce que</DiscourseConnective>
+        </Alignment> la certification par un organisme indépendant n'apporterait, dans le cas des jouets, pas la moindre garantie de sécurité supplémentaire. <DiscourseConnective annotation_id="4445">En effet</DiscourseConnective>, les jouets ne sont normalement pas compliqués sur le plan technique et la certification ne porterait <DiscourseConnective annotation_id="4556">que</DiscourseConnective> sur le prototype.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="3944" docOffset="30">
+      <en>
+        <DiscourseConnective annotation_id="3944" sense="Temporal.Synchrony">When</DiscourseConnective> it comes to toys, <DiscourseConnective annotation_id="3967" sense="Comparison.Contrast">however</DiscourseConnective>, the problem is not the prototype, <Alignment alignment="44653" annotation_id="4010">
+          <DiscourseConnective annotation_id="4010" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment>, <Alignment alignment="13662" annotation_id="4015">
+          <DiscourseConnective annotation_id="4015" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> we know from experience, the problem is whether the high requirements that we set are actually complied with during the entire manufacturing process by all suppliers and all of those involved in the supply chain.</en>
+      <fr>Or, en matière de jouets, ce n'est pas le prototype qui pose un problème, <Alignment alignment="31429" annotation_id="4652">
+          <DiscourseConnective annotation_id="4652" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment>, <Alignment alignment="15265" annotation_id="4658">
+          <DiscourseConnective annotation_id="4658" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous le savons tous d'expérience, le respect du haut niveau d'exigences fixé tout au long du processus de fabrication par tous les fournisseurs <DiscourseConnective annotation_id="4808">et</DiscourseConnective> tous les intervenants dans la chaîne de création de valeur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4231" docOffset="31">
+      <en>As in all other areas, <DiscourseConnective annotation_id="4254" sense="Temporal.Synchrony">when</DiscourseConnective> it comes to toys, we abide by the principle that the manufacturer must take full responsibility for a product being in compliance with the law in force.</en>
+      <fr>Dans le domaine des jouets <DiscourseConnective annotation_id="4898">comme</DiscourseConnective> dans tous les autres domaines, nous partons du principe <DiscourseConnective annotation_id="4960">que</DiscourseConnective> le fabricant doit prendre l'entière responsabilité de la conformité de son produit par rapport <DiscourseConnective annotation_id="5059">à</DiscourseConnective> la législation <DiscourseConnective annotation_id="5076">en</DiscourseConnective> vigueur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4412" docOffset="32">
+      <en>Regardless of where in the world they are, we must not release manufacturers from this responsibility.</en>
+      <fr>Où qu'ils se trouvent dans le monde, il n'est pas question pour nous de permettre aux fabricants de se soustraire à cette responsabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4515" docOffset="33">
+      <en>
+        <Alignment alignment="55844" annotation_id="4515">
+          <DiscourseConnective annotation_id="4515" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> there is a problem with reliability in a particular country, we need to talk to this country about improving its production conditions, <DiscourseConnective annotation_id="4654" sense="Expansion.Conjunction">and</DiscourseConnective> that is exactly what the European Commission is doing.</en>
+      <fr>
+        <Alignment alignment="5871" annotation_id="5226">
+          <DiscourseConnective annotation_id="5226" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> un pays <DiscourseConnective annotation_id="5237">en particulier</DiscourseConnective> présente des problèmes de fiabilité, nous devons entamer avec lui un dialogue portant sur l'amélioration de ses conditions de production.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4713" docOffset="34">
+      <en>I am talking about China.</en>
+      <fr>C'est <DiscourseConnective annotation_id="5396">précisément</DiscourseConnective> ce que fait la Commission, dans le cas de la Chine, pour la citer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4739" docOffset="35">
+      <en>We are in close and intensive contact with China with regard to the question of how we can actually ensure that the production conditions in this country, which is by far the largest toy manufacturer in the world, meet our requirements.</en>
+      <fr>Nous entretenons des contacts étroits <DiscourseConnective annotation_id="5513">et</DiscourseConnective> intensifs avec la Chine concernant la question de savoir comment nous pouvons véritablement nous assurer <DiscourseConnective annotation_id="5621">que</DiscourseConnective> les conditions de production dans ce pays, qui est de loin le principal fabricant de jouets dans le monde, respectent nos exigences.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="4976" docOffset="36">
+      <en>Progress has <DiscourseConnective annotation_id="4989" sense="Expansion.Conjunction">indeed</DiscourseConnective> been made here, <DiscourseConnective annotation_id="5012" sense="Comparison.Contrast">but</DiscourseConnective> there is certainly still more that needs to be done.</en>
+      <fr>Malgré les progrès enregistrés, il convient assurément de poursuivre nos efforts sur ce front.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5069" docOffset="37">
+      <en>The third complex of issues relates to chemical substances and heavy metals in toys.</en>
+      <fr>Le troisième ensemble de questions a trait <DiscourseConnective annotation_id="5896">à</DiscourseConnective> la présence de substances chimiques <DiscourseConnective annotation_id="5934">et</DiscourseConnective> de métaux lourds dans les jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5154" docOffset="38">
+      <en>This is an extremely difficult and thorny issue.</en>
+      <fr>Il <DiscourseConnective annotation_id="5974">s'</DiscourseConnective>agit d'une thématique extrêmement complexe <DiscourseConnective annotation_id="6019">et</DiscourseConnective> sensible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5203" docOffset="39">
+      <en>The political guideline that I gave to my colleagues <Alignment alignment="6032" annotation_id="5256">
+          <DiscourseConnective annotation_id="5256" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> work was being carried out on the Toys Directive was to lay down the most stringent rules possible - the most stringent possible!</en>
+      <fr>
+        <Alignment alignment="9687" annotation_id="6032">
+          <DiscourseConnective annotation_id="6032" sense="Temporal.Synchrony">Au moment où</DiscourseConnective>
+        </Alignment> nous travaillions sur la directive relative à la sécurité des jouets, la ligne politique <DiscourseConnective annotation_id="6134">que</DiscourseConnective> j'ai donnée <DiscourseConnective annotation_id="6150">à</DiscourseConnective> suivre à mes collaboratrices et collaborateurs consistait <DiscourseConnective annotation_id="6210">à</DiscourseConnective> fixer les règles les plus strictes possibles - les plus strictes possibles!</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5391" docOffset="40">
+      <en>This view was <Alignment alignment="21856" annotation_id="5405">
+          <DiscourseConnective annotation_id="5405" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> shared by the Council and by Parliament.</en>
+      <fr>Cette vision était <Alignment alignment="6149" annotation_id="6307">
+          <DiscourseConnective annotation_id="6307" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> partagée par le Conseil <DiscourseConnective annotation_id="6341">et</DiscourseConnective> le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="5451" docOffset="41">
+      <en>
+        <Alignment alignment="22140" annotation_id="5451">
+          <Alignment alignment="6358" annotation_id="5451">
+            <DiscourseConnective annotation_id="5451" sense="Contingency.Cause.Result">As a result</DiscourseConnective>
+          </Alignment>
+        </Alignment>, the limit values that we included in the new Toys Directive, which will be introduced in stages from 2011 onwards, represented the state of the art in terms of scientific knowledge at the time the directive was adopted.</en>
+      <fr>
+        <Alignment alignment="12019" annotation_id="6358">
+          <Alignment alignment="395" annotation_id="6358">
+            <DiscourseConnective annotation_id="6358" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+          </Alignment>
+        </Alignment>, les valeurs limites incluses dans la nouvelle directive relative à la sécurité des jouets, qui sera mise en œuvre progressivement à partir de 2011, reflètent l'état le plus actuel des connaissances scientifiques <DiscourseConnective annotation_id="6586">à</DiscourseConnective> l'époque de l'adoption du texte.</fr>
+    </ParallelChunk>
+
+<ParallelChunk annotation_id="5685" docOffset="43">
+      <en>
+        <Alignment alignment="6691" annotation_id="5685">
+          <DiscourseConnective annotation_id="5685" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, we were aware that this is an evolving process - science is, of course, always progressing <Alignment alignment="29177" annotation_id="5785">
+          <DiscourseConnective annotation_id="5785" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> there are always new research results and new findings - <DiscourseConnective annotation_id="5846" sense="Expansion.Conjunction">and</DiscourseConnective>, together, we deliberately framed the directive in such a way that new scientific findings that there are risks that we had not previously observed <Alignment alignment="37023" annotation_id="5998">
+          <DiscourseConnective annotation_id="5998" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that limit values have been set too high can very quickly be incorporated into the directive in a comitology procedure involving Parliament.</en>
+      <fr>
+        <Alignment alignment="611" annotation_id="6691">
+          <DiscourseConnective annotation_id="6691" sense="Comparison.Contrast">En effet</DiscourseConnective>
+        </Alignment>, la science progresse sans cesse <Alignment alignment="9138" annotation_id="6733">
+          <DiscourseConnective annotation_id="6733" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> livre constamment de nouveaux résultats de recherches <DiscourseConnective annotation_id="6790">et</DiscourseConnective> de nouvelles découvertes. Ensemble, nous avons donc délibérément conçu la directive <DiscourseConnective annotation_id="6877">de manière à ce que</DiscourseConnective>, lorsque de nouveaux résultats scientifiques viendraient à faire état de risques encore inconnus jusqu'alors <Alignment alignment="5998" annotation_id="7006">
+          <DiscourseConnective annotation_id="7006" sense="Expansion.Conjunction">ou</DiscourseConnective>
+        </Alignment> à indiquer que les valeurs limites <DiscourseConnective annotation_id="7044">que</DiscourseConnective> nous avions fixées seraient trop élevées, il soit possible d'incorporer très rapidement ces nouvelles découvertes à la directive par le biais d'une procédure de comitologie faisant intervenir le Parlement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6143" docOffset="44">
+      <en>According to the current legal situation, adopted by the European Parliament, the involvement of the competent scientific committee is needed for the assessment of the risks posed by products.</en>
+      <fr>Cela passe, conformément <DiscourseConnective annotation_id="7279">à</DiscourseConnective> la législation en vigueur, adoptée par le Parlement européen, par l'intervention du comité scientifique compétent, chargé de l'analyse des risques posés par les produits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6336" docOffset="45">
+      <en>There have been indications twice this year that new findings may be available.</en>
+      <fr>Cette année, nous avons reçu à deux occasions des indications concernant d'éventuelles nouvelles découvertes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6416" docOffset="46">
+      <en>The first was via a letter sent to me by Germany's Federal Minister for Food, Agriculture and Consumer Protection in the spring of this year. The letter concerned cadmium.</en>
+      <fr>
+        <DiscourseConnective annotation_id="7562">En</DiscourseConnective> premier lieu, j'ai reçu, au printemps, une lettre de la ministre fédérale allemande de l'alimentation, de l'agriculture <DiscourseConnective annotation_id="7685">et</DiscourseConnective> de la protection des consommateurs, concernant le cadmium.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6588" docOffset="47">
+      <en>I immediately arranged for this issue to be submitted to the scientific committee, not only with regard to cadmium, but with regard to other heavy metals, too.</en>
+      <fr>J'ai immédiatement pris les dispositions nécessaires <DiscourseConnective annotation_id="7800">pour que</DiscourseConnective> la question <DiscourseConnective annotation_id="7821">soit</DiscourseConnective> soumise au comité scientifique, <DiscourseConnective annotation_id="7858">non seulement</DiscourseConnective> <DiscourseConnective annotation_id="7872">en</DiscourseConnective> ce qui concerne le cadmium, <DiscourseConnective annotation_id="7903">mais</DiscourseConnective> <DiscourseConnective annotation_id="7908">également</DiscourseConnective> <DiscourseConnective annotation_id="7918">pour</DiscourseConnective> ce qui est d'autres métaux lourds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6748" docOffset="48">
+      <en>We are expecting the results of their examination during the first half of 2010 - by the end of June at the latest.</en>
+      <fr>Le comité devrait livrer ses conclusions au premier semestre 2010, <DiscourseConnective annotation_id="8025">pour</DiscourseConnective> la fin du mois de juin au <DiscourseConnective annotation_id="8056">plus tard</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="6864" docOffset="49">
+      <en>
+        <Alignment alignment="8067" annotation_id="6864">
+          <DiscourseConnective annotation_id="6864" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> their examination does <Alignment alignment="8080" annotation_id="6890">
+          <DiscourseConnective annotation_id="6890" sense="Expansion.Conjunction">indeed</DiscourseConnective>
+        </Alignment> reveal new findings, we will immediately bring forward a proposal to tighten up the directive, which has not yet entered into force, <DiscourseConnective annotation_id="7030" sense="Contingency.Cause.Result">so that</DiscourseConnective> it enters into force in 2011 with the more stringent limit values in place.</en>
+      <fr>
+        <Alignment alignment="9389" annotation_id="8067">
+          <DiscourseConnective annotation_id="8067" sense="Contingency.Condition">S'</DiscourseConnective>
+        </Alignment>il ressort <Alignment alignment="5918" annotation_id="8080">
+          <DiscourseConnective annotation_id="8080" sense="Expansion.Conjunction">effectivement</DiscourseConnective>
+        </Alignment> des travaux du comité que de nouvelles données scientifiques sont disponibles, nous déposerons immédiatement une proposition visant <DiscourseConnective annotation_id="8226">à</DiscourseConnective> renforcer la directive préalablement à sa mise <DiscourseConnective annotation_id="8275">en</DiscourseConnective> œuvre. De cette manière, les nouvelles valeurs limites plus strictes seront d'application dès l'entrée en vigueur de la législation <DiscourseConnective annotation_id="8410">en</DiscourseConnective> 2011.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7114" docOffset="50">
+      <en>The second case is rather complicated and difficult to explain.</en>
+      <fr>Le second cas est assez compliqué <DiscourseConnective annotation_id="8453">et</DiscourseConnective> difficile <DiscourseConnective annotation_id="8466">à</DiscourseConnective> expliquer.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7178" docOffset="51">
+      <en>It relates to polycyclic aromatic hydrocarbons, known as PAHs, which surround us all in our daily lives - we are not even aware of what we are coming into contact with.</en>
+      <fr>Il concerne les hydrocarbures aromatiques polycycliques, ou HAP, qui sont présents dans notre environnement quotidien à tous. Nous n'avons <DiscourseConnective annotation_id="8618">même</DiscourseConnective> pas idée de tout ce avec quoi nous entrons <DiscourseConnective annotation_id="8666">en</DiscourseConnective> contact.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7347" docOffset="52">
+      <en>In this case, too, we received information that the limit values for these polycyclic aromatic hydrocarbons may possibly be set too high.</en>
+      <fr>
+        <DiscourseConnective annotation_id="8678">Dans ce cas</DiscourseConnective> <DiscourseConnective annotation_id="8690">également</DiscourseConnective>, nous avons reçu des informations portant à croire <DiscourseConnective annotation_id="8751">que</DiscourseConnective> les valeurs limites fixées <DiscourseConnective annotation_id="8782">pour</DiscourseConnective> ces hydrocarbures aromatiques polycycliques pourraient être trop élevées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7485" docOffset="53">
+      <en>The scientific committee is looking into this. The results will <Alignment alignment="82232" annotation_id="7549">
+          <DiscourseConnective annotation_id="7549" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> arrive in good time to allow us to make corrections.</en>
+      <fr>Le comité scientifique s'est saisi de la question et livrera, là <Alignment alignment="9730" annotation_id="8926">
+          <DiscourseConnective annotation_id="8926" sense="Expansion.Conjunction">aussi</DiscourseConnective>
+        </Alignment>, ses conclusions <DiscourseConnective annotation_id="8949">en</DiscourseConnective> temps voulu, <DiscourseConnective annotation_id="8965">de sorte que</DiscourseConnective> nous puissions apporter les corrections nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7607" docOffset="54">
+      <en>At this point, let me point out that we are dealing with a problem here that, as politicians, we are not really able to solve.</en>
+      <fr>
+        <DiscourseConnective annotation_id="9031">À</DiscourseConnective> ce stade, permettez-moi de souligner <DiscourseConnective annotation_id="9070">que</DiscourseConnective> nous sommes ici confrontés <DiscourseConnective annotation_id="9101">à</DiscourseConnective> un problème <DiscourseConnective annotation_id="9115">que</DiscourseConnective> nous, en <DiscourseConnective annotation_id="9128">tant qu'</DiscourseConnective>hommes et femmes politiques, ne sommes pas véritablement en mesure de résoudre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7734" docOffset="55">
+      <en>These are technical issues that are extremely complex.</en>
+      <fr>Nous parlons ici de questions techniques extrêmement complexes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="7789" docOffset="56">
+      <en>I will quite openly admit to you that I do not always understand the extremely complicated scientific analyses that are presented to me. I do not imagine that there are many Members of this Parliament, even <Alignment alignment="88306" annotation_id="7996">
+          <DiscourseConnective annotation_id="7996" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> everyone were here this evening, who could claim to understand them.</en>
+      <fr>Je vous avoue en toute franchise <DiscourseConnective annotation_id="9313">que</DiscourseConnective> je ne comprends pas toujours les analyses scientifiques extrêmement compliquées <DiscourseConnective annotation_id="9397">que</DiscourseConnective> l'on me présente et je ne peux m'imaginer <DiscourseConnective annotation_id="9443">que</DiscourseConnective> de nombreux députés de ce Parlement, <Alignment alignment="12502" annotation_id="9484">
+          <DiscourseConnective annotation_id="9484" sense="Contingency.Condition">même si</DiscourseConnective>
+        </Alignment> tous étaient présents ce soir, pourraient prétendre les comprendre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8068" docOffset="57">
+      <en>We cannot understand them <Alignment alignment="9591" annotation_id="8094">
+          <DiscourseConnective annotation_id="8094" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we have not received the relevant education.</en>
+      <fr>Nous n'en sommes pas capables, <Alignment alignment="18570" annotation_id="9591">
+          <DiscourseConnective annotation_id="9591" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous n'avons pas reçu la formation nécessaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8147" docOffset="58">
+      <en>To a certain degree, <Alignment alignment="9654" annotation_id="8168">
+          <DiscourseConnective annotation_id="8168" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, we have to trust our experts.</en>
+      <fr>Nous devons <Alignment alignment="8168" annotation_id="9654">
+          <DiscourseConnective annotation_id="9654" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment>, dans une certaine mesure, faire confiance à nos experts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8209" docOffset="59">
+      <en>This is where the problem lies.</en>
+      <fr>C'est là que se situe le problème.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8241" docOffset="60">
+      <en>We all know, of course, that the history of science is full of examples of cases where the generally accepted teaching has turned out to be wrong.</en>
+      <fr>Nous savons tous, bien sûr, <DiscourseConnective annotation_id="9780">que</DiscourseConnective> l'<DiscourseConnective annotation_id="9786">histoire de</DiscourseConnective> la science regorge d'exemples de cas dans lesquels les enseignements généralement acceptés se sont avérés erronés.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8388" docOffset="61">
+      <en>It is <Alignment alignment="9926" annotation_id="8394">
+          <DiscourseConnective annotation_id="8394" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> full of examples of so-called minority opinions ultimately proving to be correct.</en>
+      <fr>Elle regorge <Alignment alignment="8394" annotation_id="9926">
+          <DiscourseConnective annotation_id="9926" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> d'exemples de cas dans lesquels des opinions prétendument dissidentes se sont avérées correctes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8481" docOffset="62">
+      <en>As politicians, how can we decide <DiscourseConnective annotation_id="8515" sense="Temporal.Synchrony">when</DiscourseConnective> scientists disagree with each other?</en>
+      <fr>En <DiscourseConnective annotation_id="10036">tant qu'</DiscourseConnective>hommes et femmes politiques, comment prendre une décision face à l'absence d'un consensus scientifique? C'est impossible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8557" docOffset="63">
+      <en>We cannot, <DiscourseConnective annotation_id="8568" sense="Expansion.Conjunction">and</DiscourseConnective> this is a risk that comes with our jobs as politicians <DiscourseConnective annotation_id="8627" sense="Expansion.Conjunction">and</DiscourseConnective> it is one that we cannot avoid.</en>
+      <fr>C'est un risque inhérent <DiscourseConnective annotation_id="10191">à</DiscourseConnective> notre métier dans la politique. Il est inévitable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8663" docOffset="64">
+      <en>The rule that we have in this regard in the European institutions is that we follow the recommendations of the competent scientific committees, <DiscourseConnective annotation_id="8807" sense="Expansion.Conjunction">and</DiscourseConnective> that is what we have done in this case, too.</en>
+      <fr>
+        <DiscourseConnective annotation_id="10244">En</DiscourseConnective> la matière, les institutions européennes se sont fixées comme règle de suivre les recommandations des comités scientifiques compétents. C'est ce que nous avons fait, <DiscourseConnective annotation_id="10413">encore</DiscourseConnective> une fois, <DiscourseConnective annotation_id="10430">dans ce cas</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="8856" docOffset="65">
+      <en>
+        <Alignment alignment="10452" annotation_id="8856">
+          <DiscourseConnective annotation_id="8856" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would like to say quite openly that I take this issue so seriously that any indication, however small, that there may be new findings available - <DiscourseConnective annotation_id="9013" sense="Expansion.Conjunction">and</DiscourseConnective> even <Alignment alignment="10669" annotation_id="9022">
+          <DiscourseConnective annotation_id="9022" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we only find out about them in a newspaper report - is taken so seriously by the Commission that the issue is put to the scientists.</en>
+      <fr>Je tiens <Alignment alignment="16788" annotation_id="10452">
+          <DiscourseConnective annotation_id="10452" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="10462">à</DiscourseConnective> répéter en toute honnêteté <DiscourseConnective annotation_id="10491">que</DiscourseConnective> cette question est <DiscourseConnective annotation_id="10514">si</DiscourseConnective> importante à mes yeux <DiscourseConnective annotation_id="10539">que</DiscourseConnective> toute indication, <DiscourseConnective annotation_id="10561">aussi</DiscourseConnective> infime soit-elle, laissant penser <DiscourseConnective annotation_id="10601">que</DiscourseConnective> de nouvelles données scientifiques pourraient être disponibles, <Alignment alignment="1090" annotation_id="10669">
+          <DiscourseConnective annotation_id="10669" sense="Contingency.Condition">même si</DiscourseConnective>
+        </Alignment> tout ce dont nous disposons sont des articles de presse, est prise au sérieux par la Commission et soumise aux scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9158" docOffset="66">
+      <en>The last point is quite an annoying one.</en>
+      <fr>La dernière question soulevée par ce débat est, elle, source de contrariété.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9199" docOffset="67">
+      <en>In this regard, I have to say that I really would have expected an institute belonging to the government of a Member State to observe the minimum requirements of good scientific conduct.</en>
+      <fr>Je tiens, <DiscourseConnective annotation_id="10890">à cet égard</DiscourseConnective>, <DiscourseConnective annotation_id="10903">à</DiscourseConnective> <DiscourseConnective annotation_id="10905">dire que</DiscourseConnective> je me serais vraiment attendu d'un institut public d'un État membre <DiscourseConnective annotation_id="10982">qu'</DiscourseConnective>il respecte les règles les plus élémentaires de la bonne conduite scientifique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9386" docOffset="68">
+      <en>The claim by the Federal Institute for Risk Assessment, which has been widely taken up by the German media, that, <Alignment alignment="11171" annotation_id="9500">
+          <DiscourseConnective annotation_id="9500" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to polycyclic aromatic hydrocarbons, we have a limit value for tyres that is a hundred times more stringent than the limit value for children's toys is simply scandal mongering.</en>
+      <fr>L'Institut fédéral <DiscourseConnective annotation_id="11084">pour</DiscourseConnective> l'analyse des risques, largement relayé en cela par les médias allemands, prétend <Alignment alignment="12467" annotation_id="11171">
+          <DiscourseConnective annotation_id="11171" sense="Temporal.Synchrony">qu'en</DiscourseConnective>
+        </Alignment> ce qui concerne les hydrocarbures aromatiques polycycliques, nous appliquons aux pneus une valeur limite cent fois plus sévère <DiscourseConnective annotation_id="11304">que</DiscourseConnective> la valeur limite appliquée aux jouets d'enfants. De telles accusations sont scandaleuses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9692" docOffset="69">
+      <en>It is pure scandal mongering <Alignment alignment="11423" annotation_id="9721">
+          <DiscourseConnective annotation_id="9721" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> the scientists there know that.</en>
+      <fr>C'est de la pure infamie <Alignment alignment="9721" annotation_id="11423">
+          <DiscourseConnective annotation_id="11423" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> les scientifiques de l'institut le savent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="9757" docOffset="70">
+      <en>The truth is that the rules applying to the manufacture of tyres, in particular, to the oils used in this process, originate from the time before REACH and before the Directive on the safety of toys <DiscourseConnective annotation_id="9956" sense="Expansion.Conjunction">and</DiscourseConnective> that, in this case, one of these substances is taken as a reference value.</en>
+      <fr>La vérité est <DiscourseConnective annotation_id="11483">que</DiscourseConnective> les règles applicables <DiscourseConnective annotation_id="11510">à</DiscourseConnective> la fabrication de pneus et, <DiscourseConnective annotation_id="11540">en particulier</DiscourseConnective>, <DiscourseConnective annotation_id="11556">à</DiscourseConnective> l'utilisation d'hydrocarbures <DiscourseConnective annotation_id="11588">à</DiscourseConnective> cette fin, datent de l'époque antérieure à la directive REACH <DiscourseConnective annotation_id="11652">et</DiscourseConnective> à la directive relative à la sécurité des jouets. <DiscourseConnective annotation_id="11705">En</DiscourseConnective> l'espèce, une seule des substances est prise <DiscourseConnective annotation_id="11753">comme</DiscourseConnective> valeur de référence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10035" docOffset="71">
+      <en>
+        <Alignment alignment="11800" annotation_id="10035">
+          <DiscourseConnective annotation_id="10035" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, this substance represents a group of around a hundred others.</en>
+      <fr>Cette substance est <Alignment alignment="15923" annotation_id="11800">
+          <DiscourseConnective annotation_id="11800" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> représentative d'un groupe d'environ une centaine d'autres substances.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10106" docOffset="72">
+      <en>
+        <Alignment alignment="11909" annotation_id="10106">
+          <DiscourseConnective annotation_id="10106" sense="Contingency.Cause.Result">Thus</DiscourseConnective>
+        </Alignment>, you need to multiply the reference value by one hundred.</en>
+      <fr>La valeur de référence doit <Alignment alignment="16559" annotation_id="11909">
+          <DiscourseConnective annotation_id="11909" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> être multipliée par cent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10169" docOffset="73">
+      <en>You <Alignment alignment="11953" annotation_id="10173">
+          <DiscourseConnective annotation_id="10173" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective>
+        </Alignment> come to exactly the threshold value that <DiscourseConnective annotation_id="10219" sense="Expansion.Conjunction">also</DiscourseConnective> applies to other products within the European Union.</en>
+      <fr>Vous arrivez <Alignment alignment="4704" annotation_id="11953">
+          <DiscourseConnective annotation_id="11953" sense="Temporal.Asynchronous.Precedence">alors</DiscourseConnective>
+        </Alignment> exactement à la valeur limite qui s'applique aux autres produits dans l'Union européenne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10277" docOffset="74">
+      <en>
+        <Alignment alignment="12049" annotation_id="10277">
+          <Alignment alignment="14559" annotation_id="10277">
+            <Alignment alignment="12049" annotation_id="10277">
+              <DiscourseConnective annotation_id="10277" sense="Expansion.Restatement">In other words</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, <DiscourseConnective annotation_id="10293" sense="Contingency.Cause.Reason">since</DiscourseConnective> the threshold value applying to the use of certain oils in the manufacture of tyres is based on the smallest content of these substances that is still measurable in the product, it is exactly the same for toys, too.</en>
+      <fr>
+        <Alignment alignment="10277" annotation_id="12049">
+          <Alignment alignment="10277" annotation_id="12049">
+            <Alignment alignment="1372" annotation_id="12049">
+              <DiscourseConnective annotation_id="12049" sense="Expansion.Restatement">En d'autres termes</DiscourseConnective>
+            </Alignment>
+          </Alignment>
+        </Alignment>, la valeur limite applicable <DiscourseConnective annotation_id="12097">à</DiscourseConnective> l'utilisation de certains hydrocarbures dans la fabrication de pneus correspond <DiscourseConnective annotation_id="12179">à</DiscourseConnective> la plus petite quantité de ces substances pouvant <DiscourseConnective annotation_id="12231">encore</DiscourseConnective> être détectée dans ces produits et est donc exactement la <DiscourseConnective annotation_id="12296">même que</DiscourseConnective> <DiscourseConnective annotation_id="12305">pour</DiscourseConnective> les jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10515" docOffset="75">
+      <en>The content is defined in terms of the smallest measurable content.</en>
+      <fr>Cette valeur correspond <DiscourseConnective annotation_id="12346">à</DiscourseConnective> la plus petite quantité détectable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10583" docOffset="76">
+      <en>I can only urge the Federal Institute to withdraw this misleading and indefensible claim.</en>
+      <fr>Je ne peux <DiscourseConnective annotation_id="12395">qu'</DiscourseConnective>appeler l'institut fédéral <DiscourseConnective annotation_id="12425">à</DiscourseConnective> revenir sur cette affirmation trompeuse <DiscourseConnective annotation_id="12467">et</DiscourseConnective> indéfendable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10673" docOffset="77">
+      <en>It really is intolerable that we have to deal with such things.</en>
+      <fr>Ce genre de choses est proprement intolérable.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10737" docOffset="78">
+      <en>In summary, <DiscourseConnective annotation_id="10749" sense="Temporal.Synchrony">as</DiscourseConnective> regards the Toys Directive, we have produced a document which, to the best of our knowledge and belief, corresponds to what was possible at the time it was adopted.</en>
+      <fr>
+        <DiscourseConnective annotation_id="12531">En résumé</DiscourseConnective>, nous avons, avec la directive relative à la sécurité des jouets, présenté un document qui, <DiscourseConnective annotation_id="12633">en</DiscourseConnective> toute bonne foi, allait au bout des possibilités <DiscourseConnective annotation_id="12685">à</DiscourseConnective> l'époque de son adoption.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="10917" docOffset="79">
+      <en>We have <Alignment alignment="8671" annotation_id="10925">
+          <DiscourseConnective annotation_id="10925" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> framed it in such a way that new findings can be incorporated at any time <Alignment alignment="12841" annotation_id="11004">
+          <Alignment alignment="37800" annotation_id="11004">
+            <DiscourseConnective annotation_id="11004" sense="Contingency.Cause.Result">so that</DiscourseConnective>
+          </Alignment>
+        </Alignment> our safety requirements for toys will always reflect the state of the art in science and research.</en>
+      <fr>Nous avons <Alignment alignment="35483" annotation_id="12724">
+          <DiscourseConnective annotation_id="12724" sense="Expansion.Conjunction">en outre</DiscourseConnective>
+        </Alignment> conçu cette directive <DiscourseConnective annotation_id="12755">de manière à ce qu'</DiscourseConnective>il puisse être tenu compte <DiscourseConnective annotation_id="12801">à</DiscourseConnective> tout moment de nouvelles découvertes, <Alignment alignment="11004" annotation_id="12841">
+          <Alignment alignment="7495" annotation_id="12841">
+            <DiscourseConnective annotation_id="12841" sense="Contingency.Cause.Result">afin que</DiscourseConnective>
+          </Alignment>
+        </Alignment> nos exigences relatives à la sécurité des jouets reflètent toujours l'état le plus actuel des connaissances scientifiques <DiscourseConnective annotation_id="12972">et</DiscourseConnective> de la recherche.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="11111" id="206" language="DE" name="Andreas Schwab">
+    <ParallelChunk annotation_id="11111" docOffset="80">
+      <en>Madam President, Commissioner, I would like to thank you sincerely for the clarity and credibility of your statement with regard to the limit values under discussion here.</en>
+      <fr>Madame la Présidente, Monsieur le Commissaire, je souhaiterais vous remercier sincèrement <DiscourseConnective annotation_id="13082">pour</DiscourseConnective> la clarté <DiscourseConnective annotation_id="13097">et</DiscourseConnective> la crédibilité de vos propos au sujet des valeurs limites incriminées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11283" docOffset="81">
+      <en>On behalf of the Group of the European People's Party (Christian Democrats) - we <Alignment alignment="13279" annotation_id="11364">
+          <DiscourseConnective annotation_id="11364" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> provided the rapporteur for the Toys Directive at that time in Marianne Thyssen - I would <Alignment alignment="13841" annotation_id="11459">
+          <DiscourseConnective annotation_id="11459" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> like to make it clear that we, too, want to achieve and maintain complete protection in respect of all hazardous substances.</en>
+      <fr>
+        <Alignment alignment="15823" annotation_id="13171">
+          <DiscourseConnective annotation_id="13171" sense="Contingency.Cause.Result">C'est pourquoi</DiscourseConnective>
+        </Alignment> je voudrais, au nom du groupe du Parti populaire européen (Démocrates-Chrétiens), dont était <Alignment alignment="19143" annotation_id="13279">
+          <DiscourseConnective annotation_id="13279" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+        </Alignment> issue <DiscourseConnective annotation_id="13298">à</DiscourseConnective> l'époque la rapporteure sur la directive relative à la sécurité des jouets, Marianne Thyssen, souligner <DiscourseConnective annotation_id="13404">que</DiscourseConnective>, nous <DiscourseConnective annotation_id="13414">aussi</DiscourseConnective>, nous voulons mettre en place <DiscourseConnective annotation_id="13450">et</DiscourseConnective> garantir sur la durée une protection complète contre toutes les substances dangereuses.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11594" docOffset="82">
+      <en>We know that, in this regard, we have a particular responsibility for the health of our children and therefore our future.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13541">En</DiscourseConnective> la matière, nous exerçons une responsabilité toute particulière vis-à-vis de la santé de nos enfants, qui représentent notre avenir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11717" docOffset="83">
+      <en>Particularly before Christmas - you mentioned this, Commissioner - it needs to be possible for parents and grandparents to be certain which toys are safe for their children or grandchildren <Alignment alignment="55248" annotation_id="11907">
+          <DiscourseConnective annotation_id="11907" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> which toys they can buy for them.</en>
+      <fr>Dans la période qui précède Noël, plus qu'à tout autre moment de l'année, comme vous l'avez mentionné, Monsieur le Commissaire, il faut <DiscourseConnective annotation_id="13813">que</DiscourseConnective> les parents <DiscourseConnective annotation_id="13829">et</DiscourseConnective> les grands-parents puissent savoir exactement quels jouets sont sans danger <DiscourseConnective annotation_id="13908">pour</DiscourseConnective> leurs enfants <DiscourseConnective annotation_id="13927">et</DiscourseConnective> petits-enfants <Alignment alignment="20063" annotation_id="13945">
+          <DiscourseConnective annotation_id="13945" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> quels jouets ils peuvent leur acheter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="11945" docOffset="84">
+      <en>Like you, I, too, call on the market surveillance authorities in the Member States, in particular, in Germany, to fulfil their obligations and remove dangerous toys from the market.</en>
+      <fr>
+        <DiscourseConnective annotation_id="13987">Tout comme</DiscourseConnective> vous, j'appelle les autorités chargées de la surveillance du marché dans les États membres et, <DiscourseConnective annotation_id="14093">notamment</DiscourseConnective>, <DiscourseConnective annotation_id="14104">en</DiscourseConnective> Allemagne, <DiscourseConnective annotation_id="14118">à</DiscourseConnective> remplir leurs obligations <DiscourseConnective annotation_id="14146">et</DiscourseConnective> à retirer du marché les jouets dangereux.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12127" docOffset="85">
+      <en>I believe that we made the right decision at the time not to implement certification by third bodies as a general evaluation criterion for toys.</en>
+      <fr>Je pense que la décision <DiscourseConnective annotation_id="14216">que</DiscourseConnective> nous avons prise <DiscourseConnective annotation_id="14237">à</DiscourseConnective> l'époque de ne pas retenir <DiscourseConnective annotation_id="14266">comme</DiscourseConnective> critère d'évaluation général des jouets une certification par des organismes indépendants était la bonne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12272" docOffset="86">
+      <en>As regards the limit values, a similar appeal was made a year ago - <Alignment alignment="36070" annotation_id="12340">
+          <DiscourseConnective annotation_id="12340" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you mentioned.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14378">S'</DiscourseConnective>agissant des valeurs limites, nous avons, <Alignment alignment="3724" annotation_id="14422">
+          <DiscourseConnective annotation_id="14422" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous l'avez précisé, déjà été confrontés à un tel appel il y a un an.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12358" docOffset="87">
+      <en>At that time, I wrote a letter to you asking you to refer the matter to the Commission's scientific committee, <DiscourseConnective annotation_id="12469" sense="Expansion.Conjunction">and</DiscourseConnective> that is something for which I am very grateful to you.</en>
+      <fr>
+        <DiscourseConnective annotation_id="14498">À</DiscourseConnective> l'époque, je vous ai écrit <DiscourseConnective annotation_id="14527">en</DiscourseConnective> vous demandant de porter l'affaire devant le comité scientifique de la Commission. Je vous suis extrêmement reconnaissant de l'avoir fait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12528" docOffset="88">
+      <en>I tried, back then, to obtain more scientific opinions from Germany <DiscourseConnective annotation_id="12596" sense="Expansion.Conjunction">and</DiscourseConnective> I have since received these.</en>
+      <fr>À l'époque, je me suis efforcé de rassembler d'autres opinions scientifiques <DiscourseConnective annotation_id="14746">en</DiscourseConnective> Allemagne, que j'ai <DiscourseConnective annotation_id="14769">depuis</DiscourseConnective> lors reçues.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12629" docOffset="89">
+      <en>I would like to quote from one study by the Chemisches und Veterinäruntersuchungsamt Stuttgart (the Stuttgart Chemical and Veterinary Testing Office): 'Comparisons of the higher migration limit values in the new directive with the fifteen year old values in DIN EN 713 are ultimately difficult to evaluate from a technical point of view.'</en>
+      <fr>Je souhaiterais citer ici une étude du Chemisches und Veterinäruntersuchungsamt Stuttgart (Bureau d'inspection chimique <DiscourseConnective annotation_id="14909">et</DiscourseConnective> vétérinaire de Stuttgart): "Il est, en bout de course, difficile d'effectuer, sur le plan technique, une comparaison des valeurs limites de migration supérieures fixées par la nouvelle directive <DiscourseConnective annotation_id="15107">et</DiscourseConnective> des valeurs fixées il y a quinze ans dans la norme DIN EN 713."</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="12968" docOffset="90">
+      <en>With this, I believe I can explain that it is not a cheap way of palming the issue off on to science and saying 'we do not want to examine this any closer <Alignment alignment="56838" annotation_id="13123">
+          <DiscourseConnective annotation_id="13123" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> we do not want to understand it', <Alignment alignment="15425" annotation_id="13165">
+          <DiscourseConnective annotation_id="13165" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> it is a genuine and difficult dispute among experts <Alignment alignment="193" annotation_id="13221">
+          <DiscourseConnective annotation_id="13221" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> one institute in Germany is clearly putting its point of view across particularly strongly.</en>
+      <fr>Je pense que cela permet d'expliquer <DiscourseConnective annotation_id="15211">que</DiscourseConnective> nous n'avons pas affaire ici à une tentative un peu facile de refiler le problème <DiscourseConnective annotation_id="15297">à</DiscourseConnective> la communauté scientifique <DiscourseConnective annotation_id="15326">en</DiscourseConnective> disant "nous ne voulons pas examiner cela de plus près, <Alignment alignment="31799" annotation_id="15385">
+          <DiscourseConnective annotation_id="15385" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> nous ne voulons pas le comprendre", <Alignment alignment="7682" annotation_id="15425">
+          <DiscourseConnective annotation_id="15425" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> bel <DiscourseConnective annotation_id="15434">et</DiscourseConnective> bien à une houleux débat scientifique <Alignment alignment="18291" annotation_id="15475">
+          <DiscourseConnective annotation_id="15475" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> à un institut précis <DiscourseConnective annotation_id="15499">en</DiscourseConnective> Allemagne qui, manifestement, prend la question très à cœur.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13317" docOffset="91">
+      <en>
+        <Alignment alignment="8166" annotation_id="13317">
+          <DiscourseConnective annotation_id="13317" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I urge you, Commissioner, to do everything possible to bring together the scientific institutes involved to enable them finally to agree on a scientifically objective opinion.</en>
+      <fr>Je vous encourage <Alignment alignment="6037" annotation_id="15581">
+          <DiscourseConnective annotation_id="15581" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment>, Monsieur le Commissaire, <DiscourseConnective annotation_id="15617">à</DiscourseConnective> faire tout ce qui est en votre pouvoir <DiscourseConnective annotation_id="15658">pour</DiscourseConnective> amener les instituts scientifiques concernés autour de la table et leur permettre <DiscourseConnective annotation_id="15745">enfin</DiscourseConnective> de se mettre d'accord sur un avis scientifique objectif.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="13502" id="207" language="EL" name="Sylvana Rapti">
+    <ParallelChunk annotation_id="13502" docOffset="92">
+      <en>Madam President, at this time every year, parents intervene to ensure that letters are received by Father Christmas. Children ask for toys in these letters.</en>
+      <fr>Madame la Présidente, chaque année, <DiscourseConnective annotation_id="15844">à</DiscourseConnective> cette époque, les parents interviennent pour s'assurer <DiscourseConnective annotation_id="15901">que</DiscourseConnective> le père Noël recevra bien les lettres qui lui ont été adressées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13659" docOffset="93">
+      <en>One of these toys might be this one here, just <Alignment alignment="16044" annotation_id="13706">
+          <DiscourseConnective annotation_id="13706" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> this one here might be one of the 104 toys controlled by the Federal German institute responsible for identifying dangers in consumer goods.</en>
+      <fr>Dans ces lettres, les enfants demandent des jouets, n'importe quel jouet, <Alignment alignment="4882" annotation_id="16044">
+          <DiscourseConnective annotation_id="16044" sense="Temporal.Synchrony">et</DiscourseConnective>
+        </Alignment> ce jouet pourrait très bien être l'un des 104 jouets contrôlés par l'institut fédéral allemand chargé d'analyser le danger présenté par les biens de consommation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13850" docOffset="94">
+      <en>I have just listened to the Commissioner basically blame the institute for doing its work.</en>
+      <fr>Au fond, ce que je viens d'entendre, c'est que le commissaire reproche à l'institut de faire son travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13941" docOffset="95">
+      <en>I have listened to him heaping blame on scientists.</en>
+      <fr>J'ai entendu le commissaire accumuler les reproches <DiscourseConnective annotation_id="16368">à</DiscourseConnective> l'encontre des scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="13993" docOffset="96">
+      <en>I have listened to him heaping blame on the Member States, who are responsible for supervision.</en>
+      <fr>Je l'ai entendu couvrir de remontrances les États membres, responsables de la surveillance du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14089" docOffset="97">
+      <en>I have listened to all this with a great deal of interest, just <Alignment alignment="16549" annotation_id="14153">
+          <DiscourseConnective annotation_id="14153" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I have listened to him constantly telling us, with a great deal of honesty and solid data, that every previous directive is improved every now and <DiscourseConnective annotation_id="14303" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> with new data.</en>
+      <fr>J'ai écouté tout ceci avec beaucoup d'intérêt, <Alignment alignment="14153" annotation_id="16549">
+          <DiscourseConnective annotation_id="16549" sense="Temporal.Synchrony">tout comme</DiscourseConnective>
+        </Alignment> j'ai écouté le commissaire nous répéter encore et encore, avec beaucoup d'honnêteté <DiscourseConnective annotation_id="16644">et</DiscourseConnective> des données solides, <DiscourseConnective annotation_id="16668">que</DiscourseConnective> toutes les anciennes directives sont améliorées ci et là lorsque de nouvelles informations sont disponibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14323" docOffset="98">
+      <en>That fact alone confirms that the Federal German institute has done its job properly.</en>
+      <fr>Ce fait à lui seul confirme <DiscourseConnective annotation_id="16809">que</DiscourseConnective> l'institut fédéral allemand a fait son travail.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14409" docOffset="99">
+      <en>
+        <DiscourseConnective annotation_id="14409" sense="Contingency.Cause.Result">So</DiscourseConnective> we need to bear that in mind.</en>
+      <fr>Gardons-le à l'esprit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14442" docOffset="100">
+      <en>As far <DiscourseConnective annotation_id="14449" sense="Temporal.Synchrony">as</DiscourseConnective> the directive is concerned, it is due to be applied in 2011 and, for chemical substances, in 2014, <Alignment alignment="16932" annotation_id="14551">
+          <DiscourseConnective annotation_id="14551" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you know.</en>
+      <fr>
+        <DiscourseConnective annotation_id="16884">En</DiscourseConnective> ce qui concerne la directive, celle-ci doit, <Alignment alignment="32019" annotation_id="16932">
+          <DiscourseConnective annotation_id="16932" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous le savez, entrer en vigueur <DiscourseConnective annotation_id="16971">en</DiscourseConnective> 2011 <DiscourseConnective annotation_id="16979">et</DiscourseConnective>, <DiscourseConnective annotation_id="16983">pour</DiscourseConnective> les substances chimiques, <DiscourseConnective annotation_id="17014">en</DiscourseConnective> 2014.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14564" docOffset="101">
+      <en>And another thing: on 17 December, <Alignment alignment="17055" annotation_id="14599">
+          <DiscourseConnective annotation_id="14599" sense="Expansion.Restatement">in other words</DiscourseConnective>
+        </Alignment>, the day after tomorrow, each Member State will go to the Commission in order to present its draft in connection with the market supervision regulation.</en>
+      <fr>J'ajouterai que le 17 décembre, <Alignment alignment="17012" annotation_id="17055">
+          <DiscourseConnective annotation_id="17055" sense="Expansion.Restatement">soit</DiscourseConnective>
+        </Alignment> après-demain, chaque État membre présentera <DiscourseConnective annotation_id="17104">à</DiscourseConnective> la Commission ses plans concernant la régulation et la surveillance du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14767" docOffset="102">
+      <en>These relate directly to the Christmas market. These relate directly to the health of our children, who play with the toys that we buy them.</en>
+      <fr>Le marché de Noël est directement concerné ici, tout comme l'est la santé de nos enfants, qui jouent avec les jouets <DiscourseConnective annotation_id="17302">que</DiscourseConnective> nous leurs achetons.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="14908" docOffset="103">
+      <en>Finally, it is very important that the debate on toys should not be held at this time every year.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17327">Enfin</DiscourseConnective>, il faut absolument <DiscourseConnective annotation_id="17353">que</DiscourseConnective> le débat sur les jouets ne revienne pas <DiscourseConnective annotation_id="17397">à</DiscourseConnective> cette époque tous les ans.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15006" docOffset="104">
+      <en>The debate on toys and safety should really be held throughout the year.</en>
+      <fr>C'est un débat qui doit véritablement être mené toute l'année.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15079" docOffset="105">
+      <en>That is the Commission's responsibility.</en>
+      <fr>Il appartient à la Commission de s'en assurer.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="15120" id="208" language="DE" name="Jürgen Creutzmann">
+    <ParallelChunk annotation_id="15120" docOffset="106">
+      <en>Madam President, Commissioner, the Group of the Alliance of Liberals and Democrats for Europe supports the views expressed in the opinion of the German Federal Institute for Risk Assessment to the effect that the ALARA principle, <DiscourseConnective annotation_id="15350" sense="Expansion.Restatement">in other words</DiscourseConnective>, the principle of 'as low as reasonably achievable', should apply in the assessment of carcinogenic substances.</en>
+      <fr>Madame la Présidente, Monsieur le Commissaire, le groupe de l'Alliance des démocrates <DiscourseConnective annotation_id="17622">et</DiscourseConnective> des libéraux <DiscourseConnective annotation_id="17638">pour</DiscourseConnective> l'Europe appuie l'opinion exprimée dans l'avis de l'Institut fédéral allemand <DiscourseConnective annotation_id="17721">pour</DiscourseConnective> l'analyse des risques selon laquelle le principe ALARA, soit le principe du "niveau le plus faible pouvant raisonnablement être atteint", doit s'appliquer <DiscourseConnective annotation_id="17881">à</DiscourseConnective> l'évaluation des substances cancérigènes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15477" docOffset="107">
+      <en>Secondly, there is <DiscourseConnective annotation_id="15496" sense="Contingency.Cause.Result">consequently</DiscourseConnective> a need for the Commission to examine whether this principle is <DiscourseConnective annotation_id="15572" sense="Expansion.Conjunction">also</DiscourseConnective> satisfied by the limit values laid down in the Toys Directive.</en>
+      <fr>
+        <DiscourseConnective annotation_id="17925">Deuxièmement</DiscourseConnective>, il en découle <DiscourseConnective annotation_id="17953">que</DiscourseConnective> la Commission doit examiner <DiscourseConnective annotation_id="17985">si</DiscourseConnective> les valeurs limites fixées dans la directive relative à la sécurité des jouets respectent ce principe.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15640" docOffset="108">
+      <en>Thirdly, <Alignment alignment="64811" annotation_id="15649">
+          <DiscourseConnective annotation_id="15649" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> this does not happen, we call on the Commission to ensure that, <DiscourseConnective annotation_id="15716" sense="Temporal.Asynchronous.Precedence">until</DiscourseConnective> the Toys Directive has been transposed by all the Member States in 2011, the limit values are laid down in the Toys Directive in such a way <DiscourseConnective annotation_id="15862" sense="Temporal.Synchrony">as</DiscourseConnective> to rule out any risk to the health of children from softening agents in toys.</en>
+      <fr>
+        <DiscourseConnective annotation_id="18091">Troisièmement</DiscourseConnective>, <Alignment alignment="15649" annotation_id="18106">
+          <DiscourseConnective annotation_id="18106" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> ce n'est pas le cas, nous appelons la Commission <DiscourseConnective annotation_id="18158">à</DiscourseConnective> faire en sorte <DiscourseConnective annotation_id="18175">que</DiscourseConnective>, d'ici à ce que la directive relative à la sécurité des jouets ait été transposé par tous les États membres, soit <DiscourseConnective annotation_id="18293">en</DiscourseConnective> 2011, des valeurs limites y soient fixées qui permettent d'exclure tout risque <DiscourseConnective annotation_id="18375">pour</DiscourseConnective> la santé des enfants provenant de la présence de phtalates dans les jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="15943" docOffset="109">
+      <en>Fourthly, the principle enshrined in the Toys Directive, whereby chemicals that are potentially carcinogenic, mutagenic or toxic to reproduction are impermissible, must be implemented with regard to accessible parts of toys.</en>
+      <fr>Quatrièmement, le principe ancré dans la directive relative à la sécurité des jouets d'une interdiction stricte des substances chimiques potentiellement cancérigènes, mutagènes <DiscourseConnective annotation_id="18633">ou</DiscourseConnective> toxiques <DiscourseConnective annotation_id="18645">pour</DiscourseConnective> la reproduction doit être mis en œuvre <DiscourseConnective annotation_id="18689">en</DiscourseConnective> ce qui concerne les parties accessibles des jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16168" docOffset="110">
+      <en>This must actually be achieved by the limit values set, <DiscourseConnective annotation_id="16224" sense="Temporal.Synchrony">as</DiscourseConnective> <DiscourseConnective annotation_id="16227" sense="Expansion.Alternative">otherwise</DiscourseConnective> such a directive is worthless.</en>
+      <fr>En pratique, les valeurs limites fixées doivent le permettre, sans quoi une telle directive est inutile.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16268" docOffset="111">
+      <en>Fifthly, this calls, in particular, for better and more efficient market surveillance, <Alignment alignment="38515" annotation_id="16355">
+          <DiscourseConnective annotation_id="16355" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it is usually toys that have been imported into the EU that exceed the limit values set by the Union.</en>
+      <fr>Cinquièmement, cela nécessite <DiscourseConnective annotation_id="18879">notamment</DiscourseConnective> <DiscourseConnective annotation_id="18889">que</DiscourseConnective> le marché soit <DiscourseConnective annotation_id="18908">mieux</DiscourseConnective> surveillé <DiscourseConnective annotation_id="18924">et</DiscourseConnective> de manière plus efficace, <Alignment alignment="11265" annotation_id="18953">
+          <DiscourseConnective annotation_id="18953" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> ce sont souvent les jouets importés dans l'UE qui dépassent les valeurs limites fixées par l'Union.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16465" docOffset="112">
+      <en>
+        <Alignment alignment="19099" annotation_id="16465">
+          <DiscourseConnective annotation_id="16465" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, efficient market surveillance would <Alignment alignment="19111" annotation_id="16510">
+          <DiscourseConnective annotation_id="16510" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> enable toys manufactured within the EU to be tested to see whether they, too, comply with the limit values.</en>
+      <fr>Une surveillance efficace du marché passe <Alignment alignment="16465" annotation_id="19099">
+          <DiscourseConnective annotation_id="19099" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> <Alignment alignment="16796" annotation_id="19109">
+          <DiscourseConnective annotation_id="19109" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> par la possibilité de contrôler les jouets fabriqués dans l'UE, <DiscourseConnective annotation_id="19183">afin de</DiscourseConnective> voir <DiscourseConnective annotation_id="19196">si</DiscourseConnective> eux <DiscourseConnective annotation_id="19203">aussi</DiscourseConnective> respectent les valeurs limites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16623" docOffset="113">
+      <en>Sixthly, it is totally unacceptable, should this be the case, that lower standards should apply to imports into the EU than, <Alignment alignment="19397" annotation_id="16748">
+          <DiscourseConnective annotation_id="16748" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, into the US.</en>
+      <fr>Sixièmement, il est totalement inacceptable, <DiscourseConnective annotation_id="19286">si</DiscourseConnective> cela toutefois est vrai, <DiscourseConnective annotation_id="19314">que</DiscourseConnective> l'UE applique <DiscourseConnective annotation_id="19332">à</DiscourseConnective> ses importations des normes inférieures aux normes appliquées, <Alignment alignment="10862" annotation_id="19397">
+          <DiscourseConnective annotation_id="19397" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, par les États-Unis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="16774" docOffset="114">
+      <en>
+        <Alignment alignment="19430" annotation_id="16774">
+          <DiscourseConnective annotation_id="16774" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, the threat by the German Federal Minister for Food, Agriculture and Consumer Protection, Ilse Aigner, to go it alone and prohibit so-called 'toxic toys' herself is, in my view, completely the wrong way to go about it and totally counterproductive <Alignment alignment="19740" annotation_id="17030">
+          <DiscourseConnective annotation_id="17030" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to creating confidence in the European internal market.</en>
+      <fr>
+        <Alignment alignment="16774" annotation_id="19430">
+          <DiscourseConnective annotation_id="19430" sense="Comparison.Contrast">Toutefois</DiscourseConnective>
+        </Alignment>, la menace brandie par la ministre fédérale allemande de l'alimentation, de l'agriculture <DiscourseConnective annotation_id="19530">et</DiscourseConnective> de la protection des consommateurs, Ilse Aigner, d'interdire unilatéralement ce qu'elle appelle des "jouets toxiques" constitue, <DiscourseConnective annotation_id="19662">à</DiscourseConnective> mes yeux, une approche totalement erronée <DiscourseConnective annotation_id="19706">et</DiscourseConnective> parfaitement contre-productive <Alignment alignment="3283" annotation_id="19740">
+          <DiscourseConnective annotation_id="19740" sense="Temporal.Synchrony">si</DiscourseConnective>
+        </Alignment> nous voulons que le consommateur ait confiance dans le marché intérieur européen.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17100" docOffset="115">
+      <en>Merely cultivating national popular opinion not only destroys confidence in the European Institutions; it <Alignment alignment="25917" annotation_id="17206">
+          <DiscourseConnective annotation_id="17206" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> damages the German Federal Government, <Alignment alignment="19986" annotation_id="17250">
+          <DiscourseConnective annotation_id="17250" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> it approved the Toys Directive.</en>
+      <fr>Un tel populisme national ne se contente pas de détruire la confiance dans les institutions européennes, il est <Alignment alignment="17206" annotation_id="19937">
+          <DiscourseConnective annotation_id="19937" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> néfaste pour le gouvernement allemand, <Alignment alignment="8776" annotation_id="19986">
+          <DiscourseConnective annotation_id="19986" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> celui-ci a approuvé la directive relative à la sécurité des jouets.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="17290" id="209" language="DE" name="Heide Rühle">
+    <ParallelChunk annotation_id="17290" docOffset="116">
+      <en>Madam President, Commissioner, we requested this debate in order to correct and clarify exactly what in these claims is true <Alignment alignment="47314" annotation_id="17415">
+          <DiscourseConnective annotation_id="17415" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> what is merely cheap populism.</en>
+      <fr>Madame la Présidente, Monsieur le Commissaire, nous avons demandé la tenue de ce débat <DiscourseConnective annotation_id="20145">afin d'</DiscourseConnective>apporter des corrections aux affirmations qui ont été faites <DiscourseConnective annotation_id="20213">et</DiscourseConnective> de faire la part entre ce qui, dans ces affirmations, est vrai <Alignment alignment="10589" annotation_id="20279">
+          <DiscourseConnective annotation_id="20279" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> ce qui ne relève <DiscourseConnective annotation_id="20299">que</DiscourseConnective> d'un populisme de bas étage.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17450" docOffset="117">
+      <en>That was the background to this.</en>
+      <fr>C'est ce qui a motivé ce débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17483" docOffset="118">
+      <en>We would have expected the Commission to go to the press sooner, <DiscourseConnective annotation_id="17548" sense="Comparison.Contrast">but</DiscourseConnective> <Alignment alignment="20449" annotation_id="17552">
+          <DiscourseConnective annotation_id="17552" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> the matter can be cleared up through this debate, we will be very happy with that.</en>
+      <fr>Nous aurions attendu de la Commission qu'elle s'adresse plus rapidement <DiscourseConnective annotation_id="20436">à</DiscourseConnective> la presse. <Alignment alignment="14336" annotation_id="20449">
+          <DiscourseConnective annotation_id="20449" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> toutefois les choses peuvent être éclaircies grâce ce débat, nous en serions également très satisfaits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17638" docOffset="119">
+      <en>I welcome the announcement that you are going to carry out tests with regard to heavy metals and softening agents.</en>
+      <fr>Je me félicite d'apprendre <DiscourseConnective annotation_id="20583">que</DiscourseConnective> vous allez entreprendre des vérifications concernant les métaux lourds <DiscourseConnective annotation_id="20658">et</DiscourseConnective> les phtalates.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17753" docOffset="120">
+      <en>I believe that is urgently needed.</en>
+      <fr>Je pense <DiscourseConnective annotation_id="20685">que</DiscourseConnective> nous en avons besoin de toute urgence.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17788" docOffset="121">
+      <en>I would like to point out that the number of new cases of cancer in children under 15 years of age rose by more than 50% between 1980 - <DiscourseConnective annotation_id="17924" sense="Temporal.Synchrony">when</DiscourseConnective> data began to be collected - and 2006.</en>
+      <fr>Je tiens par ailleurs <DiscourseConnective annotation_id="20750">à</DiscourseConnective> souligner <DiscourseConnective annotation_id="20762">que</DiscourseConnective> le nombre de nouveaux cas de cancers chez les enfants âgés de moins de quinze ans a augmenté <DiscourseConnective annotation_id="20859">de plus</DiscourseConnective> de cinquante pour cent entre 1980, première année pour laquelle des données sont disponibles, <DiscourseConnective annotation_id="20961">et</DiscourseConnective> 2006.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="17968" docOffset="122">
+      <en>Malignant tumours are the second most common cause of death in children.</en>
+      <fr>Les tumeurs malignes sont la deuxième cause la plus fréquente de décès chez les enfants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18041" docOffset="123">
+      <en>We <Alignment alignment="21071" annotation_id="18044">
+          <DiscourseConnective annotation_id="18044" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> need to act, we need to check whether these figures are correct <Alignment alignment="21121" annotation_id="18118">
+          <DiscourseConnective annotation_id="18118" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> we need to respond <DiscourseConnective annotation_id="18141" sense="Contingency.Cause.Result">accordingly</DiscourseConnective>.</en>
+      <fr>Nous devons <Alignment alignment="25233" annotation_id="21071">
+          <DiscourseConnective annotation_id="21071" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> agir, vérifier <DiscourseConnective annotation_id="21091">si</DiscourseConnective> les chiffres sont corrects <Alignment alignment="25091" annotation_id="21121">
+          <DiscourseConnective annotation_id="21121" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, le cas échéant, prendre les mesures qui s'imposent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18154" docOffset="124">
+      <en>
+        <Alignment alignment="51609" annotation_id="18154">
+          <DiscourseConnective annotation_id="18154" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> this latest study by the German Federal Institute for Risk Assessment shows that the revised Toys Directive does not provide sufficient protection from carcinogenic softening agents, we will have to take action.</en>
+      <fr>
+        <Alignment alignment="26764" annotation_id="21177">
+          <DiscourseConnective annotation_id="21177" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> cette dernière étude de l'Institut fédéral allemand <DiscourseConnective annotation_id="21232">pour</DiscourseConnective> l'analyse des risques montre <DiscourseConnective annotation_id="21266">que</DiscourseConnective> la nouvelle directive sur la sécurité des jouets n'offre pas une protection suffisante contre les substances cancérigènes et les phtalates, nous devons agir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18369" docOffset="125">
+      <en>It cannot be the case that children can take up many times the quantity of carcinogenic substances in just one hour of skin contact than are contained in the smoke from 40 cigarettes.</en>
+      <fr>Nous ne pouvons pas accepter <DiscourseConnective annotation_id="21457">qu'en</DiscourseConnective> une heure à peine de contact cutané, les enfants puissent être exposés à une quantité de substances cancérigènes correspondant à plusieurs fois la quantité contenue dans la fumée de quarante cigarettes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18553" docOffset="126">
+      <en>These substances can be avoided.</en>
+      <fr>La présence de ces substances peut être évitée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18586" docOffset="127">
+      <en>The study shows that this is technically possible.</en>
+      <fr>L'étude montre <DiscourseConnective annotation_id="21729">que</DiscourseConnective> cela est techniquement possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18637" docOffset="128">
+      <en>Seventy percent of toys sold are below these thresholds.</en>
+      <fr>Soixante-dix pour cent des jouets vendus se situent en dessous des valeurs limites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18694" docOffset="129">
+      <en>
+        <Alignment alignment="21857" annotation_id="18694">
+          <DiscourseConnective annotation_id="18694" sense="Contingency.Cause.Result">Therefore</DiscourseConnective>
+        </Alignment>, it is possible at any time to require the other toys to meet these limit values, too.</en>
+      <fr>Il est <Alignment alignment="18694" annotation_id="21857">
+          <DiscourseConnective annotation_id="21857" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> possible <DiscourseConnective annotation_id="21871">à</DiscourseConnective> tout moment d'exiger des autres jouets <DiscourseConnective annotation_id="21912">qu'</DiscourseConnective>ils respectent les mêmes valeurs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18791" docOffset="130">
+      <en>It is presumably a question of price, <Alignment alignment="67824" annotation_id="18829">
+          <DiscourseConnective annotation_id="18829" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that cannot be regulated by the market alone <Alignment alignment="16939" annotation_id="18878">
+          <DiscourseConnective annotation_id="18878" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> the safety of children is at risk.</en>
+      <fr>C'est vraisemblablement une question de prix, <Alignment alignment="10601" annotation_id="21995">
+          <DiscourseConnective annotation_id="21995" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> on ne peut pas s'en remettre uniquement aux forces du marché <Alignment alignment="36847" annotation_id="22061">
+          <DiscourseConnective annotation_id="22061" sense="Temporal.Synchrony">lorsque</DiscourseConnective>
+        </Alignment> la santé des enfants est <DiscourseConnective annotation_id="22094">en</DiscourseConnective> jeu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="18918" docOffset="131">
+      <en>Political action needs to be taken to adjust and raise the threshold values <DiscourseConnective annotation_id="18994" sense="Contingency.Cause.Result">accordingly</DiscourseConnective>.</en>
+      <fr>Une action politique est nécessaire <DiscourseConnective annotation_id="22138">pour</DiscourseConnective>, le cas échéant, adapter <DiscourseConnective annotation_id="22168">et</DiscourseConnective> augmenter les valeurs limites.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19007" docOffset="132">
+      <en>Of course, Member States are responsible for market surveillance, not Europe, Parliament or the Commission.</en>
+      <fr>Bien sûr, la surveillance du marché relève de la compétence des États membres et non de celle de l'Europe, du Parlement <DiscourseConnective annotation_id="22322">ou</DiscourseConnective> de la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19115" docOffset="133">
+      <en>We have <DiscourseConnective annotation_id="19123" sense="Expansion.Conjunction">also</DiscourseConnective> called on Germany many times to take its duties in the area of market surveillance seriously and to take the relevant action.</en>
+      <fr>Nous-mêmes avons appelé à de nombreuses reprises les autorités allemandes <DiscourseConnective annotation_id="22417">à</DiscourseConnective> s'acquitter sérieusement de leurs tâches dans le domaine de la surveillance du marché <DiscourseConnective annotation_id="22505">et</DiscourseConnective> de prendre les mesures qui s'imposent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="19254" docOffset="134">
+      <en>
+        <Alignment alignment="22564" annotation_id="19254">
+          <DiscourseConnective annotation_id="19254" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, that does not, by any means, mean that we do not need to take action where there is doubt as to whether our threshold values reflect the latest scientific findings, <DiscourseConnective annotation_id="19428" sense="Expansion.Conjunction">and</DiscourseConnective> <Alignment alignment="22770" annotation_id="19432">
+          <DiscourseConnective annotation_id="19432" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> it is my hope and request that the new Commission will present proposals to Parliament as soon as possible <DiscourseConnective annotation_id="19549" sense="Contingency.Cause.Result">so that</DiscourseConnective> we can <DiscourseConnective annotation_id="19564" sense="Temporal.Asynchronous.Precedence">then</DiscourseConnective> adjust the relevant limit values in the comitology procedure.</en>
+      <fr>Cela ne signifie <Alignment alignment="11057" annotation_id="22564">
+          <DiscourseConnective annotation_id="22564" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="22574">en</DiscourseConnective> aucun cas que nous ne devions pas agir de notre côté <DiscourseConnective annotation_id="22630">lorsqu'</DiscourseConnective>il existe des doutes <DiscourseConnective annotation_id="22658">quant à</DiscourseConnective> l'actualité de nos valeurs limites compte tenu de l'évolution des connaissances scientifiques. J'espère <Alignment alignment="6423" annotation_id="22770">
+          <DiscourseConnective annotation_id="22770" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="22775">et</DiscourseConnective> je souhaite voir la nouvelle Commission proposer <DiscourseConnective annotation_id="22827">aussi</DiscourseConnective> vite <DiscourseConnective annotation_id="22838">que</DiscourseConnective> possible au Parlement des propositions permettant l'ajustement des valeurs limites incriminées dans le cadre de la procédure de comitologie.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="19631" id="210" name="Marianne Thyssen">
+    <ParallelChunk annotation_id="19631" docOffset="135">
+      <en>(NL) Madam President, Commissioner, ladies and gentlemen, the safety of children - our smallest and most vulnerable consumers - has always been a priority for the Group of the European People's Party (Christian Democrats) and indeed for everyone in this House, <DiscourseConnective annotation_id="19892" sense="Expansion.Conjunction">and</DiscourseConnective> it was for this very reason that, one year ago, we adopted a new, strict, Directive on the safety of toys.</en>
+      <fr>(NL) Madame la Présidente, Monsieur le Commissaire, Mesdames <DiscourseConnective annotation_id="23044">et</DiscourseConnective> Messieurs, la sécurité des enfants, les plus petits <DiscourseConnective annotation_id="23099">et</DiscourseConnective> les plus fragiles de nos consommateurs, est considérée <DiscourseConnective annotation_id="23157">depuis</DiscourseConnective> toujours comme une priorité par le groupe du Parti populaire européen (Démocrates-Chrétiens) <DiscourseConnective annotation_id="23257">et</DiscourseConnective>, <DiscourseConnective annotation_id="23261">d'ailleurs</DiscourseConnective>, par tous les députés de ce Parlement. C'est précisément <DiscourseConnective annotation_id="23329">pour</DiscourseConnective> cette raison <DiscourseConnective annotation_id="23347">que</DiscourseConnective> nous avons adopté, il y a un an, une nouvelle directive fixant des exigences strictes en matière de sécurité des jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20003" docOffset="136">
+      <en>Thanks to the excellent cooperation with the Commissioner and his services, with the Council Presidency and with my fellow MEPs across all the political groups, we were able to complete that mammoth task; <Alignment alignment="36571" annotation_id="20208">
+          <DiscourseConnective annotation_id="20208" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> quickly, namely in a single reading.</en>
+      <fr>Grâce <DiscourseConnective annotation_id="23478">à</DiscourseConnective> une excellente coopération avec le commissaire <DiscourseConnective annotation_id="23527">et</DiscourseConnective> ses services, la présidence du Conseil <DiscourseConnective annotation_id="23569">et</DiscourseConnective> mes collègues députés de tous les groupes politiques, nous avons pu mener <DiscourseConnective annotation_id="23646">à</DiscourseConnective> bien cette tâche colossale <Alignment alignment="20208" annotation_id="23675">
+          <DiscourseConnective annotation_id="23675" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> rapidement avec cela: <DiscourseConnective annotation_id="23700">en</DiscourseConnective> une seule lecture.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20249" docOffset="137">
+      <en>All our institutions were convinced that we had drawn up legislation that was the strictest in the world and was being followed attentively as far a field as China and the United States.</en>
+      <fr>Toutes nos institutions étaient convaincues <DiscourseConnective annotation_id="23766">que</DiscourseConnective> la législation <DiscourseConnective annotation_id="23785">que</DiscourseConnective> nous avions alors élaborée était la plus stricte du monde <DiscourseConnective annotation_id="23847">et</DiscourseConnective> que nos travaux étaient suivis attentivement jusqu'en Chine <DiscourseConnective annotation_id="23910">et</DiscourseConnective> aux États-Unis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20436" docOffset="138">
+      <en>Parliament acted sensibly as far <DiscourseConnective annotation_id="20469" sense="Temporal.Synchrony">as</DiscourseConnective> third-party certification was concerned, and took a particularly strict line concerning the standards on chemical substances such as allergens and heavy metals.</en>
+      <fr>Le Parlement a agi avec raison en ce qui concerne la certification par des organismes indépendants <DiscourseConnective annotation_id="24028">et</DiscourseConnective> a adopté une ligne particulièrement stricte s'agissant des normes relatives aux substances chimiques telles <DiscourseConnective annotation_id="24139">que</DiscourseConnective> les allergènes <DiscourseConnective annotation_id="24158">et</DiscourseConnective> les métaux lourds.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20633" docOffset="139">
+      <en>With regard to the substances that are carcinogenic, mutagenic or toxic for reproduction (CMR), we opted for a total ban, with a few exceptions under very strict conditions.</en>
+      <fr>Concernant les substances classées cancérigènes, mutagènes <DiscourseConnective annotation_id="24239">ou</DiscourseConnective> toxiques <DiscourseConnective annotation_id="24251">pour</DiscourseConnective> la reproduction (CMR), nous avons opté <DiscourseConnective annotation_id="24295">pour</DiscourseConnective> une interdiction totale, moyennant une poignée d'exceptions assorties de conditions très strictes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="20807" docOffset="140">
+      <en>This legislation provides for a transitional period, <Alignment alignment="59504" annotation_id="20860">
+          <DiscourseConnective annotation_id="20860" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that goes without saying - it is inherent in the system - <Alignment alignment="24506" annotation_id="20922">
+          <DiscourseConnective annotation_id="20922" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment>, in any case, this transitional period is shorter than the industry had said it could cope with.</en>
+      <fr>
+        <DiscourseConnective annotation_id="24399">Certes</DiscourseConnective>, cette législation prévoit une période de transition, <Alignment alignment="5561" annotation_id="24460">
+          <DiscourseConnective annotation_id="24460" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> c'est logique; c'est inhérent au système <Alignment alignment="20922" annotation_id="24506">
+          <DiscourseConnective annotation_id="24506" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="24510">dans tous les cas</DiscourseConnective>, la période fixée est plus courte <DiscourseConnective annotation_id="24562">que</DiscourseConnective> ce que le secteur nous a dit pouvoir respecter.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21023" docOffset="141">
+      <en>Ladies and gentlemen, either we got it completely wrong and failed with regard to this act, <Alignment alignment="69318" annotation_id="21115">
+          <DiscourseConnective annotation_id="21115" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> science and technology have evolved to such an extent that the act already needs amending, which can be done very quickly through the comitology procedure, <Alignment alignment="39627" annotation_id="21274">
+          <DiscourseConnective annotation_id="21274" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> there is nothing wrong, in which case we cannot play unnecessarily on people's fears and on their justified concern for their children's safety.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="24623">et</DiscourseConnective> Messieurs, <DiscourseConnective annotation_id="24637">soit</DiscourseConnective> nous nous sommes complètement fourvoyés <DiscourseConnective annotation_id="24682">et</DiscourseConnective> cette législation peut être considérée comme un échec, <Alignment alignment="19907" annotation_id="24740">
+          <DiscourseConnective annotation_id="24740" sense="Expansion.Alternative">soit</DiscourseConnective>
+        </Alignment> la science <DiscourseConnective annotation_id="24756">et</DiscourseConnective> la technologie ont tellement évolué <DiscourseConnective annotation_id="24795">depuis qu'</DiscourseConnective>elle doit <DiscourseConnective annotation_id="24815">déjà</DiscourseConnective> être amendée, ce qui peut se faire très rapidement via la procédure de comitologie, <Alignment alignment="389" annotation_id="24904">
+          <DiscourseConnective annotation_id="24904" sense="Expansion.Alternative">soit</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="24910">en fait</DiscourseConnective>, tout va bien. Dans ce dernier cas, nous ne pouvons pas jouer inutilement avec les peurs des gens <DiscourseConnective annotation_id="25016">et</DiscourseConnective> leur souci justifié de vouloir préserver leurs enfants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21422" docOffset="142">
+      <en>I have listened to and believed the Commissioner, <DiscourseConnective annotation_id="21472" sense="Expansion.Conjunction">and</DiscourseConnective> I see that the European Commission is doing what it has to do.</en>
+      <fr>J'ai écouté le commissaire et je le crois. Je constate <DiscourseConnective annotation_id="25130">que</DiscourseConnective> la Commission européenne fait ce qu'elle a à faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21539" docOffset="143">
+      <en>
+        <Alignment alignment="6632" annotation_id="21539">
+          <DiscourseConnective annotation_id="21539" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> further infringements should come to light in this field, I believe this shows we can rest assured that market surveillance is in place <Alignment alignment="30409" annotation_id="21678">
+          <DiscourseConnective annotation_id="21678" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that it is working.</en>
+      <fr>
+        <Alignment alignment="31729" annotation_id="25186">
+          <DiscourseConnective annotation_id="25186" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> d'autres infractions venaient <DiscourseConnective annotation_id="25219">à</DiscourseConnective> être constatées dans ce domaine, je pense que l'on pourra y voir un signe rassurant <DiscourseConnective annotation_id="25305">que</DiscourseConnective> la surveillance du marché existe bel <Alignment alignment="17912" annotation_id="25346">
+          <DiscourseConnective annotation_id="25346" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> bien et fonctionne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21702" docOffset="144">
+      <en>We have two questions, then: is the legislation still up to the minute, <Alignment alignment="25296" annotation_id="21774">
+          <DiscourseConnective annotation_id="21774" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> is the market surveillance adequate?</en>
+      <fr>Il nous reste <DiscourseConnective annotation_id="25383">alors</DiscourseConnective> à répondre à deux questions: la législation est-elle <DiscourseConnective annotation_id="25442">à</DiscourseConnective> jour <Alignment alignment="17001" annotation_id="25449">
+          <DiscourseConnective annotation_id="25449" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> la surveillance du marché est-elle suffisante?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="21815" docOffset="145">
+      <en>
+        <Alignment alignment="25499" annotation_id="21815">
+          <DiscourseConnective annotation_id="21815" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> the answer to both questions is 'yes', we must absolutely avoid giving way to populism and must make clear to people that there is no need to worry.</en>
+      <fr>
+        <Alignment alignment="15086" annotation_id="25499">
+          <DiscourseConnective annotation_id="25499" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> la réponse <DiscourseConnective annotation_id="25513">à</DiscourseConnective> ces deux questions est "oui", nous devons à tout prix éviter de céder au populisme <DiscourseConnective annotation_id="25598">et</DiscourseConnective> signifier clairement aux citoyens <DiscourseConnective annotation_id="25635">qu'</DiscourseConnective>ils n'ont aucune raison de s'inquiéter.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="21967" id="211" name="Christel Schaldemose">
+    <ParallelChunk annotation_id="21967" docOffset="146">
+      <en>(DA) Madam President, thank you, Commissioner, for your introduction.</en>
+      <fr>(DA) Madame la Présidente, je tiens à remercier M. le commissaire <DiscourseConnective annotation_id="25744">pour</DiscourseConnective> ses remarques introductives.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22037" docOffset="147">
+      <en>
+        <Alignment alignment="3224" annotation_id="22037">
+          <DiscourseConnective annotation_id="22037" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> I have understood you correctly, you wanted to ensure that a study was started into whether there are, <DiscourseConnective annotation_id="22143" sense="Expansion.Restatement">in fact</DiscourseConnective>, too many toxic substances in children's toys in Germany, <Alignment alignment="25894" annotation_id="22209">
+          <DiscourseConnective annotation_id="22209" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> the study indicates.</en>
+      <fr>
+        <Alignment alignment="16694" annotation_id="25778">
+          <DiscourseConnective annotation_id="25778" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> je vous ai bien compris, votre intention est de faire en sorte <DiscourseConnective annotation_id="25844">qu'</DiscourseConnective>une enquête <DiscourseConnective annotation_id="25859">soit</DiscourseConnective> lancée afin de déterminer <DiscourseConnective annotation_id="25890">si</DiscourseConnective>, <Alignment alignment="33596" annotation_id="25894">
+          <DiscourseConnective annotation_id="25894" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> l'étude l'indique, il y a trop de substances toxiques dans les jouets pour enfants <DiscourseConnective annotation_id="25983">en</DiscourseConnective> Allemagne.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22233" docOffset="148">
+      <en>
+        <Alignment alignment="25997" annotation_id="22233">
+          <DiscourseConnective annotation_id="22233" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> I have it right, then I would say that your idea is a good one.</en>
+      <fr>
+        <Alignment alignment="34846" annotation_id="25997">
+          <DiscourseConnective annotation_id="25997" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> c'est effectivement le cas, je dirais <DiscourseConnective annotation_id="26038">qu'</DiscourseConnective>il <DiscourseConnective annotation_id="26044">s'</DiscourseConnective>agit d'une bonne idée.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22300" docOffset="149">
+      <en>It is extremely important for us to act quickly.</en>
+      <fr>Il est très important <DiscourseConnective annotation_id="26091">que</DiscourseConnective> nous agissions rapidement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22349" docOffset="150">
+      <en>
+        <Alignment alignment="15267" annotation_id="22349">
+          <DiscourseConnective annotation_id="22349" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> we have any reason to suspect that our children's safety is at risk, then we must act.</en>
+      <fr>
+        <Alignment alignment="38959" annotation_id="26122">
+          <DiscourseConnective annotation_id="26122" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> nous avons la moindre raison de soupçonner un risque <DiscourseConnective annotation_id="26178">pour</DiscourseConnective> la santé de nos enfants, nous devons agir.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22439" docOffset="151">
+      <en>
+        <Alignment alignment="26226" annotation_id="22439">
+          <DiscourseConnective annotation_id="22439" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, we would, of course, appreciate it <DiscourseConnective annotation_id="22487" sense="Contingency.Condition">if</DiscourseConnective> the Commission could get back to us here in Parliament very quickly to let us know whether <Alignment alignment="26342" annotation_id="22581">
+          <DiscourseConnective annotation_id="22581" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not there is anything in these claims.</en>
+      <fr>
+        <Alignment alignment="22439" annotation_id="26226">
+          <DiscourseConnective annotation_id="26226" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, nous apprécierions bien sûr que la Commission informe très rapidement le Parlement sur le caractère fondé <Alignment alignment="13471" annotation_id="26342">
+          <DiscourseConnective annotation_id="26342" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non de ces affirmations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22623" docOffset="152">
+      <en>
+        <Alignment alignment="26386" annotation_id="22623">
+          <DiscourseConnective annotation_id="22623" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I would like to point out that, <Alignment alignment="26417" annotation_id="22664">
+          <DiscourseConnective annotation_id="22664" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> it comes to softening agents in toys, there are, <Alignment alignment="67943" annotation_id="22718">
+          <Alignment alignment="26520" annotation_id="22718">
+            <DiscourseConnective annotation_id="22718" sense="Expansion.Restatement">in fact</DiscourseConnective>
+          </Alignment>
+        </Alignment>, a number of researchers who are saying that there is no safe limit.</en>
+      <fr>Je souhaiterais <Alignment alignment="3402" annotation_id="26386">
+          <DiscourseConnective annotation_id="26386" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> faire remarquer <DiscourseConnective annotation_id="26412">que</DiscourseConnective>, <Alignment alignment="22664" annotation_id="26417">
+          <DiscourseConnective annotation_id="26417" sense="Temporal.Synchrony">s'</DiscourseConnective>
+        </Alignment>agissant de la présence de phtalates dans les jouets, un certain nombre de scientifiques considèrent <Alignment alignment="13160" annotation_id="26520">
+          <Alignment alignment="17973" annotation_id="26520">
+            <DiscourseConnective annotation_id="26520" sense="Expansion.Restatement">en fait</DiscourseConnective>
+          </Alignment>
+        </Alignment> <DiscourseConnective annotation_id="26528">qu'</DiscourseConnective>il n'existe aucun seuil permettant de garantir la sécurité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22795" docOffset="153">
+      <en>The only safe thing to do is to leave the softening agents out of our children's toys completely.</en>
+      <fr>La seule chose <DiscourseConnective annotation_id="26606">à</DiscourseConnective> faire si nous voulons garantir la sécurité de nos enfants est de renoncer purement et simplement à l'utilisation de telles substances dans les jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="22893" docOffset="154">
+      <en>I really think that we should take a stand on this and consider whether we should not have tightened up the rules.</en>
+      <fr>Je pense réellement <DiscourseConnective annotation_id="26779">que</DiscourseConnective> nous devrions prendre position <DiscourseConnective annotation_id="26814">en</DiscourseConnective> la matière <DiscourseConnective annotation_id="26828">et</DiscourseConnective> nous demander <DiscourseConnective annotation_id="26845">si</DiscourseConnective> nous n'aurions pas dû prendre des mesures plus strictes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23008" docOffset="155">
+      <en>I am not sure that the rules are good enough, even those in the new Toys Directive.</en>
+      <fr>Je ne suis pas certaine <DiscourseConnective annotation_id="26929">que</DiscourseConnective> les règles, <DiscourseConnective annotation_id="26945">même</DiscourseConnective> celles comprises dans la nouvelle directive relative à la sécurité des jouets, suffisent.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23092" docOffset="156">
+      <en>
+        <Alignment alignment="27049" annotation_id="23092">
+          <DiscourseConnective annotation_id="23092" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, there is another matter that I would <DiscourseConnective annotation_id="23138" sense="Expansion.Conjunction">also</DiscourseConnective> like to raise in this regard, <DiscourseConnective annotation_id="23173" sense="Expansion.Conjunction">and</DiscourseConnective> that is that, a month and a half ago, we received a Commission study into how the new market surveillance legislation had been implemented in each Member State.</en>
+      <fr>Il reste <Alignment alignment="23092" annotation_id="27049">
+          <DiscourseConnective annotation_id="27049" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment> une autre question <DiscourseConnective annotation_id="27078">que</DiscourseConnective> je voudrais soulever <DiscourseConnective annotation_id="27103">à cet égard</DiscourseConnective>. Il y a un mois <DiscourseConnective annotation_id="27131">et</DiscourseConnective> demi, nous avons pris livraison d'une étude de la Commission dressant un état des lieux de la mise en œuvre de la nouvelle législation relative à la surveillance du marché dans chaque État membre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23338" docOffset="157">
+      <en>It is <Alignment alignment="36580" annotation_id="23344">
+          <DiscourseConnective annotation_id="23344" sense="Expansion.Conjunction">indeed</DiscourseConnective>
+        </Alignment> right that it is the task of the Member States to ensure that market surveillance functions properly.</en>
+      <fr>Il est <Alignment alignment="9491" annotation_id="27338">
+          <DiscourseConnective annotation_id="27338" sense="Expansion.Conjunction">effectivement</DiscourseConnective>
+        </Alignment> vrai <DiscourseConnective annotation_id="27357">qu'</DiscourseConnective>il incombe aux États membres de veiller au bon fonctionnement de cette surveillance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23453" docOffset="158">
+      <en>
+        <Alignment alignment="27445" annotation_id="23453">
+          <DiscourseConnective annotation_id="23453" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, this study showed that, despite the fact that we have tightened up the rules, only two Member States chose to put more money into market surveillance.</en>
+      <fr>
+        <Alignment alignment="8216" annotation_id="27445">
+          <DiscourseConnective annotation_id="27445" sense="Comparison.Contrast">Or</DiscourseConnective>
+        </Alignment>, cette étude montre <DiscourseConnective annotation_id="27468">qu'</DiscourseConnective>n dépit <DiscourseConnective annotation_id="27479">du fait que</DiscourseConnective> nous ayons imposé des règles plus strictes, seuls deux États membres ont choisi de consacrer davantage de moyens <DiscourseConnective annotation_id="27604">à</DiscourseConnective> la surveillance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23613" docOffset="159">
+      <en>We ought to be able to do better than this.</en>
+      <fr>Nous devrions pouvoir faire <DiscourseConnective annotation_id="27651">mieux</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23657" docOffset="160">
+      <en>It is precisely to prevent terrible stories of unsafe toys on the market that we need significantly better market surveillance.</en>
+      <fr>C'est <DiscourseConnective annotation_id="27664">précisément</DiscourseConnective> <DiscourseConnective annotation_id="27676">pour</DiscourseConnective> éviter des histoires effroyables causées par la présence de jouets dangereux sur le marché <DiscourseConnective annotation_id="27772">que</DiscourseConnective> nous avons besoin d'une bien meilleure surveillance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23785" docOffset="161">
+      <en>I <Alignment alignment="27838" annotation_id="23787">
+          <DiscourseConnective annotation_id="23787" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="23797" sense="Expansion.Conjunction">also</DiscourseConnective> hope that the Commission will ensure that the Member States achieve this.</en>
+      <fr>J'espère <Alignment alignment="1316" annotation_id="27838">
+          <DiscourseConnective annotation_id="27838" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="27843">que</DiscourseConnective> la Commission veillera à ce <DiscourseConnective annotation_id="27875">que</DiscourseConnective> les États membres mettent cela en pratique.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="23876" id="212" name="Anna Hedh">
+    <ParallelChunk annotation_id="23876" docOffset="162">
+      <en>(SV) Madam President, I would like to thank Commissioner Verheugen for coming here to tell us about this important matter.</en>
+      <fr>(SV) Madame la Présidente, je voudrais remercier le commissaire Verheugen d'être venu ici <DiscourseConnective annotation_id="28013">pour</DiscourseConnective> aborder avec nous ce sujet important. Notre responsabilité dans ce domaine est immense.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="23999" docOffset="163">
+      <en>We have a huge responsibility to ensure that our children are not made unwell or put at risk.</en>
+      <fr>Il nous incombe de nous assurer à tout prix <DiscourseConnective annotation_id="28150">qu'</DiscourseConnective>il n'arrive pas de mal à nos enfants et que ceux-ci ne soient pas exposés au danger.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24093" docOffset="164">
+      <en>I would like to take this opportunity to put a couple of questions that I have concerning the commitments made by the Commission in connection with the negotiations ahead of the first reading vote on the Toys Directive, as well as ahead of our plenary vote.</en>
+      <fr>Je voudrais saisir l'occasion et poser une série de questions qui m'interpellent quant aux engagements pris par la Commission dans le cadre des négociations qui ont précédé le vote en première lecture sur la directive relative à la sécurité des jouets, <DiscourseConnective annotation_id="28491">ainsi</DiscourseConnective> qu'en amont de notre vote en plénière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24351" docOffset="165">
+      <en>The party groups that were involved in the negotiations agreed to remove certain limits on noise levels <Alignment alignment="28672" annotation_id="24455">
+          <DiscourseConnective annotation_id="24455" sense="Contingency.Cause.Reason">because</DiscourseConnective>
+        </Alignment> the wording approved by the Committee contained specific decibel levels.</en>
+      <fr>Les groupes parlementaires qui ont participé aux négociations ont décidé de supprimer certaines limites relatives aux niveaux de bruit, <Alignment alignment="7578" annotation_id="28672">
+          <DiscourseConnective annotation_id="28672" sense="Contingency.Cause.Reason">car</DiscourseConnective>
+        </Alignment> le libellé approuvé par la commission parlementaire évoquait des niveaux de décibels précis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24536" docOffset="166">
+      <en>The Commission said that these levels might be too high and promised <Alignment alignment="28851" annotation_id="24605">
+          <DiscourseConnective annotation_id="24605" sense="Expansion.Alternative.Chosen alternative">instead</DiscourseConnective>
+        </Alignment> to produce a standard based on maximum levels for sustained noise and short noises.</en>
+      <fr>La Commission, jugeant <DiscourseConnective annotation_id="28792">que</DiscourseConnective> ces niveaux pourraient s'avérer trop élevés, a promis, <Alignment alignment="4552" annotation_id="28851">
+          <DiscourseConnective annotation_id="28851" sense="Expansion.Alternative.Chosen alternative">à la place</DiscourseConnective>
+        </Alignment>, de proposer une norme basée sur des niveaux maximums <DiscourseConnective annotation_id="28916">pour</DiscourseConnective> les bruits continus <DiscourseConnective annotation_id="28941">et</DiscourseConnective> pour les bruits courts.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24697" docOffset="167">
+      <en>How far has the Commission got with its work on ensuring that toys do not cause hearing impairment?</en>
+      <fr>Où en sont les travaux entrepris par la Commission <DiscourseConnective annotation_id="29019">pour</DiscourseConnective> s'assurer <DiscourseConnective annotation_id="29034">que</DiscourseConnective> les jouets ne portent pas atteinte à l'ouïe?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24797" docOffset="168">
+      <en>When can we expect a standard stating maximum noise levels for toys?</en>
+      <fr>
+        <DiscourseConnective annotation_id="29083">Quand</DiscourseConnective> pouvons-nous nous attendre à disposer d'une norme fixant des niveaux limites de bruit <DiscourseConnective annotation_id="29175">pour</DiscourseConnective> les jouets?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24866" docOffset="169">
+      <en>I would <Alignment alignment="29208" annotation_id="24874">
+          <DiscourseConnective annotation_id="24874" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> like to highlight the issue of the font size used for warning texts.</en>
+      <fr>Je souhaiterais <Alignment alignment="67" annotation_id="29208">
+          <DiscourseConnective annotation_id="29208" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> souligner la question de la taille des caractères utilisés <DiscourseConnective annotation_id="29277">pour</DiscourseConnective> les textes d'avertissement.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="24948" docOffset="170">
+      <en>Once again, we were told that this would be resolved via standardisation.</en>
+      <fr>
+        <DiscourseConnective annotation_id="29310">Encore</DiscourseConnective> une fois, on nous a dit <DiscourseConnective annotation_id="29341">que</DiscourseConnective> cette question serait résolue au moyen de la normalisation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25022" docOffset="171">
+      <en>What is the Commission's view on the rules that should be applied here?</en>
+      <fr>Quel est l'avis de la Commission quant aux règles <DiscourseConnective annotation_id="29455">à</DiscourseConnective> appliquer ici?</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25094" docOffset="172">
+      <en>When can we expect a standard that includes minimum font sizes for warning texts?</en>
+      <fr>
+        <DiscourseConnective annotation_id="29472">Quand</DiscourseConnective> pouvons-nous nous attendre à disposer d'une norme fixant des tailles minimales <DiscourseConnective annotation_id="29557">pour</DiscourseConnective> les caractères des textes d'avertissement?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="25176" id="213" name="Małgorzata Handzlik">
+    <ParallelChunk annotation_id="25176" docOffset="173">
+      <en>(PL) The subject of toy safety arouses very great interest, especially during the pre-Christmas period, <Alignment alignment="29732" annotation_id="25280">
+          <DiscourseConnective annotation_id="25280" sense="Temporal.Synchrony">when</DiscourseConnective>
+        </Alignment> we are thinking about which toys to buy for the youngest among us.</en>
+      <fr>(PL) La sécurité des jouets est un sujet qui éveille un très grand intérêt, particulièrement dans la période qui précède Noël, <Alignment alignment="36394" annotation_id="29732">
+          <DiscourseConnective annotation_id="29732" sense="Temporal.Synchrony">alors que</DiscourseConnective>
+        </Alignment> nous réfléchissons aux jouets <DiscourseConnective annotation_id="29772">à</DiscourseConnective> acheter aux plus jeunes d'entre nous.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25352" docOffset="174">
+      <en>In the previous parliamentary term, we prepared what is, in my opinion, a very good solution for increasing the safety of the toys our children play with.</en>
+      <fr>Lors de la précédente législature, nous avons élaboré ce qui, <DiscourseConnective annotation_id="29874">à</DiscourseConnective> mes yeux, constitue une très bonne solution <DiscourseConnective annotation_id="29920">pour</DiscourseConnective> rendre plus sûrs les jouets avec lesquels jouent nos enfants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25507" docOffset="175">
+      <en>Unfortunately, we have to wait for the effects of these provisions.</en>
+      <fr>
+        <DiscourseConnective annotation_id="29987">Malheureusement</DiscourseConnective>, il faut <DiscourseConnective annotation_id="30012">maintenant</DiscourseConnective> attendre que ces nouvelles dispositions prennent effet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25575" docOffset="176">
+      <en>I do, <Alignment alignment="30088" annotation_id="25581">
+          <DiscourseConnective annotation_id="25581" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, believe they will bring tangible results.</en>
+      <fr>Je pense <Alignment alignment="42336" annotation_id="30088">
+          <DiscourseConnective annotation_id="30088" sense="Comparison.Contrast">néanmoins</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="30098">qu'</DiscourseConnective>elles apporteront des résultats tangibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25632" docOffset="177">
+      <en>I would like to thank, here, the Commission services for organising the Toys Road Show, <DiscourseConnective annotation_id="25720" sense="Contingency.Cause.Reason">because</DiscourseConnective> it is a very important initiative which is helping businesses to prepare for the changes which result from the directive.</en>
+      <fr>Je souhaiterais profiter de l'occasion <DiscourseConnective annotation_id="30183">pour</DiscourseConnective> remercier les services de la Commission <DiscourseConnective annotation_id="30228">pour</DiscourseConnective> l'organisation du Toys Road Show. Il s'agit d'une initiative très importante qui aide les entreprises <DiscourseConnective annotation_id="30335">à</DiscourseConnective> se préparer aux changements apportés par la directive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25850" docOffset="178">
+      <en>Ladies and gentlemen, I am, <Alignment alignment="30448" annotation_id="25878">
+          <DiscourseConnective annotation_id="25878" sense="Comparison.Contrast">however</DiscourseConnective>
+        </Alignment>, disturbed by another piece of information.</en>
+      <fr>Mesdames <DiscourseConnective annotation_id="30401">et</DiscourseConnective> Messieurs, une autre information m'inquiète <Alignment alignment="9420" annotation_id="30448">
+          <DiscourseConnective annotation_id="30448" sense="Comparison.Contrast">cependant</DiscourseConnective>
+        </Alignment>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="25930" docOffset="179">
+      <en>At the end of November, in the United States, the Consumer Product Safety Commission decided to recall over a million children's cots from the market.</en>
+      <fr>
+        <DiscourseConnective annotation_id="30459">À</DiscourseConnective> la fin du mois de novembre, la commission de la sécurité des produits de consommation aux États-Unis a décidé de retirer du marché plus d'un million de lits pour enfants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26081" docOffset="180">
+      <en>Another million will be recalled from the Canadian market.</en>
+      <fr>Un million de ces lits vont également être retirés du marché canadien.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26140" docOffset="181">
+      <en>A cot is an item of everyday use, <DiscourseConnective annotation_id="26174" sense="Expansion.Conjunction">and</DiscourseConnective> children come into contact with cots more often, perhaps, than with toys.</en>
+      <fr>Il <DiscourseConnective annotation_id="30706">s'</DiscourseConnective>agit là de biens faits pour l'usage quotidien, avec lesquels les enfants sont peut-être plus souvent <DiscourseConnective annotation_id="30809">en</DiscourseConnective> contact <DiscourseConnective annotation_id="30820">qu'</DiscourseConnective>avec des jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26252" docOffset="182">
+      <en>In view of the scale of the operation, I would be grateful <DiscourseConnective annotation_id="26311" sense="Contingency.Condition">if</DiscourseConnective> the Commissioner could comment on this matter.</en>
+      <fr>Compte tenu de l'échelle de l'opération, je serais reconnaissante à M. le commissaire de bien vouloir nous livrer ses commentaires <DiscourseConnective annotation_id="30971">à</DiscourseConnective> ce sujet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26361" docOffset="183">
+      <en>Can we be sure that the children's cots available on the European market are safe?</en>
+      <fr>Pouvons-nous être certains <DiscourseConnective annotation_id="31010">que</DiscourseConnective> les lits pour enfants vendus sur le marché européen ne présentent aucun danger?</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="26444" id="214" name="Anja Weisgerber">
+    <ParallelChunk annotation_id="26444" docOffset="184">
+      <en>(DE) Madam President, Commissioner, I, too, would like to thank you most sincerely for the clarity of your words.</en>
+      <fr>(DE) Madame la Présidente, Monsieur le Commissaire, je voudrais, moi <DiscourseConnective annotation_id="31163">aussi</DiscourseConnective>, vous remercier de tout cœur <DiscourseConnective annotation_id="31198">pour</DiscourseConnective> la clarté de vos propos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26558" docOffset="185">
+      <en>Essentially, it should be said that, overall, the Toys Directive has brought a considerable improvement in the protection of our children.</en>
+      <fr>Sur le fond, il faut admettre <DiscourseConnective annotation_id="31258">que</DiscourseConnective>, <DiscourseConnective annotation_id="31263">globalement</DiscourseConnective>, la directive relative à la sécurité des jouets marque un progrès considérable <DiscourseConnective annotation_id="31354">en</DiscourseConnective> matière de protection de nos enfants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26697" docOffset="186">
+      <en>We all approached it with the intention of producing the most stringent legislation anywhere in the world.</en>
+      <fr>Dans son élaboration, nous sommes tous partis de l'intention de produire la législation la plus stricte du monde <DiscourseConnective annotation_id="31508">à</DiscourseConnective> cet effet.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26804" docOffset="187">
+      <en>
+        <Alignment alignment="31521" annotation_id="26804">
+          <DiscourseConnective annotation_id="26804" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, many parents and grandparents are now concerned - <Alignment alignment="31614" annotation_id="26863">
+          <DiscourseConnective annotation_id="26863" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> you said - because of the studies by the German Federal Institute for Risk Assessment.</en>
+      <fr>
+        <Alignment alignment="37360" annotation_id="31521">
+          <DiscourseConnective annotation_id="31521" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, les études de l'Institut fédéral allemand <DiscourseConnective annotation_id="31574">pour</DiscourseConnective> l'analyse des risques ont éveillé, <Alignment alignment="19270" annotation_id="31614">
+          <DiscourseConnective annotation_id="31614" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> vous l'avez dit, des inquiétudes chez de nombreux parents <DiscourseConnective annotation_id="31678">et</DiscourseConnective> grands-parents.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="26953" docOffset="188">
+      <en>We now need to ask ourselves whether <Alignment alignment="56936" annotation_id="26990">
+          <DiscourseConnective annotation_id="26990" sense="Expansion.Alternative">or</DiscourseConnective>
+        </Alignment> not the Institute's statements and opinion are right. In any case, we need to examine the facts of the matter very closely.</en>
+      <fr>Nous devons <DiscourseConnective annotation_id="31709">à</DiscourseConnective> présent nous demander <DiscourseConnective annotation_id="31733">si</DiscourseConnective> les déclarations <DiscourseConnective annotation_id="31753">et</DiscourseConnective> la prise de position de l'institut sont <Alignment alignment="26990" annotation_id="31796">
+          <DiscourseConnective annotation_id="31796" sense="Expansion.Alternative">ou</DiscourseConnective>
+        </Alignment> non fondées et, <DiscourseConnective annotation_id="31815">quoi qu'il en soit</DiscourseConnective>, nous intéresser de très près au fond de l'affaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27117" docOffset="189">
+      <en>It is a question of the protection of our children.</en>
+      <fr>C'est de la protection de nos enfants qu'il s'agit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27169" docOffset="190">
+      <en>At this point, I would like to thank you most sincerely for having stated that you are willing to do that.</en>
+      <fr>Je voudrais, <DiscourseConnective annotation_id="31951">à</DiscourseConnective> ce stade, vous adresser mes plus sincères remerciements <DiscourseConnective annotation_id="32009">pour</DiscourseConnective> vous être déclaré prêt <DiscourseConnective annotation_id="32037">à</DiscourseConnective> le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27276" docOffset="191">
+      <en>
+        <Alignment alignment="32058" annotation_id="27276">
+          <DiscourseConnective annotation_id="27276" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I think that things need to move more quickly.</en>
+      <fr>Je pense <Alignment alignment="25239" annotation_id="32058">
+          <DiscourseConnective annotation_id="32058" sense="Comparison.Contrast">cependant qu'</DiscourseConnective>
+        </Alignment>il faut être plus rapide.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27332" docOffset="192">
+      <en>Not until next year, you say, during the first half of the year, will the findings of the scientific committee be available.</en>
+      <fr>Vous nous dites que le comité scientifique ne présentera pas ses conclusions <DiscourseConnective annotation_id="32174">avant</DiscourseConnective> l'année prochaine, au cours du premier semestre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27457" docOffset="193">
+      <en>It must be done quicker than that.</en>
+      <fr>Il faut être plus rapide <DiscourseConnective annotation_id="32254">que</DiscourseConnective> cela.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27492" docOffset="194">
+      <en>It is a question of the protection of our children.</en>
+      <fr>La sécurité de nos enfants est en jeu.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27544" docOffset="195">
+      <en>I really cannot understand why the Federal Institute left it so long to come out with these statements.</en>
+      <fr>Je ne comprends vraiment pas pourquoi l'institut fédéral a laissé passer tant de temps avant de faire ces déclarations.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27648" docOffset="196">
+      <en>I want to make that point here, too.</en>
+      <fr>Je tiens <DiscourseConnective annotation_id="32432">également</DiscourseConnective> <DiscourseConnective annotation_id="32442">à</DiscourseConnective> le dire ici.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="27685" id="215" name="Georgios Papanikolaou">
+    <ParallelChunk annotation_id="27685" docOffset="197">
+      <en>(EL) Madam President, dozens of instances have been recorded over recent years - 36 in 2000 alone - in which children needed immediate surgical intervention due to harmful substances in toys.</en>
+      <fr>(EL) Madame la Présidente, ces dernières années, des dizaines de cas d'enfants admis en urgence en chirurgie en raison de la présence de substances nocives dans les jouets ont été recensés, dont 36 rien <DiscourseConnective annotation_id="32660">qu'en</DiscourseConnective> 2000.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="27877" docOffset="198">
+      <en>I would <Alignment alignment="32687" annotation_id="27885">
+          <DiscourseConnective annotation_id="27885" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> remind the House that just last week, a report was published in America which says that one third of toys in circulation contain dangerous chemical substances.</en>
+      <fr>Je rappellerai <Alignment alignment="11700" annotation_id="32687">
+          <DiscourseConnective annotation_id="32687" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> à cette Assemblée <DiscourseConnective annotation_id="32715">que</DiscourseConnective>, la semaine dernière <DiscourseConnective annotation_id="32740">encore</DiscourseConnective>, un rapport publié aux États-Unis dénonçait la présence de substances chimiques dangereuses dans un tiers des jouets <DiscourseConnective annotation_id="32864">en</DiscourseConnective> circulation.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28050" docOffset="199">
+      <en>We should <Alignment alignment="14109" annotation_id="28060">
+          <DiscourseConnective annotation_id="28060" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> understand that the European mark of conformity (CEE) is not enough to guarantee toy safety.</en>
+      <fr>Il nous faut <Alignment alignment="12761" annotation_id="32893">
+          <DiscourseConnective annotation_id="32893" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> comprendre <DiscourseConnective annotation_id="32909">que</DiscourseConnective> la marque de conformité européenne (CEE) ne suffit pas <DiscourseConnective annotation_id="32968">à</DiscourseConnective> garantir l'innocuité des jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28163" docOffset="200">
+      <en>It is awarded following submission of a file by the company in question and not following preventive and spot checking of the product <DiscourseConnective annotation_id="28297" sense="Expansion.Conjunction">and</DiscourseConnective>, <Alignment alignment="19872" annotation_id="28302">
+          <Alignment alignment="33164" annotation_id="28302">
+            <DiscourseConnective annotation_id="28302" sense="Contingency.Cause.Result">as a result</DiscourseConnective>
+          </Alignment>
+        </Alignment>, we cannot assume that toys are safe.</en>
+      <fr>Cette marque est décernée sur la base d'un dossier déposé par la société concernée <DiscourseConnective annotation_id="33086">et</DiscourseConnective> non à la suite d'un contrôle préventif par sondage du produit en question. <Alignment alignment="40241" annotation_id="33164">
+          <Alignment alignment="9160" annotation_id="33164">
+            <DiscourseConnective annotation_id="33164" sense="Contingency.Cause.Result">Dès lors</DiscourseConnective>
+          </Alignment>
+        </Alignment>, il nous est impossible de garantir <DiscourseConnective annotation_id="33209">que</DiscourseConnective> les jouets sont bien inoffensifs.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28352" docOffset="201">
+      <en>In order, <Alignment alignment="33247" annotation_id="28362">
+          <DiscourseConnective annotation_id="28362" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, to ensure that our children - I do not have any, <Alignment alignment="21151" annotation_id="28422">
+          <DiscourseConnective annotation_id="28422" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> I hope that one day I shall - receive gifts from Father Christmas, <Alignment alignment="33375" annotation_id="28493">
+          <DiscourseConnective annotation_id="28493" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> mentioned earlier, which are completely safe and need not cause parents to worry, we must put pressure on the Member States to carry out more thorough checks and, of course, to strengthen current legislation.</en>
+      <fr>
+        <Alignment alignment="21411" annotation_id="33247">
+          <DiscourseConnective annotation_id="33247" sense="Contingency.Cause.Result">Par conséquent</DiscourseConnective>
+        </Alignment>, <DiscourseConnective annotation_id="33263">afin de</DiscourseConnective> s'assurer <DiscourseConnective annotation_id="33281">que</DiscourseConnective> nos enfants - je n'en ai pas personnellement, <Alignment alignment="5724" annotation_id="33331">
+          <DiscourseConnective annotation_id="33331" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> j'espère en avoir <DiscourseConnective annotation_id="33354">un jour</DiscourseConnective> - reçoivent, <Alignment alignment="7779" annotation_id="33375">
+          <DiscourseConnective annotation_id="33375" sense="Temporal.Synchrony">comme</DiscourseConnective>
+        </Alignment> nous l'avons dit tout à l'heure, du Père Noël des jouets totalement inoffensifs, <DiscourseConnective annotation_id="33462">et</DiscourseConnective> <DiscourseConnective annotation_id="33465">afin que</DiscourseConnective> les parents n'aient pas à s'inquiéter, nous devons faire pression sur les États membres <DiscourseConnective annotation_id="33562">afin que</DiscourseConnective> ceux-ci procèdent à des contrôles plus approfondis <DiscourseConnective annotation_id="33622">et</DiscourseConnective>, bien sûr, renforcent leurs législations actuellement en vigueur.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="28705" id="216" language="DE" name="Günter Verheugen">
+    <ParallelChunk annotation_id="28705" docOffset="202">
+      <en>Madam President, ladies and gentlemen, I am delighted at the broad consensus that this debate has shown.</en>
+      <fr>Madame la Présidente, Mesdames <DiscourseConnective annotation_id="33722">et</DiscourseConnective> Messieurs, je me réjouis du large consensus affiché à l'occasion de ce débat.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28810" docOffset="203">
+      <en>Allow me to make a preliminary comment.</en>
+      <fr>Permettez-moi de formuler une <DiscourseConnective annotation_id="33833">remarque</DiscourseConnective> préliminaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="28850" docOffset="204">
+      <en>We are dealing with a scientific institute, the German Federal Institute for Risk Assessment, which I have been aware of for some time as a result of its tendency to make alarmist announcements to the public without informing the Commission or any other European institutions of its findings.</en>
+      <fr>Nous sommes confrontés <DiscourseConnective annotation_id="33879">à</DiscourseConnective> un institut scientifique, l'Institut fédéral allemand <DiscourseConnective annotation_id="33935">pour</DiscourseConnective> l'analyse des risques, dont j'ai remarqué, <DiscourseConnective annotation_id="33983">depuis</DiscourseConnective> un certain temps déjà, la tendance <DiscourseConnective annotation_id="34025">à</DiscourseConnective> se livrer à des annonces alarmistes <DiscourseConnective annotation_id="34063">à</DiscourseConnective> destination du public <DiscourseConnective annotation_id="34087">sans</DiscourseConnective> informer ni la Commission ni toute autre institution européenne de ses découvertes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29143" docOffset="205">
+      <en>You can judge that for yourselves.</en>
+      <fr>À vous de porter votre propre jugement sur ceci.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29178" docOffset="206">
+      <en>The only thing that I know about this is that the continued funding of this institute from Germany's Federal budget is under discussion.</en>
+      <fr>Tout ce <DiscourseConnective annotation_id="34233">que</DiscourseConnective> je sais, c'est <DiscourseConnective annotation_id="34252">que</DiscourseConnective> la poursuite du financement de cet institut par le budget fédéral allemand fait l'objet de discussions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29315" docOffset="207">
+      <en>Perhaps that is one explanation for the institute's intensive public relations activities, <Alignment alignment="45234" annotation_id="29406">
+          <DiscourseConnective annotation_id="29406" sense="Comparison.Contrast">while</DiscourseConnective>
+        </Alignment> it clearly sets no great store by allowing us to examine its findings in any appropriate way.</en>
+      <fr>Cela explique peut-être en partie l'effort de relations publiques intensif auquel se livre l'institut, <Alignment alignment="29406" annotation_id="34463">
+          <DiscourseConnective annotation_id="34463" sense="Comparison.Contrast">alors que</DiscourseConnective>
+        </Alignment>, de toute évidence, celui-ci ne semble pas juger particulièrement opportun de nous permettre d'étudier comme il se doit ses conclusions.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29506" docOffset="208">
+      <en>
+        <Alignment alignment="34610" annotation_id="29506">
+          <DiscourseConnective annotation_id="29506" sense="Comparison.Contrast">Nevertheless</DiscourseConnective>
+        </Alignment> - and it seems I have been misunderstood on this point - even <Alignment alignment="49633" annotation_id="29581">
+          <DiscourseConnective annotation_id="29581" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> we only read something in the media, we still regard it as an indication of possible new scientific findings <Alignment alignment="34893" annotation_id="29693">
+          <DiscourseConnective annotation_id="29693" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> I have already passed this on to the scientific committee.</en>
+      <fr>
+        <Alignment alignment="35330" annotation_id="34610">
+          <DiscourseConnective annotation_id="34610" sense="Comparison.Contrast">Quoi qu'il en soit</DiscourseConnective>
+        </Alignment> - <DiscourseConnective annotation_id="34631">et</DiscourseConnective> je pense que j'ai été mal compris sur ce point -, <Alignment alignment="40873" annotation_id="34684">
+          <DiscourseConnective annotation_id="34684" sense="Contingency.Condition">même si</DiscourseConnective>
+        </Alignment> les seuls éléments dont nous disposons sont des articles de presse, nous considérons ces avertissements <DiscourseConnective annotation_id="34796">comme</DiscourseConnective> une possible indication que de nouvelles données scientifiques pourraient être disponibles <Alignment alignment="4573" annotation_id="34893">
+          <DiscourseConnective annotation_id="34893" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> j'ai d'ores et <DiscourseConnective annotation_id="34911">déjà</DiscourseConnective> porté l'affaire devant le comité scientifique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29756" docOffset="209">
+      <en>The call for me to do this that has been expressed here is not needed.</en>
+      <fr>Il est donc inutile <DiscourseConnective annotation_id="34983">que</DiscourseConnective> vous m'appeliez <DiscourseConnective annotation_id="35003">à</DiscourseConnective> le faire, comme cela vient d'être fait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="29827" docOffset="210">
+      <en>The moment that I receive an indication that there may be new scientific findings available concerning the safety of toys and the limit values that we have set, this information is sent to the scientific committee.</en>
+      <fr>
+        <DiscourseConnective annotation_id="35045">Dès que</DiscourseConnective> je reçois des éléments portant à croire <DiscourseConnective annotation_id="35093">que</DiscourseConnective> de nouveaux résultats scientifiques pourraient être disponibles et avoir des répercussions sur la sécurité des jouets <DiscourseConnective annotation_id="35215">et</DiscourseConnective> les valeurs limites <DiscourseConnective annotation_id="35238">que</DiscourseConnective> nous avons fixées, l'information est transmise au comité scientifique.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30042" docOffset="211">
+      <en>
+        <Alignment alignment="35313" annotation_id="30042">
+          <DiscourseConnective annotation_id="30042" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I must reiterate that you cannot expect me, <DiscourseConnective annotation_id="30095" sense="Expansion.Conjunction">and</DiscourseConnective> <DiscourseConnective annotation_id="30099" sense="Expansion.Conjunction">likewise</DiscourseConnective> I cannot expect you, to make a decision in respect of the disagreements among scientists regarding methods.</en>
+      <fr>
+        <Alignment alignment="10084" annotation_id="35313">
+          <DiscourseConnective annotation_id="35313" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, je tiens à répéter <DiscourseConnective annotation_id="35343">que</DiscourseConnective> vous ne pouvez pas attendre de moi, ni moi de vous, de trancher un débat méthodologique qui divise les scientifiques.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30216" docOffset="212">
+      <en>You cannot do that.</en>
+      <fr>Vous n'êtes pas en mesure de le faire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30236" docOffset="213">
+      <en>I cannot do that <Alignment alignment="35542" annotation_id="30253">
+          <DiscourseConnective annotation_id="30253" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> neither can you.</en>
+      <fr>Je ne suis pas en mesure de le faire, <Alignment alignment="4674" annotation_id="35542">
+          <DiscourseConnective annotation_id="35542" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> vous non plus.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30274" docOffset="214">
+      <en>I can do nothing more than say that the question of methodology in the measurement of possible limit values has been rigorously debated here in Parliament, in the Council and the Commission.</en>
+      <fr>Tout ce <DiscourseConnective annotation_id="35568">que</DiscourseConnective> je peux faire, c'est affirmer <DiscourseConnective annotation_id="35602">que</DiscourseConnective> la question des méthodes utilisées <DiscourseConnective annotation_id="35641">pour</DiscourseConnective> mesurer d'éventuelles valeurs limites a été intensivement débattue au sein de ce Parlement, au Conseil <DiscourseConnective annotation_id="35749">et</DiscourseConnective> à la Commission.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30465" docOffset="215">
+      <en>
+        <Alignment alignment="35769" annotation_id="30465">
+          <DiscourseConnective annotation_id="30465" sense="Expansion.Conjunction">Furthermore</DiscourseConnective>
+        </Alignment>, the opinion of this German institute is not shared by any other scientific institute in Europe - not one!</en>
+      <fr>
+        <Alignment alignment="7051" annotation_id="35769">
+          <DiscourseConnective annotation_id="35769" sense="Expansion.Conjunction">En outre</DiscourseConnective>
+        </Alignment>, pas un seul autre institut scientifique <DiscourseConnective annotation_id="35819">en</DiscourseConnective> Europe ne partage l'avis de cet institut allemand. Pas un.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30584" docOffset="216">
+      <en>
+        <Alignment alignment="52501" annotation_id="30584">
+          <DiscourseConnective annotation_id="30584" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> you believe that I am obliged to follow the opinion of a single institute and ignore that of all the others, then please tell me so <Alignment alignment="75025" annotation_id="30719">
+          <DiscourseConnective annotation_id="30719" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> you can reprimand me for this.</en>
+      <fr>
+        <Alignment alignment="31387" annotation_id="35881">
+          <DiscourseConnective annotation_id="35881" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> vous estimez <DiscourseConnective annotation_id="35897">que</DiscourseConnective> je suis dans l'obligation de suivre l'avis d'un seul institut <DiscourseConnective annotation_id="35963">en</DiscourseConnective> ignorant celui de tous les autres, dites-le <Alignment alignment="7454" annotation_id="36010">
+          <DiscourseConnective annotation_id="36010" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> jetez-moi la pierre.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30754" docOffset="217">
+      <en>I cannot assume this responsibility.</en>
+      <fr>Je ne peux pas prendre cette responsabilité.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30791" docOffset="218">
+      <en>Not one of you can do that either. <Alignment alignment="36110" annotation_id="30826">
+          <DiscourseConnective annotation_id="30826" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I will say it once again: <Alignment alignment="36145" annotation_id="30861">
+          <DiscourseConnective annotation_id="30861" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> any new findings come to light, the process will be set in motion.</en>
+      <fr>Aucun d'entre vous ne le peux, <Alignment alignment="16344" annotation_id="36110">
+          <DiscourseConnective annotation_id="36110" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> je le répète encore une fois: <Alignment alignment="34170" annotation_id="36145">
+          <DiscourseConnective annotation_id="36145" sense="Contingency.Condition">si</DiscourseConnective>
+        </Alignment> de quelconques nouvelles découvertes viennent <DiscourseConnective annotation_id="36194">à</DiscourseConnective> voir le jour, le processus sera enclenché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="30931" docOffset="219">
+      <en>Mrs Weisgerber, you said that the process should go quicker - unfortunately, it cannot go any quicker.</en>
+      <fr>Madame Weisgerber, vous nous dites <DiscourseConnective annotation_id="36274">que</DiscourseConnective> les choses doivent aller plus vite. <DiscourseConnective annotation_id="36314">Malheureusement</DiscourseConnective>, c'est impossible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31034" docOffset="220">
+      <en>These are very complicated scientific issues.</en>
+      <fr>Nous avons affaire ici à des questions scientifiques très complexes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31080" docOffset="221">
+      <en>Tests are needed.</en>
+      <fr>Des essais doivent être faits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31098" docOffset="222">
+      <en>You are perhaps not aware of this, <Alignment alignment="36481" annotation_id="31133">
+          <DiscourseConnective annotation_id="31133" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> extensive animal tests are needed, <Alignment alignment="50023" annotation_id="31172">
+          <DiscourseConnective annotation_id="31172" sense="Expansion.Instantiation">for example</DiscourseConnective>
+        </Alignment>, in order to be able to verify this sort of claim.</en>
+      <fr>Peut-être ne le savez-vous pas, <Alignment alignment="9766" annotation_id="36481">
+          <DiscourseConnective annotation_id="36481" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="36486">pour</DiscourseConnective> vérifier ce genre de déclarations, il est, <Alignment alignment="14701" annotation_id="36534">
+          <DiscourseConnective annotation_id="36534" sense="Expansion.Instantiation">par exemple</DiscourseConnective>
+        </Alignment>, nécessaire de procéder <DiscourseConnective annotation_id="36570">à</DiscourseConnective> des tests sur animaux à grande échelle.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31235" docOffset="223">
+      <en>You cannot force scientists to produce findings within a particular timeframe.</en>
+      <fr>Vous ne pouvez pas demander à la science de délivrer ses résultats dans des temps impartis.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31314" docOffset="224">
+      <en>I am sorry, <Alignment alignment="36728" annotation_id="31326">
+          <DiscourseConnective annotation_id="31326" sense="Comparison.Contrast">but</DiscourseConnective>
+        </Alignment> that is not possible.</en>
+      <fr>Vous m'en voyez désolé, <Alignment alignment="31326" annotation_id="36728">
+          <DiscourseConnective annotation_id="36728" sense="Comparison.Contrast">mais</DiscourseConnective>
+        </Alignment> ce n'est pas possible.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31352" docOffset="225">
+      <en>I must <Alignment alignment="36772" annotation_id="31359">
+          <DiscourseConnective annotation_id="31359" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> simply ask you to be satisfied with me telling you that the scientific committee has told us that it will be able to provide substantiated results by the middle of next year, <DiscourseConnective annotation_id="31544" sense="Expansion.Conjunction">and</DiscourseConnective> it will indeed do so.</en>
+      <fr>Je vous prierai <Alignment alignment="16084" annotation_id="36772">
+          <DiscourseConnective annotation_id="36772" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="36777">simplement</DiscourseConnective> de vous contenter de mes déclarations <DiscourseConnective annotation_id="36826">lorsque</DiscourseConnective> je vous dis <DiscourseConnective annotation_id="36846">que</DiscourseConnective> le comité scientifique a déclaré <DiscourseConnective annotation_id="36883">qu'</DiscourseConnective>il serait en mesure de nous livrer des résultats étayés <DiscourseConnective annotation_id="36942">pour</DiscourseConnective> la moitié de l'année prochaine. Il en sera fait <DiscourseConnective annotation_id="36995">ainsi</DiscourseConnective>.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31570" docOffset="226">
+      <en>On the basis of these results, the Commission will immediately prepare new proposals <Alignment alignment="37104" annotation_id="31655">
+          <DiscourseConnective annotation_id="31655" sense="Contingency.Condition">if</DiscourseConnective>
+        </Alignment> it should emerge that there are indeed new findings.</en>
+      <fr>Une fois <DiscourseConnective annotation_id="37011">en</DiscourseConnective> possession de ces résultats, la Commission préparera sans délai de nouvelles propositions <Alignment alignment="14491" annotation_id="37104">
+          <DiscourseConnective annotation_id="37104" sense="Contingency.Condition">s'</DiscourseConnective>
+        </Alignment>il <DiscourseConnective annotation_id="37109">s'</DiscourseConnective>avère <DiscourseConnective annotation_id="37117">qu'</DiscourseConnective>
+        <DiscourseConnective annotation_id="37120">effectivement</DiscourseConnective>, de nouvelles données scientifiques sont disponibles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31711" docOffset="227">
+      <en>I hope that makes it clear.</en>
+      <fr>J'espère avoir ainsi été clair.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31739" docOffset="228">
+      <en>Mr Creutzmann, the principle of using the lowest possible risk is valid.</en>
+      <fr>Monsieur Creutzmann, je ne conteste pas la validité du principe du plus petit niveau de risque pouvant être atteint.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31812" docOffset="229">
+      <en>I do not need the help of the Federal Institute for Risk Assessment to find that out.</en>
+      <fr>Je n'ai pas besoin <DiscourseConnective annotation_id="37356">que</DiscourseConnective> l'Institut fédéral <DiscourseConnective annotation_id="37379">pour</DiscourseConnective> l'analyse des risques m'en convainque.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31898" docOffset="230">
+      <en>The requirements that you derived from this are <Alignment alignment="37473" annotation_id="31946">
+          <DiscourseConnective annotation_id="31946" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment> <Alignment alignment="37478" annotation_id="31956">
+          <DiscourseConnective annotation_id="31956" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> met.</en>
+      <fr>Les conditions qui, selon vous, en découlent sont <Alignment alignment="31946" annotation_id="37473">
+          <DiscourseConnective annotation_id="37473" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> <Alignment alignment="4131" annotation_id="37478">
+          <DiscourseConnective annotation_id="37478" sense="Expansion.Conjunction">également</DiscourseConnective>
+        </Alignment> respectées.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="31966" docOffset="231">
+      <en>Mrs Rühle, you say that I should have gone to the press sooner.</en>
+      <fr>Madame Rühle, vous dites <DiscourseConnective annotation_id="37525">que</DiscourseConnective> j'aurais dû m'adresser plus tôt <DiscourseConnective annotation_id="37561">à</DiscourseConnective> la presse.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32030" docOffset="232">
+      <en>It will surprise you <DiscourseConnective annotation_id="32051" sense="Temporal.Synchrony">when</DiscourseConnective> I say that I did exactly that.</en>
+      <fr>Je vous surprendrai en vous disant <DiscourseConnective annotation_id="37609">que</DiscourseConnective> c'est exactement ce que j'ai fait.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32087" docOffset="233">
+      <en>Just <Alignment alignment="4664" annotation_id="32092">
+          <DiscourseConnective annotation_id="32092" sense="Temporal.Synchrony">as</DiscourseConnective>
+        </Alignment> I do not think that what I have said here this evening in Parliament will make it into the European media, and particularly not the German media, <DiscourseConnective annotation_id="32241" sense="Contingency.Cause.Result">so</DiscourseConnective> my factual and, I thought, calm statement of the facts was not taken up by the German media.</en>
+      <fr>
+        <Alignment alignment="12560" annotation_id="37648">
+          <DiscourseConnective annotation_id="37648" sense="Temporal.Synchrony">Tout comme</DiscourseConnective>
+        </Alignment> je ne pense pas <DiscourseConnective annotation_id="37675">que</DiscourseConnective> les propos que je tiens ce soir devant ce Parlement seront relayés par les médias européens, <DiscourseConnective annotation_id="37772">et encore</DiscourseConnective> moins par les médias allemands, ma description objective <DiscourseConnective annotation_id="37839">et</DiscourseConnective>, selon moi, calme, des faits n'a pas été reprise par les médias allemands.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32337" docOffset="234">
+      <en>
+        <Alignment alignment="37922" annotation_id="32337">
+          <DiscourseConnective annotation_id="32337" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, I issued the necessary statement and explained the facts of the matter.</en>
+      <fr>J'ai <Alignment alignment="20111" annotation_id="37922">
+          <DiscourseConnective annotation_id="37922" sense="Comparison.Contrast">toutefois</DiscourseConnective>
+        </Alignment> fait les déclarations nécessaires <DiscourseConnective annotation_id="37966">et</DiscourseConnective> expliqué le fond de l'affaire.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32418" docOffset="235">
+      <en>I would be happy to provide you with the text.</en>
+      <fr>Je serais heureux de vous <DiscourseConnective annotation_id="38026">en</DiscourseConnective> livrer le texte.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32465" docOffset="236">
+      <en>Mrs Davidson, we have the most stringent legislation in the world.</en>
+      <fr>Madame Davidson, notre législation est la plus stricte du monde.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32532" docOffset="237">
+      <en>That is something we can take pride in.</en>
+      <fr>Nous pouvons en être fiers.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32572" docOffset="238">
+      <en>This Commission will not allow itself to be outdone by anyone in the world <DiscourseConnective annotation_id="32647" sense="Temporal.Synchrony">when</DiscourseConnective> it comes to providing the highest possible level of safety for toys.</en>
+      <fr>Cette Commission n'acceptera jamais de se laisser distancer par quiconque sur cette planète quant il <DiscourseConnective annotation_id="38240">s'</DiscourseConnective>agit d'assurer le plus haut niveau de sécurité possible <DiscourseConnective annotation_id="38298">pour</DiscourseConnective> les jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32721" docOffset="239">
+      <en>Mrs Schaldemose, I can only agree with you, and say that the responsibility of the Member States for market surveillance must not be called into question.</en>
+      <fr>Madame Schaldemose, je ne peux que vous donner raison: il n'est pas question de contester la responsabilité des États membres <DiscourseConnective annotation_id="38441">pour</DiscourseConnective> ce qui est de la surveillance du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32876" docOffset="240">
+      <en>I agree with you entirely that the question of implementation is crucial here.</en>
+      <fr>
+        <DiscourseConnective annotation_id="38487">Tout comme</DiscourseConnective> vous, je pense <DiscourseConnective annotation_id="38513">que</DiscourseConnective> la question de la mise en œuvre est ici décisive.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="32955" docOffset="241">
+      <en>In this regard, too, we have made appropriate preparations.</en>
+      <fr>Nous avons, sur ce point <DiscourseConnective annotation_id="38592">également</DiscourseConnective>, prévu les aménagements nécessaires.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33015" docOffset="242">
+      <en>The last question from Mrs Hedh is a very important one.</en>
+      <fr>La dernière question posée par Mme Hedh revêt une grande importance.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33072" docOffset="243">
+      <en>With regard to the standards for different areas, you mentioned two examples, one of them being sources of noise.</en>
+      <fr>Vous avez mentionné deux exemples de normes adoptées dans des domaines différents. L'un d'eux concernait les sources de bruit.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33186" docOffset="244">
+      <en>The relevant instructions have been sent to the European standardisation organisations.</en>
+      <fr>Les organismes européens de normalisation ont reçu des instructions <DiscourseConnective annotation_id="38903">à</DiscourseConnective> ce niveau.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33274" docOffset="245">
+      <en>
+        <Alignment alignment="55211" annotation_id="33274">
+          <DiscourseConnective annotation_id="33274" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, for standards, it is no different than for other scientific work. You cannot expect them to be available in a week or in one, or indeed several, months.</en>
+      <fr>
+        <Alignment alignment="16968" annotation_id="38916">
+          <DiscourseConnective annotation_id="38916" sense="Comparison.Contrast">Mais</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="38921">comme pour</DiscourseConnective> les autres travaux scientifiques, vous ne pouvez pas demander aux travaux de normalisation d'aboutir en l'espace d'une semaine <DiscourseConnective annotation_id="39059">ou</DiscourseConnective> d'un, voire de plusieurs mois.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33436" docOffset="246">
+      <en>It takes time.</en>
+      <fr>Cela prend du temps.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33451" docOffset="247">
+      <en>
+        <Alignment alignment="3125" annotation_id="33451">
+          <DiscourseConnective annotation_id="33451" sense="Comparison.Contrast">However</DiscourseConnective>
+        </Alignment>, all of the standards that we have talked about are in progress and will be available in good time, <DiscourseConnective annotation_id="33559" sense="Expansion.Conjunction">and</DiscourseConnective> they will <Alignment alignment="39254" annotation_id="33573">
+          <DiscourseConnective annotation_id="33573" sense="Expansion.Conjunction">also</DiscourseConnective>
+        </Alignment> allow us to develop an exact comparability of the products and to strengthen market surveillance.</en>
+      <fr>
+        <Alignment alignment="11108" annotation_id="39114">
+          <DiscourseConnective annotation_id="39114" sense="Comparison.Contrast">Cependant</DiscourseConnective>
+        </Alignment>, toutes les normes dont nous avons parlé sont <DiscourseConnective annotation_id="39170">en</DiscourseConnective> cours d'élaboration <DiscourseConnective annotation_id="39193">et</DiscourseConnective> seront disponibles <DiscourseConnective annotation_id="39215">en</DiscourseConnective> temps voulu. Elles nous permettront <Alignment alignment="434" annotation_id="39254">
+          <DiscourseConnective annotation_id="39254" sense="Expansion.Conjunction">par ailleurs</DiscourseConnective>
+        </Alignment> d'établir une comparabilité précise entre les produits <DiscourseConnective annotation_id="39322">et</DiscourseConnective> de renforcer la surveillance du marché.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33676" docOffset="248">
+      <en>There is one last point I would like to address.</en>
+      <fr>
+        <DiscourseConnective annotation_id="39365">Enfin</DiscourseConnective>, je souhaiterais revenir sur un dernier point.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33725" docOffset="249">
+      <en>Baby seats, which have been mentioned here and with regard to which there have been some safety problems in the US, are not toys.</en>
+      <fr>Les lits pour enfants qui ont été mentionnés ici <DiscourseConnective annotation_id="39467">et</DiscourseConnective> qui ont fait l'objet de certains problèmes de sécurité aux États-Unis ne sont pas des jouets.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33855" docOffset="250">
+      <en>They do not, <Alignment alignment="15729" annotation_id="33868">
+          <DiscourseConnective annotation_id="33868" sense="Contingency.Cause.Result">therefore</DiscourseConnective>
+        </Alignment>, fall within the scope of the Toys Directive, but rather within that of the General Product Safety Directive.</en>
+      <fr>Ils n'entrent <Alignment alignment="15154" annotation_id="39578">
+          <DiscourseConnective annotation_id="39578" sense="Contingency.Cause.Result">donc</DiscourseConnective>
+        </Alignment> pas dans le champ d'application de la directive relative à la sécurité des jouets, <DiscourseConnective annotation_id="39666">mais</DiscourseConnective> dans celui de la directive relative à la sécurité générale des produits.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="33988" docOffset="251">
+      <en>We need not hide from the Americans in this regard.</en>
+      <fr>Nous n'avons pas à rougir devant les Américains <DiscourseConnective annotation_id="39792">en</DiscourseConnective> la matière.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34040" docOffset="252">
+      <en>The system that we have in Europe with regard to the general safety of products has continued to prove its worth over the last few years.</en>
+      <fr>Le régime assurant la sécurité générale des produits <DiscourseConnective annotation_id="39860">en</DiscourseConnective> Europe n'a pas cessé de démontrer sa valeur ces dernières années.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34178" docOffset="253">
+      <en>
+        <Alignment alignment="22292" annotation_id="34178">
+          <DiscourseConnective annotation_id="34178" sense="Contingency.Condition">If</DiscourseConnective>
+        </Alignment> unsafe products appear on the European market, we can now assume with a degree of certainty that all the other Member States and the Commission will, <Alignment alignment="40128" annotation_id="34331">
+          <DiscourseConnective annotation_id="34331" sense="Expansion.Restatement">in fact</DiscourseConnective>
+        </Alignment>, be informed about them <Alignment alignment="69839" annotation_id="34363">
+          <DiscourseConnective annotation_id="34363" sense="Expansion.Conjunction">and</DiscourseConnective>
+        </Alignment> that the appropriate steps will <DiscourseConnective annotation_id="34399" sense="Expansion.Conjunction">also</DiscourseConnective> then be taken.</en>
+      <fr>
+        <Alignment alignment="14566" annotation_id="39929">
+          <DiscourseConnective annotation_id="39929" sense="Contingency.Condition">Si</DiscourseConnective>
+        </Alignment> des produits dangereux apparaissent sur le marché européen, nous pouvons <DiscourseConnective annotation_id="40005">maintenant</DiscourseConnective> avec un certain degré de certitude partir du principe <DiscourseConnective annotation_id="40070">que</DiscourseConnective> tous les autres États membres <DiscourseConnective annotation_id="40104">et</DiscourseConnective> la Commission seront <Alignment alignment="23340" annotation_id="40128">
+          <DiscourseConnective annotation_id="40128" sense="Expansion.Restatement">effectivement</DiscourseConnective>
+        </Alignment> informés de leur présence <Alignment alignment="30734" annotation_id="40168">
+          <DiscourseConnective annotation_id="40168" sense="Expansion.Conjunction">et</DiscourseConnective>
+        </Alignment> <DiscourseConnective annotation_id="40171">que</DiscourseConnective> les mesures nécessaires seront effectivement prises.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="34419" id="217" name="President">
+    <ParallelChunk annotation_id="34419" docOffset="254">
+      <en>The debate is closed.</en>
+      <fr>Le débat est clos.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34441" docOffset="255">
+      <en>Written statements (Rule 149)</en>
+      <fr>Déclarations écrites (article 149)</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="34471" id="994" name="Jim Higgins ">
+    <ParallelChunk annotation_id="34471" docOffset="256">
+      <en>in writing. - I welcome the fact that the new Directive 2009/48/EC on toy safety will come into force in 2011, <Alignment alignment="31590" annotation_id="34582">
+          <DiscourseConnective annotation_id="34582" sense="Comparison.Contrast">although</DiscourseConnective>
+        </Alignment> it is regrettable that the directive will not be in force for the Christmas 2010 period next year, <DiscourseConnective annotation_id="34690" sense="Temporal.Synchrony">when</DiscourseConnective> the majority of toys made or imported into the EU, are sold.</en>
+      <fr>par écrit. - (EN) Je me félicite <DiscourseConnective annotation_id="40315">du fait que</DiscourseConnective> la nouvelle directive 2009/48/CE relative à la sécurité des jouets entrera en vigueur <DiscourseConnective annotation_id="40413">en</DiscourseConnective> 2011, <Alignment alignment="582" annotation_id="40422">
+          <DiscourseConnective annotation_id="40422" sense="Comparison.Contrast">même si</DiscourseConnective>
+        </Alignment> l'on peut regretter <DiscourseConnective annotation_id="40450">qu'</DiscourseConnective>elle ne sera pas encore d'application <DiscourseConnective annotation_id="40491">pour</DiscourseConnective> la période de Noël 2010, époque de l'année où sont vendus la plupart des jouets fabriqués <DiscourseConnective annotation_id="40586">ou</DiscourseConnective> importés dans l'UE.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="34756" docOffset="257">
+      <en>I hope that Member States will see fit to transpose all elements of this important directive before the final deadline for implementation in order to give parents, as consumers, greater peace of mind.</en>
+      <fr>J'espère <DiscourseConnective annotation_id="40618">que</DiscourseConnective> les États membres jugeront bon de transposer tous les aspects de cette importante directive <DiscourseConnective annotation_id="40714">avant</DiscourseConnective> la date limite de mise en œuvre, <DiscourseConnective annotation_id="40753">de manière à</DiscourseConnective> offrir aux parents et aux consommateurs une plus grande quiétude.</fr>
+    </ParallelChunk>
+</Speaker>
+  <Speaker annotation_id="34957" id="993" language="PL" name="Artur Zasada ">
+    <ParallelChunk annotation_id="34957" docOffset="258">
+      <en>Taking the opportunity of this debate, I would like to draw attention to the need to improve the functioning of the European Union's register of consumer accidents, which anticipates, among other things, collection of information about fatalities and bodily injuries resulting from the use of various products intended for children.</en>
+      <fr>Je souhaiterais profiter de ce débat <DiscourseConnective annotation_id="40869">pour</DiscourseConnective> attirer l'attention sur la nécessité d'améliorer le fonctionnement du registre de l'UE des accidents dans lesquels sont impliqués des produits de consommation, qui prévoit, entre autres, la collecte d'informations au sujet des décès <DiscourseConnective annotation_id="41107">et</DiscourseConnective> blessures corporelles résultant de l'utilisation de divers produits destinés aux enfants.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35290" docOffset="259">
+      <en>The register should be an important element of the mechanism of the system for protecting consumers, including the youngest and most helpless.</en>
+      <fr>Le registre devrait être un rouage important du régime de protection des consommateurs et, parmi ceux-ci des plus jeunes <DiscourseConnective annotation_id="41321">et</DiscourseConnective> des plus fragiles.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35433" docOffset="260">
+      <en>Unfortunately, according to an expert from the Technical Committee on products for small children and toy safety of the Polish Committee for Standardisation, rapid exchange of information between Member States and the European Commission on products which pose a hazard, and steps taken <DiscourseConnective annotation_id="35720" sense="Expansion.Restatement">in particular</DiscourseConnective> countries to prevent or restrict their coming onto the market, is still not functioning satisfactorily.</en>
+      <fr>
+        <DiscourseConnective annotation_id="41343">Malheureusement</DiscourseConnective>, selon un expert du comité technique chargé des produits destinés aux petits enfants <DiscourseConnective annotation_id="41444">et</DiscourseConnective> de la sécurité des jouets au sein de la commission de normalisation polonaise, le fonctionnement du système d'échange rapide d'informations entre les États membres <DiscourseConnective annotation_id="41611">et</DiscourseConnective> la Commission sur les produits dangereux n'est toujours pas satisfaisant. De même, les mesures prises dans certains pays <DiscourseConnective annotation_id="41735">pour</DiscourseConnective> prévenir <DiscourseConnective annotation_id="41749">ou</DiscourseConnective> restreindre l'arrivée de ces produits sur le marché restent insuffisantes.</fr>
+    </ParallelChunk>
+<ParallelChunk annotation_id="35838" docOffset="261">
+      <en>I would like to ask that this matter be thoroughly investigated.</en>
+      <fr>Je souhaiterais demander une enquête approfondie sur la question.</fr>
+    </ParallelChunk>
+</Speaker>
+</DOCUMENT>
