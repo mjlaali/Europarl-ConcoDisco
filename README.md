@@ -1,8 +1,8 @@
 # Europarl ConcoDisco Dataset
 
-This repository contains the *ConcoDisco-Intersection* corpus [\[1\]](#markdown-header-references). Names of [XML files](https://bitbucket.org/mjlaali/europarl-concodisco/src/0ff1801dcba18d91d38025fffdb2e30d1acddca0/xml-files/?at=master) are the same as the name of Europarl files. Each XML file contains (for example [this XML file](https://bitbucket.org/mjlaali/europarl-concodisco/src/0ff1801dcba18d91d38025fffdb2e30d1acddca0/xml-files/ep-00-01-17.xml?at=master)) the text of English and French portation of the Europarl corpus, aligned using the [tools](http://www.statmt.org/europarl/v7/tools.tgz) provided along with the Europarl corpus. In addition to the Europarl annotations, English discourse connectives are automatically annotated using the CLaC discourse parser [\[2\]](#markdown-header-references). The result of annotation projection onto French texts (check [\[1\]](#markdown-header-references) for more details) are also annotated.
+This repository contains the *ConcoDisco-Intersection* corpus [\[1\]](#references). Names of [XML files](https://github.com/mjlaali/Europarl-ConcoDisco/tree/master/xml-files) are the same as the name of Europarl files. Each XML file contains (for example [this XML file](https://github.com/mjlaali/Europarl-ConcoDisco/blob/master/xml-files/ep-00-01-17.xml)) the text of English and French portation of the Europarl corpus, aligned using the [tools](http://www.statmt.org/europarl/v7/tools.tgz) provided along with the Europarl corpus. In addition to the Europarl annotations, English discourse connectives are automatically annotated using the CLaC discourse parser [\[2\]](#references). The result of annotation projection onto French texts (check [\[1\]](#references) for more details) are also annotated.
 
-More specifically, each pair of parallel sentences contains annotations of English discourse connectives (automatically marked by the CLaC discourse parser) and annotations of French candidate discourse connectives (as a result of annotation projection [\[1\]](#markdown-header-references)) encapsulated in *DiscourseConnective* XML elements. For French candidate discourse connectives, if *<DiscourseConnective ...>* does not indicate a sense, it means that the French candidate discourse connective is not used in a discourse usage (i.e. it was aligned to an English text that does not signal a discourse relation). For example, considering these parallel sentences:
+More specifically, each pair of parallel sentences contains annotations of English discourse connectives (automatically marked by the CLaC discourse parser) and annotations of French candidate discourse connectives (as a result of annotation projection [\[1\]](#references)) encapsulated in *DiscourseConnective* XML elements. For French candidate discourse connectives, if *<DiscourseConnective ...>* does not indicate a sense, it means that the French candidate discourse connective is not used in a discourse usage (i.e. it was aligned to an English text that does not signal a discourse relation). For example, considering these parallel sentences:
 
 ```xml
     <ParallelSentences annotation_id="26" docOffset="1">
@@ -19,10 +19,16 @@ In these parallel sentences, *et* is translated to *and* (*Alignment* with the i
 
 # Downloading the Europarl ConcoDisco Dataset
 
-To download the dataset, please click on [this link](https://bitbucket.org/mjlaali/europarl-concodisco/get/0ff1801dcba1.zip).
+To download the dataset, please click on [this link](https://github.com/mjlaali/Europarl-ConcoDisco/archive/master.zip).
+
+# Viewing Annotations on your Browser
+
+To view annotations on your (as shown in the picture below), after downloading the dataset, drag and drop xml files inside [FireFox](https://www.mozilla.org/en-US/firefox/new/).
+
+![Demo on FireFox](https://github.com/mjlaali/Europarl-ConcoDisco/raw/master/browser-view.png)
 
 # Citation
-If you use this dataset, please cite this paper [\[1\]](#markdown-header-references).
+If you use this dataset, please cite this paper [\[1\]](#references).
 
 # References
 
