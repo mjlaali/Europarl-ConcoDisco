@@ -6,10 +6,10 @@ More specifically, each pair of parallel sentences contains annotations of Engli
 
 ```xml
     <ParallelSentences annotation_id="26" docOffset="1">
-      <en>I declare resumed the session of the European Parliament adjourned on Friday 17 December 1999, <Alignment alignment="Alignment-132" annotation_id="121">
+      <en>I declare resumed the session of the European Parliament adjourned on Friday 17 December 1999, <Alignment alignment="132" annotation_id="121">
           <DiscourseConnective annotation_id="121" sense="Expansion.Conjunction">and</DiscourseConnective>
         </Alignment> I would like once again to wish you a happy new year in the hope that you enjoyed a pleasant festive period.</en>
-      <fr>Je déclare reprise la session du Parlement européen qui avait été interrompue le vendredi 17 décembre dernier <Alignment alignment="Alignment-121" annotation_id="132">
+      <fr>Je déclare reprise la session du Parlement européen qui avait été interrompue le vendredi 17 décembre dernier <Alignment alignment="121" annotation_id="132">
           <DiscourseConnective annotation_id="132" sense="Expansion.Conjunction">et</DiscourseConnective>
         </Alignment> je vous renouvelle tous mes vux <DiscourseConnective annotation_id="167">en</DiscourseConnective> espérant <DiscourseConnective annotation_id="179">que</DiscourseConnective> vous avez passé de bonnes vacances.</fr>
     </ParallelSentences>
