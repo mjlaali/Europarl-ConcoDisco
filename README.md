@@ -23,7 +23,7 @@ To download the dataset, please click on [this link](https://github.com/mjlaali/
 
 # Viewing Annotations on your Browser
 
-To view annotations on your (as shown in the picture below), after downloading the dataset, drag and drop xml files inside [FireFox](https://www.mozilla.org/en-US/firefox/new/).
+To view annotations on your (as shown in the picture below), after downloading the dataset, drag and drop xml files in [FireFox](https://www.mozilla.org/en-US/firefox/new/) (Chrome and Safari browsers do not show annotations).
 
 ![Demo on FireFox](https://github.com/mjlaali/Europarl-ConcoDisco/raw/master/browser-view.png)
 
